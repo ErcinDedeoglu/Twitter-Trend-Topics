@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-12 07:16:40 UTC`
+📆 Last Updated: `2023-02-12 08:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 3 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 4 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 2 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 3 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 4 | [#BerlinWahlen2023](http://twitter.com/search?q=%23BerlinWahlen2023) | N/A |
 | 5 | [#RBLFCU](http://twitter.com/search?q=%23RBLFCU) | N/A |
-| 6 | [#daznfightclub](http://twitter.com/search?q=%23daznfightclub) | N/A |
-| 7 | [#fchhsv](http://twitter.com/search?q=%23fchhsv) | N/A |
-| 8 | [#scfvfb](http://twitter.com/search?q=%23scfvfb) | N/A |
-| 9 | [Wahllokale](http://twitter.com/search?q=Wahllokale) | N/A |
-| 10 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 15 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 18 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 19 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 20 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 21 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 22 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 23 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 25 | [Zagadou](http://twitter.com/search?q=Zagadou) | N/A |
-| 26 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 27 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 28 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 29 | [gesamtschule](http://twitter.com/search?q=gesamtschule) | N/A |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [Vorübergehend](http://twitter.com/search?q=Vor%c3%bcbergehend) | N/A |
-| 32 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 33 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 34 | [samstagabend](http://twitter.com/search?q=samstagabend) | N/A |
-| 35 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 36 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 37 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 38 | [benes](http://twitter.com/search?q=benes) | N/A |
-| 39 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
-| 40 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 41 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
-| 42 | [Visa](http://twitter.com/search?q=Visa) | N/A |
-| 43 | [julian brandt](http://twitter.com/search?q=julian+brandt) | N/A |
-| 44 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 45 | [pfeiffer](http://twitter.com/search?q=pfeiffer) | N/A |
-| 46 | [GNABRY](http://twitter.com/search?q=GNABRY) | N/A |
-| 47 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 48 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 49 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
-| 50 | [frau käßmann](http://twitter.com/search?q=frau+k%c3%a4%c3%9fmann) | N/A |
+| 6 | [#fchhsv](http://twitter.com/search?q=%23fchhsv) | N/A |
+| 7 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 8 | [#SCFVfB](http://twitter.com/search?q=%23SCFVfB) | N/A |
+| 9 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 10 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 11 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
+| 12 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 14 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 15 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 16 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 19 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
+| 20 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
+| 21 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 22 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 24 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 25 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 26 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 27 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 28 | [Liebe Berliner](http://twitter.com/search?q=Liebe+Berliner) | N/A |
+| 29 | [sonneborn](http://twitter.com/search?q=sonneborn) | N/A |
+| 30 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 31 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 32 | [Zagadou](http://twitter.com/search?q=Zagadou) | N/A |
+| 33 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 34 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 35 | [guten morgen daggi](http://twitter.com/search?q=guten+morgen+daggi) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 38 | [Pannen](http://twitter.com/search?q=Pannen) | N/A |
+| 39 | [Visa](http://twitter.com/search?q=Visa) | N/A |
+| 40 | [Wiederholungswahl](http://twitter.com/search?q=Wiederholungswahl) | N/A |
+| 41 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 42 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 43 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 44 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 45 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 46 | [Julian Brandt](http://twitter.com/search?q=Julian+Brandt) | N/A |
+| 47 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 48 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 49 | [GNABRY](http://twitter.com/search?q=GNABRY) | N/A |
+| 50 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
 
 
 

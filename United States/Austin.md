@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-12 07:16:29 UTC`
+📆 Last Updated: `2023-02-12 08:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 2 | [Wood](http://twitter.com/search?q=Wood) | N/A |
 | 3 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 4 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 5 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
 | 7 | [McGee](http://twitter.com/search?q=McGee) | N/A |
-| 8 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 9 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 10 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 12 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 13 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 14 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 15 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 16 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 17 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 18 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 19 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 20 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 8 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 10 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 11 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 13 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 14 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 15 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 16 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 17 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 18 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 19 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 20 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 21 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 22 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 22 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
 | 23 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
 | 24 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
 | 25 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
-| 26 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 26 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
 | 27 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 28 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 29 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 30 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 31 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 32 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 33 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 34 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 35 | [#VargasFoster](http://twitter.com/search?q=%23VargasFoster) | N/A |
-| 36 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 37 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
-| 38 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
+| 28 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 30 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 31 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 32 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 33 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 34 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 35 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 36 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 37 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
+| 38 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
 | 39 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 40 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 41 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 42 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 43 | [Crute](http://twitter.com/search?q=Crute) | N/A |
-| 44 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 45 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
-| 46 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 47 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
-| 48 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 49 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 50 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
+| 40 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 41 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 42 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
+| 43 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
+| 44 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
+| 45 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 46 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 47 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
+| 48 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 49 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 50 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
 
 
 

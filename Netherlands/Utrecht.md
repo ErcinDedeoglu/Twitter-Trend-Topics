@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-12 07:16:05 UTC`
+📆 Last Updated: `2023-02-12 08:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,33 +15,33 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
-| 3 | [#groen](http://twitter.com/search?q=%23groen) | N/A |
-| 4 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 5 | [#WIDM](http://twitter.com/search?q=%23WIDM) | N/A |
-| 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 7 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 2 | [#groen](http://twitter.com/search?q=%23groen) | N/A |
+| 3 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
+| 4 | [#spreeuw](http://twitter.com/search?q=%23spreeuw) | N/A |
+| 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 6 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
+| 7 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 8 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 9 | [jurre](http://twitter.com/search?q=jurre) | N/A |
-| 10 | [Zondag](http://twitter.com/search?q=Zondag) | N/A |
+| 9 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 10 | [jurre](http://twitter.com/search?q=jurre) | N/A |
 | 11 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 12 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 13 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 14 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 15 | [anke](http://twitter.com/search?q=anke) | N/A |
-| 16 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 13 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 14 | [anke](http://twitter.com/search?q=anke) | N/A |
+| 15 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 16 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 17 | [radboud](http://twitter.com/search?q=radboud) | N/A |
 | 18 | [Elisabeth](http://twitter.com/search?q=Elisabeth) | N/A |
-| 19 | [dag 11](http://twitter.com/search?q=dag+11) | N/A |
-| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
-| 23 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
-| 24 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 25 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 26 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 27 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 19 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 20 | [dag 11](http://twitter.com/search?q=dag+11) | N/A |
+| 21 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 24 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
+| 25 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 26 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 27 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
 | 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 29 | [Metz](http://twitter.com/search?q=Metz) | N/A |
 | 30 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
@@ -49,21 +49,21 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 33 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
 | 34 | [suslov](http://twitter.com/search?q=suslov) | N/A |
-| 35 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 36 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
-| 37 | [Memento Rob](http://twitter.com/search?q=Memento+Rob) | N/A |
+| 35 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
+| 36 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 37 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
 | 38 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 39 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
-| 40 | [daniël](http://twitter.com/search?q=dani%c3%abl) | N/A |
-| 41 | [sven hulleman](http://twitter.com/search?q=sven+hulleman) | N/A |
-| 42 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 43 | [Foor](http://twitter.com/search?q=Foor) | N/A |
+| 39 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 40 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 41 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
+| 42 | [daniël](http://twitter.com/search?q=dani%c3%abl) | N/A |
+| 43 | [sven hulleman](http://twitter.com/search?q=sven+hulleman) | N/A |
 | 44 | [Youp](http://twitter.com/search?q=Youp) | N/A |
-| 45 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 46 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 47 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 48 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
-| 49 | [Fortuna Sittard](http://twitter.com/search?q=Fortuna+Sittard) | N/A |
+| 45 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
+| 46 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 47 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 48 | [foor](http://twitter.com/search?q=foor) | N/A |
+| 49 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
 
 
 

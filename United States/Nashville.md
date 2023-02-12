@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-12 07:16:34 UTC`
+📆 Last Updated: `2023-02-12 08:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [United States](</United States>)
 | 6 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 7 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
 | 8 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 9 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 10 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 11 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 12 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 13 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
-| 14 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 15 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 16 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 17 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 18 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 19 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 20 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 21 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 22 | [#VargasFoster](http://twitter.com/search?q=%23VargasFoster) | N/A |
-| 23 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 9 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 10 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 11 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 12 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 13 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 14 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 15 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 16 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
+| 17 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 18 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 19 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 20 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 21 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 22 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 23 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
 | 24 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 25 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 26 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
-| 27 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
-| 28 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 29 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 30 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 25 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 26 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 27 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 28 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
+| 29 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 30 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
 | 31 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 32 | [Crute](http://twitter.com/search?q=Crute) | N/A |
-| 33 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 32 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 33 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
 | 34 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
-| 35 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 36 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
-| 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 38 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 39 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
-| 40 | [The UFC](http://twitter.com/search?q=The+UFC) | N/A |
-| 41 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 42 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 43 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
-| 44 | [Randy Brown](http://twitter.com/search?q=Randy+Brown) | N/A |
-| 45 | [The 49-46](http://twitter.com/search?q=The+49-46) | N/A |
-| 46 | [Jens Pulver](http://twitter.com/search?q=Jens+Pulver) | N/A |
-| 47 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 48 | [Nicole May](http://twitter.com/search?q=Nicole+May) | N/A |
-| 49 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 50 | [Justin Tafa](http://twitter.com/search?q=Justin+Tafa) | N/A |
+| 35 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
+| 36 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 37 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 38 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
+| 39 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 40 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 41 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 42 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 43 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 44 | [the ufc](http://twitter.com/search?q=the+ufc) | N/A |
+| 45 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 46 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 47 | [The 49-46](http://twitter.com/search?q=The+49-46) | N/A |
+| 48 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 49 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 50 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
 
 
 

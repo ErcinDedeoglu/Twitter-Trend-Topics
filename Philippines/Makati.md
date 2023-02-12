@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-12 07:16:15 UTC`
+📆 Last Updated: `2023-02-12 08:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 2 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
-| 3 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 4 | [#ILoveASAP](http://twitter.com/search?q=%23ILoveASAP) | N/A |
-| 5 | [GirlPowerKantahan WithBelle](http://twitter.com/search?q=GirlPowerKantahan+WithBelle) | N/A |
-| 6 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
-| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 8 | [#AOSLovesYou](http://twitter.com/search?q=%23AOSLovesYou) | N/A |
-| 9 | [TXT AT INKIGAYO](http://twitter.com/search?q=TXT+AT+INKIGAYO) | TXT AT INKIGAYO is a hashtag used by fans of the South Korean boy band TXT (Tomorrow X Together) to show their support for the group's appearances on the South Korean music show Inkigayo. The hashtag is used to encourage viewers to watch and vote for TXT on the show. In English, it means "Support TXT on Inkigayo". |
-| 10 | [ANJI ARAMBULO LIVE](http://twitter.com/search?q=ANJI+ARAMBULO+LIVE) | N/A |
+| 1 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
+| 2 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 3 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 4 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
+| 5 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
+| 6 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 7 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 8 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 9 | [GirlPowerKantahan WithBelle](http://twitter.com/search?q=GirlPowerKantahan+WithBelle) | N/A |
+| 10 | [Pa'no Ka Ginawa](http://twitter.com/search?q=Pa%27no+Ka+Ginawa) | N/A |
 | 11 | [FILAY OnAOS](http://twitter.com/search?q=FILAY+OnAOS) | N/A |
-| 12 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 13 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 14 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
-| 15 | [KODREA FEBIBIG ON IWANTASAP](http://twitter.com/search?q=KODREA+FEBIBIG+ON+IWANTASAP) | N/A |
-| 16 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 12 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 13 | [ANJI ARAMBULO LIVE](http://twitter.com/search?q=ANJI+ARAMBULO+LIVE) | N/A |
+| 14 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 15 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
+| 16 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 17 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
-| 18 | [BIRTHDAY NA NI ZEPHANIE](http://twitter.com/search?q=BIRTHDAY+NA+NI+ZEPHANIE) | N/A |
-| 19 | [JULIEVERse LovesYou](http://twitter.com/search?q=JULIEVERse+LovesYou) | N/A |
+| 18 | [KODREA FEBIBIG ON IWANTASAP](http://twitter.com/search?q=KODREA+FEBIBIG+ON+IWANTASAP) | N/A |
+| 19 | [BIRTHDAY NA NI ZEPHANIE](http://twitter.com/search?q=BIRTHDAY+NA+NI+ZEPHANIE) | N/A |
 | 20 | [SEE U](http://twitter.com/search?q=SEE+U) | N/A |
-| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 21 | [Leeteuk](http://twitter.com/search?q=Leeteuk) | N/A |
 | 22 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
-| 23 | [AsapOPM WithLOISA](http://twitter.com/search?q=AsapOPM+WithLOISA) | N/A |
-| 24 | [LOVEan JM YOSURES](http://twitter.com/search?q=LOVEan+JM+YOSURES) | N/A |
-| 25 | [Leeteuk](http://twitter.com/search?q=Leeteuk) | N/A |
-| 26 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 27 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 28 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 29 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 30 | [Stays](http://twitter.com/search?q=Stays) | N/A |
-| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 32 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 33 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 34 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 35 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 36 | [#SundayWithMCYeonjun](http://twitter.com/search?q=%23SundayWithMCYeonjun) | N/A |
-| 37 | [#MANIAC_SKZ](http://twitter.com/search?q=%23MANIAC_SKZ) | N/A |
-| 38 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 39 | [#MANIACinMNL](http://twitter.com/search?q=%23MANIACinMNL) | N/A |
-| 40 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
-| 41 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
-| 42 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 43 | [#JMYosuresOnASAP](http://twitter.com/search?q=%23JMYosuresOnASAP) | N/A |
-| 44 | [#DreamscapeORVPH](http://twitter.com/search?q=%23DreamscapeORVPH) | N/A |
-| 45 | [#KiNji](http://twitter.com/search?q=%23KiNji) | N/A |
-| 46 | [#MayWard](http://twitter.com/search?q=%23MayWard) | N/A |
-| 47 | [#BOYCOTTTuloyTBADNLaban704](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban704) | N/A |
-| 48 | [#LoisaAndalio](http://twitter.com/search?q=%23LoisaAndalio) | N/A |
-| 49 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 50 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 24 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 25 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 26 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 27 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 28 | [Stays](http://twitter.com/search?q=Stays) | N/A |
+| 29 | [FreenBecky](http://twitter.com/search?q=FreenBecky) | N/A |
+| 30 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 32 | [#ILoveASAP](http://twitter.com/search?q=%23ILoveASAP) | N/A |
+| 33 | [#AOSLovesYou](http://twitter.com/search?q=%23AOSLovesYou) | N/A |
+| 34 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
+| 35 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
+| 36 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 37 | [#GimmeMoreHearts](http://twitter.com/search?q=%23GimmeMoreHearts) | N/A |
+| 38 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
+| 39 | [#MANIAC_SKZ](http://twitter.com/search?q=%23MANIAC_SKZ) | N/A |
+| 40 | [#MANIACinMNL](http://twitter.com/search?q=%23MANIACinMNL) | N/A |
+| 41 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 42 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
+| 43 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
+| 44 | [#BOYCOTTTuloyTBADNLaban704](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban704) | N/A |
+| 45 | [#DreamscapeORVPH](http://twitter.com/search?q=%23DreamscapeORVPH) | N/A |
+| 46 | [#KiNji](http://twitter.com/search?q=%23KiNji) | N/A |
+| 47 | [#환영해아이브첫팬콘](http://twitter.com/search?q=%23%ed%99%98%ec%98%81%ed%95%b4%ec%95%84%ec%9d%b4%eb%b8%8c%ec%b2%ab%ed%8c%ac%ec%bd%98) | N/A |
 
 
 

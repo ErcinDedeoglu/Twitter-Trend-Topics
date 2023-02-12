@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-12 07:16:35 UTC`
+📆 Last Updated: `2023-02-12 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 1 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 5 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 4 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 6 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 7 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 8 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 9 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 10 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 11 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 12 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 9 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 11 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 12 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
 | 13 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 14 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 15 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 16 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 17 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
-| 18 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 19 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 20 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 15 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 16 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 17 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 18 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
+| 19 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 20 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
 | 21 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 22 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 22 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 | 23 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 24 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 25 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 26 | [#VargasFoster](http://twitter.com/search?q=%23VargasFoster) | N/A |
-| 27 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 28 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 29 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 25 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 26 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 27 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 28 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 29 | [Vando](http://twitter.com/search?q=Vando) | N/A |
 | 30 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
-| 31 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 32 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 33 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 34 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 35 | [Crute](http://twitter.com/search?q=Crute) | N/A |
-| 36 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 37 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
-| 38 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 39 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
-| 40 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 41 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 42 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
-| 43 | [The UFC](http://twitter.com/search?q=The+UFC) | N/A |
-| 44 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 45 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 46 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
-| 47 | [Randy Brown](http://twitter.com/search?q=Randy+Brown) | N/A |
-| 48 | [The 49-46](http://twitter.com/search?q=The+49-46) | N/A |
-| 49 | [Jens Pulver](http://twitter.com/search?q=Jens+Pulver) | N/A |
-| 50 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 31 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 32 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
+| 33 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 34 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 35 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
+| 36 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
+| 37 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
+| 38 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 39 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 40 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
+| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 42 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 43 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 44 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 45 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 46 | [the ufc](http://twitter.com/search?q=the+ufc) | N/A |
+| 47 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 48 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 49 | [The 49-46](http://twitter.com/search?q=The+49-46) | N/A |
+| 50 | [Crute](http://twitter.com/search?q=Crute) | N/A |
 
 
 

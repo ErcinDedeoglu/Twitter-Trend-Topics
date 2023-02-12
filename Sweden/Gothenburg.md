@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-12 07:16:07 UTC`
+📆 Last Updated: `2023-02-12 08:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,21 +16,21 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 3 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
-| 4 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
-| 5 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 6 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
+| 2 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
+| 3 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 4 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 5 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
+| 6 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 7 | [maria sur](http://twitter.com/search?q=maria+sur) | N/A |
-| 8 | [börje](http://twitter.com/search?q=b%c3%b6rje) | N/A |
-| 9 | [panetoz](http://twitter.com/search?q=panetoz) | N/A |
-| 10 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 11 | [Wiktoria](http://twitter.com/search?q=Wiktoria) | N/A |
+| 8 | [theoz](http://twitter.com/search?q=theoz) | N/A |
+| 9 | [WIKTORIA](http://twitter.com/search?q=WIKTORIA) | N/A |
+| 10 | [Börje Salming](http://twitter.com/search?q=B%c3%b6rje+Salming) | N/A |
+| 11 | [Panetoz](http://twitter.com/search?q=Panetoz) | N/A |
 | 12 | [jesper rönndahl](http://twitter.com/search?q=jesper+r%c3%b6nndahl) | N/A |
-| 13 | [Uje Brandelius](http://twitter.com/search?q=Uje+Brandelius) | N/A |
-| 14 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 15 | [Egyptson](http://twitter.com/search?q=Egyptson) | N/A |
-| 16 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 14 | [Egyptson](http://twitter.com/search?q=Egyptson) | N/A |
+| 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 16 | [Uje Brandelius](http://twitter.com/search?q=Uje+Brandelius) | N/A |
 | 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 18 | [pontus](http://twitter.com/search?q=pontus) | N/A |
 | 19 | [Dier](http://twitter.com/search?q=Dier) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [Sweden](</Sweden>)
 | 21 | [magnus carlsson](http://twitter.com/search?q=magnus+carlsson) | N/A |
 | 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 23 | [Tennessee Tears](http://twitter.com/search?q=Tennessee+Tears) | N/A |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 26 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 27 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 28 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 29 | [lööke](http://twitter.com/search?q=l%c3%b6%c3%b6ke) | N/A |
-| 30 | [grytan](http://twitter.com/search?q=grytan) | N/A |
-| 31 | [linda bengtzing](http://twitter.com/search?q=linda+bengtzing) | N/A |
-| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 33 | [bilan](http://twitter.com/search?q=bilan) | N/A |
-| 34 | [Farah](http://twitter.com/search?q=Farah) | N/A |
-| 35 | [Gävle](http://twitter.com/search?q=G%c3%a4vle) | N/A |
-| 36 | [hanna öberg](http://twitter.com/search?q=hanna+%c3%b6berg) | N/A |
-| 37 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 38 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 24 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 26 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 27 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 28 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 29 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 30 | [lööke](http://twitter.com/search?q=l%c3%b6%c3%b6ke) | N/A |
+| 31 | [Bilan](http://twitter.com/search?q=Bilan) | N/A |
+| 32 | [grytan](http://twitter.com/search?q=grytan) | N/A |
+| 33 | [Arla](http://twitter.com/search?q=Arla) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Farah](http://twitter.com/search?q=Farah) | N/A |
+| 36 | [Gävle](http://twitter.com/search?q=G%c3%a4vle) | N/A |
+| 37 | [hanna öberg](http://twitter.com/search?q=hanna+%c3%b6berg) | N/A |
+| 38 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 39 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 | 40 | [intersport](http://twitter.com/search?q=intersport) | N/A |
-| 41 | [fittja](http://twitter.com/search?q=fittja) | N/A |
-| 42 | [örjan](http://twitter.com/search?q=%c3%b6rjan) | N/A |
-| 43 | [vita hästen](http://twitter.com/search?q=vita+h%c3%a4sten) | N/A |
-| 44 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 45 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 46 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
-| 47 | [brynäs](http://twitter.com/search?q=bryn%c3%a4s) | N/A |
-| 48 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 49 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 41 | [Stefan](http://twitter.com/search?q=Stefan) | N/A |
+| 42 | [vita hästen](http://twitter.com/search?q=vita+h%c3%a4sten) | N/A |
+| 43 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 44 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 45 | [Johan Persson](http://twitter.com/search?q=Johan+Persson) | N/A |
+| 46 | [Linda Bengtzing](http://twitter.com/search?q=Linda+Bengtzing) | N/A |
+| 47 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
+| 48 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 49 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 
 
 
