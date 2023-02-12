@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-02-12 17:15:53 UTC`
+📆 Last Updated: `2023-02-12 18:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
 | 6 | [#SomosPasiónCaribe](http://twitter.com/search?q=%23SomosPasi%c3%b3nCaribe) | N/A |
 | 7 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 8 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 8 | [#ClubHipicoxTLT](http://twitter.com/search?q=%23ClubHipicoxTLT) | N/A |
 | 9 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 10 | [Vicente Campo Elías](http://twitter.com/search?q=Vicente+Campo+El%c3%adas) | N/A |
-| 11 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
-| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 13 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 14 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
-| 15 | [1814](http://twitter.com/search?q=1814) | N/A |
-| 16 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 17 | [Valores Humanos](http://twitter.com/search?q=Valores+Humanos) | N/A |
-| 18 | [Robert Redman](http://twitter.com/search?q=Robert+Redman) | N/A |
-| 19 | [José Antonio Abreu](http://twitter.com/search?q=Jos%c3%a9+Antonio+Abreu) | N/A |
-| 20 | [José Tomás Boves](http://twitter.com/search?q=Jos%c3%a9+Tom%c3%a1s+Boves) | N/A |
-| 21 | [Arturo Uslar Pietri](http://twitter.com/search?q=Arturo+Uslar+Pietri) | N/A |
-| 22 | [El 12](http://twitter.com/search?q=El+12) | N/A |
-| 23 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 25 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 26 | [Bassil Da Costa](http://twitter.com/search?q=Bassil+Da+Costa) | N/A |
-| 27 | [lunin](http://twitter.com/search?q=lunin) | N/A |
-| 28 | [Asamblea Constituyente](http://twitter.com/search?q=Asamblea+Constituyente) | N/A |
-| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [Hoy 12](http://twitter.com/search?q=Hoy+12) | N/A |
+| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 11 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 12 | [Vicente Campo Elías](http://twitter.com/search?q=Vicente+Campo+El%c3%adas) | N/A |
+| 13 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 14 | [Rafael Vidal](http://twitter.com/search?q=Rafael+Vidal) | N/A |
+| 15 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 16 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
+| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 18 | [Valores Humanos](http://twitter.com/search?q=Valores+Humanos) | N/A |
+| 19 | [El 12](http://twitter.com/search?q=El+12) | N/A |
+| 20 | [Robert Redman](http://twitter.com/search?q=Robert+Redman) | N/A |
+| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 22 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 23 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 24 | [Asamblea Constituyente](http://twitter.com/search?q=Asamblea+Constituyente) | N/A |
+| 25 | [José Tomás Boves](http://twitter.com/search?q=Jos%c3%a9+Tom%c3%a1s+Boves) | N/A |
+| 26 | [José Antonio Abreu](http://twitter.com/search?q=Jos%c3%a9+Antonio+Abreu) | N/A |
+| 27 | [1814](http://twitter.com/search?q=1814) | N/A |
+| 28 | [Arturo Uslar Pietri](http://twitter.com/search?q=Arturo+Uslar+Pietri) | N/A |
+| 29 | [Bassil Da Costa](http://twitter.com/search?q=Bassil+Da+Costa) | N/A |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 31 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
-| 32 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
+| 32 | [Enrique Lazo](http://twitter.com/search?q=Enrique+Lazo) | N/A |
 | 33 | [Francisco Tomás Morales](http://twitter.com/search?q=Francisco+Tom%c3%a1s+Morales) | N/A |
-| 34 | [Vencer](http://twitter.com/search?q=Vencer) | N/A |
-| 35 | [Enrique Lazo](http://twitter.com/search?q=Enrique+Lazo) | N/A |
-| 36 | [Henry Galue](http://twitter.com/search?q=Henry+Galue) | N/A |
-| 37 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 38 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 39 | [Cristo Redentor](http://twitter.com/search?q=Cristo+Redentor) | N/A |
-| 40 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 41 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
-| 42 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 43 | [Sascha](http://twitter.com/search?q=Sascha) | N/A |
-| 44 | [día del sociólogo](http://twitter.com/search?q=d%c3%ada+del+soci%c3%b3logo) | N/A |
-| 45 | [carlos ocariz](http://twitter.com/search?q=carlos+ocariz) | N/A |
-| 46 | [Gral](http://twitter.com/search?q=Gral) | N/A |
-| 47 | [carlos soublette](http://twitter.com/search?q=carlos+soublette) | N/A |
-| 48 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 49 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 50 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
+| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 35 | [Hoy 12](http://twitter.com/search?q=Hoy+12) | N/A |
+| 36 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
+| 37 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 38 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
+| 39 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
+| 40 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 41 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 42 | [Henry Galue](http://twitter.com/search?q=Henry+Galue) | N/A |
+| 43 | [Cristo Redentor](http://twitter.com/search?q=Cristo+Redentor) | N/A |
+| 44 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
+| 45 | [día del sociólogo](http://twitter.com/search?q=d%c3%ada+del+soci%c3%b3logo) | N/A |
+| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 47 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 48 | [Leones del Caracas](http://twitter.com/search?q=Leones+del+Caracas) | N/A |
+| 49 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
+| 50 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
 
 
 

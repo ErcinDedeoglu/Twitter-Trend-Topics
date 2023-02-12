@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-12 17:16:00 UTC`
+📆 Last Updated: `2023-02-12 18:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ltvsupernova](http://twitter.com/search?q=%23ltvsupernova) | N/A |
-| 2 | [Līdzjūtība](http://twitter.com/search?q=L%c4%abdzj%c5%abt%c4%abba) | N/A |
-| 3 | [SUDDEN LIGHTS](http://twitter.com/search?q=SUDDEN+LIGHTS) | N/A |
-| 4 | [Eirovīziju](http://twitter.com/search?q=Eirov%c4%abziju) | N/A |
+| 2 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
+| 3 | [Līdzjūtība](http://twitter.com/search?q=L%c4%abdzj%c5%abt%c4%abba) | N/A |
+| 4 | [eirovīziju](http://twitter.com/search?q=eirov%c4%abziju) | N/A |
 | 5 | [Markus Riva](http://twitter.com/search?q=Markus+Riva) | N/A |
 | 6 | [Raum](http://twitter.com/search?q=Raum) | N/A |
 | 7 | [liverpūli](http://twitter.com/search?q=liverp%c5%abli) | N/A |
-| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 9 | ["Aijā"](http://twitter.com/search?q=%22Aij%c4%81%22) | N/A |
-| 10 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
-| 11 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 12 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
-| 13 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
-| 14 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 15 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 16 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 17 | [Labi](http://twitter.com/search?q=Labi) | N/A |
-| 18 | [Āgenskalna](http://twitter.com/search?q=%c4%80genskalna) | N/A |
-| 19 | [Viņai](http://twitter.com/search?q=Vi%c5%86ai) | N/A |
-| 20 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 21 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 8 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 9 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 10 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 11 | [Aijā](http://twitter.com/search?q=Aij%c4%81) | N/A |
+| 12 | [patrisha](http://twitter.com/search?q=patrisha) | N/A |
+| 13 | [Labi](http://twitter.com/search?q=Labi) | N/A |
+| 14 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 15 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
+| 16 | [Āgenskalna](http://twitter.com/search?q=%c4%80genskalna) | N/A |
+| 17 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 18 | [Viņai](http://twitter.com/search?q=Vi%c5%86ai) | N/A |
+| 19 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 20 | [Eiropu](http://twitter.com/search?q=Eiropu) | N/A |
+| 21 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
 | 22 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
-| 23 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
-| 24 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 25 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 26 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 23 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 24 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 25 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
+| 26 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
 | 27 | [lāčplēša](http://twitter.com/search?q=l%c4%81%c4%8dpl%c4%93%c5%a1a) | N/A |
-| 28 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
-| 29 | [vācija](http://twitter.com/search?q=v%c4%81cija) | N/A |
-| 30 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 31 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 32 | [Turcijas](http://twitter.com/search?q=Turcijas) | N/A |
-| 33 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 34 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
-| 35 | [#krievija](http://twitter.com/search?q=%23krievija) | N/A |
-| 36 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 37 | [esmu](http://twitter.com/search?q=esmu) | N/A |
-| 38 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
-| 39 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 40 | [Nesen](http://twitter.com/search?q=Nesen) | N/A |
-| 41 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 42 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 43 | [ceru](http://twitter.com/search?q=ceru) | N/A |
-| 44 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
-| 45 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
-| 46 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 47 | [vismaz](http://twitter.com/search?q=vismaz) | N/A |
-| 48 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
-| 49 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 50 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 28 | [vācija](http://twitter.com/search?q=v%c4%81cija) | N/A |
+| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 30 | [Darba](http://twitter.com/search?q=Darba) | N/A |
+| 31 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 32 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 33 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 34 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 35 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 36 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
+| 37 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 38 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 39 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
+| 40 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 41 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
+| 42 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
+| 43 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
+| 44 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 45 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 46 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 47 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
+| 48 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 49 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 50 | [Sīrijā](http://twitter.com/search?q=S%c4%abrij%c4%81) | N/A |
 
 
 
