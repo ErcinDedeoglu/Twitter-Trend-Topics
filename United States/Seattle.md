@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-02-12 16:17:30 UTC`
+📆 Last Updated: `2023-02-12 17:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 3 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 4 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
-| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 10 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 11 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 13 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 1 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 4 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 5 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
+| 6 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 7 | [#BNBTiger](http://twitter.com/search?q=%23BNBTiger) | N/A |
+| 8 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 11 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 14 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 17 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 21 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 22 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 23 | [Vic Fangio](http://twitter.com/search?q=Vic+Fangio) | N/A |
-| 24 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 25 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 26 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 28 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 29 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 30 | [Tecmo Bowl](http://twitter.com/search?q=Tecmo+Bowl) | N/A |
-| 31 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 32 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
-| 33 | [Kayce](http://twitter.com/search?q=Kayce) | N/A |
-| 34 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
-| 35 | [Baseball Stars](http://twitter.com/search?q=Baseball+Stars) | N/A |
-| 36 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 40 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
-| 41 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 42 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 43 | [Rep. Jim Jordan](http://twitter.com/search?q=Rep.+Jim+Jordan) | N/A |
+| 15 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
+| 16 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 18 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
+| 19 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
+| 20 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 21 | [Vic Fangio](http://twitter.com/search?q=Vic+Fangio) | N/A |
+| 22 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 23 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
+| 24 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 25 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
+| 26 | [Jeff Saturday](http://twitter.com/search?q=Jeff+Saturday) | Jeff Saturday is a former American football center who played in the National Football League (NFL) for 14 seasons. He is best known for his time with the Indianapolis Colts, with whom he won Super Bowl XLI over the Chicago Bears. The phrase "Jeff Saturday" is often used as a metaphor for teamwork and collaboration, as Saturday was known for his ability to work well with others on the field. |
+| 27 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 30 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 32 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 34 | [MATZ](http://twitter.com/search?q=MATZ) | N/A |
+| 35 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 36 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
+| 37 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
+| 38 | [Blades of Steel](http://twitter.com/search?q=Blades+of+Steel) | N/A |
+| 39 | [Baseball Stars](http://twitter.com/search?q=Baseball+Stars) | N/A |
+| 40 | [Tecmo Bowl](http://twitter.com/search?q=Tecmo+Bowl) | N/A |
+| 41 | [Kayce](http://twitter.com/search?q=Kayce) | N/A |
+| 42 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 43 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 44 | [SB Sunday](http://twitter.com/search?q=SB+Sunday) | N/A |
-| 45 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 46 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 47 | [Tyler Adams](http://twitter.com/search?q=Tyler+Adams) | N/A |
-| 48 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 49 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 50 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 45 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 46 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
+| 47 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
+| 48 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 49 | [RBI Baseball](http://twitter.com/search?q=RBI+Baseball) | N/A |
+| 50 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
 
 
 

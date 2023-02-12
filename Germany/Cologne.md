@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-12 16:16:58 UTC`
+📆 Last Updated: `2023-02-12 17:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,47 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BSCBMG](http://twitter.com/search?q=%23BSCBMG) | N/A |
-| 2 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 3 | [#SVDEBS](http://twitter.com/search?q=%23SVDEBS) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [#BerlinWahlen2023](http://twitter.com/search?q=%23BerlinWahlen2023) | N/A |
+| 2 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
+| 3 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
+| 4 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 5 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
 | 6 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 7 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
-| 8 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 10 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 11 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 12 | [Chromosomen](http://twitter.com/search?q=Chromosomen) | N/A |
-| 13 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 14 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 15 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 16 | [Wahlhelfer](http://twitter.com/search?q=Wahlhelfer) | N/A |
-| 17 | [Wahlurne](http://twitter.com/search?q=Wahlurne) | N/A |
-| 18 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 8 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 9 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 10 | [wahlbeteiligung](http://twitter.com/search?q=wahlbeteiligung) | N/A |
+| 11 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 13 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 14 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
+| 15 | [Chromosomen](http://twitter.com/search?q=Chromosomen) | N/A |
+| 16 | [Wahlurne](http://twitter.com/search?q=Wahlurne) | N/A |
+| 17 | [Wahlhelfer](http://twitter.com/search?q=Wahlhelfer) | N/A |
+| 18 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
 | 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 20 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 21 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
-| 22 | [Kreuze](http://twitter.com/search?q=Kreuze) | N/A |
-| 23 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
-| 24 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 25 | [Liebe Berliner](http://twitter.com/search?q=Liebe+Berliner) | N/A |
-| 26 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 27 | [#FCSPFCK](http://twitter.com/search?q=%23FCSPFCK) | N/A |
-| 28 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 29 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 30 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
-| 31 | [#F95SVS](http://twitter.com/search?q=%23F95SVS) | N/A |
-| 32 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
-| 33 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 34 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
-| 35 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 36 | [#Flugobjekt](http://twitter.com/search?q=%23Flugobjekt) | N/A |
-| 37 | [#UFOs](http://twitter.com/search?q=%23UFOs) | N/A |
-| 38 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 39 | [#Presseclub](http://twitter.com/search?q=%23Presseclub) | N/A |
-| 40 | [#HaltDieFresseBild](http://twitter.com/search?q=%23HaltDieFresseBild) | N/A |
+| 20 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 21 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 22 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 23 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 24 | [Kreuze](http://twitter.com/search?q=Kreuze) | N/A |
+| 25 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
+| 26 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 27 | [#AGH23](http://twitter.com/search?q=%23AGH23) | N/A |
+| 28 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 29 | [#Borussia](http://twitter.com/search?q=%23Borussia) | N/A |
+| 30 | [#SVDEBS](http://twitter.com/search?q=%23SVDEBS) | N/A |
+| 31 | [#FCSPFCK](http://twitter.com/search?q=%23FCSPFCK) | N/A |
+| 32 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 33 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
+| 34 | [#DieFohlen](http://twitter.com/search?q=%23DieFohlen) | N/A |
+| 35 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 36 | [#F95SVS](http://twitter.com/search?q=%23F95SVS) | N/A |
+| 37 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 38 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 39 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 40 | [#Flugobjekt](http://twitter.com/search?q=%23Flugobjekt) | N/A |
+| 41 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
+| 42 | [#HaltDieFresseBild](http://twitter.com/search?q=%23HaltDieFresseBild) | N/A |
 
 
 

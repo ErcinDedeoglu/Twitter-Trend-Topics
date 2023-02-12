@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-12 16:17:11 UTC`
+📆 Last Updated: `2023-02-12 17:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [discord id](http://twitter.com/search?q=discord+id) | N/A |
+| 1 | [Discord ID](http://twitter.com/search?q=Discord+ID) | N/A |
 | 2 | [#KimTaehyung](http://twitter.com/search?q=%23KimTaehyung) | N/A |
-| 3 | [TAE ÁO HỒNG LÀM ĐỘNG TIM ARMY](http://twitter.com/search?q=TAE+%c3%81O+H%e1%bb%92NG+L%c3%80M+%c4%90%e1%bb%98NG+TIM+ARMY) | N/A |
+| 3 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
 | 4 | [#방탄소년단뷔](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%eb%b7%94) | N/A |
-| 5 | [#BTSV](http://twitter.com/search?q=%23BTSV) | N/A |
-| 6 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 7 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 8 | [#tempestathma2022](http://twitter.com/search?q=%23tempestathma2022) | N/A |
+| 5 | [TAE ÁO HỒNG LÀM ĐỘNG TIM ARMY](http://twitter.com/search?q=TAE+%c3%81O+H%e1%bb%92NG+L%c3%80M+%c4%90%e1%bb%98NG+TIM+ARMY) | N/A |
+| 6 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 7 | [#BTSV](http://twitter.com/search?q=%23BTSV) | N/A |
+| 8 | [#safeflightgulftojp](http://twitter.com/search?q=%23safeflightgulftojp) | N/A |
 | 9 | [gulf to japan](http://twitter.com/search?q=gulf+to+japan) | N/A |
 | 10 | [ngón tay út của jimin ssi](http://twitter.com/search?q=ng%c3%b3n+tay+%c3%bat+c%e1%bb%a7a+jimin+ssi) | N/A |
 | 11 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 12 | [$GRAIL](http://twitter.com/search?q=%24GRAIL) | N/A |
 | 13 | [Mile](http://twitter.com/search?q=Mile) | N/A |
 | 14 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 15 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [MEW SUPPASIT 2023](http://twitter.com/search?q=MEW+SUPPASIT+2023) | N/A |
-| 18 | [Fort](http://twitter.com/search?q=Fort) | N/A |
-| 19 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
-| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 21 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
-| 22 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
-| 23 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
-| 24 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 25 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 26 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 27 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 28 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Babydoge](http://twitter.com/search?q=Babydoge) | N/A |
+| 16 | [MEW SUPPASIT 2023](http://twitter.com/search?q=MEW+SUPPASIT+2023) | N/A |
+| 17 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Fort](http://twitter.com/search?q=Fort) | N/A |
+| 20 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
+| 21 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
+| 24 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
+| 25 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
+| 26 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 27 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
 | 30 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 31 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 32 | [Tình](http://twitter.com/search?q=T%c3%acnh) | N/A |
-| 33 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
-| 34 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 37 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 38 | [Giải](http://twitter.com/search?q=Gi%e1%ba%a3i) | N/A |
-| 39 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 33 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 36 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
+| 37 | [giải](http://twitter.com/search?q=gi%e1%ba%a3i) | N/A |
+| 38 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 40 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
 | 41 | [HCMC](http://twitter.com/search?q=HCMC) | N/A |
-| 42 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 43 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 44 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 45 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
-| 46 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 47 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 48 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 49 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 42 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
+| 43 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 44 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 45 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
+| 46 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
+| 47 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 48 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 49 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 50 | [Trung](http://twitter.com/search?q=Trung) | N/A |
 
 
 

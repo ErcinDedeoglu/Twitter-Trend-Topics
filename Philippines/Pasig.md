@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-12 16:17:09 UTC`
+📆 Last Updated: `2023-02-12 17:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 2 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
-| 3 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 4 | [#ALDENmeetsMrM](http://twitter.com/search?q=%23ALDENmeetsMrM) | N/A |
-| 5 | [#TheUltimateDragExperience](http://twitter.com/search?q=%23TheUltimateDragExperience) | N/A |
-| 6 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
-| 7 | [#BOYCOTTTuloyTBADNLaban704](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban704) | N/A |
-| 8 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 1 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
+| 2 | [#TheUltimateDragExperience](http://twitter.com/search?q=%23TheUltimateDragExperience) | N/A |
+| 3 | [A'tin](http://twitter.com/search?q=A%27tin) | N/A |
+| 4 | [#DivineDivasLive2023](http://twitter.com/search?q=%23DivineDivasLive2023) | N/A |
+| 5 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
+| 6 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
+| 7 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 8 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
 | 9 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
 | 10 | [Winston](http://twitter.com/search?q=Winston) | N/A |
 | 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 | 12 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 13 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
-| 14 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 15 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 16 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 17 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 18 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 19 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
+| 13 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 14 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 15 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 16 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 17 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
+| 18 | [pharita is here](http://twitter.com/search?q=pharita+is+here) | N/A |
+| 19 | [Thad](http://twitter.com/search?q=Thad) | N/A |
 | 20 | [Rank 4](http://twitter.com/search?q=Rank+4) | N/A |
-| 21 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
-| 22 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
-| 23 | [Josh L](http://twitter.com/search?q=Josh+L) | N/A |
-| 24 | [Congrats Kim](http://twitter.com/search?q=Congrats+Kim) | N/A |
-| 25 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
-| 26 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
-| 27 | [MentorDARREN for DMFinale](http://twitter.com/search?q=MentorDARREN+for+DMFinale) | N/A |
-| 28 | [Odd Eye](http://twitter.com/search?q=Odd+Eye) | N/A |
-| 29 | [Solar](http://twitter.com/search?q=Solar) | N/A |
-| 30 | [Lovey Dovey](http://twitter.com/search?q=Lovey+Dovey) | N/A |
-| 31 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 32 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
-| 33 | [Jiro](http://twitter.com/search?q=Jiro) | N/A |
-| 34 | [DASH](http://twitter.com/search?q=DASH) | N/A |
+| 21 | [Solar](http://twitter.com/search?q=Solar) | N/A |
+| 22 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
+| 23 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 24 | [Josh L](http://twitter.com/search?q=Josh+L) | N/A |
+| 25 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
+| 26 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
+| 27 | [Congrats Kim](http://twitter.com/search?q=Congrats+Kim) | N/A |
+| 28 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
+| 29 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
+| 30 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 31 | [Lovey Dovey](http://twitter.com/search?q=Lovey+Dovey) | N/A |
+| 32 | [Jiro](http://twitter.com/search?q=Jiro) | N/A |
+| 33 | [DASH](http://twitter.com/search?q=DASH) | N/A |
+| 34 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
 | 35 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
 | 36 | [ALDENtheStar MrMtheStarMaker](http://twitter.com/search?q=ALDENtheStar+MrMtheStarMaker) | N/A |
 | 37 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 38 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 39 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 40 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 41 | [#DivineDivasLive2023](http://twitter.com/search?q=%23DivineDivasLive2023) | N/A |
-| 42 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
-| 43 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
-| 44 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
-| 45 | [#StylishMikkiDay](http://twitter.com/search?q=%23StylishMikkiDay) | N/A |
-| 46 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 47 | [#6YearsWithSpringDay](http://twitter.com/search?q=%236YearsWithSpringDay) | N/A |
-| 48 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
-| 49 | [#한_슼즈레코드](http://twitter.com/search?q=%23%ed%95%9c_%ec%8a%bc%ec%a6%88%eb%a0%88%ec%bd%94%eb%93%9c) | N/A |
+| 38 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
+| 39 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
+| 40 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
+| 41 | [#StylishMikkiDay](http://twitter.com/search?q=%23StylishMikkiDay) | N/A |
+| 42 | [#6YearsWithSpringDay](http://twitter.com/search?q=%236YearsWithSpringDay) | N/A |
+| 43 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 44 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
+| 45 | [#BGYO](http://twitter.com/search?q=%23BGYO) | N/A |
+| 46 | [#TheDebuntanteMNL](http://twitter.com/search?q=%23TheDebuntanteMNL) | N/A |
+| 47 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
+| 48 | [#한_슼즈레코드](http://twitter.com/search?q=%23%ed%95%9c_%ec%8a%bc%ec%a6%88%eb%a0%88%ec%bd%94%eb%93%9c) | N/A |
+| 49 | [#CrashCourseInRomanceEp10](http://twitter.com/search?q=%23CrashCourseInRomanceEp10) | N/A |
 
 
 
