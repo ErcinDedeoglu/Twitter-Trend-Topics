@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-12 22:16:47 UTC`
+📆 Last Updated: `2023-02-12 23:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliCremonese](http://twitter.com/search?q=%23NapoliCremonese) | #NapoliCremonese is a hashtag used to refer to the Italian football match between Napoli and Cremonese, which took place on April 28, 2019. The match ended in a 1-1 draw. |
-| 2 | [#dietrofestival](http://twitter.com/search?q=%23dietrofestival) | N/A |
-| 3 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
+| 2 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
+| 3 | [#dietrofestival](http://twitter.com/search?q=%23dietrofestival) | N/A |
 | 4 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 5 | [#JuveFiorentina](http://twitter.com/search?q=%23JuveFiorentina) | N/A |
+| 5 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
 | 6 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
 | 7 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 8 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 9 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
-| 10 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 11 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 12 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 13 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 14 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 15 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
+| 8 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 9 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 10 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 11 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 12 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
+| 13 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
+| 14 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 15 | [Kean](http://twitter.com/search?q=Kean) | N/A |
 | 16 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 17 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 18 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
-| 19 | [Castrovilli](http://twitter.com/search?q=Castrovilli) | N/A |
-| 20 | [Esteri](http://twitter.com/search?q=Esteri) | N/A |
-| 21 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 22 | [Fuorigioco](http://twitter.com/search?q=Fuorigioco) | N/A |
+| 17 | [Esteri](http://twitter.com/search?q=Esteri) | N/A |
+| 18 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 19 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 20 | [Castrovilli](http://twitter.com/search?q=Castrovilli) | N/A |
+| 21 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
+| 22 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 23 | [Arcore](http://twitter.com/search?q=Arcore) | N/A |
-| 24 | [Peugeot 205](http://twitter.com/search?q=Peugeot+205) | N/A |
-| 25 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 26 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 27 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 28 | [Palazzo Chigi](http://twitter.com/search?q=Palazzo+Chigi) | N/A |
-| 29 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 30 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 31 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 32 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
-| 33 | [Fedez e Rosa Chemical](http://twitter.com/search?q=Fedez+e+Rosa+Chemical) | N/A |
-| 34 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 35 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 36 | [#NonelArena](http://twitter.com/search?q=%23NonelArena) | N/A |
-| 37 | [#Elmas](http://twitter.com/search?q=%23Elmas) | N/A |
-| 38 | [#Kvaratskhelia](http://twitter.com/search?q=%23Kvaratskhelia) | N/A |
-| 39 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
-| 40 | [#Allegri](http://twitter.com/search?q=%23Allegri) | N/A |
-| 41 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
-| 42 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 43 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
-| 44 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 45 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 46 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 47 | [#Rabiot](http://twitter.com/search?q=%23Rabiot) | N/A |
-| 48 | [#PutinWarCriminal](http://twitter.com/search?q=%23PutinWarCriminal) | N/A |
-| 49 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
-| 50 | [#Commisso](http://twitter.com/search?q=%23Commisso) | N/A |
+| 24 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 25 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 26 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 27 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 28 | [Fedez e Rosa Chemical](http://twitter.com/search?q=Fedez+e+Rosa+Chemical) | N/A |
+| 29 | [#JuveFiorentina](http://twitter.com/search?q=%23JuveFiorentina) | N/A |
+| 30 | [#NonelArena](http://twitter.com/search?q=%23NonelArena) | N/A |
+| 31 | [#Kvaratskhelia](http://twitter.com/search?q=%23Kvaratskhelia) | N/A |
+| 32 | [#Elmas](http://twitter.com/search?q=%23Elmas) | N/A |
+| 33 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
+| 34 | [#Allegri](http://twitter.com/search?q=%23Allegri) | N/A |
+| 35 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 36 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
+| 37 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
+| 38 | [#Spalletti](http://twitter.com/search?q=%23Spalletti) | N/A |
+| 39 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 40 | [#PutinWarCriminal](http://twitter.com/search?q=%23PutinWarCriminal) | N/A |
+| 41 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
+| 42 | [#fuorioriana](http://twitter.com/search?q=%23fuorioriana) | N/A |
+| 43 | [#Commisso](http://twitter.com/search?q=%23Commisso) | N/A |
+| 44 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 45 | [#Italiano](http://twitter.com/search?q=%23Italiano) | N/A |
+| 46 | [#FORZAJUVE](http://twitter.com/search?q=%23FORZAJUVE) | N/A |
+| 47 | [#elezioniregionali](http://twitter.com/search?q=%23elezioniregionali) | N/A |
+| 48 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 49 | [#schifo](http://twitter.com/search?q=%23schifo) | N/A |
 
 
 

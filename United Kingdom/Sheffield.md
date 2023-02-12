@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-12 22:16:33 UTC`
+📆 Last Updated: `2023-02-12 23:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BrumHour](http://twitter.com/search?q=%23BrumHour) | N/A |
-| 2 | [#handmadehour](http://twitter.com/search?q=%23handmadehour) | N/A |
-| 3 | [Digne](http://twitter.com/search?q=Digne) | N/A |
-| 4 | [Ollie Watkins](http://twitter.com/search?q=Ollie+Watkins) | N/A |
-| 5 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 6 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 7 | [Mr Blobby](http://twitter.com/search?q=Mr+Blobby) | N/A |
-| 8 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
-| 9 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
-| 10 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 11 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 12 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 13 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 14 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 15 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 16 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 17 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 18 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 19 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 20 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 21 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 22 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 23 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 24 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 25 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 26 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 27 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
-| 28 | [Dami](http://twitter.com/search?q=Dami) | N/A |
-| 29 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 30 | [Kain](http://twitter.com/search?q=Kain) | N/A |
-| 31 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 32 | [Sister Monica Joan](http://twitter.com/search?q=Sister+Monica+Joan) | N/A |
-| 33 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 34 | [Thistle](http://twitter.com/search?q=Thistle) | N/A |
-| 35 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
-| 36 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 40 | [Ian McCall](http://twitter.com/search?q=Ian+McCall) | N/A |
-| 41 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 42 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 1 | [#TALKSWITHASH](http://twitter.com/search?q=%23TALKSWITHASH) | N/A |
+| 2 | [#diggingforbritain](http://twitter.com/search?q=%23diggingforbritain) | N/A |
+| 3 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 4 | [Patsy](http://twitter.com/search?q=Patsy) | N/A |
+| 5 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 6 | [#MCIAVL](http://twitter.com/search?q=%23MCIAVL) | N/A |
+| 7 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 8 | [Chambers](http://twitter.com/search?q=Chambers) | N/A |
+| 9 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 10 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 11 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 12 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 13 | [Mr Blobby](http://twitter.com/search?q=Mr+Blobby) | N/A |
+| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 15 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 16 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 17 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 18 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 19 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 20 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 21 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 22 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
+| 23 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 24 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 25 | [Tavistock](http://twitter.com/search?q=Tavistock) | N/A |
+| 26 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 27 | [North America](http://twitter.com/search?q=North+America) | N/A |
+| 28 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 29 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 30 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 31 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 32 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 33 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 34 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
+| 35 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 37 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 38 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 39 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 40 | [Dami](http://twitter.com/search?q=Dami) | N/A |
+| 41 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 42 | [Kain](http://twitter.com/search?q=Kain) | N/A |
 | 43 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 44 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 45 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 46 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 47 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
-| 48 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 49 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
+| 44 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 45 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 46 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 47 | [Sister Monica Joan](http://twitter.com/search?q=Sister+Monica+Joan) | N/A |
+| 48 | [Thistle](http://twitter.com/search?q=Thistle) | N/A |
+| 49 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-12 22:16:49 UTC`
+📆 Last Updated: `2023-02-12 23:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#LoDeEstopa](http://twitter.com/search?q=%23LoDeEstopa) | N/A |
 | 3 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 4 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 5 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 6 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 7 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 7 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
 | 8 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 9 | [Coquelin](http://twitter.com/search?q=Coquelin) | N/A |
-| 10 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 11 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 13 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 14 | [#SecretosFamilia12Feb](http://twitter.com/search?q=%23SecretosFamilia12Feb) | N/A |
-| 15 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 16 | [Pepe Reina](http://twitter.com/search?q=Pepe+Reina) | Pepe Reina is a Spanish professional footballer who plays as a goalkeeper for Italian club AC Milan. His name translates to "King Pepe" in English. |
-| 17 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 19 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
-| 20 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 9 | [#SecretosFamilia12Feb](http://twitter.com/search?q=%23SecretosFamilia12Feb) | N/A |
+| 10 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 11 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 12 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 13 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 14 | [Coquelin](http://twitter.com/search?q=Coquelin) | N/A |
+| 15 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 16 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 18 | [Pepe Reina](http://twitter.com/search?q=Pepe+Reina) | Pepe Reina is a Spanish professional footballer who plays as a goalkeeper for Italian club AC Milan. His name translates to "King Pepe" in English. |
+| 19 | [Yeremi Pino](http://twitter.com/search?q=Yeremi+Pino) | N/A |
+| 20 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 21 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 22 | [Yeremi Pino](http://twitter.com/search?q=Yeremi+Pino) | N/A |
-| 23 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
-| 24 | [Sito Alonso](http://twitter.com/search?q=Sito+Alonso) | N/A |
-| 25 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 22 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 23 | [Koundé](http://twitter.com/search?q=Kound%c3%a9) | N/A |
+| 24 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
+| 25 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 26 | [Vamos Barça](http://twitter.com/search?q=Vamos+Bar%c3%a7a) | N/A |
-| 27 | [Koundé](http://twitter.com/search?q=Kound%c3%a9) | N/A |
-| 28 | [Pau Torres](http://twitter.com/search?q=Pau+Torres) | N/A |
-| 29 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
-| 30 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 31 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
+| 27 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 28 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 29 | [Pau Torres](http://twitter.com/search?q=Pau+Torres) | N/A |
+| 30 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 31 | [Sito Alonso](http://twitter.com/search?q=Sito+Alonso) | N/A |
 | 32 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 33 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
-| 34 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 35 | [Parejo](http://twitter.com/search?q=Parejo) | Parejo is a Spanish word that means "even" or "equal". It is often used to describe something that is balanced, fair, or consistent. |
-| 36 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 37 | [Capoue](http://twitter.com/search?q=Capoue) | Capoue is a French word meaning "headdress" or "cap". It is used to refer to a type of traditional French headdress worn by women, usually made of velvet or silk and decorated with feathers, ribbons, and other adornments. |
-| 38 | [Huesca](http://twitter.com/search?q=Huesca) | N/A |
-| 39 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
-| 40 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 41 | [Setien](http://twitter.com/search?q=Setien) | Setien is a Spanish surname derived from the Latin word "Sextius", meaning "sixth". It is most commonly found in the Basque region of Spain. |
-| 42 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 43 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
-| 44 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
-| 45 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 46 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 47 | [Murcia](http://twitter.com/search?q=Murcia) | N/A |
-| 48 | [Ipurua](http://twitter.com/search?q=Ipurua) | N/A |
+| 33 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 34 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 35 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
+| 36 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 37 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 38 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 39 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 40 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
+| 41 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
+| 42 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 43 | [Capoue](http://twitter.com/search?q=Capoue) | Capoue is a French word meaning "headdress" or "cap". It is used to refer to a type of traditional French headdress worn by women, usually made of velvet or silk and decorated with feathers, ribbons, and other adornments. |
+| 44 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 45 | [Parejo](http://twitter.com/search?q=Parejo) | Parejo is a Spanish word that means "even" or "equal". It is often used to describe something that is balanced, fair, or consistent. |
+| 46 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 47 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
+| 48 | [Huesca](http://twitter.com/search?q=Huesca) | N/A |
 
 
 

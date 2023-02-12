@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-12 22:16:41 UTC`
+📆 Last Updated: `2023-02-12 23:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
-| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 3 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 4 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 5 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 6 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 7 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
-| 8 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 2 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 3 | [Alisson Santos](http://twitter.com/search?q=Alisson+Santos) | N/A |
+| 4 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 5 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 6 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 7 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 8 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 11 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 12 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 13 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 14 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 16 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 17 | [Barros](http://twitter.com/search?q=Barros) | N/A |
-| 18 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
-| 19 | [#Domingão](http://twitter.com/search?q=%23Doming%c3%a3o) | N/A |
-| 20 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
-| 21 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 22 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 23 | [#MeuCorreÉoTricolor](http://twitter.com/search?q=%23MeuCorre%c3%89oTricolor) | N/A |
-| 24 | [Avenida](http://twitter.com/search?q=Avenida) | Avenida is a Spanish word meaning "avenue" or "street". It is commonly used in Latin American countries to refer to a wide, main street or boulevard. |
-| 25 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 26 | [Fernando Fernandes](http://twitter.com/search?q=Fernando+Fernandes) | N/A |
-| 27 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 28 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 29 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 30 | [Lívia Andrade](http://twitter.com/search?q=L%c3%advia+Andrade) | N/A |
-| 31 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 32 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 33 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 34 | [filipe ret](http://twitter.com/search?q=filipe+ret) | N/A |
-| 35 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 36 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
-| 37 | [#cariocanaband](http://twitter.com/search?q=%23cariocanaband) | #Cariocanaband is a hashtag used to promote the Brazilian band Carioca. It is used to share news, updates, and music from the band. In English, it translates to "Carioca Band". |
-| 38 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 39 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 40 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 43 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 44 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 45 | [Guga](http://twitter.com/search?q=Guga) | N/A |
-| 46 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
-| 47 | [Carlos Miguel](http://twitter.com/search?q=Carlos+Miguel) | N/A |
-| 48 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
-| 49 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 50 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 10 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 11 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 12 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 13 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 14 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 15 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 16 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 17 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 18 | [Lucas Pires](http://twitter.com/search?q=Lucas+Pires) | Lucas Pires is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination". The surname Pires is derived from the Latin word pire, which means "rock". In English, Lucas Pires can be translated to mean "Light of the Rock". |
+| 19 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 20 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 21 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 22 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 23 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 24 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 25 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 26 | [#MeuCorreÉoTricolor](http://twitter.com/search?q=%23MeuCorre%c3%89oTricolor) | N/A |
+| 27 | [Wellington Rato](http://twitter.com/search?q=Wellington+Rato) | Wellington Rato is a Portuguese expression that literally translates to "Wellington Boot". It is used to describe someone who is clumsy or awkward. |
+| 28 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 29 | [#HOPEWEEKD1](http://twitter.com/search?q=%23HOPEWEEKD1) | N/A |
+| 30 | [BRAZIL IN THE BOX](http://twitter.com/search?q=BRAZIL+IN+THE+BOX) | N/A |
+| 31 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 32 | [Eguinaldo](http://twitter.com/search?q=Eguinaldo) | N/A |
+| 33 | [#cariocanaband](http://twitter.com/search?q=%23cariocanaband) | #Cariocanaband is a hashtag used to promote the Brazilian band Carioca. It is used to share news, updates, and music from the band. In English, it translates to "Carioca Band". |
+| 34 | [#FLUxVAS](http://twitter.com/search?q=%23FLUxVAS) | N/A |
+| 35 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 36 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 37 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 38 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 39 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 40 | [Barros](http://twitter.com/search?q=Barros) | N/A |
+| 41 | [PUSKAS](http://twitter.com/search?q=PUSKAS) | N/A |
+| 42 | [Araújo](http://twitter.com/search?q=Ara%c3%bajo) | N/A |
+| 43 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
+| 44 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 45 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 46 | [Pablo Maia](http://twitter.com/search?q=Pablo+Maia) | Pablo Maia is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "humble little one". |
+| 47 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 48 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 49 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 50 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
 
 
 

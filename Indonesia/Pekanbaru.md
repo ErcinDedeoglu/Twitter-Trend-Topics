@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-12 22:16:51 UTC`
+📆 Last Updated: `2023-02-12 23:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mudahdenganbtnmobile](http://twitter.com/search?q=%23mudahdenganbtnmobile) | N/A |
+| 1 | [#NKRIMajuPapuaSejahtera](http://twitter.com/search?q=%23NKRIMajuPapuaSejahtera) | N/A |
 | 2 | [#FreyanoTanjoubi](http://twitter.com/search?q=%23FreyanoTanjoubi) | N/A |
-| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 5 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 6 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
-| 7 | [Maaf](http://twitter.com/search?q=Maaf) | N/A |
-| 8 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 9 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 10 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 11 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 12 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
-| 13 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 14 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 15 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 3 | [#mudahdenganbtnmobile](http://twitter.com/search?q=%23mudahdenganbtnmobile) | N/A |
+| 4 | [#KPKLoyoKorupsiMerajalela](http://twitter.com/search?q=%23KPKLoyoKorupsiMerajalela) | N/A |
+| 5 | [Perjuangkan Syariah Kaffah](http://twitter.com/search?q=Perjuangkan+Syariah+Kaffah) | N/A |
+| 6 | [Hukum Allah Taktergantikan](http://twitter.com/search?q=Hukum+Allah+Taktergantikan) | N/A |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
+| 9 | [Maaf](http://twitter.com/search?q=Maaf) | N/A |
+| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 11 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 12 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 14 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
+| 15 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
 | 16 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
 | 17 | [adem sari sparkling](http://twitter.com/search?q=adem+sari+sparkling) | N/A |
 | 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 19 | [CLOY](http://twitter.com/search?q=CLOY) | N/A |
-| 20 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 21 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
-| 22 | [malam minggu](http://twitter.com/search?q=malam+minggu) | N/A |
-| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 21 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 22 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
+| 23 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
 | 24 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 25 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 26 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 27 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
-| 28 | [YOU DID WELL NCT 127](http://twitter.com/search?q=YOU+DID+WELL+NCT+127) | N/A |
-| 29 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 30 | [secret number 1000 days](http://twitter.com/search?q=secret+number+1000+days) | N/A |
-| 31 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 32 | [CHOI UNG](http://twitter.com/search?q=CHOI+UNG) | N/A |
+| 25 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 26 | [thank you nct 127](http://twitter.com/search?q=thank+you+nct+127) | N/A |
+| 27 | [you did well nct 127](http://twitter.com/search?q=you+did+well+nct+127) | N/A |
+| 28 | [secret number 1000 days](http://twitter.com/search?q=secret+number+1000+days) | N/A |
+| 29 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 30 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 32 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
 | 33 | [urus bola pake cinta](http://twitter.com/search?q=urus+bola+pake+cinta) | N/A |
 | 34 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 35 | [Diri](http://twitter.com/search?q=Diri) | N/A |
-| 36 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
-| 37 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 38 | [johnny black](http://twitter.com/search?q=johnny+black) | N/A |
+| 35 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 36 | [Diri](http://twitter.com/search?q=Diri) | N/A |
+| 37 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
+| 38 | [Meluk](http://twitter.com/search?q=Meluk) | N/A |
 | 39 | [Selawe](http://twitter.com/search?q=Selawe) | N/A |
-| 40 | [Meluk](http://twitter.com/search?q=Meluk) | N/A |
+| 40 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
 | 41 | [Singa](http://twitter.com/search?q=Singa) | N/A |
 | 42 | [budi doremi](http://twitter.com/search?q=budi+doremi) | N/A |
 | 43 | [GCMA THE FINAL FIGHT](http://twitter.com/search?q=GCMA+THE+FINAL+FIGHT) | N/A |
-| 44 | [ARMY RANGERS PARTY](http://twitter.com/search?q=ARMY+RANGERS+PARTY) | N/A |
-| 45 | [Semakin Kondusif](http://twitter.com/search?q=Semakin+Kondusif) | N/A |
-| 46 | [Kersen](http://twitter.com/search?q=Kersen) | N/A |
-| 47 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 48 | [tongkat ajaib](http://twitter.com/search?q=tongkat+ajaib) | N/A |
+| 44 | [Dukanya](http://twitter.com/search?q=Dukanya) | N/A |
+| 45 | [army rangers party](http://twitter.com/search?q=army+rangers+party) | N/A |
+| 46 | [Semakin Kondusif](http://twitter.com/search?q=Semakin+Kondusif) | N/A |
+| 47 | [tongkat ajaib](http://twitter.com/search?q=tongkat+ajaib) | N/A |
+| 48 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
 
 
 
