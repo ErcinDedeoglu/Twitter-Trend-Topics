@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-12 08:16:06 UTC`
+📆 Last Updated: `2023-02-12 09:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 1 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 2 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 3 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 4 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 5 | [Yair Rodriguez](http://twitter.com/search?q=Yair+Rodriguez) | N/A |
-| 6 | [#SCOvWAL](http://twitter.com/search?q=%23SCOvWAL) | N/A |
-| 7 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
-| 8 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 9 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 10 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 11 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 12 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 5 | [#SCOvWAL](http://twitter.com/search?q=%23SCOvWAL) | N/A |
+| 6 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
+| 7 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 8 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 9 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 10 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 11 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 12 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 13 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 14 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 14 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
 | 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 16 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 16 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
 | 17 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 18 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 19 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 20 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 21 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 22 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 23 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 26 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
-| 31 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 32 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 33 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 18 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 19 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 20 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 21 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Superbowl Sunday](http://twitter.com/search?q=Superbowl+Sunday) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 29 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 30 | [Amber Riley](http://twitter.com/search?q=Amber+Riley) | Amber Riley is an American actress, singer, and author. She is best known for her role as Mercedes Jones on the Fox musical comedy-drama series Glee. The name Amber Riley means "ruler of the sky" or "heavenly ruler". |
+| 31 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
+| 32 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
+| 33 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
 | 34 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
-| 35 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 36 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 37 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 38 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 39 | [Amber Riley](http://twitter.com/search?q=Amber+Riley) | Amber Riley is an American actress, singer, and author. She is best known for her role as Mercedes Jones on the Fox musical comedy-drama series Glee. The name Amber Riley means "ruler of the sky" or "heavenly ruler". |
-| 40 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 41 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 42 | [sam ryder](http://twitter.com/search?q=sam+ryder) | N/A |
-| 43 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
-| 44 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
-| 45 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 46 | [Richie Sambora](http://twitter.com/search?q=Richie+Sambora) | N/A |
-| 47 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 35 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 36 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 37 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 38 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 39 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
+| 40 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 41 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
+| 42 | [Sooty](http://twitter.com/search?q=Sooty) | N/A |
+| 43 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 44 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 45 | [Becky hill](http://twitter.com/search?q=Becky+hill) | N/A |
+| 46 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 47 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
 | 48 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
-| 49 | [Becky hill](http://twitter.com/search?q=Becky+hill) | N/A |
+| 49 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
 
 
 

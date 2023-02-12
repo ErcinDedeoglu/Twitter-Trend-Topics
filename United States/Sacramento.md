@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-12 08:16:52 UTC`
+📆 Last Updated: `2023-02-12 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 3 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 4 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 6 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 7 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 8 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 9 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 10 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 11 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 12 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 13 | [#TCMParty](http://twitter.com/search?q=%23TCMParty) | N/A |
-| 14 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 15 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 16 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 17 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 18 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 19 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 20 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 21 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 22 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 23 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 24 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 25 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 26 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 27 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 28 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 29 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 30 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 31 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 32 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 33 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 34 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 35 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 36 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 37 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 38 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 39 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 40 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
-| 41 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 42 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 43 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
-| 44 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 45 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
-| 46 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
-| 47 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 48 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
-| 49 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 50 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
+| 5 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 6 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 7 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 8 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 9 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 10 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 11 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 12 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 13 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 14 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 16 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 17 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 18 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 19 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
+| 20 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 21 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
+| 22 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 23 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 25 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 26 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 27 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 28 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 29 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 30 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
+| 31 | [Adrian Kempe](http://twitter.com/search?q=Adrian+Kempe) | N/A |
+| 32 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 33 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 34 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 35 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 36 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 37 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 38 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
+| 39 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 41 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 42 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 43 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 44 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 45 | [The UFC](http://twitter.com/search?q=The+UFC) | N/A |
+| 46 | [The 49-46](http://twitter.com/search?q=The+49-46) | N/A |
+| 47 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 48 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 49 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 50 | [Perth](http://twitter.com/search?q=Perth) | N/A |
 
 
 

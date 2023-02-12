@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-12 08:16:58 UTC`
+📆 Last Updated: `2023-02-12 09:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Italy
 | 3 | [#12febbraio](http://twitter.com/search?q=%2312febbraio) | N/A |
 | 4 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
 | 5 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 6 | [#RosaChemical](http://twitter.com/search?q=%23RosaChemical) | N/A |
+| 6 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
 | 7 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
 | 8 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
 | 9 | [#LecceRoma](http://twitter.com/search?q=%23LecceRoma) | N/A |
 | 10 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
-| 11 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 12 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 14 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 15 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
-| 16 | [achille lauro](http://twitter.com/search?q=achille+lauro) | N/A |
-| 17 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 18 | [codice 04](http://twitter.com/search?q=codice+04) | N/A |
-| 19 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
-| 20 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
-| 21 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 22 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
-| 23 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 24 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
-| 25 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 26 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
-| 27 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 28 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 29 | [cuccarini](http://twitter.com/search?q=cuccarini) | N/A |
-| 30 | [Franco Zeffirelli](http://twitter.com/search?q=Franco+Zeffirelli) | N/A |
-| 31 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
-| 32 | [Cozzolino](http://twitter.com/search?q=Cozzolino) | N/A |
-| 33 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 34 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 35 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 36 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 37 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 38 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 39 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 40 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 41 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
-| 42 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 43 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 44 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 45 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 46 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 47 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 48 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 11 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 12 | [#lazioatalanta](http://twitter.com/search?q=%23lazioatalanta) | N/A |
+| 13 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 14 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 15 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 16 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 17 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 18 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
+| 19 | [achille lauro](http://twitter.com/search?q=achille+lauro) | N/A |
+| 20 | [codice 04](http://twitter.com/search?q=codice+04) | N/A |
+| 21 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 22 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 23 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
+| 24 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
+| 25 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 26 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
+| 27 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
+| 28 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
+| 29 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 30 | [Cozzolino](http://twitter.com/search?q=Cozzolino) | N/A |
+| 31 | [cuccarini](http://twitter.com/search?q=cuccarini) | N/A |
+| 32 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 33 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 34 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 35 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 36 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 37 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 38 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
+| 39 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 40 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 41 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
+| 42 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 43 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
+| 44 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
+| 45 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 46 | [Giuseppe](http://twitter.com/search?q=Giuseppe) | N/A |
+| 47 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 50 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
+| 50 | [Meritatissimo](http://twitter.com/search?q=Meritatissimo) | N/A |
 
 
 

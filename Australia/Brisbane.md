@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-02-12 08:16:25 UTC`
+📆 Last Updated: `2023-02-12 09:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 3 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
-| 6 | [#MACvWEL](http://twitter.com/search?q=%23MACvWEL) | N/A |
-| 7 | [#NEWvMVC](http://twitter.com/search?q=%23NEWvMVC) | N/A |
-| 8 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 9 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 11 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 12 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
-| 13 | [Military Mission](http://twitter.com/search?q=Military+Mission) | N/A |
-| 14 | [Jacob Preston](http://twitter.com/search?q=Jacob+Preston) | N/A |
-| 15 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 16 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 17 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 18 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 19 | [Coorey](http://twitter.com/search?q=Coorey) | N/A |
-| 20 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
-| 21 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 22 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 25 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 26 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 27 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 28 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
-| 29 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 30 | [Tuncurry](http://twitter.com/search?q=Tuncurry) | N/A |
-| 31 | [The Inevitable](http://twitter.com/search?q=The+Inevitable) | N/A |
-| 32 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 33 | [Jimmy Crute](http://twitter.com/search?q=Jimmy+Crute) | N/A |
-| 34 | [Hobart Cup](http://twitter.com/search?q=Hobart+Cup) | N/A |
-| 35 | [doomben](http://twitter.com/search?q=doomben) | N/A |
-| 36 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 37 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 38 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 39 | [Maisie](http://twitter.com/search?q=Maisie) | N/A |
-| 40 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 41 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 42 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 43 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 44 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 45 | [Pele](http://twitter.com/search?q=Pele) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 48 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 49 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 50 | [Gentleman Roy](http://twitter.com/search?q=Gentleman+Roy) | N/A |
+| 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 4 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 5 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 6 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 7 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 8 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 9 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 10 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 11 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 12 | [#NEWvMVC](http://twitter.com/search?q=%23NEWvMVC) | N/A |
+| 13 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 14 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 15 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 16 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 17 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 18 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 19 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 20 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 21 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 22 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 23 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 24 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 25 | [Coorey](http://twitter.com/search?q=Coorey) | N/A |
+| 26 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
+| 27 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 28 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 29 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 32 | [Tuncurry](http://twitter.com/search?q=Tuncurry) | N/A |
+| 33 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 34 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 35 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 36 | [Jimmy Crute](http://twitter.com/search?q=Jimmy+Crute) | N/A |
+| 37 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
+| 38 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 39 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 40 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 41 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 42 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 43 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 44 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 45 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 46 | [The Inevitable](http://twitter.com/search?q=The+Inevitable) | N/A |
+| 47 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 48 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 49 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 50 | [Pele](http://twitter.com/search?q=Pele) | N/A |
 
 
 

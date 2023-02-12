@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-12 08:16:06 UTC`
+📆 Last Updated: `2023-02-12 09:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [#mascambioconluis](http://twitter.com/search?q=%23mascambioconluis) | N/A |
 | 2 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 3 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
+| 3 | [#seriedelcaribe2023](http://twitter.com/search?q=%23seriedelcaribe2023) | N/A |
 | 4 | [cesar valdez](http://twitter.com/search?q=cesar+valdez) | N/A |
 | 5 | [#yocreoensabanayegua](http://twitter.com/search?q=%23yocreoensabanayegua) | N/A |
 | 6 | [el glorioso](http://twitter.com/search?q=el+glorioso) | N/A |
@@ -25,9 +25,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 9 | [cap cana](http://twitter.com/search?q=cap+cana) | N/A |
 | 10 | [héctor acosta](http://twitter.com/search?q=h%c3%a9ctor+acosta) | N/A |
-| 11 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 12 | [monseñor nouel](http://twitter.com/search?q=monse%c3%b1or+nouel) | N/A |
-| 13 | [El Torito](http://twitter.com/search?q=El+Torito) | N/A |
+| 11 | [monseñor nouel](http://twitter.com/search?q=monse%c3%b1or+nouel) | N/A |
+| 12 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 13 | [el torito](http://twitter.com/search?q=el+torito) | N/A |
 | 14 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
 | 15 | [Leal](http://twitter.com/search?q=Leal) | N/A |
 | 16 | [Puerto Plata](http://twitter.com/search?q=Puerto+Plata) | N/A |
@@ -38,21 +38,21 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 21 | [guayubin](http://twitter.com/search?q=guayubin) | N/A |
 | 22 | [asencio](http://twitter.com/search?q=asencio) | N/A |
 | 23 | [Bob Esponja](http://twitter.com/search?q=Bob+Esponja) | N/A |
-| 24 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 25 | [villa altagracia](http://twitter.com/search?q=villa+altagracia) | N/A |
-| 26 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 27 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
-| 28 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 29 | [Leones](http://twitter.com/search?q=Leones) | N/A |
-| 30 | [monte cristi](http://twitter.com/search?q=monte+cristi) | N/A |
-| 31 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
-| 32 | [arriba rd](http://twitter.com/search?q=arriba+rd) | N/A |
+| 24 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 25 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
+| 26 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 27 | [Leones](http://twitter.com/search?q=Leones) | N/A |
+| 28 | [monte cristi](http://twitter.com/search?q=monte+cristi) | N/A |
+| 29 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 31 | [arriba rd](http://twitter.com/search?q=arriba+rd) | N/A |
+| 32 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
 | 33 | [itla](http://twitter.com/search?q=itla) | N/A |
-| 34 | [volker türk](http://twitter.com/search?q=volker+t%c3%bcrk) | N/A |
-| 35 | [Round Robin](http://twitter.com/search?q=Round+Robin) | N/A |
+| 34 | [Volker Türk](http://twitter.com/search?q=Volker+T%c3%bcrk) | N/A |
+| 35 | [round robin](http://twitter.com/search?q=round+robin) | N/A |
 | 36 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 37 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 38 | [ACNUR](http://twitter.com/search?q=ACNUR) | N/A |
+| 38 | [acnur](http://twitter.com/search?q=acnur) | N/A |
 | 39 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 40 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
 | 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
@@ -64,7 +64,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 47 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 48 | [Homero](http://twitter.com/search?q=Homero) | N/A |
 | 49 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 50 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
+| 50 | [de la cruz](http://twitter.com/search?q=de+la+cruz) | N/A |
 
 
 

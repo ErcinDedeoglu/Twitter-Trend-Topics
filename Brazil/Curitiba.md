@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-12 08:16:12 UTC`
+📆 Last Updated: `2023-02-12 09:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Jajá](http://twitter.com/search?q=Jaj%c3%a1) | N/A |
 | 2 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 3 | [#rainhas2023](http://twitter.com/search?q=%23rainhas2023) | N/A |
+| 3 | [vini jr](http://twitter.com/search?q=vini+jr) | N/A |
 | 4 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 5 | [#LivedoJon](http://twitter.com/search?q=%23LivedoJon) | N/A |
-| 6 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 7 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 8 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 9 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
-| 10 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 11 | [Volka](http://twitter.com/search?q=Volka) | N/A |
-| 12 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 13 | [Tuna](http://twitter.com/search?q=Tuna) | N/A |
-| 14 | [#gazetanafolia](http://twitter.com/search?q=%23gazetanafolia) | N/A |
-| 15 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 16 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 17 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 18 | [Peruche](http://twitter.com/search?q=Peruche) | N/A |
-| 19 | [Novo Império](http://twitter.com/search?q=Novo+Imp%c3%a9rio) | N/A |
-| 20 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 21 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 22 | [Duda Beat](http://twitter.com/search?q=Duda+Beat) | N/A |
-| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 25 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 26 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 27 | [Cris](http://twitter.com/search?q=Cris) | Cris is an abbreviation for the Spanish name Cristina. It is a feminine given name derived from the Latin name Christina, which means "follower of Christ" or "anointed one". |
-| 28 | [Renesmee](http://twitter.com/search?q=Renesmee) | N/A |
-| 29 | [matue](http://twitter.com/search?q=matue) | N/A |
-| 30 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 31 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 32 | [Chacrinha](http://twitter.com/search?q=Chacrinha) | N/A |
-| 33 | [russo](http://twitter.com/search?q=russo) | N/A |
-| 34 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 35 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
-| 36 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 37 | [Cirilo](http://twitter.com/search?q=Cirilo) | Cirilo is a Spanish name derived from the Latin name Cyrillus, which means "lordly". It is also a variant of the Greek name Kyrillos, which means "lord". In English, Cirilo can be translated to mean "lordly" or "noble". |
-| 38 | [Major RD](http://twitter.com/search?q=Major+RD) | N/A |
-| 39 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
-| 40 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 41 | [raffa moreira](http://twitter.com/search?q=raffa+moreira) | N/A |
-| 42 | [vanessa lopes](http://twitter.com/search?q=vanessa+lopes) | N/A |
-| 43 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 44 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 45 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 46 | [#TeamChevrolet](http://twitter.com/search?q=%23TeamChevrolet) | N/A |
-| 47 | [#madrugapers](http://twitter.com/search?q=%23madrugapers) | N/A |
-| 48 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
-| 49 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 50 | [#LoveToHateYou](http://twitter.com/search?q=%23LoveToHateYou) | N/A |
+| 5 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 6 | [#rainhas2023](http://twitter.com/search?q=%23rainhas2023) | N/A |
+| 7 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
+| 8 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
+| 9 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 10 | [#LivedoJon](http://twitter.com/search?q=%23LivedoJon) | N/A |
+| 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 13 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 14 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 18 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
+| 19 | [FECHADOS COM KEY](http://twitter.com/search?q=FECHADOS+COM+KEY) | N/A |
+| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 21 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 22 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 23 | [Volka](http://twitter.com/search?q=Volka) | N/A |
+| 24 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 25 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 26 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 29 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 30 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
+| 31 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 32 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 33 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 34 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 35 | [Tuna](http://twitter.com/search?q=Tuna) | N/A |
+| 36 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 37 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 38 | [jade no bdv](http://twitter.com/search?q=jade+no+bdv) | N/A |
+| 39 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 40 | [revisem essa prova](http://twitter.com/search?q=revisem+essa+prova) | N/A |
+| 41 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 42 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 45 | [santos pegou um pênalti](http://twitter.com/search?q=santos+pegou+um+p%c3%aanalti) | N/A |
+| 46 | [nattan no bbb](http://twitter.com/search?q=nattan+no+bbb) | N/A |
+| 47 | [russo](http://twitter.com/search?q=russo) | N/A |
+| 48 | [Jeon Jungkook](http://twitter.com/search?q=Jeon+Jungkook) | N/A |
+| 49 | [brasil de pelotas](http://twitter.com/search?q=brasil+de+pelotas) | N/A |
+| 50 | [ARRASCAETA](http://twitter.com/search?q=ARRASCAETA) | N/A |
 
 
 
