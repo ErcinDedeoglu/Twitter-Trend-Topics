@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-12 12:17:15 UTC`
+📆 Last Updated: `2023-02-12 13:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 2 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 3 | [VINI JR](http://twitter.com/search?q=VINI+JR) | N/A |
-| 4 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 5 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 6 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
-| 7 | [#rainhas2023](http://twitter.com/search?q=%23rainhas2023) | N/A |
-| 8 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [#superfeston](http://twitter.com/search?q=%23superfeston) | N/A |
-| 12 | [#flaxalh](http://twitter.com/search?q=%23flaxalh) | N/A |
-| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 15 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 16 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 19 | [fechados com key](http://twitter.com/search?q=fechados+com+key) | N/A |
-| 20 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 21 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 22 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 23 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 24 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 25 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 26 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
-| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 4 | [VINI JR](http://twitter.com/search?q=VINI+JR) | N/A |
+| 5 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 6 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 7 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
+| 8 | [#CampeasNoVE](http://twitter.com/search?q=%23CampeasNoVE) | N/A |
+| 9 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 10 | [#rainhas2023](http://twitter.com/search?q=%23rainhas2023) | N/A |
+| 11 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 12 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 15 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 16 | [Luisa Stefani](http://twitter.com/search?q=Luisa+Stefani) | Luisa Stefani is a female Italian given name. It is derived from the Latin name Louise, which means "famous warrior". In English, it can be translated to mean "Famous Warrior of God". |
+| 17 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 18 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 20 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 21 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 22 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 24 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 25 | [FECHADOS COM KEY](http://twitter.com/search?q=FECHADOS+COM+KEY) | N/A |
+| 26 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 27 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
 | 28 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 29 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 30 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 30 | [Ana Patrícia](http://twitter.com/search?q=Ana+Patr%c3%adcia) | N/A |
+| 31 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 32 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 33 | [ótimo domingo](http://twitter.com/search?q=%c3%b3timo+domingo) | N/A |
-| 34 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 33 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 34 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
 | 35 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
-| 36 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 37 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 38 | [jade no bdv](http://twitter.com/search?q=jade+no+bdv) | N/A |
-| 39 | [revisem essa prova](http://twitter.com/search?q=revisem+essa+prova) | N/A |
-| 40 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 41 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 42 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 43 | [santos pegou um pênalti](http://twitter.com/search?q=santos+pegou+um+p%c3%aanalti) | N/A |
-| 44 | [nattan no bbb](http://twitter.com/search?q=nattan+no+bbb) | N/A |
-| 45 | [ARRASCAETA](http://twitter.com/search?q=ARRASCAETA) | N/A |
-| 46 | [Canja](http://twitter.com/search?q=Canja) | N/A |
-| 47 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 48 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 49 | [Jeon Jungkook](http://twitter.com/search?q=Jeon+Jungkook) | N/A |
-| 50 | [esse flamengo](http://twitter.com/search?q=esse+flamengo) | N/A |
+| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 37 | [Alasca](http://twitter.com/search?q=Alasca) | N/A |
+| 38 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 39 | [jade no bdv](http://twitter.com/search?q=jade+no+bdv) | N/A |
+| 40 | [revisem essa prova](http://twitter.com/search?q=revisem+essa+prova) | N/A |
+| 41 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 42 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 43 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 44 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 45 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 46 | [santos pegou um pênalti](http://twitter.com/search?q=santos+pegou+um+p%c3%aanalti) | N/A |
+| 47 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 48 | [Ótimo Domingo](http://twitter.com/search?q=%c3%93timo+Domingo) | N/A |
+| 49 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 50 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
 
 
 

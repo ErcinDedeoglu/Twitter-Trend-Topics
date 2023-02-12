@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-12 12:17:25 UTC`
+📆 Last Updated: `2023-02-12 13:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MudahdenganBTNMobile](http://twitter.com/search?q=%23MudahdenganBTNMobile) | N/A |
-| 2 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 3 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
-| 4 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
-| 5 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
-| 6 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
-| 7 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
-| 8 | [Nenek](http://twitter.com/search?q=Nenek) | N/A |
-| 9 | [#shanday](http://twitter.com/search?q=%23shanday) | N/A |
-| 10 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 11 | [THOM BROWNE](http://twitter.com/search?q=THOM+BROWNE) | N/A |
+| 2 | [Adem Sari Sparkling](http://twitter.com/search?q=Adem+Sari+Sparkling) | N/A |
+| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 4 | [#thombrowneXJohnnySuh](http://twitter.com/search?q=%23thombrowneXJohnnySuh) | N/A |
+| 5 | [Budi Doremi](http://twitter.com/search?q=Budi+Doremi) | N/A |
+| 6 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
+| 7 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
+| 8 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
+| 9 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
+| 10 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 11 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
 | 12 | [Meluk](http://twitter.com/search?q=Meluk) | N/A |
-| 13 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
-| 14 | [YOU DID WELL NCT 127](http://twitter.com/search?q=YOU+DID+WELL+NCT+127) | N/A |
-| 15 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 16 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 17 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
-| 18 | [CLOY](http://twitter.com/search?q=CLOY) | N/A |
-| 19 | [HAIL IVE THE PROM QUEENS](http://twitter.com/search?q=HAIL+IVE+THE+PROM+QUEENS) | N/A |
-| 20 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 21 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 22 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 23 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 24 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 25 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
-| 26 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 27 | [Dots](http://twitter.com/search?q=Dots) | N/A |
-| 28 | [Sambel](http://twitter.com/search?q=Sambel) | N/A |
-| 29 | [Binder](http://twitter.com/search?q=Binder) | N/A |
-| 30 | [Lulu](http://twitter.com/search?q=Lulu) | Lulu is a nickname for the name Louise, which is of French origin and means "famous warrior". It can also be used as a term of endearment. |
-| 31 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 32 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 33 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
-| 34 | [Diri](http://twitter.com/search?q=Diri) | N/A |
-| 35 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
-| 36 | [Hari Minggu](http://twitter.com/search?q=Hari+Minggu) | N/A |
-| 37 | [#SRR4thWin](http://twitter.com/search?q=%23SRR4thWin) | N/A |
-| 38 | [#IVEPromQueens_D2](http://twitter.com/search?q=%23IVEPromQueens_D2) | N/A |
-| 39 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 40 | [#CentralEmbassyXGeminiFourth](http://twitter.com/search?q=%23CentralEmbassyXGeminiFourth) | N/A |
-| 41 | [#sundaywithmcyeonjun](http://twitter.com/search?q=%23sundaywithmcyeonjun) | N/A |
-| 42 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 43 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
-| 44 | [#THEDREAMSHOW2_in_JKT](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JKT) | N/A |
-| 45 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 46 | [#환영해아이브첫팬콘](http://twitter.com/search?q=%23%ed%99%98%ec%98%81%ed%95%b4%ec%95%84%ec%9d%b4%eb%b8%8c%ec%b2%ab%ed%8c%ac%ec%bd%98) | N/A |
+| 13 | [Nenek](http://twitter.com/search?q=Nenek) | N/A |
+| 14 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
+| 15 | [TRIGGER](http://twitter.com/search?q=TRIGGER) | N/A |
+| 16 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 17 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 18 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 19 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 20 | [Tong](http://twitter.com/search?q=Tong) | N/A |
+| 21 | [CLOY](http://twitter.com/search?q=CLOY) | N/A |
+| 22 | [YOU DID WELL NCT 127](http://twitter.com/search?q=YOU+DID+WELL+NCT+127) | N/A |
+| 23 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
+| 24 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
+| 25 | [HAIL IVE THE PROM QUEENS](http://twitter.com/search?q=HAIL+IVE+THE+PROM+QUEENS) | N/A |
+| 26 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 27 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 28 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 29 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 30 | [Ngaji](http://twitter.com/search?q=Ngaji) | N/A |
+| 31 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 32 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 33 | [Bebek](http://twitter.com/search?q=Bebek) | N/A |
+| 34 | [Sambel](http://twitter.com/search?q=Sambel) | N/A |
+| 35 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 36 | [Dots](http://twitter.com/search?q=Dots) | N/A |
+| 37 | [Selawe](http://twitter.com/search?q=Selawe) | N/A |
+| 38 | [Binder](http://twitter.com/search?q=Binder) | N/A |
+| 39 | [Lulu](http://twitter.com/search?q=Lulu) | Lulu is a nickname for the name Louise, which is of French origin and means "famous warrior". It can also be used as a term of endearment. |
+| 40 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 41 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 42 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 43 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
+| 44 | [Hari Minggu](http://twitter.com/search?q=Hari+Minggu) | N/A |
+| 45 | [#shanday](http://twitter.com/search?q=%23shanday) | N/A |
+| 46 | [#IVEPromQueens_D2](http://twitter.com/search?q=%23IVEPromQueens_D2) | N/A |
+| 47 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 48 | [#SRR4thWin](http://twitter.com/search?q=%23SRR4thWin) | N/A |
+| 49 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 50 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
 
 
 

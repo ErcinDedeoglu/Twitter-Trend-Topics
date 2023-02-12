@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-12 12:17:21 UTC`
+📆 Last Updated: `2023-02-12 13:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#spagae](http://twitter.com/search?q=%23spagae) | N/A |
 | 2 | [#PSVGRO](http://twitter.com/search?q=%23PSVGRO) | N/A |
-| 3 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 3 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
 | 4 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 6 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
+| 5 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 6 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 7 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 8 | [Oud-minister Hoogervorst](http://twitter.com/search?q=Oud-minister+Hoogervorst) | N/A |
-| 9 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 10 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
-| 11 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 12 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 8 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 9 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 10 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 11 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
+| 12 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 13 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 14 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 15 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 16 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 17 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 18 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 14 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 15 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 16 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 17 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 18 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
 | 19 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
-| 20 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 21 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 22 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
-| 23 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 26 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 27 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
+| 20 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 21 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 24 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
+| 25 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 26 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
+| 27 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
 | 28 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 29 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
-| 30 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
-| 31 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 32 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 33 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
-| 34 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 35 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 36 | [Mees](http://twitter.com/search?q=Mees) | N/A |
-| 37 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
-| 38 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 39 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 40 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 41 | [Feyenoorders](http://twitter.com/search?q=Feyenoorders) | N/A |
-| 42 | [Dictatuur](http://twitter.com/search?q=Dictatuur) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 45 | [Youp](http://twitter.com/search?q=Youp) | N/A |
-| 46 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
-| 47 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 48 | [Chinezen](http://twitter.com/search?q=Chinezen) | N/A |
-| 49 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 50 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 29 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
+| 30 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 31 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 32 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
+| 33 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 34 | [nicolette](http://twitter.com/search?q=nicolette) | N/A |
+| 35 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
+| 36 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 37 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 38 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 39 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 42 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [Diederik](http://twitter.com/search?q=Diederik) | N/A |
+| 45 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 46 | [Beursplein](http://twitter.com/search?q=Beursplein) | N/A |
+| 47 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 48 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 49 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 50 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
 
 
 

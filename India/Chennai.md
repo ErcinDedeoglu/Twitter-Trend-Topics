@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-12 12:17:41 UTC`
+📆 Last Updated: `2023-02-12 13:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CPRadhakrishnan](http://twitter.com/search?q=%23CPRadhakrishnan) | N/A |
-| 2 | [#Thalaivar](http://twitter.com/search?q=%23Thalaivar) | N/A |
-| 3 | [#Chhatriwali](http://twitter.com/search?q=%23Chhatriwali) | N/A |
-| 4 | [#HerStory](http://twitter.com/search?q=%23HerStory) | N/A |
-| 5 | [BB16 PHOENIX SHALIN BHANOT](http://twitter.com/search?q=BB16+PHOENIX+SHALIN+BHANOT) | N/A |
+| 1 | [#Thalaivar](http://twitter.com/search?q=%23Thalaivar) | N/A |
+| 2 | [#MallaYuddhaWrestling](http://twitter.com/search?q=%23MallaYuddhaWrestling) | N/A |
+| 3 | [#MahindraBluesFestival](http://twitter.com/search?q=%23MahindraBluesFestival) | N/A |
+| 4 | [#KangIsComing](http://twitter.com/search?q=%23KangIsComing) | N/A |
+| 5 | [#INDvsPAK](http://twitter.com/search?q=%23INDvsPAK) | N/A |
 | 6 | [BB TROPHY AWAITS SHIV](http://twitter.com/search?q=BB+TROPHY+AWAITS+SHIV) | N/A |
-| 7 | [#RecordInvestmentInUP](http://twitter.com/search?q=%23RecordInvestmentInUP) | N/A |
+| 7 | [NAAGIN6 1YR WITH TEJASSWI](http://twitter.com/search?q=NAAGIN6+1YR+WITH+TEJASSWI) | N/A |
 | 8 | [JEET KE AANA PRIYANKA](http://twitter.com/search?q=JEET+KE+AANA+PRIYANKA) | N/A |
-| 9 | [amit poonia](http://twitter.com/search?q=amit+poonia) | N/A |
-| 10 | [NAAGIN6 1YR WITH TEJASSWI](http://twitter.com/search?q=NAAGIN6+1YR+WITH+TEJASSWI) | N/A |
-| 11 | [Gazab Ka Hai Din](http://twitter.com/search?q=Gazab+Ka+Hai+Din) | N/A |
-| 12 | [MC STAN JEETNA MANGTA](http://twitter.com/search?q=MC+STAN+JEETNA+MANGTA) | N/A |
-| 13 | [CHAK DE FATTE PRIYANKA](http://twitter.com/search?q=CHAK+DE+FATTE+PRIYANKA) | N/A |
-| 14 | [VEER TERE ISHQ MEIN GHAYAL](http://twitter.com/search?q=VEER+TERE+ISHQ+MEIN+GHAYAL) | N/A |
-| 15 | [जैन मुनि](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%a8%e0%a4%bf) | N/A |
-| 16 | [मौलाना अरशद](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a4%b6%e0%a4%a6) | N/A |
-| 17 | [आर्य समाज](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 18 | [Dausa, Rajasthan](http://twitter.com/search?q=Dausa%2c+Rajasthan) | N/A |
-| 19 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 9 | [HOLI WITH TJMM](http://twitter.com/search?q=HOLI+WITH+TJMM) | N/A |
+| 10 | [BB16 PHOENIX SHALIN BHANOT](http://twitter.com/search?q=BB16+PHOENIX+SHALIN+BHANOT) | N/A |
+| 11 | [amit poonia](http://twitter.com/search?q=amit+poonia) | N/A |
+| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 13 | [Gazab Ka Hai Din](http://twitter.com/search?q=Gazab+Ka+Hai+Din) | N/A |
+| 14 | [CHAK DE FATTE PRIYANKA](http://twitter.com/search?q=CHAK+DE+FATTE+PRIYANKA) | N/A |
+| 15 | [MC STAN JEETNA MANGTA](http://twitter.com/search?q=MC+STAN+JEETNA+MANGTA) | N/A |
+| 16 | [जैन मुनि](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%a8%e0%a4%bf) | N/A |
+| 17 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
+| 18 | [मौलाना अरशद](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a4%b6%e0%a4%a6) | N/A |
+| 19 | [VEER TERE ISHQ MEIN GHAYAL](http://twitter.com/search?q=VEER+TERE+ISHQ+MEIN+GHAYAL) | N/A |
 | 20 | [जया बच्चन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%be+%e0%a4%ac%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%a8) | N/A |
-| 21 | [Saurashtra](http://twitter.com/search?q=Saurashtra) | N/A |
-| 22 | [ANKIT GRACING BB FINALE](http://twitter.com/search?q=ANKIT+GRACING+BB+FINALE) | N/A |
-| 23 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 24 | [सिक्किम प्रदेश](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a4%bf%e0%a4%ae+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 25 | [श्री गुलाब चंद कटारिया](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ac+%e0%a4%9a%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a4%9f%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 26 | [SUMBUL GRACING BB16 FINALE](http://twitter.com/search?q=SUMBUL+GRACING+BB16+FINALE) | N/A |
-| 27 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 28 | [मुंबई एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%ac%e0%a4%88+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 29 | [स्वामी दयानंद सरस्वती](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
-| 30 | [Kerala](http://twitter.com/search?q=Kerala) | N/A |
-| 31 | [उत्तर प्रदेश विधान परिषद](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 32 | [सरकारी कर्मचारी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 33 | [5 Days Left For Bodh Diwas](http://twitter.com/search?q=5+Days+Left+For+Bodh+Diwas) | N/A |
-| 34 | [Ayodhya](http://twitter.com/search?q=Ayodhya) | N/A |
-| 35 | [Rekha](http://twitter.com/search?q=Rekha) | N/A |
-| 36 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 37 | [जस्टिस अब्दुल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a4%bf%e0%a4%b8+%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%a6%e0%a5%81%e0%a4%b2) | N/A |
-| 38 | [बिग बॉस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%97+%e0%a4%ac%e0%a5%89%e0%a4%b8) | N/A |
-| 39 | [श्री शिव प्रताप शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 40 | [चौधरी अजीत सिंह](http://twitter.com/search?q=%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%9c%e0%a5%80%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 41 | [Sushant Love For Fudge](http://twitter.com/search?q=Sushant+Love+For+Fudge) | N/A |
-| 42 | [Nagaland](http://twitter.com/search?q=Nagaland) | N/A |
-| 43 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 44 | [श्री रमेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
-| 45 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 46 | [श्री राजेंद्र विश्वनाथ](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 48 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 49 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 50 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 22 | [Dausa, Rajasthan](http://twitter.com/search?q=Dausa%2c+Rajasthan) | N/A |
+| 23 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 24 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 25 | [Saurashtra](http://twitter.com/search?q=Saurashtra) | N/A |
+| 26 | [श्री गुलाब चंद कटारिया](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ac+%e0%a4%9a%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a4%9f%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 27 | [आर्य समाज](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 28 | [Kerala](http://twitter.com/search?q=Kerala) | N/A |
+| 29 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 30 | [SUMBUL GRACING BB16 FINALE](http://twitter.com/search?q=SUMBUL+GRACING+BB16+FINALE) | N/A |
+| 31 | [महर्षि दयानंद सरस्वती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 32 | [मुंबई एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%ac%e0%a4%88+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 33 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 34 | [ANKIT GRACING BB FINALE](http://twitter.com/search?q=ANKIT+GRACING+BB+FINALE) | N/A |
+| 35 | [Ayodhya](http://twitter.com/search?q=Ayodhya) | N/A |
+| 36 | [उत्तर प्रदेश विधान परिषद](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
+| 37 | [5 Days Left For Bodh Diwas](http://twitter.com/search?q=5+Days+Left+For+Bodh+Diwas) | N/A |
+| 38 | [Nagaland](http://twitter.com/search?q=Nagaland) | N/A |
+| 39 | [Rekha](http://twitter.com/search?q=Rekha) | N/A |
+| 40 | [श्री रमेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
+| 41 | [श्री राजेंद्र विश्वनाथ](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 42 | [सिक्किम प्रदेश](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a4%bf%e0%a4%ae+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 43 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 44 | [सरकारी कर्मचारी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 45 | [स्वामी दयानंद सरस्वती](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 46 | [श्री शिव प्रताप शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
+| 47 | [जस्टिस अब्दुल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a4%bf%e0%a4%b8+%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%a6%e0%a5%81%e0%a4%b2) | N/A |
+| 48 | [Indore](http://twitter.com/search?q=Indore) | N/A |
+| 49 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 50 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
 
 
 

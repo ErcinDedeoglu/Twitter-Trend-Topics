@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-12 12:17:16 UTC`
+📆 Last Updated: `2023-02-12 13:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 2 | [fede bal](http://twitter.com/search?q=fede+bal) | N/A |
+| 2 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
 | 3 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 4 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
 | 5 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
 | 6 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 7 | [#DetrasDeLasNoticias](http://twitter.com/search?q=%23DetrasDeLasNoticias) | N/A |
+| 7 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 8 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
-| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 10 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 11 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 12 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 13 | [#agusconboffe](http://twitter.com/search?q=%23agusconboffe) | N/A |
-| 14 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 10 | [#EsteFinde](http://twitter.com/search?q=%23EsteFinde) | N/A |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [#DetrasDeLasNoticias](http://twitter.com/search?q=%23DetrasDeLasNoticias) | N/A |
+| 13 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 14 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 15 | [#agusconboffe](http://twitter.com/search?q=%23agusconboffe) | N/A |
 | 16 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 17 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 18 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 19 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 20 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 21 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 22 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 23 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 19 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 20 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 21 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 22 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
+| 23 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
 | 24 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
-| 25 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 26 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 27 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 28 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 25 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 26 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 27 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 28 | [Payero](http://twitter.com/search?q=Payero) | N/A |
 | 29 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 30 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 31 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 32 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 33 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 34 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 35 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
-| 36 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 30 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 31 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 32 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 33 | [joao](http://twitter.com/search?q=joao) | N/A |
+| 34 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 35 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 36 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
 | 37 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
-| 38 | [herron](http://twitter.com/search?q=herron) | N/A |
-| 39 | [Flor de la V](http://twitter.com/search?q=Flor+de+la+V) | N/A |
-| 40 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 41 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 42 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
-| 45 | [vamos boca](http://twitter.com/search?q=vamos+boca) | N/A |
+| 38 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 39 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 40 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Flor de la V](http://twitter.com/search?q=Flor+de+la+V) | N/A |
+| 43 | [herron](http://twitter.com/search?q=herron) | N/A |
+| 44 | [vamos boca](http://twitter.com/search?q=vamos+boca) | N/A |
+| 45 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
 | 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 47 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 48 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
-| 49 | [No Autorizo](http://twitter.com/search?q=No+Autorizo) | N/A |
-| 50 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 47 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
+| 48 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 49 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 50 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
 
 
 

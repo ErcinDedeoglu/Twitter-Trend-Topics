@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-12 12:17:28 UTC`
+📆 Last Updated: `2023-02-12 13:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [アフター](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%bc) | N/A |
-| 2 | [高知ファイナル](http://twitter.com/search?q=%e9%ab%98%e7%9f%a5%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab) | 高知ファイナル is an annual high school baseball tournament held in Kochi Prefecture, Japan. It is a tournament for high school teams from the prefecture to compete for the title of "Kochi Prefecture Champion". The English translation of 高知ファイナル would be "Kochi Final". |
-| 3 | [#エビ中春ツアー2023](http://twitter.com/search?q=%23%e3%82%a8%e3%83%93%e4%b8%ad%e6%98%a5%e3%83%84%e3%82%a2%e3%83%bc2023) | N/A |
-| 4 | [うらたさん](http://twitter.com/search?q=%e3%81%86%e3%82%89%e3%81%9f%e3%81%95%e3%82%93) | N/A |
-| 5 | [自己採点](http://twitter.com/search?q=%e8%87%aa%e5%b7%b1%e6%8e%a1%e7%82%b9) | 自己採点 (jiko saiden) is a Japanese phrase that literally translates to "self-scoring". It is used to refer to the practice of self-evaluation or self-assessment. It is often used in the context of school or work, where an individual evaluates their own performance or progress. |
-| 6 | [#NiziU_お見送り会](http://twitter.com/search?q=%23NiziU_%e3%81%8a%e8%a6%8b%e9%80%81%e3%82%8a%e4%bc%9a) | N/A |
-| 7 | [浦島坂田船](http://twitter.com/search?q=%e6%b5%a6%e5%b3%b6%e5%9d%82%e7%94%b0%e8%88%b9) | 浦島坂田船 is a Japanese folktale about a fisherman named Urashima Taro who is rewarded for his kindness by being taken to an underwater palace. The phrase literally translates to "Urashima's boat on the hill and valley". |
-| 8 | [セクシー救急車](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e6%95%91%e6%80%a5%e8%bb%8a) | セクシー救急車 is a Japanese term for an ambulance that has been modified to look more attractive and stylish. It is often used in advertising campaigns or as a promotional vehicle. The English translation would be "sexy ambulance". |
-| 9 | [最強ライバル](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%83%a9%e3%82%a4%e3%83%90%e3%83%ab) | N/A |
-| 10 | [#超次元音楽祭](http://twitter.com/search?q=%23%e8%b6%85%e6%ac%a1%e5%85%83%e9%9f%b3%e6%a5%bd%e7%a5%ad) | N/A |
-| 11 | [#バレイベ2023表](http://twitter.com/search?q=%23%e3%83%90%e3%83%ac%e3%82%a4%e3%83%992023%e8%a1%a8) | N/A |
-| 12 | [ニホンオオカミ](http://twitter.com/search?q=%e3%83%8b%e3%83%9b%e3%83%b3%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f) | N/A |
-| 13 | [#soundconnection](http://twitter.com/search?q=%23soundconnection) | N/A |
-| 14 | [connected](http://twitter.com/search?q=connected) | N/A |
-| 15 | [TL更新](http://twitter.com/search?q=TL%e6%9b%b4%e6%96%b0) | N/A |
-| 16 | [モリミュOp](http://twitter.com/search?q=%e3%83%a2%e3%83%aa%e3%83%9f%e3%83%a5Op) | N/A |
-| 17 | [長浜ラーメン](http://twitter.com/search?q=%e9%95%b7%e6%b5%9c%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
-| 18 | [クロダイ](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%80%e3%82%a4) | N/A |
-| 19 | [松本まり](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%81%be%e3%82%8a) | 松本まり is a Japanese female given name. It is composed of two kanji characters: 松 (matsu) meaning "pine tree" and 本 (moto) meaning "origin, source, main". The name can be translated to mean "original pine tree" or "source of the pine tree". |
-| 20 | [アブラボウズ](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%9c%e3%82%a6%e3%82%ba) | N/A |
-| 21 | [イッテQ](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86Q) | イッテQ is a Japanese variety show that has been airing since 2003. The title of the show is a play on words, combining the phrase "itte kimashita" (meaning "it's done") and the letter "Q". The show features celebrity guests, comedians, and other entertainers who participate in various activities and games. In English, the title of the show can be translated to "It's Done Q". |
-| 22 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
-| 23 | [ムンナイ](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%8a%e3%82%a4) | N/A |
-| 24 | [ベッチュア](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%81%e3%83%a5%e3%82%a2) | N/A |
-| 25 | [プリコネ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b3%e3%83%8d) | N/A |
-| 26 | [氏真くん](http://twitter.com/search?q=%e6%b0%8f%e7%9c%9f%e3%81%8f%e3%82%93) | N/A |
-| 27 | [バラムツ](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%a0%e3%83%84) | N/A |
-| 28 | [三田さん](http://twitter.com/search?q=%e4%b8%89%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 29 | [時雨改三](http://twitter.com/search?q=%e6%99%82%e9%9b%a8%e6%94%b9%e4%b8%89) | 時雨改三 is a Japanese phrase that literally translates to "changing the rain to three". It is used to describe a situation in which someone takes a difficult situation and turns it into something positive. In other words, it is used to express the idea of making something good out of a bad situation. |
-| 30 | [ヘッドンホホ](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%b3%e3%83%9b%e3%83%9b) | N/A |
-| 31 | [退職金税](http://twitter.com/search?q=%e9%80%80%e8%81%b7%e9%87%91%e7%a8%8e) | N/A |
-| 32 | [溝端淳平](http://twitter.com/search?q=%e6%ba%9d%e7%ab%af%e6%b7%b3%e5%b9%b3) | N/A |
-| 33 | [ミソラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [オクトー](http://twitter.com/search?q=%e3%82%aa%e3%82%af%e3%83%88%e3%83%bc) | N/A |
-| 35 | [野間口さん](http://twitter.com/search?q=%e9%87%8e%e9%96%93%e5%8f%a3%e3%81%95%e3%82%93) | 野間口さん is a Japanese phrase that literally translates to "Mr. Nomaguchi". It is used as a polite way of referring to someone who is not present. |
+| 1 | [アイドルマスター](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 2 | [虹色ミラクル](http://twitter.com/search?q=%e8%99%b9%e8%89%b2%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab) | N/A |
+| 3 | [Study Equal Magic](http://twitter.com/search?q=Study+Equal+Magic) | N/A |
+| 4 | [ヒカリのdestination](http://twitter.com/search?q=%e3%83%92%e3%82%ab%e3%83%aa%e3%81%aedestination) | N/A |
+| 5 | [レッドソール](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%82%bd%e3%83%bc%e3%83%ab) | N/A |
+| 6 | [アフター](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%bc) | N/A |
+| 7 | [最後のマスピ](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e3%83%9e%e3%82%b9%e3%83%94) | N/A |
+| 8 | [MOON NIGHT](http://twitter.com/search?q=MOON+NIGHT) | N/A |
+| 9 | [#bethere](http://twitter.com/search?q=%23bethere) | N/A |
+| 10 | [Bet your intuition](http://twitter.com/search?q=Bet+your+intuition) | N/A |
+| 11 | [#超次元音楽祭](http://twitter.com/search?q=%23%e8%b6%85%e6%ac%a1%e5%85%83%e9%9f%b3%e6%a5%bd%e7%a5%ad) | N/A |
+| 12 | [最終ブロック](http://twitter.com/search?q=%e6%9c%80%e7%b5%82%e3%83%96%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 13 | [SWEET♡STEP](http://twitter.com/search?q=SWEET%e2%99%a1STEP) | N/A |
+| 14 | [#さらけだすんだ](http://twitter.com/search?q=%23%e3%81%95%e3%82%89%e3%81%91%e3%81%a0%e3%81%99%e3%82%93%e3%81%a0) | N/A |
+| 15 | [アンティーカ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ab) | N/A |
+| 16 | [規制退場](http://twitter.com/search?q=%e8%a6%8f%e5%88%b6%e9%80%80%e5%a0%b4) | N/A |
+| 17 | [ヴァンパイアガール](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%91%e3%82%a4%e3%82%a2%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
+| 18 | [仲林さん](http://twitter.com/search?q=%e4%bb%b2%e6%9e%97%e3%81%95%e3%82%93) | N/A |
+| 19 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
+| 20 | [#アイマスMOIW2023_day2](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9MOIW2023_day2) | N/A |
+| 21 | [ムンナイ](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%8a%e3%82%a4) | N/A |
+| 22 | [ALIVE](http://twitter.com/search?q=ALIVE) | N/A |
+| 23 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 24 | [M@STERPIECE](http://twitter.com/search?q=M%40STERPIECE) | N/A |
+| 25 | [松本まり](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%81%be%e3%82%8a) | 松本まり is a Japanese female given name. It is composed of two kanji characters: 松 (matsu) meaning "pine tree" and 本 (moto) meaning "origin, source, main". The name can be translated to mean "original pine tree" or "source of the pine tree". |
+| 26 | [プリコネ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b3%e3%83%8d) | N/A |
+| 27 | [動物対話士](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e5%af%be%e8%a9%b1%e5%a3%ab) | N/A |
+| 28 | [待ち受けプリンス](http://twitter.com/search?q=%e5%be%85%e3%81%a1%e5%8f%97%e3%81%91%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b9) | N/A |
+| 29 | [自作自演](http://twitter.com/search?q=%e8%87%aa%e4%bd%9c%e8%87%aa%e6%bc%94) | N/A |
+| 30 | [飛行物体の撃墜準備](http://twitter.com/search?q=%e9%a3%9b%e8%a1%8c%e7%89%a9%e4%bd%93%e3%81%ae%e6%92%83%e5%a2%9c%e6%ba%96%e5%82%99) | N/A |
+| 31 | [オーバーマスター](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 32 | [アブラボウズ](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%9c%e3%82%a6%e3%82%ba) | N/A |
+| 33 | [イッテQ](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86Q) | イッテQ is a Japanese variety show that has been airing since 2003. The title of the show is a play on words, combining the phrase "itte kimashita" (meaning "it's done") and the letter "Q". The show features celebrity guests, comedians, and other entertainers who participate in various activities and games. In English, the title of the show can be translated to "It's Done Q". |
+| 34 | [ジュエルミート](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab%e3%83%9f%e3%83%bc%e3%83%88) | N/A |
+| 35 | [ヘッドンホホ](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%b3%e3%83%9b%e3%83%9b) | N/A |
 | 36 | [ハッチシロ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%81%e3%82%b7%e3%83%ad) | N/A |
-| 37 | [今川氏真](http://twitter.com/search?q=%e4%bb%8a%e5%b7%9d%e6%b0%8f%e7%9c%9f) | N/A |
-| 38 | [異修羅アニメ化](http://twitter.com/search?q=%e7%95%b0%e4%bf%ae%e7%be%85%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
-| 39 | [エフフォーリア](http://twitter.com/search?q=%e3%82%a8%e3%83%95%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%a2) | エフフォーリア (efuforia) is a Japanese word that means "euphoria" in English. It is used to describe a feeling of intense happiness or joy. |
-| 40 | [オカダさん](http://twitter.com/search?q=%e3%82%aa%e3%82%ab%e3%83%80%e3%81%95%e3%82%93) | N/A |
-| 41 | [人質交換](http://twitter.com/search?q=%e4%ba%ba%e8%b3%aa%e4%ba%a4%e6%8f%9b) | 人質交換 (Ninjō Kōkan) is a Japanese term meaning hostage exchange. It is a process in which two parties agree to exchange hostages in order to resolve a conflict or reach an agreement. |
-| 42 | [瀬名ちゃん](http://twitter.com/search?q=%e7%80%ac%e5%90%8d%e3%81%a1%e3%82%83%e3%82%93) | 瀬名ちゃん is a nickname for the Japanese actress Rena Matsui. It is derived from her given name, which can be written in kanji as 瀬名 (Rena). In English, it would be translated as "Rena-chan". |
-| 43 | [ミソラ実装](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e5%ae%9f%e8%a3%85) | N/A |
-| 44 | [心房細動](http://twitter.com/search?q=%e5%bf%83%e6%88%bf%e7%b4%b0%e5%8b%95) | N/A |
-| 45 | [まりか様](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%8b%e6%a7%98) | N/A |
-| 46 | [福岡公演](http://twitter.com/search?q=%e7%a6%8f%e5%b2%a1%e5%85%ac%e6%bc%94) | N/A |
-| 47 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
-| 48 | [坂田さん](http://twitter.com/search?q=%e5%9d%82%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 49 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
-| 50 | [キャラライブ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%a9%e3%83%a9%e3%82%a4%e3%83%96) | キャラライブ (Kyara Raibu) is a type of live streaming event in Japan that features popular characters from anime, manga, and video games. It is usually held in the form of a concert or talk show, and fans can interact with the characters through chat or voice chat. The English translation of キャラライブ would be "Character Live". |
+| 37 | [キャラライブ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%a9%e3%83%a9%e3%82%a4%e3%83%96) | キャラライブ (Kyara Raibu) is a type of live streaming event in Japan that features popular characters from anime, manga, and video games. It is usually held in the form of a concert or talk show, and fans can interact with the characters through chat or voice chat. The English translation of キャラライブ would be "Character Live". |
+| 38 | [氏真くん](http://twitter.com/search?q=%e6%b0%8f%e7%9c%9f%e3%81%8f%e3%82%93) | N/A |
+| 39 | [咲ちゃん](http://twitter.com/search?q=%e5%92%b2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [花ざかり](http://twitter.com/search?q=%e8%8a%b1%e3%81%96%e3%81%8b%e3%82%8a) | N/A |
+| 41 | [時雨改三](http://twitter.com/search?q=%e6%99%82%e9%9b%a8%e6%94%b9%e4%b8%89) | 時雨改三 is a Japanese phrase that literally translates to "changing the rain to three". It is used to describe a situation in which someone takes a difficult situation and turns it into something positive. In other words, it is used to express the idea of making something good out of a bad situation. |
+| 42 | [オバマス](http://twitter.com/search?q=%e3%82%aa%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
+| 43 | [キラメキラリ](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%a1%e3%82%ad%e3%83%a9%e3%83%aa) | N/A |
+| 44 | [マスターピース](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%94%e3%83%bc%e3%82%b9) | N/A |
+| 45 | [退職金税](http://twitter.com/search?q=%e9%80%80%e8%81%b7%e9%87%91%e7%a8%8e) | N/A |
+| 46 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
+| 47 | [恋のHamburg](http://twitter.com/search?q=%e6%81%8b%e3%81%aeHamburg) | N/A |
+| 48 | [Accelerate](http://twitter.com/search?q=Accelerate) | N/A |
+| 49 | [最高のライブ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | "最高のライブ" is a Japanese phrase that translates to "the best live performance". It is used to describe a live performance that is particularly impressive or memorable. |
+| 50 | [べっちゅあ](http://twitter.com/search?q=%e3%81%b9%e3%81%a3%e3%81%a1%e3%82%85%e3%81%82) | N/A |
 
 
 

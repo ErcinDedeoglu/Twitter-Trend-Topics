@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-12 12:17:58 UTC`
+📆 Last Updated: `2023-02-12 13:19:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [#SanidadPublica](http://twitter.com/search?q=%23SanidadPublica) | N/A |
 | 2 | [#MadridSeLevantaEl12F](http://twitter.com/search?q=%23MadridSeLevantaEl12F) | N/A |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [#APOYOROCIO12F](http://twitter.com/search?q=%23APOYOROCIO12F) | N/A |
-| 5 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
+| 3 | [#manifestación](http://twitter.com/search?q=%23manifestaci%c3%b3n) | N/A |
+| 4 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
+| 5 | [#APOYOROCIO12F](http://twitter.com/search?q=%23APOYOROCIO12F) | N/A |
 | 6 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 7 | [Betis Deportivo](http://twitter.com/search?q=Betis+Deportivo) | N/A |
-| 8 | [#manifestación](http://twitter.com/search?q=%23manifestaci%c3%b3n) | N/A |
-| 9 | [Villares](http://twitter.com/search?q=Villares) | N/A |
-| 10 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 7 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 8 | [Yeremay](http://twitter.com/search?q=Yeremay) | N/A |
+| 9 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 10 | [Betis Deportivo](http://twitter.com/search?q=Betis+Deportivo) | N/A |
 | 11 | [Legazpi](http://twitter.com/search?q=Legazpi) | N/A |
-| 12 | [Gran Vía](http://twitter.com/search?q=Gran+V%c3%ada) | N/A |
-| 13 | [Olabe](http://twitter.com/search?q=Olabe) | N/A |
-| 14 | [Tres Caídas](http://twitter.com/search?q=Tres+Ca%c3%addas) | N/A |
-| 15 | [Nuevos Ministerios](http://twitter.com/search?q=Nuevos+Ministerios) | N/A |
-| 16 | [Infame](http://twitter.com/search?q=Infame) | N/A |
-| 17 | [Delicias](http://twitter.com/search?q=Delicias) | N/A |
-| 18 | [402 X](http://twitter.com/search?q=402+X) | N/A |
-| 19 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
-| 20 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
-| 21 | [Alcarràs](http://twitter.com/search?q=Alcarr%c3%a0s) | N/A |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
-| 24 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 25 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 26 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
-| 27 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 28 | [Iceta](http://twitter.com/search?q=Iceta) | N/A |
-| 29 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 30 | [Miserables](http://twitter.com/search?q=Miserables) | N/A |
-| 31 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 32 | [Gala](http://twitter.com/search?q=Gala) | N/A |
-| 33 | [Sorogoyen](http://twitter.com/search?q=Sorogoyen) | N/A |
-| 34 | [Saura](http://twitter.com/search?q=Saura) | N/A |
-| 35 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 36 | [Joaquín Sabina](http://twitter.com/search?q=Joaqu%c3%adn+Sabina) | N/A |
-| 37 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 38 | [NO A LA GUERRA](http://twitter.com/search?q=NO+A+LA+GUERRA) | N/A |
-| 39 | [Évole](http://twitter.com/search?q=%c3%89vole) | N/A |
-| 40 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 41 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
-| 42 | [Domingo 12](http://twitter.com/search?q=Domingo+12) | N/A |
-| 43 | [Eduardo Casanova](http://twitter.com/search?q=Eduardo+Casanova) | N/A |
-| 44 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
-| 45 | [Hospital](http://twitter.com/search?q=Hospital) | N/A |
-| 46 | [Muguruza](http://twitter.com/search?q=Muguruza) | N/A |
-| 47 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
-| 48 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 49 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 50 | [#EmpezandoPorLoQueImporta](http://twitter.com/search?q=%23EmpezandoPorLoQueImporta) | N/A |
+| 12 | [Villares](http://twitter.com/search?q=Villares) | N/A |
+| 13 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
+| 14 | [Dani Pérez](http://twitter.com/search?q=Dani+P%c3%a9rez) | N/A |
+| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 16 | [Gran Vía](http://twitter.com/search?q=Gran+V%c3%ada) | N/A |
+| 17 | [Paseo del Prado](http://twitter.com/search?q=Paseo+del+Prado) | N/A |
+| 18 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 19 | [Olabe](http://twitter.com/search?q=Olabe) | N/A |
+| 20 | [Plaza de Toros de Murcia](http://twitter.com/search?q=Plaza+de+Toros+de+Murcia) | N/A |
+| 21 | [Loren](http://twitter.com/search?q=Loren) | Loren is a unisex name of Latin origin, meaning "laurel". It is also a variant of the name Lawrence. |
+| 22 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 23 | [Carlos Belmonte](http://twitter.com/search?q=Carlos+Belmonte) | N/A |
+| 24 | [berta vázquez](http://twitter.com/search?q=berta+v%c3%a1zquez) | N/A |
+| 25 | [Nuevos Ministerios](http://twitter.com/search?q=Nuevos+Ministerios) | N/A |
+| 26 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
+| 27 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 28 | [infame](http://twitter.com/search?q=infame) | N/A |
+| 29 | [Vamos Madrid](http://twitter.com/search?q=Vamos+Madrid) | N/A |
+| 30 | [402 X](http://twitter.com/search?q=402+X) | N/A |
+| 31 | [Albacete](http://twitter.com/search?q=Albacete) | N/A |
+| 32 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
+| 33 | [Tres Caídas](http://twitter.com/search?q=Tres+Ca%c3%addas) | N/A |
+| 34 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 35 | [delicias](http://twitter.com/search?q=delicias) | N/A |
+| 36 | [Sanse](http://twitter.com/search?q=Sanse) | N/A |
+| 37 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 38 | [Alcarrás](http://twitter.com/search?q=Alcarr%c3%a1s) | N/A |
+| 39 | [Iceta](http://twitter.com/search?q=Iceta) | N/A |
+| 40 | [Dais](http://twitter.com/search?q=Dais) | N/A |
+| 41 | [En Valencia](http://twitter.com/search?q=En+Valencia) | N/A |
+| 42 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 43 | [Los Goya](http://twitter.com/search?q=Los+Goya) | N/A |
+| 44 | [Goyas](http://twitter.com/search?q=Goyas) | N/A |
+| 45 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 46 | [MISERABLES](http://twitter.com/search?q=MISERABLES) | N/A |
+| 47 | [Sorogoyen](http://twitter.com/search?q=Sorogoyen) | N/A |
+| 48 | [Évole](http://twitter.com/search?q=%c3%89vole) | N/A |
+| 49 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 50 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-02-12 12:17:28 UTC`
+📆 Last Updated: `2023-02-12 13:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [長浜ラーメン](http://twitter.com/search?q=%e9%95%b7%e6%b5%9c%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
-| 2 | [#バレイベ2023表](http://twitter.com/search?q=%23%e3%83%90%e3%83%ac%e3%82%a4%e3%83%992023%e8%a1%a8) | N/A |
-| 3 | [#相葉マナブ](http://twitter.com/search?q=%23%e7%9b%b8%e8%91%89%e3%83%9e%e3%83%8a%e3%83%96) | #相葉マナブ is a hashtag used to show support for Japanese singer and actor Manabu Aiba. It is a combination of his name and the Japanese word for “support”. In English, it translates to “Support Manabu Aiba”. |
-| 4 | [TL更新](http://twitter.com/search?q=TL%e6%9b%b4%e6%96%b0) | N/A |
-| 5 | [#艦これ](http://twitter.com/search?q=%23%e8%89%a6%e3%81%93%e3%82%8c) | N/A |
-| 6 | [#超次元音楽祭](http://twitter.com/search?q=%23%e8%b6%85%e6%ac%a1%e5%85%83%e9%9f%b3%e6%a5%bd%e7%a5%ad) | N/A |
-| 7 | [#wf2023w](http://twitter.com/search?q=%23wf2023w) | N/A |
-| 8 | [共同通信杯](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1%e6%9d%af) | N/A |
-| 9 | [シグナル](http://twitter.com/search?q=%e3%82%b7%e3%82%b0%e3%83%8a%e3%83%ab) | N/A |
-| 10 | [フィガロ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ac%e3%83%ad) | フィガロ (figaro) is a Japanese word derived from the Italian opera "The Barber of Seville" by Gioachino Rossini. It is used to refer to a clever and crafty person, or someone who is able to outwit others. In English, it can be translated as "clever one". |
-| 11 | [いちご100](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94100) | N/A |
-| 12 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
-| 13 | [練習試合](http://twitter.com/search?q=%e7%b7%b4%e7%bf%92%e8%a9%a6%e5%90%88) | N/A |
-| 14 | [タッチウッド](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%81%e3%82%a6%e3%83%83%e3%83%89) | N/A |
-| 15 | [バレンタインチョコ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
-| 16 | [ラッピング](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0) | N/A |
-| 17 | [プラダリア](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%80%e3%83%aa%e3%82%a2) | プラダリア is a Japanese manga series written and illustrated by Natsumi Itsuki. It follows the story of a young girl named Prada who discovers she has magical powers and embarks on a journey to save her kingdom from an evil witch. The title translates to "Prada's Adventure" in English. |
-| 18 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 19 | [菓子作り](http://twitter.com/search?q=%e8%8f%93%e5%ad%90%e4%bd%9c%e3%82%8a) | N/A |
-| 20 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
-| 21 | [エゴイスト](http://twitter.com/search?q=%e3%82%a8%e3%82%b4%e3%82%a4%e3%82%b9%e3%83%88) | N/A |
-| 22 | [ダノンザタイガー](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc) | N/A |
-| 23 | [ハッピーバレンタイン](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | N/A |
-| 24 | [松本まり](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%81%be%e3%82%8a) | 松本まり is a Japanese female given name. It is composed of two kanji characters: 松 (matsu) meaning "pine tree" and 本 (moto) meaning "origin, source, main". The name can be translated to mean "original pine tree" or "source of the pine tree". |
-| 25 | [アブラボウズ](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%9c%e3%82%a6%e3%82%ba) | N/A |
-| 26 | [イッテQ](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86Q) | イッテQ is a Japanese variety show that has been airing since 2003. The title of the show is a play on words, combining the phrase "itte kimashita" (meaning "it's done") and the letter "Q". The show features celebrity guests, comedians, and other entertainers who participate in various activities and games. In English, the title of the show can be translated to "It's Done Q". |
-| 27 | [ムンナイ](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%8a%e3%82%a4) | N/A |
-| 28 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
-| 29 | [ベッチュア](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%81%e3%83%a5%e3%82%a2) | N/A |
-| 30 | [プリコネ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b3%e3%83%8d) | N/A |
-| 31 | [氏真くん](http://twitter.com/search?q=%e6%b0%8f%e7%9c%9f%e3%81%8f%e3%82%93) | N/A |
-| 32 | [バラムツ](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%a0%e3%83%84) | N/A |
-| 33 | [三田さん](http://twitter.com/search?q=%e4%b8%89%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 34 | [時雨改三](http://twitter.com/search?q=%e6%99%82%e9%9b%a8%e6%94%b9%e4%b8%89) | 時雨改三 is a Japanese phrase that literally translates to "changing the rain to three". It is used to describe a situation in which someone takes a difficult situation and turns it into something positive. In other words, it is used to express the idea of making something good out of a bad situation. |
-| 35 | [ヘッドンホホ](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%b3%e3%83%9b%e3%83%9b) | N/A |
-| 36 | [退職金税](http://twitter.com/search?q=%e9%80%80%e8%81%b7%e9%87%91%e7%a8%8e) | N/A |
-| 37 | [溝端淳平](http://twitter.com/search?q=%e6%ba%9d%e7%ab%af%e6%b7%b3%e5%b9%b3) | N/A |
-| 38 | [ミソラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [ハッチシロ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%81%e3%82%b7%e3%83%ad) | N/A |
-| 40 | [オクトー](http://twitter.com/search?q=%e3%82%aa%e3%82%af%e3%83%88%e3%83%bc) | N/A |
-| 41 | [野間口さん](http://twitter.com/search?q=%e9%87%8e%e9%96%93%e5%8f%a3%e3%81%95%e3%82%93) | 野間口さん is a Japanese phrase that literally translates to "Mr. Nomaguchi". It is used as a polite way of referring to someone who is not present. |
-| 42 | [今川氏真](http://twitter.com/search?q=%e4%bb%8a%e5%b7%9d%e6%b0%8f%e7%9c%9f) | N/A |
-| 43 | [異修羅アニメ化](http://twitter.com/search?q=%e7%95%b0%e4%bf%ae%e7%be%85%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
-| 44 | [エフフォーリア](http://twitter.com/search?q=%e3%82%a8%e3%83%95%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%a2) | エフフォーリア (efuforia) is a Japanese word that means "euphoria" in English. It is used to describe a feeling of intense happiness or joy. |
-| 45 | [人質交換](http://twitter.com/search?q=%e4%ba%ba%e8%b3%aa%e4%ba%a4%e6%8f%9b) | 人質交換 (Ninjō Kōkan) is a Japanese term meaning hostage exchange. It is a process in which two parties agree to exchange hostages in order to resolve a conflict or reach an agreement. |
-| 46 | [オカダさん](http://twitter.com/search?q=%e3%82%aa%e3%82%ab%e3%83%80%e3%81%95%e3%82%93) | N/A |
-| 47 | [ミソラ実装](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e5%ae%9f%e8%a3%85) | N/A |
-| 48 | [瀬名ちゃん](http://twitter.com/search?q=%e7%80%ac%e5%90%8d%e3%81%a1%e3%82%83%e3%82%93) | 瀬名ちゃん is a nickname for the Japanese actress Rena Matsui. It is derived from her given name, which can be written in kanji as 瀬名 (Rena). In English, it would be translated as "Rena-chan". |
-| 49 | [心房細動](http://twitter.com/search?q=%e5%bf%83%e6%88%bf%e7%b4%b0%e5%8b%95) | N/A |
-| 50 | [まりか様](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%8b%e6%a7%98) | N/A |
+| 2 | [山田孝之](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%ad%9d%e4%b9%8b) | 山田孝之 is a Japanese name. It is composed of two characters: 山田 (Yamada) and 孝之 (Takayuki). The literal translation of the name is "Takayuki of the Yamada family". |
+| 3 | [#超次元音楽祭](http://twitter.com/search?q=%23%e8%b6%85%e6%ac%a1%e5%85%83%e9%9f%b3%e6%a5%bd%e7%a5%ad) | N/A |
+| 4 | [#Maria](http://twitter.com/search?q=%23Maria) | N/A |
+| 5 | [TL更新](http://twitter.com/search?q=TL%e6%9b%b4%e6%96%b0) | N/A |
+| 6 | [桑田さん](http://twitter.com/search?q=%e6%a1%91%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 7 | [#バレイベ2023表](http://twitter.com/search?q=%23%e3%83%90%e3%83%ac%e3%82%a4%e3%83%992023%e8%a1%a8) | N/A |
+| 8 | [差し入れ](http://twitter.com/search?q=%e5%b7%ae%e3%81%97%e5%85%a5%e3%82%8c) | N/A |
+| 9 | [ブーイング](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
+| 10 | [インガ1位](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%ac1%e4%bd%8d) | N/A |
+| 11 | [#ワンフェス](http://twitter.com/search?q=%23%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 12 | [#艦これ](http://twitter.com/search?q=%23%e8%89%a6%e3%81%93%e3%82%8c) | N/A |
+| 13 | [心房細動](http://twitter.com/search?q=%e5%bf%83%e6%88%bf%e7%b4%b0%e5%8b%95) | N/A |
+| 14 | [モリミュ](http://twitter.com/search?q=%e3%83%a2%e3%83%aa%e3%83%9f%e3%83%a5) | N/A |
+| 15 | [れにちゃん](http://twitter.com/search?q=%e3%82%8c%e3%81%ab%e3%81%a1%e3%82%83%e3%82%93) | れにちゃん is a nickname for the Japanese name "Reina". It is a combination of the first two syllables of the name, and is used as an affectionate term. In English, it could be translated to something like "Reina-chan". |
+| 16 | [シグナル](http://twitter.com/search?q=%e3%82%b7%e3%82%b0%e3%83%8a%e3%83%ab) | N/A |
+| 17 | [サザエさん](http://twitter.com/search?q=%e3%82%b5%e3%82%b6%e3%82%a8%e3%81%95%e3%82%93) | サザエさん is a popular Japanese manga and anime series that follows the everyday life of a family living in a small fishing village. The title translates to "Sazae-san" in English. It is one of the longest running anime series, having been in production since 1969. |
+| 18 | [Liella](http://twitter.com/search?q=Liella) | N/A |
+| 19 | [フィガロ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ac%e3%83%ad) | フィガロ (figaro) is a Japanese word derived from the Italian opera "The Barber of Seville" by Gioachino Rossini. It is used to refer to a clever and crafty person, or someone who is able to outwit others. In English, it can be translated as "clever one". |
+| 20 | [ブラジャーの日](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 21 | [練習試合](http://twitter.com/search?q=%e7%b7%b4%e7%bf%92%e8%a9%a6%e5%90%88) | N/A |
+| 22 | [アフター](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%bc) | N/A |
+| 23 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
+| 24 | [ラッピング](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0) | N/A |
+| 25 | [ハッピーバレンタイン](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | N/A |
+| 26 | [サークル参加](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e5%8f%82%e5%8a%a0) | N/A |
+| 27 | [無事帰宅](http://twitter.com/search?q=%e7%84%a1%e4%ba%8b%e5%b8%b0%e5%ae%85) | 無事帰宅 (Mujiki Kitaku) is a Japanese phrase that means "safely returned home". It is often used to express relief when someone has returned home safely after being away for a while. |
+| 28 | [友チョコ](http://twitter.com/search?q=%e5%8f%8b%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
+| 29 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 30 | [ドギョム](http://twitter.com/search?q=%e3%83%89%e3%82%ae%e3%83%a7%e3%83%a0) | N/A |
+| 31 | [エゴイスト](http://twitter.com/search?q=%e3%82%a8%e3%82%b4%e3%82%a4%e3%82%b9%e3%83%88) | N/A |
+| 32 | [ムンナイ](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%8a%e3%82%a4) | N/A |
+| 33 | [ALIVE](http://twitter.com/search?q=ALIVE) | N/A |
+| 34 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 35 | [M@STERPIECE](http://twitter.com/search?q=M%40STERPIECE) | N/A |
+| 36 | [松本まり](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%81%be%e3%82%8a) | 松本まり is a Japanese female given name. It is composed of two kanji characters: 松 (matsu) meaning "pine tree" and 本 (moto) meaning "origin, source, main". The name can be translated to mean "original pine tree" or "source of the pine tree". |
+| 37 | [プリコネ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b3%e3%83%8d) | N/A |
+| 38 | [待ち受けプリンス](http://twitter.com/search?q=%e5%be%85%e3%81%a1%e5%8f%97%e3%81%91%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b9) | N/A |
+| 39 | [動物対話士](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e5%af%be%e8%a9%b1%e5%a3%ab) | N/A |
+| 40 | [自作自演](http://twitter.com/search?q=%e8%87%aa%e4%bd%9c%e8%87%aa%e6%bc%94) | N/A |
+| 41 | [飛行物体の撃墜準備](http://twitter.com/search?q=%e9%a3%9b%e8%a1%8c%e7%89%a9%e4%bd%93%e3%81%ae%e6%92%83%e5%a2%9c%e6%ba%96%e5%82%99) | N/A |
+| 42 | [オーバーマスター](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 43 | [アブラボウズ](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%9c%e3%82%a6%e3%82%ba) | N/A |
+| 44 | [イッテQ](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86Q) | イッテQ is a Japanese variety show that has been airing since 2003. The title of the show is a play on words, combining the phrase "itte kimashita" (meaning "it's done") and the letter "Q". The show features celebrity guests, comedians, and other entertainers who participate in various activities and games. In English, the title of the show can be translated to "It's Done Q". |
+| 45 | [ジュエルミート](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab%e3%83%9f%e3%83%bc%e3%83%88) | N/A |
+| 46 | [ヘッドンホホ](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%b3%e3%83%9b%e3%83%9b) | N/A |
+| 47 | [ハッチシロ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%81%e3%82%b7%e3%83%ad) | N/A |
+| 48 | [キャラライブ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%a9%e3%83%a9%e3%82%a4%e3%83%96) | キャラライブ (Kyara Raibu) is a type of live streaming event in Japan that features popular characters from anime, manga, and video games. It is usually held in the form of a concert or talk show, and fans can interact with the characters through chat or voice chat. The English translation of キャラライブ would be "Character Live". |
+| 49 | [氏真くん](http://twitter.com/search?q=%e6%b0%8f%e7%9c%9f%e3%81%8f%e3%82%93) | N/A |
+| 50 | [花ざかり](http://twitter.com/search?q=%e8%8a%b1%e3%81%96%e3%81%8b%e3%82%8a) | N/A |
 
 
 

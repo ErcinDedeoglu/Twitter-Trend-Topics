@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-02-12 12:17:07 UTC`
+📆 Last Updated: `2023-02-12 13:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Charles Darwin](http://twitter.com/search?q=Charles+Darwin) | N/A |
-| 2 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 3 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 4 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 5 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 6 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 7 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 8 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 9 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 11 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 12 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 13 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 14 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 15 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 16 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 17 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 18 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 19 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 20 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 21 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
-| 22 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 23 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 24 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 25 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 26 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 27 | [Ruairi](http://twitter.com/search?q=Ruairi) | N/A |
-| 28 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
-| 29 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 30 | [Selles](http://twitter.com/search?q=Selles) | N/A |
-| 31 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 32 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 33 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 34 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 35 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
-| 36 | [GIDS](http://twitter.com/search?q=GIDS) | N/A |
-| 37 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 38 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
-| 39 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
-| 40 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 41 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 42 | [Tavistock](http://twitter.com/search?q=Tavistock) | N/A |
-| 43 | [lisa nandy](http://twitter.com/search?q=lisa+nandy) | N/A |
-| 44 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 45 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 47 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 48 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 49 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 50 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 1 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 2 | [#ASongOrMovieForSportsInUSA](http://twitter.com/search?q=%23ASongOrMovieForSportsInUSA) | N/A |
+| 3 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 4 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 5 | [far right](http://twitter.com/search?q=far+right) | N/A |
+| 6 | [#TwitterModelTrainShow](http://twitter.com/search?q=%23TwitterModelTrainShow) | N/A |
+| 7 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 8 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 10 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 11 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 12 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 13 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 14 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 15 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 16 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 17 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 18 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 19 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 20 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 21 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 22 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 23 | [Ellwood](http://twitter.com/search?q=Ellwood) | N/A |
+| 24 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 25 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 26 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 27 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 28 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 29 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 30 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 31 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
+| 32 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 33 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 34 | [John Redwood](http://twitter.com/search?q=John+Redwood) | N/A |
+| 35 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 36 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 37 | [Ruairi](http://twitter.com/search?q=Ruairi) | N/A |
+| 38 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 39 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 40 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
+| 41 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 42 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
+| 43 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 44 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 45 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 46 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 47 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 48 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 49 | [Charles Darwin](http://twitter.com/search?q=Charles+Darwin) | N/A |
+| 50 | [GIDS](http://twitter.com/search?q=GIDS) | N/A |
 
 
 

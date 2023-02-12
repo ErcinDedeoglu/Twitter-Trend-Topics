@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-12 12:17:58 UTC`
+📆 Last Updated: `2023-02-12 13:19:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Odermatt](http://twitter.com/search?q=%23Odermatt) | N/A |
+| 1 | [#wahlenBL](http://twitter.com/search?q=%23wahlenBL) | N/A |
 | 2 | [#WahlZH23](http://twitter.com/search?q=%23WahlZH23) | N/A |
-| 3 | [#wahlenBL](http://twitter.com/search?q=%23wahlenBL) | N/A |
-| 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 5 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
+| 3 | [Gemeinden](http://twitter.com/search?q=Gemeinden) | N/A |
+| 4 | [#Odermatt](http://twitter.com/search?q=%23Odermatt) | N/A |
+| 5 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 6 | [Servette FC](http://twitter.com/search?q=Servette+FC) | N/A |
-| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 8 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 9 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 10 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 11 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 12 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
-| 13 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 14 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 16 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 7 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
+| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 9 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 10 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 11 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 12 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 13 | [Resultate](http://twitter.com/search?q=Resultate) | N/A |
+| 14 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 15 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 18 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
-| 19 | [Resultate](http://twitter.com/search?q=Resultate) | N/A |
-| 20 | [schuhe](http://twitter.com/search?q=schuhe) | N/A |
-| 21 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 22 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 27 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
-| 28 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 29 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 33 | [Gemeinden](http://twitter.com/search?q=Gemeinden) | N/A |
-| 34 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 35 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 36 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
-| 37 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 38 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 39 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 40 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 41 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 42 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 43 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 44 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 45 | [zufall](http://twitter.com/search?q=zufall) | N/A |
-| 46 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 47 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
-| 48 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 49 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 50 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
+| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 20 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 21 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 22 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
+| 23 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 24 | [Abstand](http://twitter.com/search?q=Abstand) | N/A |
+| 25 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 26 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 27 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 28 | [Familien](http://twitter.com/search?q=Familien) | N/A |
+| 29 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 30 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 37 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 38 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 39 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
+| 40 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 41 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 42 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 43 | [Reich](http://twitter.com/search?q=Reich) | N/A |
+| 44 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 45 | [Ansicht](http://twitter.com/search?q=Ansicht) | N/A |
+| 46 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 47 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 48 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 49 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
+| 50 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 
 
 

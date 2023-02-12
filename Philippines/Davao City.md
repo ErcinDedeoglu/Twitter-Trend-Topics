@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-12 12:17:31 UTC`
+📆 Last Updated: `2023-02-12 13:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
+| 1 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
 | 2 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
-| 3 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
-| 4 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 5 | [#DreamMakerWithBINI](http://twitter.com/search?q=%23DreamMakerWithBINI) | N/A |
-| 6 | [ALDENtheStar MrMtheStarMaker](http://twitter.com/search?q=ALDENtheStar+MrMtheStarMaker) | N/A |
-| 7 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 8 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 9 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 10 | [REYSTER THE ONLY ONE](http://twitter.com/search?q=REYSTER+THE+ONLY+ONE) | N/A |
-| 11 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 12 | [jaejoong](http://twitter.com/search?q=jaejoong) | N/A |
-| 13 | [Team Bahay](http://twitter.com/search?q=Team+Bahay) | N/A |
-| 14 | [VINSTER DEBUT 2GETHER](http://twitter.com/search?q=VINSTER+DEBUT+2GETHER) | N/A |
-| 15 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 16 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 17 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 18 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 19 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 20 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 21 | [#ALDENmeetsMrM](http://twitter.com/search?q=%23ALDENmeetsMrM) | N/A |
-| 22 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
-| 23 | [#sundaywithmcyeonjun](http://twitter.com/search?q=%23sundaywithmcyeonjun) | N/A |
-| 24 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
-| 25 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 26 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
-| 27 | [#TheAceReyster](http://twitter.com/search?q=%23TheAceReyster) | N/A |
-| 28 | [#CassyLegaspi](http://twitter.com/search?q=%23CassyLegaspi) | N/A |
-| 29 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
-| 30 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
-| 31 | [#GraphikaManila2023](http://twitter.com/search?q=%23GraphikaManila2023) | N/A |
-| 32 | [#GlobeKmmunityPH](http://twitter.com/search?q=%23GlobeKmmunityPH) | N/A |
-| 33 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
-| 34 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 35 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
-| 36 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
-| 37 | [#DreamMaker_JEROMY](http://twitter.com/search?q=%23DreamMaker_JEROMY) | N/A |
-| 38 | [#ILoveASAP](http://twitter.com/search?q=%23ILoveASAP) | N/A |
-| 39 | [#BOYCOTTTuloyTBADNLaban704](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban704) | N/A |
-| 40 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
-| 41 | [#maniac_skz](http://twitter.com/search?q=%23maniac_skz) | N/A |
-| 42 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 43 | [#MANIACinMNL](http://twitter.com/search?q=%23MANIACinMNL) | N/A |
+| 3 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
+| 4 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
+| 5 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
+| 6 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 7 | [DASH](http://twitter.com/search?q=DASH) | N/A |
+| 8 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 9 | [Josh L](http://twitter.com/search?q=Josh+L) | N/A |
+| 10 | [ALDENtheStar MrMtheStarMaker](http://twitter.com/search?q=ALDENtheStar+MrMtheStarMaker) | N/A |
+| 11 | [MentorDARREN for DMFinale](http://twitter.com/search?q=MentorDARREN+for+DMFinale) | N/A |
+| 12 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 13 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 14 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 15 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 16 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
+| 17 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
+| 18 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 19 | [Team Bahay](http://twitter.com/search?q=Team+Bahay) | N/A |
+| 20 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 21 | [Captain Nam](http://twitter.com/search?q=Captain+Nam) | N/A |
+| 22 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 23 | [Jaejoong](http://twitter.com/search?q=Jaejoong) | N/A |
+| 24 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 25 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 26 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 27 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 28 | [#ALDENmeetsMrM](http://twitter.com/search?q=%23ALDENmeetsMrM) | N/A |
+| 29 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 30 | [#TheClashAgawanNgUpuan](http://twitter.com/search?q=%23TheClashAgawanNgUpuan) | N/A |
+| 31 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 32 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
+| 33 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
+| 34 | [#STE1LARCUS_TheRadiantJuan](http://twitter.com/search?q=%23STE1LARCUS_TheRadiantJuan) | N/A |
+| 35 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
+| 36 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
+| 37 | [#BrightestStar](http://twitter.com/search?q=%23BrightestStar) | N/A |
+| 38 | [#Brigiding](http://twitter.com/search?q=%23Brigiding) | N/A |
+| 39 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 40 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
+| 41 | [#CassyLegaspi](http://twitter.com/search?q=%23CassyLegaspi) | N/A |
+| 42 | [#TheUltimateDragExperience](http://twitter.com/search?q=%23TheUltimateDragExperience) | N/A |
+| 43 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
+| 44 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 45 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
+| 46 | [#GraphikaManila2023](http://twitter.com/search?q=%23GraphikaManila2023) | N/A |
+| 47 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
 
 
 
