@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-12 04:16:54 UTC`
+📆 Last Updated: `2023-02-12 05:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 2 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 3 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 4 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 2 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
+| 3 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
+| 4 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 5 | [#RosaChemical](http://twitter.com/search?q=%23RosaChemical) | N/A |
-| 6 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 7 | [Vanoni](http://twitter.com/search?q=Vanoni) | N/A |
-| 8 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 9 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 10 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 11 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 14 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 15 | [#GinoPaoli](http://twitter.com/search?q=%23GinoPaoli) | N/A |
-| 16 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 17 | [Elenoire](http://twitter.com/search?q=Elenoire) | N/A |
-| 18 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 19 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 20 | [Cenere](http://twitter.com/search?q=Cenere) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 23 | [#Ferragnez](http://twitter.com/search?q=%23Ferragnez) | N/A |
-| 24 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
-| 25 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 26 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 27 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
-| 28 | [#Fiorello](http://twitter.com/search?q=%23Fiorello) | N/A |
+| 6 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
+| 7 | [tananai](http://twitter.com/search?q=tananai) | N/A |
+| 8 | [#LecceRoma](http://twitter.com/search?q=%23LecceRoma) | N/A |
+| 9 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 10 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 11 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
+| 12 | [#LazioAtalanta](http://twitter.com/search?q=%23LazioAtalanta) | N/A |
+| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 14 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 15 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 16 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 17 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 18 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
+| 19 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
+| 20 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 21 | [CODICE 04](http://twitter.com/search?q=CODICE+04) | N/A |
+| 22 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
+| 23 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 24 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 25 | [little tony](http://twitter.com/search?q=little+tony) | N/A |
+| 26 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 27 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 29 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 30 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 31 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 32 | [cuccarini](http://twitter.com/search?q=cuccarini) | N/A |
+| 33 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 34 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 35 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
+| 36 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 37 | [Ultimo 4](http://twitter.com/search?q=Ultimo+4) | N/A |
+| 38 | [zarrillo](http://twitter.com/search?q=zarrillo) | N/A |
+| 39 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 40 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 41 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 42 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 45 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
+| 48 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 49 | [MA CHE TI SEMBRO UN MOSTRO](http://twitter.com/search?q=MA+CHE+TI+SEMBRO+UN+MOSTRO) | N/A |
+| 50 | [Cenere](http://twitter.com/search?q=Cenere) | N/A |
 
 
 

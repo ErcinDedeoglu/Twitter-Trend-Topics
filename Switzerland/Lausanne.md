@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-12 04:16:56 UTC`
+📆 Last Updated: `2023-02-12 05:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,42 +26,42 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
 | 10 | [Servette FC](http://twitter.com/search?q=Servette+FC) | N/A |
 | 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 13 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
-| 14 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 15 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 16 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
-| 17 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 18 | [pierre palmade](http://twitter.com/search?q=pierre+palmade) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 22 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 23 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 12 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 13 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 14 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 16 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 17 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 21 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 23 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 24 | [konto](http://twitter.com/search?q=konto) | N/A |
 | 25 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
 | 26 | [skifahren](http://twitter.com/search?q=skifahren) | N/A |
-| 27 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 28 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 29 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 30 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
 | 31 | [Reich](http://twitter.com/search?q=Reich) | N/A |
 | 32 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 33 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
-| 34 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 35 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 36 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 37 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 38 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 39 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 40 | [luzern](http://twitter.com/search?q=luzern) | N/A |
-| 41 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [Hals](http://twitter.com/search?q=Hals) | N/A |
-| 44 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 45 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 46 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 47 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 34 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 35 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 36 | [États-Unis](http://twitter.com/search?q=%c3%89tats-Unis) | N/A |
+| 37 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 38 | [luzern](http://twitter.com/search?q=luzern) | N/A |
+| 39 | [Hals](http://twitter.com/search?q=Hals) | N/A |
+| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 42 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 43 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 44 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 45 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 46 | [aufarbeitung](http://twitter.com/search?q=aufarbeitung) | N/A |
+| 47 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
 
 
 

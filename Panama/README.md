@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-12 04:17:31 UTC`
+📆 Last Updated: `2023-02-12 05:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Panama
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 7 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
 | 8 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 9 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
+| 9 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
 | 10 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
 | 11 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 12 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 18 | [Lacunza](http://twitter.com/search?q=Lacunza) | N/A |
+| 12 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 13 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 17 | [Lacunza](http://twitter.com/search?q=Lacunza) | N/A |
+| 18 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 19 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 20 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 21 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 22 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 24 | [Alanje](http://twitter.com/search?q=Alanje) | N/A |
-| 25 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 20 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 21 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 22 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 25 | [alanje](http://twitter.com/search?q=alanje) | N/A |
 | 26 | [MEDIO TIEMPO](http://twitter.com/search?q=MEDIO+TIEMPO) | N/A |
-| 27 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
-| 28 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
-| 29 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 30 | [Microbrew](http://twitter.com/search?q=Microbrew) | N/A |
-| 31 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 27 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
+| 28 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 29 | [MicroBrew](http://twitter.com/search?q=MicroBrew) | N/A |
+| 30 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 31 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 32 | [Apertura 2023](http://twitter.com/search?q=Apertura+2023) | N/A |
-| 33 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 34 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 35 | [Jornada 5](http://twitter.com/search?q=Jornada+5) | N/A |
-| 36 | [comarca emberá](http://twitter.com/search?q=comarca+ember%c3%a1) | N/A |
+| 33 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 34 | [Jornada 5](http://twitter.com/search?q=Jornada+5) | N/A |
+| 35 | [comarca emberá](http://twitter.com/search?q=comarca+ember%c3%a1) | N/A |
+| 36 | [Chino](http://twitter.com/search?q=Chino) | N/A |
 | 37 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 38 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
-| 39 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 40 | [Arrocha](http://twitter.com/search?q=Arrocha) | N/A |
-| 41 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 42 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 43 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 44 | [Chino](http://twitter.com/search?q=Chino) | N/A |
-| 45 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 46 | [#VamosVaqueros](http://twitter.com/search?q=%23VamosVaqueros) | N/A |
-| 47 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 48 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 49 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 50 | [La Villa](http://twitter.com/search?q=La+Villa) | N/A |
+| 38 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 39 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 40 | [arrocha](http://twitter.com/search?q=arrocha) | N/A |
+| 41 | [#VamosVaqueros](http://twitter.com/search?q=%23VamosVaqueros) | N/A |
+| 42 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 43 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 44 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 45 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 46 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
+| 47 | [Chiriquí](http://twitter.com/search?q=Chiriqu%c3%ad) | N/A |
+| 48 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 49 | [pedro pascal](http://twitter.com/search?q=pedro+pascal) | N/A |
+| 50 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
 
 
 

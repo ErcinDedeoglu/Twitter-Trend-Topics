@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-12 04:16:52 UTC`
+📆 Last Updated: `2023-02-12 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
-| 2 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
-| 3 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
-| 4 | [#CF63OM](http://twitter.com/search?q=%23CF63OM) | N/A |
-| 5 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 6 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 7 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 8 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 9 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
-| 10 | [Crute](http://twitter.com/search?q=Crute) | N/A |
-| 11 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 12 | [Menifield](http://twitter.com/search?q=Menifield) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 15 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 16 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 17 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 18 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 19 | [Portes](http://twitter.com/search?q=Portes) | N/A |
-| 20 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 21 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 23 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
-| 24 | [Robert Hébras](http://twitter.com/search?q=Robert+H%c3%a9bras) | N/A |
-| 25 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 26 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 27 | [Antoine Dupont](http://twitter.com/search?q=Antoine+Dupont) | N/A |
-| 28 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
-| 29 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 30 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 31 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 32 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
-| 33 | [khaoui](http://twitter.com/search?q=khaoui) | N/A |
-| 34 | [pembele](http://twitter.com/search?q=pembele) | N/A |
-| 35 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 36 | [Kaguya](http://twitter.com/search?q=Kaguya) | N/A |
-| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 2 | [Yair Rodriguez](http://twitter.com/search?q=Yair+Rodriguez) | N/A |
+| 3 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
+| 4 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
+| 5 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
+| 6 | [#CF63OM](http://twitter.com/search?q=%23CF63OM) | N/A |
+| 7 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
+| 8 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 9 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
+| 10 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 11 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 12 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 13 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
+| 14 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 15 | [Menifield](http://twitter.com/search?q=Menifield) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 18 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 19 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 20 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 21 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
+| 22 | [Portes](http://twitter.com/search?q=Portes) | N/A |
+| 23 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 24 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 25 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 26 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
+| 27 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 28 | [ANTOINE DUPONT](http://twitter.com/search?q=ANTOINE+DUPONT) | N/A |
+| 29 | [Robert Hébras](http://twitter.com/search?q=Robert+H%c3%a9bras) | N/A |
+| 30 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 31 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 32 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 33 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 34 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 35 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 36 | [khaoui](http://twitter.com/search?q=khaoui) | N/A |
+| 37 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
 | 38 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 39 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 40 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 41 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
-| 42 | [Pour 1](http://twitter.com/search?q=Pour+1) | N/A |
-| 43 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 44 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
-| 45 | [Involontaire](http://twitter.com/search?q=Involontaire) | N/A |
-| 46 | [Positif](http://twitter.com/search?q=Positif) | N/A |
-| 47 | [Presko](http://twitter.com/search?q=Presko) | N/A |
-| 48 | [Niort](http://twitter.com/search?q=Niort) | N/A |
-| 49 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 50 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
+| 39 | [Kaguya](http://twitter.com/search?q=Kaguya) | N/A |
+| 40 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 42 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 43 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 44 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 45 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
+| 46 | [Pour 1](http://twitter.com/search?q=Pour+1) | N/A |
+| 47 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 48 | [involontaire](http://twitter.com/search?q=involontaire) | N/A |
+| 49 | [Positif](http://twitter.com/search?q=Positif) | N/A |
+| 50 | [Crous](http://twitter.com/search?q=Crous) | N/A |
 
 
 
