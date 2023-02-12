@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-12 03:19:29 UTC`
+📆 Last Updated: `2023-02-12 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
 | 2 | [GirlPowerKantahan WithBelle](http://twitter.com/search?q=GirlPowerKantahan+WithBelle) | N/A |
-| 3 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#ITZY_4th_Anniversary](http://twitter.com/search?q=%23ITZY_4th_Anniversary) | N/A |
-| 6 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 7 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 8 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 9 | [MAHALnaMAHAL YSAGUEL](http://twitter.com/search?q=MAHALnaMAHAL+YSAGUEL) | N/A |
-| 10 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 11 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 12 | [AsapOPM WithLOISA](http://twitter.com/search?q=AsapOPM+WithLOISA) | N/A |
-| 13 | [KODREA FEBIBIG ON IWANTASAP](http://twitter.com/search?q=KODREA+FEBIBIG+ON+IWANTASAP) | N/A |
-| 14 | [comeback is real](http://twitter.com/search?q=comeback+is+real) | N/A |
-| 15 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 16 | [Present for YsaGuel](http://twitter.com/search?q=Present+for+YsaGuel) | N/A |
-| 17 | [deesroom season2](http://twitter.com/search?q=deesroom+season2) | N/A |
-| 18 | [gap pink wedding](http://twitter.com/search?q=gap+pink+wedding) | N/A |
-| 19 | [LOVEan JM YOSURES](http://twitter.com/search?q=LOVEan+JM+YOSURES) | N/A |
-| 20 | [felipstraydogs d-day release](http://twitter.com/search?q=felipstraydogs+d-day+release) | N/A |
-| 21 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 22 | [donny turns 25](http://twitter.com/search?q=donny+turns+25) | N/A |
-| 23 | [WeLoveU SeanLucas](http://twitter.com/search?q=WeLoveU+SeanLucas) | N/A |
-| 24 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 26 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 27 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
-| 28 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 29 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 30 | [Sheena B FabulousFeb](http://twitter.com/search?q=Sheena+B+FabulousFeb) | N/A |
-| 31 | [newstokoyan vivoree](http://twitter.com/search?q=newstokoyan+vivoree) | N/A |
-| 32 | [Lee Chan](http://twitter.com/search?q=Lee+Chan) | N/A |
-| 33 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 34 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
-| 35 | [Happy Fiesta Morong](http://twitter.com/search?q=Happy+Fiesta+Morong) | N/A |
-| 36 | [thirbea the standard](http://twitter.com/search?q=thirbea+the+standard) | N/A |
-| 37 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 38 | [SUNDATE WITH REIVEN](http://twitter.com/search?q=SUNDATE+WITH+REIVEN) | N/A |
-| 39 | [ALAMAT MUSUGOD SA DAVAO](http://twitter.com/search?q=ALAMAT+MUSUGOD+SA+DAVAO) | N/A |
-| 40 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 41 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 42 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 44 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
-| 45 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 46 | [KINAKABAHAN AKO](http://twitter.com/search?q=KINAKABAHAN+AKO) | N/A |
-| 47 | [bgyo on feu ocp2023](http://twitter.com/search?q=bgyo+on+feu+ocp2023) | N/A |
-| 48 | [six cupids prom party](http://twitter.com/search?q=six+cupids+prom+party) | N/A |
-| 49 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 50 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 3 | [#AOSLovesYou](http://twitter.com/search?q=%23AOSLovesYou) | N/A |
+| 4 | [#ILoveASAP](http://twitter.com/search?q=%23ILoveASAP) | N/A |
+| 5 | [ASAPFebEver JONA](http://twitter.com/search?q=ASAPFebEver+JONA) | N/A |
+| 6 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [#ITZY_4th_Anniversary](http://twitter.com/search?q=%23ITZY_4th_Anniversary) | N/A |
+| 9 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
+| 10 | [FILAY OnAOS](http://twitter.com/search?q=FILAY+OnAOS) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [JULIEVERse LovesYou](http://twitter.com/search?q=JULIEVERse+LovesYou) | N/A |
+| 13 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 14 | [KODREA FEBIBIG ON IWANTASAP](http://twitter.com/search?q=KODREA+FEBIBIG+ON+IWANTASAP) | N/A |
+| 15 | [BIRTHDAY NA NI ZEPHANIE](http://twitter.com/search?q=BIRTHDAY+NA+NI+ZEPHANIE) | N/A |
+| 16 | [AsapOPM WithLOISA](http://twitter.com/search?q=AsapOPM+WithLOISA) | N/A |
+| 17 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 18 | [comeback is real](http://twitter.com/search?q=comeback+is+real) | N/A |
+| 19 | [MAHALnaMAHAL YSAGUEL](http://twitter.com/search?q=MAHALnaMAHAL+YSAGUEL) | N/A |
+| 20 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 21 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 22 | [deesroom season2](http://twitter.com/search?q=deesroom+season2) | N/A |
+| 23 | [AllOut JAPSundays](http://twitter.com/search?q=AllOut+JAPSundays) | N/A |
+| 24 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 25 | [gap pink wedding](http://twitter.com/search?q=gap+pink+wedding) | N/A |
+| 26 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
+| 27 | [LOVEan JM YOSURES](http://twitter.com/search?q=LOVEan+JM+YOSURES) | N/A |
+| 28 | [SAM FEBibig Treats](http://twitter.com/search?q=SAM+FEBibig+Treats) | N/A |
+| 29 | [felipstraydogs d-day release](http://twitter.com/search?q=felipstraydogs+d-day+release) | N/A |
+| 30 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
+| 31 | [Present for YsaGuel](http://twitter.com/search?q=Present+for+YsaGuel) | N/A |
+| 32 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 33 | [donny turns 25](http://twitter.com/search?q=donny+turns+25) | N/A |
+| 34 | [Sheena B FabulousFeb](http://twitter.com/search?q=Sheena+B+FabulousFeb) | N/A |
+| 35 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 36 | [WeLove Thea Astley](http://twitter.com/search?q=WeLove+Thea+Astley) | N/A |
+| 37 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
+| 38 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 39 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 40 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 41 | [newstokoyan vivoree](http://twitter.com/search?q=newstokoyan+vivoree) | N/A |
+| 42 | [Lee Chan](http://twitter.com/search?q=Lee+Chan) | N/A |
+| 43 | [GOODLUCK STAYS](http://twitter.com/search?q=GOODLUCK+STAYS) | N/A |
+| 44 | [WeLoveU SeanLucas](http://twitter.com/search?q=WeLoveU+SeanLucas) | N/A |
+| 45 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
+| 46 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 47 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 48 | [BIGBANG](http://twitter.com/search?q=BIGBANG) | BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name BIGBANG is derived from the expression "big bang theory," which refers to the idea that the universe was created in a single explosive event. In English, BIGBANG can be interpreted as an expression of something that has a huge impact or influence on society. |
+| 49 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 50 | [KINAKABAHAN AKO](http://twitter.com/search?q=KINAKABAHAN+AKO) | N/A |
 
 
 

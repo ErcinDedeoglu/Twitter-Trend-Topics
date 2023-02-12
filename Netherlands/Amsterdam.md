@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-12 03:19:19 UTC`
+📆 Last Updated: `2023-02-12 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,20 +25,20 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 8 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
 | 9 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 10 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 12 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 13 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 14 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 15 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 12 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 13 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 14 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 15 | [radboud](http://twitter.com/search?q=radboud) | N/A |
+| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 17 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 18 | [dag 11](http://twitter.com/search?q=dag+11) | N/A |
 | 19 | [Gecondoleerd Martijn](http://twitter.com/search?q=Gecondoleerd+Martijn) | N/A |
-| 20 | [estonia](http://twitter.com/search?q=estonia) | N/A |
-| 21 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 22 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
-| 23 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 22 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 23 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
+| 24 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
 | 25 | [youp](http://twitter.com/search?q=youp) | N/A |
 | 26 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 27 | [Simons](http://twitter.com/search?q=Simons) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 29 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
 | 30 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Memento Rob](http://twitter.com/search?q=Memento+Rob) | N/A |
+| 32 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 33 | [beursplein](http://twitter.com/search?q=beursplein) | N/A |
 | 34 | [suslov](http://twitter.com/search?q=suslov) | N/A |
 | 35 | [goedemorgen daisy](http://twitter.com/search?q=goedemorgen+daisy) | N/A |
 | 36 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
 | 37 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
 | 38 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
-| 39 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 40 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 41 | [KNVB Beker](http://twitter.com/search?q=KNVB+Beker) | N/A |
-| 42 | [Russische](http://twitter.com/search?q=Russische) | N/A |
-| 43 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 44 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 45 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 46 | [sven hulleman](http://twitter.com/search?q=sven+hulleman) | N/A |
-| 47 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 48 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 49 | [Metz](http://twitter.com/search?q=Metz) | N/A |
-| 50 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
+| 39 | [Memento Rob](http://twitter.com/search?q=Memento+Rob) | N/A |
+| 40 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
+| 41 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 42 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 43 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 44 | [sven hulleman](http://twitter.com/search?q=sven+hulleman) | N/A |
+| 45 | [Harris Reed](http://twitter.com/search?q=Harris+Reed) | N/A |
+| 46 | [Metz](http://twitter.com/search?q=Metz) | N/A |
+| 47 | [daniël](http://twitter.com/search?q=dani%c3%abl) | N/A |
+| 48 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 49 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
+| 50 | [Fortuna Sittard](http://twitter.com/search?q=Fortuna+Sittard) | N/A |
 
 
 

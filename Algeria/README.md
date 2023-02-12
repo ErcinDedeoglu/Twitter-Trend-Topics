@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-12 03:19:50 UTC`
+📆 Last Updated: `2023-02-12 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for Algeria
 | 5 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 6 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 7 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 8 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 9 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 10 | [#نجوي_كرم_بنحبك](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85_%d8%a8%d9%86%d8%ad%d8%a8%d9%83) | N/A |
-| 11 | [#اليسا_كازينو_لبنان](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d8%b3%d8%a7_%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88_%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 8 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 9 | [#نجوي_كرم_بنحبك](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85_%d8%a8%d9%86%d8%ad%d8%a8%d9%83) | N/A |
+| 10 | [#اليسا_كازينو_لبنان](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d8%b3%d8%a7_%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88_%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 11 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 12 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 13 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 | 14 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
@@ -54,8 +54,8 @@ This is top 50 for Algeria
 | 37 | [عبد الصمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b5%d9%85%d8%af) | N/A |
 | 38 | [قيس سعيد](http://twitter.com/search?q=%d9%82%d9%8a%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 39 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 40 | [العمليات الميدانيه التابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 41 | [النظام الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 40 | [النظام الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 41 | [العمليات الميدانيه التابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
 | 42 | [اللغه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
 | 43 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
 | 44 | [القدس المحتله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d9%87) | N/A |

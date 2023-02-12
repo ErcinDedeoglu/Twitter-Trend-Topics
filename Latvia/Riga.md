@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-12 03:19:21 UTC`
+📆 Last Updated: `2023-02-12 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [#ltvsupernova](http://twitter.com/search?q=%23ltvsupernova) | N/A |
 | 2 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
 | 3 | [eirovīziju](http://twitter.com/search?q=eirov%c4%abziju) | N/A |
-| 4 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 5 | [Markus Riva](http://twitter.com/search?q=Markus+Riva) | N/A |
+| 4 | [raum](http://twitter.com/search?q=raum) | N/A |
+| 5 | [markus riva](http://twitter.com/search?q=markus+riva) | N/A |
 | 6 | [liverpūli](http://twitter.com/search?q=liverp%c5%abli) | N/A |
-| 7 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
+| 7 | [patrisha](http://twitter.com/search?q=patrisha) | N/A |
 | 8 | ["Aijā"](http://twitter.com/search?q=%22Aij%c4%81%22) | N/A |
 | 9 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 10 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Latvia](</Latvia>)
 | 21 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 22 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 23 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 24 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 25 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
-| 26 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 27 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
-| 28 | [darba](http://twitter.com/search?q=darba) | N/A |
-| 29 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
-| 30 | [prieks](http://twitter.com/search?q=prieks) | N/A |
-| 31 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
-| 32 | [francijas](http://twitter.com/search?q=francijas) | N/A |
-| 33 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 34 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 35 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 36 | [gribu](http://twitter.com/search?q=gribu) | N/A |
-| 37 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
-| 38 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
-| 39 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 40 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 41 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 42 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
-| 43 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 44 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 45 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 46 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 47 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 48 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 49 | [vismaz](http://twitter.com/search?q=vismaz) | N/A |
-| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 24 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
+| 25 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 26 | [darba](http://twitter.com/search?q=darba) | N/A |
+| 27 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
+| 28 | [prieks](http://twitter.com/search?q=prieks) | N/A |
+| 29 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
+| 30 | [francijas](http://twitter.com/search?q=francijas) | N/A |
+| 31 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 32 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 33 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 34 | [gribu](http://twitter.com/search?q=gribu) | N/A |
+| 35 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
+| 36 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 37 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 38 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
+| 39 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 40 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
+| 41 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 42 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 43 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
+| 44 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 45 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 46 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 47 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 48 | [vismaz](http://twitter.com/search?q=vismaz) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
 
 
 

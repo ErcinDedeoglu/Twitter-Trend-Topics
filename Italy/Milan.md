@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-12 03:19:18 UTC`
+📆 Last Updated: `2023-02-12 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,35 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 1 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 2 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
 | 3 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 4 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
 | 5 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 6 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
-| 7 | [#RosaChemical](http://twitter.com/search?q=%23RosaChemical) | N/A |
-| 8 | [codice 02](http://twitter.com/search?q=codice+02) | N/A |
-| 9 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
-| 10 | [Vanoni](http://twitter.com/search?q=Vanoni) | N/A |
-| 11 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 12 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 13 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 14 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 15 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 16 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 17 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 18 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 19 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 20 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 21 | [Mia Martini](http://twitter.com/search?q=Mia+Martini) | N/A |
-| 22 | [Elenoire](http://twitter.com/search?q=Elenoire) | N/A |
-| 23 | [VOTATE 04](http://twitter.com/search?q=VOTATE+04) | N/A |
-| 24 | [GIANNI CHE](http://twitter.com/search?q=GIANNI+CHE) | N/A |
-| 25 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 26 | [Cenere](http://twitter.com/search?q=Cenere) | N/A |
-| 27 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 28 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 30 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 31 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 32 | [Lucio Dalla](http://twitter.com/search?q=Lucio+Dalla) | N/A |
-| 33 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 34 | [Supereroi](http://twitter.com/search?q=Supereroi) | N/A |
-| 35 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
-| 36 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 37 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
-| 38 | [#Ferragnez](http://twitter.com/search?q=%23Ferragnez) | N/A |
-| 39 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 40 | [#FattidiSanremo](http://twitter.com/search?q=%23FattidiSanremo) | N/A |
-| 41 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 42 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
-| 43 | [#Fiorello](http://twitter.com/search?q=%23Fiorello) | N/A |
+| 6 | [#RosaChemical](http://twitter.com/search?q=%23RosaChemical) | N/A |
+| 7 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 8 | [Vanoni](http://twitter.com/search?q=Vanoni) | N/A |
+| 9 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 10 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 11 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 12 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 15 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 16 | [#GinoPaoli](http://twitter.com/search?q=%23GinoPaoli) | N/A |
+| 17 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 18 | [Elenoire](http://twitter.com/search?q=Elenoire) | N/A |
+| 19 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 20 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 21 | [Cenere](http://twitter.com/search?q=Cenere) | N/A |
+| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 23 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 24 | [#Ferragnez](http://twitter.com/search?q=%23Ferragnez) | N/A |
+| 25 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
+| 26 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
+| 27 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
+| 28 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
+| 29 | [#Fiorello](http://twitter.com/search?q=%23Fiorello) | N/A |
 
 
 

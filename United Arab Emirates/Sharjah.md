@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-02-12 03:19:34 UTC`
+📆 Last Updated: `2023-02-12 04:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 3 | [خالد عيسى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
 | 4 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 5 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 6 | [#جسور_الخير](http://twitter.com/search?q=%23%d8%ac%d8%b3%d9%88%d8%b1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 7 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 6 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 7 | [#جسور_الخير](http://twitter.com/search?q=%23%d8%ac%d8%b3%d9%88%d8%b1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 8 | [الجزيرة](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9) | N/A |
 | 9 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 10 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
@@ -45,20 +45,20 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 28 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
 | 29 | [علي الجزيره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%87) | N/A |
 | 30 | [فوز العين](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
-| 31 | [Ugly or Hot](http://twitter.com/search?q=Ugly+or+Hot) | N/A |
-| 32 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 33 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 34 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 35 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 36 | [Loyal or Player](http://twitter.com/search?q=Loyal+or+Player) | N/A |
-| 37 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 38 | [Short or Tall](http://twitter.com/search?q=Short+or+Tall) | N/A |
-| 39 | [Smart or Stupid](http://twitter.com/search?q=Smart+or+Stupid) | N/A |
-| 40 | [friendly or unfriendly](http://twitter.com/search?q=friendly+or+unfriendly) | N/A |
-| 41 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 42 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
-| 43 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 44 | [ويستهام](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa%d9%87%d8%a7%d9%85) | N/A |
+| 31 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 32 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 33 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 34 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 35 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 36 | [Ugly or Hot](http://twitter.com/search?q=Ugly+or+Hot) | N/A |
+| 37 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 38 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
+| 39 | [Loyal or Player](http://twitter.com/search?q=Loyal+or+Player) | N/A |
+| 40 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 41 | [ويستهام](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa%d9%87%d8%a7%d9%85) | N/A |
+| 42 | [Short or Tall](http://twitter.com/search?q=Short+or+Tall) | N/A |
+| 43 | [Smart or Stupid](http://twitter.com/search?q=Smart+or+Stupid) | N/A |
+| 44 | [Friendly or Unfriendly](http://twitter.com/search?q=Friendly+or+Unfriendly) | N/A |
 | 45 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 46 | [رييس مجلس الشيوخ](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%8a%d9%88%d8%ae) | N/A |
 | 47 | [بن شرقي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b4%d8%b1%d9%82%d9%8a) | N/A |

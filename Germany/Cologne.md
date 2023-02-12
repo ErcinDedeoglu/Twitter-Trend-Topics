@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-12 03:19:18 UTC`
+📆 Last Updated: `2023-02-12 04:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 2 | [#RBLFCU](http://twitter.com/search?q=%23RBLFCU) | N/A |
 | 3 | [#SVWBVB](http://twitter.com/search?q=%23SVWBVB) | N/A |
-| 4 | [#SCFVFB](http://twitter.com/search?q=%23SCFVFB) | N/A |
-| 5 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 4 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 5 | [#SCFVFB](http://twitter.com/search?q=%23SCFVFB) | N/A |
 | 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 7 | [Petition](http://twitter.com/search?q=Petition) | N/A |
 | 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 10 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 11 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 12 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 13 | [Zagadou](http://twitter.com/search?q=Zagadou) | N/A |
-| 14 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 15 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 11 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 12 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 13 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 14 | [zagadou](http://twitter.com/search?q=zagadou) | N/A |
+| 15 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
 | 16 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 17 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 20 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 21 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 22 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 23 | [gesamtschule](http://twitter.com/search?q=gesamtschule) | N/A |
-| 24 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 25 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 26 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 27 | [Visa](http://twitter.com/search?q=Visa) | N/A |
-| 28 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 29 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 30 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
-| 31 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
-| 32 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 33 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 34 | [GNABRY](http://twitter.com/search?q=GNABRY) | N/A |
-| 35 | [Benes](http://twitter.com/search?q=Benes) | N/A |
-| 36 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
-| 37 | [Herr Buschmann](http://twitter.com/search?q=Herr+Buschmann) | N/A |
-| 38 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 39 | [JULIAN BRANDT](http://twitter.com/search?q=JULIAN+BRANDT) | N/A |
-| 40 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 41 | [führich](http://twitter.com/search?q=f%c3%bchrich) | N/A |
-| 42 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 43 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
-| 44 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 21 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 22 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 23 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 24 | [gesamtschule](http://twitter.com/search?q=gesamtschule) | N/A |
+| 25 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 26 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 27 | [elfer](http://twitter.com/search?q=elfer) | N/A |
+| 28 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 29 | [Visa](http://twitter.com/search?q=Visa) | N/A |
+| 30 | [samstagabend](http://twitter.com/search?q=samstagabend) | N/A |
+| 31 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 32 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
+| 33 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 34 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 35 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 36 | [GNABRY](http://twitter.com/search?q=GNABRY) | N/A |
+| 37 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 38 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 39 | [Herr Buschmann](http://twitter.com/search?q=Herr+Buschmann) | N/A |
+| 40 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 41 | [JULIAN BRANDT](http://twitter.com/search?q=JULIAN+BRANDT) | N/A |
+| 42 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 43 | [führich](http://twitter.com/search?q=f%c3%bchrich) | N/A |
+| 44 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
 | 45 | [Frau Käßmann](http://twitter.com/search?q=Frau+K%c3%a4%c3%9fmann) | N/A |
 | 46 | [pfeiffer](http://twitter.com/search?q=pfeiffer) | N/A |
 | 47 | [jatta](http://twitter.com/search?q=jatta) | N/A |
-| 48 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 49 | [Kapitulation](http://twitter.com/search?q=Kapitulation) | N/A |
+| 48 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 49 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
 
 
 

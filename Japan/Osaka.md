@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-12 03:19:50 UTC`
+📆 Last Updated: `2023-02-12 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BiSHバイバイ](http://twitter.com/search?q=%23BiSH%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4) | N/A |
-| 2 | [ゲームマスター](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | ゲームマスター (Game Master) is a term used in role-playing games and other types of gaming to refer to the person who is responsible for setting up and running the game. They are responsible for creating the game world, setting up rules, and refereeing disputes between players. In English, it can be translated as "Game Master". |
-| 3 | [阪神競馬場](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%ab%b6%e9%a6%ac%e5%a0%b4) | N/A |
-| 4 | [プラダリア](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%80%e3%83%aa%e3%82%a2) | プラダリア is a Japanese manga series written and illustrated by Natsumi Itsuki. It follows the story of a young girl named Prada who discovers she has magical powers and embarks on a journey to save her kingdom from an evil witch. The title translates to "Prada's Adventure" in English. |
-| 5 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
-| 6 | [#BiSH特典会](http://twitter.com/search?q=%23BiSH%e7%89%b9%e5%85%b8%e4%bc%9a) | N/A |
+| 2 | [舞台挨拶](http://twitter.com/search?q=%e8%88%9e%e5%8f%b0%e6%8c%a8%e6%8b%b6) | 舞台挨拶 is a Japanese phrase meaning "stage greeting". It refers to a short speech or introduction given by performers before a show or performance. |
+| 3 | [#BiSH特典会大阪](http://twitter.com/search?q=%23BiSH%e7%89%b9%e5%85%b8%e4%bc%9a%e5%a4%a7%e9%98%aa) | N/A |
+| 4 | [阪神競馬場](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%ab%b6%e9%a6%ac%e5%a0%b4) | N/A |
+| 5 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
+| 6 | [日向ぼっこ](http://twitter.com/search?q=%e6%97%a5%e5%90%91%e3%81%bc%e3%81%a3%e3%81%93) | N/A |
 | 7 | [パドック](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%83%e3%82%af) | パドック (paddock) is a term used in horse racing to refer to the area where horses are kept before and after a race. It is also used to refer to the area where horses are kept during training. In English, it can be translated as "stable" or "enclosure". |
-| 8 | [#起きたら802](http://twitter.com/search?q=%23%e8%b5%b7%e3%81%8d%e3%81%9f%e3%82%89802) | N/A |
-| 9 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
-| 10 | [キープガチャ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%97%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 11 | [大阪オートメッセ](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a1%e3%83%83%e3%82%bb) | N/A |
-| 12 | [看護師国家試験](http://twitter.com/search?q=%e7%9c%8b%e8%ad%b7%e5%b8%ab%e5%9b%bd%e5%ae%b6%e8%a9%a6%e9%a8%93) | N/A |
-| 13 | [#あなたを日本の神様に例えると](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e6%97%a5%e6%9c%ac%e3%81%ae%e7%a5%9e%e6%a7%98%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b%e3%81%a8) | N/A |
-| 14 | [ウインディちゃん](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%83%87%e3%82%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 15 | [ワンフェス](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 16 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 17 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
-| 18 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
-| 19 | [ねんどろいど](http://twitter.com/search?q=%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9) | N/A |
-| 20 | [福くん変身](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e5%a4%89%e8%ba%ab) | N/A |
-| 21 | [忍者おじさん](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
-| 22 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
-| 23 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 24 | [京都記念](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e8%a8%98%e5%bf%b5) | 京都記念 is a Japanese holiday that commemorates the establishment of Kyoto as the capital of Japan in 794. It is celebrated on October 22nd each year. In English, it is known as Kyoto Memorial Day. |
-| 25 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
-| 26 | [コンボイの謎](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%9c%e3%82%a4%e3%81%ae%e8%ac%8e) | N/A |
-| 27 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
-| 28 | [ボーボボ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%9c%e3%83%9c) | N/A |
-| 29 | [ワンホビ36展示ギャラリー](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%9b%e3%83%9336%e5%b1%95%e7%a4%ba%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
-| 30 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 31 | [ブラジャーの日](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 32 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 33 | [いちご100](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94100) | N/A |
-| 34 | [村上幸平](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e5%b9%b8%e5%b9%b3) | N/A |
-| 35 | [あと2話](http://twitter.com/search?q=%e3%81%82%e3%81%a82%e8%a9%b1) | N/A |
-| 36 | [アニバ前](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%90%e5%89%8d) | N/A |
-| 37 | [ソノシゴロク](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%82%b7%e3%82%b4%e3%83%ad%e3%82%af) | N/A |
-| 38 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
-| 39 | [闇ジロウ](http://twitter.com/search?q=%e9%97%87%e3%82%b8%e3%83%ad%e3%82%a6) | N/A |
-| 40 | [ヒトツ鬼](http://twitter.com/search?q=%e3%83%92%e3%83%88%e3%83%84%e9%ac%bc) | ヒトツ鬼 (Hitotsu Oni) is a Japanese phrase that literally translates to "One Demon". It is used to describe someone who is very powerful and intimidating. |
-| 41 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
-| 42 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
-| 43 | [西野つかさ](http://twitter.com/search?q=%e8%a5%bf%e9%87%8e%e3%81%a4%e3%81%8b%e3%81%95) | N/A |
-| 44 | [未確認飛行物体](http://twitter.com/search?q=%e6%9c%aa%e7%a2%ba%e8%aa%8d%e9%a3%9b%e8%a1%8c%e7%89%a9%e4%bd%93) | N/A |
-| 45 | [鈴木福くん](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e7%a6%8f%e3%81%8f%e3%82%93) | N/A |
-| 46 | [フィギュア化](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2%e5%8c%96) | N/A |
-| 47 | [和泉兄弟](http://twitter.com/search?q=%e5%92%8c%e6%b3%89%e5%85%84%e5%bc%9f) | N/A |
-| 48 | [新刊完売](http://twitter.com/search?q=%e6%96%b0%e5%88%8a%e5%ae%8c%e5%a3%b2) | N/A |
-| 49 | [マルゼン](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%bc%e3%83%b3) | N/A |
+| 8 | [ウインマイティー](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%83%9e%e3%82%a4%e3%83%86%e3%82%a3%e3%83%bc) | ウインマイティー (Win Mighty) is a Japanese video game company that specializes in developing and publishing mobile games. The company was founded in 2012 and is based in Tokyo, Japan. In English, the name translates to "Mighty Win". |
+| 9 | [プラダリア](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%80%e3%83%aa%e3%82%a2) | プラダリア is a Japanese manga series written and illustrated by Natsumi Itsuki. It follows the story of a young girl named Prada who discovers she has magical powers and embarks on a journey to save her kingdom from an evil witch. The title translates to "Prada's Adventure" in English. |
+| 10 | [指名手配](http://twitter.com/search?q=%e6%8c%87%e5%90%8d%e6%89%8b%e9%85%8d) | N/A |
+| 11 | [ポカポカ](http://twitter.com/search?q=%e3%83%9d%e3%82%ab%e3%83%9d%e3%82%ab) | N/A |
+| 12 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
+| 13 | [#ひろプリ](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%83%97%e3%83%aa) | #ひろプリ is a hashtag used on Twitter in Japan to refer to the popular manga and anime series, "Hiroshima Prefecture". It is used to discuss the series, share fan art, and connect with other fans. In English, it translates to "#HiroshimaPrefecture". |
+| 14 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 15 | [#起きたら802](http://twitter.com/search?q=%23%e8%b5%b7%e3%81%8d%e3%81%9f%e3%82%89802) | N/A |
+| 16 | [モーニング](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | モーニング is a type of Japanese pop music, often featuring upbeat and cheerful melodies. In English, it can be translated as "morning music". |
+| 17 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 18 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
+| 19 | [大阪オートメッセ](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a1%e3%83%83%e3%82%bb) | N/A |
+| 20 | [看護師国家試験](http://twitter.com/search?q=%e7%9c%8b%e8%ad%b7%e5%b8%ab%e5%9b%bd%e5%ae%b6%e8%a9%a6%e9%a8%93) | N/A |
+| 21 | [キープガチャ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%97%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 22 | [#スプラトゥーン3フェス](http://twitter.com/search?q=%23%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88%e3%82%a5%e3%83%bc%e3%83%b33%e3%83%95%e3%82%a7%e3%82%b9) | #スプラトゥーン3フェス is a hashtag used to promote the Splatoon 3 Festival, an event held in Japan to celebrate the release of the third installment of the Splatoon video game series. The event includes tournaments, live music performances, and other activities. In English, it translates to "Splatoon 3 Festival". |
+| 23 | [ウインディちゃん](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%83%87%e3%82%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [ワンフェス](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 25 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
+| 26 | [いちご100](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94100) | N/A |
+| 27 | [ねんどろいど](http://twitter.com/search?q=%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9) | N/A |
+| 28 | [ドンブラ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9) | ドンブラ (Donburako) is a Japanese game similar to the Western game of Jacks. It is played by throwing five small metal pieces into the air and then catching them on the back of one's hand. The object of the game is to pick up as many pieces as possible in one throw. In English, it is sometimes referred to as "Five Stones". |
+| 29 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 30 | [西野つかさ](http://twitter.com/search?q=%e8%a5%bf%e9%87%8e%e3%81%a4%e3%81%8b%e3%81%95) | N/A |
+| 31 | [レジェンドシップ](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89%e3%82%b7%e3%83%83%e3%83%97) | N/A |
+| 32 | [コススペ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%82%b9%e3%83%9a) | コススペ is short for コスプレスペシャル, which means cosplay special. It is a term used to describe events or activities that involve dressing up in costumes and acting out characters from anime, manga, video games, and other popular media. |
+| 33 | [京都記念](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e8%a8%98%e5%bf%b5) | 京都記念 is a Japanese holiday that commemorates the establishment of Kyoto as the capital of Japan in 794. It is celebrated on October 22nd each year. In English, it is known as Kyoto Memorial Day. |
+| 34 | [アニバ前](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%90%e5%89%8d) | N/A |
+| 35 | [ブラジャーの日](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 36 | [福くん変身](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e5%a4%89%e8%ba%ab) | N/A |
+| 37 | [フィギュア](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
+| 38 | [アクターズリーグ](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%bf%e3%83%bc%e3%82%ba%e3%83%aa%e3%83%bc%e3%82%b0) | N/A |
+| 39 | [ボーボボ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%9c%e3%83%9c) | N/A |
+| 40 | [マルゼン](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%bc%e3%83%b3) | N/A |
+| 41 | [忍者おじさん](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
+| 42 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
+| 43 | [コンボイの謎](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%9c%e3%82%a4%e3%81%ae%e8%ac%8e) | N/A |
+| 44 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 45 | [共同通信杯](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1%e6%9d%af) | N/A |
+| 46 | [エルリック兄弟](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%aa%e3%83%83%e3%82%af%e5%85%84%e5%bc%9f) | N/A |
+| 47 | [石田さん](http://twitter.com/search?q=%e7%9f%b3%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 48 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 49 | [練習試合](http://twitter.com/search?q=%e7%b7%b4%e7%bf%92%e8%a9%a6%e5%90%88) | N/A |
 
 
 

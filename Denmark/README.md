@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-12 03:19:52 UTC`
+📆 Last Updated: `2023-02-12 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for Denmark
 | 4 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 5 | [næstved](http://twitter.com/search?q=n%c3%a6stved) | N/A |
 | 6 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 7 | [Heino](http://twitter.com/search?q=Heino) | N/A |
+| 7 | [heino](http://twitter.com/search?q=heino) | N/A |
 | 8 | [Nicklas Sonne](http://twitter.com/search?q=Nicklas+Sonne) | N/A |
 | 9 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
 | 10 | [Reiley](http://twitter.com/search?q=Reiley) | N/A |
 | 11 | [#arsenaldk](http://twitter.com/search?q=%23arsenaldk) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [#WHUCHE](http://twitter.com/search?q=%23WHUCHE) | N/A |
+| 13 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
 | 14 | [lige her](http://twitter.com/search?q=lige+her) | N/A |
 | 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
@@ -47,13 +47,13 @@ This is top 50 for Denmark
 | 30 | [Holger](http://twitter.com/search?q=Holger) | N/A |
 | 31 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 32 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 33 | [mærsk](http://twitter.com/search?q=m%c3%a6rsk) | N/A |
+| 33 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
 | 34 | [mærkeligt](http://twitter.com/search?q=m%c3%a6rkeligt) | N/A |
 | 35 | [støjberg](http://twitter.com/search?q=st%c3%b8jberg) | N/A |
 | 36 | [atlantic cup](http://twitter.com/search?q=atlantic+cup) | N/A |
 | 37 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
 | 38 | [horsens](http://twitter.com/search?q=horsens) | N/A |
-| 39 | [Politiken](http://twitter.com/search?q=Politiken) | N/A |
+| 39 | [politiken](http://twitter.com/search?q=politiken) | N/A |
 | 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 41 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 42 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |

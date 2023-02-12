@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-12 03:19:54 UTC`
+📆 Last Updated: `2023-02-12 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for Latvia
 | 1 | [#ltvsupernova](http://twitter.com/search?q=%23ltvsupernova) | N/A |
 | 2 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
 | 3 | [eirovīziju](http://twitter.com/search?q=eirov%c4%abziju) | N/A |
-| 4 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 5 | [Markus Riva](http://twitter.com/search?q=Markus+Riva) | N/A |
+| 4 | [raum](http://twitter.com/search?q=raum) | N/A |
+| 5 | [markus riva](http://twitter.com/search?q=markus+riva) | N/A |
 | 6 | [liverpūli](http://twitter.com/search?q=liverp%c5%abli) | N/A |
-| 7 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
+| 7 | [patrisha](http://twitter.com/search?q=patrisha) | N/A |
 | 8 | ["Aijā"](http://twitter.com/search?q=%22Aij%c4%81%22) | N/A |
 | 9 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 10 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-12 03:19:47 UTC`
+📆 Last Updated: `2023-02-12 04:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Franz](http://twitter.com/search?q=Franz) | N/A |
 | 2 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 3 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 4 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
-| 5 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 6 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 7 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 9 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 10 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 11 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 12 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 13 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 14 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 15 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 16 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 18 | [panarin](http://twitter.com/search?q=panarin) | N/A |
-| 19 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 20 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 21 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 22 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 23 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 24 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 25 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 26 | [Tyson Pedro](http://twitter.com/search?q=Tyson+Pedro) | N/A |
-| 27 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 28 | [Havre](http://twitter.com/search?q=Havre) | N/A |
-| 29 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 32 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 33 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 34 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 35 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 36 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 37 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 38 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 39 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 40 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 41 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 42 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 43 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
-| 44 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 45 | [Culibao](http://twitter.com/search?q=Culibao) | N/A |
-| 46 | [Sammy Blais](http://twitter.com/search?q=Sammy+Blais) | N/A |
-| 47 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 48 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 49 | [War of the Worlds](http://twitter.com/search?q=War+of+the+Worlds) | N/A |
+| 3 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 4 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 5 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 6 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
+| 7 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 8 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 10 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 11 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 13 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 14 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 15 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 16 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 17 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 18 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 20 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 21 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 22 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 24 | [Menifield](http://twitter.com/search?q=Menifield) | N/A |
+| 25 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 26 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 27 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 28 | [Jens Pulver](http://twitter.com/search?q=Jens+Pulver) | N/A |
+| 29 | [Justin Tafa](http://twitter.com/search?q=Justin+Tafa) | N/A |
+| 30 | [#VargasFoster](http://twitter.com/search?q=%23VargasFoster) | N/A |
+| 31 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 32 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 33 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 34 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 35 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 36 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 37 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 38 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 39 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
+| 40 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 41 | [Tyson Pedro](http://twitter.com/search?q=Tyson+Pedro) | N/A |
+| 42 | [Havre](http://twitter.com/search?q=Havre) | N/A |
+| 43 | [Parker Porter](http://twitter.com/search?q=Parker+Porter) | N/A |
+| 44 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 45 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 46 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 47 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 48 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 49 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 
 
 

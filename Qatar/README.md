@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-12 03:19:56 UTC`
+📆 Last Updated: `2023-02-12 04:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,20 +51,20 @@ This is top 50 for Qatar
 | 34 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 35 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 36 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 37 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 39 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
-| 40 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 41 | [Title Show of KIAHF 2023](http://twitter.com/search?q=Title+Show+of+KIAHF+2023) | N/A |
-| 42 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 43 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 44 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 45 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
-| 46 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 47 | [الخوذ البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%88%d8%b0+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
-| 48 | [علي الانسان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 49 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 38 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
+| 39 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 40 | [Title Show of KIAHF 2023](http://twitter.com/search?q=Title+Show+of+KIAHF+2023) | N/A |
+| 41 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 42 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 43 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 44 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 45 | [الخوذ البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%88%d8%b0+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
+| 46 | [علي الانسان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 47 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 48 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 49 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 50 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 
 
 

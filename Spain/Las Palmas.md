@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-12 03:19:20 UTC`
+📆 Last Updated: `2023-02-12 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#COAC2023C6](http://twitter.com/search?q=%23COAC2023C6) | N/A |
 | 3 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
 | 4 | [Alcarràs](http://twitter.com/search?q=Alcarr%c3%a0s) | N/A |
-| 5 | [Clara Lago](http://twitter.com/search?q=Clara+Lago) | N/A |
+| 5 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
 | 6 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 7 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 7 | [Clara Lago](http://twitter.com/search?q=Clara+Lago) | N/A |
 | 8 | [Rodrigo Sorogoyen](http://twitter.com/search?q=Rodrigo+Sorogoyen) | N/A |
-| 9 | [Laia Costa](http://twitter.com/search?q=Laia+Costa) | N/A |
-| 10 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 11 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
-| 12 | [Denis Ménochet](http://twitter.com/search?q=Denis+M%c3%a9nochet) | N/A |
-| 13 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 14 | [Juliette Binoche](http://twitter.com/search?q=Juliette+Binoche) | N/A |
-| 15 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
-| 16 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
-| 17 | [Susi Sánchez](http://twitter.com/search?q=Susi+S%c3%a1nchez) | N/A |
-| 18 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 19 | [Laura Galán](http://twitter.com/search?q=Laura+Gal%c3%a1n) | N/A |
-| 20 | [Carlos Cuevas](http://twitter.com/search?q=Carlos+Cuevas) | N/A |
-| 21 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
-| 22 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 25 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
-| 26 | [Oso de Oro](http://twitter.com/search?q=Oso+de+Oro) | N/A |
-| 27 | [Belle Epoque](http://twitter.com/search?q=Belle+Epoque) | N/A |
-| 28 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 29 | [Mr. Rain](http://twitter.com/search?q=Mr.+Rain) | N/A |
-| 30 | [Fernando Esteso](http://twitter.com/search?q=Fernando+Esteso) | N/A |
-| 31 | [Labordeta](http://twitter.com/search?q=Labordeta) | N/A |
-| 32 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 33 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
-| 34 | [#FMSEspana](http://twitter.com/search?q=%23FMSEspana) | N/A |
-| 35 | [Cerdita](http://twitter.com/search?q=Cerdita) | N/A |
-| 36 | [Carlos del Amor](http://twitter.com/search?q=Carlos+del+Amor) | N/A |
-| 37 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 38 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 39 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 40 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 41 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
-| 42 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 43 | [Penélope Cruz](http://twitter.com/search?q=Pen%c3%a9lope+Cruz) | N/A |
-| 44 | [Raphael](http://twitter.com/search?q=Raphael) | N/A |
-| 45 | [Anna Castillo](http://twitter.com/search?q=Anna+Castillo) | N/A |
-| 46 | [Isabel Peña](http://twitter.com/search?q=Isabel+Pe%c3%b1a) | N/A |
-| 47 | [Mantícora](http://twitter.com/search?q=Mant%c3%adcora) | N/A |
-| 48 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
-| 49 | [Albert Serra](http://twitter.com/search?q=Albert+Serra) | N/A |
+| 9 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 10 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
+| 11 | [Denis Ménochet](http://twitter.com/search?q=Denis+M%c3%a9nochet) | N/A |
+| 12 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
+| 13 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
+| 14 | [Carlos Cuevas](http://twitter.com/search?q=Carlos+Cuevas) | N/A |
+| 15 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 16 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 17 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
+| 18 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
+| 19 | [Oso de Oro](http://twitter.com/search?q=Oso+de+Oro) | N/A |
+| 20 | [Belle Epoque](http://twitter.com/search?q=Belle+Epoque) | N/A |
+| 21 | [Fernando Esteso](http://twitter.com/search?q=Fernando+Esteso) | N/A |
+| 22 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
+| 23 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 24 | [Mr. Rain](http://twitter.com/search?q=Mr.+Rain) | N/A |
+| 25 | [Carlos del Amor](http://twitter.com/search?q=Carlos+del+Amor) | N/A |
+| 26 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
+| 27 | [Telmo Irureta](http://twitter.com/search?q=Telmo+Irureta) | N/A |
+| 28 | [Raphael](http://twitter.com/search?q=Raphael) | N/A |
+| 29 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 30 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 31 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 32 | [Susi Sánchez](http://twitter.com/search?q=Susi+S%c3%a1nchez) | N/A |
+| 33 | [Anna Castillo](http://twitter.com/search?q=Anna+Castillo) | N/A |
+| 34 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
+| 35 | [Penélope Cruz](http://twitter.com/search?q=Pen%c3%a9lope+Cruz) | N/A |
+| 36 | [Mantícora](http://twitter.com/search?q=Mant%c3%adcora) | N/A |
+| 37 | [Saura](http://twitter.com/search?q=Saura) | N/A |
+| 38 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
+| 39 | [Sanidad Pública](http://twitter.com/search?q=Sanidad+P%c3%bablica) | N/A |
+| 40 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
+| 41 | [santoña](http://twitter.com/search?q=santo%c3%b1a) | N/A |
+| 42 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 43 | [Alauda Ruiz de Azúa](http://twitter.com/search?q=Alauda+Ruiz+de+Az%c3%baa) | N/A |
+| 44 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 45 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
+| 46 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
+| 47 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 48 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 49 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 
 
 
