@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-12 13:19:32 UTC`
+📆 Last Updated: `2023-02-12 14:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
 | 2 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
 | 3 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
-| 4 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
-| 5 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
-| 6 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 7 | [ÜNİVERSİTEME DOKUNMA](http://twitter.com/search?q=%c3%9cN%c4%b0VERS%c4%b0TEME+DOKUNMA) | N/A |
-| 8 | [Sibel Özdemir](http://twitter.com/search?q=Sibel+%c3%96zdemir) | N/A |
-| 9 | [Gökhan Özoğuz](http://twitter.com/search?q=G%c3%b6khan+%c3%96zo%c4%9fuz) | N/A |
-| 10 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
+| 4 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
+| 5 | [#OkullarAçıkKalsın](http://twitter.com/search?q=%23OkullarA%c3%a7%c4%b1kKals%c4%b1n) | N/A |
+| 6 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 7 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 8 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 9 | [ÜNİVERSİTEME DOKUNMA](http://twitter.com/search?q=%c3%9cN%c4%b0VERS%c4%b0TEME+DOKUNMA) | N/A |
+| 10 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
 | 11 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 12 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 13 | [Açılmalı](http://twitter.com/search?q=A%c3%a7%c4%b1lmal%c4%b1) | N/A |
-| 14 | [#KırmızıYelekliler](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1Yelekliler) | N/A |
-| 15 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 16 | [#OkullarAçıkKalsın](http://twitter.com/search?q=%23OkullarA%c3%a7%c4%b1kKals%c4%b1n) | N/A |
-| 17 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 18 | [Kilosu 170](http://twitter.com/search?q=Kilosu+170) | N/A |
-| 19 | [Sertaç Murat Koç](http://twitter.com/search?q=Serta%c3%a7+Murat+Ko%c3%a7) | N/A |
-| 20 | [Ofiste](http://twitter.com/search?q=Ofiste) | N/A |
-| 21 | [Katar Emiri Şeyh Temim](http://twitter.com/search?q=Katar+Emiri+%c5%9eeyh+Temim) | N/A |
-| 22 | [Tv 100](http://twitter.com/search?q=Tv+100) | N/A |
-| 23 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 24 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
-| 25 | [Mikrofonu](http://twitter.com/search?q=Mikrofonu) | N/A |
-| 26 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
-| 27 | [Adalet Bakanı Bekir Bozdağ](http://twitter.com/search?q=Adalet+Bakan%c4%b1+Bekir+Bozda%c4%9f) | N/A |
-| 28 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
-| 29 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
-| 30 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
-| 31 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 32 | [Yavuz Karakuş](http://twitter.com/search?q=Yavuz+Karaku%c5%9f) | N/A |
-| 33 | [Oya Eronat](http://twitter.com/search?q=Oya+Eronat) | N/A |
-| 34 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 35 | [Babala](http://twitter.com/search?q=Babala) | N/A |
-| 36 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 37 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
-| 38 | [Devleti](http://twitter.com/search?q=Devleti) | N/A |
-| 39 | [TMMOB](http://twitter.com/search?q=TMMOB) | N/A |
-| 40 | [Bugün 12 Şubat](http://twitter.com/search?q=Bug%c3%bcn+12+%c5%9eubat) | N/A |
-| 41 | [Saçını](http://twitter.com/search?q=Sa%c3%a7%c4%b1n%c4%b1) | N/A |
-| 42 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
+| 12 | [#kizilkayarahmanistifa](http://twitter.com/search?q=%23kizilkayarahmanistifa) | N/A |
+| 13 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
+| 14 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
+| 15 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 16 | [Ofiste](http://twitter.com/search?q=Ofiste) | N/A |
+| 17 | [TV 100](http://twitter.com/search?q=TV+100) | N/A |
+| 18 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 19 | [Taklide](http://twitter.com/search?q=Taklide) | N/A |
+| 20 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 21 | [Sibel Özdemir](http://twitter.com/search?q=Sibel+%c3%96zdemir) | N/A |
+| 22 | [Açılmalı](http://twitter.com/search?q=A%c3%a7%c4%b1lmal%c4%b1) | N/A |
+| 23 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
+| 24 | [Babala](http://twitter.com/search?q=Babala) | N/A |
+| 25 | [Sertaç Murat Koç](http://twitter.com/search?q=Serta%c3%a7+Murat+Ko%c3%a7) | N/A |
+| 26 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
+| 27 | [Kilosu 170](http://twitter.com/search?q=Kilosu+170) | N/A |
+| 28 | [Adalet Bakanı Bekir Bozdağ](http://twitter.com/search?q=Adalet+Bakan%c4%b1+Bekir+Bozda%c4%9f) | N/A |
+| 29 | [Katar Emiri Şeyh Temim](http://twitter.com/search?q=Katar+Emiri+%c5%9eeyh+Temim) | N/A |
+| 30 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
+| 31 | [Mikrofonu](http://twitter.com/search?q=Mikrofonu) | N/A |
+| 32 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
+| 33 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 34 | [Yavuz Karakuş](http://twitter.com/search?q=Yavuz+Karaku%c5%9f) | N/A |
+| 35 | [Oya Eronat](http://twitter.com/search?q=Oya+Eronat) | N/A |
+| 36 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
+| 37 | [Devleti](http://twitter.com/search?q=Devleti) | N/A |
+| 38 | [Hain](http://twitter.com/search?q=Hain) | N/A |
+| 39 | [Saçını](http://twitter.com/search?q=Sa%c3%a7%c4%b1n%c4%b1) | N/A |
+| 40 | [TMMOB](http://twitter.com/search?q=TMMOB) | N/A |
+| 41 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 42 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
 | 43 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 44 | [Melekler](http://twitter.com/search?q=Melekler) | N/A |
-| 45 | [SEN KİMSİN](http://twitter.com/search?q=SEN+K%c4%b0MS%c4%b0N) | N/A |
-| 46 | [Mahalle](http://twitter.com/search?q=Mahalle) | N/A |
-| 47 | [İşlerine](http://twitter.com/search?q=%c4%b0%c5%9flerine) | N/A |
-| 48 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
-| 49 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 50 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 44 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 45 | [Sıcacık](http://twitter.com/search?q=S%c4%b1cac%c4%b1k) | N/A |
+| 46 | [Vatansız](http://twitter.com/search?q=Vatans%c4%b1z) | N/A |
+| 47 | [Melekler](http://twitter.com/search?q=Melekler) | N/A |
+| 48 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
+| 49 | [Sahibi](http://twitter.com/search?q=Sahibi) | N/A |
+| 50 | [SEN KİMSİN](http://twitter.com/search?q=SEN+K%c4%b0MS%c4%b0N) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-12 13:19:02 UTC`
+📆 Last Updated: `2023-02-12 14:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TeamChevrolet](http://twitter.com/search?q=%23TeamChevrolet) | N/A |
-| 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 3 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 4 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [#Rihanna](http://twitter.com/search?q=%23Rihanna) | N/A |
-| 7 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 8 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 9 | [#CampeasNoVE](http://twitter.com/search?q=%23CampeasNoVE) | N/A |
-| 10 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 11 | [Luisa Stefani](http://twitter.com/search?q=Luisa+Stefani) | Luisa Stefani is a female Italian given name. It is derived from the Latin name Louise, which means "famous warrior". In English, it can be translated to mean "Famous Warrior of God". |
-| 12 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 13 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 14 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 15 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 16 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 17 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 18 | [Missão](http://twitter.com/search?q=Miss%c3%a3o) | N/A |
-| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 20 | [Canja](http://twitter.com/search?q=Canja) | N/A |
-| 21 | [Cobra](http://twitter.com/search?q=Cobra) | N/A |
-| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 24 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 25 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 26 | [Mártir](http://twitter.com/search?q=M%c3%a1rtir) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Volka](http://twitter.com/search?q=Volka) | N/A |
-| 29 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
-| 30 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 31 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 32 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 33 | [Alasca](http://twitter.com/search?q=Alasca) | N/A |
-| 34 | [Guarulhos](http://twitter.com/search?q=Guarulhos) | N/A |
-| 35 | [matue](http://twitter.com/search?q=matue) | N/A |
-| 36 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 37 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
-| 38 | [#TeamAmanda](http://twitter.com/search?q=%23TeamAmanda) | N/A |
-| 39 | [#CODEARC](http://twitter.com/search?q=%23CODEARC) | N/A |
-| 40 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 41 | [#rainhas2023](http://twitter.com/search?q=%23rainhas2023) | N/A |
-| 42 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
-| 43 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 44 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 1 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 4 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
+| 5 | [#Rihanna](http://twitter.com/search?q=%23Rihanna) | N/A |
+| 6 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 7 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 8 | [Bárbara](http://twitter.com/search?q=B%c3%a1rbara) | N/A |
+| 9 | [Milene](http://twitter.com/search?q=Milene) | N/A |
+| 10 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 11 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 12 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 13 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 14 | [#CampeasNoVE](http://twitter.com/search?q=%23CampeasNoVE) | N/A |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
+| 17 | [Beija Flor](http://twitter.com/search?q=Beija+Flor) | N/A |
+| 18 | [Amazonino Mendes](http://twitter.com/search?q=Amazonino+Mendes) | N/A |
+| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 20 | [Sky Brown](http://twitter.com/search?q=Sky+Brown) | N/A |
+| 21 | [luisa stefani](http://twitter.com/search?q=luisa+stefani) | N/A |
+| 22 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 23 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 24 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 25 | [Crivelari](http://twitter.com/search?q=Crivelari) | N/A |
+| 26 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 27 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
+| 28 | [Corinthians x Flamengo](http://twitter.com/search?q=Corinthians+x+Flamengo) | N/A |
+| 29 | [Corinthians Feminino](http://twitter.com/search?q=Corinthians+Feminino) | N/A |
+| 30 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 31 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 32 | [Nilópolis](http://twitter.com/search?q=Nil%c3%b3polis) | N/A |
+| 33 | [Missão](http://twitter.com/search?q=Miss%c3%a3o) | N/A |
+| 34 | [Olinda Beer](http://twitter.com/search?q=Olinda+Beer) | N/A |
+| 35 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 36 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 37 | [COBRA](http://twitter.com/search?q=COBRA) | N/A |
+| 38 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 39 | [kvsh](http://twitter.com/search?q=kvsh) | N/A |
+| 40 | [Canja](http://twitter.com/search?q=Canja) | N/A |
+| 41 | [Coentro](http://twitter.com/search?q=Coentro) | N/A |
+| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 43 | [Mártir](http://twitter.com/search?q=M%c3%a1rtir) | N/A |
+| 44 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 45 | [Woodstock 99](http://twitter.com/search?q=Woodstock+99) | N/A |
+| 46 | [Rede TV](http://twitter.com/search?q=Rede+TV) | N/A |
+| 47 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 48 | [SanSão](http://twitter.com/search?q=SanS%c3%a3o) | N/A |
+| 49 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
+| 50 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

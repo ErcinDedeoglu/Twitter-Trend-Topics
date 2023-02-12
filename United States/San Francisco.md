@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-12 13:19:40 UTC`
+📆 Last Updated: `2023-02-12 14:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
-| 4 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 5 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 9 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 10 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 11 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 13 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
-| 14 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 15 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 16 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 18 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 19 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 20 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 21 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 22 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 23 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
-| 24 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 25 | [Regret](http://twitter.com/search?q=Regret) | N/A |
-| 26 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
-| 27 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 29 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 30 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 31 | [Kansas City Chiefs](http://twitter.com/search?q=Kansas+City+Chiefs) | N/A |
-| 32 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 33 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 34 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 35 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 4 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 5 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 6 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 10 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 11 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 12 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 13 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 16 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 17 | [Trump and Kushner](http://twitter.com/search?q=Trump+and+Kushner) | N/A |
+| 18 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 19 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 20 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 21 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
+| 22 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 23 | [Tyler Adams](http://twitter.com/search?q=Tyler+Adams) | N/A |
+| 24 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
+| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 26 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 27 | [Regret](http://twitter.com/search?q=Regret) | N/A |
+| 28 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
+| 29 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
+| 30 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 31 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 32 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 33 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 34 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
+| 35 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
 | 36 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 37 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 38 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 39 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
-| 40 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 41 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 42 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 43 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 44 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 45 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 46 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 47 | [Digimon](http://twitter.com/search?q=Digimon) | N/A |
-| 48 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 49 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 50 | [#ItsAPhillyThing](http://twitter.com/search?q=%23ItsAPhillyThing) | N/A |
+| 37 | [Tyrus](http://twitter.com/search?q=Tyrus) | N/A |
+| 38 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
+| 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 40 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 41 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 42 | [Sanity](http://twitter.com/search?q=Sanity) | N/A |
+| 43 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 44 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 45 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 46 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
+| 47 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 48 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 49 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 50 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
 
 
 

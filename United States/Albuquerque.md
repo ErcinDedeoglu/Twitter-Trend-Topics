@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-12 13:19:33 UTC`
+📆 Last Updated: `2023-02-12 14:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
 | 2 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
 | 3 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 8 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 12 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 13 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 14 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 15 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 16 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 17 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 18 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 9 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 10 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 11 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 13 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 14 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 15 | [Trump and Kushner](http://twitter.com/search?q=Trump+and+Kushner) | N/A |
+| 16 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 17 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 18 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 19 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
 | 20 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
-| 21 | [Regret](http://twitter.com/search?q=Regret) | N/A |
-| 22 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 23 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 24 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 25 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 26 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 27 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
-| 28 | [Kansas City Chiefs](http://twitter.com/search?q=Kansas+City+Chiefs) | N/A |
-| 29 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 21 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
+| 22 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 23 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 24 | [Regret](http://twitter.com/search?q=Regret) | N/A |
+| 25 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
+| 26 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
+| 27 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 28 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 29 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
 | 30 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 31 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 32 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 33 | [project blue beam](http://twitter.com/search?q=project+blue+beam) | N/A |
-| 34 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 35 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 36 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 37 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 38 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 39 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 40 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 41 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 42 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 43 | [Digimon](http://twitter.com/search?q=Digimon) | N/A |
-| 44 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
-| 45 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 46 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 47 | [#ItsAPhillyThing](http://twitter.com/search?q=%23ItsAPhillyThing) | N/A |
-| 48 | [#Rihanna](http://twitter.com/search?q=%23Rihanna) | N/A |
+| 31 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 32 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
+| 33 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
+| 34 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 35 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 37 | [Sanity](http://twitter.com/search?q=Sanity) | N/A |
+| 38 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 40 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 41 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 42 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
+| 43 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 44 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
+| 45 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 46 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
+| 47 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 48 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
 
 
 

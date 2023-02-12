@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-02-12 13:19:35 UTC`
+📆 Last Updated: `2023-02-12 14:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
-| 2 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 3 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 2 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
+| 3 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 4 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 8 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 10 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
-| 11 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 12 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 13 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 14 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 15 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 16 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 17 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 18 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 19 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
-| 20 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 21 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 22 | [Regret](http://twitter.com/search?q=Regret) | N/A |
-| 23 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 24 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 25 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
-| 26 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
-| 27 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 28 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 29 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 30 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 31 | [Kansas City Chiefs](http://twitter.com/search?q=Kansas+City+Chiefs) | N/A |
+| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 10 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 11 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 12 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 13 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 16 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 17 | [Trump and Kushner](http://twitter.com/search?q=Trump+and+Kushner) | N/A |
+| 18 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 19 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 20 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 21 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
+| 22 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 23 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
+| 24 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 25 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 26 | [Regret](http://twitter.com/search?q=Regret) | N/A |
+| 27 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
+| 28 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
+| 29 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 30 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 31 | [Yair](http://twitter.com/search?q=Yair) | N/A |
 | 32 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 33 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 34 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 35 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
-| 36 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 37 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 38 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 33 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 34 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
+| 35 | [Tyrus](http://twitter.com/search?q=Tyrus) | N/A |
+| 36 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 37 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
+| 38 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
 | 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 40 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 41 | [Digimon](http://twitter.com/search?q=Digimon) | N/A |
-| 42 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 43 | [#지구서_해지아서구](http://twitter.com/search?q=%23%ec%a7%80%ea%b5%ac%ec%84%9c_%ed%95%b4%ec%a7%80%ec%95%84%ec%84%9c%ea%b5%ac) | N/A |
-| 44 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 45 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 46 | [#JanetJacksonAppreciationDay](http://twitter.com/search?q=%23JanetJacksonAppreciationDay) | N/A |
-| 47 | [#ItsAPhillyThing](http://twitter.com/search?q=%23ItsAPhillyThing) | N/A |
-| 48 | [#Rihanna](http://twitter.com/search?q=%23Rihanna) | N/A |
-| 49 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 41 | [Sanity](http://twitter.com/search?q=Sanity) | N/A |
+| 42 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 43 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 44 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 45 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 46 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
+| 47 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 48 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 49 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
 
 
 

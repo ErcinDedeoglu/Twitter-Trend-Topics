@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-12 13:19:12 UTC`
+📆 Last Updated: `2023-02-12 14:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adem Sari Sparkling](http://twitter.com/search?q=Adem+Sari+Sparkling) | N/A |
-| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 3 | [#thombrowneXJohnnySuh](http://twitter.com/search?q=%23thombrowneXJohnnySuh) | N/A |
-| 4 | [Budi Doremi](http://twitter.com/search?q=Budi+Doremi) | N/A |
-| 5 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
-| 6 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
-| 7 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
-| 8 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
-| 9 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 10 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 11 | [Meluk](http://twitter.com/search?q=Meluk) | N/A |
-| 12 | [Nenek](http://twitter.com/search?q=Nenek) | N/A |
-| 13 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
-| 14 | [TRIGGER](http://twitter.com/search?q=TRIGGER) | N/A |
-| 15 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
-| 16 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 17 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 18 | [Tong](http://twitter.com/search?q=Tong) | N/A |
-| 19 | [CLOY](http://twitter.com/search?q=CLOY) | N/A |
-| 20 | [YOU DID WELL NCT 127](http://twitter.com/search?q=YOU+DID+WELL+NCT+127) | N/A |
-| 21 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
-| 22 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
-| 23 | [HAIL IVE THE PROM QUEENS](http://twitter.com/search?q=HAIL+IVE+THE+PROM+QUEENS) | N/A |
-| 24 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 25 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 26 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 27 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 28 | [Ngaji](http://twitter.com/search?q=Ngaji) | N/A |
-| 29 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
-| 30 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 31 | [Bebek](http://twitter.com/search?q=Bebek) | N/A |
-| 32 | [Sambel](http://twitter.com/search?q=Sambel) | N/A |
-| 33 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 34 | [Dots](http://twitter.com/search?q=Dots) | N/A |
-| 35 | [Selawe](http://twitter.com/search?q=Selawe) | N/A |
-| 36 | [Binder](http://twitter.com/search?q=Binder) | N/A |
-| 37 | [Lulu](http://twitter.com/search?q=Lulu) | Lulu is a nickname for the name Louise, which is of French origin and means "famous warrior". It can also be used as a term of endearment. |
-| 38 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 40 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
-| 41 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
-| 42 | [Hari Minggu](http://twitter.com/search?q=Hari+Minggu) | N/A |
-| 43 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 44 | [#shanday](http://twitter.com/search?q=%23shanday) | N/A |
-| 45 | [#IVEPromQueens_D2](http://twitter.com/search?q=%23IVEPromQueens_D2) | N/A |
-| 46 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 47 | [#SRR4thWin](http://twitter.com/search?q=%23SRR4thWin) | N/A |
-| 48 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 2 | [Adem Sari Sparkling](http://twitter.com/search?q=Adem+Sari+Sparkling) | N/A |
+| 3 | [#thombrowne](http://twitter.com/search?q=%23thombrowne) | N/A |
+| 4 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
+| 5 | [GCMA THE FINAL FIGHT](http://twitter.com/search?q=GCMA+THE+FINAL+FIGHT) | N/A |
+| 6 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 7 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 8 | [ARMY RANGERS PARTY](http://twitter.com/search?q=ARMY+RANGERS+PARTY) | N/A |
+| 9 | [#CrashCourseInRomanceEp10](http://twitter.com/search?q=%23CrashCourseInRomanceEp10) | N/A |
+| 10 | [MOMO](http://twitter.com/search?q=MOMO) | MOMO is an acronym for "Mobile Money", which is a type of digital payment system that allows users to transfer money and make payments using their mobile phones. It is popular in many countries, particularly in Africa and Asia. |
+| 11 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
+| 12 | [Budi Doremi](http://twitter.com/search?q=Budi+Doremi) | N/A |
+| 13 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
+| 14 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
+| 15 | [Nenek](http://twitter.com/search?q=Nenek) | N/A |
+| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 17 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
+| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 19 | [kersen](http://twitter.com/search?q=kersen) | N/A |
+| 20 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 21 | [Meluk](http://twitter.com/search?q=Meluk) | N/A |
+| 22 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 23 | [TRIGGER](http://twitter.com/search?q=TRIGGER) | N/A |
+| 24 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
+| 25 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 26 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 28 | [Tong](http://twitter.com/search?q=Tong) | N/A |
+| 29 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 30 | [cloy](http://twitter.com/search?q=cloy) | N/A |
+| 31 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 32 | [YOU DID WELL NCT 127](http://twitter.com/search?q=YOU+DID+WELL+NCT+127) | N/A |
+| 33 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 34 | [Bebek](http://twitter.com/search?q=Bebek) | N/A |
+| 35 | [Ngaji](http://twitter.com/search?q=Ngaji) | N/A |
+| 36 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
+| 37 | [Pantarlih](http://twitter.com/search?q=Pantarlih) | N/A |
+| 38 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 39 | [Lulu](http://twitter.com/search?q=Lulu) | Lulu is a nickname for the name Louise, which is of French origin and means "famous warrior". It can also be used as a term of endearment. |
+| 40 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 41 | [Sambel](http://twitter.com/search?q=Sambel) | N/A |
+| 42 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 43 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 44 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 45 | [Selawe](http://twitter.com/search?q=Selawe) | N/A |
+| 46 | [Binder](http://twitter.com/search?q=Binder) | N/A |
+| 47 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 48 | [#holoIDhiBANADAY2](http://twitter.com/search?q=%23holoIDhiBANADAY2) | N/A |
 
 
 

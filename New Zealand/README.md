@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-12 13:19:46 UTC`
+📆 Last Updated: `2023-02-12 14:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,19 +18,19 @@ This is top 50 for New Zealand
 | 1 | [#CycloneGabrielle](http://twitter.com/search?q=%23CycloneGabrielle) | N/A |
 | 2 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 3 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 4 | [#macvwel](http://twitter.com/search?q=%23macvwel) | N/A |
+| 4 | [#MACvWEL](http://twitter.com/search?q=%23MACvWEL) | N/A |
 | 5 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 6 | [Northland](http://twitter.com/search?q=Northland) | N/A |
 | 7 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 8 | [Monday and Tuesday](http://twitter.com/search?q=Monday+and+Tuesday) | N/A |
 | 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 10 | [Coromandel](http://twitter.com/search?q=Coromandel) | N/A |
+| 10 | [coromandel](http://twitter.com/search?q=coromandel) | N/A |
 | 11 | [Harbour Bridge](http://twitter.com/search?q=Harbour+Bridge) | N/A |
 | 12 | [norfolk island](http://twitter.com/search?q=norfolk+island) | N/A |
 | 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 14 | [Josh](http://twitter.com/search?q=Josh) | N/A |
 | 15 | [Whangarei](http://twitter.com/search?q=Whangarei) | N/A |
-| 16 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 16 | [#AucklandWeather](http://twitter.com/search?q=%23AucklandWeather) | N/A |
 | 17 | [Vector](http://twitter.com/search?q=Vector) | N/A |
 | 18 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 19 | [East](http://twitter.com/search?q=East) | N/A |
@@ -46,16 +46,16 @@ This is top 50 for New Zealand
 | 29 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 30 | [Costco](http://twitter.com/search?q=Costco) | N/A |
 | 31 | [Waiheke](http://twitter.com/search?q=Waiheke) | N/A |
-| 32 | [Takapuna](http://twitter.com/search?q=Takapuna) | N/A |
+| 32 | [takapuna](http://twitter.com/search?q=takapuna) | N/A |
 | 33 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 34 | [Shane](http://twitter.com/search?q=Shane) | N/A |
 | 35 | [Byron](http://twitter.com/search?q=Byron) | N/A |
 | 36 | [te rapa](http://twitter.com/search?q=te+rapa) | N/A |
 | 37 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 38 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
+| 38 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
 | 39 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 40 | [Gisborne](http://twitter.com/search?q=Gisborne) | N/A |
-| 41 | [Tamaki Makaurau](http://twitter.com/search?q=Tamaki+Makaurau) | N/A |
+| 41 | [tamaki makaurau](http://twitter.com/search?q=tamaki+makaurau) | N/A |
 | 42 | [Reported](http://twitter.com/search?q=Reported) | N/A |
 | 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 44 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
