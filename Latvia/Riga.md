@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-12 09:16:44 UTC`
+📆 Last Updated: `2023-02-12 10:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [#LTVSupernova](http://twitter.com/search?q=%23LTVSupernova) | N/A |
 | 2 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
 | 3 | [Eirovīziju](http://twitter.com/search?q=Eirov%c4%abziju) | N/A |
-| 4 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 5 | [Markus](http://twitter.com/search?q=Markus) | N/A |
-| 6 | [liverpūli](http://twitter.com/search?q=liverp%c5%abli) | N/A |
-| 7 | [patrisha](http://twitter.com/search?q=patrisha) | N/A |
-| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 4 | [Markus](http://twitter.com/search?q=Markus) | N/A |
+| 5 | [liverpūli](http://twitter.com/search?q=liverp%c5%abli) | N/A |
+| 6 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 8 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
 | 9 | ["Aijā"](http://twitter.com/search?q=%22Aij%c4%81%22) | N/A |
 | 10 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 11 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
-| 12 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 11 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 12 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
 | 13 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
 | 14 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 16 | [lāčplēša](http://twitter.com/search?q=l%c4%81%c4%8dpl%c4%93%c5%a1a) | N/A |
-| 17 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 18 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 19 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 20 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 21 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
-| 22 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 23 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 24 | [Agrāk](http://twitter.com/search?q=Agr%c4%81k) | N/A |
-| 25 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
-| 26 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
-| 27 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
+| 15 | [lāčplēša](http://twitter.com/search?q=l%c4%81%c4%8dpl%c4%93%c5%a1a) | N/A |
+| 16 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 17 | [viņai](http://twitter.com/search?q=vi%c5%86ai) | N/A |
+| 18 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 19 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 20 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 21 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 22 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 23 | [Agrāk](http://twitter.com/search?q=Agr%c4%81k) | N/A |
+| 24 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
+| 25 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
+| 26 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
+| 27 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 28 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
-| 29 | [darba](http://twitter.com/search?q=darba) | N/A |
-| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 31 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 32 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 33 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
-| 34 | [prieks](http://twitter.com/search?q=prieks) | N/A |
-| 35 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 29 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 30 | [darba](http://twitter.com/search?q=darba) | N/A |
+| 31 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 32 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 33 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 34 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
+| 35 | [prieks](http://twitter.com/search?q=prieks) | N/A |
 | 36 | [francijas](http://twitter.com/search?q=francijas) | N/A |
 | 37 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 38 | [gribu](http://twitter.com/search?q=gribu) | N/A |
-| 39 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 40 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
-| 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 42 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 43 | [Šobrīd](http://twitter.com/search?q=%c5%a0obr%c4%abd) | N/A |
-| 44 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 45 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 46 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 47 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 48 | [ceru](http://twitter.com/search?q=ceru) | N/A |
-| 49 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
-| 50 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 39 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 40 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 41 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 42 | [Šobrīd](http://twitter.com/search?q=%c5%a0obr%c4%abd) | N/A |
+| 43 | [Nesen](http://twitter.com/search?q=Nesen) | N/A |
+| 44 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
+| 45 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 46 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 47 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 48 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 49 | [ceru](http://twitter.com/search?q=ceru) | N/A |
+| 50 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
 
 
 

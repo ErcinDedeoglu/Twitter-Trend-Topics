@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-12 09:16:43 UTC`
+📆 Last Updated: `2023-02-12 10:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,39 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Goya2023](http://twitter.com/search?q=%23Goya2023) | N/A |
-| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 3 | [#COAC2023C6](http://twitter.com/search?q=%23COAC2023C6) | N/A |
-| 4 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
-| 5 | [#APOYOROCIO12F](http://twitter.com/search?q=%23APOYOROCIO12F) | N/A |
-| 6 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 7 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 8 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
-| 9 | [#SanidadPublica](http://twitter.com/search?q=%23SanidadPublica) | N/A |
-| 10 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 11 | [SUSI SÁNCHEZ](http://twitter.com/search?q=SUSI+S%c3%81NCHEZ) | N/A |
-| 12 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
-| 13 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 14 | [Clara Lago](http://twitter.com/search?q=Clara+Lago) | N/A |
-| 15 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 16 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 17 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
-| 18 | [Alcarràs](http://twitter.com/search?q=Alcarr%c3%a0s) | N/A |
-| 19 | [Juliette Binoche](http://twitter.com/search?q=Juliette+Binoche) | N/A |
-| 20 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 21 | [Laia Costa](http://twitter.com/search?q=Laia+Costa) | N/A |
-| 22 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
-| 23 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
-| 24 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 25 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 26 | [manuel godoy](http://twitter.com/search?q=manuel+godoy) | N/A |
-| 27 | [Laura Galán](http://twitter.com/search?q=Laura+Gal%c3%a1n) | N/A |
-| 28 | [Sorogoyen](http://twitter.com/search?q=Sorogoyen) | N/A |
-| 29 | [Telmo Irureta](http://twitter.com/search?q=Telmo+Irureta) | N/A |
-| 30 | [Pape Gueye](http://twitter.com/search?q=Pape+Gueye) | N/A |
-| 31 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 32 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 33 | [Julio Pardo](http://twitter.com/search?q=Julio+Pardo) | N/A |
-| 34 | [Mt 5](http://twitter.com/search?q=Mt+5) | N/A |
-| 35 | [402 X](http://twitter.com/search?q=402+X) | N/A |
-| 36 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 37 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 38 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 39 | [UNAI SIMÓN](http://twitter.com/search?q=UNAI+SIM%c3%93N) | N/A |
-| 40 | [carlos cuevas](http://twitter.com/search?q=carlos+cuevas) | N/A |
-| 41 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 42 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
-| 43 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 44 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
-| 45 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 46 | [Denis Ménochet](http://twitter.com/search?q=Denis+M%c3%a9nochet) | N/A |
-| 47 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 48 | [Carmen Maura](http://twitter.com/search?q=Carmen+Maura) | N/A |
-| 49 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 50 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 2 | [#APOYOROCIO12F](http://twitter.com/search?q=%23APOYOROCIO12F) | N/A |
+| 3 | [#SanidadPublica](http://twitter.com/search?q=%23SanidadPublica) | N/A |
+| 4 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 5 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 6 | [#MadridSeLevantaEl12F](http://twitter.com/search?q=%23MadridSeLevantaEl12F) | N/A |
+| 7 | [402 X](http://twitter.com/search?q=402+X) | N/A |
+| 8 | [#YoMeRebelo12F](http://twitter.com/search?q=%23YoMeRebelo12F) | N/A |
+| 9 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
+| 10 | [Alcarràs](http://twitter.com/search?q=Alcarr%c3%a0s) | N/A |
+| 11 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
+| 12 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 13 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
+| 14 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 15 | [NO A LA GUERRA](http://twitter.com/search?q=NO+A+LA+GUERRA) | N/A |
+| 16 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 17 | [Iceta](http://twitter.com/search?q=Iceta) | N/A |
+| 18 | [Joaquín Sabina](http://twitter.com/search?q=Joaqu%c3%adn+Sabina) | N/A |
+| 19 | [Miserables](http://twitter.com/search?q=Miserables) | N/A |
+| 20 | [Saura](http://twitter.com/search?q=Saura) | N/A |
+| 21 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 22 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 23 | [Sorogoyen](http://twitter.com/search?q=Sorogoyen) | N/A |
+| 24 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 25 | [Muguruza](http://twitter.com/search?q=Muguruza) | N/A |
+| 26 | [Domingo 12](http://twitter.com/search?q=Domingo+12) | N/A |
+| 27 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 28 | [Eduardo Casanova](http://twitter.com/search?q=Eduardo+Casanova) | N/A |
+| 29 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
+| 30 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 31 | [#JapanWeekendMadrid](http://twitter.com/search?q=%23JapanWeekendMadrid) | N/A |
+| 32 | [#AyusoDimisión](http://twitter.com/search?q=%23AyusoDimisi%c3%b3n) | N/A |
+| 33 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 
 
 

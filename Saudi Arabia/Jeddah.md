@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-12 09:16:56 UTC`
+📆 Last Updated: `2023-02-12 10:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 2 | [#يوسف_السالم](http://twitter.com/search?q=%23%d9%8a%d9%88%d8%b3%d9%81_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 3 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 4 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 5 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 6 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 7 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 8 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 9 | [الميداليه الفضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%87) | N/A |
-| 10 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
-| 11 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 12 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 13 | [اللعب النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
-| 14 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
-| 15 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 16 | [نبي الستر](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%b3%d8%aa%d8%b1) | N/A |
-| 17 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 18 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 19 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 20 | [قول ماريغا](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%85%d8%a7%d8%b1%d9%8a%d8%ba%d8%a7) | N/A |
-| 21 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 22 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 23 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 24 | [نادي سعودي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 25 | [المناسبه الغاليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 26 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 27 | [نبي السادس](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 28 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 29 | [سيدات النصر](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 30 | [التاريخيه الراسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d8%ae%d9%87) | N/A |
-| 31 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 32 | [علم السموم](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d9%85%d9%88%d9%85) | N/A |
-| 33 | [اللاعب الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
-| 34 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 35 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 36 | [ذكري التاسيس](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 37 | [لوفتس](http://twitter.com/search?q=%d9%84%d9%88%d9%81%d8%aa%d8%b3) | N/A |
-| 38 | [النشاط الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
-| 39 | [نبي الخامس](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 40 | [خليفه الدوسري](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 41 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 42 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 43 | [مشرف الوطن](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 44 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 45 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 46 | [الاحزاب الايه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b2%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%8a%d9%87) | N/A |
-| 47 | [النجم الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%ac%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
-| 48 | [الكره السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 49 | [الانديه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 50 | [الاجداد الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%af%d8%a7%d8%af+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 1 | [#يوسف_السالم](http://twitter.com/search?q=%23%d9%8a%d9%88%d8%b3%d9%81_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 3 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 4 | [#الهلال_وصيف_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%88%d8%b5%d9%8a%d9%81_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 5 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 6 | [#بهاج_في_العلا](http://twitter.com/search?q=%23%d8%a8%d9%87%d8%a7%d8%ac_%d9%81%d9%8a_%d8%a7%d9%84%d8%b9%d9%84%d8%a7) | N/A |
+| 7 | [الدوله السعوديه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 8 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 9 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 10 | [اللاعب الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
+| 11 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 12 | [المناسبه الغاليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 13 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 14 | [التاسيس السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 15 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 16 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 17 | [ذكري التاسيس](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 18 | [ابن مريم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 19 | [الطابور الصباحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a) | N/A |
+| 20 | [رييس الاتحاد السعودي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 21 | [للمملكة العربية السعودية](http://twitter.com/search?q=%d9%84%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 22 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 23 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 24 | [السرج المذهب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b1%d8%ac+%d8%a7%d9%84%d9%85%d8%b0%d9%87%d8%a8) | السرج المذهب is an Arabic phrase which translates to "the religious clock". It is a metaphor used to refer to the passing of time and the importance of using it wisely. |
+| 25 | [سيدات النصر](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 26 | [#الفضيه_صعبه_قويه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%87_%d8%b5%d8%b9%d8%a8%d9%87_%d9%82%d9%88%d9%8a%d9%87) | N/A |
+| 27 | [#فضفضه](http://twitter.com/search?q=%23%d9%81%d8%b6%d9%81%d8%b6%d9%87) | N/A |
+| 28 | [#تعليم_محايل_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d8%ad%d8%a7%d9%8a%d9%84_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 29 | [#تعليم_المدينه_المنوره](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 30 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 31 | [#ابو_خمسه](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88_%d8%ae%d9%85%d8%b3%d9%87) | N/A |
+| 32 | [#حامد_القارحي](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%85%d8%af_%d8%a7%d9%84%d9%82%d8%a7%d8%b1%d8%ad%d9%8a) | N/A |
+| 33 | [#البحر_الاحمر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%ad%d8%b1_%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 34 | [#تعليم_الزلفي](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b2%d9%84%d9%81%d9%8a) | N/A |
+| 35 | [#تعليم_الدوادمي](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%af%d9%85%d9%8a) | N/A |
+| 36 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
+| 37 | [#صباح_الورد](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d9%88%d8%b1%d8%af) | N/A |
+| 38 | [#لعلها_تكون_حسنتك_المنجيه](http://twitter.com/search?q=%23%d9%84%d8%b9%d9%84%d9%87%d8%a7_%d8%aa%d9%83%d9%88%d9%86_%d8%ad%d8%b3%d9%86%d8%aa%d9%83_%d8%a7%d9%84%d9%85%d9%86%d8%ac%d9%8a%d9%87) | N/A |
+| 39 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
 
 
 

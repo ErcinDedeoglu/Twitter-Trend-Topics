@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-12 09:16:32 UTC`
+📆 Last Updated: `2023-02-12 10:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Colombia](</Colombia>)
 | 4 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
 | 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 6 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 7 | [Daniel Rojas](http://twitter.com/search?q=Daniel+Rojas) | N/A |
-| 8 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 8 | [Daniel Rojas](http://twitter.com/search?q=Daniel+Rojas) | N/A |
 | 9 | [#El14EstoyConPetro](http://twitter.com/search?q=%23El14EstoyConPetro) | N/A |
 | 10 | [Santoto](http://twitter.com/search?q=Santoto) | N/A |
 | 11 | [#ProcuradoraCorrupta](http://twitter.com/search?q=%23ProcuradoraCorrupta) | N/A |
@@ -31,39 +31,39 @@ This is top 50 for [Colombia](</Colombia>)
 | 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 15 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
 | 16 | [loaiza](http://twitter.com/search?q=loaiza) | N/A |
-| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 18 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 19 | [Volka](http://twitter.com/search?q=Volka) | N/A |
-| 20 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 21 | [Pinturita](http://twitter.com/search?q=Pinturita) | N/A |
-| 22 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
-| 23 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 24 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
-| 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 26 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 27 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
-| 28 | [Radamel](http://twitter.com/search?q=Radamel) | N/A |
-| 29 | [director de la sae](http://twitter.com/search?q=director+de+la+sae) | N/A |
-| 30 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
-| 31 | [Arquero](http://twitter.com/search?q=Arquero) | N/A |
-| 32 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 33 | [Pascual](http://twitter.com/search?q=Pascual) | N/A |
-| 34 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 35 | [dayro](http://twitter.com/search?q=dayro) | N/A |
-| 36 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 37 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 38 | [Alexis García](http://twitter.com/search?q=Alexis+Garc%c3%ada) | N/A |
+| 17 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 18 | [Volka](http://twitter.com/search?q=Volka) | N/A |
+| 19 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 20 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 21 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
+| 22 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 23 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
+| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 25 | [Pinturita](http://twitter.com/search?q=Pinturita) | N/A |
+| 26 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
+| 27 | [Radamel](http://twitter.com/search?q=Radamel) | N/A |
+| 28 | [director de la sae](http://twitter.com/search?q=director+de+la+sae) | N/A |
+| 29 | [de la espriella](http://twitter.com/search?q=de+la+espriella) | N/A |
+| 30 | [Arquero](http://twitter.com/search?q=Arquero) | N/A |
+| 31 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 32 | [pascual](http://twitter.com/search?q=pascual) | N/A |
+| 33 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 34 | [dayro](http://twitter.com/search?q=dayro) | N/A |
+| 35 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 36 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
+| 37 | [Alexis García](http://twitter.com/search?q=Alexis+Garc%c3%ada) | N/A |
+| 38 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 39 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
 | 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 41 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 42 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 42 | [falque](http://twitter.com/search?q=falque) | N/A |
 | 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 44 | [palogrande](http://twitter.com/search?q=palogrande) | N/A |
-| 45 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 46 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 47 | [Marcos López](http://twitter.com/search?q=Marcos+L%c3%b3pez) | N/A |
-| 48 | [abelardo](http://twitter.com/search?q=abelardo) | N/A |
-| 49 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
+| 45 | [Marcos López](http://twitter.com/search?q=Marcos+L%c3%b3pez) | N/A |
+| 46 | [abelardo](http://twitter.com/search?q=abelardo) | N/A |
+| 47 | [Campeones del Mundo](http://twitter.com/search?q=Campeones+del+Mundo) | N/A |
+| 48 | [cetré](http://twitter.com/search?q=cetr%c3%a9) | N/A |
+| 49 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

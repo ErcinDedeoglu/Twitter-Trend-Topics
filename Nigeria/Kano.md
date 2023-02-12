@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-12 09:16:54 UTC`
+📆 Last Updated: `2023-02-12 10:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
-| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 3 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
-| 4 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
-| 5 | [#SaiObi](http://twitter.com/search?q=%23SaiObi) | N/A |
-| 6 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
-| 7 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 8 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 9 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 3 | [#GPJollofHotHot](http://twitter.com/search?q=%23GPJollofHotHot) | N/A |
+| 4 | [#BurjxBerriTiga](http://twitter.com/search?q=%23BurjxBerriTiga) | N/A |
+| 5 | [#TLRCWithDrStephanie](http://twitter.com/search?q=%23TLRCWithDrStephanie) | N/A |
+| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 7 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
+| 8 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
+| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 10 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 12 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 13 | [Out of 7](http://twitter.com/search?q=Out+of+7) | N/A |
-| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 15 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 14 | [Church](http://twitter.com/search?q=Church) | N/A |
+| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 16 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
-| 17 | [Yusuf Alabi](http://twitter.com/search?q=Yusuf+Alabi) | N/A |
+| 17 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
 | 18 | [Qudus](http://twitter.com/search?q=Qudus) | N/A |
-| 19 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 20 | [groove with yvonne](http://twitter.com/search?q=groove+with+yvonne) | N/A |
-| 21 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
-| 22 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
-| 23 | [Shooting](http://twitter.com/search?q=Shooting) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 26 | [Church](http://twitter.com/search?q=Church) | N/A |
-| 27 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 28 | [Sunny](http://twitter.com/search?q=Sunny) | N/A |
-| 29 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 30 | [Obi of Onitsha](http://twitter.com/search?q=Obi+of+Onitsha) | N/A |
-| 31 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 32 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
-| 33 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 34 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 35 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 36 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 37 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 38 | [blaqbonez crusade](http://twitter.com/search?q=blaqbonez+crusade) | N/A |
-| 39 | [Ooni of Ife](http://twitter.com/search?q=Ooni+of+Ife) | N/A |
-| 40 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 43 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 44 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 45 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 46 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 47 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 48 | [City Boy](http://twitter.com/search?q=City+Boy) | N/A |
-| 49 | [FLOW WITH KANAGA JNR](http://twitter.com/search?q=FLOW+WITH+KANAGA+JNR) | N/A |
-| 50 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 19 | [Out of 7](http://twitter.com/search?q=Out+of+7) | N/A |
+| 20 | [Yusuf Alabi](http://twitter.com/search?q=Yusuf+Alabi) | N/A |
+| 21 | [YEMI CREGX THE BLUEPRINT](http://twitter.com/search?q=YEMI+CREGX+THE+BLUEPRINT) | N/A |
+| 22 | [GROOVE WITH YVONNE](http://twitter.com/search?q=GROOVE+WITH+YVONNE) | N/A |
+| 23 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 24 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 25 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 26 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Shooting](http://twitter.com/search?q=Shooting) | N/A |
+| 29 | [Frank Onwumere](http://twitter.com/search?q=Frank+Onwumere) | N/A |
+| 30 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 31 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 32 | [Obi of Onitsha](http://twitter.com/search?q=Obi+of+Onitsha) | N/A |
+| 33 | [Sunny](http://twitter.com/search?q=Sunny) | N/A |
+| 34 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 35 | [Akin Alabi](http://twitter.com/search?q=Akin+Alabi) | N/A |
+| 36 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 37 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
+| 38 | [Did Tinubu](http://twitter.com/search?q=Did+Tinubu) | N/A |
+| 39 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 40 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 41 | [blaqbonez crusade](http://twitter.com/search?q=blaqbonez+crusade) | N/A |
+| 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 44 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 45 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 46 | [Truecaller](http://twitter.com/search?q=Truecaller) | N/A |
+| 47 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 48 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 49 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 50 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 
 
 

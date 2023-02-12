@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-12 09:16:41 UTC`
+📆 Last Updated: `2023-02-12 10:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 3 | [#12febbraio](http://twitter.com/search?q=%2312febbraio) | N/A |
+| 2 | [#12febbraio](http://twitter.com/search?q=%2312febbraio) | N/A |
+| 3 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
 | 4 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
 | 5 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 6 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
 | 7 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 8 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 9 | [#LecceRoma](http://twitter.com/search?q=%23LecceRoma) | N/A |
-| 10 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
-| 11 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 12 | [#lazioatalanta](http://twitter.com/search?q=%23lazioatalanta) | N/A |
+| 8 | [tananai](http://twitter.com/search?q=tananai) | N/A |
+| 9 | [#schifo](http://twitter.com/search?q=%23schifo) | N/A |
+| 10 | [#LecceRoma](http://twitter.com/search?q=%23LecceRoma) | N/A |
+| 11 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
+| 12 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
 | 13 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
 | 14 | [Marco](http://twitter.com/search?q=Marco) | N/A |
 | 15 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 16 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 16 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
 | 17 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
 | 18 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 19 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
-| 20 | [achille lauro](http://twitter.com/search?q=achille+lauro) | N/A |
-| 21 | [codice 04](http://twitter.com/search?q=codice+04) | N/A |
-| 22 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 19 | [achille lauro](http://twitter.com/search?q=achille+lauro) | N/A |
+| 20 | [codice 04](http://twitter.com/search?q=codice+04) | N/A |
+| 21 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
+| 22 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
 | 23 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 24 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
-| 25 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
-| 26 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 27 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
-| 28 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
-| 29 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
-| 30 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 31 | [Cozzolino](http://twitter.com/search?q=Cozzolino) | N/A |
-| 32 | [cuccarini](http://twitter.com/search?q=cuccarini) | N/A |
-| 33 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 34 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 35 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 24 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 25 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
+| 26 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
+| 27 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 28 | [Cozzolino](http://twitter.com/search?q=Cozzolino) | N/A |
+| 29 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
+| 30 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
+| 31 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 32 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 33 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
+| 34 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
+| 35 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
 | 36 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 37 | [Giuseppe](http://twitter.com/search?q=Giuseppe) | N/A |
-| 38 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 39 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 40 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
-| 41 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 42 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 43 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
-| 44 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
-| 45 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
+| 37 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
+| 38 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 39 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 40 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 41 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 42 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 46 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 47 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 48 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 49 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
+| 49 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 50 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 
 
 

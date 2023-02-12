@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-12 09:16:42 UTC`
+📆 Last Updated: `2023-02-12 10:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,27 +16,27 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#PSVGRO](http://twitter.com/search?q=%23PSVGRO) | N/A |
-| 3 | [#groen](http://twitter.com/search?q=%23groen) | N/A |
-| 4 | [#spreeuw](http://twitter.com/search?q=%23spreeuw) | N/A |
-| 5 | [#zondag](http://twitter.com/search?q=%23zondag) | N/A |
-| 6 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
-| 7 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 8 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 10 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 11 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 12 | [Oud-minister Hoogervorst](http://twitter.com/search?q=Oud-minister+Hoogervorst) | N/A |
-| 13 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 14 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 15 | [Corry](http://twitter.com/search?q=Corry) | N/A |
-| 16 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
-| 17 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 18 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 19 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 20 | [anke](http://twitter.com/search?q=anke) | N/A |
-| 21 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 3 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
+| 4 | [#groen](http://twitter.com/search?q=%23groen) | N/A |
+| 5 | [#spreeuw](http://twitter.com/search?q=%23spreeuw) | N/A |
+| 6 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 7 | [Oud-minister Hoogervorst](http://twitter.com/search?q=Oud-minister+Hoogervorst) | N/A |
+| 8 | [jurre](http://twitter.com/search?q=jurre) | N/A |
+| 9 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
+| 10 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 11 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 12 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 13 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 14 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 15 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 16 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 17 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 19 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 20 | [Jane](http://twitter.com/search?q=Jane) | N/A |
+| 21 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 22 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
 | 23 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
 | 24 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
 | 25 | [Debbie](http://twitter.com/search?q=Debbie) | N/A |
@@ -44,26 +44,26 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 27 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
 | 28 | [yunho](http://twitter.com/search?q=yunho) | N/A |
 | 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 30 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 31 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
-| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 33 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
-| 34 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 33 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 34 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 | 35 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
-| 36 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 37 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 38 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
-| 39 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
-| 40 | [sven hulleman](http://twitter.com/search?q=sven+hulleman) | N/A |
-| 41 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
-| 42 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 43 | [foor](http://twitter.com/search?q=foor) | N/A |
-| 44 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 45 | [Henk](http://twitter.com/search?q=Henk) | N/A |
-| 46 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 47 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 48 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 49 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 36 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
+| 37 | [Hartelijk](http://twitter.com/search?q=Hartelijk) | N/A |
+| 38 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
+| 39 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
+| 40 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
+| 41 | [foor](http://twitter.com/search?q=foor) | N/A |
+| 42 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 43 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 44 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 45 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 46 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 48 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 49 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 
 
 
