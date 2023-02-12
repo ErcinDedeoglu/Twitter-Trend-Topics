@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-12 11:17:25 UTC`
+📆 Last Updated: `2023-02-12 12:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 4 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 5 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 6 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 7 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 8 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
-| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 10 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 11 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 12 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 13 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 14 | [#Aqoursとバレンタイン_Day2](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day2) | N/A |
-| 15 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
-| 16 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 17 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 18 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 3 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 4 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 6 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 7 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
+| 8 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 10 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 11 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
+| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 13 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 14 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 15 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 16 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 17 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 18 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 19 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
 | 20 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 21 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 22 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 23 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 24 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 25 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 26 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
-| 27 | [Regret](http://twitter.com/search?q=Regret) | N/A |
-| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 29 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 30 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 31 | [Red Mage](http://twitter.com/search?q=Red+Mage) | N/A |
+| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 22 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 24 | [Regret](http://twitter.com/search?q=Regret) | N/A |
+| 25 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 26 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 27 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 28 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
+| 29 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 30 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 31 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
 | 32 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 34 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 33 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 34 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
 | 35 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
 | 36 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 37 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 37 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
 | 38 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 39 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 40 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 42 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 43 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 44 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 45 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 46 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 47 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 48 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 49 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 50 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 39 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 41 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 42 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 43 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 44 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 45 | [The Mummy](http://twitter.com/search?q=The+Mummy) | N/A |
+| 46 | [Bridget](http://twitter.com/search?q=Bridget) | N/A |
+| 47 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 48 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 49 | [#Aqoursとバレンタイン_Day2](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day2) | N/A |
+| 50 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
 
 
 

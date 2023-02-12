@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-02-12 11:16:28 UTC`
+📆 Last Updated: `2023-02-12 12:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 2 | [#Lablocal23](http://twitter.com/search?q=%23Lablocal23) | N/A |
-| 3 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 1 | [Charles Darwin](http://twitter.com/search?q=Charles+Darwin) | N/A |
+| 2 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 3 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
 | 4 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 5 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 6 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 7 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 8 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 7 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 8 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 9 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 11 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 10 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 11 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 12 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 13 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 14 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 15 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
-| 16 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 17 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 18 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 19 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 20 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 21 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
-| 22 | [Charles Darwin](http://twitter.com/search?q=Charles+Darwin) | N/A |
-| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 24 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 25 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
-| 26 | [GIDS](http://twitter.com/search?q=GIDS) | N/A |
-| 27 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 28 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 29 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 13 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 14 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 15 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 16 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 17 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 18 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 19 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
+| 20 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 21 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 22 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 23 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
+| 24 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 25 | [Ruairi](http://twitter.com/search?q=Ruairi) | N/A |
+| 26 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
+| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 28 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 29 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
 | 30 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 31 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 32 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
-| 33 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 34 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 35 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 37 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 38 | [Tavistock](http://twitter.com/search?q=Tavistock) | N/A |
-| 39 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 40 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
-| 41 | [Yair Rodriguez](http://twitter.com/search?q=Yair+Rodriguez) | N/A |
-| 42 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 43 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 44 | [Brit Awards](http://twitter.com/search?q=Brit+Awards) | N/A |
-| 45 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 46 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 47 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 48 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 49 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 31 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 32 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 33 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 34 | [GIDS](http://twitter.com/search?q=GIDS) | N/A |
+| 35 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 36 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 37 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
+| 38 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 39 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 40 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
+| 41 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 42 | [Tavistock](http://twitter.com/search?q=Tavistock) | N/A |
+| 43 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 45 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 46 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 47 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 48 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 49 | [Celtic Park](http://twitter.com/search?q=Celtic+Park) | N/A |
 
 
 

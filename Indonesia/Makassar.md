@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-12 11:16:51 UTC`
+📆 Last Updated: `2023-02-12 12:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MudahdenganBTNMobile](http://twitter.com/search?q=%23MudahdenganBTNMobile) | N/A |
-| 2 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 3 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
-| 4 | [Maaf](http://twitter.com/search?q=Maaf) | N/A |
-| 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 6 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 7 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
-| 8 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
-| 9 | [dany amrul ichdan](http://twitter.com/search?q=dany+amrul+ichdan) | N/A |
-| 10 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 11 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 12 | [SECRET NUMBER 1000 DAYS](http://twitter.com/search?q=SECRET+NUMBER+1000+DAYS) | N/A |
-| 13 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
-| 14 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 15 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 16 | [Singa](http://twitter.com/search?q=Singa) | N/A |
-| 17 | [Taman Safari](http://twitter.com/search?q=Taman+Safari) | N/A |
-| 18 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 19 | [hapsun](http://twitter.com/search?q=hapsun) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [six cupids prom party](http://twitter.com/search?q=six+cupids+prom+party) | N/A |
-| 22 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
-| 23 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 24 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
-| 25 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
-| 26 | [TXT AT INKIGAYO](http://twitter.com/search?q=TXT+AT+INKIGAYO) | TXT AT INKIGAYO is a hashtag used by fans of the South Korean boy band TXT (Tomorrow X Together) to show their support for the group's appearances on the South Korean music show Inkigayo. The hashtag is used to encourage viewers to watch and vote for TXT on the show. In English, it means "Support TXT on Inkigayo". |
-| 27 | [Urus Bola Pake Cinta](http://twitter.com/search?q=Urus+Bola+Pake+Cinta) | N/A |
-| 28 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 29 | [CLOY](http://twitter.com/search?q=CLOY) | N/A |
-| 30 | [Kersen](http://twitter.com/search?q=Kersen) | N/A |
-| 31 | [Selawe](http://twitter.com/search?q=Selawe) | N/A |
-| 32 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
-| 33 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 34 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 35 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 36 | [HAIL IVE THE PROM QUEENS](http://twitter.com/search?q=HAIL+IVE+THE+PROM+QUEENS) | N/A |
-| 37 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 38 | [Diri](http://twitter.com/search?q=Diri) | N/A |
-| 39 | [Keith Kayamba Gumbs](http://twitter.com/search?q=Keith+Kayamba+Gumbs) | N/A |
-| 40 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 41 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
-| 42 | [Ceri](http://twitter.com/search?q=Ceri) | N/A |
-| 43 | [tongkat ajaib](http://twitter.com/search?q=tongkat+ajaib) | N/A |
-| 44 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 45 | [gulf to japan](http://twitter.com/search?q=gulf+to+japan) | N/A |
-| 46 | [Binder](http://twitter.com/search?q=Binder) | N/A |
-| 47 | [pmmmrmn](http://twitter.com/search?q=pmmmrmn) | N/A |
-| 48 | [menit 90](http://twitter.com/search?q=menit+90) | N/A |
-| 49 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 50 | [MGCA EMERGENCY CALL FOR ARMY](http://twitter.com/search?q=MGCA+EMERGENCY+CALL+FOR+ARMY) | N/A |
+| 1 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 2 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
+| 3 | [Choi Ung](http://twitter.com/search?q=Choi+Ung) | N/A |
+| 4 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
+| 5 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
+| 6 | [Ikjun](http://twitter.com/search?q=Ikjun) | N/A |
+| 7 | [Nenek](http://twitter.com/search?q=Nenek) | N/A |
+| 8 | [#shanday](http://twitter.com/search?q=%23shanday) | N/A |
+| 9 | [THOM BROWNE](http://twitter.com/search?q=THOM+BROWNE) | N/A |
+| 10 | [Meluk](http://twitter.com/search?q=Meluk) | N/A |
+| 11 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
+| 12 | [YOU DID WELL NCT 127](http://twitter.com/search?q=YOU+DID+WELL+NCT+127) | N/A |
+| 13 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 14 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 15 | [Pajero](http://twitter.com/search?q=Pajero) | N/A |
+| 16 | [CLOY](http://twitter.com/search?q=CLOY) | N/A |
+| 17 | [HAIL IVE THE PROM QUEENS](http://twitter.com/search?q=HAIL+IVE+THE+PROM+QUEENS) | N/A |
+| 18 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 19 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 20 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 21 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 22 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 23 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 24 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 25 | [Dots](http://twitter.com/search?q=Dots) | N/A |
+| 26 | [Sambel](http://twitter.com/search?q=Sambel) | N/A |
+| 27 | [Binder](http://twitter.com/search?q=Binder) | N/A |
+| 28 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 29 | [Lulu](http://twitter.com/search?q=Lulu) | Lulu is a nickname for the name Louise, which is of French origin and means "famous warrior". It can also be used as a term of endearment. |
+| 30 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 31 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 32 | [Diri](http://twitter.com/search?q=Diri) | N/A |
+| 33 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
+| 34 | [Hari Minggu](http://twitter.com/search?q=Hari+Minggu) | N/A |
+| 35 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 36 | [#SRR4thWin](http://twitter.com/search?q=%23SRR4thWin) | N/A |
+| 37 | [#IVEPromQueens_D2](http://twitter.com/search?q=%23IVEPromQueens_D2) | N/A |
+| 38 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 39 | [#CentralEmbassyXGeminiFourth](http://twitter.com/search?q=%23CentralEmbassyXGeminiFourth) | N/A |
+| 40 | [#sundaywithmcyeonjun](http://twitter.com/search?q=%23sundaywithmcyeonjun) | N/A |
+| 41 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 42 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
+| 43 | [#THEDREAMSHOW2_in_JKT](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JKT) | N/A |
+| 44 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 45 | [#환영해아이브첫팬콘](http://twitter.com/search?q=%23%ed%99%98%ec%98%81%ed%95%b4%ec%95%84%ec%9d%b4%eb%b8%8c%ec%b2%ab%ed%8c%ac%ec%bd%98) | N/A |
 
 
 

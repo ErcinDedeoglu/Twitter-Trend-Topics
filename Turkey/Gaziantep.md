@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-12 11:17:15 UTC`
+📆 Last Updated: `2023-02-12 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sibel Özdemir](http://twitter.com/search?q=Sibel+%c3%96zdemir) | N/A |
-| 2 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
-| 3 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
-| 4 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
-| 5 | [Sertaç Murat Koç](http://twitter.com/search?q=Serta%c3%a7+Murat+Ko%c3%a7) | N/A |
-| 6 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 7 | [Kilosu 170](http://twitter.com/search?q=Kilosu+170) | N/A |
-| 8 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
-| 9 | [#İyipartiümraniye](http://twitter.com/search?q=%23%c4%b0yiparti%c3%bcmraniye) | N/A |
-| 10 | [#tv100](http://twitter.com/search?q=%23tv100) | N/A |
-| 11 | [Mikrofonu](http://twitter.com/search?q=Mikrofonu) | N/A |
-| 12 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
-| 13 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 14 | [Katar Emiri Şeyh Temim](http://twitter.com/search?q=Katar+Emiri+%c5%9eeyh+Temim) | N/A |
-| 15 | [Rukiye](http://twitter.com/search?q=Rukiye) | N/A |
-| 16 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 17 | [Yusuf Yurdal](http://twitter.com/search?q=Yusuf+Yurdal) | N/A |
-| 18 | [Oya Eronat](http://twitter.com/search?q=Oya+Eronat) | N/A |
-| 19 | [SEN KİMSİN](http://twitter.com/search?q=SEN+K%c4%b0MS%c4%b0N) | N/A |
-| 20 | [TMMOB](http://twitter.com/search?q=TMMOB) | N/A |
-| 21 | [Bugün 12 Şubat](http://twitter.com/search?q=Bug%c3%bcn+12+%c5%9eubat) | N/A |
-| 22 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 23 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
-| 24 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
-| 25 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 26 | [İşlerine](http://twitter.com/search?q=%c4%b0%c5%9flerine) | N/A |
-| 27 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
-| 28 | [Melekler](http://twitter.com/search?q=Melekler) | N/A |
-| 29 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
-| 30 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 31 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 32 | [Mahalle](http://twitter.com/search?q=Mahalle) | N/A |
-| 33 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 34 | [İlyas](http://twitter.com/search?q=%c4%b0lyas) | N/A |
-| 35 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 36 | [Yapı Denetim](http://twitter.com/search?q=Yap%c4%b1+Denetim) | N/A |
-| 37 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 38 | [Saçını](http://twitter.com/search?q=Sa%c3%a7%c4%b1n%c4%b1) | N/A |
-| 39 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 40 | [Zeki](http://twitter.com/search?q=Zeki) | N/A |
-| 41 | [Gaziantep FK](http://twitter.com/search?q=Gaziantep+FK) | N/A |
-| 42 | [Vatandaşın](http://twitter.com/search?q=Vatanda%c5%9f%c4%b1n) | N/A |
-| 43 | [Gerekirse](http://twitter.com/search?q=Gerekirse) | N/A |
-| 44 | [Atam](http://twitter.com/search?q=Atam) | N/A |
-| 45 | [Kahraman](http://twitter.com/search?q=Kahraman) | N/A |
-| 46 | [Ölen](http://twitter.com/search?q=%c3%96len) | N/A |
-| 47 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 48 | [Pandemide](http://twitter.com/search?q=Pandemide) | N/A |
-| 49 | [DASK](http://twitter.com/search?q=DASK) | N/A |
+| 1 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
+| 2 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 3 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
+| 4 | [Sibel Özdemir](http://twitter.com/search?q=Sibel+%c3%96zdemir) | N/A |
+| 5 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 6 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
+| 7 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
+| 8 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 9 | [Gökhan Özoğuz](http://twitter.com/search?q=G%c3%b6khan+%c3%96zo%c4%9fuz) | N/A |
+| 10 | [Sertaç Murat Koç](http://twitter.com/search?q=Serta%c3%a7+Murat+Ko%c3%a7) | N/A |
+| 11 | [Kilosu 170](http://twitter.com/search?q=Kilosu+170) | N/A |
+| 12 | [Açılmalı](http://twitter.com/search?q=A%c3%a7%c4%b1lmal%c4%b1) | N/A |
+| 13 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 14 | [TV 100](http://twitter.com/search?q=TV+100) | N/A |
+| 15 | [Mikrofonu](http://twitter.com/search?q=Mikrofonu) | N/A |
+| 16 | [#OkullarAçıkKalsın](http://twitter.com/search?q=%23OkullarA%c3%a7%c4%b1kKals%c4%b1n) | N/A |
+| 17 | [Katar Emiri Şeyh Temim](http://twitter.com/search?q=Katar+Emiri+%c5%9eeyh+Temim) | N/A |
+| 18 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 19 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 20 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
+| 21 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
+| 22 | [Rukiye](http://twitter.com/search?q=Rukiye) | N/A |
+| 23 | [Yavuz Karakuş](http://twitter.com/search?q=Yavuz+Karaku%c5%9f) | N/A |
+| 24 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 25 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
+| 26 | [Yusuf Yurdal](http://twitter.com/search?q=Yusuf+Yurdal) | N/A |
+| 27 | [Oya Eronat](http://twitter.com/search?q=Oya+Eronat) | N/A |
+| 28 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
+| 29 | [TMMOB](http://twitter.com/search?q=TMMOB) | N/A |
+| 30 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
+| 31 | [SEN KİMSİN](http://twitter.com/search?q=SEN+K%c4%b0MS%c4%b0N) | N/A |
+| 32 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
+| 33 | [Bugün 12 Şubat](http://twitter.com/search?q=Bug%c3%bcn+12+%c5%9eubat) | N/A |
+| 34 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 35 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
+| 36 | [Mahalle](http://twitter.com/search?q=Mahalle) | N/A |
+| 37 | [İşlerine](http://twitter.com/search?q=%c4%b0%c5%9flerine) | N/A |
+| 38 | [Babala](http://twitter.com/search?q=Babala) | N/A |
+| 39 | [Melekler](http://twitter.com/search?q=Melekler) | N/A |
+| 40 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 41 | [Saçını](http://twitter.com/search?q=Sa%c3%a7%c4%b1n%c4%b1) | N/A |
+| 42 | [Yapı Denetim](http://twitter.com/search?q=Yap%c4%b1+Denetim) | N/A |
+| 43 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
+| 44 | [İlyas](http://twitter.com/search?q=%c4%b0lyas) | N/A |
+| 45 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
+| 46 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 47 | [Çinli](http://twitter.com/search?q=%c3%87inli) | N/A |
+| 48 | [Samandağ](http://twitter.com/search?q=Samanda%c4%9f) | N/A |
+| 49 | [Atam](http://twitter.com/search?q=Atam) | N/A |
 
 
 
