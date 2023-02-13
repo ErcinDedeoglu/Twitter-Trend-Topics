@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-13 15:17:24 UTC`
+📆 Last Updated: `2023-02-13 16:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,48 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 1 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
 | 2 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
 | 3 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 4 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
-| 5 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 6 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
-| 7 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 8 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
-| 9 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
-| 10 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 11 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 12 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
-| 13 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 14 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 4 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
+| 5 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 6 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
+| 7 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 8 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
+| 9 | [CRUSHING ON SUNBAE JINHWAN](http://twitter.com/search?q=CRUSHING+ON+SUNBAE+JINHWAN) | N/A |
+| 10 | [MY BOY](http://twitter.com/search?q=MY+BOY) | N/A |
+| 11 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 12 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
+| 13 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 14 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
 | 15 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 16 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 17 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
-| 18 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 19 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 20 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 21 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
-| 22 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 23 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
-| 24 | [#DLRescue](http://twitter.com/search?q=%23DLRescue) | N/A |
-| 25 | [#MystaRizzAsk](http://twitter.com/search?q=%23MystaRizzAsk) | N/A |
-| 26 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 27 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 28 | [#TellerXOffGun](http://twitter.com/search?q=%23TellerXOffGun) | N/A |
-| 29 | [#LuvIsJoyfulChicken](http://twitter.com/search?q=%23LuvIsJoyfulChicken) | N/A |
-| 30 | [#dreammakertop16onpie](http://twitter.com/search?q=%23dreammakertop16onpie) | N/A |
-| 31 | [#MCIExtend](http://twitter.com/search?q=%23MCIExtend) | N/A |
-| 32 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 33 | [#AprilBloomingAt29](http://twitter.com/search?q=%23AprilBloomingAt29) | N/A |
-| 34 | [#Blooms2ndYearWithBINI](http://twitter.com/search?q=%23Blooms2ndYearWithBINI) | N/A |
-| 35 | [#KEY_Killer](http://twitter.com/search?q=%23KEY_Killer) | N/A |
-| 36 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
-| 37 | [#boycotttuloytbadnlaban705](http://twitter.com/search?q=%23boycotttuloytbadnlaban705) | N/A |
-| 38 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
+| 16 | [Angelique Manto](http://twitter.com/search?q=Angelique+Manto) | N/A |
+| 17 | [Elias](http://twitter.com/search?q=Elias) | N/A |
+| 18 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
+| 19 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 20 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 21 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
+| 22 | [mikki](http://twitter.com/search?q=mikki) | N/A |
+| 23 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 24 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 25 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 26 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
+| 27 | [#DLRescue](http://twitter.com/search?q=%23DLRescue) | N/A |
+| 28 | [#JinhwanInHonestlyMV](http://twitter.com/search?q=%23JinhwanInHonestlyMV) | N/A |
+| 29 | [#JonaxxACTYAKab47](http://twitter.com/search?q=%23JonaxxACTYAKab47) | N/A |
+| 30 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
+| 31 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
+| 32 | [#MystaRizzAsk](http://twitter.com/search?q=%23MystaRizzAsk) | N/A |
+| 33 | [#HeARTsDaySalubong](http://twitter.com/search?q=%23HeARTsDaySalubong) | N/A |
+| 34 | [#DreamMakerTop16onPIE](http://twitter.com/search?q=%23DreamMakerTop16onPIE) | N/A |
+| 35 | [#TellerXOffGun](http://twitter.com/search?q=%23TellerXOffGun) | N/A |
+| 36 | [#MCIExtend](http://twitter.com/search?q=%23MCIExtend) | N/A |
+| 37 | [#LuvIsJoyfulChicken](http://twitter.com/search?q=%23LuvIsJoyfulChicken) | N/A |
+| 38 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 39 | [#AprilBloomingAt29](http://twitter.com/search?q=%23AprilBloomingAt29) | N/A |
+| 40 | [#Blooms2ndYearWithBINI](http://twitter.com/search?q=%23Blooms2ndYearWithBINI) | N/A |
+| 41 | [#KEY_Killer](http://twitter.com/search?q=%23KEY_Killer) | N/A |
+| 42 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
 
 
 

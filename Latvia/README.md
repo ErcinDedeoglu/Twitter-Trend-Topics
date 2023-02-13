@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-13 15:17:54 UTC`
+📆 Last Updated: `2023-02-13 16:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Supernova2023](http://twitter.com/search?q=%23Supernova2023) | N/A |
-| 2 | [piesakos](http://twitter.com/search?q=piesakos) | N/A |
-| 3 | [Līdzjūtība](http://twitter.com/search?q=L%c4%abdzj%c5%abt%c4%abba) | N/A |
-| 4 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 1 | [#supernova2023](http://twitter.com/search?q=%23supernova2023) | N/A |
+| 2 | [līdzjūtība](http://twitter.com/search?q=l%c4%abdzj%c5%abt%c4%abba) | N/A |
+| 3 | [Piesakos](http://twitter.com/search?q=Piesakos) | N/A |
+| 4 | [Markus](http://twitter.com/search?q=Markus) | N/A |
 | 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [Markus](http://twitter.com/search?q=Markus) | N/A |
-| 7 | [eirovīzijā](http://twitter.com/search?q=eirov%c4%abzij%c4%81) | N/A |
-| 8 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 9 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
-| 10 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 11 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 12 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
+| 6 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 7 | [sudden lights](http://twitter.com/search?q=sudden+lights) | N/A |
+| 8 | [#UkraineWar](http://twitter.com/search?q=%23UkraineWar) | N/A |
+| 9 | [eirovīzijā](http://twitter.com/search?q=eirov%c4%abzij%c4%81) | N/A |
+| 10 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 11 | [jūsu](http://twitter.com/search?q=j%c5%absu) | N/A |
+| 12 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
 | 13 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
-| 14 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 15 | [latvijā](http://twitter.com/search?q=latvij%c4%81) | N/A |
-| 16 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
-| 17 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 14 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 15 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
+| 16 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 17 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
 | 18 | [kādreiz](http://twitter.com/search?q=k%c4%81dreiz) | N/A |
-| 19 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 20 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
-| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 22 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 23 | [mums](http://twitter.com/search?q=mums) | N/A |
-| 24 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 25 | [Aijā](http://twitter.com/search?q=Aij%c4%81) | N/A |
-| 26 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
-| 27 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 28 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 29 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 30 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 31 | [rietumi](http://twitter.com/search?q=rietumi) | N/A |
+| 19 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
+| 20 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
+| 21 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
+| 22 | [Aijā](http://twitter.com/search?q=Aij%c4%81) | N/A |
+| 23 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 24 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 25 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 26 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 27 | [rietumi](http://twitter.com/search?q=rietumi) | N/A |
+| 28 | [vācija](http://twitter.com/search?q=v%c4%81cija) | N/A |
+| 29 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
+| 30 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
+| 31 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
 | 32 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 33 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
-| 34 | [vācija](http://twitter.com/search?q=v%c4%81cija) | N/A |
-| 35 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
-| 36 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
-| 37 | [Katrs](http://twitter.com/search?q=Katrs) | N/A |
-| 38 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 39 | [vai jūs](http://twitter.com/search?q=vai+j%c5%abs) | N/A |
-| 40 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 41 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 42 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 43 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 44 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 45 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
-| 46 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
-| 47 | [Kādēļ](http://twitter.com/search?q=K%c4%81d%c4%93%c4%bc) | N/A |
-| 48 | [Vajadzētu](http://twitter.com/search?q=Vajadz%c4%93tu) | N/A |
-| 49 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 50 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 33 | [katrs](http://twitter.com/search?q=katrs) | N/A |
+| 34 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 35 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 36 | [Londonā](http://twitter.com/search?q=London%c4%81) | N/A |
+| 37 | [vai jūs](http://twitter.com/search?q=vai+j%c5%abs) | N/A |
+| 38 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 39 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 40 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 42 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
+| 43 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
+| 44 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 45 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 46 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
+| 47 | [Vajadzētu](http://twitter.com/search?q=Vajadz%c4%93tu) | N/A |
+| 48 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 49 | [lāčplēša](http://twitter.com/search?q=l%c4%81%c4%8dpl%c4%93%c5%a1a) | N/A |
+| 50 | [Paga](http://twitter.com/search?q=Paga) | N/A |
 
 
 

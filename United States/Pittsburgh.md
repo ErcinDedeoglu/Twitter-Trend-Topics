@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-13 15:17:46 UTC`
+📆 Last Updated: `2023-02-13 16:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 2 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 3 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
 | 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 9 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 10 | [Dewayne Dedmon](http://twitter.com/search?q=Dewayne+Dedmon) | N/A |
-| 11 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 12 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 13 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 14 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 15 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 16 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 17 | [Tomorrow is Valentine's Day](http://twitter.com/search?q=Tomorrow+is+Valentine%27s+Day) | N/A |
-| 18 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 19 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 20 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
-| 21 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
-| 22 | [Canóvanas](http://twitter.com/search?q=Can%c3%b3vanas) | N/A |
-| 23 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 24 | [Super Bowl Monday](http://twitter.com/search?q=Super+Bowl+Monday) | N/A |
-| 25 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
-| 26 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
-| 27 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 28 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 29 | [Star of David](http://twitter.com/search?q=Star+of+David) | N/A |
-| 30 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 31 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
+| 7 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 8 | [#galentinesday](http://twitter.com/search?q=%23galentinesday) | N/A |
+| 9 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 10 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 11 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 13 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 14 | [Dewayne Dedmon](http://twitter.com/search?q=Dewayne+Dedmon) | N/A |
+| 15 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
+| 16 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 17 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
+| 18 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 19 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 20 | [Super Bowl Monday](http://twitter.com/search?q=Super+Bowl+Monday) | N/A |
+| 21 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
+| 22 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 23 | [Canóvanas](http://twitter.com/search?q=Can%c3%b3vanas) | N/A |
+| 24 | [Today is Monday](http://twitter.com/search?q=Today+is+Monday) | N/A |
+| 25 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 26 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 27 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
+| 28 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 29 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
+| 30 | [Game Week](http://twitter.com/search?q=Game+Week) | N/A |
+| 31 | [Star of David](http://twitter.com/search?q=Star+of+David) | N/A |
 | 32 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
-| 33 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 34 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 35 | [The DB](http://twitter.com/search?q=The+DB) | N/A |
-| 36 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
-| 37 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 38 | [Vinyl Chloride](http://twitter.com/search?q=Vinyl+Chloride) | N/A |
-| 39 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
-| 40 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
-| 41 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 42 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 43 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 44 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 45 | [Trugoy the Dove](http://twitter.com/search?q=Trugoy+the+Dove) | N/A |
-| 46 | [Star Spangled Banner](http://twitter.com/search?q=Star+Spangled+Banner) | N/A |
-| 47 | [The College Board](http://twitter.com/search?q=The+College+Board) | N/A |
-| 48 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 49 | [Stephen Miller](http://twitter.com/search?q=Stephen+Miller) | N/A |
-| 50 | [Flashpoint](http://twitter.com/search?q=Flashpoint) | N/A |
+| 33 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
+| 34 | [Peter Gabriel](http://twitter.com/search?q=Peter+Gabriel) | N/A |
+| 35 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 36 | [Quez](http://twitter.com/search?q=Quez) | Quez is a slang term used to refer to money. It is derived from the Spanish word for money, "cuenta". In English, it can be used to mean cash or funds. |
+| 37 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 38 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 39 | [Monday the 13th](http://twitter.com/search?q=Monday+the+13th) | N/A |
+| 40 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
+| 41 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 42 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 43 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
+| 44 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 45 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 46 | [The DB](http://twitter.com/search?q=The+DB) | N/A |
+| 47 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
+| 48 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
+| 49 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
+| 50 | [Razor](http://twitter.com/search?q=Razor) | N/A |
 
 
 
