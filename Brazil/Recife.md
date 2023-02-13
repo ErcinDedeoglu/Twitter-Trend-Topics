@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-13 03:20:41 UTC`
+📆 Last Updated: `2023-02-13 04:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 1 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
 | 2 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 3 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 4 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 7 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 9 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [#ForaPaula](http://twitter.com/search?q=%23ForaPaula) | N/A |
-| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 15 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 16 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 18 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 19 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 20 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 21 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
-| 22 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 23 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 24 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
-| 25 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 26 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 27 | [GRÁVIDA](http://twitter.com/search?q=GR%c3%81VIDA) | N/A |
-| 28 | [love on the brain](http://twitter.com/search?q=love+on+the+brain) | N/A |
-| 29 | [VOTAÇÃO ABERTA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ABERTA) | N/A |
-| 30 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 31 | [Funk](http://twitter.com/search?q=Funk) | N/A |
-| 32 | [Mari Moon](http://twitter.com/search?q=Mari+Moon) | N/A |
-| 33 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 34 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 35 | [Jason Derulo](http://twitter.com/search?q=Jason+Derulo) | N/A |
-| 36 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 37 | [Run This Town](http://twitter.com/search?q=Run+This+Town) | N/A |
-| 38 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 39 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 40 | [QUE MULHER](http://twitter.com/search?q=QUE+MULHER) | N/A |
-| 41 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 42 | [Playback](http://twitter.com/search?q=Playback) | N/A |
-| 43 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 44 | [Barbados](http://twitter.com/search?q=Barbados) | N/A |
-| 45 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 46 | [mami](http://twitter.com/search?q=mami) | N/A |
-| 47 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
-| 48 | [É AGORA](http://twitter.com/search?q=%c3%89+AGORA) | N/A |
-| 49 | [Paulo Antunes](http://twitter.com/search?q=Paulo+Antunes) | N/A |
-| 50 | [QUE SHOW](http://twitter.com/search?q=QUE+SHOW) | N/A |
+| 3 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 5 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 6 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 8 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 9 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 11 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 12 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 13 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 14 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 17 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 18 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 19 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 20 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 21 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 22 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 23 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 24 | [O Bruno](http://twitter.com/search?q=O+Bruno) | O Bruno is a Portuguese expression that is used to express surprise or admiration. It is similar to the English expression "Oh wow!" or "Wow!" |
+| 25 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
+| 26 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 27 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
+| 28 | [#RedeBBB23](http://twitter.com/search?q=%23RedeBBB23) | N/A |
+| 29 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 30 | [Esse Bruno](http://twitter.com/search?q=Esse+Bruno) | Esse Bruno is a Portuguese phrase that translates to “Be Brave” in English. It is often used as a motivational phrase to encourage someone to be brave and take risks. |
+| 31 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 32 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 33 | [ELA TÁ GRÁVIDA](http://twitter.com/search?q=ELA+T%c3%81+GR%c3%81VIDA) | N/A |
+| 34 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 35 | [Marimoon](http://twitter.com/search?q=Marimoon) | N/A |
+| 36 | [VOTAÇÃO ABERTA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ABERTA) | N/A |
+| 37 | [#cadeado](http://twitter.com/search?q=%23cadeado) | N/A |
+| 38 | [karol conka](http://twitter.com/search?q=karol+conka) | N/A |
+| 39 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 40 | [Funk](http://twitter.com/search?q=Funk) | N/A |
+| 41 | [love on the brain](http://twitter.com/search?q=love+on+the+brain) | N/A |
+| 42 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 43 | [Tchau Bruno](http://twitter.com/search?q=Tchau+Bruno) | N/A |
+| 44 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 45 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
 
 
 

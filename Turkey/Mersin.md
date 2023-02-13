@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-13 03:21:09 UTC`
+📆 Last Updated: `2023-02-13 04:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [Turkey](</Turkey>)
 | 10 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 11 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
 | 12 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 13 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
-| 14 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 13 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 14 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
 | 15 | [100milyardolar bağış](http://twitter.com/search?q=100milyardolar+ba%c4%9f%c4%b1%c5%9f) | N/A |
 | 16 | [Sibel Kaya](http://twitter.com/search?q=Sibel+Kaya) | N/A |
-| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 17 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
 | 18 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 19 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 20 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 19 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
+| 20 | [Toki](http://twitter.com/search?q=Toki) | N/A |
 | 21 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
 | 22 | [AFAD](http://twitter.com/search?q=AFAD) | N/A |
 | 23 | [kadir sütçü](http://twitter.com/search?q=kadir+s%c3%bct%c3%a7%c3%bc) | N/A |
-| 24 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
-| 25 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 26 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 27 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 24 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 25 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 26 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 28 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 29 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 30 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
-| 31 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
-| 32 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 33 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
-| 34 | [Yalan](http://twitter.com/search?q=Yalan) | N/A |
-| 35 | [Bir UFO](http://twitter.com/search?q=Bir+UFO) | N/A |
-| 36 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 37 | [sibel özdemir](http://twitter.com/search?q=sibel+%c3%b6zdemir) | N/A |
+| 29 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 30 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 31 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 32 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
+| 33 | [Yalan](http://twitter.com/search?q=Yalan) | N/A |
+| 34 | [Bir UFO](http://twitter.com/search?q=Bir+UFO) | N/A |
+| 35 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 36 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 37 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
 | 38 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 39 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 40 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 41 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
+| 39 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
+| 40 | [BAYKAR](http://twitter.com/search?q=BAYKAR) | N/A |
+| 41 | [Polis](http://twitter.com/search?q=Polis) | N/A |
 | 42 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 43 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 44 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
-| 45 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 46 | [Sertaç Murat Koç](http://twitter.com/search?q=Serta%c3%a7+Murat+Ko%c3%a7) | N/A |
-| 47 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
-| 48 | [tv 100](http://twitter.com/search?q=tv+100) | N/A |
+| 43 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 44 | [sertaç murat koç](http://twitter.com/search?q=serta%c3%a7+murat+ko%c3%a7) | N/A |
+| 45 | [Sibel Özdemir](http://twitter.com/search?q=Sibel+%c3%96zdemir) | N/A |
+| 46 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
+| 47 | [tv 100](http://twitter.com/search?q=tv+100) | N/A |
+| 48 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
 | 49 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
 | 50 | [Helal](http://twitter.com/search?q=Helal) | N/A |
 
