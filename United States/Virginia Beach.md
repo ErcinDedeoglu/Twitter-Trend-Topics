@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-02-13 20:16:57 UTC`
+📆 Last Updated: `2023-02-13 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 2 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
-| 3 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
-| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 6 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
+| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 3 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 4 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
+| 5 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
+| 6 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
 | 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 8 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
-| 11 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
-| 12 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
+| 8 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 10 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 11 | [#PMSOverreactionMonday](http://twitter.com/search?q=%23PMSOverreactionMonday) | N/A |
+| 12 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
 | 13 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
-| 14 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
-| 15 | [UNSEEN FR34KY HOURS](http://twitter.com/search?q=UNSEEN+FR34KY+HOURS) | N/A |
-| 16 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 17 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
-| 18 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
-| 19 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 20 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 21 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 22 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 23 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 24 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 25 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 26 | [Blanton](http://twitter.com/search?q=Blanton) | N/A |
-| 27 | [Ranked Play](http://twitter.com/search?q=Ranked+Play) | N/A |
-| 28 | [The Honeymooners](http://twitter.com/search?q=The+Honeymooners) | N/A |
-| 29 | [Christian Super Bowl](http://twitter.com/search?q=Christian+Super+Bowl) | N/A |
-| 30 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 31 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 32 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
-| 33 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 34 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 35 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 36 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 37 | [Corn Dog](http://twitter.com/search?q=Corn+Dog) | N/A |
-| 38 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 39 | [Justin Holiday](http://twitter.com/search?q=Justin+Holiday) | N/A |
-| 40 | [Fire in the Hole](http://twitter.com/search?q=Fire+in+the+Hole) | N/A |
-| 41 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
-| 42 | [Ted Lerner](http://twitter.com/search?q=Ted+Lerner) | N/A |
-| 43 | [Transportation Secretary](http://twitter.com/search?q=Transportation+Secretary) | Transportation Secretary is a government official responsible for overseeing the transportation system of a country or region. This includes managing the infrastructure, such as roads and airports, as well as regulating the transportation industry, such as airlines and trucking companies. The Transportation Secretary is also responsible for developing policies to ensure safe and efficient transportation systems. |
-| 44 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
-| 45 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 46 | [Bay Ridge](http://twitter.com/search?q=Bay+Ridge) | N/A |
-| 47 | [State of the Game](http://twitter.com/search?q=State+of+the+Game) | N/A |
-| 48 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
+| 14 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
+| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 16 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
+| 17 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
+| 18 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
+| 19 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
+| 20 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
+| 21 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 22 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 23 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 24 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 25 | [Blanton](http://twitter.com/search?q=Blanton) | N/A |
+| 26 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
+| 27 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 28 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 29 | [Tabby](http://twitter.com/search?q=Tabby) | N/A |
+| 30 | [UNSEEN FR34KY HOURS](http://twitter.com/search?q=UNSEEN+FR34KY+HOURS) | N/A |
+| 31 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 32 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 33 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 34 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 35 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 36 | [Ranked Play](http://twitter.com/search?q=Ranked+Play) | N/A |
+| 37 | [The Honeymooners](http://twitter.com/search?q=The+Honeymooners) | N/A |
+| 38 | [Children of the Corn](http://twitter.com/search?q=Children+of+the+Corn) | N/A |
+| 39 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 40 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
+| 41 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 42 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
+| 43 | [Ted Lerner](http://twitter.com/search?q=Ted+Lerner) | N/A |
+| 44 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 45 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 46 | [Fire In The Hole](http://twitter.com/search?q=Fire+In+The+Hole) | N/A |
+| 47 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 48 | [Corn Dog](http://twitter.com/search?q=Corn+Dog) | N/A |
 
 
 

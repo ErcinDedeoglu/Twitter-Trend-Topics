@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-13 20:16:21 UTC`
+📆 Last Updated: `2023-02-13 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Baiana](http://twitter.com/search?q=Baiana) | N/A |
 | 2 | [Furdunço](http://twitter.com/search?q=Furdun%c3%a7o) | N/A |
-| 3 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
-| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 6 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 7 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 9 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 10 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 11 | [6 Bolsonaro](http://twitter.com/search?q=6+Bolsonaro) | N/A |
-| 12 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
-| 13 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
-| 14 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 15 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
-| 16 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 17 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 18 | [Ruído Branco](http://twitter.com/search?q=Ru%c3%addo+Branco) | N/A |
-| 19 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 20 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 3 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 4 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 6 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
+| 7 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 8 | [FELIZ ANIVERSÁRIO NERO](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+NERO) | N/A |
+| 9 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 10 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 11 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 12 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 13 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 14 | [#ADona049](http://twitter.com/search?q=%23ADona049) | N/A |
+| 15 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 16 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 17 | [#GoCrias](http://twitter.com/search?q=%23GoCrias) | N/A |
+| 18 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
+| 19 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 20 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 | 21 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 22 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 24 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
-| 25 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
-| 26 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 27 | [Luana Piovani](http://twitter.com/search?q=Luana+Piovani) | Luana Piovani is a Brazilian actress, model, and television presenter. Her name is derived from the combination of her mother's name, Luana, and her father's name, Pio. In English, the name means "light of Pio". |
-| 28 | [PLEASE RESPECT MOMO](http://twitter.com/search?q=PLEASE+RESPECT+MOMO) | N/A |
-| 29 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 30 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 31 | [Liverpool x Everton](http://twitter.com/search?q=Liverpool+x+Everton) | N/A |
-| 32 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
-| 33 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
-| 34 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 35 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 36 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 37 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
-| 38 | [Nero](http://twitter.com/search?q=Nero) | N/A |
-| 39 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
-| 40 | [addie larue](http://twitter.com/search?q=addie+larue) | N/A |
-| 41 | [Chrome](http://twitter.com/search?q=Chrome) | N/A |
-| 42 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 43 | [Malásia](http://twitter.com/search?q=Mal%c3%a1sia) | N/A |
-| 44 | [Nazista](http://twitter.com/search?q=Nazista) | N/A |
-| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 46 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
-| 47 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 48 | [Quantumania](http://twitter.com/search?q=Quantumania) | N/A |
-| 49 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 50 | [André Lara Resende](http://twitter.com/search?q=Andr%c3%a9+Lara+Resende) | N/A |
+| 22 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 23 | [6 Bolsonaro](http://twitter.com/search?q=6+Bolsonaro) | N/A |
+| 24 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
+| 27 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 28 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 29 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
+| 30 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 31 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 32 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 33 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
+| 34 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 35 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
+| 36 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 37 | [Afrobege](http://twitter.com/search?q=Afrobege) | N/A |
+| 38 | [manu cit](http://twitter.com/search?q=manu+cit) | N/A |
+| 39 | [Ruído Branco](http://twitter.com/search?q=Ru%c3%addo+Branco) | N/A |
+| 40 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 41 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 42 | [Luana Piovani](http://twitter.com/search?q=Luana+Piovani) | Luana Piovani is a Brazilian actress, model, and television presenter. Her name is derived from the combination of her mother's name, Luana, and her father's name, Pio. In English, the name means "light of Pio". |
+| 43 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
+| 44 | [Liverpool x Everton](http://twitter.com/search?q=Liverpool+x+Everton) | N/A |
+| 45 | [Balieiro](http://twitter.com/search?q=Balieiro) | N/A |
+| 46 | [PLEASE RESPECT MOMO](http://twitter.com/search?q=PLEASE+RESPECT+MOMO) | N/A |
+| 47 | [addie larue](http://twitter.com/search?q=addie+larue) | N/A |
+| 48 | [Chrome](http://twitter.com/search?q=Chrome) | N/A |
+| 49 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 50 | [R$40](http://twitter.com/search?q=R%2440) | N/A |
 
 
 

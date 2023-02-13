@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-13 20:16:14 UTC`
+📆 Last Updated: `2023-02-13 21:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 1 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 2 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 3 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 4 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 3 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 5 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 6 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 7 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 8 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 9 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
-| 10 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 11 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
-| 12 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
-| 13 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 15 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 18 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 19 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 20 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 21 | [Liverpool vs Everton](http://twitter.com/search?q=Liverpool+vs+Everton) | N/A |
-| 22 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 23 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 24 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 25 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 26 | [Voter](http://twitter.com/search?q=Voter) | N/A |
-| 27 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 28 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 29 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 30 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 31 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
-| 32 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 33 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
-| 34 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
-| 35 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 36 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 37 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
-| 38 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
-| 39 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 40 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 41 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 42 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
-| 43 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 44 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 45 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 46 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 47 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 48 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 49 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 6 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 7 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 8 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 9 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 10 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 11 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
+| 12 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
+| 13 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 14 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
+| 15 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 16 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 17 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 18 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 19 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 20 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 21 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
+| 22 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 24 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 25 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 26 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 27 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 28 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 29 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 30 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 31 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 32 | [Englands](http://twitter.com/search?q=Englands) | N/A |
+| 33 | [Gana](http://twitter.com/search?q=Gana) | N/A |
+| 34 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
+| 35 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 36 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 38 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 39 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 41 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
+| 42 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 43 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 44 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 45 | [Ting](http://twitter.com/search?q=Ting) | N/A |
+| 46 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 47 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 48 | [Quatro](http://twitter.com/search?q=Quatro) | N/A |
 
 
 

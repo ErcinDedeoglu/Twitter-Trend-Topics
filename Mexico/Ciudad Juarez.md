@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-02-13 20:16:15 UTC`
+📆 Last Updated: `2023-02-13 21:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
-| 2 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
+| 1 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
+| 2 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
 | 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [#diarioalfa](http://twitter.com/search?q=%23diarioalfa) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
+| 4 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 5 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
+| 6 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 7 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 8 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 9 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 10 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 12 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 13 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 14 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
-| 15 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
-| 16 | [Día del Amor y la Amistad](http://twitter.com/search?q=D%c3%ada+del+Amor+y+la+Amistad) | N/A |
-| 17 | [Radio y Paz](http://twitter.com/search?q=Radio+y+Paz) | N/A |
-| 18 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
-| 19 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 20 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 21 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 22 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
-| 23 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
-| 24 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 25 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 27 | [#AMR23](http://twitter.com/search?q=%23AMR23) | N/A |
-| 28 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 29 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
-| 30 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 31 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 32 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 33 | [#amorpropio](http://twitter.com/search?q=%23amorpropio) | N/A |
-| 34 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 35 | [#Telcel](http://twitter.com/search?q=%23Telcel) | N/A |
-| 36 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
-| 37 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
-| 38 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 39 | [#Supergirl](http://twitter.com/search?q=%23Supergirl) | N/A |
-| 40 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 41 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
-| 42 | [#TrenMaya](http://twitter.com/search?q=%23TrenMaya) | N/A |
+| 8 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
+| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [Raúl Gutiérrez](http://twitter.com/search?q=Ra%c3%bal+Guti%c3%a9rrez) | N/A |
+| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 13 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 14 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
+| 15 | [Yerimua](http://twitter.com/search?q=Yerimua) | N/A |
+| 16 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 19 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 20 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
+| 21 | [Radio y Paz](http://twitter.com/search?q=Radio+y+Paz) | N/A |
+| 22 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 23 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
+| 24 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 25 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 26 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 27 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 28 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 29 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
+| 30 | [Lilly Téllez](http://twitter.com/search?q=Lilly+T%c3%a9llez) | N/A |
+| 31 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 32 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
+| 33 | [#AMR23](http://twitter.com/search?q=%23AMR23) | N/A |
+| 34 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 35 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
+| 36 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 37 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 38 | [#amorpropio](http://twitter.com/search?q=%23amorpropio) | N/A |
+| 39 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 40 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 41 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
+| 42 | [#Telcel](http://twitter.com/search?q=%23Telcel) | N/A |
+| 43 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
+| 44 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
+| 45 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
+| 46 | [#Supergirl](http://twitter.com/search?q=%23Supergirl) | N/A |
+| 47 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 48 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
 
 
 

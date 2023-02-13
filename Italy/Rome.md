@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-13 20:16:27 UTC`
+📆 Last Updated: `2023-02-13 21:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
-| 2 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
-| 3 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
+| 1 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
+| 2 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 3 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
 | 4 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
-| 5 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 6 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 7 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 8 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 9 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 10 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 11 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 12 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 13 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 14 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
-| 15 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 18 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
-| 19 | [Gori](http://twitter.com/search?q=Gori) | N/A |
-| 20 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 21 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
-| 22 | [Lega](http://twitter.com/search?q=Lega) | N/A |
-| 23 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
-| 24 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 25 | [Regione](http://twitter.com/search?q=Regione) | N/A |
-| 26 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 27 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 28 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 29 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
-| 30 | [Jore](http://twitter.com/search?q=Jore) | N/A |
-| 31 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 32 | [Red Ronnie](http://twitter.com/search?q=Red+Ronnie) | N/A |
-| 33 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 34 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
-| 35 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 36 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 37 | [Vittoria](http://twitter.com/search?q=Vittoria) | N/A |
-| 38 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 40 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
-| 41 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 42 | [#maratonamentana](http://twitter.com/search?q=%23maratonamentana) | N/A |
-| 43 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 44 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 45 | [#VeronaSalernitana](http://twitter.com/search?q=%23VeronaSalernitana) | N/A |
-| 46 | [#Sandulli](http://twitter.com/search?q=%23Sandulli) | N/A |
-| 47 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
-| 48 | [#Rocca](http://twitter.com/search?q=%23Rocca) | N/A |
-| 49 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
-| 50 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 5 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 6 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 8 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
+| 9 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 10 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 11 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 12 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 13 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 14 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 15 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 16 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 17 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 18 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
+| 19 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
+| 20 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 21 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
+| 22 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 23 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 24 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 28 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 29 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 30 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
+| 31 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
+| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 33 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
+| 34 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 35 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
+| 36 | [Gori](http://twitter.com/search?q=Gori) | N/A |
+| 37 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 38 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 39 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 40 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
+| 41 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 42 | [Lega](http://twitter.com/search?q=Lega) | N/A |
+| 43 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
+| 44 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 45 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 46 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 47 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 48 | [Regione](http://twitter.com/search?q=Regione) | N/A |
+| 49 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 50 | [Sala](http://twitter.com/search?q=Sala) | N/A |
 
 
 

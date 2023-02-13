@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-13 20:16:26 UTC`
+📆 Last Updated: `2023-02-13 21:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
-| 2 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
-| 3 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
-| 4 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
-| 5 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 6 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 7 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 8 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 9 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 10 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 11 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 12 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 13 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
-| 14 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 17 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
-| 18 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 19 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
-| 20 | [Gori](http://twitter.com/search?q=Gori) | N/A |
-| 21 | [Lega](http://twitter.com/search?q=Lega) | N/A |
-| 22 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
-| 23 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 24 | [Regione](http://twitter.com/search?q=Regione) | N/A |
-| 25 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 26 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 27 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 28 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
-| 29 | [Jore](http://twitter.com/search?q=Jore) | N/A |
-| 30 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 31 | [Red Ronnie](http://twitter.com/search?q=Red+Ronnie) | N/A |
-| 32 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 33 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
-| 34 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 35 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 36 | [Vittoria](http://twitter.com/search?q=Vittoria) | N/A |
-| 37 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 38 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 39 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 40 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
-| 41 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 42 | [#maratonamentana](http://twitter.com/search?q=%23maratonamentana) | N/A |
-| 43 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 44 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 45 | [#VeronaSalernitana](http://twitter.com/search?q=%23VeronaSalernitana) | N/A |
-| 46 | [#Sandulli](http://twitter.com/search?q=%23Sandulli) | N/A |
-| 47 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
-| 48 | [#Rocca](http://twitter.com/search?q=%23Rocca) | N/A |
-| 49 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 1 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
+| 2 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
+| 3 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 6 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 7 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 8 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 9 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 10 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 11 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 12 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 13 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 14 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 15 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
+| 16 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
+| 17 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 18 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 19 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
+| 20 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 21 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 22 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
+| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 24 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 27 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 28 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
+| 29 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
+| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 31 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
+| 32 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 33 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
+| 34 | [Gori](http://twitter.com/search?q=Gori) | N/A |
+| 35 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 36 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 37 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 38 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
+| 39 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 40 | [Lega](http://twitter.com/search?q=Lega) | N/A |
+| 41 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
+| 42 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 43 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 44 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 45 | [Regione](http://twitter.com/search?q=Regione) | N/A |
+| 46 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 47 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 48 | [Sala](http://twitter.com/search?q=Sala) | N/A |
 
 
 

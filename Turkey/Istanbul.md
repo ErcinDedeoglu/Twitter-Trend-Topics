@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-13 20:16:49 UTC`
+📆 Last Updated: `2023-02-13 21:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
-| 2 | [Minnettarız](http://twitter.com/search?q=Minnettar%c4%b1z) | N/A |
-| 3 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
-| 4 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 5 | [#SeçimlerErtelenemez](http://twitter.com/search?q=%23Se%c3%a7imlerErtelenemez) | N/A |
-| 6 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
-| 7 | [#EğitimDevamEtmeli](http://twitter.com/search?q=%23E%c4%9fitimDevamEtmeli) | N/A |
-| 8 | [#ueniversitemikapatma](http://twitter.com/search?q=%23ueniversitemikapatma) | N/A |
-| 9 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 10 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
-| 11 | [Ayça](http://twitter.com/search?q=Ay%c3%a7a) | N/A |
-| 12 | [AÇIK AÇIK PED](http://twitter.com/search?q=A%c3%87IK+A%c3%87IK+PED) | N/A |
-| 13 | [18 Haziran'da](http://twitter.com/search?q=18+Haziran%27da) | N/A |
-| 14 | [Nabız](http://twitter.com/search?q=Nab%c4%b1z) | N/A |
-| 15 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 16 | [İvedilikle](http://twitter.com/search?q=%c4%b0vedilikle) | N/A |
-| 17 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
-| 18 | [Hiroşima](http://twitter.com/search?q=Hiro%c5%9fima) | N/A |
-| 19 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 20 | [Depremin 8](http://twitter.com/search?q=Depremin+8) | N/A |
-| 21 | [Beraberiz Türkiye](http://twitter.com/search?q=Beraberiz+T%c3%bcrkiye) | N/A |
-| 22 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
-| 23 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
-| 24 | [Otlu](http://twitter.com/search?q=Otlu) | N/A |
-| 25 | [Tayvan](http://twitter.com/search?q=Tayvan) | N/A |
-| 26 | [Program](http://twitter.com/search?q=Program) | N/A |
-| 27 | [Yoktu](http://twitter.com/search?q=Yoktu) | Yoktu is a Korean word that means "to be able to do something". It is often used to express the ability to do something, such as "I can do it" or "I am capable of doing it". |
-| 28 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 1 | [Beraberiz Türkiye](http://twitter.com/search?q=Beraberiz+T%c3%bcrkiye) | N/A |
+| 2 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
+| 3 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
+| 4 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
+| 5 | [Minnettarız](http://twitter.com/search?q=Minnettar%c4%b1z) | N/A |
+| 6 | [#SeçimlerErtelenemez](http://twitter.com/search?q=%23Se%c3%a7imlerErtelenemez) | N/A |
+| 7 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 8 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
+| 9 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
+| 10 | [#ueniversitemikapatma](http://twitter.com/search?q=%23ueniversitemikapatma) | N/A |
+| 11 | [#EğitimDevamEtmeli](http://twitter.com/search?q=%23E%c4%9fitimDevamEtmeli) | N/A |
+| 12 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 13 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
+| 14 | [Ayça](http://twitter.com/search?q=Ay%c3%a7a) | N/A |
+| 15 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
+| 16 | [Nabız](http://twitter.com/search?q=Nab%c4%b1z) | N/A |
+| 17 | [PED PED PED](http://twitter.com/search?q=PED+PED+PED) | N/A |
+| 18 | [18 Haziran'da](http://twitter.com/search?q=18+Haziran%27da) | N/A |
+| 19 | [Cemal Kütahya](http://twitter.com/search?q=Cemal+K%c3%bctahya) | N/A |
+| 20 | [AÇIK AÇIK PED](http://twitter.com/search?q=A%c3%87IK+A%c3%87IK+PED) | N/A |
+| 21 | [Hiroşima](http://twitter.com/search?q=Hiro%c5%9fima) | N/A |
+| 22 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
+| 23 | [İvedilikle](http://twitter.com/search?q=%c4%b0vedilikle) | N/A |
+| 24 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
+| 25 | [Depremin 8](http://twitter.com/search?q=Depremin+8) | N/A |
+| 26 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 27 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
+| 28 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
 | 29 | [Savaş](http://twitter.com/search?q=Sava%c5%9f) | N/A |
 | 30 | [Sakura Şehir Hastanesi'nde](http://twitter.com/search?q=Sakura+%c5%9eehir+Hastanesi%27nde) | N/A |
-| 31 | [PED PED PED](http://twitter.com/search?q=PED+PED+PED) | N/A |
-| 32 | [Naci](http://twitter.com/search?q=Naci) | N/A |
-| 33 | [Zehra Taşkesenlioğlu](http://twitter.com/search?q=Zehra+Ta%c5%9fkesenlio%c4%9flu) | N/A |
-| 34 | [Cevahir AVM](http://twitter.com/search?q=Cevahir+AVM) | N/A |
-| 35 | [Numan](http://twitter.com/search?q=Numan) | N/A |
-| 36 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 31 | [Program](http://twitter.com/search?q=Program) | N/A |
+| 32 | [Otlu](http://twitter.com/search?q=Otlu) | N/A |
+| 33 | [Tayvan](http://twitter.com/search?q=Tayvan) | N/A |
+| 34 | [Naci](http://twitter.com/search?q=Naci) | N/A |
+| 35 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 36 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
 | 37 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
 | 38 | [Kırgızistan](http://twitter.com/search?q=K%c4%b1rg%c4%b1zistan) | N/A |
-| 39 | [Ünsal Ban](http://twitter.com/search?q=%c3%9cnsal+Ban) | N/A |
-| 40 | [TBMM](http://twitter.com/search?q=TBMM) | N/A |
-| 41 | [Abdurrahman](http://twitter.com/search?q=Abdurrahman) | N/A |
-| 42 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 43 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
-| 44 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
-| 45 | [Çinli](http://twitter.com/search?q=%c3%87inli) | N/A |
-| 46 | [Kaan](http://twitter.com/search?q=Kaan) | N/A |
-| 47 | [Keyifler](http://twitter.com/search?q=Keyifler) | N/A |
-| 48 | [Edip](http://twitter.com/search?q=Edip) | N/A |
-| 49 | [Evlat](http://twitter.com/search?q=Evlat) | N/A |
-| 50 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 39 | [Yoktu](http://twitter.com/search?q=Yoktu) | Yoktu is a Korean word that means "to be able to do something". It is often used to express the ability to do something, such as "I can do it" or "I am capable of doing it". |
+| 40 | [Numan](http://twitter.com/search?q=Numan) | N/A |
+| 41 | [Türkiye Büyük Millet Meclisi](http://twitter.com/search?q=T%c3%bcrkiye+B%c3%bcy%c3%bck+Millet+Meclisi) | N/A |
+| 42 | [TBMM](http://twitter.com/search?q=TBMM) | N/A |
+| 43 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
+| 44 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 45 | [Sübhanallah](http://twitter.com/search?q=S%c3%bcbhanallah) | N/A |
+| 46 | [Ünsal Ban](http://twitter.com/search?q=%c3%9cnsal+Ban) | N/A |
+| 47 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 48 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
+| 49 | [Kaan](http://twitter.com/search?q=Kaan) | N/A |
+| 50 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
 
 
 

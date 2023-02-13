@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-02-13 20:16:13 UTC`
+📆 Last Updated: `2023-02-13 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 2 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 1 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 2 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 | 3 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 4 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 5 | [#BiblicalFilmsOrSongs](http://twitter.com/search?q=%23BiblicalFilmsOrSongs) | N/A |
-| 6 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 7 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 8 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 9 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 12 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 13 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 14 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 15 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 16 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 17 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
-| 18 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 19 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 24 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 25 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 28 | [Liverpool vs Everton](http://twitter.com/search?q=Liverpool+vs+Everton) | N/A |
-| 29 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 30 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 31 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 32 | [Voter](http://twitter.com/search?q=Voter) | N/A |
-| 33 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 34 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 35 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 36 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 37 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
-| 38 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
-| 39 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 40 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
-| 41 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
-| 42 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 43 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
-| 44 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 45 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 46 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 47 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 48 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
+| 4 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 5 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 6 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 7 | [#5albums74](http://twitter.com/search?q=%235albums74) | N/A |
+| 8 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 9 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 10 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
+| 11 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 12 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
+| 13 | [Warnock](http://twitter.com/search?q=Warnock) | N/A |
+| 14 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 15 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 16 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 17 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 18 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 20 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 21 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 22 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 23 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 24 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 25 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 26 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
+| 27 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 28 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 29 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 30 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 32 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 33 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
+| 34 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 36 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 37 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 38 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 39 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 40 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 41 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 42 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 43 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 44 | [Englands](http://twitter.com/search?q=Englands) | N/A |
+| 45 | [Gana](http://twitter.com/search?q=Gana) | N/A |
+| 46 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
+| 47 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 48 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 
 
 

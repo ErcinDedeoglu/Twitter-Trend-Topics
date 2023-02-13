@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-13 20:16:31 UTC`
+📆 Last Updated: `2023-02-13 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
 | 5 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
 | 6 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 7 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 8 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
+| 7 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
+| 8 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
 | 9 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
 | 10 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
 | 11 | [indonesia terus maju](http://twitter.com/search?q=indonesia+terus+maju) | N/A |
 | 12 | [#MindIDmenjawab](http://twitter.com/search?q=%23MindIDmenjawab) | N/A |
-| 13 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
-| 14 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
-| 15 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 16 | [Putri Candrawathi](http://twitter.com/search?q=Putri+Candrawathi) | N/A |
+| 13 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
+| 14 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
+| 15 | [putri candrawathi](http://twitter.com/search?q=putri+candrawathi) | N/A |
+| 16 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
 | 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 18 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
 | 19 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 20 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 21 | [smelter grade alumina refinery](http://twitter.com/search?q=smelter+grade+alumina+refinery) | N/A |
-| 22 | [sgar](http://twitter.com/search?q=sgar) | N/A |
-| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 24 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
-| 25 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
-| 26 | [direktur operasi](http://twitter.com/search?q=direktur+operasi) | N/A |
-| 27 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
-| 28 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
-| 29 | [Maaf](http://twitter.com/search?q=Maaf) | N/A |
-| 30 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 31 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 23 | [Smelter Grade Alumina Refinery](http://twitter.com/search?q=Smelter+Grade+Alumina+Refinery) | N/A |
+| 24 | [sgar](http://twitter.com/search?q=sgar) | N/A |
+| 25 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
+| 26 | [Direktur Operasi](http://twitter.com/search?q=Direktur+Operasi) | N/A |
+| 27 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 28 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
+| 29 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
+| 30 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 31 | [Maaf](http://twitter.com/search?q=Maaf) | N/A |
 | 32 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 33 | [Banding](http://twitter.com/search?q=Banding) | N/A |
-| 34 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 35 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
-| 36 | [Frans](http://twitter.com/search?q=Frans) | N/A |
-| 37 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
-| 38 | [REFAL HADY](http://twitter.com/search?q=REFAL+HADY) | N/A |
-| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 40 | [Wahyu Iman Santoso](http://twitter.com/search?q=Wahyu+Iman+Santoso) | N/A |
-| 41 | [Kooperatif](http://twitter.com/search?q=Kooperatif) | N/A |
-| 42 | [Vonis](http://twitter.com/search?q=Vonis) | N/A |
-| 43 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 44 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 45 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
-| 46 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 47 | [Takeru](http://twitter.com/search?q=Takeru) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 33 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
+| 34 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 35 | [Banding](http://twitter.com/search?q=Banding) | N/A |
+| 36 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 37 | [Frans](http://twitter.com/search?q=Frans) | N/A |
+| 38 | [HTS JAYA JAYA JAYA](http://twitter.com/search?q=HTS+JAYA+JAYA+JAYA) | N/A |
+| 39 | [Refal Hady](http://twitter.com/search?q=Refal+Hady) | N/A |
+| 40 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 42 | [Wahyu Iman Santoso](http://twitter.com/search?q=Wahyu+Iman+Santoso) | N/A |
+| 43 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 44 | [Kooperatif](http://twitter.com/search?q=Kooperatif) | N/A |
+| 45 | [Vonis](http://twitter.com/search?q=Vonis) | N/A |
+| 46 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 47 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
+| 48 | [Takeru](http://twitter.com/search?q=Takeru) | N/A |
 | 49 | [PN Jaksel](http://twitter.com/search?q=PN+Jaksel) | N/A |
 
 
