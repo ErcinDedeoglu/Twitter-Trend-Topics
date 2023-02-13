@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-02-13 21:17:07 UTC`
+📆 Last Updated: `2023-02-13 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,37 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PulwamaAttack](http://twitter.com/search?q=%23PulwamaAttack) | N/A |
-| 2 | [#BlackDay](http://twitter.com/search?q=%23BlackDay) | N/A |
-| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 4 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 5 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 6 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 8 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 9 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
-| 10 | [ब्राह्मण परिवार](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 11 | [HAMARA ABHIMAAN SHIV THAKARE](http://twitter.com/search?q=HAMARA+ABHIMAAN+SHIV+THAKARE) | N/A |
-| 12 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
-| 13 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 14 | [Aman](http://twitter.com/search?q=Aman) | N/A |
-| 15 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 16 | [Sanu Ek Pal Chain](http://twitter.com/search?q=Sanu+Ek+Pal+Chain) | N/A |
-| 17 | [#neverforgetneverforgive](http://twitter.com/search?q=%23neverforgetneverforgive) | N/A |
-| 18 | [#पुलवामा](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
-| 19 | [#DreamGirl2](http://twitter.com/search?q=%23DreamGirl2) | N/A |
-| 20 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 21 | [#openletter](http://twitter.com/search?q=%23openletter) | N/A |
-| 22 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 23 | [#KanpurDehat](http://twitter.com/search?q=%23KanpurDehat) | N/A |
-| 24 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 25 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
-| 26 | [#TereIshqMeinGhayalOnColors](http://twitter.com/search?q=%23TereIshqMeinGhayalOnColors) | N/A |
-| 27 | [#WPLAuction2023](http://twitter.com/search?q=%23WPLAuction2023) | N/A |
-| 28 | [#मातृ_पितृ_पूजन_दिवस](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a4%bf%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 29 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
-| 30 | [#Veer](http://twitter.com/search?q=%23Veer) | N/A |
-| 31 | [#stufflistingsxPOCOX5Pro](http://twitter.com/search?q=%23stufflistingsxPOCOX5Pro) | N/A |
-| 32 | [#BABYDOGE](http://twitter.com/search?q=%23BABYDOGE) | N/A |
+| 2 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 3 | [#BlackDay](http://twitter.com/search?q=%23BlackDay) | N/A |
+| 4 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 5 | [#POCOX5Pro5GonFK](http://twitter.com/search?q=%23POCOX5Pro5GonFK) | N/A |
+| 6 | [amazonflipkart medicine fraud](http://twitter.com/search?q=amazonflipkart+medicine+fraud) | N/A |
+| 7 | [cheers for real](http://twitter.com/search?q=cheers+for+real) | N/A |
+| 8 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 9 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 10 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
+| 11 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [faridoon sings shahryar](http://twitter.com/search?q=faridoon+sings+shahryar) | N/A |
+| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 16 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 17 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 18 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 19 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 20 | [richa ghosh](http://twitter.com/search?q=richa+ghosh) | N/A |
+| 21 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
+| 22 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
+| 23 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [जैन मुनि](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%a8%e0%a4%bf) | N/A |
+| 26 | [राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 27 | [Jan Ki Baat](http://twitter.com/search?q=Jan+Ki+Baat) | N/A |
+| 28 | [CBI Delay InSSRcs Unacceptable](http://twitter.com/search?q=CBI+Delay+InSSRcs+Unacceptable) | N/A |
+| 29 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 30 | [A. AMOLED](http://twitter.com/search?q=A.+AMOLED) | N/A |
+| 31 | [WE LOVE SHIV FOREVER](http://twitter.com/search?q=WE+LOVE+SHIV+FOREVER) | N/A |
+| 32 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 33 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 34 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 35 | [Welcome to RCB](http://twitter.com/search?q=Welcome+to+RCB) | N/A |
+| 36 | [5 Days Left For Bodh Diwas](http://twitter.com/search?q=5+Days+Left+For+Bodh+Diwas) | N/A |
+| 37 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
+| 38 | [HLFT-42](http://twitter.com/search?q=HLFT-42) | N/A |
+| 39 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 40 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
+| 41 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 42 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 43 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 45 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 46 | [शक्ति मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 47 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 48 | [Sanu Ek Pal Chain](http://twitter.com/search?q=Sanu+Ek+Pal+Chain) | N/A |
+| 49 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 50 | [HAMARA ABHIMAAN SHIV THAKARE](http://twitter.com/search?q=HAMARA+ABHIMAAN+SHIV+THAKARE) | N/A |
 
 
 

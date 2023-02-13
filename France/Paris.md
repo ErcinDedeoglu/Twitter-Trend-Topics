@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-13 21:16:40 UTC`
+📆 Last Updated: `2023-02-13 22:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [McDo](http://twitter.com/search?q=McDo) | N/A |
+| 1 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
 | 2 | [#PatronIncognito](http://twitter.com/search?q=%23PatronIncognito) | N/A |
-| 3 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 3 | [#neyday](http://twitter.com/search?q=%23neyday) | N/A |
 | 4 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 5 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 6 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 7 | [#AsterixEtObelixContreCesar](http://twitter.com/search?q=%23AsterixEtObelixContreCesar) | N/A |
-| 8 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
-| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 10 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 12 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 13 | [Saintoul](http://twitter.com/search?q=Saintoul) | N/A |
-| 14 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 17 | [Shining](http://twitter.com/search?q=Shining) | N/A |
-| 18 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 19 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
-| 20 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 21 | [Antonetti](http://twitter.com/search?q=Antonetti) | N/A |
-| 22 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 23 | [Monsieur le Ministre](http://twitter.com/search?q=Monsieur+le+Ministre) | N/A |
-| 24 | [Jacques](http://twitter.com/search?q=Jacques) | N/A |
-| 25 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 26 | [Neon](http://twitter.com/search?q=Neon) | N/A |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 29 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 30 | [Giant](http://twitter.com/search?q=Giant) | N/A |
-| 31 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 32 | [Buttes-Chaumont](http://twitter.com/search?q=Buttes-Chaumont) | N/A |
-| 33 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 34 | [Ambre Chalumeau](http://twitter.com/search?q=Ambre+Chalumeau) | N/A |
-| 35 | [Claude](http://twitter.com/search?q=Claude) | N/A |
-| 36 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 37 | [Ilan Halimi](http://twitter.com/search?q=Ilan+Halimi) | N/A |
-| 38 | [Australie](http://twitter.com/search?q=Australie) | N/A |
+| 5 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 6 | [#FCMSMC](http://twitter.com/search?q=%23FCMSMC) | N/A |
+| 7 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 8 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 14 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 17 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 18 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [St Jacques](http://twitter.com/search?q=St+Jacques) | N/A |
+| 21 | [PSG Bayern](http://twitter.com/search?q=PSG+Bayern) | N/A |
+| 22 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 23 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 24 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 25 | [Antonetti](http://twitter.com/search?q=Antonetti) | N/A |
+| 26 | [Monsieur le Ministre](http://twitter.com/search?q=Monsieur+le+Ministre) | N/A |
+| 27 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 30 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 32 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 33 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
+| 34 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 35 | [Ambre Chalumeau](http://twitter.com/search?q=Ambre+Chalumeau) | N/A |
+| 36 | [Ilan Halimi](http://twitter.com/search?q=Ilan+Halimi) | N/A |
+| 37 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 38 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 39 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 40 | [Insoumis](http://twitter.com/search?q=Insoumis) | N/A |
+| 40 | [Australie](http://twitter.com/search?q=Australie) | N/A |
 | 41 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 42 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 43 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 44 | [Karl Olive](http://twitter.com/search?q=Karl+Olive) | N/A |
-| 45 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 46 | [#FCMSMC](http://twitter.com/search?q=%23FCMSMC) | N/A |
+| 42 | [Insoumis](http://twitter.com/search?q=Insoumis) | N/A |
+| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 44 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 45 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
+| 46 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
 | 47 | [#Surlefront](http://twitter.com/search?q=%23Surlefront) | N/A |
-| 48 | [#neyday](http://twitter.com/search?q=%23neyday) | N/A |
+| 48 | [#AsterixEtObelixContreCesar](http://twitter.com/search?q=%23AsterixEtObelixContreCesar) | N/A |
 | 49 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
 | 50 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
 

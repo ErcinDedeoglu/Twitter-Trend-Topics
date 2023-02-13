@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-13 21:17:26 UTC`
+📆 Last Updated: `2023-02-13 22:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,48 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
-| 2 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 5 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
-| 6 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 7 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 8 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
-| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 11 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
-| 12 | [Raúl Gutiérrez](http://twitter.com/search?q=Ra%c3%bal+Guti%c3%a9rrez) | N/A |
-| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 14 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 15 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 16 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
-| 17 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
-| 18 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 19 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 20 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 21 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
-| 22 | [Radio y Paz](http://twitter.com/search?q=Radio+y+Paz) | N/A |
-| 23 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 24 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
-| 25 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 26 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 27 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
-| 28 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 29 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 30 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
-| 31 | [Lilly Téllez](http://twitter.com/search?q=Lilly+T%c3%a9llez) | N/A |
+| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 3 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
+| 4 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 5 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 6 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
+| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 9 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 10 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
+| 11 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 12 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
+| 13 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 14 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 15 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
+| 16 | [Raúl Gutiérrez](http://twitter.com/search?q=Ra%c3%bal+Guti%c3%a9rrez) | N/A |
+| 17 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
+| 18 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 19 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 20 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 21 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
+| 22 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
+| 23 | [Radio y Paz](http://twitter.com/search?q=Radio+y+Paz) | N/A |
+| 24 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 25 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 26 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
+| 27 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 28 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 29 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 30 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 31 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 | 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 33 | [#AMR23](http://twitter.com/search?q=%23AMR23) | N/A |
-| 34 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 35 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
-| 36 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 37 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 38 | [#amorpropio](http://twitter.com/search?q=%23amorpropio) | N/A |
+| 33 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 34 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
+| 35 | [#AMR23](http://twitter.com/search?q=%23AMR23) | N/A |
+| 36 | [#DiaDelSoltero](http://twitter.com/search?q=%23DiaDelSoltero) | N/A |
+| 37 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 38 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
 | 39 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 40 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 41 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
-| 42 | [#Telcel](http://twitter.com/search?q=%23Telcel) | N/A |
-| 43 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 44 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 45 | [#Supergirl](http://twitter.com/search?q=%23Supergirl) | N/A |
-| 46 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
-| 47 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 48 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
-| 49 | [#TrenMaya](http://twitter.com/search?q=%23TrenMaya) | N/A |
+| 40 | [#Telcel](http://twitter.com/search?q=%23Telcel) | N/A |
+| 41 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
+| 42 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
+| 43 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
 
 
 

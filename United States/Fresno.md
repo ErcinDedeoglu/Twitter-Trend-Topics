@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-13 21:17:13 UTC`
+📆 Last Updated: `2023-02-13 22:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 3 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 4 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
-| 5 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 8 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 10 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 11 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 12 | [#PMSOverreactionMonday](http://twitter.com/search?q=%23PMSOverreactionMonday) | N/A |
-| 13 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
-| 14 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
-| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 16 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
-| 17 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
-| 18 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
-| 19 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
-| 20 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 21 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 22 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 23 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 24 | [Blanton](http://twitter.com/search?q=Blanton) | N/A |
-| 25 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
-| 26 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 27 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 28 | [Tabby](http://twitter.com/search?q=Tabby) | N/A |
-| 29 | [UNSEEN FR34KY HOURS](http://twitter.com/search?q=UNSEEN+FR34KY+HOURS) | N/A |
-| 30 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 31 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 32 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 33 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
-| 34 | [Ranked Play](http://twitter.com/search?q=Ranked+Play) | N/A |
-| 35 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 36 | [The Honeymooners](http://twitter.com/search?q=The+Honeymooners) | N/A |
-| 37 | [Children of the Corn](http://twitter.com/search?q=Children+of+the+Corn) | N/A |
-| 38 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 39 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
-| 40 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 41 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
-| 42 | [Ted Lerner](http://twitter.com/search?q=Ted+Lerner) | N/A |
-| 43 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 44 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 45 | [Fire In The Hole](http://twitter.com/search?q=Fire+In+The+Hole) | N/A |
-| 46 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 47 | [Corn Dog](http://twitter.com/search?q=Corn+Dog) | N/A |
+| 1 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 5 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 6 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 7 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 8 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 9 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 11 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 12 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 13 | [#DontMessWithSocialSecurity](http://twitter.com/search?q=%23DontMessWithSocialSecurity) | N/A |
+| 14 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 16 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
+| 17 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
+| 18 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
+| 19 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 20 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 21 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 22 | [Enoree](http://twitter.com/search?q=Enoree) | N/A |
+| 23 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 24 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
+| 25 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 26 | [Ability](http://twitter.com/search?q=Ability) | N/A |
+| 27 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
+| 28 | [Blanton](http://twitter.com/search?q=Blanton) | N/A |
+| 29 | [Where is Biden](http://twitter.com/search?q=Where+is+Biden) | N/A |
+| 30 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 31 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 32 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
+| 33 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 34 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 35 | [Genji](http://twitter.com/search?q=Genji) | N/A |
+| 36 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 37 | [Puddle](http://twitter.com/search?q=Puddle) | N/A |
+| 38 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 39 | [Tabby](http://twitter.com/search?q=Tabby) | N/A |
+| 40 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 41 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
+| 42 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 43 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 44 | [The Honeymooners](http://twitter.com/search?q=The+Honeymooners) | N/A |
+| 45 | [Children of the Corn](http://twitter.com/search?q=Children+of+the+Corn) | N/A |
+| 46 | [$PLTR](http://twitter.com/search?q=%24PLTR) | N/A |
 
 
 

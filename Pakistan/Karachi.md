@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-13 21:17:06 UTC`
+📆 Last Updated: `2023-02-13 22:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
-| 2 | [#LQvMS](http://twitter.com/search?q=%23LQvMS) | N/A |
-| 3 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 4 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 5 | [#lahoreqalandar](http://twitter.com/search?q=%23lahoreqalandar) | N/A |
-| 6 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 7 | [#HBLPSL8](http://twitter.com/search?q=%23HBLPSL8) | N/A |
+| 1 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 2 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
+| 3 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 4 | [#LQvMS](http://twitter.com/search?q=%23LQvMS) | N/A |
+| 5 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 6 | [#داماد_ہائیکورٹ](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%85%d8%a7%d8%af_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9) | N/A |
+| 7 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
 | 8 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 9 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 11 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
-| 12 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 13 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 14 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 17 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 18 | [#PSLPakistan](http://twitter.com/search?q=%23PSLPakistan) | N/A |
-| 19 | [#PDM_PriestOfDollar](http://twitter.com/search?q=%23PDM_PriestOfDollar) | N/A |
-| 20 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 21 | [#pslopeningceremony](http://twitter.com/search?q=%23pslopeningceremony) | N/A |
-| 22 | [#SabSitarayHumaray](http://twitter.com/search?q=%23SabSitarayHumaray) | N/A |
-| 23 | [#QalandarHum](http://twitter.com/search?q=%23QalandarHum) | N/A |
-| 24 | [#داماد_ہائیکورٹ](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%85%d8%a7%d8%af_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9) | N/A |
-| 25 | [#امریکی_سازش_ٹھس](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b1%db%8c%da%a9%db%8c_%d8%b3%d8%a7%d8%b2%d8%b4_%d9%b9%da%be%d8%b3) | N/A |
-| 26 | [#امیر_المومنین_امیر_معاویہ](http://twitter.com/search?q=%23%d8%a7%d9%85%db%8c%d8%b1_%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%db%8c%d9%86_%d8%a7%d9%85%db%8c%d8%b1_%d9%85%d8%b9%d8%a7%d9%88%db%8c%db%81) | N/A |
-| 27 | [#AnwarMaqsood](http://twitter.com/search?q=%23AnwarMaqsood) | N/A |
-| 28 | [#ZiaMohiuddinRIP](http://twitter.com/search?q=%23ZiaMohiuddinRIP) | N/A |
+| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 10 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
+| 11 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
+| 12 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 13 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 14 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 15 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
+| 16 | [Tahir Baig](http://twitter.com/search?q=Tahir+Baig) | N/A |
+| 17 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
+| 18 | [Ayesha Naseem](http://twitter.com/search?q=Ayesha+Naseem) | N/A |
+| 19 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 20 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 21 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
+| 22 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 24 | [Ahsan Ali](http://twitter.com/search?q=Ahsan+Ali) | N/A |
+| 25 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 26 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 27 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
+| 28 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 29 | [Dahani](http://twitter.com/search?q=Dahani) | N/A |
+| 30 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
+| 31 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 33 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 34 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 35 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 36 | [Islamic Republic of Pakistan](http://twitter.com/search?q=Islamic+Republic+of+Pakistan) | N/A |
+| 37 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 38 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
+| 39 | [Your DMs](http://twitter.com/search?q=Your+DMs) | N/A |
+| 40 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 41 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 42 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 43 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 44 | [Kesy](http://twitter.com/search?q=Kesy) | N/A |
+| 45 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
+| 46 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 47 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 48 | [#lahoreqalandar](http://twitter.com/search?q=%23lahoreqalandar) | N/A |
+| 49 | [#lahoreqalandar](http://twitter.com/search?q=%23lahoreqalandar) | N/A |
+| 50 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 
 
 

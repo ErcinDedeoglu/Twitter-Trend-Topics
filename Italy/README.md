@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-13 21:17:25 UTC`
+📆 Last Updated: `2023-02-13 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
-| 2 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
-| 3 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 3 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
+| 4 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
 | 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 6 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
-| 7 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
-| 8 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 9 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 10 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 11 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 12 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 13 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 14 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 15 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 16 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 17 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
+| 6 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 7 | [#prelemi](http://twitter.com/search?q=%23prelemi) | N/A |
+| 8 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 9 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 10 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 11 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
+| 12 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 13 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 14 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 15 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 16 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 17 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 | 18 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
-| 19 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 20 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 21 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 22 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
-| 23 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
-| 24 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 25 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 27 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
-| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 29 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
-| 30 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
-| 31 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
-| 32 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 33 | [Gori](http://twitter.com/search?q=Gori) | N/A |
-| 34 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
-| 35 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 36 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
-| 37 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 38 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 39 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 40 | [Lega](http://twitter.com/search?q=Lega) | N/A |
-| 41 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
-| 42 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
-| 43 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
-| 44 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 45 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 46 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 47 | [Regione](http://twitter.com/search?q=Regione) | N/A |
-| 48 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 49 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 50 | [Democrazia](http://twitter.com/search?q=Democrazia) | N/A |
+| 19 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 20 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 21 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 22 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 23 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 24 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
+| 25 | [Romita](http://twitter.com/search?q=Romita) | N/A |
+| 26 | [Marassi](http://twitter.com/search?q=Marassi) | N/A |
+| 27 | [Emanuela](http://twitter.com/search?q=Emanuela) | N/A |
+| 28 | [Daniele e Oriana](http://twitter.com/search?q=Daniele+e+Oriana) | N/A |
+| 29 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 30 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 31 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 32 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 33 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 34 | [Stankovic](http://twitter.com/search?q=Stankovic) | N/A |
+| 35 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 36 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 37 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 38 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
+| 39 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 40 | [Squadra](http://twitter.com/search?q=Squadra) | N/A |
+| 41 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 42 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
+| 43 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 44 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 45 | [Partita](http://twitter.com/search?q=Partita) | N/A |
+| 46 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 47 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 48 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 49 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 50 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
 
 
 

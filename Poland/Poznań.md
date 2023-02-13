@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-13 21:16:38 UTC`
+📆 Last Updated: `2023-02-13 22:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 2 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 1 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 2 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
 | 3 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 4 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 6 | [Kwiatkowski](http://twitter.com/search?q=Kwiatkowski) | N/A |
-| 7 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 8 | [Lenartowicz](http://twitter.com/search?q=Lenartowicz) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 11 | [Walentynki](http://twitter.com/search?q=Walentynki) | N/A |
+| 7 | [Walentynki](http://twitter.com/search?q=Walentynki) | N/A |
+| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 9 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 10 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 11 | [F-35](http://twitter.com/search?q=F-35) | N/A |
 | 12 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 13 | [Newsweeka](http://twitter.com/search?q=Newsweeka) | N/A |
-| 14 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 15 | [Putinem](http://twitter.com/search?q=Putinem) | N/A |
-| 16 | [Światowy Dzień Radia](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Radia) | N/A |
-| 17 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 18 | [Evertonu](http://twitter.com/search?q=Evertonu) | N/A |
-| 19 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
-| 20 | [McLarena](http://twitter.com/search?q=McLarena) | N/A |
-| 21 | [Zagrobelny](http://twitter.com/search?q=Zagrobelny) | N/A |
-| 22 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 23 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 24 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 26 | [Wolnościowców](http://twitter.com/search?q=Wolno%c5%9bciowc%c3%b3w) | N/A |
-| 27 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 28 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 29 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 30 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 31 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 32 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 13 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 15 | [Evertonu](http://twitter.com/search?q=Evertonu) | N/A |
+| 16 | [Newsweeka](http://twitter.com/search?q=Newsweeka) | N/A |
+| 17 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 18 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 19 | [Światowy Dzień Radia](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Radia) | N/A |
+| 20 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 21 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
+| 22 | [McLarena](http://twitter.com/search?q=McLarena) | N/A |
+| 23 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 24 | [Zagrobelny](http://twitter.com/search?q=Zagrobelny) | N/A |
+| 25 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 26 | [Putinem](http://twitter.com/search?q=Putinem) | N/A |
+| 27 | [Lenartowicz](http://twitter.com/search?q=Lenartowicz) | N/A |
+| 28 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 29 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 30 | [Wolnościowców](http://twitter.com/search?q=Wolno%c5%9bciowc%c3%b3w) | N/A |
+| 31 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
+| 32 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
 | 33 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
-| 34 | [Tobiasza](http://twitter.com/search?q=Tobiasza) | N/A |
-| 35 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 36 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
-| 37 | [Świętoszowie](http://twitter.com/search?q=%c5%9awi%c4%99toszowie) | N/A |
-| 38 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 39 | [Mińska](http://twitter.com/search?q=Mi%c5%84ska) | N/A |
-| 40 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 41 | [Tokarczuk](http://twitter.com/search?q=Tokarczuk) | N/A |
-| 42 | [Kanadą](http://twitter.com/search?q=Kanad%c4%85) | N/A |
-| 43 | [Niemen](http://twitter.com/search?q=Niemen) | N/A |
-| 44 | [Kasta](http://twitter.com/search?q=Kasta) | N/A |
-| 45 | [Piszczek](http://twitter.com/search?q=Piszczek) | N/A |
-| 46 | [Sąd Okręgowy](http://twitter.com/search?q=S%c4%85d+Okr%c4%99gowy) | N/A |
-| 47 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
-| 48 | [pekhart](http://twitter.com/search?q=pekhart) | N/A |
-| 49 | [Klenczon](http://twitter.com/search?q=Klenczon) | N/A |
-| 50 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 34 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 35 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
+| 36 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 37 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 38 | [Budka](http://twitter.com/search?q=Budka) | N/A |
+| 39 | [Tobiasza](http://twitter.com/search?q=Tobiasza) | N/A |
+| 40 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 41 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 42 | [Mińska](http://twitter.com/search?q=Mi%c5%84ska) | N/A |
+| 43 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 44 | [Tokarczuk](http://twitter.com/search?q=Tokarczuk) | N/A |
+| 45 | [Platforma Obywatelska](http://twitter.com/search?q=Platforma+Obywatelska) | N/A |
+| 46 | [niemen](http://twitter.com/search?q=niemen) | N/A |
+| 47 | [Kanadą](http://twitter.com/search?q=Kanad%c4%85) | N/A |
+| 48 | [Piszczek](http://twitter.com/search?q=Piszczek) | N/A |
+| 49 | [klenczon](http://twitter.com/search?q=klenczon) | N/A |
+| 50 | [Sąd Okręgowy](http://twitter.com/search?q=S%c4%85d+Okr%c4%99gowy) | N/A |
 
 
 
