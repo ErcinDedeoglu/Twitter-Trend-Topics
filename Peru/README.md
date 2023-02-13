@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-13 06:17:37 UTC`
+📆 Last Updated: `2023-02-13 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Peru
 | 5 | [Valera](http://twitter.com/search?q=Valera) | N/A |
 | 6 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
 | 7 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 8 | [Paolo Guerrero](http://twitter.com/search?q=Paolo+Guerrero) | Paolo Guerrero is a Peruvian professional footballer who plays as a striker for Brazilian club Internacional and the Peru national team. In English, the name Paolo Guerrero means "warrior". |
-| 9 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 10 | [#SS9inPeru](http://twitter.com/search?q=%23SS9inPeru) | N/A |
-| 11 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 12 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 13 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 14 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
-| 15 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 16 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
+| 8 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
+| 9 | [#SS9inPeru](http://twitter.com/search?q=%23SS9inPeru) | N/A |
+| 10 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 11 | [Paolo Guerrero](http://twitter.com/search?q=Paolo+Guerrero) | Paolo Guerrero is a Peruvian professional footballer who plays as a striker for Brazilian club Internacional and the Peru national team. In English, the name Paolo Guerrero means "warrior". |
+| 12 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 13 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 14 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 15 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
+| 16 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
 | 17 | [#SS9inLima](http://twitter.com/search?q=%23SS9inLima) | N/A |
-| 18 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 19 | [Celi](http://twitter.com/search?q=Celi) | N/A |
-| 20 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 21 | [Terroristas](http://twitter.com/search?q=Terroristas) | Terroristas is a Spanish word meaning "terrorists". It is used to refer to people who use violence and intimidation to achieve political or ideological goals. |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
-| 24 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 25 | [Unión Comercio](http://twitter.com/search?q=Uni%c3%b3n+Comercio) | N/A |
-| 26 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
-| 27 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 28 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 18 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 19 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 20 | [Celi](http://twitter.com/search?q=Celi) | N/A |
+| 21 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 22 | [Terroristas](http://twitter.com/search?q=Terroristas) | Terroristas is a Spanish word meaning "terrorists". It is used to refer to people who use violence and intimidation to achieve political or ideological goals. |
+| 23 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 24 | [Unión Comercio](http://twitter.com/search?q=Uni%c3%b3n+Comercio) | N/A |
+| 25 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 26 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 28 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 | 29 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 30 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 31 | [corozo](http://twitter.com/search?q=corozo) | N/A |
-| 32 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 33 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 35 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 30 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
+| 31 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 33 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 34 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 35 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
 | 36 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 37 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 38 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 39 | [Ideele](http://twitter.com/search?q=Ideele) | N/A |
-| 40 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
-| 41 | [Matute](http://twitter.com/search?q=Matute) | N/A |
-| 42 | [Antezana](http://twitter.com/search?q=Antezana) | N/A |
-| 43 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 37 | [di benedetto](http://twitter.com/search?q=di+benedetto) | N/A |
+| 38 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 39 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 40 | [Antezana](http://twitter.com/search?q=Antezana) | N/A |
+| 41 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
+| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 43 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
 | 44 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 45 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
-| 46 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
-| 47 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
+| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 46 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 47 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
 | 48 | [Guivin](http://twitter.com/search?q=Guivin) | N/A |
-| 49 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 50 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 49 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 50 | [Tarapoto](http://twitter.com/search?q=Tarapoto) | N/A |
 
 
 

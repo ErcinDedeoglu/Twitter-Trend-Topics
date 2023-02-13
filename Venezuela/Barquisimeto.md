@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-13 06:16:45 UTC`
+📆 Last Updated: `2023-02-13 07:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#12Feb](http://twitter.com/search?q=%2312Feb) | N/A |
 | 3 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 4 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 5 | [#DíaDeLaJuventudPatriota](http://twitter.com/search?q=%23D%c3%adaDeLaJuventudPatriota) | N/A |
+| 5 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
 | 6 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 7 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
+| 7 | [#DíaDeLaJuventudPatriota](http://twitter.com/search?q=%23D%c3%adaDeLaJuventudPatriota) | N/A |
 | 8 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
 | 9 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 10 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 11 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 10 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 11 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
 | 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 13 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 14 | [#somospasióncaribe](http://twitter.com/search?q=%23somospasi%c3%b3ncaribe) | N/A |
 | 15 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 16 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 17 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
-| 18 | [#clubhipicoxtlt](http://twitter.com/search?q=%23clubhipicoxtlt) | N/A |
+| 16 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 17 | [#clubhipicoxtlt](http://twitter.com/search?q=%23clubhipicoxtlt) | N/A |
+| 18 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 19 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
 | 20 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
-| 21 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
-| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 21 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 22 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
 | 23 | [Rafael Vidal](http://twitter.com/search?q=Rafael+Vidal) | N/A |
 | 24 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 25 | [shakira](http://twitter.com/search?q=shakira) | N/A |
+| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 26 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 28 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 29 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 30 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 32 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 33 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
-| 34 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
+| 27 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 28 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 29 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
+| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 31 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 32 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 33 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 34 | [nuestra señora de lourdes](http://twitter.com/search?q=nuestra+se%c3%b1ora+de+lourdes) | N/A |
 | 35 | [Sudamericano](http://twitter.com/search?q=Sudamericano) | N/A |
-| 36 | [josé antonio abreu](http://twitter.com/search?q=jos%c3%a9+antonio+abreu) | N/A |
+| 36 | [José Antonio Abreu](http://twitter.com/search?q=Jos%c3%a9+Antonio+Abreu) | N/A |
 | 37 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
 | 38 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 39 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 39 | [1814](http://twitter.com/search?q=1814) | N/A |
 | 40 | [Robert Redman](http://twitter.com/search?q=Robert+Redman) | N/A |
-| 41 | [1814](http://twitter.com/search?q=1814) | N/A |
-| 42 | [Bassil Da Costa](http://twitter.com/search?q=Bassil+Da+Costa) | N/A |
-| 43 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 44 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 45 | [francisco tomás morales](http://twitter.com/search?q=francisco+tom%c3%a1s+morales) | N/A |
-| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 47 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 41 | [Bassil Da Costa](http://twitter.com/search?q=Bassil+Da+Costa) | N/A |
+| 42 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 43 | [francisco tomás morales](http://twitter.com/search?q=francisco+tom%c3%a1s+morales) | N/A |
+| 44 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 45 | [El 12](http://twitter.com/search?q=El+12) | N/A |
+| 46 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 47 | [josé tomás boves](http://twitter.com/search?q=jos%c3%a9+tom%c3%a1s+boves) | N/A |
 | 48 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 49 | [Toco Gómez](http://twitter.com/search?q=Toco+G%c3%b3mez) | N/A |
-| 50 | [josé tomás boves](http://twitter.com/search?q=jos%c3%a9+tom%c3%a1s+boves) | N/A |
+| 49 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 50 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 
 
 

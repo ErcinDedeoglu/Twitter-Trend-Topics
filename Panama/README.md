@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-13 06:17:37 UTC`
+📆 Last Updated: `2023-02-13 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Panama
 | 11 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 12 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 | 13 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 14 | [brisas del golf](http://twitter.com/search?q=brisas+del+golf) | N/A |
-| 15 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 14 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 15 | [brisas del golf](http://twitter.com/search?q=brisas+del+golf) | N/A |
 | 16 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
 | 17 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 18 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
-| 19 | [Bodichi](http://twitter.com/search?q=Bodichi) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 22 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
-| 23 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 24 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 21 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
+| 22 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 24 | [Bodichi](http://twitter.com/search?q=Bodichi) | N/A |
 | 25 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
 | 26 | [Man Down](http://twitter.com/search?q=Man+Down) | N/A |
-| 27 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 28 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 29 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 30 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 31 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
-| 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 27 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 28 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 29 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 30 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 31 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 32 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
 | 33 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
 | 34 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 35 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 36 | [Omar Torrijos](http://twitter.com/search?q=Omar+Torrijos) | N/A |
-| 37 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 38 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 39 | [#FeelsBirthdayRubius](http://twitter.com/search?q=%23FeelsBirthdayRubius) | N/A |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [micro brew fest](http://twitter.com/search?q=micro+brew+fest) | N/A |
-| 42 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
-| 43 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 44 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 45 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 46 | [alanje](http://twitter.com/search?q=alanje) | N/A |
-| 47 | [senniaf](http://twitter.com/search?q=senniaf) | N/A |
+| 35 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 36 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 37 | [Omar Torrijos](http://twitter.com/search?q=Omar+Torrijos) | N/A |
+| 38 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 40 | [micro brew fest](http://twitter.com/search?q=micro+brew+fest) | N/A |
+| 41 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 42 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 43 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
+| 44 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 45 | [alanje](http://twitter.com/search?q=alanje) | N/A |
+| 46 | [senniaf](http://twitter.com/search?q=senniaf) | N/A |
+| 47 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
 | 48 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 49 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
-| 50 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
+| 49 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
+| 50 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 
 
 

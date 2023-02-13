@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-13 06:16:51 UTC`
+📆 Last Updated: `2023-02-13 07:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 1 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
 | 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 4 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
+| 3 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 4 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
 | 5 | [#juvefiorentina](http://twitter.com/search?q=%23juvefiorentina) | N/A |
 | 6 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 7 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
+| 7 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
 | 8 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 9 | [lazza](http://twitter.com/search?q=lazza) | N/A |
-| 10 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
-| 11 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 12 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
-| 13 | [bonaventura](http://twitter.com/search?q=bonaventura) | N/A |
-| 14 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 15 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 16 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 17 | [Milos](http://twitter.com/search?q=Milos) | N/A |
-| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 19 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 20 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 21 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 12 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 13 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 14 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
+| 15 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
+| 16 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 17 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 18 | [Buongiorno Lucio](http://twitter.com/search?q=Buongiorno+Lucio) | N/A |
+| 19 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 20 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 21 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 22 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
 | 23 | [zia mara](http://twitter.com/search?q=zia+mara) | N/A |
-| 24 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 25 | [TIZIANO FERRO](http://twitter.com/search?q=TIZIANO+FERRO) | N/A |
-| 26 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 27 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
-| 28 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 29 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 30 | [marelli](http://twitter.com/search?q=marelli) | N/A |
-| 31 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 32 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 33 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
-| 34 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 35 | [Ornella vanoni](http://twitter.com/search?q=Ornella+vanoni) | N/A |
-| 36 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 37 | [Buongiorno Clelia](http://twitter.com/search?q=Buongiorno+Clelia) | N/A |
-| 38 | [Illy](http://twitter.com/search?q=Illy) | N/A |
-| 39 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 40 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 24 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 26 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 27 | [TIZIANO FERRO](http://twitter.com/search?q=TIZIANO+FERRO) | N/A |
+| 28 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 29 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 30 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 31 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 32 | [Ornella vanoni](http://twitter.com/search?q=Ornella+vanoni) | N/A |
+| 33 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 34 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [Illy](http://twitter.com/search?q=Illy) | N/A |
+| 37 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 38 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 39 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
+| 40 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
 | 41 | [Castrovilli](http://twitter.com/search?q=Castrovilli) | N/A |
-| 42 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 43 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 44 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 45 | [La RAI](http://twitter.com/search?q=La+RAI) | N/A |
-| 46 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 47 | [achille lauro](http://twitter.com/search?q=achille+lauro) | N/A |
-| 48 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
-| 49 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 50 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 42 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 43 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 44 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 45 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 46 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
+| 47 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
+| 48 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 49 | [Rossy](http://twitter.com/search?q=Rossy) | N/A |
+| 50 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 
 
 

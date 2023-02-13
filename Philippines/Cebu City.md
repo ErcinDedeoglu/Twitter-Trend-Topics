@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-13 06:17:05 UTC`
+📆 Last Updated: `2023-02-13 07:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 4 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
-| 5 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
-| 6 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 8 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
+| 2 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 4 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
+| 5 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
+| 6 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
+| 7 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 9 | [girlpowerkantahan withbelle](http://twitter.com/search?q=girlpowerkantahan+withbelle) | N/A |
-| 10 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 11 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
-| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 15 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 16 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 17 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 10 | [bgyo ace the dmstage](http://twitter.com/search?q=bgyo+ace+the+dmstage) | N/A |
+| 11 | [The8](http://twitter.com/search?q=The8) | N/A |
+| 12 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 13 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
+| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 15 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
+| 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 17 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
 | 18 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 19 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 19 | [anji arambulo live](http://twitter.com/search?q=anji+arambulo+live) | N/A |
 | 20 | [Drei](http://twitter.com/search?q=Drei) | N/A |
 | 21 | [Jeromy](http://twitter.com/search?q=Jeromy) | N/A |
-| 22 | [anji arambulo live](http://twitter.com/search?q=anji+arambulo+live) | N/A |
+| 22 | [Winston](http://twitter.com/search?q=Winston) | N/A |
 | 23 | [joshcullen blackout era](http://twitter.com/search?q=joshcullen+blackout+era) | N/A |
-| 24 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 25 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 26 | [kodrea febibig on iwantasap](http://twitter.com/search?q=kodrea+febibig+on+iwantasap) | N/A |
+| 24 | [kodrea febibig on iwantasap](http://twitter.com/search?q=kodrea+febibig+on+iwantasap) | N/A |
+| 25 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 26 | [Han Jisung](http://twitter.com/search?q=Han+Jisung) | N/A |
 | 27 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 28 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 29 | [PIEflex SUPERSEian AT MOA](http://twitter.com/search?q=PIEflex+SUPERSEian+AT+MOA) | N/A |
-| 30 | [reyster the only one](http://twitter.com/search?q=reyster+the+only+one) | N/A |
+| 28 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
+| 29 | [reyster the only one](http://twitter.com/search?q=reyster+the+only+one) | N/A |
+| 30 | [Artem](http://twitter.com/search?q=Artem) | N/A |
 | 31 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 32 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
-| 33 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 34 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
+| 32 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 33 | [txt at inkigayo](http://twitter.com/search?q=txt+at+inkigayo) | N/A |
+| 34 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 35 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 36 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 37 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 38 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 39 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
-| 40 | [Solar](http://twitter.com/search?q=Solar) | N/A |
+| 36 | [PIEflex SUPERSEian AT MOA](http://twitter.com/search?q=PIEflex+SUPERSEian+AT+MOA) | N/A |
+| 37 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 38 | [Carat Day](http://twitter.com/search?q=Carat+Day) | N/A |
+| 39 | [Solar](http://twitter.com/search?q=Solar) | N/A |
+| 40 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 41 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 42 | [mentordarren for dmfinale](http://twitter.com/search?q=mentordarren+for+dmfinale) | N/A |
-| 43 | [pambansangginoo onkmjs](http://twitter.com/search?q=pambansangginoo+onkmjs) | N/A |
-| 44 | [Carat Day](http://twitter.com/search?q=Carat+Day) | N/A |
-| 45 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 46 | [filay onaos](http://twitter.com/search?q=filay+onaos) | N/A |
-| 47 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 48 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 49 | [Bomin](http://twitter.com/search?q=Bomin) | N/A |
-| 50 | [ARCHIVE BY CHA EUNWOO](http://twitter.com/search?q=ARCHIVE+BY+CHA+EUNWOO) | N/A |
+| 42 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 43 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 44 | [pambansangginoo onkmjs](http://twitter.com/search?q=pambansangginoo+onkmjs) | N/A |
+| 45 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
+| 46 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
+| 47 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 48 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
+| 49 | [filay onaos](http://twitter.com/search?q=filay+onaos) | N/A |
+| 50 | [Prince](http://twitter.com/search?q=Prince) | N/A |
 
 
 
