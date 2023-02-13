@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-13 08:17:15 UTC`
+📆 Last Updated: `2023-02-13 09:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,44 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 3 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
-| 6 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
-| 7 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 9 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
-| 12 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 13 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
-| 14 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 15 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 16 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 17 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 18 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 19 | [Playback](http://twitter.com/search?q=Playback) | N/A |
-| 20 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 21 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 22 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 23 | [Wählern](http://twitter.com/search?q=W%c3%a4hlern) | N/A |
-| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 25 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 26 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 27 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 28 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 29 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 30 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
-| 31 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 32 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 33 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
-| 34 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 35 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 36 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
-| 37 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 38 | [#ranSB57](http://twitter.com/search?q=%23ranSB57) | N/A |
-| 39 | [#ChiefsKingdom](http://twitter.com/search?q=%23ChiefsKingdom) | #ChiefsKingdom is a hashtag used by fans of the Kansas City Chiefs, an American football team. It is used to show support for the team and to express enthusiasm for their success. The phrase "Chiefs Kingdom" is a metaphor for the passionate fan base of the Chiefs, and it implies that they are all united in their love and support for the team. |
-| 40 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 41 | [#Jarasch](http://twitter.com/search?q=%23Jarasch) | N/A |
+| 4 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 8 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
+| 9 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 10 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 11 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 12 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
+| 13 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
+| 14 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
+| 15 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 17 | [Wählern](http://twitter.com/search?q=W%c3%a4hlern) | N/A |
+| 18 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 20 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
+| 21 | [Liberalen](http://twitter.com/search?q=Liberalen) | N/A |
+| 22 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 23 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 24 | [Männlichkeit](http://twitter.com/search?q=M%c3%a4nnlichkeit) | N/A |
+| 25 | [Bezirk](http://twitter.com/search?q=Bezirk) | N/A |
+| 26 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 27 | [Playback](http://twitter.com/search?q=Playback) | N/A |
+| 28 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 29 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
+| 30 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 31 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 32 | [Strack-Zimmermann](http://twitter.com/search?q=Strack-Zimmermann) | N/A |
+| 33 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
+| 34 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 35 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 36 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
+| 37 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 38 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
+| 39 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
+| 40 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 41 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 42 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 43 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
+| 44 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
+| 45 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
+| 46 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
+| 47 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 48 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
+| 49 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 
 
 

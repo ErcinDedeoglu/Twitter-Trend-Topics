@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-13 08:17:53 UTC`
+📆 Last Updated: `2023-02-13 09:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -61,7 +61,7 @@ This is top 50 for Guatemala
 | 44 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
 | 45 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 46 | [archila](http://twitter.com/search?q=archila) | N/A |
-| 47 | [FCN Nación](http://twitter.com/search?q=FCN+Naci%c3%b3n) | N/A |
+| 47 | [fcn nación](http://twitter.com/search?q=fcn+naci%c3%b3n) | N/A |
 | 48 | [hugo peña](http://twitter.com/search?q=hugo+pe%c3%b1a) | N/A |
 | 49 | [Patsy](http://twitter.com/search?q=Patsy) | N/A |
 | 50 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |

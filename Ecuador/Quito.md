@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-13 08:17:08 UTC`
+📆 Last Updated: `2023-02-13 09:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 29 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
 | 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [Piero Hincapié](http://twitter.com/search?q=Piero+Hincapi%c3%a9) | N/A |
+| 31 | [piero hincapié](http://twitter.com/search?q=piero+hincapi%c3%a9) | N/A |
 | 32 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
 | 33 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
 | 34 | [Erique](http://twitter.com/search?q=Erique) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 43 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
 | 44 | [iPad](http://twitter.com/search?q=iPad) | N/A |
 | 45 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 48 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 49 | [Nilson Angulo](http://twitter.com/search?q=Nilson+Angulo) | N/A |
-| 50 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 46 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 47 | [pervis](http://twitter.com/search?q=pervis) | N/A |
+| 48 | [nilson angulo](http://twitter.com/search?q=nilson+angulo) | N/A |
+| 49 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 50 | [capurro](http://twitter.com/search?q=capurro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-13 08:17:08 UTC`
+📆 Last Updated: `2023-02-13 09:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,33 +36,33 @@ This is top 50 for [Colombia](</Colombia>)
 | 19 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
 | 20 | [#porlapatria15f](http://twitter.com/search?q=%23porlapatria15f) | N/A |
 | 21 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
-| 22 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 22 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
 | 23 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
 | 24 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
 | 25 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 26 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
 | 27 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
 | 28 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
-| 29 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
+| 29 | [equidad](http://twitter.com/search?q=equidad) | N/A |
 | 30 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
 | 31 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
 | 32 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
 | 33 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
 | 34 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 35 | [Impresentable](http://twitter.com/search?q=Impresentable) | N/A |
-| 36 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 37 | [Vásquez](http://twitter.com/search?q=V%c3%a1squez) | N/A |
-| 38 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
-| 39 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 40 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 41 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 42 | [Sanción](http://twitter.com/search?q=Sanci%c3%b3n) | N/A |
-| 43 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 44 | [Love On The Brain](http://twitter.com/search?q=Love+On+The+Brain) | N/A |
-| 45 | [no se juega](http://twitter.com/search?q=no+se+juega) | N/A |
-| 46 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 47 | [Autori](http://twitter.com/search?q=Autori) | N/A |
-| 48 | [Infame](http://twitter.com/search?q=Infame) | N/A |
+| 35 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 36 | [Impresentable](http://twitter.com/search?q=Impresentable) | N/A |
+| 37 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 38 | [vásquez](http://twitter.com/search?q=v%c3%a1squez) | N/A |
+| 39 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
+| 40 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
+| 41 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 42 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 43 | [Sanción](http://twitter.com/search?q=Sanci%c3%b3n) | N/A |
+| 44 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 45 | [Love on the brain](http://twitter.com/search?q=Love+on+the+brain) | N/A |
+| 46 | [no se juega](http://twitter.com/search?q=no+se+juega) | N/A |
+| 47 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 48 | [autori](http://twitter.com/search?q=autori) | N/A |
 | 49 | [Margarita Cabello](http://twitter.com/search?q=Margarita+Cabello) | N/A |
 | 50 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 
