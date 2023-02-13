@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-13 19:16:26 UTC`
+📆 Last Updated: `2023-02-13 20:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,42 +18,45 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 2 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
 | 3 | [#diarioalfa](http://twitter.com/search?q=%23diarioalfa) | N/A |
-| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
-| 6 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 7 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 8 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 9 | [#amorpropio](http://twitter.com/search?q=%23amorpropio) | N/A |
-| 10 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 11 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 12 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
-| 13 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
-| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 15 | [Radio y Paz](http://twitter.com/search?q=Radio+y+Paz) | N/A |
-| 16 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
-| 17 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 18 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 19 | [Día del Amor y la Amistad](http://twitter.com/search?q=D%c3%ada+del+Amor+y+la+Amistad) | N/A |
-| 20 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 21 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 22 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
-| 23 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 4 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
+| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 7 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
+| 8 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 9 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 11 | [#AMR23](http://twitter.com/search?q=%23AMR23) | N/A |
+| 12 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 13 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 14 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 16 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
+| 17 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
+| 18 | [Día del Amor y la Amistad](http://twitter.com/search?q=D%c3%ada+del+Amor+y+la+Amistad) | N/A |
+| 19 | [Radio y Paz](http://twitter.com/search?q=Radio+y+Paz) | N/A |
+| 20 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
+| 21 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 22 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 23 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
 | 24 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
-| 25 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 26 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 27 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 28 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 29 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 30 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
-| 31 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 32 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
-| 33 | [#Telcel](http://twitter.com/search?q=%23Telcel) | N/A |
+| 25 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
+| 26 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 27 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 28 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 29 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 30 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
+| 31 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 32 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 33 | [#amorpropio](http://twitter.com/search?q=%23amorpropio) | N/A |
 | 34 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 35 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 36 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 37 | [#Supergirl](http://twitter.com/search?q=%23Supergirl) | N/A |
-| 38 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
-| 39 | [#TrenMaya](http://twitter.com/search?q=%23TrenMaya) | N/A |
+| 35 | [#Telcel](http://twitter.com/search?q=%23Telcel) | N/A |
+| 36 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
+| 37 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
+| 38 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
+| 39 | [#Supergirl](http://twitter.com/search?q=%23Supergirl) | N/A |
+| 40 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 41 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
+| 42 | [#TrenMaya](http://twitter.com/search?q=%23TrenMaya) | N/A |
 
 
 

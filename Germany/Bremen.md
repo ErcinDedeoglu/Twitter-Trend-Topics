@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-13 19:16:35 UTC`
+📆 Last Updated: `2023-02-13 20:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
 | 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 3 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
 | 4 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
 | 5 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
 | 6 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 7 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
 | 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 10 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 10 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
 | 11 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 12 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 13 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 14 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
-| 15 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 12 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 13 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 14 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 15 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
 | 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 17 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 18 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
 | 19 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
 | 20 | [Tessa](http://twitter.com/search?q=Tessa) | Tessa is a female given name of Greek origin, derived from the word "Τέσσα", meaning "harvest". It is also a variant of the name Theresa. |
-| 21 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 22 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
-| 23 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 24 | [Verena](http://twitter.com/search?q=Verena) | N/A |
-| 25 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 26 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 21 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 22 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 23 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
+| 24 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 25 | [Verena](http://twitter.com/search?q=Verena) | N/A |
+| 26 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
 | 27 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
-| 28 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 29 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 30 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 31 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 32 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 33 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 28 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 30 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 31 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
+| 32 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 33 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 34 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
 | 35 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 36 | [Playback](http://twitter.com/search?q=Playback) | N/A |
-| 37 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 38 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 39 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 40 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 41 | [Neuauszählung](http://twitter.com/search?q=Neuausz%c3%a4hlung) | N/A |
-| 42 | [Promi](http://twitter.com/search?q=Promi) | N/A |
-| 43 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 44 | [FDP Wähler](http://twitter.com/search?q=FDP+W%c3%a4hler) | N/A |
-| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 46 | [Management der Energiekrise](http://twitter.com/search?q=Management+der+Energiekrise) | N/A |
+| 36 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 37 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 38 | [Playback](http://twitter.com/search?q=Playback) | N/A |
+| 39 | [neuauszählung](http://twitter.com/search?q=neuausz%c3%a4hlung) | N/A |
+| 40 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 41 | [FDP Wähler](http://twitter.com/search?q=FDP+W%c3%a4hler) | N/A |
+| 42 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 43 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 44 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 45 | [Wahl in Berlin](http://twitter.com/search?q=Wahl+in+Berlin) | N/A |
+| 46 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
 | 47 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 48 | [Wahl in Berlin](http://twitter.com/search?q=Wahl+in+Berlin) | N/A |
+| 48 | [Promi](http://twitter.com/search?q=Promi) | N/A |
 
 
 

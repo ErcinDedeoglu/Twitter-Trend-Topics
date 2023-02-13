@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-13 19:17:10 UTC`
+📆 Last Updated: `2023-02-13 20:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [Leonel Farsante](http://twitter.com/search?q=Leonel+Farsante) | N/A |
+| 1 | [Leonel Farsante](http://twitter.com/search?q=Leonel+Farsante) | N/A |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 3 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 | 4 | [luis retira ley](http://twitter.com/search?q=luis+retira+ley) | N/A |
 | 5 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for Dominican Republic
 | 8 | [#LuisSiempreEscucha](http://twitter.com/search?q=%23LuisSiempreEscucha) | N/A |
 | 9 | [Ley de Trata](http://twitter.com/search?q=Ley+de+Trata) | N/A |
 | 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 11 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 13 | [Donaly Martínez](http://twitter.com/search?q=Donaly+Mart%c3%adnez) | N/A |
+| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 12 | [Donaly Martínez](http://twitter.com/search?q=Donaly+Mart%c3%adnez) | N/A |
+| 13 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 14 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
-| 15 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 16 | [#mascambioconluis](http://twitter.com/search?q=%23mascambioconluis) | N/A |
-| 17 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 18 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 19 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 20 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 22 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 15 | [#mascambioconluis](http://twitter.com/search?q=%23mascambioconluis) | N/A |
+| 16 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
+| 17 | [Miguel Sanó](http://twitter.com/search?q=Miguel+San%c3%b3) | N/A |
+| 18 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 21 | [Jairo González](http://twitter.com/search?q=Jairo+Gonz%c3%a1lez) | N/A |
+| 22 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
 | 23 | [Las Carreras](http://twitter.com/search?q=Las+Carreras) | N/A |
-| 24 | [Jairo González](http://twitter.com/search?q=Jairo+Gonz%c3%a1lez) | N/A |
-| 25 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
-| 26 | [Miguel Sanó](http://twitter.com/search?q=Miguel+San%c3%b3) | N/A |
-| 27 | [El Niño](http://twitter.com/search?q=El+Ni%c3%b1o) | N/A |
-| 28 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 24 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 25 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 26 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
+| 27 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 28 | [Torni](http://twitter.com/search?q=Torni) | N/A |
 | 29 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
-| 30 | [Torni](http://twitter.com/search?q=Torni) | N/A |
-| 31 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 32 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 33 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 34 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 31 | [El Niño](http://twitter.com/search?q=El+Ni%c3%b1o) | N/A |
+| 32 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
+| 33 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 34 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 35 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 36 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 37 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
-| 38 | [Mella](http://twitter.com/search?q=Mella) | N/A |
-| 39 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 40 | [Eduardo Alberto Then](http://twitter.com/search?q=Eduardo+Alberto+Then) | N/A |
-| 41 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 42 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 43 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 44 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 45 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 46 | [Hipolito](http://twitter.com/search?q=Hipolito) | N/A |
-| 47 | [Sonix](http://twitter.com/search?q=Sonix) | Sonix is a software platform that enables users to create and edit audio files. It is used for creating music, podcasts, sound effects, and other audio content. The name Sonix is derived from the Latin word "sonus," which means sound. |
-| 48 | [Caucedo](http://twitter.com/search?q=Caucedo) | N/A |
-| 49 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 50 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 36 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 37 | [Mella](http://twitter.com/search?q=Mella) | N/A |
+| 38 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 39 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 40 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 41 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 42 | [Eduardo Alberto Then](http://twitter.com/search?q=Eduardo+Alberto+Then) | N/A |
+| 43 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 44 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 45 | [Hipolito](http://twitter.com/search?q=Hipolito) | N/A |
+| 46 | [Sonix](http://twitter.com/search?q=Sonix) | Sonix is a software platform that enables users to create and edit audio files. It is used for creating music, podcasts, sound effects, and other audio content. The name Sonix is derived from the Latin word "sonus," which means sound. |
+| 47 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 48 | [Las Águilas](http://twitter.com/search?q=Las+%c3%81guilas) | N/A |
+| 49 | [caucedo](http://twitter.com/search?q=caucedo) | N/A |
+| 50 | [Stgo](http://twitter.com/search?q=Stgo) | N/A |
 
 
 

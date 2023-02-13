@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-13 19:16:23 UTC`
+📆 Last Updated: `2023-02-13 20:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
 | 3 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
 | 4 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 5 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 6 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 7 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 8 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 9 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 10 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
-| 11 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 12 | [#SavingSessions](http://twitter.com/search?q=%23SavingSessions) | N/A |
-| 13 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 14 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 15 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 16 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 17 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 18 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
-| 19 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 20 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
-| 21 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 22 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 23 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 24 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
-| 25 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 26 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 27 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 28 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 31 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 32 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 33 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 34 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
-| 35 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 36 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 37 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 38 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 39 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 40 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 41 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 42 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 43 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 44 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 45 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 46 | [Joe Westerman](http://twitter.com/search?q=Joe+Westerman) | N/A |
-| 47 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 48 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 49 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 50 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 5 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 6 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 7 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 8 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
+| 9 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 10 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
+| 11 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
+| 12 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
+| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 16 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
+| 17 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 18 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 20 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 21 | [Liverpool vs Everton](http://twitter.com/search?q=Liverpool+vs+Everton) | N/A |
+| 22 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 23 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 24 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 25 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 26 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 27 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 28 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 29 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
+| 30 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
+| 31 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
+| 32 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
+| 33 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 34 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 35 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
+| 36 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
+| 37 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 38 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 39 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 40 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 41 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
+| 42 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 43 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 44 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 45 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
+| 46 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 47 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 48 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 49 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 
 
 

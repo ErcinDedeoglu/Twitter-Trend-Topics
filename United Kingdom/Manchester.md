@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-02-13 19:16:24 UTC`
+📆 Last Updated: `2023-02-13 20:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 3 | [#BiblicalFilmsOrSongs](http://twitter.com/search?q=%23BiblicalFilmsOrSongs) | N/A |
-| 4 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 5 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 6 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 7 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 8 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 9 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 10 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 11 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 12 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 13 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 14 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 15 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
-| 16 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 17 | [#SavingSessions](http://twitter.com/search?q=%23SavingSessions) | N/A |
-| 18 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 19 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 20 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 21 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 22 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
-| 23 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 24 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
-| 25 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 26 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 27 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 28 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
-| 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 30 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 31 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 32 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
-| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 34 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 35 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 36 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 37 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
-| 38 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 39 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 41 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 42 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 43 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 44 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 45 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 46 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 47 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 48 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 49 | [Joe Westerman](http://twitter.com/search?q=Joe+Westerman) | N/A |
-| 50 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 3 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 4 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 5 | [#COYB](http://twitter.com/search?q=%23COYB) | N/A |
+| 6 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 7 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 8 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 9 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 10 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 11 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 12 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 13 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 14 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 15 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 16 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 17 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 18 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 19 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
+| 20 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 21 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
+| 22 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 24 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
+| 27 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 28 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Liverpool vs Everton](http://twitter.com/search?q=Liverpool+vs+Everton) | N/A |
+| 31 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 32 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 33 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 34 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 35 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 36 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 37 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 38 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 39 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 40 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
+| 41 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
+| 42 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
+| 43 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
+| 44 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 45 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
+| 46 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
+| 47 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 48 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 49 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 50 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
 
 
 

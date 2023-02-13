@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-13 19:16:58 UTC`
+📆 Last Updated: `2023-02-13 20:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Seeman](http://twitter.com/search?q=%23Seeman) | N/A |
-| 2 | [#PulwamaAttack](http://twitter.com/search?q=%23PulwamaAttack) | N/A |
-| 3 | [#BlackDay](http://twitter.com/search?q=%23BlackDay) | N/A |
-| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [#openletter](http://twitter.com/search?q=%23openletter) | N/A |
-| 6 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
-| 7 | [Jan Ki Baat](http://twitter.com/search?q=Jan+Ki+Baat) | N/A |
-| 8 | [ब्राह्मण परिवार](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 9 | [Chahun Aur Machi Dhum](http://twitter.com/search?q=Chahun+Aur+Machi+Dhum) | N/A |
-| 10 | [Celebrate True Love](http://twitter.com/search?q=Celebrate+True+Love) | N/A |
-| 11 | [HAMARA ABHIMAAN SHIV THAKARE](http://twitter.com/search?q=HAMARA+ABHIMAAN+SHIV+THAKARE) | N/A |
-| 12 | [Sanu Ek Pal Chain](http://twitter.com/search?q=Sanu+Ek+Pal+Chain) | N/A |
-| 13 | [Depth Campaign](http://twitter.com/search?q=Depth+Campaign) | N/A |
-| 14 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
-| 15 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 1 | [#Prabhakaran](http://twitter.com/search?q=%23Prabhakaran) | N/A |
+| 2 | [#LTTE](http://twitter.com/search?q=%23LTTE) | N/A |
+| 3 | [#PulwamaAttack](http://twitter.com/search?q=%23PulwamaAttack) | N/A |
+| 4 | [#BlackDay](http://twitter.com/search?q=%23BlackDay) | N/A |
+| 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 7 | [Never Forgive](http://twitter.com/search?q=Never+Forgive) | N/A |
+| 8 | [Never Forget](http://twitter.com/search?q=Never+Forget) | N/A |
+| 9 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
+| 10 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 11 | [ब्राह्मण परिवार](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 12 | [HAMARA ABHIMAAN SHIV THAKARE](http://twitter.com/search?q=HAMARA+ABHIMAAN+SHIV+THAKARE) | N/A |
+| 13 | [Aman](http://twitter.com/search?q=Aman) | N/A |
+| 14 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 15 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
 | 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 17 | [Aman](http://twitter.com/search?q=Aman) | N/A |
+| 17 | [Sanu Ek Pal Chain](http://twitter.com/search?q=Sanu+Ek+Pal+Chain) | N/A |
 | 18 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 19 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 20 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 21 | [Welcome to RCB](http://twitter.com/search?q=Welcome+to+RCB) | N/A |
-| 22 | [A. AMOLED](http://twitter.com/search?q=A.+AMOLED) | N/A |
-| 23 | [LTTE](http://twitter.com/search?q=LTTE) | N/A |
-| 24 | [Flipkart](http://twitter.com/search?q=Flipkart) | N/A |
-| 25 | [Apna Bana Le Piya](http://twitter.com/search?q=Apna+Bana+Le+Piya) | N/A |
-| 26 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
-| 27 | [जिला प्रशासन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8) | N/A |
-| 28 | [शक्ति मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 29 | [#DreamGirl2](http://twitter.com/search?q=%23DreamGirl2) | N/A |
-| 30 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 31 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 32 | [#TajLogoReveal](http://twitter.com/search?q=%23TajLogoReveal) | N/A |
-| 33 | [#Molkki2](http://twitter.com/search?q=%23Molkki2) | N/A |
-| 34 | [#KanpurDehat](http://twitter.com/search?q=%23KanpurDehat) | N/A |
-| 35 | [#पुलवामा](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
-| 36 | [#DrugFreeIndia](http://twitter.com/search?q=%23DrugFreeIndia) | N/A |
-| 37 | [#TereIshqMeinGhayalOnColors](http://twitter.com/search?q=%23TereIshqMeinGhayalOnColors) | N/A |
-| 38 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
-| 39 | [#WPLAuction2023](http://twitter.com/search?q=%23WPLAuction2023) | N/A |
-| 40 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 41 | [#TripuraPollWithPradeep](http://twitter.com/search?q=%23TripuraPollWithPradeep) | N/A |
-| 42 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 43 | [#KaranKundrra](http://twitter.com/search?q=%23KaranKundrra) | N/A |
-| 44 | [#Veer](http://twitter.com/search?q=%23Veer) | N/A |
-| 45 | [#मातृ_पितृ_पूजन_दिवस](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a4%bf%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 46 | [#Junooniyatt](http://twitter.com/search?q=%23Junooniyatt) | N/A |
-| 47 | [#WomensIPL](http://twitter.com/search?q=%23WomensIPL) | N/A |
-| 48 | [#BesharamRang](http://twitter.com/search?q=%23BesharamRang) | N/A |
-| 49 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
-| 50 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 19 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 20 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 21 | [#पुलवामा](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
+| 22 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 23 | [#DreamGirl2](http://twitter.com/search?q=%23DreamGirl2) | N/A |
+| 24 | [#openletter](http://twitter.com/search?q=%23openletter) | N/A |
+| 25 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 26 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 27 | [#KanpurDehat](http://twitter.com/search?q=%23KanpurDehat) | N/A |
+| 28 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
+| 29 | [#TajLogoReveal](http://twitter.com/search?q=%23TajLogoReveal) | N/A |
+| 30 | [#Molkki2](http://twitter.com/search?q=%23Molkki2) | N/A |
+| 31 | [#DrugFreeIndia](http://twitter.com/search?q=%23DrugFreeIndia) | N/A |
+| 32 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
+| 33 | [#TereIshqMeinGhayalOnColors](http://twitter.com/search?q=%23TereIshqMeinGhayalOnColors) | N/A |
+| 34 | [#WPLAuction2023](http://twitter.com/search?q=%23WPLAuction2023) | N/A |
+| 35 | [#TripuraPollWithPradeep](http://twitter.com/search?q=%23TripuraPollWithPradeep) | N/A |
+| 36 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 37 | [#KaranKundrra](http://twitter.com/search?q=%23KaranKundrra) | N/A |
+| 38 | [#मातृ_पितृ_पूजन_दिवस](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a4%bf%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 39 | [#Veer](http://twitter.com/search?q=%23Veer) | N/A |
+| 40 | [#WPLAuctions](http://twitter.com/search?q=%23WPLAuctions) | N/A |
+| 41 | [#BesharamRang](http://twitter.com/search?q=%23BesharamRang) | N/A |
+| 42 | [#TripuraiAbarBJPSarkar](http://twitter.com/search?q=%23TripuraiAbarBJPSarkar) | N/A |
+| 43 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
+| 44 | [#Junooniyatt](http://twitter.com/search?q=%23Junooniyatt) | N/A |
+| 45 | [#stufflistingsxPOCOX5Pro](http://twitter.com/search?q=%23stufflistingsxPOCOX5Pro) | N/A |
+| 46 | [#WinPOCOX5Pro5G](http://twitter.com/search?q=%23WinPOCOX5Pro5G) | N/A |
+| 47 | [#GashmeerMahajani](http://twitter.com/search?q=%23GashmeerMahajani) | N/A |
+| 48 | [#DelhiCapitals](http://twitter.com/search?q=%23DelhiCapitals) | N/A |
+| 49 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
+| 50 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
 
 
 

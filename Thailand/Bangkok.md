@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-13 19:16:48 UTC`
+📆 Last Updated: `2023-02-13 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,46 +18,53 @@ This is top 50 for [Thailand](</Thailand>)
 | 1 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
 | 2 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
 | 3 | [#ShowMeLoveแค่อยากบอกรัก](http://twitter.com/search?q=%23ShowMeLove%e0%b9%81%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 4 | [#JaeDo](http://twitter.com/search?q=%23JaeDo) | N/A |
-| 5 | [Happy Valentine's Day](http://twitter.com/search?q=Happy+Valentine%27s+Day) | N/A |
-| 6 | [#dongren](http://twitter.com/search?q=%23dongren) | N/A |
-| 7 | [#3MillionLoveAPO](http://twitter.com/search?q=%233MillionLoveAPO) | N/A |
-| 8 | [#ฟ้องSMTrue](http://twitter.com/search?q=%23%e0%b8%9f%e0%b9%89%e0%b8%ad%e0%b8%87SMTrue) | N/A |
-| 9 | [#วิทยุชุมชนจิ๊ดริด](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b8%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%8a%e0%b8%99%e0%b8%88%e0%b8%b4%e0%b9%8a%e0%b8%94%e0%b8%a3%e0%b8%b4%e0%b8%94) | N/A |
-| 10 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
-| 11 | [#PhuwinOnlyonetineday](http://twitter.com/search?q=%23PhuwinOnlyonetineday) | N/A |
-| 12 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 13 | [#ผักนี้ไม่ห่างเลยนะ](http://twitter.com/search?q=%23%e0%b8%9c%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%99%e0%b8%b0) | N/A |
-| 14 | [#วาเลนไทน์](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b8%99%e0%b9%84%e0%b8%97%e0%b8%99%e0%b9%8c) | N/A |
-| 15 | [#Valentines_MyYugyeom](http://twitter.com/search?q=%23Valentines_MyYugyeom) | N/A |
-| 16 | [#재현이의_이야기_끝이_없게](http://twitter.com/search?q=%23%ec%9e%ac%ed%98%84%ec%9d%b4%ec%9d%98_%ec%9d%b4%ec%95%bc%ea%b8%b0_%eb%81%9d%ec%9d%b4_%ec%97%86%ea%b2%8c) | N/A |
-| 17 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 18 | [#chillincat](http://twitter.com/search?q=%23chillincat) | N/A |
-| 19 | [#olulove](http://twitter.com/search?q=%23olulove) | N/A |
-| 20 | [#SyachtGo2Korea](http://twitter.com/search?q=%23SyachtGo2Korea) | N/A |
-| 21 | [#อมอดวคตมน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%94%e0%b8%a7%e0%b8%84%e0%b8%95%e0%b8%a1%e0%b8%99) | N/A |
-| 22 | [#เบลล์ฝน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%a5%e0%b9%8c%e0%b8%9d%e0%b8%99) | N/A |
-| 23 | [#TellerXOffGun](http://twitter.com/search?q=%23TellerXOffGun) | N/A |
-| 24 | [#ออกเดทกับTheStar2022](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%94%e0%b8%97%e0%b8%81%e0%b8%b1%e0%b8%9aTheStar2022) | N/A |
-| 25 | [#มณีพยาบาทEP6](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%93%e0%b8%b5%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%9a%e0%b8%b2%e0%b8%97EP6) | N/A |
-| 26 | [#MeanPlanXLoveEverAfter](http://twitter.com/search?q=%23MeanPlanXLoveEverAfter) | N/A |
-| 27 | [#nomin](http://twitter.com/search?q=%23nomin) | N/A |
-| 28 | [#AntManAndTheWaspTH](http://twitter.com/search?q=%23AntManAndTheWaspTH) | N/A |
-| 29 | [#ออฟกัน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 30 | [#ยอดบุรุษพลิกคดี](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b8%e0%b8%a9%e0%b8%9e%e0%b8%a5%e0%b8%b4%e0%b8%81%e0%b8%84%e0%b8%94%e0%b8%b5) | N/A |
-| 31 | [#นนท์ไม่โรแมนติก](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%82%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81) | N/A |
-| 32 | [#bbtstopjuju](http://twitter.com/search?q=%23bbtstopjuju) | N/A |
-| 33 | [#สงสัยโลกอยากให้เรารักกัน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b8%a2%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 34 | [#MVไม่ชอบเป็นเพื่อนเธอ](http://twitter.com/search?q=%23MV%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%8a%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 35 | [#อาตุ่ยคุ้ยWinnySatang](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%95%e0%b8%b8%e0%b9%88%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a2WinnySatang) | N/A |
-| 36 | [#MoshiMoshi](http://twitter.com/search?q=%23MoshiMoshi) | N/A |
-| 37 | [#นางนาคสะใภ้พระโขนงEP13](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87EP13) | N/A |
-| 38 | [#แบมแบม](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%a1%e0%b9%81%e0%b8%9a%e0%b8%a1) | N/A |
-| 39 | [#Boybandtheseries](http://twitter.com/search?q=%23Boybandtheseries) | N/A |
-| 40 | [#ArtPakpoom](http://twitter.com/search?q=%23ArtPakpoom) | N/A |
-| 41 | [#LBNK48](http://twitter.com/search?q=%23LBNK48) | N/A |
-| 42 | [#มาร์คต้วนคือความรัก](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%95%e0%b9%89%e0%b8%a7%e0%b8%99%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 43 | [#ONEINAMILLION](http://twitter.com/search?q=%23ONEINAMILLION) | N/A |
+| 4 | [#PraewXINTO1Patrick](http://twitter.com/search?q=%23PraewXINTO1Patrick) | N/A |
+| 5 | [#3MillionLoveAPO](http://twitter.com/search?q=%233MillionLoveAPO) | N/A |
+| 6 | [PATRICK PREAW COVER](http://twitter.com/search?q=PATRICK+PREAW+COVER) | N/A |
+| 7 | [Happy Valentine's Day](http://twitter.com/search?q=Happy+Valentine%27s+Day) | N/A |
+| 8 | [Bright MyEcstasy](http://twitter.com/search?q=Bright+MyEcstasy) | N/A |
+| 9 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 10 | [bambam gm 13february](http://twitter.com/search?q=bambam+gm+13february) | N/A |
+| 11 | [URANUS RAYONG X KEM](http://twitter.com/search?q=URANUS+RAYONG+X+KEM) | N/A |
+| 12 | [feel fan netjames](http://twitter.com/search?q=feel+fan+netjames) | N/A |
+| 13 | [GarnierMen X OrnOung](http://twitter.com/search?q=GarnierMen+X+OrnOung) | N/A |
+| 14 | [KhunEn Beside Nanon](http://twitter.com/search?q=KhunEn+Beside+Nanon) | N/A |
+| 15 | [ZomMarie x Billkin](http://twitter.com/search?q=ZomMarie+x+Billkin) | N/A |
+| 16 | [gxxod richy](http://twitter.com/search?q=gxxod+richy) | N/A |
+| 17 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 18 | [XG - LEFT RIGHT](http://twitter.com/search?q=XG+-+LEFT+RIGHT) | N/A |
+| 19 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 20 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
+| 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 22 | [#BrightMyETCPressTour](http://twitter.com/search?q=%23BrightMyETCPressTour) | N/A |
+| 23 | [#JaeDo](http://twitter.com/search?q=%23JaeDo) | N/A |
+| 24 | [#MVไม่ชอบเป็นเพื่อนเธอ](http://twitter.com/search?q=%23MV%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%8a%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 25 | [#NCTDREAM_THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_BKK) | #NCTDREAM_THEDREAMSHOW2_in_BKK is a hashtag used to promote the second edition of NCT Dream's The Dream Show concert series, which was held in Bangkok, Thailand. The hashtag is used to share news and updates about the event. |
+| 26 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
+| 27 | [#MoshiMoshi](http://twitter.com/search?q=%23MoshiMoshi) | N/A |
+| 28 | [#นนท์ไม่โรแมนติก](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%82%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81) | N/A |
+| 29 | [#dongren](http://twitter.com/search?q=%23dongren) | N/A |
+| 30 | [#NotRomantic](http://twitter.com/search?q=%23NotRomantic) | N/A |
+| 31 | [#TellerxOffGun](http://twitter.com/search?q=%23TellerxOffGun) | N/A |
+| 32 | [#1ปีที่เริ่มต้นกับนิ่งเฮีย](http://twitter.com/search?q=%231%e0%b8%9b%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%95%e0%b9%89%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2) | N/A |
+| 33 | [#นางนาคสะใภ้พระโขนงEP13](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87EP13) | N/A |
+| 34 | [#วาเลนไทน์](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b8%99%e0%b9%84%e0%b8%97%e0%b8%99%e0%b9%8c) | N/A |
+| 35 | [#olulove](http://twitter.com/search?q=%23olulove) | N/A |
+| 36 | [#1YSpecialBossNoeul](http://twitter.com/search?q=%231YSpecialBossNoeul) | N/A |
+| 37 | [#อมอดวคตมน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%94%e0%b8%a7%e0%b8%84%e0%b8%95%e0%b8%a1%e0%b8%99) | N/A |
+| 38 | [#มารีเบิร์นเนอร์](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%99%e0%b9%80%e0%b8%99%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 39 | [#PPKritลังเล_Teaser](http://twitter.com/search?q=%23PPKrit%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5_Teaser) | N/A |
+| 40 | [#chillincat](http://twitter.com/search?q=%23chillincat) | N/A |
+| 41 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
+| 42 | [#วิทยุชุมชนจิ๊ดริด](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b8%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%8a%e0%b8%99%e0%b8%88%e0%b8%b4%e0%b9%8a%e0%b8%94%e0%b8%a3%e0%b8%b4%e0%b8%94) | N/A |
+| 43 | [#SMTrueโกงสิทธิ์MEMBERSHIP](http://twitter.com/search?q=%23SMTrue%e0%b9%82%e0%b8%81%e0%b8%87%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b9%8cMEMBERSHIP) | N/A |
+| 44 | [#3M400KLuvZeePruk](http://twitter.com/search?q=%233M400KLuvZeePruk) | N/A |
+| 45 | [#AllTicketต้องรับผิดชอบ](http://twitter.com/search?q=%23AllTicket%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9c%e0%b8%b4%e0%b8%94%e0%b8%8a%e0%b8%ad%e0%b8%9a) | N/A |
+| 46 | [#ชอบตอนเธอรักxKaewNatruja](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%ad%e0%b8%9a%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%98%e0%b8%ad%e0%b8%a3%e0%b8%b1%e0%b8%81xKaewNatruja) | N/A |
+| 47 | [#ล้านสองเคียงข้างบอส](http://twitter.com/search?q=%23%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%aa) | N/A |
+| 48 | [#3MsmileForMile](http://twitter.com/search?q=%233MsmileForMile) | N/A |
+| 49 | [#Onet66](http://twitter.com/search?q=%23Onet66) | N/A |
+| 50 | [#aisshopsiamcenterxnonttanont](http://twitter.com/search?q=%23aisshopsiamcenterxnonttanont) | N/A |
 
 
 
