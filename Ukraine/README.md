@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-13 05:16:54 UTC`
+📆 Last Updated: `2023-02-13 06:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 2 | [угледаром](http://twitter.com/search?q=%d1%83%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d1%80%d0%be%d0%bc) | N/A |
-| 3 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 4 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
-| 5 | [America](http://twitter.com/search?q=America) | N/A |
-| 6 | [сумно](http://twitter.com/search?q=%d1%81%d1%83%d0%bc%d0%bd%d0%be) | N/A |
-| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 8 | [#navination](http://twitter.com/search?q=%23navination) | N/A |
-| 9 | [#furry](http://twitter.com/search?q=%23furry) | N/A |
-| 10 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 11 | [молдове](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b5) | N/A |
-| 12 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
-| 13 | [сталина](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
-| 14 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 15 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 18 | [Русские](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
-| 19 | [Аргентину](http://twitter.com/search?q=%d0%90%d1%80%d0%b3%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 20 | [бггг](http://twitter.com/search?q=%d0%b1%d0%b3%d0%b3%d0%b3) | N/A |
-| 21 | [хотелось](http://twitter.com/search?q=%d1%85%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%81%d1%8c) | N/A |
-| 22 | [вітаю](http://twitter.com/search?q=%d0%b2%d1%96%d1%82%d0%b0%d1%8e) | N/A |
-| 23 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 24 | [януковича](http://twitter.com/search?q=%d1%8f%d0%bd%d1%83%d0%ba%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
-| 25 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
-| 26 | [Слава Украине](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 27 | [не можу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b6%d1%83) | N/A |
-| 28 | [германия](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
-| 29 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 30 | [Польши](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b8) | N/A |
-| 31 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 32 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 33 | [лондон](http://twitter.com/search?q=%d0%bb%d0%be%d0%bd%d0%b4%d0%be%d0%bd) | N/A |
-| 34 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 35 | [Shahed](http://twitter.com/search?q=Shahed) | N/A |
-| 36 | [затоке](http://twitter.com/search?q=%d0%b7%d0%b0%d1%82%d0%be%d0%ba%d0%b5) | N/A |
-| 37 | [Соловьева](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2%d0%b0) | N/A |
-| 38 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 39 | [шишки](http://twitter.com/search?q=%d1%88%d0%b8%d1%88%d0%ba%d0%b8) | N/A |
-| 40 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 41 | [Web3 Social Hackathon](http://twitter.com/search?q=Web3+Social+Hackathon) | N/A |
-| 42 | [Домовились](http://twitter.com/search?q=%d0%94%d0%be%d0%bc%d0%be%d0%b2%d0%b8%d0%bb%d0%b8%d1%81%d1%8c) | N/A |
-| 43 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 44 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 45 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 46 | [Гарно](http://twitter.com/search?q=%d0%93%d0%b0%d1%80%d0%bd%d0%be) | N/A |
-| 47 | [В Украине](http://twitter.com/search?q=%d0%92+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 48 | [London](http://twitter.com/search?q=London) | N/A |
-| 49 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 50 | [УЖАСНО](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1%d0%9d%d0%9e) | N/A |
+| 1 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 2 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 3 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
+| 4 | [Добрий](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%b8%d0%b9) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [Угледаром](http://twitter.com/search?q=%d0%a3%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d1%80%d0%be%d0%bc) | N/A |
+| 7 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
+| 8 | [America](http://twitter.com/search?q=America) | N/A |
+| 9 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 10 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 11 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
+| 12 | [#navination](http://twitter.com/search?q=%23navination) | N/A |
+| 13 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 14 | [бпла](http://twitter.com/search?q=%d0%b1%d0%bf%d0%bb%d0%b0) | N/A |
+| 15 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 16 | [#furry](http://twitter.com/search?q=%23furry) | N/A |
+| 17 | [сумно](http://twitter.com/search?q=%d1%81%d1%83%d0%bc%d0%bd%d0%be) | N/A |
+| 18 | [молдове](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b5) | N/A |
+| 19 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
+| 20 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 23 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 24 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
+| 25 | [сталина](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
+| 26 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 27 | [#CSGO](http://twitter.com/search?q=%23CSGO) | N/A |
+| 28 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 29 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 30 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Русские](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
+| 33 | [Херсоне](http://twitter.com/search?q=%d0%a5%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b5) | N/A |
+| 34 | [аргентину](http://twitter.com/search?q=%d0%b0%d1%80%d0%b3%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 35 | [затоке](http://twitter.com/search?q=%d0%b7%d0%b0%d1%82%d0%be%d0%ba%d0%b5) | N/A |
+| 36 | [бггг](http://twitter.com/search?q=%d0%b1%d0%b3%d0%b3%d0%b3) | N/A |
+| 37 | [хотелось](http://twitter.com/search?q=%d1%85%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%81%d1%8c) | N/A |
+| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 39 | [вітаю](http://twitter.com/search?q=%d0%b2%d1%96%d1%82%d0%b0%d1%8e) | N/A |
+| 40 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 41 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 42 | [януковича](http://twitter.com/search?q=%d1%8f%d0%bd%d1%83%d0%ba%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
+| 43 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 44 | [Вижу](http://twitter.com/search?q=%d0%92%d0%b8%d0%b6%d1%83) | N/A |
+| 45 | [не можу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b6%d1%83) | N/A |
+| 46 | [германия](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
+| 47 | [Польши](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b8) | N/A |
+| 48 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 49 | [лондон](http://twitter.com/search?q=%d0%bb%d0%be%d0%bd%d0%b4%d0%be%d0%bd) | N/A |
+| 50 | [Azov](http://twitter.com/search?q=Azov) | N/A |
 
 
 

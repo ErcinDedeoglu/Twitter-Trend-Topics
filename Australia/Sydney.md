@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-02-13 05:16:18 UTC`
+📆 Last Updated: `2023-02-13 06:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Australia](</Australia>)
 | 5 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
 | 6 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 7 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 8 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 9 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 10 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 11 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 12 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 13 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 14 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 8 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 10 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 11 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 12 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 13 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 15 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 16 | [Stolen Generations](http://twitter.com/search?q=Stolen+Generations) | N/A |
-| 17 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 17 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 18 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 19 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 19 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 20 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 21 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 22 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 23 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 25 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 21 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 22 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 23 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 24 | [Apology](http://twitter.com/search?q=Apology) | N/A |
+| 25 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 26 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 27 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 28 | [Apology](http://twitter.com/search?q=Apology) | N/A |
-| 29 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
-| 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 27 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 28 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 30 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
 | 31 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 32 | [King George](http://twitter.com/search?q=King+George) | N/A |
-| 33 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 34 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 35 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 36 | [Telstra](http://twitter.com/search?q=Telstra) | N/A |
-| 37 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 32 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
+| 33 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 34 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 35 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 36 | [Jordan Mailata](http://twitter.com/search?q=Jordan+Mailata) | N/A |
+| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 38 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 39 | [Jordan Mailata](http://twitter.com/search?q=Jordan+Mailata) | N/A |
+| 39 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
 | 40 | [Closing the Gap](http://twitter.com/search?q=Closing+the+Gap) | N/A |
-| 41 | [Arryn Siposs](http://twitter.com/search?q=Arryn+Siposs) | N/A |
-| 42 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 43 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 44 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 45 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 41 | [Siposs](http://twitter.com/search?q=Siposs) | N/A |
+| 42 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 43 | [King George](http://twitter.com/search?q=King+George) | N/A |
+| 44 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 45 | [Narty](http://twitter.com/search?q=Narty) | N/A |
 | 46 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 47 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 48 | [Rudd](http://twitter.com/search?q=Rudd) | N/A |
-| 49 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 50 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
+| 47 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
+| 48 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 49 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 50 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 
 
 
