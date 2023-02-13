@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-12 23:17:25 UTC`
+📆 Last Updated: `2023-02-13 00:29:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 2 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
-| 3 | [#RaiderNation](http://twitter.com/search?q=%23RaiderNation) | #RaiderNation is a term used to refer to the passionate fan base of the Oakland Raiders, an American football team based in Oakland, California. The term is used to show support for the team and its players. |
-| 4 | [The Raiders](http://twitter.com/search?q=The+Raiders) | N/A |
-| 5 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
-| 6 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 7 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 8 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 9 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 10 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 11 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 12 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 13 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 14 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 15 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 16 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 17 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 18 | [Pon de Replay](http://twitter.com/search?q=Pon+de+Replay) | N/A |
-| 19 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 20 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
-| 21 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
-| 22 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 23 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 24 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 26 | [North America](http://twitter.com/search?q=North+America) | N/A |
-| 27 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 28 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 29 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 30 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 31 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
-| 32 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 33 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 34 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 35 | [Sheryl Lee Ralph](http://twitter.com/search?q=Sheryl+Lee+Ralph) | N/A |
-| 36 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
-| 37 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 38 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 39 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
-| 40 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 41 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 42 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 43 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 44 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 45 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 46 | [Jason Derulo](http://twitter.com/search?q=Jason+Derulo) | N/A |
-| 47 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 48 | [Ragged Old Flag](http://twitter.com/search?q=Ragged+Old+Flag) | N/A |
-| 49 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 50 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 1 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 2 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 4 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 5 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 6 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 7 | [Adam Driver](http://twitter.com/search?q=Adam+Driver) | N/A |
+| 8 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 9 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 10 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 11 | [RIP Dave](http://twitter.com/search?q=RIP+Dave) | N/A |
+| 12 | [Plug 2](http://twitter.com/search?q=Plug+2) | N/A |
+| 13 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 14 | [Gronk](http://twitter.com/search?q=Gronk) | Gronk is a slang term used to describe someone who is strong, tough, and energetic. It can also be used to describe someone who is outgoing and fun-loving. |
+| 15 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 16 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 17 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 18 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
+| 19 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 20 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 21 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 23 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 24 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 27 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 28 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 29 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 30 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
+| 31 | [Sheryl Lee Ralph](http://twitter.com/search?q=Sheryl+Lee+Ralph) | N/A |
+| 32 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 33 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 34 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 35 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 36 | [Bradley Cooper](http://twitter.com/search?q=Bradley+Cooper) | N/A |
+| 37 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 38 | [Alicia Silverstone](http://twitter.com/search?q=Alicia+Silverstone) | N/A |
+| 39 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
+| 40 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
+| 41 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
+| 42 | [America the Beautiful](http://twitter.com/search?q=America+the+Beautiful) | N/A |
+| 43 | [Butker](http://twitter.com/search?q=Butker) | Butker is a German word meaning "butcher". It is used to refer to someone who works in the meat industry, either as a butcher or a meat cutter. |
+| 44 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 45 | [DOINK](http://twitter.com/search?q=DOINK) | N/A |
+| 46 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 47 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 48 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 49 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 50 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
 
 
 

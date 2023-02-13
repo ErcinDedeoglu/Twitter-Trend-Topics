@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-12 23:16:49 UTC`
+📆 Last Updated: `2023-02-13 00:29:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 2 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
-| 3 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [#Sub20xRCN](http://twitter.com/search?q=%23Sub20xRCN) | N/A |
-| 6 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 7 | [#PorLaPatria15F](http://twitter.com/search?q=%23PorLaPatria15F) | N/A |
-| 8 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 9 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 10 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 11 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
-| 12 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 13 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
-| 14 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
-| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 16 | [Margarita Cabello](http://twitter.com/search?q=Margarita+Cabello) | N/A |
-| 17 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 18 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 19 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
-| 20 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 21 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 22 | [Marquinez](http://twitter.com/search?q=Marquinez) | Marquinez is a Spanish surname. It is derived from the Latin word "marca," which means "mark" or "brand." In English, it can be translated to mean "marked by the mark." |
-| 23 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 24 | [Daniel Rojas](http://twitter.com/search?q=Daniel+Rojas) | N/A |
-| 25 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 26 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 28 | [Santoto](http://twitter.com/search?q=Santoto) | N/A |
-| 29 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 30 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
-| 31 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 32 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 33 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 34 | [Chicó](http://twitter.com/search?q=Chic%c3%b3) | N/A |
-| 35 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 36 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 37 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
-| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 39 | [Millos](http://twitter.com/search?q=Millos) | N/A |
-| 40 | [Henry Plazas](http://twitter.com/search?q=Henry+Plazas) | N/A |
-| 41 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
-| 42 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 43 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 44 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 45 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 46 | [Impresentable](http://twitter.com/search?q=Impresentable) | N/A |
-| 47 | [Eduardo Pizarro](http://twitter.com/search?q=Eduardo+Pizarro) | N/A |
-| 48 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 49 | [Infame](http://twitter.com/search?q=Infame) | N/A |
-| 50 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 2 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 3 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 4 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 7 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 8 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
+| 9 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 10 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
+| 11 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
+| 12 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 13 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 14 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 15 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 16 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
+| 17 | [NO SE JUEGA](http://twitter.com/search?q=NO+SE+JUEGA) | N/A |
+| 18 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 19 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 20 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 21 | [Campin](http://twitter.com/search?q=Campin) | N/A |
+| 22 | [#Sub20xRCN](http://twitter.com/search?q=%23Sub20xRCN) | N/A |
+| 23 | [Gordo](http://twitter.com/search?q=Gordo) | N/A |
+| 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 26 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 27 | [Hincha](http://twitter.com/search?q=Hincha) | N/A |
+| 28 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 29 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 30 | [#ColombiaALaCalle15](http://twitter.com/search?q=%23ColombiaALaCalle15) | N/A |
+| 31 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 33 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 34 | [Impresentable](http://twitter.com/search?q=Impresentable) | N/A |
+| 35 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
+| 36 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 37 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 38 | [Los 3](http://twitter.com/search?q=Los+3) | N/A |
+| 39 | [Infame](http://twitter.com/search?q=Infame) | N/A |
+| 40 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 42 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 43 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 44 | [Alcocer](http://twitter.com/search?q=Alcocer) | N/A |
+| 45 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 46 | [Deportivo Cali](http://twitter.com/search?q=Deportivo+Cali) | N/A |
+| 47 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 48 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 49 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 50 | [#FMSColombia](http://twitter.com/search?q=%23FMSColombia) | N/A |
 
 
 

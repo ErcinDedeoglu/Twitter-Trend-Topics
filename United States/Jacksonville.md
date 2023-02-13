@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-12 23:17:25 UTC`
+📆 Last Updated: `2023-02-13 00:29:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 2 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 3 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 4 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 5 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 6 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 10 | [Sheryl Lee Ralph](http://twitter.com/search?q=Sheryl+Lee+Ralph) | N/A |
-| 11 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 12 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
-| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 14 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 15 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 16 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 17 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 18 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
-| 19 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 20 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
-| 21 | [#StayGolden](http://twitter.com/search?q=%23StayGolden) | N/A |
-| 22 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
-| 23 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 24 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 25 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 26 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 28 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 29 | [Jason Derulo](http://twitter.com/search?q=Jason+Derulo) | N/A |
-| 30 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 31 | [Ragged Old Flag](http://twitter.com/search?q=Ragged+Old+Flag) | N/A |
-| 32 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 33 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 34 | [Lift Every Voice](http://twitter.com/search?q=Lift+Every+Voice) | N/A |
-| 35 | [Plug 2](http://twitter.com/search?q=Plug+2) | N/A |
-| 36 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 37 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 38 | [RIP Dave](http://twitter.com/search?q=RIP+Dave) | N/A |
-| 39 | [Booing Dak](http://twitter.com/search?q=Booing+Dak) | N/A |
-| 40 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 41 | [Super Show](http://twitter.com/search?q=Super+Show) | N/A |
-| 42 | [Johnny Cash](http://twitter.com/search?q=Johnny+Cash) | N/A |
-| 43 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 44 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 45 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
-| 46 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
-| 47 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 48 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 49 | [Plug Two](http://twitter.com/search?q=Plug+Two) | N/A |
-| 50 | [Great Lakes](http://twitter.com/search?q=Great+Lakes) | N/A |
+| 1 | [Doug Williams](http://twitter.com/search?q=Doug+Williams) | N/A |
+| 2 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 3 | [#PuppyBowl](http://twitter.com/search?q=%23PuppyBowl) | N/A |
+| 4 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 5 | [#HiltonForTheStay](http://twitter.com/search?q=%23HiltonForTheStay) | N/A |
+| 6 | [Gronk](http://twitter.com/search?q=Gronk) | Gronk is a slang term used to describe someone who is strong, tough, and energetic. It can also be used to describe someone who is outgoing and fun-loving. |
+| 7 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 8 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 10 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 11 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 12 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 13 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 14 | [#FASTX](http://twitter.com/search?q=%23FASTX) | N/A |
+| 15 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 16 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 19 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 21 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 22 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 24 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 25 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 26 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 27 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 28 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
+| 29 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 30 | [Sheryl Lee Ralph](http://twitter.com/search?q=Sheryl+Lee+Ralph) | N/A |
+| 31 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 32 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 33 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 34 | [Bradley Cooper](http://twitter.com/search?q=Bradley+Cooper) | N/A |
+| 35 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 36 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 37 | [Alicia Silverstone](http://twitter.com/search?q=Alicia+Silverstone) | N/A |
+| 38 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
+| 39 | [Butker](http://twitter.com/search?q=Butker) | Butker is a German word meaning "butcher". It is used to refer to someone who works in the meat industry, either as a butcher or a meat cutter. |
+| 40 | [America the Beautiful](http://twitter.com/search?q=America+the+Beautiful) | N/A |
+| 41 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
+| 42 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
+| 43 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 44 | [DOINK](http://twitter.com/search?q=DOINK) | N/A |
+| 45 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 46 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 47 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 48 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 49 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 50 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
 
 
 

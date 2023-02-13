@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-12 23:16:52 UTC`
+📆 Last Updated: `2023-02-13 00:29:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 3 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 4 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 5 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 6 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 7 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 10 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 11 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
-| 12 | [Durso](http://twitter.com/search?q=Durso) | N/A |
-| 13 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 14 | [Aleman](http://twitter.com/search?q=Aleman) | N/A |
-| 15 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 16 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 17 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 18 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 20 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
-| 21 | [Bertolo](http://twitter.com/search?q=Bertolo) | N/A |
-| 22 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
-| 23 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
-| 24 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
-| 25 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 26 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
-| 27 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 28 | [Ávalos](http://twitter.com/search?q=%c3%81valos) | N/A |
-| 29 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 30 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 31 | [La Pampa](http://twitter.com/search?q=La+Pampa) | N/A |
-| 32 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 33 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 34 | [Candia](http://twitter.com/search?q=Candia) | Candia is an alternative name for the island of Crete, located in the Mediterranean Sea. The name is derived from the ancient Greek word for Crete, Κάνδια (Kandia). In English, Candia means "Crete". |
-| 35 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
-| 36 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 37 | [Argentinos](http://twitter.com/search?q=Argentinos) | N/A |
-| 38 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 39 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 40 | [CADU](http://twitter.com/search?q=CADU) | N/A |
-| 41 | [#RosarioCentral](http://twitter.com/search?q=%23RosarioCentral) | N/A |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Casco](http://twitter.com/search?q=Casco) | N/A |
-| 44 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 45 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 46 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 47 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 48 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 49 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 50 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 1 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 2 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 8 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
+| 9 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 10 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 11 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 12 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 13 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 14 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 15 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 16 | [La Pampa](http://twitter.com/search?q=La+Pampa) | N/A |
+| 17 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 18 | [Argentinos](http://twitter.com/search?q=Argentinos) | N/A |
+| 19 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 20 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 21 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 22 | [Maidana](http://twitter.com/search?q=Maidana) | Maidana is a Spanish surname derived from the Latin word "magdana", meaning "woman of Magdala". It is also a place name in Argentina, where it is derived from the indigenous language of the region. In English, Maidana can be translated to mean "woman of Magdala". |
+| 23 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 24 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 25 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 26 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 27 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
+| 28 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 29 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
+| 30 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 31 | [Ávalos](http://twitter.com/search?q=%c3%81valos) | N/A |
+| 32 | [Milito](http://twitter.com/search?q=Milito) | N/A |
+| 33 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 34 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 35 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 36 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
+| 37 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 38 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 39 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 40 | [Durso](http://twitter.com/search?q=Durso) | N/A |
+| 41 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 42 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 43 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
+| 44 | [Lunati](http://twitter.com/search?q=Lunati) | N/A |
+| 45 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 46 | [Aleman](http://twitter.com/search?q=Aleman) | N/A |
+| 47 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 48 | [Micho](http://twitter.com/search?q=Micho) | N/A |
+| 49 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 50 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
 
 
 
