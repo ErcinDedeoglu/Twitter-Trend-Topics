@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-13 10:16:42 UTC`
+📆 Last Updated: `2023-02-13 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [#12Feb](http://twitter.com/search?q=%2312Feb) | N/A |
-| 3 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 4 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
-| 7 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 8 | [#DíaDeLaJuventudPatriota](http://twitter.com/search?q=%23D%c3%adaDeLaJuventudPatriota) | N/A |
-| 9 | [josé félix ribas](http://twitter.com/search?q=jos%c3%a9+f%c3%a9lix+ribas) | N/A |
-| 10 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 11 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
-| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 13 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 14 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 15 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 16 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
-| 17 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 18 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
-| 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 20 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
-| 21 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 22 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
-| 23 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 24 | [Rafael Vidal](http://twitter.com/search?q=Rafael+Vidal) | N/A |
-| 25 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 26 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 27 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 28 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 29 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 2 | [#13Feb](http://twitter.com/search?q=%2313Feb) | N/A |
+| 3 | [#JuventudIntegraciónYPaz](http://twitter.com/search?q=%23JuventudIntegraci%c3%b3nYPaz) | N/A |
+| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 5 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 7 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
+| 8 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 9 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
+| 10 | [josé félix ribas](http://twitter.com/search?q=jos%c3%a9+f%c3%a9lix+ribas) | N/A |
+| 11 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 12 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 13 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 14 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 17 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 18 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 19 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 20 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
+| 21 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 22 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
+| 23 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 24 | [coloccini](http://twitter.com/search?q=coloccini) | N/A |
+| 25 | [Rafael Vidal](http://twitter.com/search?q=Rafael+Vidal) | N/A |
+| 26 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
+| 27 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 28 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 29 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 30 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
 | 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 32 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 33 | [nuestra señora de lourdes](http://twitter.com/search?q=nuestra+se%c3%b1ora+de+lourdes) | N/A |
+| 32 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 34 | [Sudamericano](http://twitter.com/search?q=Sudamericano) | N/A |
-| 35 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
-| 36 | [josé antonio abreu](http://twitter.com/search?q=jos%c3%a9+antonio+abreu) | N/A |
-| 37 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 38 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 39 | [robert redman](http://twitter.com/search?q=robert+redman) | N/A |
-| 40 | [1814](http://twitter.com/search?q=1814) | N/A |
-| 41 | [bassil da costa](http://twitter.com/search?q=bassil+da+costa) | N/A |
-| 42 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 43 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 44 | [francisco tomás morales](http://twitter.com/search?q=francisco+tom%c3%a1s+morales) | N/A |
-| 45 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 47 | [josé tomás boves](http://twitter.com/search?q=jos%c3%a9+tom%c3%a1s+boves) | N/A |
+| 35 | [José Antonio Abreu](http://twitter.com/search?q=Jos%c3%a9+Antonio+Abreu) | N/A |
+| 36 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
+| 37 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 38 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 39 | [1814](http://twitter.com/search?q=1814) | N/A |
+| 40 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 41 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 42 | [francisco tomás morales](http://twitter.com/search?q=francisco+tom%c3%a1s+morales) | N/A |
+| 43 | [El 12](http://twitter.com/search?q=El+12) | N/A |
+| 44 | [Pedro Navaja](http://twitter.com/search?q=Pedro+Navaja) | N/A |
+| 45 | [josé tomás boves](http://twitter.com/search?q=jos%c3%a9+tom%c3%a1s+boves) | N/A |
+| 46 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
 
 
 

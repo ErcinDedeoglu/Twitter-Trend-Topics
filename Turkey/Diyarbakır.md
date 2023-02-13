@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-13 10:17:18 UTC`
+📆 Last Updated: `2023-02-13 11:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
-| 2 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
-| 3 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 4 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
-| 5 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
-| 6 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
-| 7 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 8 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 9 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 10 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 11 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 12 | [24Can Kurtardık](http://twitter.com/search?q=24Can+Kurtard%c4%b1k) | N/A |
-| 13 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
-| 14 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 15 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
-| 16 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 17 | [Miray](http://twitter.com/search?q=Miray) | N/A |
-| 18 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 19 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 20 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 21 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 22 | [kadir sütçü](http://twitter.com/search?q=kadir+s%c3%bct%c3%a7%c3%bc) | N/A |
-| 23 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
-| 24 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 25 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 26 | [Ahmet](http://twitter.com/search?q=Ahmet) | N/A |
-| 27 | [Merhumeye Allah'tan](http://twitter.com/search?q=Merhumeye+Allah%27tan) | N/A |
-| 28 | [Taha](http://twitter.com/search?q=Taha) | N/A |
-| 29 | [Siyasi İşler Başkanımız](http://twitter.com/search?q=Siyasi+%c4%b0%c5%9fler+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 30 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 31 | [Yalan](http://twitter.com/search?q=Yalan) | N/A |
-| 32 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
-| 33 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 34 | [Sebahat Aydın](http://twitter.com/search?q=Sebahat+Ayd%c4%b1n) | N/A |
-| 35 | [Acun Ilıcalı](http://twitter.com/search?q=Acun+Il%c4%b1cal%c4%b1) | N/A |
-| 36 | [Bir UFO](http://twitter.com/search?q=Bir+UFO) | N/A |
-| 37 | [emre çolak](http://twitter.com/search?q=emre+%c3%a7olak) | N/A |
-| 38 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
-| 39 | [Naide Umay](http://twitter.com/search?q=Naide+Umay) | N/A |
-| 40 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 41 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
-| 42 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 43 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
-| 44 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
-| 45 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 46 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 47 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 48 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 49 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
-| 50 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 1 | [Miray](http://twitter.com/search?q=Miray) | N/A |
+| 2 | [#DEPREMZEDELER](http://twitter.com/search?q=%23DEPREMZEDELER) | N/A |
+| 3 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
+| 4 | [Derya Akdoğan](http://twitter.com/search?q=Derya+Akdo%c4%9fan) | N/A |
+| 5 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 6 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 7 | [Siyasi İşler Başkanımız](http://twitter.com/search?q=Siyasi+%c4%b0%c5%9fler+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 8 | [Merhumeye Allah'tan](http://twitter.com/search?q=Merhumeye+Allah%27tan) | N/A |
+| 9 | [#ÜniversitemiKapatma](http://twitter.com/search?q=%23%c3%9cniversitemiKapatma) | N/A |
+| 10 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 11 | [Sebahat Aydın](http://twitter.com/search?q=Sebahat+Ayd%c4%b1n) | N/A |
+| 12 | [Emre Çolak](http://twitter.com/search?q=Emre+%c3%87olak) | N/A |
+| 13 | [Acun Ilıcalı](http://twitter.com/search?q=Acun+Il%c4%b1cal%c4%b1) | N/A |
+| 14 | [Depremin 8](http://twitter.com/search?q=Depremin+8) | N/A |
+| 15 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 16 | [40 TL'ye](http://twitter.com/search?q=40+TL%27ye) | N/A |
+| 17 | [#borsadaişlemleriptaledilsin](http://twitter.com/search?q=%23borsadai%c5%9flemleriptaledilsin) | N/A |
+| 18 | [Emre Apartmanı](http://twitter.com/search?q=Emre+Apartman%c4%b1) | N/A |
+| 19 | [Meyve](http://twitter.com/search?q=Meyve) | N/A |
+| 20 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
+| 21 | [Savaş](http://twitter.com/search?q=Sava%c5%9f) | N/A |
+| 22 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 23 | [İzzet](http://twitter.com/search?q=%c4%b0zzet) | N/A |
+| 24 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 25 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
+| 26 | [Melis](http://twitter.com/search?q=Melis) | N/A |
+| 27 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
+| 28 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 29 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
+| 30 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 31 | [Bakanım](http://twitter.com/search?q=Bakan%c4%b1m) | N/A |
+| 32 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 33 | [Arkada](http://twitter.com/search?q=Arkada) | N/A |
+| 34 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 35 | [Tuğrul Selmanoğlu](http://twitter.com/search?q=Tu%c4%9frul+Selmano%c4%9flu) | N/A |
+| 36 | [Uzaylı](http://twitter.com/search?q=Uzayl%c4%b1) | N/A |
+| 37 | [Almanya'da](http://twitter.com/search?q=Almanya%27da) | N/A |
+| 38 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
+| 39 | [Tedbir](http://twitter.com/search?q=Tedbir) | N/A |
+| 40 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 41 | [#OzanArif](http://twitter.com/search?q=%23OzanArif) | N/A |
+| 42 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 43 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 44 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 45 | [#işkence](http://twitter.com/search?q=%23i%c5%9fkence) | N/A |
+| 46 | [#Pentagon](http://twitter.com/search?q=%23Pentagon) | N/A |
 
 
 
