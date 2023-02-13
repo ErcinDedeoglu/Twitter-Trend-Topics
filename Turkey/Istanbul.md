@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-13 17:16:41 UTC`
+📆 Last Updated: `2023-02-13 18:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yol Tv](http://twitter.com/search?q=Yol+Tv) | N/A |
-| 2 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
-| 3 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
-| 4 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
-| 5 | [AÇIK AÇIK PED](http://twitter.com/search?q=A%c3%87IK+A%c3%87IK+PED) | N/A |
-| 6 | [#TebHesabınıKapat](http://twitter.com/search?q=%23TebHesab%c4%b1n%c4%b1Kapat) | N/A |
-| 7 | [#universitelerkapatılmasın](http://twitter.com/search?q=%23universitelerkapat%c4%b1lmas%c4%b1n) | N/A |
-| 8 | [Yoktu](http://twitter.com/search?q=Yoktu) | Yoktu is a Korean word that means "to be able to do something". It is often used to express the ability to do something, such as "I can do it" or "I am capable of doing it". |
+| 1 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
+| 2 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
+| 3 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
+| 4 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 5 | [#universitelerkapatılmasın](http://twitter.com/search?q=%23universitelerkapat%c4%b1lmas%c4%b1n) | N/A |
+| 6 | [#ueniversitemikapatma](http://twitter.com/search?q=%23ueniversitemikapatma) | N/A |
+| 7 | [AÇIK AÇIK PED](http://twitter.com/search?q=A%c3%87IK+A%c3%87IK+PED) | N/A |
+| 8 | [#TebHesabınıKapat](http://twitter.com/search?q=%23TebHesab%c4%b1n%c4%b1Kapat) | N/A |
 | 9 | [Beraberiz Türkiye](http://twitter.com/search?q=Beraberiz+T%c3%bcrkiye) | N/A |
-| 10 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
-| 11 | [#ueniversitemikapatma](http://twitter.com/search?q=%23ueniversitemikapatma) | N/A |
-| 12 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 13 | [Kaan](http://twitter.com/search?q=Kaan) | N/A |
-| 14 | [Tayvan](http://twitter.com/search?q=Tayvan) | N/A |
-| 15 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
-| 16 | [Numan](http://twitter.com/search?q=Numan) | N/A |
-| 17 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
-| 18 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
-| 19 | [Kırgızistan](http://twitter.com/search?q=K%c4%b1rg%c4%b1zistan) | N/A |
-| 20 | [PED PED PED](http://twitter.com/search?q=PED+PED+PED) | N/A |
-| 21 | [Ünsal Ban](http://twitter.com/search?q=%c3%9cnsal+Ban) | N/A |
-| 22 | [Keyifler](http://twitter.com/search?q=Keyifler) | N/A |
-| 23 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 24 | [Depremin 8](http://twitter.com/search?q=Depremin+8) | N/A |
-| 25 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
-| 26 | [Komik](http://twitter.com/search?q=Komik) | N/A |
-| 27 | [Sanal](http://twitter.com/search?q=Sanal) | N/A |
-| 28 | [Sabırlar](http://twitter.com/search?q=Sab%c4%b1rlar) | N/A |
-| 29 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 30 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
-| 31 | [40 TL'ye](http://twitter.com/search?q=40+TL%27ye) | N/A |
-| 32 | [Arkada](http://twitter.com/search?q=Arkada) | N/A |
-| 33 | [Miray](http://twitter.com/search?q=Miray) | N/A |
-| 34 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
-| 35 | [Acınızı](http://twitter.com/search?q=Ac%c4%b1n%c4%b1z%c4%b1) | N/A |
-| 36 | [Edip](http://twitter.com/search?q=Edip) | N/A |
-| 37 | [İyilik](http://twitter.com/search?q=%c4%b0yilik) | N/A |
-| 38 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
-| 39 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 40 | [Şeyma Hemşire](http://twitter.com/search?q=%c5%9eeyma+Hem%c5%9fire) | N/A |
-| 41 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 42 | [Melis](http://twitter.com/search?q=Melis) | N/A |
-| 43 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
-| 44 | [Babala TV](http://twitter.com/search?q=Babala+TV) | N/A |
-| 45 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 46 | [#DepremÇocuklarıGüvendeMi](http://twitter.com/search?q=%23Deprem%c3%87ocuklar%c4%b1G%c3%bcvendeMi) | N/A |
-| 47 | [#ElazığAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9fAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
-| 48 | [#Borsa20SubataKadarKapatılsın](http://twitter.com/search?q=%23Borsa20SubataKadarKapat%c4%b1ls%c4%b1n) | N/A |
-| 49 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
-| 50 | [#uğurarslan](http://twitter.com/search?q=%23u%c4%9furarslan) | N/A |
+| 10 | [Yoktu](http://twitter.com/search?q=Yoktu) | Yoktu is a Korean word that means "to be able to do something". It is often used to express the ability to do something, such as "I can do it" or "I am capable of doing it". |
+| 11 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
+| 12 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 13 | [Sakura Şehir Hastanesi'nde](http://twitter.com/search?q=Sakura+%c5%9eehir+Hastanesi%27nde) | N/A |
+| 14 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
+| 15 | [Tayvan](http://twitter.com/search?q=Tayvan) | N/A |
+| 16 | [İvedilikle](http://twitter.com/search?q=%c4%b0vedilikle) | N/A |
+| 17 | [Numan](http://twitter.com/search?q=Numan) | N/A |
+| 18 | [Kırgızistan](http://twitter.com/search?q=K%c4%b1rg%c4%b1zistan) | N/A |
+| 19 | [Seçimler](http://twitter.com/search?q=Se%c3%a7imler) | N/A |
+| 20 | [Kaan](http://twitter.com/search?q=Kaan) | N/A |
+| 21 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
+| 22 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
+| 23 | [18 Haziran](http://twitter.com/search?q=18+Haziran) | N/A |
+| 24 | [Ünsal Ban](http://twitter.com/search?q=%c3%9cnsal+Ban) | N/A |
+| 25 | [PED PED PED](http://twitter.com/search?q=PED+PED+PED) | N/A |
+| 26 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
+| 27 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 28 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
+| 29 | [Abdurrahman](http://twitter.com/search?q=Abdurrahman) | N/A |
+| 30 | [Maça](http://twitter.com/search?q=Ma%c3%a7a) | N/A |
+| 31 | [Keyifler](http://twitter.com/search?q=Keyifler) | N/A |
+| 32 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 33 | [Depremin 8](http://twitter.com/search?q=Depremin+8) | N/A |
+| 34 | [Yol Tv](http://twitter.com/search?q=Yol+Tv) | N/A |
+| 35 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 36 | [Komik](http://twitter.com/search?q=Komik) | N/A |
+| 37 | [Savaş](http://twitter.com/search?q=Sava%c5%9f) | N/A |
+| 38 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 39 | [Çinli](http://twitter.com/search?q=%c3%87inli) | N/A |
+| 40 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
+| 41 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
+| 42 | [Arkada](http://twitter.com/search?q=Arkada) | N/A |
+| 43 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
+| 44 | [Acınızı](http://twitter.com/search?q=Ac%c4%b1n%c4%b1z%c4%b1) | N/A |
+| 45 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 46 | [7 Şubat](http://twitter.com/search?q=7+%c5%9eubat) | N/A |
+| 47 | [Melis](http://twitter.com/search?q=Melis) | N/A |
+| 48 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 49 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
+| 50 | [#DepremÇocuklarıGüvendeMi](http://twitter.com/search?q=%23Deprem%c3%87ocuklar%c4%b1G%c3%bcvendeMi) | N/A |
 
 
 

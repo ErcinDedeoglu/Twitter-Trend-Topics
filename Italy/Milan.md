@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-13 17:16:17 UTC`
+📆 Last Updated: `2023-02-13 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 1 | [Lega](http://twitter.com/search?q=Lega) | N/A |
 | 2 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
 | 3 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
 | 4 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
 | 5 | [#maratonamentana](http://twitter.com/search?q=%23maratonamentana) | N/A |
 | 6 | [#Sandulli](http://twitter.com/search?q=%23Sandulli) | N/A |
-| 7 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
-| 8 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 9 | [#Rocca](http://twitter.com/search?q=%23Rocca) | N/A |
-| 10 | [Jore](http://twitter.com/search?q=Jore) | N/A |
-| 11 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 12 | [Gori](http://twitter.com/search?q=Gori) | N/A |
-| 13 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 7 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 8 | [#Rocca](http://twitter.com/search?q=%23Rocca) | N/A |
+| 9 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 10 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 11 | [#Marefuori3](http://twitter.com/search?q=%23Marefuori3) | N/A |
+| 12 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 13 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 | 14 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 15 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 16 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 17 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
-| 18 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 19 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
-| 20 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 21 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 22 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
-| 23 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 24 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 25 | [Silvio Berlusconi](http://twitter.com/search?q=Silvio+Berlusconi) | N/A |
-| 26 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 27 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 28 | [Vittoria](http://twitter.com/search?q=Vittoria) | N/A |
-| 29 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
-| 30 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 31 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 32 | [#Jankto](http://twitter.com/search?q=%23Jankto) | N/A |
-| 33 | [#Marefuori3](http://twitter.com/search?q=%23Marefuori3) | N/A |
-| 34 | [#centrodestra](http://twitter.com/search?q=%23centrodestra) | N/A |
-| 35 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 36 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
-| 37 | [#centrosinistra](http://twitter.com/search?q=%23centrosinistra) | N/A |
-| 38 | [#affluenza](http://twitter.com/search?q=%23affluenza) | N/A |
-| 39 | [#exitpoll](http://twitter.com/search?q=%23exitpoll) | N/A |
-| 40 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
-| 41 | [#Ferragnez](http://twitter.com/search?q=%23Ferragnez) | N/A |
-| 42 | [#Rihanna](http://twitter.com/search?q=%23Rihanna) | N/A |
-| 43 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 44 | [#Lega](http://twitter.com/search?q=%23Lega) | N/A |
-| 45 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 46 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 47 | [#giornatamondialedellaradio](http://twitter.com/search?q=%23giornatamondialedellaradio) | N/A |
-| 48 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
-| 49 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 15 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 16 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
+| 17 | [Regione](http://twitter.com/search?q=Regione) | N/A |
+| 18 | [Gori](http://twitter.com/search?q=Gori) | N/A |
+| 19 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 20 | [Jore](http://twitter.com/search?q=Jore) | N/A |
+| 21 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 22 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 23 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 24 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 25 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 26 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
+| 27 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 28 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 29 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 30 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 31 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
+| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 33 | [Silvio Berlusconi](http://twitter.com/search?q=Silvio+Berlusconi) | N/A |
+| 34 | [Vittoria](http://twitter.com/search?q=Vittoria) | N/A |
+| 35 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 36 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 37 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 38 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 39 | [#Jankto](http://twitter.com/search?q=%23Jankto) | N/A |
+| 40 | [#centrodestra](http://twitter.com/search?q=%23centrodestra) | N/A |
+| 41 | [#VeronaSalernitana](http://twitter.com/search?q=%23VeronaSalernitana) | N/A |
+| 42 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 43 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
+| 44 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 45 | [#centrosinistra](http://twitter.com/search?q=%23centrosinistra) | N/A |
+| 46 | [#alieni](http://twitter.com/search?q=%23alieni) | N/A |
+| 47 | [#exitpoll](http://twitter.com/search?q=%23exitpoll) | N/A |
+| 48 | [#affluenza](http://twitter.com/search?q=%23affluenza) | N/A |
+| 49 | [#Conte](http://twitter.com/search?q=%23Conte) | N/A |
+| 50 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-13 17:16:56 UTC`
+📆 Last Updated: `2023-02-13 18:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,35 +16,32 @@ This is top 50 for Pakistan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 2 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 3 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
-| 4 | [#PDM_PriestOfDollar](http://twitter.com/search?q=%23PDM_PriestOfDollar) | N/A |
-| 5 | [#LahoreQalandars](http://twitter.com/search?q=%23LahoreQalandars) | N/A |
-| 6 | [#امریکی_سازش_ٹھس](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b1%db%8c%da%a9%db%8c_%d8%b3%d8%a7%d8%b2%d8%b4_%d9%b9%da%be%d8%b3) | N/A |
-| 7 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 8 | [Baig](http://twitter.com/search?q=Baig) | N/A |
-| 9 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 10 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 11 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 12 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
-| 13 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 14 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 15 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 16 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 17 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 18 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
-| 19 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
-| 20 | [#pslpakistan](http://twitter.com/search?q=%23pslpakistan) | N/A |
-| 21 | [#pslopeningceremony](http://twitter.com/search?q=%23pslopeningceremony) | N/A |
+| 2 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 3 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 4 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
+| 5 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
+| 6 | [#PDM_PriestOfDollar](http://twitter.com/search?q=%23PDM_PriestOfDollar) | N/A |
+| 7 | [#امریکی_سازش_ٹھس](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b1%db%8c%da%a9%db%8c_%d8%b3%d8%a7%d8%b2%d8%b4_%d9%b9%da%be%d8%b3) | N/A |
+| 8 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 9 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 10 | [Baig](http://twitter.com/search?q=Baig) | N/A |
+| 11 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 12 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
+| 13 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
+| 14 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 15 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
+| 16 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 17 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 18 | [#LahoreQalandars](http://twitter.com/search?q=%23LahoreQalandars) | N/A |
+| 19 | [#pslpakistan](http://twitter.com/search?q=%23pslpakistan) | N/A |
+| 20 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 21 | [#داماد_ہائیکورٹ](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%85%d8%a7%d8%af_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9) | N/A |
 | 22 | [#امیر_المومنین_امیر_معاویہ](http://twitter.com/search?q=%23%d8%a7%d9%85%db%8c%d8%b1_%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%db%8c%d9%86_%d8%a7%d9%85%db%8c%d8%b1_%d9%85%d8%b9%d8%a7%d9%88%db%8c%db%81) | N/A |
-| 23 | [#داماد_ہائیکورٹ](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%85%d8%a7%d8%af_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9) | N/A |
-| 24 | [#SabSitarayHumaray](http://twitter.com/search?q=%23SabSitarayHumaray) | N/A |
-| 25 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 26 | [#AnwarMaqsood](http://twitter.com/search?q=%23AnwarMaqsood) | N/A |
-| 27 | [#ZiaMohiuddin](http://twitter.com/search?q=%23ZiaMohiuddin) | N/A |
-| 28 | [#عادل_راجا_MI6کاباجا](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%b1%d8%a7%d8%ac%d8%a7_MI6%da%a9%d8%a7%d8%a8%d8%a7%d8%ac%d8%a7) | N/A |
-| 29 | [#PSLAnthem2023](http://twitter.com/search?q=%23PSLAnthem2023) | N/A |
-| 30 | [#ضیاء_محی_الدین](http://twitter.com/search?q=%23%d8%b6%db%8c%d8%a7%d8%a1_%d9%85%d8%ad%db%8c_%d8%a7%d9%84%d8%af%db%8c%d9%86) | N/A |
+| 23 | [#pslopeningceremony](http://twitter.com/search?q=%23pslopeningceremony) | N/A |
+| 24 | [#AnwarMaqsood](http://twitter.com/search?q=%23AnwarMaqsood) | N/A |
+| 25 | [#SabSitarayHumaray](http://twitter.com/search?q=%23SabSitarayHumaray) | N/A |
+| 26 | [#ZiaMohiuddin](http://twitter.com/search?q=%23ZiaMohiuddin) | N/A |
+| 27 | [#عادل_راجا_MI6کاباجا](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%b1%d8%a7%d8%ac%d8%a7_MI6%da%a9%d8%a7%d8%a8%d8%a7%d8%ac%d8%a7) | N/A |
 
 
 

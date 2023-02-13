@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-13 17:16:14 UTC`
+📆 Last Updated: `2023-02-13 18:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 3 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 4 | [#OLRCL](http://twitter.com/search?q=%23OLRCL) | N/A |
-| 5 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 6 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 9 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 11 | [Buttes-Chaumont](http://twitter.com/search?q=Buttes-Chaumont) | N/A |
-| 12 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 13 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 14 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 15 | [Shining](http://twitter.com/search?q=Shining) | N/A |
-| 16 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 17 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 18 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
-| 19 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 20 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 21 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 22 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 23 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 24 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 25 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 30 | [McDo](http://twitter.com/search?q=McDo) | N/A |
-| 31 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 32 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 33 | [King Of Fields 95](http://twitter.com/search?q=King+Of+Fields+95) | N/A |
-| 34 | [Karl Olive](http://twitter.com/search?q=Karl+Olive) | N/A |
-| 35 | [Amazon UK](http://twitter.com/search?q=Amazon+UK) | N/A |
-| 36 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 37 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
-| 38 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 39 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 40 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 41 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 42 | [Blanc](http://twitter.com/search?q=Blanc) | N/A |
-| 43 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 44 | [E.T.](http://twitter.com/search?q=E.T.) | N/A |
-| 45 | [Volka](http://twitter.com/search?q=Volka) | N/A |
-| 46 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
-| 47 | [elle est enceinte](http://twitter.com/search?q=elle+est+enceinte) | N/A |
-| 48 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 49 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 2 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 3 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 4 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 5 | [Saintoul](http://twitter.com/search?q=Saintoul) | N/A |
+| 6 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 7 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 8 | [St Jacques](http://twitter.com/search?q=St+Jacques) | N/A |
+| 9 | [Antonetti](http://twitter.com/search?q=Antonetti) | N/A |
+| 10 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 11 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 12 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 13 | [Buttes-Chaumont](http://twitter.com/search?q=Buttes-Chaumont) | N/A |
+| 14 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 15 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
+| 16 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 17 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 18 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 19 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 20 | [Karl Olive](http://twitter.com/search?q=Karl+Olive) | N/A |
+| 21 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
+| 22 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 23 | [Australie](http://twitter.com/search?q=Australie) | N/A |
+| 24 | [Charbo](http://twitter.com/search?q=Charbo) | N/A |
+| 25 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 26 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 27 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 28 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 29 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 30 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 31 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 32 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
+| 33 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 34 | [#Top5Winamax](http://twitter.com/search?q=%23Top5Winamax) | N/A |
+| 35 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 36 | [#IlanHalimi](http://twitter.com/search?q=%23IlanHalimi) | N/A |
+| 37 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
+| 38 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 39 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
 
 
 

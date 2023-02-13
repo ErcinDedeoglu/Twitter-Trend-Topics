@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-13 17:16:29 UTC`
+📆 Last Updated: `2023-02-13 18:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,36 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 2 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 3 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 3 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
 | 4 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
 | 5 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 | 6 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 7 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 8 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
-| 9 | [#JonaxxACTYAKab47](http://twitter.com/search?q=%23JonaxxACTYAKab47) | N/A |
+| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 8 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 9 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
 | 10 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
-| 11 | [CRUSHING ON SUNBAE JINHWAN](http://twitter.com/search?q=CRUSHING+ON+SUNBAE+JINHWAN) | N/A |
+| 11 | [Hearts Day](http://twitter.com/search?q=Hearts+Day) | N/A |
 | 12 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 13 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 14 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
-| 15 | [MY BOY](http://twitter.com/search?q=MY+BOY) | N/A |
+| 13 | [CRUSHING ON SUNBAE JINHWAN](http://twitter.com/search?q=CRUSHING+ON+SUNBAE+JINHWAN) | N/A |
+| 14 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 15 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
 | 16 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 17 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 18 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
-| 19 | [angelique manto](http://twitter.com/search?q=angelique+manto) | N/A |
-| 20 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 21 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 22 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 23 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 24 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
-| 25 | [Mikki](http://twitter.com/search?q=Mikki) | N/A |
-| 26 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 27 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 28 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 29 | [#DLRescue](http://twitter.com/search?q=%23DLRescue) | N/A |
-| 30 | [#JinhwanInHonestlyMV](http://twitter.com/search?q=%23JinhwanInHonestlyMV) | N/A |
-| 31 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
-| 32 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
-| 33 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 34 | [#MystaRizzAsk](http://twitter.com/search?q=%23MystaRizzAsk) | N/A |
-| 35 | [#HeARTsDaySalubong](http://twitter.com/search?q=%23HeARTsDaySalubong) | N/A |
-| 36 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
-| 37 | [#LuvIsJoyfulChicken](http://twitter.com/search?q=%23LuvIsJoyfulChicken) | N/A |
-| 38 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 39 | [#Blooms2ndYearWithBINI](http://twitter.com/search?q=%23Blooms2ndYearWithBINI) | N/A |
-| 40 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
-| 41 | [#KEY_Killer](http://twitter.com/search?q=%23KEY_Killer) | N/A |
+| 17 | [MY BOY](http://twitter.com/search?q=MY+BOY) | N/A |
+| 18 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 19 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 20 | [angelique manto](http://twitter.com/search?q=angelique+manto) | N/A |
+| 21 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
+| 22 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 23 | [#JonaxxACTYAKab47](http://twitter.com/search?q=%23JonaxxACTYAKab47) | N/A |
+| 24 | [#JinhwanInHonestlyMV](http://twitter.com/search?q=%23JinhwanInHonestlyMV) | N/A |
+| 25 | [#DLRescue](http://twitter.com/search?q=%23DLRescue) | N/A |
+| 26 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
+| 27 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
+| 28 | [#MystaRizzAsk](http://twitter.com/search?q=%23MystaRizzAsk) | N/A |
+| 29 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
+| 30 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
+| 31 | [#KEY_Killer](http://twitter.com/search?q=%23KEY_Killer) | N/A |
 
 
 

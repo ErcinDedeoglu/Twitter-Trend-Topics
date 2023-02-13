@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-13 17:16:03 UTC`
+📆 Last Updated: `2023-02-13 18:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 2 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 3 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 4 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 5 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 6 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 7 | [Jakub](http://twitter.com/search?q=Jakub) | N/A |
-| 8 | [#RIActsOfKindness](http://twitter.com/search?q=%23RIActsOfKindness) | N/A |
-| 9 | [#BiblicalFilmsOrSongs](http://twitter.com/search?q=%23BiblicalFilmsOrSongs) | N/A |
-| 10 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 11 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 12 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 13 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 14 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 15 | [Alice Capsey](http://twitter.com/search?q=Alice+Capsey) | N/A |
-| 16 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 17 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 18 | [Chelsea Girl](http://twitter.com/search?q=Chelsea+Girl) | N/A |
-| 19 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 20 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 22 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 23 | [Merseyside Derby](http://twitter.com/search?q=Merseyside+Derby) | N/A |
-| 24 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 25 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 26 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 27 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 28 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 29 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 30 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 31 | [Joe Westerman](http://twitter.com/search?q=Joe+Westerman) | N/A |
-| 32 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 33 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 34 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
-| 35 | [English Channel](http://twitter.com/search?q=English+Channel) | N/A |
-| 36 | [Rihanna's Super Bowl](http://twitter.com/search?q=Rihanna%27s+Super+Bowl) | N/A |
-| 37 | [Balls](http://twitter.com/search?q=Balls) | N/A |
-| 38 | [#lingo](http://twitter.com/search?q=%23lingo) | N/A |
-| 39 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 40 | [#aplaceinthesun](http://twitter.com/search?q=%23aplaceinthesun) | N/A |
-| 41 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 42 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 43 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 44 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 45 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 46 | [#SayHerName](http://twitter.com/search?q=%23SayHerName) | N/A |
-| 47 | [#HeartUnions](http://twitter.com/search?q=%23HeartUnions) | N/A |
-| 48 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 49 | [#translivesmatter](http://twitter.com/search?q=%23translivesmatter) | N/A |
+| 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 2 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 3 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 4 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 5 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 6 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 9 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
+| 10 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 11 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 13 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
+| 14 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
+| 15 | [Jakub](http://twitter.com/search?q=Jakub) | N/A |
+| 16 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
+| 17 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 18 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 19 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 20 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 21 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 22 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
+| 23 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 24 | [Alice Capsey](http://twitter.com/search?q=Alice+Capsey) | N/A |
+| 25 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 26 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
+| 27 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 28 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 29 | [Chelsea Girl](http://twitter.com/search?q=Chelsea+Girl) | N/A |
+| 30 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 31 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
+| 32 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 33 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
+| 34 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 35 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 36 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 37 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 38 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 39 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 40 | [Joe Westerman](http://twitter.com/search?q=Joe+Westerman) | N/A |
+| 41 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 42 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 43 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 44 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 45 | [English Channel](http://twitter.com/search?q=English+Channel) | N/A |
+| 46 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 47 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 48 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 49 | [#RIActsOfKindness](http://twitter.com/search?q=%23RIActsOfKindness) | N/A |
 
 
 
