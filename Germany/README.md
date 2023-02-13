@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-13 09:17:17 UTC`
+📆 Last Updated: `2023-02-13 10:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Germany
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 3 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 4 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 8 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
-| 9 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 10 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 11 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 12 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 13 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 14 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
-| 15 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 16 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
-| 17 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 18 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 19 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 20 | [Wählern](http://twitter.com/search?q=W%c3%a4hlern) | N/A |
-| 21 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
-| 22 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 23 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 24 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 25 | [Liberalen](http://twitter.com/search?q=Liberalen) | N/A |
-| 26 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 27 | [Männlichkeit](http://twitter.com/search?q=M%c3%a4nnlichkeit) | N/A |
-| 28 | [Bezirk](http://twitter.com/search?q=Bezirk) | N/A |
-| 29 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 30 | [Playback](http://twitter.com/search?q=Playback) | N/A |
+| 4 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 5 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 6 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 7 | ['Baumstämme'](http://twitter.com/search?q=%27Baumst%c3%a4mme%27) | N/A |
+| 8 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
+| 11 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
+| 12 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 13 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
+| 14 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
+| 15 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 16 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
+| 17 | [#BerlinWahl23](http://twitter.com/search?q=%23BerlinWahl23) | N/A |
+| 18 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
+| 19 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 20 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 21 | [Wählern](http://twitter.com/search?q=W%c3%a4hlern) | N/A |
+| 22 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 23 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 24 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 25 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 26 | [Männlichkeit](http://twitter.com/search?q=M%c3%a4nnlichkeit) | N/A |
+| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 28 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 29 | [Liberalen](http://twitter.com/search?q=Liberalen) | N/A |
+| 30 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
 | 31 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 32 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 33 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 32 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 33 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 34 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
-| 35 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 36 | [Strack-Zimmermann](http://twitter.com/search?q=Strack-Zimmermann) | N/A |
-| 37 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 38 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 39 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
-| 40 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 41 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
-| 42 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 35 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 36 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 37 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 38 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
+| 39 | [Strack-Zimmermann](http://twitter.com/search?q=Strack-Zimmermann) | N/A |
+| 40 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 41 | [Superbowl](http://twitter.com/search?q=Superbowl) | N/A |
+| 42 | [Bezirk](http://twitter.com/search?q=Bezirk) | N/A |
 | 43 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 44 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 45 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 46 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 47 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
-| 48 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
-| 49 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
-| 50 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 44 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 45 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
+| 46 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 47 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 48 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
+| 49 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 50 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 
 
 

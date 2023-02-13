@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-13 09:16:44 UTC`
+📆 Last Updated: `2023-02-13 10:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Ajarkc](http://twitter.com/search?q=%23Ajarkc) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 3 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 5 | [#lichtgeel](http://twitter.com/search?q=%23lichtgeel) | N/A |
-| 6 | [Asieldwangsommen](http://twitter.com/search?q=Asieldwangsommen) | N/A |
-| 7 | [Bram](http://twitter.com/search?q=Bram) | N/A |
-| 8 | [Berg](http://twitter.com/search?q=Berg) | N/A |
-| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 10 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 6 | [Bram](http://twitter.com/search?q=Bram) | N/A |
+| 7 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 8 | [Asieldwangsommen](http://twitter.com/search?q=Asieldwangsommen) | N/A |
+| 9 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 11 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 12 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 12 | [Berg](http://twitter.com/search?q=Berg) | N/A |
 | 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Jans](http://twitter.com/search?q=Jans) | N/A |
-| 15 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 16 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 17 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 18 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 19 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 21 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 22 | [Kapje](http://twitter.com/search?q=Kapje) | N/A |
-| 23 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 24 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 25 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 26 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 27 | [vaessen](http://twitter.com/search?q=vaessen) | N/A |
-| 28 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 14 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 15 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 16 | [Jans](http://twitter.com/search?q=Jans) | N/A |
+| 17 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 18 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 20 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 21 | [Beterschap](http://twitter.com/search?q=Beterschap) | N/A |
+| 22 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 23 | [Kapje](http://twitter.com/search?q=Kapje) | N/A |
+| 24 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 25 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 26 | [Dag 13](http://twitter.com/search?q=Dag+13) | N/A |
+| 27 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 28 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
 | 29 | [taabouni](http://twitter.com/search?q=taabouni) | N/A |
 | 30 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 31 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 32 | [Steijn](http://twitter.com/search?q=Steijn) | N/A |
-| 33 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 34 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 35 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 36 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
-| 37 | [conceicao](http://twitter.com/search?q=conceicao) | N/A |
-| 38 | [rkc waalwijk](http://twitter.com/search?q=rkc+waalwijk) | N/A |
-| 39 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 40 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
-| 41 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 42 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 43 | [kökcü](http://twitter.com/search?q=k%c3%b6kc%c3%bc) | N/A |
-| 44 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 45 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 46 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 47 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 48 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 49 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 31 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 32 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 33 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 34 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 35 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 36 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 37 | [Steijn](http://twitter.com/search?q=Steijn) | N/A |
+| 38 | [Staat](http://twitter.com/search?q=Staat) | N/A |
+| 39 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 40 | [Conceição](http://twitter.com/search?q=Concei%c3%a7%c3%a3o) | N/A |
+| 41 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
+| 42 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 43 | [rkc waalwijk](http://twitter.com/search?q=rkc+waalwijk) | N/A |
+| 44 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
+| 45 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 46 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 47 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 48 | [kökcü](http://twitter.com/search?q=k%c3%b6kc%c3%bc) | N/A |
+| 49 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
 
 
 

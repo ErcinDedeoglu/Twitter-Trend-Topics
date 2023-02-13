@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-13 09:16:44 UTC`
+📆 Last Updated: `2023-02-13 10:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,47 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
-| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 4 | [#DiaDeLaRadio](http://twitter.com/search?q=%23DiaDeLaRadio) | N/A |
-| 5 | [#diamundialradio](http://twitter.com/search?q=%23diamundialradio) | N/A |
+| 1 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 3 | [#YogaConLidl](http://twitter.com/search?q=%23YogaConLidl) | N/A |
+| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 5 | [#DiaDeLaRadio2023](http://twitter.com/search?q=%23DiaDeLaRadio2023) | N/A |
 | 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 7 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 8 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 9 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 10 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
-| 11 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 12 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 13 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 14 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 15 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 16 | [CCAA](http://twitter.com/search?q=CCAA) | N/A |
-| 17 | [Maribel Verdú](http://twitter.com/search?q=Maribel+Verd%c3%ba) | N/A |
-| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 19 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 20 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
-| 21 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 22 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 23 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 24 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 25 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
-| 26 | [#LaHora13F](http://twitter.com/search?q=%23LaHora13F) | N/A |
-| 27 | [#APOYOROCIO13F](http://twitter.com/search?q=%23APOYOROCIO13F) | N/A |
-| 28 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 29 | [#YoMeRebelo13F](http://twitter.com/search?q=%23YoMeRebelo13F) | N/A |
-| 30 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 31 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 32 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 10 | [EMBARAZADA](http://twitter.com/search?q=EMBARAZADA) | N/A |
+| 11 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
+| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 13 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 14 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 15 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 16 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 17 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 18 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 19 | [Extremadura](http://twitter.com/search?q=Extremadura) | N/A |
+| 20 | [Maribel Verdú](http://twitter.com/search?q=Maribel+Verd%c3%ba) | N/A |
+| 21 | [CCAA](http://twitter.com/search?q=CCAA) | N/A |
+| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 23 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 24 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 25 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 26 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
+| 27 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 28 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 29 | [#diamundialradio](http://twitter.com/search?q=%23diamundialradio) | N/A |
+| 30 | [#YoMeRebelo13F](http://twitter.com/search?q=%23YoMeRebelo13F) | N/A |
+| 31 | [#APOYOROCIO13F](http://twitter.com/search?q=%23APOYOROCIO13F) | N/A |
+| 32 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
+| 33 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 34 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
+| 35 | [#LaHora13F](http://twitter.com/search?q=%23LaHora13F) | N/A |
+| 36 | [#LunesDeOjos](http://twitter.com/search?q=%23LunesDeOjos) | N/A |
+| 37 | [#epilepsia](http://twitter.com/search?q=%23epilepsia) | N/A |
+| 38 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 39 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 40 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 41 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-13 09:16:34 UTC`
+📆 Last Updated: `2023-02-13 10:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Chile](</Chile>)
 | 7 | [#yosoychv](http://twitter.com/search?q=%23yosoychv) | N/A |
 | 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 9 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 10 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 11 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 12 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 13 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 14 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 15 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 16 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 10 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 11 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 12 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 13 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 14 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 15 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 16 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
 | 17 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
-| 18 | [Tito Fernández](http://twitter.com/search?q=Tito+Fern%c3%a1ndez) | N/A |
-| 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 20 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 21 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 18 | [dituro](http://twitter.com/search?q=dituro) | N/A |
+| 19 | [Tito Fernández](http://twitter.com/search?q=Tito+Fern%c3%a1ndez) | N/A |
+| 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 21 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
 | 22 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
 | 23 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 24 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 25 | [parot](http://twitter.com/search?q=parot) | N/A |
-| 26 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 27 | [yerko puchento](http://twitter.com/search?q=yerko+puchento) | N/A |
-| 28 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 29 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 30 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
-| 31 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 32 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 33 | [cuevas](http://twitter.com/search?q=cuevas) | N/A |
-| 34 | [fuentealba](http://twitter.com/search?q=fuentealba) | N/A |
-| 35 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
-| 36 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 37 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
-| 38 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
-| 39 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 40 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 41 | [Los Palmeras](http://twitter.com/search?q=Los+Palmeras) | N/A |
-| 42 | [gilabert](http://twitter.com/search?q=gilabert) | N/A |
-| 43 | [el temucano](http://twitter.com/search?q=el+temucano) | N/A |
-| 44 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
-| 45 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 46 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 47 | [munder](http://twitter.com/search?q=munder) | N/A |
-| 48 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 24 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 25 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 26 | [parot](http://twitter.com/search?q=parot) | N/A |
+| 27 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 28 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 29 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 30 | [fuentealba](http://twitter.com/search?q=fuentealba) | N/A |
+| 31 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 32 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
+| 33 | [yerko puchento](http://twitter.com/search?q=yerko+puchento) | N/A |
+| 34 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 35 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 36 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 37 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 38 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 39 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 40 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 41 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 42 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
+| 43 | [Los Palmeras](http://twitter.com/search?q=Los+Palmeras) | N/A |
+| 44 | [gilabert](http://twitter.com/search?q=gilabert) | N/A |
+| 45 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 46 | [el temucano](http://twitter.com/search?q=el+temucano) | N/A |
+| 47 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 48 | [munder](http://twitter.com/search?q=munder) | N/A |
 | 49 | [felipe flores](http://twitter.com/search?q=felipe+flores) | N/A |
-| 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 50 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
 
 
 

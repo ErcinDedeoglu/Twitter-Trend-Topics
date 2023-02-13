@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-13 09:16:47 UTC`
+📆 Last Updated: `2023-02-13 10:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
 | 2 | [#MindIDmenjawab](http://twitter.com/search?q=%23MindIDmenjawab) | N/A |
 | 3 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
-| 4 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 4 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
 | 5 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 6 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
-| 7 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
+| 6 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 7 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
 | 8 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 9 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 9 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
 | 10 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 11 | [Smelter Grade Alumina Refinery](http://twitter.com/search?q=Smelter+Grade+Alumina+Refinery) | N/A |
-| 12 | [Banding](http://twitter.com/search?q=Banding) | N/A |
-| 13 | [Direktur Operasi](http://twitter.com/search?q=Direktur+Operasi) | N/A |
-| 14 | [SGAR](http://twitter.com/search?q=SGAR) | N/A |
-| 15 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
-| 16 | [Putri Candrawathi](http://twitter.com/search?q=Putri+Candrawathi) | N/A |
-| 17 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
-| 18 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 19 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
-| 20 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 21 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 22 | [REFAL HADY](http://twitter.com/search?q=REFAL+HADY) | N/A |
-| 23 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
-| 24 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 25 | [Vonis](http://twitter.com/search?q=Vonis) | N/A |
-| 26 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 27 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
-| 28 | [PN Jaksel](http://twitter.com/search?q=PN+Jaksel) | N/A |
+| 11 | [Banding](http://twitter.com/search?q=Banding) | N/A |
+| 12 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 13 | [Smelter Grade Alumina Refinery](http://twitter.com/search?q=Smelter+Grade+Alumina+Refinery) | N/A |
+| 14 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 15 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 16 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
+| 17 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 18 | [Direktur Operasi](http://twitter.com/search?q=Direktur+Operasi) | N/A |
+| 19 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 20 | [Vonis](http://twitter.com/search?q=Vonis) | N/A |
+| 21 | [Ze Valente](http://twitter.com/search?q=Ze+Valente) | N/A |
+| 22 | [SGAR](http://twitter.com/search?q=SGAR) | N/A |
+| 23 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
+| 24 | [Putri Candrawathi](http://twitter.com/search?q=Putri+Candrawathi) | N/A |
+| 25 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 26 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
+| 27 | [PN Jaksel](http://twitter.com/search?q=PN+Jaksel) | N/A |
+| 28 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
 | 29 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 30 | [Kuku](http://twitter.com/search?q=Kuku) | N/A |
-| 31 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 32 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 33 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 34 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 35 | [Kementerian BUMN](http://twitter.com/search?q=Kementerian+BUMN) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [Kooperatif](http://twitter.com/search?q=Kooperatif) | N/A |
-| 38 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 39 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 40 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 41 | [Gong Yoo](http://twitter.com/search?q=Gong+Yoo) | N/A |
-| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 43 | [Banjir](http://twitter.com/search?q=Banjir) | N/A |
-| 44 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 45 | [#มิวศุภศิษฏ์](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%a8%e0%b8%b8%e0%b8%a0%e0%b8%a8%e0%b8%b4%e0%b8%a9%e0%b8%8f%e0%b9%8c) | N/A |
-| 46 | [#BrightMyETCPressTour](http://twitter.com/search?q=%23BrightMyETCPressTour) | N/A |
-| 47 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 48 | [#StandUpComedyGanjar](http://twitter.com/search?q=%23StandUpComedyGanjar) | N/A |
+| 30 | [REFAL HADY](http://twitter.com/search?q=REFAL+HADY) | N/A |
+| 31 | [Kuku](http://twitter.com/search?q=Kuku) | N/A |
+| 32 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
+| 33 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
+| 34 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 35 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 36 | [Wahyu](http://twitter.com/search?q=Wahyu) | N/A |
+| 37 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 38 | [Kementerian BUMN](http://twitter.com/search?q=Kementerian+BUMN) | N/A |
+| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 40 | [Kooperatif](http://twitter.com/search?q=Kooperatif) | N/A |
+| 41 | [Opick](http://twitter.com/search?q=Opick) | N/A |
+| 42 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 43 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 44 | [#มิวศุภศิษฏ์](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%a8%e0%b8%b8%e0%b8%a0%e0%b8%a8%e0%b8%b4%e0%b8%a9%e0%b8%8f%e0%b9%8c) | N/A |
+| 45 | [#MewSuppasit](http://twitter.com/search?q=%23MewSuppasit) | N/A |
+| 46 | [#CHAEUNWOO](http://twitter.com/search?q=%23CHAEUNWOO) | N/A |
+| 47 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 48 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-13 09:17:02 UTC`
+📆 Last Updated: `2023-02-13 10:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
 | 2 | [प्रभु श्री राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 3 | [#POCOX5Pro5GonFK](http://twitter.com/search?q=%23POCOX5Pro5GonFK) | N/A |
-| 4 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 3 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 4 | [Perry](http://twitter.com/search?q=Perry) | N/A |
 | 5 | [#SeekingSigns](http://twitter.com/search?q=%23SeekingSigns) | N/A |
-| 6 | [Cheers For Real](http://twitter.com/search?q=Cheers+For+Real) | N/A |
-| 7 | [#GhamKhushiyanOutNow](http://twitter.com/search?q=%23GhamKhushiyanOutNow) | N/A |
-| 8 | [#stufflistingsxPOCOX5Pro](http://twitter.com/search?q=%23stufflistingsxPOCOX5Pro) | N/A |
-| 9 | [A. AMOLED](http://twitter.com/search?q=A.+AMOLED) | N/A |
-| 10 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 11 | [WE LOVE SHIV FOREVER](http://twitter.com/search?q=WE+LOVE+SHIV+FOREVER) | N/A |
-| 12 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
-| 13 | [Apna Bana Le Piya](http://twitter.com/search?q=Apna+Bana+Le+Piya) | N/A |
-| 14 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 15 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
-| 16 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 17 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 18 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 19 | [Indore](http://twitter.com/search?q=Indore) | N/A |
-| 20 | [CBI Delay InSSRcs Unacceptable](http://twitter.com/search?q=CBI+Delay+InSSRcs+Unacceptable) | N/A |
-| 21 | [राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 22 | [Cameo](http://twitter.com/search?q=Cameo) | N/A |
-| 23 | [शक्ति मंत्री श्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [Flipkart](http://twitter.com/search?q=Flipkart) | N/A |
-| 25 | [HLFT-42](http://twitter.com/search?q=HLFT-42) | N/A |
-| 26 | [श्री स्वतंत्र देव सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 27 | [स्वतंत्र भारत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 28 | [Radio and Peace](http://twitter.com/search?q=Radio+and+Peace) | N/A |
-| 29 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 30 | [जैन मुनि](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%a8%e0%a4%bf) | N/A |
-| 31 | [Dharamsala](http://twitter.com/search?q=Dharamsala) | N/A |
-| 32 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 33 | [Har Har Mahadev](http://twitter.com/search?q=Har+Har+Mahadev) | N/A |
-| 34 | [Jain](http://twitter.com/search?q=Jain) | N/A |
-| 35 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 36 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 37 | [Waqf](http://twitter.com/search?q=Waqf) | N/A |
-| 38 | [#G20_In_MP](http://twitter.com/search?q=%23G20_In_MP) | N/A |
-| 39 | [#AeroIndia2023](http://twitter.com/search?q=%23AeroIndia2023) | N/A |
-| 40 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
-| 41 | [#Prabhakaran](http://twitter.com/search?q=%23Prabhakaran) | N/A |
-| 42 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 43 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
-| 44 | [#KissDay](http://twitter.com/search?q=%23KissDay) | N/A |
-| 45 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 46 | [#LTTE](http://twitter.com/search?q=%23LTTE) | N/A |
-| 47 | [#सुधीर_चौधरी_माफी_मांग](http://twitter.com/search?q=%23%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0_%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97) | N/A |
-| 48 | [#Jawan](http://twitter.com/search?q=%23Jawan) | N/A |
-| 49 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 50 | [#Yash](http://twitter.com/search?q=%23Yash) | N/A |
+| 6 | [#WomensIPL](http://twitter.com/search?q=%23WomensIPL) | N/A |
+| 7 | [#PhulraniTeaser](http://twitter.com/search?q=%23PhulraniTeaser) | N/A |
+| 8 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
+| 9 | [#DateAWrap](http://twitter.com/search?q=%23DateAWrap) | N/A |
+| 10 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 11 | [Cheers For Real](http://twitter.com/search?q=Cheers+For+Real) | N/A |
+| 12 | [Welcome to RCB](http://twitter.com/search?q=Welcome+to+RCB) | N/A |
+| 13 | [A. AMOLED](http://twitter.com/search?q=A.+AMOLED) | N/A |
+| 14 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 15 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 16 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 17 | [Ashleigh Gardner](http://twitter.com/search?q=Ashleigh+Gardner) | N/A |
+| 18 | [Renuka Singh](http://twitter.com/search?q=Renuka+Singh) | N/A |
+| 19 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
+| 20 | [Tahlia McGrath](http://twitter.com/search?q=Tahlia+McGrath) | N/A |
+| 21 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
+| 22 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
+| 23 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
+| 24 | [Royal Challengers Bangalore](http://twitter.com/search?q=Royal+Challengers+Bangalore) | N/A |
+| 25 | [WE LOVE SHIV FOREVER](http://twitter.com/search?q=WE+LOVE+SHIV+FOREVER) | N/A |
+| 26 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 27 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
+| 28 | [Apna Bana Le Piya](http://twitter.com/search?q=Apna+Bana+Le+Piya) | N/A |
+| 29 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 30 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 31 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 32 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
+| 34 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 35 | [CBI Delay InSSRcs Unacceptable](http://twitter.com/search?q=CBI+Delay+InSSRcs+Unacceptable) | N/A |
+| 36 | [Indore](http://twitter.com/search?q=Indore) | N/A |
+| 37 | [राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 38 | [शक्ति मंत्री श्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 39 | [Cameo](http://twitter.com/search?q=Cameo) | N/A |
+| 40 | [श्री स्वतंत्र देव सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 41 | [HLFT-42](http://twitter.com/search?q=HLFT-42) | N/A |
+| 42 | [#POCOX5Pro5GonFK](http://twitter.com/search?q=%23POCOX5Pro5GonFK) | N/A |
+| 43 | [#stufflistingsxPOCOX5Pro](http://twitter.com/search?q=%23stufflistingsxPOCOX5Pro) | N/A |
+| 44 | [#Prabhakaran](http://twitter.com/search?q=%23Prabhakaran) | N/A |
+| 45 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
+| 46 | [#AeroIndia2023](http://twitter.com/search?q=%23AeroIndia2023) | N/A |
+| 47 | [#G20_In_MP](http://twitter.com/search?q=%23G20_In_MP) | N/A |
+| 48 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
+| 49 | [#LTTE](http://twitter.com/search?q=%23LTTE) | N/A |
+| 50 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
 
 
 
