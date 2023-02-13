@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-13 11:16:40 UTC`
+📆 Last Updated: `2023-02-13 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [France](</France>)
 | 2 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 3 | [#OLRCL](http://twitter.com/search?q=%23OLRCL) | N/A |
 | 4 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 5 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 6 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 5 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 6 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 9 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
@@ -30,40 +30,40 @@ This is top 50 for [France](</France>)
 | 13 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 | 14 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
 | 15 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 16 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 17 | [Volka](http://twitter.com/search?q=Volka) | N/A |
-| 18 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 19 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
-| 20 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 21 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 22 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 23 | [Ilan Halimi](http://twitter.com/search?q=Ilan+Halimi) | N/A |
-| 24 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
-| 25 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 29 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 31 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 32 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 33 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 34 | [Xavier Niel](http://twitter.com/search?q=Xavier+Niel) | N/A |
-| 35 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 36 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 37 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 39 | [Starship Troopers](http://twitter.com/search?q=Starship+Troopers) | N/A |
-| 40 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 41 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
-| 42 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 43 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
+| 16 | [Saint-Jacques](http://twitter.com/search?q=Saint-Jacques) | N/A |
+| 17 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 18 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
+| 19 | [Ilan Halimi](http://twitter.com/search?q=Ilan+Halimi) | N/A |
+| 20 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 21 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 22 | [Volka](http://twitter.com/search?q=Volka) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 25 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 26 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 28 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
+| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 31 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
+| 32 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 33 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 34 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 35 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
+| 36 | [All of the lights](http://twitter.com/search?q=All+of+the+lights) | N/A |
+| 37 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 38 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 39 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 40 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
+| 41 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 42 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 43 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
 | 44 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 45 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
-| 46 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 47 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
-| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 49 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 45 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
+| 46 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 47 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 48 | [Starship Troopers](http://twitter.com/search?q=Starship+Troopers) | N/A |
+| 49 | [Karl Olive](http://twitter.com/search?q=Karl+Olive) | N/A |
 
 
 

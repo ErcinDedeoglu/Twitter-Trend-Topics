@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-13 11:16:36 UTC`
+📆 Last Updated: `2023-02-13 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,35 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 3 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 2 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 3 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
 | 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 5 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 6 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 7 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 10 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 11 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
-| 12 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 13 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 14 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 15 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
-| 16 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 17 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 18 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 19 | [doutor Fred](http://twitter.com/search?q=doutor+Fred) | N/A |
+| 5 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 6 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 7 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 8 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 11 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 13 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 14 | [juliette no bloco uau chá](http://twitter.com/search?q=juliette+no+bloco+uau+ch%c3%a1) | N/A |
+| 15 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 16 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 17 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 18 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 19 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
 | 20 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 21 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 22 | [Cowboy e Key](http://twitter.com/search?q=Cowboy+e+Key) | N/A |
-| 23 | [GRÁVIDA](http://twitter.com/search?q=GR%c3%81VIDA) | N/A |
-| 24 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 25 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 26 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 27 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
-| 28 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 29 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 30 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
+| 21 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 22 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 23 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 24 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
+| 25 | [DR FRED](http://twitter.com/search?q=DR+FRED) | N/A |
+| 26 | [CALLERI](http://twitter.com/search?q=CALLERI) | N/A |
+| 27 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 29 | [#themaskedsingerbrasil](http://twitter.com/search?q=%23themaskedsingerbrasil) | N/A |
+| 30 | [um milhão ameirelles](http://twitter.com/search?q=um+milh%c3%a3o+ameirelles) | N/A |
+| 31 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 32 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 33 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 34 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 35 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 36 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 37 | [#bomdia](http://twitter.com/search?q=%23bomdia) | N/A |
+| 38 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 39 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
+| 40 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 41 | [BRAZIL IN THE BOX](http://twitter.com/search?q=BRAZIL+IN+THE+BOX) | N/A |
+| 42 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 43 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 44 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 47 | [All of the lights](http://twitter.com/search?q=All+of+the+lights) | N/A |
+| 48 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 49 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
+| 50 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 
 
 

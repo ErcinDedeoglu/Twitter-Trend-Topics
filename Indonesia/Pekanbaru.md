@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-13 11:16:46 UTC`
+📆 Last Updated: `2023-02-13 12:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 2 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 3 | [#MindIDmenjawab](http://twitter.com/search?q=%23MindIDmenjawab) | N/A |
+| 2 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 3 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
 | 4 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 5 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 6 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 7 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 8 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
-| 9 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 10 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 11 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
-| 12 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 13 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 14 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
-| 15 | [Banding](http://twitter.com/search?q=Banding) | N/A |
+| 5 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 6 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 7 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 8 | [Frans](http://twitter.com/search?q=Frans) | N/A |
+| 9 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 10 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 11 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 12 | [Wahyu Iman Santoso](http://twitter.com/search?q=Wahyu+Iman+Santoso) | N/A |
+| 13 | [Banding](http://twitter.com/search?q=Banding) | N/A |
+| 14 | [#BeneranSebagusItu](http://twitter.com/search?q=%23BeneranSebagusItu) | N/A |
+| 15 | [#Whitelab](http://twitter.com/search?q=%23Whitelab) | N/A |
 | 16 | [#MakanBarengGrabFood](http://twitter.com/search?q=%23MakanBarengGrabFood) | N/A |
-| 17 | [Frans](http://twitter.com/search?q=Frans) | N/A |
-| 18 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
-| 19 | [Persebaya](http://twitter.com/search?q=Persebaya) | N/A |
-| 20 | [Wahyu Iman Santoso](http://twitter.com/search?q=Wahyu+Iman+Santoso) | N/A |
-| 21 | [Ze Valente](http://twitter.com/search?q=Ze+Valente) | N/A |
-| 22 | [Putri Candrawathi](http://twitter.com/search?q=Putri+Candrawathi) | N/A |
-| 23 | [SGAR](http://twitter.com/search?q=SGAR) | N/A |
-| 24 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
-| 25 | [Syahrini](http://twitter.com/search?q=Syahrini) | N/A |
-| 26 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
-| 27 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 28 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 29 | [REFAL HADY](http://twitter.com/search?q=REFAL+HADY) | N/A |
-| 30 | [Direktur Operasi](http://twitter.com/search?q=Direktur+Operasi) | N/A |
-| 31 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
-| 32 | [Kuku](http://twitter.com/search?q=Kuku) | N/A |
+| 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 18 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
+| 19 | [Putri Candrawathi](http://twitter.com/search?q=Putri+Candrawathi) | N/A |
+| 20 | [Persebaya](http://twitter.com/search?q=Persebaya) | N/A |
+| 21 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 22 | [Ze Valente](http://twitter.com/search?q=Ze+Valente) | N/A |
+| 23 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 24 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
+| 25 | [REFAL HADY](http://twitter.com/search?q=REFAL+HADY) | N/A |
+| 26 | [Direktur Operasi](http://twitter.com/search?q=Direktur+Operasi) | N/A |
+| 27 | [PN Jaksel](http://twitter.com/search?q=PN+Jaksel) | N/A |
+| 28 | [syahrini](http://twitter.com/search?q=syahrini) | N/A |
+| 29 | [Kuku](http://twitter.com/search?q=Kuku) | N/A |
+| 30 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
+| 31 | [Samsung A52](http://twitter.com/search?q=Samsung+A52) | N/A |
+| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 33 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
-| 34 | [PN Jaksel](http://twitter.com/search?q=PN+Jaksel) | N/A |
-| 35 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 38 | [Kooperatif](http://twitter.com/search?q=Kooperatif) | N/A |
-| 39 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 34 | [Bongkar](http://twitter.com/search?q=Bongkar) | N/A |
+| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 36 | [SGAR](http://twitter.com/search?q=SGAR) | N/A |
+| 37 | [Opick](http://twitter.com/search?q=Opick) | N/A |
+| 38 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 39 | [polres jaksel](http://twitter.com/search?q=polres+jaksel) | N/A |
 | 40 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 41 | [#มิวศุภศิษฏ์](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%a8%e0%b8%b8%e0%b8%a0%e0%b8%a8%e0%b8%b4%e0%b8%a9%e0%b8%8f%e0%b9%8c) | N/A |
-| 42 | [#MewSuppasit](http://twitter.com/search?q=%23MewSuppasit) | N/A |
-| 43 | [#CHAEUNWOO](http://twitter.com/search?q=%23CHAEUNWOO) | N/A |
-| 44 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 45 | [#BrightMyETCPressTour](http://twitter.com/search?q=%23BrightMyETCPressTour) | N/A |
-| 46 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 47 | [#KKPThrive](http://twitter.com/search?q=%23KKPThrive) | N/A |
+| 41 | [#MindIDmenjawab](http://twitter.com/search?q=%23MindIDmenjawab) | N/A |
+| 42 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
+| 43 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
+| 44 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 45 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 46 | [#MewSuppasit](http://twitter.com/search?q=%23MewSuppasit) | N/A |
+| 47 | [#CHAEUNWOO](http://twitter.com/search?q=%23CHAEUNWOO) | N/A |
+| 48 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 49 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
 
 
 

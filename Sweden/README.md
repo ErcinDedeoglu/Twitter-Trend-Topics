@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-13 11:17:23 UTC`
+📆 Last Updated: `2023-02-13 12:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 4 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
-| 5 | [Castellum](http://twitter.com/search?q=Castellum) | N/A |
-| 6 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 7 | [Landskrona](http://twitter.com/search?q=Landskrona) | N/A |
-| 8 | [BRIS](http://twitter.com/search?q=BRIS) | N/A |
-| 9 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Akelius](http://twitter.com/search?q=Akelius) | N/A |
-| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 13 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 14 | [panetoz](http://twitter.com/search?q=panetoz) | N/A |
+| 3 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
+| 4 | [Castellum](http://twitter.com/search?q=Castellum) | N/A |
+| 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 6 | [Landskrona](http://twitter.com/search?q=Landskrona) | N/A |
+| 7 | [BRIS](http://twitter.com/search?q=BRIS) | N/A |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [EU-kommissionens](http://twitter.com/search?q=EU-kommissionens) | N/A |
+| 10 | [Akelius](http://twitter.com/search?q=Akelius) | N/A |
+| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 12 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 13 | [panetoz](http://twitter.com/search?q=panetoz) | N/A |
+| 14 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 15 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 16 | [#NFLse](http://twitter.com/search?q=%23NFLse) | N/A |
-| 17 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 18 | [Samuelsson](http://twitter.com/search?q=Samuelsson) | N/A |
-| 19 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 16 | [#nflse](http://twitter.com/search?q=%23nflse) | N/A |
+| 17 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 18 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 19 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
 | 20 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 21 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 22 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 23 | [Maria Sur](http://twitter.com/search?q=Maria+Sur) | N/A |
-| 24 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 25 | [börje](http://twitter.com/search?q=b%c3%b6rje) | N/A |
-| 26 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
-| 27 | [EU-kommissionens](http://twitter.com/search?q=EU-kommissionens) | N/A |
-| 28 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 29 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
-| 30 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 21 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 22 | [Samuelsson](http://twitter.com/search?q=Samuelsson) | N/A |
+| 23 | [RASISM](http://twitter.com/search?q=RASISM) | N/A |
+| 24 | [Maria Sur](http://twitter.com/search?q=Maria+Sur) | N/A |
+| 25 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 26 | [börje](http://twitter.com/search?q=b%c3%b6rje) | N/A |
+| 27 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 28 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 29 | [#svpol](http://twitter.com/search?q=%23svpol) | N/A |
+| 30 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
 | 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 33 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 34 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 35 | [Centerpartiet](http://twitter.com/search?q=Centerpartiet) | N/A |
-| 36 | [Svenska](http://twitter.com/search?q=Svenska) | N/A |
-| 37 | [hej lyra](http://twitter.com/search?q=hej+lyra) | N/A |
-| 38 | [ulf kristerssons](http://twitter.com/search?q=ulf+kristerssons) | N/A |
-| 39 | [Ufon](http://twitter.com/search?q=Ufon) | N/A |
-| 40 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 41 | [Tolk](http://twitter.com/search?q=Tolk) | N/A |
-| 42 | [forsmark](http://twitter.com/search?q=forsmark) | N/A |
+| 32 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 33 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 36 | [nabbe](http://twitter.com/search?q=nabbe) | N/A |
+| 37 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 38 | [Svenska](http://twitter.com/search?q=Svenska) | N/A |
+| 39 | [forsmark](http://twitter.com/search?q=forsmark) | N/A |
+| 40 | [hej lyra](http://twitter.com/search?q=hej+lyra) | N/A |
+| 41 | [ulf kristerssons](http://twitter.com/search?q=ulf+kristerssons) | N/A |
+| 42 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
 | 43 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 44 | [nabbe](http://twitter.com/search?q=nabbe) | N/A |
-| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 46 | [Lööke](http://twitter.com/search?q=L%c3%b6%c3%b6ke) | N/A |
-| 47 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 48 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 49 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 50 | [Peter Englund](http://twitter.com/search?q=Peter+Englund) | N/A |
+| 44 | [Tolk](http://twitter.com/search?q=Tolk) | N/A |
+| 45 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
+| 46 | [Ygeman](http://twitter.com/search?q=Ygeman) | N/A |
+| 47 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 48 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 49 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 50 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 
 
 

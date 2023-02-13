@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-13 11:16:44 UTC`
+📆 Last Updated: `2023-02-13 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
-| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 5 | [#YogaConLidl](http://twitter.com/search?q=%23YogaConLidl) | N/A |
+| 1 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 3 | [#YogaConLidl](http://twitter.com/search?q=%23YogaConLidl) | N/A |
+| 4 | [#HogwartsLegacyGAME](http://twitter.com/search?q=%23HogwartsLegacyGAME) | N/A |
+| 5 | [#devuelvanlosustraído](http://twitter.com/search?q=%23devuelvanlosustra%c3%addo) | N/A |
 | 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 7 | [#DevuelvanLoSustraído](http://twitter.com/search?q=%23DevuelvanLoSustra%c3%addo) | N/A |
-| 8 | [#HogwartsLegacyGAME](http://twitter.com/search?q=%23HogwartsLegacyGAME) | N/A |
+| 7 | [Junqueras](http://twitter.com/search?q=Junqueras) | N/A |
+| 8 | [Yuyu](http://twitter.com/search?q=Yuyu) | N/A |
 | 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 10 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 11 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 12 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 13 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 14 | [EMBARAZADA](http://twitter.com/search?q=EMBARAZADA) | N/A |
-| 15 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
-| 16 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 18 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 19 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 20 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
-| 21 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
-| 22 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 23 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 24 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 25 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 26 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 27 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 28 | [Maribel Verdú](http://twitter.com/search?q=Maribel+Verd%c3%ba) | N/A |
-| 29 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 10 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 11 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 12 | [Alexelcapo](http://twitter.com/search?q=Alexelcapo) | N/A |
+| 13 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 14 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
+| 15 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 16 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 17 | [Como 3](http://twitter.com/search?q=Como+3) | N/A |
+| 18 | [EMBARAZADA](http://twitter.com/search?q=EMBARAZADA) | N/A |
+| 19 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
+| 20 | [bruselas](http://twitter.com/search?q=bruselas) | N/A |
+| 21 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
+| 24 | [Ovnis](http://twitter.com/search?q=Ovnis) | N/A |
+| 25 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 26 | [Lunes 13](http://twitter.com/search?q=Lunes+13) | N/A |
+| 27 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 28 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 29 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
 | 30 | [Extremadura](http://twitter.com/search?q=Extremadura) | N/A |
-| 31 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
-| 32 | [delgado](http://twitter.com/search?q=delgado) | N/A |
-| 33 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 31 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 32 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 33 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
 | 34 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 35 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 36 | [Comunidades](http://twitter.com/search?q=Comunidades) | N/A |
-| 37 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 38 | [Castilla la Mancha](http://twitter.com/search?q=Castilla+la+Mancha) | N/A |
-| 39 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 40 | [#DiaDeLaRadio2023](http://twitter.com/search?q=%23DiaDeLaRadio2023) | N/A |
-| 41 | [#APOYOROCIO13F](http://twitter.com/search?q=%23APOYOROCIO13F) | N/A |
-| 42 | [#diamundialradio](http://twitter.com/search?q=%23diamundialradio) | N/A |
-| 43 | [#YoMeRebelo13F](http://twitter.com/search?q=%23YoMeRebelo13F) | N/A |
-| 44 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
-| 45 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 46 | [#epilepsia](http://twitter.com/search?q=%23epilepsia) | N/A |
-| 47 | [#DiaInternacionaldelaRadio](http://twitter.com/search?q=%23DiaInternacionaldelaRadio) | N/A |
-| 48 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 49 | [#LunesDeOjos](http://twitter.com/search?q=%23LunesDeOjos) | N/A |
-| 50 | [#LaHora13F](http://twitter.com/search?q=%23LaHora13F) | N/A |
+| 35 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 36 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 37 | [Maribel Verdú](http://twitter.com/search?q=Maribel+Verd%c3%ba) | N/A |
+| 38 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 39 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 40 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
+| 41 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 42 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 43 | [Comunidades](http://twitter.com/search?q=Comunidades) | N/A |
+| 44 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 45 | [Castilla la Mancha](http://twitter.com/search?q=Castilla+la+Mancha) | N/A |
+| 46 | [Ximo Puig](http://twitter.com/search?q=Ximo+Puig) | N/A |
+| 47 | [#DiaDeLaRadio](http://twitter.com/search?q=%23DiaDeLaRadio) | N/A |
+| 48 | [#APOYOROCIO13F](http://twitter.com/search?q=%23APOYOROCIO13F) | N/A |
+| 49 | [#YoMeRebelo13F](http://twitter.com/search?q=%23YoMeRebelo13F) | N/A |
+| 50 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
 
 
 
