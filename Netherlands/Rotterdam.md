@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-13 07:16:24 UTC`
+📆 Last Updated: `2023-02-13 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ajarkc](http://twitter.com/search?q=%23ajarkc) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
-| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [#lichtgeel](http://twitter.com/search?q=%23lichtgeel) | N/A |
-| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 2 | [#Ajarkc](http://twitter.com/search?q=%23Ajarkc) | N/A |
+| 3 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
+| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 5 | [#lichtgeel](http://twitter.com/search?q=%23lichtgeel) | N/A |
+| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 7 | [Asieldwangsommen](http://twitter.com/search?q=Asieldwangsommen) | N/A |
 | 8 | [#maandag](http://twitter.com/search?q=%23maandag) | N/A |
-| 9 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 9 | [Bram](http://twitter.com/search?q=Bram) | N/A |
 | 10 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 11 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 12 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 13 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 14 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 11 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 12 | [Berg](http://twitter.com/search?q=Berg) | N/A |
+| 13 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 15 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
 | 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 17 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 18 | [Jans](http://twitter.com/search?q=Jans) | N/A |
-| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 20 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 21 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 22 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 23 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 24 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 26 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 27 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 28 | [bakayoko](http://twitter.com/search?q=bakayoko) | N/A |
-| 29 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 17 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 18 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 20 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 21 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 22 | [Jans](http://twitter.com/search?q=Jans) | N/A |
+| 23 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 24 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 25 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 26 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 27 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 28 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 30 | [Kapje](http://twitter.com/search?q=Kapje) | N/A |
-| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 32 | [vaessen](http://twitter.com/search?q=vaessen) | N/A |
-| 33 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 34 | [taabouni](http://twitter.com/search?q=taabouni) | N/A |
-| 35 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 36 | [Alfred Schreuder](http://twitter.com/search?q=Alfred+Schreuder) | N/A |
-| 37 | [manhoef](http://twitter.com/search?q=manhoef) | N/A |
-| 38 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 40 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 41 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 42 | [steijn](http://twitter.com/search?q=steijn) | N/A |
-| 43 | [Werk](http://twitter.com/search?q=Werk) | N/A |
-| 44 | [TIJDELIJK](http://twitter.com/search?q=TIJDELIJK) | N/A |
-| 45 | [Bram](http://twitter.com/search?q=Bram) | N/A |
-| 46 | [conceicao](http://twitter.com/search?q=conceicao) | N/A |
-| 47 | [rkc waalwijk](http://twitter.com/search?q=rkc+waalwijk) | N/A |
-| 48 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 49 | [dag 12](http://twitter.com/search?q=dag+12) | N/A |
-| 50 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 31 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 32 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 33 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 34 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 35 | [vaessen](http://twitter.com/search?q=vaessen) | N/A |
+| 36 | [taabouni](http://twitter.com/search?q=taabouni) | N/A |
+| 37 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 38 | [Alfred Schreuder](http://twitter.com/search?q=Alfred+Schreuder) | N/A |
+| 39 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 40 | [Steijn](http://twitter.com/search?q=Steijn) | N/A |
+| 41 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 42 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 43 | [Sebas](http://twitter.com/search?q=Sebas) | N/A |
+| 44 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 45 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 46 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
+| 47 | [conceicao](http://twitter.com/search?q=conceicao) | N/A |
+| 48 | [rkc waalwijk](http://twitter.com/search?q=rkc+waalwijk) | N/A |
+| 49 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 50 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
 
 
 

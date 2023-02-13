@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-13 07:16:50 UTC`
+📆 Last Updated: `2023-02-13 08:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 2 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 3 | [Deebo](http://twitter.com/search?q=Deebo) | Deebo is a slang term derived from the character Deebo in the 1995 movie Friday. It is used to refer to someone who is strong, intimidating, or aggressive. |
+| 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 2 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 3 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
 | 4 | [#FlyEagelsFly](http://twitter.com/search?q=%23FlyEagelsFly) | N/A |
-| 5 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 6 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 7 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 8 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 9 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 5 | [Deebo](http://twitter.com/search?q=Deebo) | Deebo is a slang term derived from the character Deebo in the 1995 movie Friday. It is used to refer to someone who is strong, intimidating, or aggressive. |
+| 6 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 7 | [Scientology](http://twitter.com/search?q=Scientology) | N/A |
+| 8 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 9 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 | 10 | [Lombardi](http://twitter.com/search?q=Lombardi) | Lombardi is an Italian surname derived from the Lombard people, who were a Germanic tribe that settled in northern Italy in the 6th century. The name is also used as a given name, and may refer to Vince Lombardi (1913-1970), an American football coach and executive who was inducted into the Pro Football Hall of Fame. |
-| 11 | [Scientology](http://twitter.com/search?q=Scientology) | N/A |
-| 12 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 13 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 14 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 17 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 18 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 19 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 20 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 21 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 22 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 23 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 24 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
-| 25 | [#rigged](http://twitter.com/search?q=%23rigged) | N/A |
+| 11 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
+| 12 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 13 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 14 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 15 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 17 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 19 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 20 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 21 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 23 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 24 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 25 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
 | 26 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 27 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 28 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 29 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 30 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 31 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 32 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 33 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 34 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 35 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 36 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
-| 37 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 38 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 39 | [Terry Bradshaw](http://twitter.com/search?q=Terry+Bradshaw) | N/A |
-| 40 | [Hail Mary](http://twitter.com/search?q=Hail+Mary) | Hail Mary is a traditional Catholic prayer to the Virgin Mary, the mother of Jesus. It is often used as a way to express devotion and faith in her. The prayer consists of two parts: the first part is taken from the Gospel of Luke (1:28) and reads, "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women." The second part is taken from the Gospel of Luke (1:42) and reads, "Blessed art thou among women, and blessed is the fruit of thy womb, Jesus." Together, these two parts form a prayer that expresses reverence for Mary and her role in Christianity. |
-| 41 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 27 | [#rigged](http://twitter.com/search?q=%23rigged) | N/A |
+| 28 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 29 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
+| 30 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 31 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 32 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 33 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 34 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 35 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 36 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 37 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
+| 38 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 39 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 40 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 41 | [Terry Bradshaw](http://twitter.com/search?q=Terry+Bradshaw) | N/A |
 | 42 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 43 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 44 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 45 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 46 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 47 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 48 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 49 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 50 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
+| 43 | [Hail Mary](http://twitter.com/search?q=Hail+Mary) | Hail Mary is a traditional Catholic prayer to the Virgin Mary, the mother of Jesus. It is often used as a way to express devotion and faith in her. The prayer consists of two parts: the first part is taken from the Gospel of Luke (1:28) and reads, "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women." The second part is taken from the Gospel of Luke (1:42) and reads, "Blessed art thou among women, and blessed is the fruit of thy womb, Jesus." Together, these two parts form a prayer that expresses reverence for Mary and her role in Christianity. |
+| 44 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 45 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 46 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 47 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 48 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 49 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 50 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
 
 
 

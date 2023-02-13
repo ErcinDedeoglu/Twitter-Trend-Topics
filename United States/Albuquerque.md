@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-13 07:16:47 UTC`
+📆 Last Updated: `2023-02-13 08:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [United States](</United States>)
 | 9 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
 | 10 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
 | 11 | [#rigged](http://twitter.com/search?q=%23rigged) | N/A |
-| 12 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 13 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 14 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 15 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 16 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 12 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 13 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 14 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
+| 15 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 16 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
 | 17 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
 | 18 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
 | 19 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
 | 20 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 | 21 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
 | 22 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
-| 23 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 25 | [Terry Bradshaw](http://twitter.com/search?q=Terry+Bradshaw) | N/A |
-| 26 | [Hail Mary](http://twitter.com/search?q=Hail+Mary) | Hail Mary is a traditional Catholic prayer to the Virgin Mary, the mother of Jesus. It is often used as a way to express devotion and faith in her. The prayer consists of two parts: the first part is taken from the Gospel of Luke (1:28) and reads, "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women." The second part is taken from the Gospel of Luke (1:42) and reads, "Blessed art thou among women, and blessed is the fruit of thy womb, Jesus." Together, these two parts form a prayer that expresses reverence for Mary and her role in Christianity. |
-| 27 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 28 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 29 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 23 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 24 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 25 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 26 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 27 | [Hail Mary](http://twitter.com/search?q=Hail+Mary) | Hail Mary is a traditional Catholic prayer to the Virgin Mary, the mother of Jesus. It is often used as a way to express devotion and faith in her. The prayer consists of two parts: the first part is taken from the Gospel of Luke (1:28) and reads, "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women." The second part is taken from the Gospel of Luke (1:42) and reads, "Blessed art thou among women, and blessed is the fruit of thy womb, Jesus." Together, these two parts form a prayer that expresses reverence for Mary and her role in Christianity. |
+| 28 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 29 | [Terry Bradshaw](http://twitter.com/search?q=Terry+Bradshaw) | N/A |
 | 30 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 31 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 32 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 33 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 31 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 32 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 33 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
 | 34 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 35 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 36 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 37 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
-| 38 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
-| 39 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 40 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 41 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 42 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 43 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 44 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
+| 35 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 36 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 37 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 38 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
+| 39 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
+| 40 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 41 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 42 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 43 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 44 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
 | 45 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 46 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 47 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 48 | [Gatorade](http://twitter.com/search?q=Gatorade) | N/A |
+| 46 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
+| 47 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 48 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
 | 49 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
 | 50 | [Uncatchable](http://twitter.com/search?q=Uncatchable) | N/A |
 

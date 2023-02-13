@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-13 07:16:58 UTC`
+📆 Last Updated: `2023-02-13 08:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,12 +32,12 @@ This is top 50 for Guatemala
 | 15 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
 | 16 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 17 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 18 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 19 | [Mario Carrillo](http://twitter.com/search?q=Mario+Carrillo) | N/A |
-| 20 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
-| 21 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 22 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 23 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 18 | [Mario Carrillo](http://twitter.com/search?q=Mario+Carrillo) | N/A |
+| 19 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
+| 20 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 21 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 22 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 23 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 24 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
 | 25 | [Morales](http://twitter.com/search?q=Morales) | N/A |
 | 26 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |

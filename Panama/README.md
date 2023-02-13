@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-13 07:17:00 UTC`
+📆 Last Updated: `2023-02-13 08:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -62,9 +62,9 @@ This is top 50 for Panama
 | 45 | [alanje](http://twitter.com/search?q=alanje) | N/A |
 | 46 | [senniaf](http://twitter.com/search?q=senniaf) | N/A |
 | 47 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
-| 48 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 49 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
-| 50 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 48 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
+| 49 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 50 | [Cadena](http://twitter.com/search?q=Cadena) | N/A |
 
 
 

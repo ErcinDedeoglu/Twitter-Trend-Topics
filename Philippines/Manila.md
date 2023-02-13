@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-13 07:16:35 UTC`
+📆 Last Updated: `2023-02-13 08:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Philippines](</Philippines>)
 | 12 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
 | 13 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
 | 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 15 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
 | 17 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
 | 18 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 19 | [Drei](http://twitter.com/search?q=Drei) | N/A |
-| 20 | [anji arambulo live](http://twitter.com/search?q=anji+arambulo+live) | N/A |
-| 21 | [Jeromy](http://twitter.com/search?q=Jeromy) | N/A |
-| 22 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 23 | [joshcullen blackout era](http://twitter.com/search?q=joshcullen+blackout+era) | N/A |
-| 24 | [kodrea febibig on iwantasap](http://twitter.com/search?q=kodrea+febibig+on+iwantasap) | N/A |
-| 25 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 26 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 27 | [Han Jisung](http://twitter.com/search?q=Han+Jisung) | N/A |
-| 28 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 29 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
-| 30 | [reyster the only one](http://twitter.com/search?q=reyster+the+only+one) | N/A |
-| 31 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 32 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 33 | [txt at inkigayo](http://twitter.com/search?q=txt+at+inkigayo) | N/A |
-| 34 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 36 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 19 | [anji arambulo live](http://twitter.com/search?q=anji+arambulo+live) | N/A |
+| 20 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 21 | [Drei](http://twitter.com/search?q=Drei) | N/A |
+| 22 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
+| 23 | [Jeromy](http://twitter.com/search?q=Jeromy) | N/A |
+| 24 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 25 | [joshcullen blackout era](http://twitter.com/search?q=joshcullen+blackout+era) | N/A |
+| 26 | [kodrea febibig on iwantasap](http://twitter.com/search?q=kodrea+febibig+on+iwantasap) | N/A |
+| 27 | [Kim Heechul](http://twitter.com/search?q=Kim+Heechul) | N/A |
+| 28 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 29 | [Han Jisung](http://twitter.com/search?q=Han+Jisung) | N/A |
+| 30 | [Subunit](http://twitter.com/search?q=Subunit) | N/A |
+| 31 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 32 | [reyster the only one](http://twitter.com/search?q=reyster+the+only+one) | N/A |
+| 33 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
+| 34 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
+| 35 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 36 | [txt at inkigayo](http://twitter.com/search?q=txt+at+inkigayo) | N/A |
 | 37 | [PIEflex SUPERSEian AT MOA](http://twitter.com/search?q=PIEflex+SUPERSEian+AT+MOA) | N/A |
-| 38 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 39 | [Carat Day](http://twitter.com/search?q=Carat+Day) | N/A |
+| 38 | [Carat Day](http://twitter.com/search?q=Carat+Day) | N/A |
+| 39 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
 | 40 | [Solar](http://twitter.com/search?q=Solar) | N/A |
-| 41 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 42 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 43 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
-| 44 | [pambansangginoo onkmjs](http://twitter.com/search?q=pambansangginoo+onkmjs) | N/A |
-| 45 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
-| 46 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
-| 47 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 41 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 43 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 44 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 45 | [pambansangginoo onkmjs](http://twitter.com/search?q=pambansangginoo+onkmjs) | N/A |
+| 46 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 47 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
 | 48 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 49 | [filay onaos](http://twitter.com/search?q=filay+onaos) | N/A |
-| 50 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 49 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 50 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
 
 
 
