@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-13 14:16:00 UTC`
+📆 Last Updated: `2023-02-13 15:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 3 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 1 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 2 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 3 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
 | 4 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
-| 5 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 5 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
 | 6 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
-| 7 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 8 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 9 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
-| 10 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 11 | [#DiaDeCruzeiro](http://twitter.com/search?q=%23DiaDeCruzeiro) | N/A |
-| 12 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 13 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 14 | [GRÁVIDA](http://twitter.com/search?q=GR%c3%81VIDA) | N/A |
-| 15 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
-| 16 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 17 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 18 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 19 | [#ForaPaula](http://twitter.com/search?q=%23ForaPaula) | N/A |
-| 20 | [#PNCF](http://twitter.com/search?q=%23PNCF) | N/A |
-| 21 | [#SegundaDetremuraSDV](http://twitter.com/search?q=%23SegundaDetremuraSDV) | N/A |
-| 22 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 23 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
-| 24 | [Cruzeiro Esporte Clube](http://twitter.com/search?q=Cruzeiro+Esporte+Clube) | N/A |
-| 25 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 7 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 8 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
+| 9 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 10 | [the guardian](http://twitter.com/search?q=the+guardian) | N/A |
+| 11 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 13 | [#DiaDeCruzeiro](http://twitter.com/search?q=%23DiaDeCruzeiro) | N/A |
+| 14 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 15 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 16 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 17 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
+| 18 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
+| 19 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 20 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 21 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 22 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
+| 23 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 24 | [GRÁVIDA](http://twitter.com/search?q=GR%c3%81VIDA) | N/A |
+| 25 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
 | 26 | [André Lara Resende](http://twitter.com/search?q=Andr%c3%a9+Lara+Resende) | N/A |
-| 27 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 28 | [Patriotas](http://twitter.com/search?q=Patriotas) | N/A |
-| 29 | [Furdunço](http://twitter.com/search?q=Furdun%c3%a7o) | N/A |
-| 30 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 31 | [Baiana](http://twitter.com/search?q=Baiana) | N/A |
-| 32 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
-| 33 | [Itamar Franco](http://twitter.com/search?q=Itamar+Franco) | N/A |
-| 34 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 35 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 36 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
-| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 38 | [O Carnaval](http://twitter.com/search?q=O+Carnaval) | N/A |
-| 39 | [Cadeado](http://twitter.com/search?q=Cadeado) | N/A |
-| 40 | [Collor](http://twitter.com/search?q=Collor) | N/A |
-| 41 | [Fernando Henrique](http://twitter.com/search?q=Fernando+Henrique) | N/A |
-| 42 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 43 | [João Goulart](http://twitter.com/search?q=Jo%c3%a3o+Goulart) | N/A |
+| 27 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 28 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 29 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 30 | [Patriotas](http://twitter.com/search?q=Patriotas) | N/A |
+| 31 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 32 | [Furdunço](http://twitter.com/search?q=Furdun%c3%a7o) | N/A |
+| 33 | [Baiana](http://twitter.com/search?q=Baiana) | N/A |
+| 34 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 35 | [Itamar Franco](http://twitter.com/search?q=Itamar+Franco) | N/A |
+| 36 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 37 | [Maravilhas](http://twitter.com/search?q=Maravilhas) | N/A |
+| 38 | [Collor](http://twitter.com/search?q=Collor) | N/A |
+| 39 | [Os EUA](http://twitter.com/search?q=Os+EUA) | N/A |
+| 40 | [ASSINADO](http://twitter.com/search?q=ASSINADO) | N/A |
+| 41 | [Flashpoint](http://twitter.com/search?q=Flashpoint) | N/A |
+| 42 | [O Carnaval](http://twitter.com/search?q=O+Carnaval) | N/A |
+| 43 | [Pink](http://twitter.com/search?q=Pink) | N/A |
 | 44 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 45 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 46 | [#ForaBrunoGaga](http://twitter.com/search?q=%23ForaBrunoGaga) | N/A |
-| 47 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
-| 48 | [#ficaamanda](http://twitter.com/search?q=%23ficaamanda) | N/A |
+| 45 | [Sarney](http://twitter.com/search?q=Sarney) | N/A |
+| 46 | [Cadeado](http://twitter.com/search?q=Cadeado) | N/A |
+| 47 | [João Goulart](http://twitter.com/search?q=Jo%c3%a3o+Goulart) | N/A |
+| 48 | [#PNCF](http://twitter.com/search?q=%23PNCF) | N/A |
+| 49 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
+| 50 | [#ForaBrunoGaga](http://twitter.com/search?q=%23ForaBrunoGaga) | N/A |
 
 
 

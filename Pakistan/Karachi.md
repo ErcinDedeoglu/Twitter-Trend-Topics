@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-13 14:16:25 UTC`
+📆 Last Updated: `2023-02-13 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
 | 2 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
 | 3 | [#داماد_ہائیکورٹ](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%85%d8%a7%d8%af_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9) | N/A |
-| 4 | [#TimHortons](http://twitter.com/search?q=%23TimHortons) | N/A |
-| 5 | [#LeaveNoGirlBehind](http://twitter.com/search?q=%23LeaveNoGirlBehind) | N/A |
-| 6 | [Aima Baig](http://twitter.com/search?q=Aima+Baig) | N/A |
-| 7 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 8 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 9 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
-| 10 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 11 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 12 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 13 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 14 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
-| 15 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 16 | [bismah maroof](http://twitter.com/search?q=bismah+maroof) | N/A |
-| 17 | [Sania Alam](http://twitter.com/search?q=Sania+Alam) | N/A |
-| 18 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 19 | [Ayesha Naseem](http://twitter.com/search?q=Ayesha+Naseem) | N/A |
-| 20 | [jeet ke aana priyanka](http://twitter.com/search?q=jeet+ke+aana+priyanka) | N/A |
-| 21 | [Ahsan Ali](http://twitter.com/search?q=Ahsan+Ali) | N/A |
-| 22 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [Zia Sahab](http://twitter.com/search?q=Zia+Sahab) | N/A |
-| 25 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
-| 26 | [Cypher](http://twitter.com/search?q=Cypher) | N/A |
-| 27 | [amjad islam amjad](http://twitter.com/search?q=amjad+islam+amjad) | N/A |
+| 4 | [#امریکی_سازش_ٹھس](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b1%db%8c%da%a9%db%8c_%d8%b3%d8%a7%d8%b2%d8%b4_%d9%b9%da%be%d8%b3) | N/A |
+| 5 | [#pslpakistan](http://twitter.com/search?q=%23pslpakistan) | N/A |
+| 6 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 7 | [Ceremony](http://twitter.com/search?q=Ceremony) | N/A |
+| 8 | [Boycott Valentine's Day](http://twitter.com/search?q=Boycott+Valentine%27s+Day) | N/A |
+| 9 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 10 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 11 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 12 | [rip sir](http://twitter.com/search?q=rip+sir) | N/A |
+| 13 | [najam sethi](http://twitter.com/search?q=najam+sethi) | N/A |
+| 14 | [Aima Baig](http://twitter.com/search?q=Aima+Baig) | N/A |
+| 15 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
+| 16 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
+| 17 | [bismah maroof](http://twitter.com/search?q=bismah+maroof) | N/A |
+| 18 | [Ayesha Naseem](http://twitter.com/search?q=Ayesha+Naseem) | N/A |
+| 19 | [the volunteers society](http://twitter.com/search?q=the+volunteers+society) | N/A |
+| 20 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 21 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 22 | [jeet ke aana priyanka](http://twitter.com/search?q=jeet+ke+aana+priyanka) | N/A |
+| 23 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 24 | [Ahsan Ali](http://twitter.com/search?q=Ahsan+Ali) | N/A |
+| 25 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
+| 26 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
+| 27 | [Zia sahab](http://twitter.com/search?q=Zia+sahab) | N/A |
 | 28 | [hayat khan sherpao](http://twitter.com/search?q=hayat+khan+sherpao) | N/A |
-| 29 | [Pakhtuns](http://twitter.com/search?q=Pakhtuns) | N/A |
-| 30 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 31 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 32 | [PSL Day](http://twitter.com/search?q=PSL+Day) | N/A |
-| 33 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 34 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 35 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
-| 36 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 37 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 38 | [rizwan](http://twitter.com/search?q=rizwan) | N/A |
-| 39 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
-| 40 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 41 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 29 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 30 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 31 | [Cypher](http://twitter.com/search?q=Cypher) | N/A |
+| 32 | [Pakhtuns](http://twitter.com/search?q=Pakhtuns) | N/A |
+| 33 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 34 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 35 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 36 | [Amjad Islam Amjad](http://twitter.com/search?q=Amjad+Islam+Amjad) | N/A |
+| 37 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
+| 38 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 39 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 40 | [Daraz](http://twitter.com/search?q=Daraz) | N/A |
+| 41 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 42 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 43 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
-| 44 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 45 | [BISS KEY](http://twitter.com/search?q=BISS+KEY) | N/A |
-| 46 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 47 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 48 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 49 | [Ameeeen](http://twitter.com/search?q=Ameeeen) | N/A |
-| 50 | [#عادل_راجا_MI6کاباجا](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%b1%d8%a7%d8%ac%d8%a7_MI6%da%a9%d8%a7%d8%a8%d8%a7%d8%ac%d8%a7) | N/A |
+| 46 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 47 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
+| 48 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 49 | [Bruhh](http://twitter.com/search?q=Bruhh) | N/A |
+| 50 | [OUR SPRING DAY IS YET TO COME](http://twitter.com/search?q=OUR+SPRING+DAY+IS+YET+TO+COME) | N/A |
 
 
 

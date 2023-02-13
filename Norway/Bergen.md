@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-13 14:16:09 UTC`
+📆 Last Updated: `2023-02-13 15:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Norway](</Norway>)
 | 4 | [Arne Treholt](http://twitter.com/search?q=Arne+Treholt) | N/A |
 | 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 6 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
-| 7 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 10 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 11 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
-| 12 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 13 | [durek](http://twitter.com/search?q=durek) | N/A |
-| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 15 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
+| 7 | [#leemun](http://twitter.com/search?q=%23leemun) | N/A |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
+| 10 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 11 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 12 | [durek](http://twitter.com/search?q=durek) | N/A |
+| 13 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 14 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 15 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 16 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 18 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 19 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 20 | [Deilig](http://twitter.com/search?q=Deilig) | N/A |
+| 18 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 19 | [Deilig](http://twitter.com/search?q=Deilig) | N/A |
+| 20 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 21 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 22 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 23 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 24 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 28 | [Die Hard](http://twitter.com/search?q=Die+Hard) | Die Hard is an action movie franchise starring Bruce Willis as John McClane, a New York City police officer who finds himself in the middle of a terrorist attack. The phrase "Die Hard" has come to mean any situation that is difficult to overcome or survive. |
-| 29 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 30 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
-| 31 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 32 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 33 | [Sian](http://twitter.com/search?q=Sian) | N/A |
-| 34 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 35 | [kilde](http://twitter.com/search?q=kilde) | N/A |
-| 36 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 26 | [Die Hard](http://twitter.com/search?q=Die+Hard) | Die Hard is an action movie franchise starring Bruce Willis as John McClane, a New York City police officer who finds himself in the middle of a terrorist attack. The phrase "Die Hard" has come to mean any situation that is difficult to overcome or survive. |
+| 27 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 28 | [sian](http://twitter.com/search?q=sian) | N/A |
+| 29 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 30 | [Trodde](http://twitter.com/search?q=Trodde) | N/A |
+| 31 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 32 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 33 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 34 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 35 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 36 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 38 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 39 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 41 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
-| 42 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 43 | [Stortinget](http://twitter.com/search?q=Stortinget) | N/A |
-| 44 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 45 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 38 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 39 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 40 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 41 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
+| 44 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 45 | [Lurer](http://twitter.com/search?q=Lurer) | N/A |
+| 46 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 47 | [burde](http://twitter.com/search?q=burde) | N/A |
 | 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 49 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 
 
 
