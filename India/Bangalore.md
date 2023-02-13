@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-02-13 12:18:55 UTC`
+📆 Last Updated: `2023-02-13 13:21:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NarendraModi](http://twitter.com/search?q=%23NarendraModi) | N/A |
-| 2 | [#D56TitleReveal](http://twitter.com/search?q=%23D56TitleReveal) | N/A |
+| 1 | [#D56TitleReveal](http://twitter.com/search?q=%23D56TitleReveal) | N/A |
+| 2 | [#NarendraModi](http://twitter.com/search?q=%23NarendraModi) | N/A |
 | 3 | [#D56UncoversOnFeb16](http://twitter.com/search?q=%23D56UncoversOnFeb16) | N/A |
-| 4 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
-| 5 | [#WomensIPL](http://twitter.com/search?q=%23WomensIPL) | N/A |
-| 6 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 7 | [Cheers For Real](http://twitter.com/search?q=Cheers+For+Real) | N/A |
-| 8 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 9 | [Welcome to RCB](http://twitter.com/search?q=Welcome+to+RCB) | N/A |
-| 10 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 11 | [Sanu Ek Pal Chain](http://twitter.com/search?q=Sanu+Ek+Pal+Chain) | N/A |
-| 12 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
-| 13 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
-| 14 | [TERE ISHQ MEIN GHAYAL PREMIERE](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+PREMIERE) | N/A |
-| 15 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
-| 16 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 17 | [UNSOLD](http://twitter.com/search?q=UNSOLD) | N/A |
-| 18 | [A. AMOLED](http://twitter.com/search?q=A.+AMOLED) | N/A |
-| 19 | [Shikha Pandey](http://twitter.com/search?q=Shikha+Pandey) | N/A |
-| 20 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 21 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
-| 22 | [tahlia mcgrath](http://twitter.com/search?q=tahlia+mcgrath) | N/A |
-| 23 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
-| 24 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
-| 25 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
-| 26 | [Renuka Singh](http://twitter.com/search?q=Renuka+Singh) | N/A |
-| 27 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
-| 28 | [Ashleigh Gardner](http://twitter.com/search?q=Ashleigh+Gardner) | N/A |
-| 29 | [Royal Challengers Bangalore](http://twitter.com/search?q=Royal+Challengers+Bangalore) | N/A |
-| 30 | [Pooja Vastrakar](http://twitter.com/search?q=Pooja+Vastrakar) | N/A |
-| 31 | [WE LOVE SHIV FOREVER](http://twitter.com/search?q=WE+LOVE+SHIV+FOREVER) | N/A |
-| 32 | [Shabnim Ismail](http://twitter.com/search?q=Shabnim+Ismail) | N/A |
-| 33 | [Harleen Deol](http://twitter.com/search?q=Harleen+Deol) | N/A |
-| 34 | [Apna Bana Le Piya](http://twitter.com/search?q=Apna+Bana+Le+Piya) | N/A |
-| 35 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
-| 36 | [B. 6.67](http://twitter.com/search?q=B.+6.67) | N/A |
-| 37 | [Steal](http://twitter.com/search?q=Steal) | N/A |
-| 38 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 39 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 40 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 41 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 42 | [Shreyas](http://twitter.com/search?q=Shreyas) | N/A |
-| 43 | [#MobiKwikXtra](http://twitter.com/search?q=%23MobiKwikXtra) | N/A |
-| 44 | [#DearIshqOnHotstar](http://twitter.com/search?q=%23DearIshqOnHotstar) | N/A |
+| 4 | [#VarunGandhiBestSeller](http://twitter.com/search?q=%23VarunGandhiBestSeller) | N/A |
+| 5 | [#MobiKwikXtra](http://twitter.com/search?q=%23MobiKwikXtra) | N/A |
+| 6 | [Cheers For Real](http://twitter.com/search?q=Cheers+For+Real) | N/A |
+| 7 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 8 | [Sanu Ek Pal Chain](http://twitter.com/search?q=Sanu+Ek+Pal+Chain) | N/A |
+| 9 | [TERE ISHQ MEIN GHAYAL PREMIERE](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+PREMIERE) | N/A |
+| 10 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 11 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 12 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 13 | [PRIYANKA WON FOR LIFE](http://twitter.com/search?q=PRIYANKA+WON+FOR+LIFE) | N/A |
+| 14 | [Welcome to RCB](http://twitter.com/search?q=Welcome+to+RCB) | N/A |
+| 15 | [A. AMOLED](http://twitter.com/search?q=A.+AMOLED) | N/A |
+| 16 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 17 | [Healy](http://twitter.com/search?q=Healy) | N/A |
+| 18 | [Shikha Pandey](http://twitter.com/search?q=Shikha+Pandey) | N/A |
+| 19 | [UNSOLD](http://twitter.com/search?q=UNSOLD) | N/A |
+| 20 | [Devine](http://twitter.com/search?q=Devine) | N/A |
+| 21 | [Tahlia McGrath](http://twitter.com/search?q=Tahlia+McGrath) | N/A |
+| 22 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 23 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 24 | [Shabnim Ismail](http://twitter.com/search?q=Shabnim+Ismail) | N/A |
+| 25 | [WE LOVE SHIV FOREVER](http://twitter.com/search?q=WE+LOVE+SHIV+FOREVER) | N/A |
+| 26 | [Harleen Deol](http://twitter.com/search?q=Harleen+Deol) | N/A |
+| 27 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 28 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
+| 29 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
+| 31 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
+| 32 | [B. 6.67](http://twitter.com/search?q=B.+6.67) | N/A |
+| 33 | [Pooja Vastrakar](http://twitter.com/search?q=Pooja+Vastrakar) | N/A |
+| 34 | [Steal](http://twitter.com/search?q=Steal) | N/A |
+| 35 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 36 | [Apna Bana Le Piya](http://twitter.com/search?q=Apna+Bana+Le+Piya) | N/A |
+| 37 | [Agartala](http://twitter.com/search?q=Agartala) | N/A |
+| 38 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 39 | [Shreyas](http://twitter.com/search?q=Shreyas) | N/A |
+| 40 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 41 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 42 | [#WomensIPL](http://twitter.com/search?q=%23WomensIPL) | N/A |
+| 43 | [#DearIshqOnHotstar](http://twitter.com/search?q=%23DearIshqOnHotstar) | N/A |
+| 44 | [#LuxCozi](http://twitter.com/search?q=%23LuxCozi) | N/A |
 | 45 | [#SmritiMandhana](http://twitter.com/search?q=%23SmritiMandhana) | N/A |
 | 46 | [#PhulraniTeaser](http://twitter.com/search?q=%23PhulraniTeaser) | N/A |
-| 47 | [#DateAWrap](http://twitter.com/search?q=%23DateAWrap) | N/A |
-| 48 | [#Prabhakaran](http://twitter.com/search?q=%23Prabhakaran) | N/A |
-| 49 | [#WinPOCOX5Pro5G](http://twitter.com/search?q=%23WinPOCOX5Pro5G) | N/A |
-| 50 | [#stufflistingsxPOCOX5Pro](http://twitter.com/search?q=%23stufflistingsxPOCOX5Pro) | N/A |
+| 47 | [#Prabhakaran](http://twitter.com/search?q=%23Prabhakaran) | N/A |
+| 48 | [#DrugFreeIndia](http://twitter.com/search?q=%23DrugFreeIndia) | N/A |
+| 49 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 50 | [#TripuraiAbarBJPSarkar](http://twitter.com/search?q=%23TripuraiAbarBJPSarkar) | N/A |
 
 
 

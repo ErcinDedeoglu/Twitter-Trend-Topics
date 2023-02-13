@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-13 12:19:01 UTC`
+📆 Last Updated: `2023-02-13 13:21:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 2 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 3 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 6 | [#Wordle604](http://twitter.com/search?q=%23Wordle604) | N/A |
-| 7 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 8 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 9 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 10 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
-| 11 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 12 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
-| 13 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 14 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 15 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 16 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 17 | [#rigged](http://twitter.com/search?q=%23rigged) | N/A |
-| 18 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
-| 19 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 20 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 21 | [Cry Eagles Cry](http://twitter.com/search?q=Cry+Eagles+Cry) | N/A |
-| 22 | [Super Bowls](http://twitter.com/search?q=Super+Bowls) | N/A |
-| 23 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 24 | [Anthem](http://twitter.com/search?q=Anthem) | N/A |
+| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 3 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 6 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 8 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 9 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 10 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 11 | [#Wordle604](http://twitter.com/search?q=%23Wordle604) | N/A |
+| 12 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 13 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 14 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 15 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
+| 16 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 17 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 18 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
+| 19 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 20 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
+| 21 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 22 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
+| 23 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 24 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
 | 25 | [The DB](http://twitter.com/search?q=The+DB) | N/A |
-| 26 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
-| 27 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 28 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 29 | [hail mary](http://twitter.com/search?q=hail+mary) | N/A |
-| 30 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 31 | [Pat Mahomes](http://twitter.com/search?q=Pat+Mahomes) | N/A |
-| 32 | [Congrats to the Chiefs](http://twitter.com/search?q=Congrats+to+the+Chiefs) | N/A |
-| 33 | [Terry Bradshaw](http://twitter.com/search?q=Terry+Bradshaw) | N/A |
-| 34 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 35 | [Uncatchable](http://twitter.com/search?q=Uncatchable) | N/A |
-| 36 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
-| 37 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 38 | [Flashpoint](http://twitter.com/search?q=Flashpoint) | N/A |
-| 39 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 40 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 41 | [Flag](http://twitter.com/search?q=Flag) | N/A |
-| 42 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 43 | [Tyreek](http://twitter.com/search?q=Tyreek) | Tyreek is a unisex name of African-American origin. It is derived from the name Tariq, which means “one who knocks at the door” in Arabic. |
-| 44 | [MLS Cup](http://twitter.com/search?q=MLS+Cup) | N/A |
-| 45 | [AFC Championship](http://twitter.com/search?q=AFC+Championship) | AFC Championship is the championship game of the American Football Conference (AFC) in the National Football League (NFL). It is played between the winners of the two divisions of the AFC, and determines which team will represent the conference in the Super Bowl. The winner of the AFC Championship receives the Lamar Hunt Trophy. |
-| 46 | [Travolta](http://twitter.com/search?q=Travolta) | N/A |
-| 47 | [Ruined](http://twitter.com/search?q=Ruined) | N/A |
-| 48 | [Script](http://twitter.com/search?q=Script) | N/A |
-| 49 | [AFC West](http://twitter.com/search?q=AFC+West) | N/A |
-| 50 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
+| 26 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
+| 27 | [Flashpoint](http://twitter.com/search?q=Flashpoint) | N/A |
+| 28 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
+| 29 | [Cry Eagles Cry](http://twitter.com/search?q=Cry+Eagles+Cry) | N/A |
+| 30 | [Kurt Warner](http://twitter.com/search?q=Kurt+Warner) | N/A |
+| 31 | [Uncatchable](http://twitter.com/search?q=Uncatchable) | N/A |
+| 32 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 33 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 34 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 35 | [Congrats to the Chiefs](http://twitter.com/search?q=Congrats+to+the+Chiefs) | N/A |
+| 36 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 37 | [Bradshaw](http://twitter.com/search?q=Bradshaw) | N/A |
+| 38 | [The TV](http://twitter.com/search?q=The+TV) | N/A |
+| 39 | [The Star Spangled Banner](http://twitter.com/search?q=The+Star+Spangled+Banner) | N/A |
+| 40 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 41 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
+| 42 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
+| 43 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 44 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 45 | [MLS Cup](http://twitter.com/search?q=MLS+Cup) | N/A |
+| 46 | [Flag](http://twitter.com/search?q=Flag) | N/A |
+| 47 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
+| 48 | [Tyreek](http://twitter.com/search?q=Tyreek) | Tyreek is a unisex name of African-American origin. It is derived from the name Tariq, which means “one who knocks at the door” in Arabic. |
+| 49 | [afc championship](http://twitter.com/search?q=afc+championship) | N/A |
+| 50 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
 
 
 

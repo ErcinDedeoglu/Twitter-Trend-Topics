@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-13 12:18:13 UTC`
+📆 Last Updated: `2023-02-13 13:20:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 1 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 3 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 4 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 4 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 5 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
 | 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 7 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 8 | [John Brooks](http://twitter.com/search?q=John+Brooks) | N/A |
-| 9 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 10 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 7 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 8 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 9 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
+| 10 | [Dover](http://twitter.com/search?q=Dover) | N/A |
 | 11 | [Allaho](http://twitter.com/search?q=Allaho) | N/A |
-| 12 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 13 | [Eoin Morgan](http://twitter.com/search?q=Eoin+Morgan) | N/A |
-| 14 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 15 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 16 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 17 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
-| 18 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
-| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 20 | [Trugoy the Dove](http://twitter.com/search?q=Trugoy+the+Dove) | N/A |
-| 21 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 22 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 23 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
-| 24 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 25 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
-| 26 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 27 | [English Channel](http://twitter.com/search?q=English+Channel) | N/A |
-| 28 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
-| 29 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 12 | [300k 'Sunak'](http://twitter.com/search?q=300k+%27Sunak%27) | N/A |
+| 13 | [John Brooks](http://twitter.com/search?q=John+Brooks) | N/A |
+| 14 | [Eoin Morgan](http://twitter.com/search?q=Eoin+Morgan) | N/A |
+| 15 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 16 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 17 | [Akshata Murty](http://twitter.com/search?q=Akshata+Murty) | N/A |
+| 18 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 19 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 21 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
+| 22 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 23 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 25 | [English Channel](http://twitter.com/search?q=English+Channel) | N/A |
+| 26 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 27 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 28 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 29 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
 | 30 | [North America](http://twitter.com/search?q=North+America) | N/A |
-| 31 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 32 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 33 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 34 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 31 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
+| 32 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 33 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 34 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 35 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
-| 36 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 37 | [#HeartUnions](http://twitter.com/search?q=%23HeartUnions) | N/A |
-| 38 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 39 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 40 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
-| 41 | [#SwanGalentinesGiveaway](http://twitter.com/search?q=%23SwanGalentinesGiveaway) | N/A |
-| 42 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 43 | [#ukpunday](http://twitter.com/search?q=%23ukpunday) | N/A |
+| 36 | [#HeartUnions](http://twitter.com/search?q=%23HeartUnions) | N/A |
+| 37 | [#PalentinesDay](http://twitter.com/search?q=%23PalentinesDay) | N/A |
+| 38 | [#ukpunday](http://twitter.com/search?q=%23ukpunday) | N/A |
+| 39 | [#SwanGalentinesGiveaway](http://twitter.com/search?q=%23SwanGalentinesGiveaway) | N/A |
+| 40 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
+| 41 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 42 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
+| 43 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
 | 44 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 45 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 46 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 47 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 48 | [#RIPDave](http://twitter.com/search?q=%23RIPDave) | N/A |
-| 49 | [#ASongOrMovieForHangovers](http://twitter.com/search?q=%23ASongOrMovieForHangovers) | N/A |
+| 45 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 46 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 47 | [#translivesmatter](http://twitter.com/search?q=%23translivesmatter) | N/A |
+| 48 | [#ASongOrMovieForHangovers](http://twitter.com/search?q=%23ASongOrMovieForHangovers) | N/A |
+| 49 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
 
 
 

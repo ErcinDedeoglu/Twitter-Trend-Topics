@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-13 12:18:42 UTC`
+📆 Last Updated: `2023-02-13 13:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
-| 3 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
-| 4 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 5 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
-| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 7 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
-| 8 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 9 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
-| 10 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 11 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 12 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 13 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 14 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
-| 15 | [JANEDELEON IN VIGAN](http://twitter.com/search?q=JANEDELEON+IN+VIGAN) | N/A |
-| 16 | [Angelique Manto](http://twitter.com/search?q=Angelique+Manto) | N/A |
-| 17 | [vinci](http://twitter.com/search?q=vinci) | N/A |
-| 18 | [joshcullen blackout era](http://twitter.com/search?q=joshcullen+blackout+era) | N/A |
-| 19 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 20 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
-| 21 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 22 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 23 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 24 | [Jeromy](http://twitter.com/search?q=Jeromy) | N/A |
-| 25 | [reyster the only one](http://twitter.com/search?q=reyster+the+only+one) | N/A |
-| 26 | [Drei](http://twitter.com/search?q=Drei) | N/A |
-| 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 28 | [PIEflex SUPERSEian AT MOA](http://twitter.com/search?q=PIEflex+SUPERSEian+AT+MOA) | N/A |
-| 29 | [kim kibum](http://twitter.com/search?q=kim+kibum) | N/A |
-| 30 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 31 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 32 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 33 | [Solar](http://twitter.com/search?q=Solar) | N/A |
-| 34 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
-| 35 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
-| 36 | [mentordarren for dmfinale](http://twitter.com/search?q=mentordarren+for+dmfinale) | N/A |
-| 37 | [pambansangginoo onkmjs](http://twitter.com/search?q=pambansangginoo+onkmjs) | N/A |
-| 38 | [jay-r](http://twitter.com/search?q=jay-r) | N/A |
-| 39 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 40 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 41 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
-| 42 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 43 | [Miss Samo](http://twitter.com/search?q=Miss+Samo) | N/A |
-| 44 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 45 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
-| 46 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 47 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 48 | [sooboonit](http://twitter.com/search?q=sooboonit) | N/A |
-| 49 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
+| 1 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
+| 2 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
+| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 4 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
+| 5 | [#dreammakerthedreamfinale](http://twitter.com/search?q=%23dreammakerthedreamfinale) | N/A |
+| 6 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
+| 7 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
+| 8 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
+| 9 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 10 | [bgyo ace the dmstage](http://twitter.com/search?q=bgyo+ace+the+dmstage) | N/A |
+| 11 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 12 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 13 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 14 | [Elias](http://twitter.com/search?q=Elias) | N/A |
+| 15 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 16 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
+| 17 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 18 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 19 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 20 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 21 | [Angelique Manto](http://twitter.com/search?q=Angelique+Manto) | N/A |
+| 22 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
+| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 24 | [vinci](http://twitter.com/search?q=vinci) | N/A |
+| 25 | [joshcullen blackout era](http://twitter.com/search?q=joshcullen+blackout+era) | N/A |
+| 26 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
+| 27 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 28 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
+| 29 | [reyster the only one](http://twitter.com/search?q=reyster+the+only+one) | N/A |
+| 30 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
+| 31 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 32 | [JANEDELEON IN VIGAN](http://twitter.com/search?q=JANEDELEON+IN+VIGAN) | N/A |
+| 33 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 34 | [unleash the beast jeromy](http://twitter.com/search?q=unleash+the+beast+jeromy) | N/A |
+| 35 | [Solar](http://twitter.com/search?q=Solar) | N/A |
+| 36 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 37 | [Drei](http://twitter.com/search?q=Drei) | N/A |
+| 38 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 39 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 40 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
+| 41 | [PIEflex SUPERSEian AT MOA](http://twitter.com/search?q=PIEflex+SUPERSEian+AT+MOA) | N/A |
+| 42 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 43 | [Primetime King](http://twitter.com/search?q=Primetime+King) | N/A |
+| 44 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 45 | [LOINIE PMPC AWARDEE](http://twitter.com/search?q=LOINIE+PMPC+AWARDEE) | N/A |
+| 46 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 47 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 48 | [wheein](http://twitter.com/search?q=wheein) | N/A |
+| 49 | [Miss Samo](http://twitter.com/search?q=Miss+Samo) | N/A |
 
 
 
