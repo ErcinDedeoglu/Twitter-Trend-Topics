@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-02-13 16:16:53 UTC`
+📆 Last Updated: `2023-02-13 17:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,46 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 2 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 3 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 4 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 5 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 6 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
-| 7 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 8 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
-| 9 | [#DLRescue](http://twitter.com/search?q=%23DLRescue) | N/A |
+| 1 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
+| 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 3 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 4 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 5 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
+| 6 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 7 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
+| 8 | [#JonaxxACTYAKab47](http://twitter.com/search?q=%23JonaxxACTYAKab47) | N/A |
+| 9 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
 | 10 | [CRUSHING ON SUNBAE JINHWAN](http://twitter.com/search?q=CRUSHING+ON+SUNBAE+JINHWAN) | N/A |
-| 11 | [MY BOY](http://twitter.com/search?q=MY+BOY) | N/A |
+| 11 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
 | 12 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 13 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
-| 14 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
-| 15 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
-| 16 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 17 | [Angelique Manto](http://twitter.com/search?q=Angelique+Manto) | N/A |
-| 18 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 19 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 20 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 21 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 22 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
-| 23 | [mikki](http://twitter.com/search?q=mikki) | N/A |
-| 24 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 25 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 26 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 27 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
-| 28 | [#JinhwanInHonestlyMV](http://twitter.com/search?q=%23JinhwanInHonestlyMV) | N/A |
-| 29 | [#JonaxxACTYAKab47](http://twitter.com/search?q=%23JonaxxACTYAKab47) | N/A |
+| 13 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 14 | [MY BOY](http://twitter.com/search?q=MY+BOY) | N/A |
+| 15 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 16 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 17 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
+| 18 | [angelique manto](http://twitter.com/search?q=angelique+manto) | N/A |
+| 19 | [Elias](http://twitter.com/search?q=Elias) | N/A |
+| 20 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
+| 21 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 22 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 23 | [BLOOMS 2GETHER WALANG DULO](http://twitter.com/search?q=BLOOMS+2GETHER+WALANG+DULO) | N/A |
+| 24 | [Mikki](http://twitter.com/search?q=Mikki) | N/A |
+| 25 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 26 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 27 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 28 | [#DLRescue](http://twitter.com/search?q=%23DLRescue) | N/A |
+| 29 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
 | 30 | [#MCIPagyakapSaDilim](http://twitter.com/search?q=%23MCIPagyakapSaDilim) | N/A |
-| 31 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
+| 31 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
 | 32 | [#MystaRizzAsk](http://twitter.com/search?q=%23MystaRizzAsk) | N/A |
 | 33 | [#HeARTsDaySalubong](http://twitter.com/search?q=%23HeARTsDaySalubong) | N/A |
-| 34 | [#DreamMakerTop16onPIE](http://twitter.com/search?q=%23DreamMakerTop16onPIE) | N/A |
-| 35 | [#TellerXOffGun](http://twitter.com/search?q=%23TellerXOffGun) | N/A |
-| 36 | [#MCIExtend](http://twitter.com/search?q=%23MCIExtend) | N/A |
-| 37 | [#LuvIsJoyfulChicken](http://twitter.com/search?q=%23LuvIsJoyfulChicken) | N/A |
-| 38 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 39 | [#AprilBloomingAt29](http://twitter.com/search?q=%23AprilBloomingAt29) | N/A |
-| 40 | [#Blooms2ndYearWithBINI](http://twitter.com/search?q=%23Blooms2ndYearWithBINI) | N/A |
-| 41 | [#KEY_Killer](http://twitter.com/search?q=%23KEY_Killer) | N/A |
-| 42 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
+| 34 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
+| 35 | [#LuvIsJoyfulChicken](http://twitter.com/search?q=%23LuvIsJoyfulChicken) | N/A |
+| 36 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 37 | [#Blooms2ndYearWithBINI](http://twitter.com/search?q=%23Blooms2ndYearWithBINI) | N/A |
+| 38 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
+| 39 | [#KEY_Killer](http://twitter.com/search?q=%23KEY_Killer) | N/A |
+| 40 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
 
 
 

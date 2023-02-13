@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-13 16:17:11 UTC`
+📆 Last Updated: `2023-02-13 17:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 6 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 8 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 9 | [#galentinesday](http://twitter.com/search?q=%23galentinesday) | N/A |
-| 10 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 11 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 12 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 13 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 14 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 15 | [Dewayne Dedmon](http://twitter.com/search?q=Dewayne+Dedmon) | N/A |
-| 16 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
-| 17 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 18 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
-| 19 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 20 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 21 | [Super Bowl Monday](http://twitter.com/search?q=Super+Bowl+Monday) | N/A |
-| 22 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
-| 23 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 24 | [Canóvanas](http://twitter.com/search?q=Can%c3%b3vanas) | N/A |
-| 25 | [Today is Monday](http://twitter.com/search?q=Today+is+Monday) | N/A |
-| 26 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
-| 27 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 28 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
-| 29 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 30 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
-| 31 | [Game Week](http://twitter.com/search?q=Game+Week) | N/A |
+| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 3 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 4 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 5 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 8 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 9 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 11 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 12 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 13 | [Ted Lerner](http://twitter.com/search?q=Ted+Lerner) | N/A |
+| 14 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 15 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 16 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 17 | [Todd Downing](http://twitter.com/search?q=Todd+Downing) | Todd Downing is a British-born American football coach. He is currently the offensive coordinator for the Las Vegas Raiders of the National Football League (NFL). The term "Todd Downing" is used to refer to his role as an NFL coach. |
+| 18 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 19 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 20 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
+| 21 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
+| 22 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 23 | [Christian Super Bowl](http://twitter.com/search?q=Christian+Super+Bowl) | N/A |
+| 24 | [Bay Ridge](http://twitter.com/search?q=Bay+Ridge) | N/A |
+| 25 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
+| 26 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 27 | [Peter Gabriel](http://twitter.com/search?q=Peter+Gabriel) | N/A |
+| 28 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 29 | [Dewayne Dedmon](http://twitter.com/search?q=Dewayne+Dedmon) | N/A |
+| 30 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 31 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
 | 32 | [Star of David](http://twitter.com/search?q=Star+of+David) | N/A |
-| 33 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
-| 34 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
-| 35 | [Peter Gabriel](http://twitter.com/search?q=Peter+Gabriel) | N/A |
-| 36 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 37 | [Quez](http://twitter.com/search?q=Quez) | Quez is a slang term used to refer to money. It is derived from the Spanish word for money, "cuenta". In English, it can be used to mean cash or funds. |
-| 38 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 39 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 40 | [Monday the 13th](http://twitter.com/search?q=Monday+the+13th) | N/A |
-| 41 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
-| 42 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 43 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 44 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 45 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 46 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
-| 47 | [The DB](http://twitter.com/search?q=The+DB) | N/A |
-| 48 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
-| 49 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
-| 50 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
+| 33 | [Fred Astaire](http://twitter.com/search?q=Fred+Astaire) | N/A |
+| 34 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 35 | [Over the Top](http://twitter.com/search?q=Over+the+Top) | N/A |
+| 36 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
+| 37 | [My Monday](http://twitter.com/search?q=My+Monday) | N/A |
+| 38 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 39 | [Today is Monday](http://twitter.com/search?q=Today+is+Monday) | N/A |
+| 40 | [Quez](http://twitter.com/search?q=Quez) | Quez is a slang term used to refer to money. It is derived from the Spanish word for money, "cuenta". In English, it can be used to mean cash or funds. |
+| 41 | [Game Week](http://twitter.com/search?q=Game+Week) | N/A |
+| 42 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
+| 43 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
+| 44 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
+| 45 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
+| 46 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
+| 47 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
+| 48 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 49 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
 
 
 
