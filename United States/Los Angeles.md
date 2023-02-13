@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-13 00:29:50 UTC`
+📆 Last Updated: `2023-02-13 01:45:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 2 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 4 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 5 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 6 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 7 | [Adam Driver](http://twitter.com/search?q=Adam+Driver) | N/A |
-| 8 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 9 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 10 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 11 | [RIP Dave](http://twitter.com/search?q=RIP+Dave) | N/A |
-| 12 | [Plug 2](http://twitter.com/search?q=Plug+2) | N/A |
-| 13 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 14 | [Gronk](http://twitter.com/search?q=Gronk) | Gronk is a slang term used to describe someone who is strong, tough, and energetic. It can also be used to describe someone who is outgoing and fun-loving. |
-| 15 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 16 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 17 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 18 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 19 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 1 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 2 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 3 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 4 | [Adam Driver](http://twitter.com/search?q=Adam+Driver) | N/A |
+| 5 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 6 | [Dunkin](http://twitter.com/search?q=Dunkin) | N/A |
+| 7 | [#GuardiansOfTheGalaxyVol3](http://twitter.com/search?q=%23GuardiansOfTheGalaxyVol3) | N/A |
+| 8 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 9 | [#DoritosTriangleScheme](http://twitter.com/search?q=%23DoritosTriangleScheme) | N/A |
+| 10 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 11 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 12 | [We Found Love](http://twitter.com/search?q=We+Found+Love) | N/A |
+| 13 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
+| 14 | [Pon de Replay](http://twitter.com/search?q=Pon+de+Replay) | N/A |
+| 15 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 16 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
+| 17 | [DJ Khaled](http://twitter.com/search?q=DJ+Khaled) | DJ Khaled is a hip-hop artist, record producer, radio personality, and entrepreneur. His name is a combination of his first name, Khaled, and his stage name, DJ. The name is derived from the Arabic word for "eternal" or "immortal". He is known for his catchphrase "We the Best" and for his use of social media to promote his music. |
+| 18 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 20 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 21 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 23 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 24 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 26 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 27 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
-| 28 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 29 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 30 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
-| 31 | [Sheryl Lee Ralph](http://twitter.com/search?q=Sheryl+Lee+Ralph) | N/A |
-| 32 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 33 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 34 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 35 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 36 | [Bradley Cooper](http://twitter.com/search?q=Bradley+Cooper) | N/A |
-| 37 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 38 | [Alicia Silverstone](http://twitter.com/search?q=Alicia+Silverstone) | N/A |
-| 39 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
-| 40 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 41 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
-| 42 | [America the Beautiful](http://twitter.com/search?q=America+the+Beautiful) | N/A |
-| 43 | [Butker](http://twitter.com/search?q=Butker) | Butker is a German word meaning "butcher". It is used to refer to someone who works in the meat industry, either as a butcher or a meat cutter. |
-| 44 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 45 | [DOINK](http://twitter.com/search?q=DOINK) | N/A |
-| 46 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 47 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 48 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 49 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 50 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 21 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 22 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 23 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 24 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 25 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 26 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 27 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 28 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 29 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 30 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 31 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 32 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 33 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 34 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
+| 35 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 36 | [Blue Moon](http://twitter.com/search?q=Blue+Moon) | N/A |
+| 37 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 38 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 39 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 40 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 41 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
+| 42 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 43 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 44 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | Jack Harlow is the stage name of American rapper and singer Jack Harlow. His music is a mix of hip-hop, pop, and R&B. He is best known for his hit single "Whats Poppin" which peaked at number two on the Billboard Hot 100 chart in 2020. |
+| 45 | [Farmer's Dog](http://twitter.com/search?q=Farmer%27s+Dog) | N/A |
+| 46 | [Chad Henne](http://twitter.com/search?q=Chad+Henne) | Chad Henne is an American football quarterback who currently plays for the Kansas City Chiefs of the National Football League (NFL). He was drafted by the Miami Dolphins in the second round of the 2008 NFL Draft. The name Chad Henne is derived from his given name, Charles Henry Henne. |
+| 47 | [Run This Town](http://twitter.com/search?q=Run+This+Town) | N/A |
+| 48 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 49 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
+| 50 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
 
 
 

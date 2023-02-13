@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-02-13 00:29:44 UTC`
+📆 Last Updated: `2023-02-13 01:45:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,30 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCStan](http://twitter.com/search?q=%23MCStan) | N/A |
-| 2 | [#BiggBoss16](http://twitter.com/search?q=%23BiggBoss16) | N/A |
-| 3 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 4 | [#PriyankaChaharChaudhary](http://twitter.com/search?q=%23PriyankaChaharChaudhary) | N/A |
-| 5 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 6 | [KHUP CHAAN SHIV](http://twitter.com/search?q=KHUP+CHAAN+SHIV) | N/A |
-| 7 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 8 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 9 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
-| 10 | [बिग बॉस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%97+%e0%a4%ac%e0%a5%89%e0%a4%b8) | N/A |
-| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 12 | [#INDvsPAK](http://twitter.com/search?q=%23INDvsPAK) | N/A |
-| 13 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 14 | [#NaiyoLagda](http://twitter.com/search?q=%23NaiyoLagda) | N/A |
-| 15 | [#T20WorldCup2023](http://twitter.com/search?q=%23T20WorldCup2023) | N/A |
-| 16 | [#HaqSeMandli](http://twitter.com/search?q=%23HaqSeMandli) | N/A |
-| 17 | [#PriyAnkit](http://twitter.com/search?q=%23PriyAnkit) | N/A |
-| 18 | [#Mandali](http://twitter.com/search?q=%23Mandali) | N/A |
-| 19 | [#SidKiaraReception](http://twitter.com/search?q=%23SidKiaraReception) | N/A |
-| 20 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 21 | [#WomensT20WorldCup](http://twitter.com/search?q=%23WomensT20WorldCup) | N/A |
-| 22 | [#PratikSehajpal](http://twitter.com/search?q=%23PratikSehajpal) | N/A |
-| 23 | [#ArchanaGautam𓃵](http://twitter.com/search?q=%23ArchanaGautam%f0%93%83%b5) | N/A |
-| 24 | [#AbduRozik](http://twitter.com/search?q=%23AbduRozik) | N/A |
+| 1 | [#INDvsPAK](http://twitter.com/search?q=%23INDvsPAK) | N/A |
+| 2 | [#BiggBoss16Finale](http://twitter.com/search?q=%23BiggBoss16Finale) | N/A |
+| 3 | [#MCStan](http://twitter.com/search?q=%23MCStan) | N/A |
+| 4 | [#MCStan](http://twitter.com/search?q=%23MCStan) | N/A |
+| 5 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 6 | [5 Days Left For Bodh Diwas](http://twitter.com/search?q=5+Days+Left+For+Bodh+Diwas) | N/A |
+| 7 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
+| 8 | [आर्य समाज](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 9 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
+| 10 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [स्वामी दयानंद सरस्वती](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 13 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
+| 14 | [10 pro cola edition](http://twitter.com/search?q=10+pro+cola+edition) | N/A |
+| 15 | [राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 16 | [veer tere ishq mein ghayal](http://twitter.com/search?q=veer+tere+ishq+mein+ghayal) | N/A |
+| 17 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 18 | [Jemimah](http://twitter.com/search?q=Jemimah) | N/A |
+| 19 | [महर्षि दयानंद सरस्वती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 20 | [Sushant Love For Fudge](http://twitter.com/search?q=Sushant+Love+For+Fudge) | N/A |
+| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 24 | [amit poonia](http://twitter.com/search?q=amit+poonia) | N/A |
+| 25 | [naagin6 1yr with tejasswi](http://twitter.com/search?q=naagin6+1yr+with+tejasswi) | N/A |
+| 26 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 28 | [जैन मुनि](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%a8%e0%a4%bf) | N/A |
+| 29 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 30 | [मुंबई एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%ac%e0%a4%88+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 32 | [Top 2](http://twitter.com/search?q=Top+2) | N/A |
+| 33 | [गुलाब चंद कटारिया](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ac+%e0%a4%9a%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a4%9f%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 34 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 35 | [sanyam ke prakash ki aur](http://twitter.com/search?q=sanyam+ke+prakash+ki+aur) | N/A |
+| 36 | [जया बच्चन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%be+%e0%a4%ac%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%a8) | N/A |
+| 37 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 38 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
+| 39 | [बिग बॉस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%97+%e0%a4%ac%e0%a5%89%e0%a4%b8) | N/A |
+| 40 | [जस्टिस अब्दुल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a4%bf%e0%a4%b8+%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%a6%e0%a5%81%e0%a4%b2) | N/A |
+| 41 | [चौधरी अजीत सिंह](http://twitter.com/search?q=%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%9c%e0%a5%80%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 42 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 43 | [HBD RASHAMI DESAI](http://twitter.com/search?q=HBD+RASHAMI+DESAI) | N/A |
+| 44 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 45 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 46 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 47 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 48 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 49 | [देव महादेव](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
 
 
 

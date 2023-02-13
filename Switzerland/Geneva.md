@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-13 00:29:27 UTC`
+📆 Last Updated: `2023-02-13 01:45:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,24 +16,24 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [#WahlenBL](http://twitter.com/search?q=%23WahlenBL) | N/A |
-| 3 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 4 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 3 | [#WahlenBL](http://twitter.com/search?q=%23WahlenBL) | N/A |
+| 4 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
 | 5 | [#ranNFLsuechtig](http://twitter.com/search?q=%23ranNFLsuechtig) | N/A |
-| 6 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
+| 7 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
 | 8 | [Gemeinden](http://twitter.com/search?q=Gemeinden) | N/A |
 | 9 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
 | 10 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
 | 11 | [sandra sollberger](http://twitter.com/search?q=sandra+sollberger) | N/A |
-| 12 | [Servette FC](http://twitter.com/search?q=Servette+FC) | N/A |
+| 12 | [servette fc](http://twitter.com/search?q=servette+fc) | N/A |
 | 13 | [#WahlBL23](http://twitter.com/search?q=%23WahlBL23) | N/A |
 | 14 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
 | 15 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 16 | [Mario Fehr](http://twitter.com/search?q=Mario+Fehr) | N/A |
+| 16 | [mario fehr](http://twitter.com/search?q=mario+fehr) | N/A |
 | 17 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 18 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 19 | [Jourdan](http://twitter.com/search?q=Jourdan) | N/A |
+| 19 | [jourdan](http://twitter.com/search?q=jourdan) | N/A |
 | 20 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
 | 21 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
 | 22 | [baselbiet](http://twitter.com/search?q=baselbiet) | N/A |
@@ -48,9 +48,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 31 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 32 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
 | 33 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 34 | [Regierungsrat](http://twitter.com/search?q=Regierungsrat) | N/A |
+| 34 | [regierungsrat](http://twitter.com/search?q=regierungsrat) | N/A |
 | 35 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 36 | [Zürcher](http://twitter.com/search?q=Z%c3%bcrcher) | N/A |
+| 36 | [zürcher](http://twitter.com/search?q=z%c3%bcrcher) | N/A |
 | 37 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
 | 38 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 | 39 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
@@ -59,9 +59,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [Dope](http://twitter.com/search?q=Dope) | N/A |
 | 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 44 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 45 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 46 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 47 | [États-Unis](http://twitter.com/search?q=%c3%89tats-Unis) | N/A |
+| 45 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 46 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 47 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 
 
 

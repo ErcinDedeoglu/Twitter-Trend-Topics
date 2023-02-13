@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-13 00:29:16 UTC`
+📆 Last Updated: `2023-02-13 01:45:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
-| 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 5 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 6 | [#ovni](http://twitter.com/search?q=%23ovni) | N/A |
-| 7 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 8 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 9 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
-| 10 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 11 | [#CerroAbajoPorTVN](http://twitter.com/search?q=%23CerroAbajoPorTVN) | N/A |
-| 12 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 13 | [#UCvsCSLxTNTSports](http://twitter.com/search?q=%23UCvsCSLxTNTSports) | N/A |
-| 14 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 15 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 16 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 17 | [Parot](http://twitter.com/search?q=Parot) | N/A |
-| 18 | [Tito Fernández](http://twitter.com/search?q=Tito+Fern%c3%a1ndez) | N/A |
-| 19 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
-| 20 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 21 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 22 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 24 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 25 | [Gilabert](http://twitter.com/search?q=Gilabert) | N/A |
-| 26 | [Munder](http://twitter.com/search?q=Munder) | N/A |
-| 27 | [Waterman](http://twitter.com/search?q=Waterman) | N/A |
-| 28 | [Temucano](http://twitter.com/search?q=Temucano) | N/A |
+| 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 2 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 3 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 4 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 5 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
+| 6 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 7 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
+| 8 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 10 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 11 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 12 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 13 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
+| 14 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 15 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 16 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 17 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 18 | [Parot](http://twitter.com/search?q=Parot) | N/A |
+| 19 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 20 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 21 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 22 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 23 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 24 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 25 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 26 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 27 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 28 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
 | 29 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 30 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 31 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 32 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
-| 33 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 34 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
-| 35 | [Nehuen Paz](http://twitter.com/search?q=Nehuen+Paz) | N/A |
-| 36 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 37 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 38 | [Olmos](http://twitter.com/search?q=Olmos) | N/A |
-| 39 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 40 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 41 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 42 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 43 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 44 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 45 | [Fuentealba](http://twitter.com/search?q=Fuentealba) | N/A |
-| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 47 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 48 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
-| 49 | [Independencia de Chile](http://twitter.com/search?q=Independencia+de+Chile) | N/A |
+| 30 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
+| 31 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
+| 32 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 33 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 34 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 35 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
+| 36 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 37 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 38 | [#UCvsCSLxTNTSports](http://twitter.com/search?q=%23UCvsCSLxTNTSports) | N/A |
+| 39 | [#OVNIS](http://twitter.com/search?q=%23OVNIS) | N/A |
 
 
 

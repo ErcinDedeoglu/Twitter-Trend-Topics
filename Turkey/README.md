@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-13 00:30:02 UTC`
+📆 Last Updated: `2023-02-13 01:45:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,48 @@ This is top 50 for Turkey
 | 3 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
 | 4 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
 | 5 | [Bir UFO](http://twitter.com/search?q=Bir+UFO) | N/A |
-| 6 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 7 | [#YatırımFinansmanHesabınıKapat](http://twitter.com/search?q=%23Yat%c4%b1r%c4%b1mFinansmanHesab%c4%b1n%c4%b1Kapat) | N/A |
-| 8 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
-| 9 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
-| 10 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 11 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
+| 6 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
+| 7 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 8 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
+| 9 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 10 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 11 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 12 | [Huron Gölü](http://twitter.com/search?q=Huron+G%c3%b6l%c3%bc) | N/A |
-| 13 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 14 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
-| 15 | [UFO'lar](http://twitter.com/search?q=UFO%27lar) | N/A |
-| 16 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
-| 17 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 18 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
-| 19 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
+| 13 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 14 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
+| 15 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
+| 16 | [UFO'lar](http://twitter.com/search?q=UFO%27lar) | N/A |
+| 17 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
+| 18 | [Son 1](http://twitter.com/search?q=Son+1) | N/A |
+| 19 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
 | 20 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 21 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 22 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 23 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 24 | [Gelsinler](http://twitter.com/search?q=Gelsinler) | N/A |
-| 25 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
-| 26 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
-| 27 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
-| 28 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
-| 29 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 30 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 31 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
-| 32 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 33 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
-| 34 | [Vatansız](http://twitter.com/search?q=Vatans%c4%b1z) | N/A |
-| 35 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 36 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
-| 37 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
-| 38 | [Alman](http://twitter.com/search?q=Alman) | N/A |
-| 39 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
-| 40 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 41 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
-| 42 | [Kahraman](http://twitter.com/search?q=Kahraman) | N/A |
-| 43 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
-| 44 | [Soruşturma](http://twitter.com/search?q=Soru%c5%9fturma) | N/A |
-| 45 | [#UFOshotdown](http://twitter.com/search?q=%23UFOshotdown) | N/A |
-| 46 | [#AsrınFelaketi](http://twitter.com/search?q=%23Asr%c4%b1nFelaketi) | N/A |
-| 47 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 48 | [#amerika](http://twitter.com/search?q=%23amerika) | N/A |
-| 49 | [#DEPREMZEDELER](http://twitter.com/search?q=%23DEPREMZEDELER) | N/A |
-| 50 | [#OkullarAcıkKalsın](http://twitter.com/search?q=%23OkullarAc%c4%b1kKals%c4%b1n) | N/A |
+| 21 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
+| 22 | [Şeyma Hemşire](http://twitter.com/search?q=%c5%9eeyma+Hem%c5%9fire) | N/A |
+| 23 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 24 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 25 | [Gelsinler](http://twitter.com/search?q=Gelsinler) | N/A |
+| 26 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
+| 27 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 28 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
+| 29 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 30 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 31 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 32 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
+| 33 | [Vatansız](http://twitter.com/search?q=Vatans%c4%b1z) | N/A |
+| 34 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
+| 35 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
+| 36 | [#YatırımFinansmanHesabınıKapat](http://twitter.com/search?q=%23Yat%c4%b1r%c4%b1mFinansmanHesab%c4%b1n%c4%b1Kapat) | N/A |
+| 37 | [#UFOshotdown](http://twitter.com/search?q=%23UFOshotdown) | N/A |
+| 38 | [#AsrınFelaketi](http://twitter.com/search?q=%23Asr%c4%b1nFelaketi) | N/A |
+| 39 | [#amerika](http://twitter.com/search?q=%23amerika) | N/A |
+| 40 | [#DEPREMZEDELER](http://twitter.com/search?q=%23DEPREMZEDELER) | N/A |
+| 41 | [#OkullarAcıkKalsın](http://twitter.com/search?q=%23OkullarAc%c4%b1kKals%c4%b1n) | N/A |
+| 42 | [#meksika](http://twitter.com/search?q=%23meksika) | N/A |
+| 43 | [#KonutSeferberliği](http://twitter.com/search?q=%23KonutSeferberli%c4%9fi) | N/A |
+| 44 | [#kykçözümdeğil](http://twitter.com/search?q=%23kyk%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
+| 45 | [#ElazığAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9fAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 46 | [#ErdenTimur](http://twitter.com/search?q=%23ErdenTimur) | N/A |
+| 47 | [#YurtlarÇözümDeğil](http://twitter.com/search?q=%23Yurtlar%c3%87%c3%b6z%c3%bcmDe%c4%9fil) | N/A |
 
 
 

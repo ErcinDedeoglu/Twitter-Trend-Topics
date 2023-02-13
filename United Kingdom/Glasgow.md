@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-13 00:29:10 UTC`
+📆 Last Updated: `2023-02-13 01:44:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
+| 1 | [Ian McCall](http://twitter.com/search?q=Ian+McCall) | N/A |
 | 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 3 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
-| 4 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
-| 5 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 3 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
+| 4 | [Thistle](http://twitter.com/search?q=Thistle) | N/A |
+| 5 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
+| 6 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
+| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 9 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 10 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 11 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 13 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 14 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 15 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 16 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 17 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 18 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 19 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 20 | [Darren Fletcher](http://twitter.com/search?q=Darren+Fletcher) | N/A |
-| 21 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
-| 22 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 23 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
-| 24 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 25 | [#GuardiansOfTheGalaxyVol3](http://twitter.com/search?q=%23GuardiansOfTheGalaxyVol3) | N/A |
-| 26 | [#TheGold](http://twitter.com/search?q=%23TheGold) | N/A |
-| 27 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 28 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 11 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 12 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 13 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 14 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 15 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 16 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 17 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 18 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 19 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 20 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
+| 21 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 22 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 23 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 24 | [Darren Fletcher](http://twitter.com/search?q=Darren+Fletcher) | N/A |
+| 25 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 26 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 27 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
+| 28 | [Halle](http://twitter.com/search?q=Halle) | N/A |
 | 29 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 30 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 31 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 32 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 33 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 30 | [#GuardiansOfTheGalaxyVol3](http://twitter.com/search?q=%23GuardiansOfTheGalaxyVol3) | N/A |
+| 31 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 32 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
+| 33 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 34 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 36 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 37 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 38 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 39 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
-| 40 | [Plug 2](http://twitter.com/search?q=Plug+2) | N/A |
-| 41 | [Dami](http://twitter.com/search?q=Dami) | N/A |
-| 42 | [Plug Two](http://twitter.com/search?q=Plug+Two) | N/A |
-| 43 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 44 | [Kain](http://twitter.com/search?q=Kain) | N/A |
-| 45 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 46 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
-| 47 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 48 | [DJ Khaled](http://twitter.com/search?q=DJ+Khaled) | DJ Khaled is a hip-hop artist, record producer, radio personality, and entrepreneur. His name is a combination of his first name, Khaled, and his stage name, DJ. The name is derived from the Arabic word for "eternal" or "immortal". He is known for his catchphrase "We the Best" and for his use of social media to promote his music. |
-| 49 | [Monica Joan](http://twitter.com/search?q=Monica+Joan) | N/A |
-| 50 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 35 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 36 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 37 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 38 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 39 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 40 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 41 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
+| 42 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 43 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 44 | [Plug Two](http://twitter.com/search?q=Plug+Two) | N/A |
+| 45 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 46 | [Plug 2](http://twitter.com/search?q=Plug+2) | N/A |
+| 47 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 48 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 49 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 50 | [Kain](http://twitter.com/search?q=Kain) | N/A |
 
 
 
