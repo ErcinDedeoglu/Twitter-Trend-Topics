@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-13 13:21:27 UTC`
+📆 Last Updated: `2023-02-13 14:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 2 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
 | 3 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 6 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 7 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 8 | [#Wordle604](http://twitter.com/search?q=%23Wordle604) | N/A |
-| 9 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 10 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 11 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 12 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
-| 13 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 14 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 15 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
-| 16 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 17 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 5 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 6 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 7 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 8 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 9 | [#Wordle604](http://twitter.com/search?q=%23Wordle604) | N/A |
+| 10 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 11 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 13 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 14 | [Daily Quordle 385](http://twitter.com/search?q=Daily+Quordle+385) | N/A |
+| 15 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 16 | [Super Bowl Monday](http://twitter.com/search?q=Super+Bowl+Monday) | N/A |
+| 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 18 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 19 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
-| 20 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 21 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 22 | [The DB](http://twitter.com/search?q=The+DB) | N/A |
+| 19 | [Star of David](http://twitter.com/search?q=Star+of+David) | N/A |
+| 20 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 21 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 22 | [Bradbury](http://twitter.com/search?q=Bradbury) | N/A |
 | 23 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
-| 24 | [Flashpoint](http://twitter.com/search?q=Flashpoint) | N/A |
+| 24 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
 | 25 | [Hobby Lobby](http://twitter.com/search?q=Hobby+Lobby) | N/A |
-| 26 | [Cry Eagles Cry](http://twitter.com/search?q=Cry+Eagles+Cry) | N/A |
-| 27 | [Kurt Warner](http://twitter.com/search?q=Kurt+Warner) | N/A |
-| 28 | [Uncatchable](http://twitter.com/search?q=Uncatchable) | N/A |
-| 29 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 30 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 31 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 32 | [Congrats to the Chiefs](http://twitter.com/search?q=Congrats+to+the+Chiefs) | N/A |
-| 33 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 34 | [Bradshaw](http://twitter.com/search?q=Bradshaw) | N/A |
-| 35 | [The TV](http://twitter.com/search?q=The+TV) | N/A |
+| 26 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 27 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
+| 28 | [The DB](http://twitter.com/search?q=The+DB) | N/A |
+| 29 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 30 | [Cry Eagles Cry](http://twitter.com/search?q=Cry+Eagles+Cry) | N/A |
+| 31 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 32 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 33 | [NAACP](http://twitter.com/search?q=NAACP) | N/A |
+| 34 | [Flashpoint](http://twitter.com/search?q=Flashpoint) | N/A |
+| 35 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
 | 36 | [The Star Spangled Banner](http://twitter.com/search?q=The+Star+Spangled+Banner) | N/A |
-| 37 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 38 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
-| 39 | [Melvin Gordon](http://twitter.com/search?q=Melvin+Gordon) | N/A |
-| 40 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 41 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 42 | [mls cup](http://twitter.com/search?q=mls+cup) | N/A |
-| 43 | [Flag](http://twitter.com/search?q=Flag) | N/A |
-| 44 | [The Refs](http://twitter.com/search?q=The+Refs) | N/A |
-| 45 | [The Kansas City Chiefs](http://twitter.com/search?q=The+Kansas+City+Chiefs) | N/A |
-| 46 | [Tyreek](http://twitter.com/search?q=Tyreek) | Tyreek is a unisex name of African-American origin. It is derived from the name Tariq, which means “one who knocks at the door” in Arabic. |
-| 47 | [Congratulations to the Chiefs](http://twitter.com/search?q=Congratulations+to+the+Chiefs) | N/A |
-| 48 | [afc championship](http://twitter.com/search?q=afc+championship) | N/A |
-| 49 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 50 | [Congrats Chiefs](http://twitter.com/search?q=Congrats+Chiefs) | N/A |
+| 37 | [Bradshaw](http://twitter.com/search?q=Bradshaw) | N/A |
+| 38 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 39 | [Kurt Warner](http://twitter.com/search?q=Kurt+Warner) | N/A |
+| 40 | ["Uncatchable"](http://twitter.com/search?q=%22Uncatchable%22) | N/A |
+| 41 | [Congrats to the Chiefs](http://twitter.com/search?q=Congrats+to+the+Chiefs) | N/A |
+| 42 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 43 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 44 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
+| 45 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 46 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 47 | [The TV](http://twitter.com/search?q=The+TV) | N/A |
+| 48 | [Held](http://twitter.com/search?q=Held) | N/A |
+| 49 | [Man of Steel](http://twitter.com/search?q=Man+of+Steel) | N/A |
+| 50 | [MLS Cup](http://twitter.com/search?q=MLS+Cup) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-13 13:20:53 UTC`
+📆 Last Updated: `2023-02-13 14:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,47 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Maaßen](http://twitter.com/search?q=%23Maa%c3%9fen) | N/A |
 | 2 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
-| 3 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 4 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 5 | [#BerlinWahl23](http://twitter.com/search?q=%23BerlinWahl23) | N/A |
-| 6 | [Neuauszählung](http://twitter.com/search?q=Neuausz%c3%a4hlung) | N/A |
-| 7 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 8 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 9 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
-| 10 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
-| 11 | [Liberalismus](http://twitter.com/search?q=Liberalismus) | N/A |
-| 12 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 14 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 3 | [Neuauszählung](http://twitter.com/search?q=Neuausz%c3%a4hlung) | N/A |
+| 4 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 5 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 6 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 7 | [#BerlinWahl23](http://twitter.com/search?q=%23BerlinWahl23) | N/A |
+| 8 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 9 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 10 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
+| 11 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 12 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 13 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 14 | [Liberalismus](http://twitter.com/search?q=Liberalismus) | N/A |
 | 15 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 16 | [Liberalen](http://twitter.com/search?q=Liberalen) | N/A |
+| 16 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
 | 17 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 18 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 19 | [FDP-Wähler](http://twitter.com/search?q=FDP-W%c3%a4hler) | N/A |
-| 20 | [Lebenserfahrung](http://twitter.com/search?q=Lebenserfahrung) | N/A |
-| 21 | [Wählerwille](http://twitter.com/search?q=W%c3%a4hlerwille) | N/A |
-| 22 | [Klimaliste](http://twitter.com/search?q=Klimaliste) | N/A |
-| 23 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 24 | [Männlichkeit](http://twitter.com/search?q=M%c3%a4nnlichkeit) | N/A |
-| 25 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
-| 26 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 18 | [FDP-Wähler](http://twitter.com/search?q=FDP-W%c3%a4hler) | N/A |
+| 19 | [Wählerwille](http://twitter.com/search?q=W%c3%a4hlerwille) | N/A |
+| 20 | [Liberalen](http://twitter.com/search?q=Liberalen) | N/A |
+| 21 | [Lebenserfahrung](http://twitter.com/search?q=Lebenserfahrung) | N/A |
+| 22 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 23 | [Männlichkeit](http://twitter.com/search?q=M%c3%a4nnlichkeit) | N/A |
+| 24 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 25 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 26 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
 | 27 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 28 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 29 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 28 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
+| 29 | [Spektrum](http://twitter.com/search?q=Spektrum) | N/A |
 | 30 | [Wählern](http://twitter.com/search?q=W%c3%a4hlern) | N/A |
-| 31 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 32 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
-| 33 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 34 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 35 | [Bezirk](http://twitter.com/search?q=Bezirk) | N/A |
-| 36 | [Parlamenten](http://twitter.com/search?q=Parlamenten) | N/A |
-| 37 | [Spektrum](http://twitter.com/search?q=Spektrum) | N/A |
-| 38 | [Strack-Zimmermann](http://twitter.com/search?q=Strack-Zimmermann) | N/A |
-| 39 | [Bündnis](http://twitter.com/search?q=B%c3%bcndnis) | N/A |
-| 40 | [Frau Giffey](http://twitter.com/search?q=Frau+Giffey) | N/A |
-| 41 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
-| 42 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 43 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
-| 44 | [#Regierungsauftrag](http://twitter.com/search?q=%23Regierungsauftrag) | N/A |
-| 45 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 46 | [#Valentinstag](http://twitter.com/search?q=%23Valentinstag) | N/A |
-| 47 | [#Esken](http://twitter.com/search?q=%23Esken) | N/A |
-| 48 | [#FDPkannweg](http://twitter.com/search?q=%23FDPkannweg) | N/A |
+| 31 | [Bezirk](http://twitter.com/search?q=Bezirk) | N/A |
+| 32 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 33 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 34 | [strack-zimmermann](http://twitter.com/search?q=strack-zimmermann) | N/A |
+| 35 | [#montagslaecheln](http://twitter.com/search?q=%23montagslaecheln) | N/A |
+| 36 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
+| 37 | [#dd1302](http://twitter.com/search?q=%23dd1302) | N/A |
+| 38 | [#Regierungsauftrag](http://twitter.com/search?q=%23Regierungsauftrag) | N/A |
+| 39 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 40 | [#FDPrausausdenParlamenten](http://twitter.com/search?q=%23FDPrausausdenParlamenten) | N/A |
+| 41 | [#Jarasch](http://twitter.com/search?q=%23Jarasch) | N/A |
+| 42 | [#wegner](http://twitter.com/search?q=%23wegner) | N/A |
+| 43 | [#FDPkannweg](http://twitter.com/search?q=%23FDPkannweg) | N/A |
 
 
 

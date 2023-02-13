@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-13 13:21:00 UTC`
+📆 Last Updated: `2023-02-13 14:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Australia](</Australia>)
 | 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 15 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
 | 16 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
-| 17 | [Stolen Generations](http://twitter.com/search?q=Stolen+Generations) | N/A |
+| 17 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 18 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 19 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 20 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 22 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 23 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 24 | [Anne Aly](http://twitter.com/search?q=Anne+Aly) | N/A |
-| 25 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 26 | [Apology](http://twitter.com/search?q=Apology) | N/A |
-| 27 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 28 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 29 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 30 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 31 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 32 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 33 | [Ash Gardner](http://twitter.com/search?q=Ash+Gardner) | N/A |
-| 34 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 35 | [abbie](http://twitter.com/search?q=abbie) | N/A |
-| 36 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
-| 37 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 38 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 39 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 40 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 41 | [Closing the Gap](http://twitter.com/search?q=Closing+the+Gap) | N/A |
-| 42 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 43 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 44 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 45 | [Charlie Teo](http://twitter.com/search?q=Charlie+Teo) | N/A |
-| 46 | [Siposs](http://twitter.com/search?q=Siposs) | N/A |
-| 47 | [megan fox](http://twitter.com/search?q=megan+fox) | N/A |
-| 48 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 49 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 50 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 19 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 21 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 22 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 23 | [Stolen Generations](http://twitter.com/search?q=Stolen+Generations) | N/A |
+| 24 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 25 | [Apology](http://twitter.com/search?q=Apology) | N/A |
+| 26 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 27 | [bronte](http://twitter.com/search?q=bronte) | N/A |
+| 28 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 29 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 30 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 31 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 32 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 33 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 34 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
+| 35 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 36 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
+| 37 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 38 | [Closing the Gap](http://twitter.com/search?q=Closing+the+Gap) | N/A |
+| 39 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 40 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 41 | [Charlie Teo](http://twitter.com/search?q=Charlie+Teo) | N/A |
+| 42 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 43 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 44 | [Siposs](http://twitter.com/search?q=Siposs) | N/A |
+| 45 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 46 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 47 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 48 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 49 | [Ash Gardner](http://twitter.com/search?q=Ash+Gardner) | N/A |
+| 50 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
 
 
 

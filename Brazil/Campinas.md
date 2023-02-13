@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-13 13:20:49 UTC`
+📆 Last Updated: `2023-02-13 14:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 3 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 5 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 6 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 7 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 8 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 11 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 13 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 14 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 15 | [juliette no bloco uau chá](http://twitter.com/search?q=juliette+no+bloco+uau+ch%c3%a1) | N/A |
-| 16 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 17 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 19 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
-| 20 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 22 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 23 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 24 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 25 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 26 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 27 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
-| 28 | [DR FRED](http://twitter.com/search?q=DR+FRED) | N/A |
-| 29 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 30 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 31 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 32 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 33 | [#meucorreéotricolor](http://twitter.com/search?q=%23meucorre%c3%a9otricolor) | N/A |
-| 34 | [#themaskedsinger](http://twitter.com/search?q=%23themaskedsinger) | N/A |
-| 35 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 36 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 37 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
-| 38 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 40 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 41 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
-| 42 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 43 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
-| 44 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 45 | [BRAZIL IN THE BOX](http://twitter.com/search?q=BRAZIL+IN+THE+BOX) | N/A |
-| 46 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 47 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 48 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 49 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 50 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
+| 2 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 3 | [#ficaamanda](http://twitter.com/search?q=%23ficaamanda) | N/A |
+| 4 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 6 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 7 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
+| 8 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 9 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
+| 10 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 11 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 12 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
+| 13 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 14 | [#DiaDeCruzeiro](http://twitter.com/search?q=%23DiaDeCruzeiro) | N/A |
+| 15 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 16 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
+| 17 | [GRÁVIDA](http://twitter.com/search?q=GR%c3%81VIDA) | N/A |
+| 18 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
+| 19 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 20 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 21 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 22 | [#ForaPaula](http://twitter.com/search?q=%23ForaPaula) | N/A |
+| 23 | [#PNCF](http://twitter.com/search?q=%23PNCF) | N/A |
+| 24 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 25 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
+| 26 | [Cruzeiro Esporte Clube](http://twitter.com/search?q=Cruzeiro+Esporte+Clube) | N/A |
+| 27 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 28 | [André Lara Resende](http://twitter.com/search?q=Andr%c3%a9+Lara+Resende) | N/A |
+| 29 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 30 | [Patriotas](http://twitter.com/search?q=Patriotas) | N/A |
+| 31 | [Furdunço](http://twitter.com/search?q=Furdun%c3%a7o) | N/A |
+| 32 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 33 | [Baiana](http://twitter.com/search?q=Baiana) | N/A |
+| 34 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 35 | [Itamar Franco](http://twitter.com/search?q=Itamar+Franco) | N/A |
+| 36 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 37 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 38 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
+| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 40 | [O Carnaval](http://twitter.com/search?q=O+Carnaval) | N/A |
+| 41 | [Cadeado](http://twitter.com/search?q=Cadeado) | N/A |
+| 42 | [Collor](http://twitter.com/search?q=Collor) | N/A |
+| 43 | [Fernando Henrique](http://twitter.com/search?q=Fernando+Henrique) | N/A |
+| 44 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 45 | [João Goulart](http://twitter.com/search?q=Jo%c3%a3o+Goulart) | N/A |
+| 46 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 47 | [#SegundaDetremuraSDV](http://twitter.com/search?q=%23SegundaDetremuraSDV) | N/A |
+| 48 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 49 | [#ForaBrunoGaga](http://twitter.com/search?q=%23ForaBrunoGaga) | N/A |
+| 50 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
 
 
 

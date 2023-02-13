@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-13 13:21:31 UTC`
+📆 Last Updated: `2023-02-13 14:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,47 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 2 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
-| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 4 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 5 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
-| 6 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
-| 7 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 8 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
+| 1 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
+| 2 | [#maratonamentana](http://twitter.com/search?q=%23maratonamentana) | N/A |
+| 3 | [#Jankto](http://twitter.com/search?q=%23Jankto) | N/A |
+| 4 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
+| 5 | [#13febbraio](http://twitter.com/search?q=%2313febbraio) | N/A |
+| 6 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
 | 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 11 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 12 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 13 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 10 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
+| 11 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 12 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 13 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
 | 14 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
-| 15 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
+| 15 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 | 16 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 17 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
-| 18 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 19 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 20 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 21 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 22 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 23 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 24 | [Esteri](http://twitter.com/search?q=Esteri) | N/A |
-| 25 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 26 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 27 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 28 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 29 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 30 | [#giornatamondialedellaradio](http://twitter.com/search?q=%23giornatamondialedellaradio) | N/A |
-| 31 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 32 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 33 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
-| 34 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
-| 35 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
-| 36 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 37 | [#LaForzaDellAmore](http://twitter.com/search?q=%23LaForzaDellAmore) | N/A |
-| 38 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 17 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 18 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 19 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 20 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 21 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
+| 22 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 23 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
+| 24 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 25 | [Esteri](http://twitter.com/search?q=Esteri) | N/A |
+| 26 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 27 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 28 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 29 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
+| 30 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 31 | [#Bennacer](http://twitter.com/search?q=%23Bennacer) | N/A |
+| 32 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 33 | [#Lombardia](http://twitter.com/search?q=%23Lombardia) | N/A |
+| 34 | [#giornatamondialedellaradio](http://twitter.com/search?q=%23giornatamondialedellaradio) | N/A |
+| 35 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
+| 36 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 37 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
+| 38 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 39 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
+| 40 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
+| 41 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 
 
 
