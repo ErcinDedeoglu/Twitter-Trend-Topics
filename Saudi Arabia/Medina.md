@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-02-13 01:45:25 UTC`
+📆 Last Updated: `2023-02-13 02:41:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#البزنس68](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b368) | N/A |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [#فضفضه](http://twitter.com/search?q=%23%d9%81%d8%b6%d9%81%d8%b6%d9%87) | N/A |
-| 4 | [#حفل_تكريم_الهلال](http://twitter.com/search?q=%23%d8%ad%d9%81%d9%84_%d8%aa%d9%83%d8%b1%d9%8a%d9%85_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 5 | [#بعد_منتصف_الليل](http://twitter.com/search?q=%23%d8%a8%d8%b9%d8%af_%d9%85%d9%86%d8%aa%d8%b5%d9%81_%d8%a7%d9%84%d9%84%d9%8a%d9%84) | #بعد_منتصف_الليل is an Arabic phrase that translates to "after midnight" in English. It is used to refer to the time after midnight, usually in the early hours of the morning. |
-| 6 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 1 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 3 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 4 | [#يوسف_السالم](http://twitter.com/search?q=%23%d9%8a%d9%88%d8%b3%d9%81_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 5 | [#جوايز_عبدالمحسن_الراجحي](http://twitter.com/search?q=%23%d8%ac%d9%88%d8%a7%d9%8a%d8%b2_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 6 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 8 | [علي قياس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%8a%d8%a7%d8%b3) | N/A |
-| 9 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 10 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 11 | [الاطباق الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 12 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 13 | [الاجسام الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 14 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 15 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
-| 16 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 17 | [علي القدرات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a7%d8%aa) | N/A |
-| 18 | [رمضان بيكون](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a8%d9%8a%d9%83%d9%88%d9%86) | N/A |
-| 19 | [والصين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 8 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 9 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 10 | [اللعب النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
+| 11 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 12 | [الميداليه الفضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%87) | N/A |
+| 13 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 14 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 15 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 16 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 17 | [الاطباق الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 18 | [علي قياس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%8a%d8%a7%d8%b3) | N/A |
+| 19 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
 | 20 | [عبدالمحسن الراجحي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | عبدالمحسن الراجحي is an Arabic name, which translates to English as "Abdulmuhsin Al-Rajhi". |
-| 21 | [فتح التسجيل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84) | N/A |
-| 22 | [علي الايام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85) | N/A |
-| 23 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 24 | [سجين الحال](http://twitter.com/search?q=%d8%b3%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d8%a7%d9%84) | N/A |
-| 25 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 26 | [عايض](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%b6) | عايض (pronounced "ayyidh") is an Arabic word meaning "helper" or "assistant". It is often used to refer to someone who provides assistance or support in a particular task. |
-| 27 | [13 فبراير](http://twitter.com/search?q=13+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 28 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 29 | [ارون](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86) | ارون is an Arabic name meaning "light". |
-| 30 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 31 | [#تحصيلي](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
-| 32 | [#وليد_البحيح](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a%d8%af_%d8%a7%d9%84%d8%a8%d8%ad%d9%8a%d8%ad) | N/A |
-| 33 | [#زد_رصيدك20](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8320) | N/A |
-| 34 | [#سيف_المطيري](http://twitter.com/search?q=%23%d8%b3%d9%8a%d9%81_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
-| 35 | [#توثيق_سلطان_بن_نايف](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d8%b3%d9%84%d8%b7%d8%a7%d9%86_%d8%a8%d9%86_%d9%86%d8%a7%d9%8a%d9%81) | N/A |
-| 36 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 37 | [#جوايز_عبدالمحسن_الراجحي](http://twitter.com/search?q=%23%d8%ac%d9%88%d8%a7%d9%8a%d8%b2_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 38 | [#ميلاد_احلام](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d8%a7%d8%ad%d9%84%d8%a7%d9%85) | N/A |
-| 39 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 40 | [#الماجد_للعود](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%af_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
-| 41 | [#ابو_خمسه](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88_%d8%ae%d9%85%d8%b3%d9%87) | N/A |
-| 42 | [#محميه_الامام_تركي](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85_%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 43 | [#دخون_الاماراتيه](http://twitter.com/search?q=%23%d8%af%d8%ae%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
-| 44 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
-| 45 | [#الجسر_الجوي_السعودي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b3%d8%b1_%d8%a7%d9%84%d8%ac%d9%88%d9%8a_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 46 | [#علي_بن_هادي_ضيف_الواقع](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%8a_%d8%a8%d9%86_%d9%87%d8%a7%d8%af%d9%8a_%d8%b6%d9%8a%d9%81_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
-| 47 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 48 | [#الاهلي_العروبه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%a8%d9%87) | N/A |
-| 49 | [#بهاج_في_العلا](http://twitter.com/search?q=%23%d8%a8%d9%87%d8%a7%d8%ac_%d9%81%d9%8a_%d8%a7%d9%84%d8%b9%d9%84%d8%a7) | N/A |
-| 50 | [#قروب_سي](http://twitter.com/search?q=%23%d9%82%d8%b1%d9%88%d8%a8_%d8%b3%d9%8a) | N/A |
+| 21 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 22 | [رمضان بيكون](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a8%d9%8a%d9%83%d9%88%d9%86) | N/A |
+| 23 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
+| 24 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 25 | [برنامج رواد الفضاء](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b1%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1) | N/A |
+| 26 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 27 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
+| 28 | [مجال الفضاء](http://twitter.com/search?q=%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1) | N/A |
+| 29 | [دفاع التشيفز](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%81%d8%b2) | N/A |
+| 30 | [نبي الستر](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%b3%d8%aa%d8%b1) | N/A |
+| 31 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 32 | [تتش داون](http://twitter.com/search?q=%d8%aa%d8%aa%d8%b4+%d8%af%d8%a7%d9%88%d9%86) | N/A |
+| 33 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 34 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 36 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
+| 37 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 38 | [نيسان الياباني](http://twitter.com/search?q=%d9%86%d9%8a%d8%b3%d8%a7%d9%86+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 39 | [سجين الحال](http://twitter.com/search?q=%d8%b3%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d8%a7%d9%84) | N/A |
+| 40 | [عرض ريانا](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%b1%d9%8a%d8%a7%d9%86%d8%a7) | N/A |
+| 41 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 42 | [عالم الفضاء](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1) | N/A |
+| 43 | [التاسيس السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 44 | [سيدات النصر](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 45 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 46 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 47 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 48 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 49 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 50 | [ملعب صعب](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%b5%d8%b9%d8%a8) | N/A |
 
 
 

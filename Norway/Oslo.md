@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-13 01:45:14 UTC`
+📆 Last Updated: `2023-02-13 02:40:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#vgnfl](http://twitter.com/search?q=%23vgnfl) | N/A |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 4 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 6 | [Arne Treholt](http://twitter.com/search?q=Arne+Treholt) | N/A |
-| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 8 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 9 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 10 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
+| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [#vgnfl](http://twitter.com/search?q=%23vgnfl) | N/A |
+| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 5 | [Arne Treholt](http://twitter.com/search?q=Arne+Treholt) | N/A |
+| 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 7 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 8 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 9 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
+| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 12 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
@@ -40,8 +40,8 @@ This is top 50 for [Norway](</Norway>)
 | 23 | [giske](http://twitter.com/search?q=giske) | N/A |
 | 24 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 25 | [#avfc](http://twitter.com/search?q=%23avfc) | #avfc stands for Aston Villa Football Club, an English professional football club based in Birmingham. |
-| 26 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 27 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 28 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 29 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
@@ -58,12 +58,12 @@ This is top 50 for [Norway](</Norway>)
 | 41 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 43 | [kilde](http://twitter.com/search?q=kilde) | N/A |
-| 44 | [America](http://twitter.com/search?q=America) | N/A |
-| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 46 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 47 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
-| 48 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 49 | [nye veier](http://twitter.com/search?q=nye+veier) | N/A |
+| 44 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 45 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 46 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
+| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 48 | [nye veier](http://twitter.com/search?q=nye+veier) | N/A |
+| 49 | [Big W](http://twitter.com/search?q=Big+W) | N/A |
 
 
 

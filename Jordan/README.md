@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-02-13 01:45:45 UTC`
+📆 Last Updated: `2023-02-13 02:41:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for Jordan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 3 | [مياه اليرموك](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83) | N/A |
-| 4 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 5 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 6 | [النايب العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 7 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 1 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 3 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 4 | [مياه اليرموك](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83) | N/A |
+| 5 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 6 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 7 | [النايب العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 8 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 9 | [#موتمر_دعم_القدس](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
-| 10 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 11 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 12 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
+| 9 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 10 | [#موتمر_دعم_القدس](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
+| 11 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 12 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 13 | [فخر الاردن](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
 | 14 | [#البزنس68](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b368) | N/A |
 | 15 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |

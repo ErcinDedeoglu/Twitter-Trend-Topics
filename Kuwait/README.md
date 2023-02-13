@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-13 01:45:46 UTC`
+📆 Last Updated: `2023-02-13 02:41:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الكويت_بجانبكم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa_%d8%a8%d8%ac%d8%a7%d9%86%d8%a8%d9%83%d9%85) | N/A |
-| 2 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
 | 4 | [#مصروفات_مجلس_2022](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1%d9%88%d9%81%d8%a7%d8%aa_%d9%85%d8%ac%d9%84%d8%b3_2022) | N/A |
 | 5 | [سوق شرق](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%b4%d8%b1%d9%82) | N/A |
-| 6 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 7 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 8 | [العشب الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%a8+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 7 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 8 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 9 | [العشب الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%a8+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
 | 10 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
 | 11 | [الجزيره الخضرا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7) | N/A |
 | 12 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Kuwait
 | 30 | [عبدالله الهاجري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d9%87%d8%a7%d8%ac%d8%b1%d9%8a) | N/A |
 | 31 | [الميداليه الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
 | 32 | [يابو شعوان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b4%d8%b9%d9%88%d8%a7%d9%86) | N/A |
-| 33 | [يابو خالد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 34 | [المشروعات السياحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 35 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 36 | [يعقوب حسين](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 37 | [كوكب الارض](http://twitter.com/search?q=%d9%83%d9%88%d9%83%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 38 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 39 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 40 | [جمع التبرعات](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa) | N/A |
-| 41 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 42 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 43 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 44 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 45 | [يابو حامد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d8%a7%d9%85%d8%af) | N/A |
-| 46 | [عبدالكريم الكندري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%83%d9%86%d8%af%d8%b1%d9%8a) | N/A |
-| 47 | [نقص مال](http://twitter.com/search?q=%d9%86%d9%82%d8%b5+%d9%85%d8%a7%d9%84) | N/A |
-| 48 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
-| 49 | [عميد القبول](http://twitter.com/search?q=%d8%b9%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84) | N/A |
-| 50 | [البترول الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%aa%d8%b1%d9%88%d9%84+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 33 | [المشروعات السياحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 34 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 35 | [يعقوب حسين](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 36 | [كوكب الارض](http://twitter.com/search?q=%d9%83%d9%88%d9%83%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 37 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 38 | [جمع التبرعات](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa) | N/A |
+| 39 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 40 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 41 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 42 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 43 | [يابو حامد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d8%a7%d9%85%d8%af) | N/A |
+| 44 | [عبدالكريم الكندري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%83%d9%86%d8%af%d8%b1%d9%8a) | N/A |
+| 45 | [نقص مال](http://twitter.com/search?q=%d9%86%d9%82%d8%b5+%d9%85%d8%a7%d9%84) | N/A |
+| 46 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
+| 47 | [عميد القبول](http://twitter.com/search?q=%d8%b9%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 48 | [البترول الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%aa%d8%b1%d9%88%d9%84+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 49 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 50 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 
 
 

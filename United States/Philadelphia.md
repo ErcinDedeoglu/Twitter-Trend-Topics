@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-13 01:45:39 UTC`
+📆 Last Updated: `2023-02-13 02:41:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 2 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 1 | [LETS GO](http://twitter.com/search?q=LETS+GO) | N/A |
+| 2 | [Halle](http://twitter.com/search?q=Halle) | N/A |
 | 3 | [#BirdGang](http://twitter.com/search?q=%23BirdGang) | N/A |
-| 4 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 5 | [Epps](http://twitter.com/search?q=Epps) | N/A |
-| 6 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 7 | [Smitty](http://twitter.com/search?q=Smitty) | Smitty is a slang term for someone who is considered to be a "regular guy" or an average Joe. It can also be used to describe someone who is reliable and dependable. |
-| 8 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
-| 9 | [Covey](http://twitter.com/search?q=Covey) | N/A |
-| 10 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 11 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 12 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 13 | [Lift Me Up](http://twitter.com/search?q=Lift+Me+Up) | N/A |
-| 14 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 15 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
-| 16 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 17 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 18 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 19 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 20 | [Tails](http://twitter.com/search?q=Tails) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 24 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 26 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 27 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 28 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 29 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 31 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 32 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 33 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 34 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 35 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 36 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 37 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
-| 38 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 39 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 40 | [Blue Moon](http://twitter.com/search?q=Blue+Moon) | N/A |
-| 41 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
-| 42 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 43 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 44 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
-| 45 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 46 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | Jack Harlow is the stage name of American rapper and singer Jack Harlow. His music is a mix of hip-hop, pop, and R&B. He is best known for his hit single "Whats Poppin" which peaked at number two on the Billboard Hot 100 chart in 2020. |
-| 47 | [Farmer's Dog](http://twitter.com/search?q=Farmer%27s+Dog) | N/A |
-| 48 | [Run This Town](http://twitter.com/search?q=Run+This+Town) | N/A |
-| 49 | [Chad Henne](http://twitter.com/search?q=Chad+Henne) | Chad Henne is an American football quarterback who currently plays for the Kansas City Chiefs of the National Football League (NFL). He was drafted by the Miami Dolphins in the second round of the 2008 NFL Draft. The name Chad Henne is derived from his given name, Charles Henry Henne. |
-| 50 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 4 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 5 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
+| 6 | [Quez](http://twitter.com/search?q=Quez) | Quez is a slang term used to refer to money. It is derived from the Spanish word for money, "cuenta". In English, it can be used to mean cash or funds. |
+| 7 | [#GoBirds](http://twitter.com/search?q=%23GoBirds) | N/A |
+| 8 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 9 | [Epps](http://twitter.com/search?q=Epps) | N/A |
+| 10 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
+| 11 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
+| 12 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 13 | [Devonta](http://twitter.com/search?q=Devonta) | N/A |
+| 14 | [Covey](http://twitter.com/search?q=Covey) | N/A |
+| 15 | [Smitty](http://twitter.com/search?q=Smitty) | Smitty is a slang term for someone who is considered to be a "regular guy" or an average Joe. It can also be used to describe someone who is reliable and dependable. |
+| 16 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 17 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 18 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 19 | [America the Beautiful](http://twitter.com/search?q=America+the+Beautiful) | N/A |
+| 20 | [We Found Love](http://twitter.com/search?q=We+Found+Love) | N/A |
+| 21 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
+| 22 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 23 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 24 | [Bradley Cooper](http://twitter.com/search?q=Bradley+Cooper) | N/A |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 27 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 28 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 29 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 30 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 31 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 32 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 33 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 34 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 35 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 36 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 37 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 38 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
+| 39 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 40 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
+| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 42 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 43 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 44 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 45 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
+| 46 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 47 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 48 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 49 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
+| 50 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 
 
 

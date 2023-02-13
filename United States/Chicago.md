@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-13 01:45:35 UTC`
+📆 Last Updated: `2023-02-13 02:41:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
-| 2 | [Matt Nagy](http://twitter.com/search?q=Matt+Nagy) | N/A |
-| 3 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 4 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 5 | [Dunkin](http://twitter.com/search?q=Dunkin) | N/A |
-| 6 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 7 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
-| 8 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 1 | [Sheryl Lee Ralph](http://twitter.com/search?q=Sheryl+Lee+Ralph) | N/A |
+| 2 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 3 | [Soldier Field](http://twitter.com/search?q=Soldier+Field) | N/A |
+| 4 | [#GrubGameSweepstakes](http://twitter.com/search?q=%23GrubGameSweepstakes) | N/A |
+| 5 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 6 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
+| 7 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 8 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
 | 9 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 10 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 11 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 14 | [Go Cats](http://twitter.com/search?q=Go+Cats) | N/A |
-| 15 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 16 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 17 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 18 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 20 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 24 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 26 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 27 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 28 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 29 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 31 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 32 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 33 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 34 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 35 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 36 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 37 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
-| 38 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 39 | [Blue Moon](http://twitter.com/search?q=Blue+Moon) | N/A |
-| 40 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 41 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
-| 42 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 43 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 44 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 45 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
-| 46 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 47 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | Jack Harlow is the stage name of American rapper and singer Jack Harlow. His music is a mix of hip-hop, pop, and R&B. He is best known for his hit single "Whats Poppin" which peaked at number two on the Billboard Hot 100 chart in 2020. |
-| 48 | [Farmer's Dog](http://twitter.com/search?q=Farmer%27s+Dog) | N/A |
-| 49 | [Chad Henne](http://twitter.com/search?q=Chad+Henne) | Chad Henne is an American football quarterback who currently plays for the Kansas City Chiefs of the National Football League (NFL). He was drafted by the Miami Dolphins in the second round of the 2008 NFL Draft. The name Chad Henne is derived from his given name, Charles Henry Henne. |
-| 50 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 10 | [We Found Love](http://twitter.com/search?q=We+Found+Love) | N/A |
+| 11 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 12 | [Matt Nagy](http://twitter.com/search?q=Matt+Nagy) | N/A |
+| 13 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 14 | [America the Beautiful](http://twitter.com/search?q=America+the+Beautiful) | N/A |
+| 15 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 17 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 18 | [Dunkin](http://twitter.com/search?q=Dunkin) | N/A |
+| 19 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 20 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
+| 21 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 22 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 23 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 24 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 25 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 26 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 27 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
+| 28 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 29 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
+| 30 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 31 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 33 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 34 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 35 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 36 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 37 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 38 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 39 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 40 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 41 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 42 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 43 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 44 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 45 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
+| 46 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 47 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
+| 48 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 49 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 50 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 
 
 

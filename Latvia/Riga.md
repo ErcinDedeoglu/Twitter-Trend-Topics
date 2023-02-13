@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-13 01:45:14 UTC`
+📆 Last Updated: `2023-02-13 02:40:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,15 +25,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 9 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
 | 10 | [patrisha](http://twitter.com/search?q=patrisha) | N/A |
-| 11 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 11 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
 | 12 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 13 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 14 | [Aijā](http://twitter.com/search?q=Aij%c4%81) | N/A |
+| 14 | [aijā](http://twitter.com/search?q=aij%c4%81) | N/A |
 | 15 | [latgales](http://twitter.com/search?q=latgales) | N/A |
-| 16 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 17 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
-| 18 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 19 | [Kādreiz](http://twitter.com/search?q=K%c4%81dreiz) | N/A |
+| 16 | [Kādreiz](http://twitter.com/search?q=K%c4%81dreiz) | N/A |
+| 17 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 18 | [āgenskalna](http://twitter.com/search?q=%c4%81genskalna) | N/A |
+| 19 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 20 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
 | 21 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
 | 22 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 31 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 32 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
 | 33 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 34 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 34 | [esmu](http://twitter.com/search?q=esmu) | N/A |
 | 35 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 36 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
 | 37 | [Poland](http://twitter.com/search?q=Poland) | N/A |

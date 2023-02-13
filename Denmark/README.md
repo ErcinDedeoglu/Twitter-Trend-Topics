@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-13 01:45:43 UTC`
+📆 Last Updated: `2023-02-13 02:41:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,29 +42,29 @@ This is top 50 for Denmark
 | 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 27 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 28 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 29 | [Grønland](http://twitter.com/search?q=Gr%c3%b8nland) | N/A |
-| 30 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 28 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 29 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 30 | [grønland](http://twitter.com/search?q=gr%c3%b8nland) | N/A |
 | 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 33 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 34 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 35 | [Bestemt](http://twitter.com/search?q=Bestemt) | N/A |
+| 35 | [bestemt](http://twitter.com/search?q=bestemt) | N/A |
 | 36 | [Island](http://twitter.com/search?q=Island) | N/A |
 | 37 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
 | 38 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
-| 39 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 40 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 42 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 43 | [America](http://twitter.com/search?q=America) | N/A |
-| 44 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 45 | [Mads](http://twitter.com/search?q=Mads) | N/A |
-| 46 | [Insta](http://twitter.com/search?q=Insta) | N/A |
-| 47 | [nordjylland](http://twitter.com/search?q=nordjylland) | N/A |
-| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 42 | [America](http://twitter.com/search?q=America) | N/A |
+| 43 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 44 | [Mads](http://twitter.com/search?q=Mads) | N/A |
+| 45 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 46 | [nordjylland](http://twitter.com/search?q=nordjylland) | N/A |
+| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 48 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 50 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 
 
 
