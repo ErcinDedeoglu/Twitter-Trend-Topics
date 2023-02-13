@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-13 18:16:47 UTC`
+📆 Last Updated: `2023-02-13 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 7 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
 | 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 9 | [Batalla de la Victoria](http://twitter.com/search?q=Batalla+de+la+Victoria) | N/A |
-| 10 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
-| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 12 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 9 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
+| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 12 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
 | 13 | [#somospasióncaribe](http://twitter.com/search?q=%23somospasi%c3%b3ncaribe) | N/A |
-| 14 | [daniel santos](http://twitter.com/search?q=daniel+santos) | N/A |
-| 15 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 16 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 17 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
-| 18 | [Día Nacional del Guardaparques](http://twitter.com/search?q=D%c3%ada+Nacional+del+Guardaparques) | N/A |
-| 19 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 14 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 15 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
+| 16 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 17 | [Día Nacional del Guardaparques](http://twitter.com/search?q=D%c3%ada+Nacional+del+Guardaparques) | N/A |
+| 18 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
+| 19 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
 | 20 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
-| 21 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 22 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 21 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 22 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
 | 23 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 24 | [Parque Nacional Henri Pittier](http://twitter.com/search?q=Parque+Nacional+Henri+Pittier) | N/A |
-| 25 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
-| 26 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 27 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 28 | [Rancho Grande](http://twitter.com/search?q=Rancho+Grande) | N/A |
-| 29 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 30 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 31 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 32 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 33 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 25 | [Parque Nacional Henri Pittier](http://twitter.com/search?q=Parque+Nacional+Henri+Pittier) | N/A |
+| 26 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 27 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 28 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
+| 29 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 30 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 31 | [Rancho Grande](http://twitter.com/search?q=Rancho+Grande) | N/A |
+| 32 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 33 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
 | 34 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
-| 35 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
-| 36 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
-| 37 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
-| 38 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 39 | [Rafael Vidal](http://twitter.com/search?q=Rafael+Vidal) | N/A |
-| 40 | [Pedro Navaja](http://twitter.com/search?q=Pedro+Navaja) | N/A |
-| 41 | [Toco Gómez](http://twitter.com/search?q=Toco+G%c3%b3mez) | N/A |
-| 42 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 43 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 44 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 45 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 46 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 47 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 48 | [Er Conde](http://twitter.com/search?q=Er+Conde) | N/A |
-| 49 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 50 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
+| 35 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 36 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
+| 37 | [Pedro Navaja](http://twitter.com/search?q=Pedro+Navaja) | N/A |
+| 38 | [Rafael Vidal](http://twitter.com/search?q=Rafael+Vidal) | N/A |
+| 39 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
+| 40 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 41 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 42 | [Toco Gómez](http://twitter.com/search?q=Toco+G%c3%b3mez) | N/A |
+| 43 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 44 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
+| 45 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 46 | [Marcos Pérez Jiménez](http://twitter.com/search?q=Marcos+P%c3%a9rez+Jim%c3%a9nez) | Marcos Pérez Jiménez was a Venezuelan military and political leader who served as the President of Venezuela from 1952 to 1958. In English, his name translates to "Marcus Perez Jimenez". |
+| 47 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
+| 48 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 49 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
+| 50 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
 
 
 

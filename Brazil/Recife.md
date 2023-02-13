@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-13 18:16:49 UTC`
+📆 Last Updated: `2023-02-13 19:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 4 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 | 5 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 6 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 7 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
-| 8 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 10 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 11 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 12 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
+| 6 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
+| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 9 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
+| 10 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 11 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 12 | [Barney](http://twitter.com/search?q=Barney) | N/A |
 | 13 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 14 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 14 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
 | 15 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 16 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
-| 17 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 18 | [PLEASE RESPECT MOMO](http://twitter.com/search?q=PLEASE+RESPECT+MOMO) | N/A |
-| 19 | [Luana Piovani](http://twitter.com/search?q=Luana+Piovani) | Luana Piovani is a Brazilian actress, model, and television presenter. Her name is derived from the combination of her mother's name, Luana, and her father's name, Pio. In English, the name means "light of Pio". |
-| 20 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
-| 21 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
-| 22 | [Afrobege](http://twitter.com/search?q=Afrobege) | N/A |
-| 23 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 24 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 25 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 26 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 27 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 28 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
-| 29 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
-| 30 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 31 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 32 | [Ruído Branco](http://twitter.com/search?q=Ru%c3%addo+Branco) | N/A |
-| 33 | [Gale](http://twitter.com/search?q=Gale) | Gale is a strong wind, usually defined as having speeds between 39 and 54 mph (63 and 87 km/h). It is strong enough to cause trees to sway and small objects to be blown away. |
-| 34 | [Nero](http://twitter.com/search?q=Nero) | N/A |
-| 35 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
-| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 37 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 38 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 16 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 17 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
+| 18 | [Luana Piovani](http://twitter.com/search?q=Luana+Piovani) | Luana Piovani is a Brazilian actress, model, and television presenter. Her name is derived from the combination of her mother's name, Luana, and her father's name, Pio. In English, the name means "light of Pio". |
+| 19 | [PLEASE RESPECT MOMO](http://twitter.com/search?q=PLEASE+RESPECT+MOMO) | N/A |
+| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 21 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 22 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 23 | [6 Bolsonaro](http://twitter.com/search?q=6+Bolsonaro) | N/A |
+| 24 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
+| 25 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 26 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 27 | [Ruído Branco](http://twitter.com/search?q=Ru%c3%addo+Branco) | N/A |
+| 28 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 29 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 30 | [Afrobege](http://twitter.com/search?q=Afrobege) | N/A |
+| 31 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
+| 32 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
+| 33 | [Nero](http://twitter.com/search?q=Nero) | N/A |
+| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 35 | [Nazista](http://twitter.com/search?q=Nazista) | N/A |
+| 36 | [White Noise](http://twitter.com/search?q=White+Noise) | N/A |
+| 37 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 38 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
 | 39 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 40 | [Francês](http://twitter.com/search?q=Franc%c3%aas) | N/A |
-| 41 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
-| 42 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
-| 43 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 44 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 45 | [Pedro Lucas](http://twitter.com/search?q=Pedro+Lucas) | N/A |
-| 46 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 47 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 48 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 49 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 50 | [Senzala](http://twitter.com/search?q=Senzala) | N/A |
+| 40 | [addie larue](http://twitter.com/search?q=addie+larue) | N/A |
+| 41 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 42 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 43 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 44 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 46 | [Gale](http://twitter.com/search?q=Gale) | Gale is a strong wind, usually defined as having speeds between 39 and 54 mph (63 and 87 km/h). It is strong enough to cause trees to sway and small objects to be blown away. |
+| 47 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 48 | [Pedro Lucas](http://twitter.com/search?q=Pedro+Lucas) | N/A |
+| 49 | [Homem Formiga](http://twitter.com/search?q=Homem+Formiga) | N/A |
 
 
 

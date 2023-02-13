@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-13 18:17:21 UTC`
+📆 Last Updated: `2023-02-13 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 2 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
-| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 9 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
-| 10 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 11 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 12 | [Ted Lerner](http://twitter.com/search?q=Ted+Lerner) | N/A |
+| 2 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 3 | [#tehBag](http://twitter.com/search?q=%23tehBag) | N/A |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 5 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
+| 6 | [#GalaxyArena](http://twitter.com/search?q=%23GalaxyArena) | N/A |
+| 7 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 8 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 11 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
+| 12 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
 | 13 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 14 | [Bay Ridge](http://twitter.com/search?q=Bay+Ridge) | N/A |
-| 15 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 16 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 17 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 18 | [Christian Super Bowl](http://twitter.com/search?q=Christian+Super+Bowl) | N/A |
-| 19 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
-| 20 | [Fire in the Hole](http://twitter.com/search?q=Fire+in+the+Hole) | N/A |
-| 21 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 22 | [$WISH](http://twitter.com/search?q=%24WISH) | N/A |
-| 23 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
-| 24 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 25 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 26 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
-| 27 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
-| 28 | [Todd Downing](http://twitter.com/search?q=Todd+Downing) | Todd Downing is a British-born American football coach. He is currently the offensive coordinator for the Las Vegas Raiders of the National Football League (NFL). The term "Todd Downing" is used to refer to his role as an NFL coach. |
-| 29 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 30 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 31 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 32 | [Star of David](http://twitter.com/search?q=Star+of+David) | N/A |
-| 33 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 14 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
+| 15 | [UNSEEN FR34KY HOURS](http://twitter.com/search?q=UNSEEN+FR34KY+HOURS) | N/A |
+| 16 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
+| 17 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
+| 18 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
+| 19 | [Christian Super Bowl](http://twitter.com/search?q=Christian+Super+Bowl) | N/A |
+| 20 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 21 | [Bay Ridge](http://twitter.com/search?q=Bay+Ridge) | N/A |
+| 22 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 23 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 24 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
+| 25 | [The Honeymooners](http://twitter.com/search?q=The+Honeymooners) | N/A |
+| 26 | [Ted Lerner](http://twitter.com/search?q=Ted+Lerner) | N/A |
+| 27 | [Justin Holiday](http://twitter.com/search?q=Justin+Holiday) | N/A |
+| 28 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 29 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 30 | [Fire In The Hole](http://twitter.com/search?q=Fire+In+The+Hole) | N/A |
+| 31 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 32 | [He Gets Us](http://twitter.com/search?q=He+Gets+Us) | N/A |
+| 33 | [State of the Game](http://twitter.com/search?q=State+of+the+Game) | N/A |
 | 34 | [Transportation Secretary](http://twitter.com/search?q=Transportation+Secretary) | Transportation Secretary is a government official responsible for overseeing the transportation system of a country or region. This includes managing the infrastructure, such as roads and airports, as well as regulating the transportation industry, such as airlines and trucking companies. The Transportation Secretary is also responsible for developing policies to ensure safe and efficient transportation systems. |
-| 35 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 36 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 37 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
-| 38 | [Peter Gabriel](http://twitter.com/search?q=Peter+Gabriel) | N/A |
-| 39 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 40 | [Fred Astaire](http://twitter.com/search?q=Fred+Astaire) | N/A |
-| 41 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 42 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 43 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
-| 44 | [Super Bowl Monday](http://twitter.com/search?q=Super+Bowl+Monday) | N/A |
-| 45 | [Over the Top](http://twitter.com/search?q=Over+the+Top) | N/A |
-| 46 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 47 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 48 | [GAME WEEK](http://twitter.com/search?q=GAME+WEEK) | N/A |
-| 49 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
-| 50 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
+| 35 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 36 | [Rob Manfred](http://twitter.com/search?q=Rob+Manfred) | N/A |
+| 37 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 38 | [$WISH](http://twitter.com/search?q=%24WISH) | N/A |
+| 39 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 40 | [Gus Manning](http://twitter.com/search?q=Gus+Manning) | N/A |
+| 41 | [Todd Downing](http://twitter.com/search?q=Todd+Downing) | Todd Downing is a British-born American football coach. He is currently the offensive coordinator for the Las Vegas Raiders of the National Football League (NFL). The term "Todd Downing" is used to refer to his role as an NFL coach. |
+| 42 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 43 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
+| 44 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 45 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 46 | [Peter Gabriel](http://twitter.com/search?q=Peter+Gabriel) | N/A |
+| 47 | [Star of David](http://twitter.com/search?q=Star+of+David) | N/A |
+| 48 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 49 | [South China Sea](http://twitter.com/search?q=South+China+Sea) | N/A |
+| 50 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
 
 
 

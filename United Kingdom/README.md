@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-13 18:17:39 UTC`
+📆 Last Updated: `2023-02-13 19:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 2 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
-| 3 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 6 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 7 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 8 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
-| 9 | [#RIActsOfKindness](http://twitter.com/search?q=%23RIActsOfKindness) | N/A |
-| 10 | [#SavingSessions](http://twitter.com/search?q=%23SavingSessions) | N/A |
-| 11 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 12 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 13 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 14 | [Jakub](http://twitter.com/search?q=Jakub) | N/A |
-| 15 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 2 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 3 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 4 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 5 | [#MCL60](http://twitter.com/search?q=%23MCL60) | N/A |
+| 6 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 7 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 8 | [#TheOneShow](http://twitter.com/search?q=%23TheOneShow) | N/A |
+| 9 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 10 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
+| 11 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 12 | [#SavingSessions](http://twitter.com/search?q=%23SavingSessions) | N/A |
+| 13 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
+| 14 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
+| 15 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
 | 16 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 17 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 18 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 19 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
-| 20 | [Alice Capsey](http://twitter.com/search?q=Alice+Capsey) | N/A |
-| 21 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 22 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
-| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 24 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 25 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 26 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 27 | [Chelsea Girl](http://twitter.com/search?q=Chelsea+Girl) | N/A |
-| 28 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
-| 29 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 30 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 31 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 32 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 33 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 34 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 35 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 36 | [Dover](http://twitter.com/search?q=Dover) | N/A |
-| 37 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 38 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 39 | [Joe Westerman](http://twitter.com/search?q=Joe+Westerman) | N/A |
-| 40 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 41 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 42 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 43 | [English Channel](http://twitter.com/search?q=English+Channel) | N/A |
-| 44 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 45 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 46 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 47 | [#lingo](http://twitter.com/search?q=%23lingo) | N/A |
-| 48 | [#SayHerName](http://twitter.com/search?q=%23SayHerName) | N/A |
-| 49 | [#BiblicalFilmsOrSongs](http://twitter.com/search?q=%23BiblicalFilmsOrSongs) | N/A |
-| 50 | [#MerseysideDerby](http://twitter.com/search?q=%23MerseysideDerby) | N/A |
+| 17 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 18 | [Jakub Jankto](http://twitter.com/search?q=Jakub+Jankto) | N/A |
+| 19 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 20 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 21 | [Definitely Maybe](http://twitter.com/search?q=Definitely+Maybe) | N/A |
+| 22 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 23 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 25 | [Raith Rovers](http://twitter.com/search?q=Raith+Rovers) | N/A |
+| 26 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 27 | [Up the Reds](http://twitter.com/search?q=Up+the+Reds) | N/A |
+| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 29 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 32 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
+| 33 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 34 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
+| 35 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 36 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
+| 37 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 38 | [Liverpool vs Everton](http://twitter.com/search?q=Liverpool+vs+Everton) | N/A |
+| 39 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
+| 40 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
+| 41 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 42 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 43 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 44 | [Dover](http://twitter.com/search?q=Dover) | N/A |
+| 45 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 46 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 47 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 48 | [Joe Westerman](http://twitter.com/search?q=Joe+Westerman) | N/A |
+| 49 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 50 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 
 
 
