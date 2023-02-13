@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-13 02:40:38 UTC`
+📆 Last Updated: `2023-02-13 03:20:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 3 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 | 4 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 5 | [#MedioTiempo](http://twitter.com/search?q=%23MedioTiempo) | N/A |
-| 6 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 7 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 8 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 9 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 5 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 6 | [#MedioTiempo](http://twitter.com/search?q=%23MedioTiempo) | N/A |
+| 7 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 8 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 9 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
 | 10 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 11 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 12 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 13 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 14 | [Fenty](http://twitter.com/search?q=Fenty) | N/A |
-| 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 16 | [love on the brain](http://twitter.com/search?q=love+on+the+brain) | N/A |
-| 17 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 18 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 19 | [#FueraDeEsteMundo](http://twitter.com/search?q=%23FueraDeEsteMundo) | N/A |
-| 20 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 21 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [Diana Flores](http://twitter.com/search?q=Diana+Flores) | N/A |
-| 24 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 25 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 11 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 12 | [Mario Carrillo](http://twitter.com/search?q=Mario+Carrillo) | N/A |
+| 13 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 14 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 17 | [Fenty](http://twitter.com/search?q=Fenty) | N/A |
+| 18 | [#FueraDeEsteMundo](http://twitter.com/search?q=%23FueraDeEsteMundo) | N/A |
+| 19 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 20 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 21 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 22 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
+| 23 | [love on the brain](http://twitter.com/search?q=love+on+the+brain) | N/A |
+| 24 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 25 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
 | 26 | [Aburrido](http://twitter.com/search?q=Aburrido) | N/A |
-| 27 | [EMBARAZADA](http://twitter.com/search?q=EMBARAZADA) | N/A |
-| 28 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 29 | [#LosMasBuscados](http://twitter.com/search?q=%23LosMasBuscados) | N/A |
-| 30 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 31 | [Playback](http://twitter.com/search?q=Playback) | N/A |
-| 32 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
-| 33 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
+| 27 | [Diana Flores](http://twitter.com/search?q=Diana+Flores) | N/A |
+| 28 | [#EliminaciónAllStar](http://twitter.com/search?q=%23Eliminaci%c3%b3nAllStar) | N/A |
+| 29 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 30 | [EMBARAZADA](http://twitter.com/search?q=EMBARAZADA) | N/A |
+| 31 | [#LosMasBuscados](http://twitter.com/search?q=%23LosMasBuscados) | N/A |
+| 32 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
+| 33 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
 | 34 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
 | 35 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 36 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 37 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 38 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 39 | [Justin Timberlake](http://twitter.com/search?q=Justin+Timberlake) | N/A |
-| 40 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
-| 41 | [Esperaba](http://twitter.com/search?q=Esperaba) | N/A |
-| 42 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 43 | [AP Rocky](http://twitter.com/search?q=AP+Rocky) | N/A |
-| 44 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 36 | [Playback](http://twitter.com/search?q=Playback) | N/A |
+| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 38 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 39 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 40 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 41 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 42 | [Justin Timberlake](http://twitter.com/search?q=Justin+Timberlake) | N/A |
+| 43 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 44 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
 | 45 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 46 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 47 | [We Found Love](http://twitter.com/search?q=We+Found+Love) | N/A |
-| 48 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 49 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 50 | [Cara Delevingne](http://twitter.com/search?q=Cara+Delevingne) | N/A |
+| 46 | [AP Rocky](http://twitter.com/search?q=AP+Rocky) | N/A |
+| 47 | [Esperaba](http://twitter.com/search?q=Esperaba) | N/A |
+| 48 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 49 | [ARCHIVE BY CHA EUNWOO](http://twitter.com/search?q=ARCHIVE+BY+CHA+EUNWOO) | N/A |
+| 50 | [Bradley Cooper](http://twitter.com/search?q=Bradley+Cooper) | N/A |
 
 
 

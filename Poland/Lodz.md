@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-13 02:40:44 UTC`
+📆 Last Updated: `2023-02-13 03:20:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 4 | [#NFLpl](http://twitter.com/search?q=%23NFLpl) | N/A |
+| 2 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 3 | [#NFLpl](http://twitter.com/search?q=%23NFLpl) | N/A |
+| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 5 | [#LEGCRA](http://twitter.com/search?q=%23LEGCRA) | N/A |
 | 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 7 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 8 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 9 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
 | 10 | [Josue](http://twitter.com/search?q=Josue) | N/A |
 | 11 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
 | 12 | [Kanadą](http://twitter.com/search?q=Kanad%c4%85) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Poland](</Poland>)
 | 20 | [Guziki](http://twitter.com/search?q=Guziki) | N/A |
 | 21 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 22 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 23 | [Grochal](http://twitter.com/search?q=Grochal) | N/A |
+| 23 | [grochal](http://twitter.com/search?q=grochal) | N/A |
 | 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 25 | [granerud](http://twitter.com/search?q=granerud) | N/A |
 | 26 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
@@ -52,15 +52,15 @@ This is top 50 for [Poland](</Poland>)
 | 35 | [tobiasza](http://twitter.com/search?q=tobiasza) | N/A |
 | 36 | [urbaniak](http://twitter.com/search?q=urbaniak) | N/A |
 | 37 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 38 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
+| 38 | [korwina](http://twitter.com/search?q=korwina) | N/A |
 | 39 | [murawski](http://twitter.com/search?q=murawski) | N/A |
 | 40 | [TVP Sport](http://twitter.com/search?q=TVP+Sport) | N/A |
 | 41 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
 | 42 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 43 | [Poles](http://twitter.com/search?q=Poles) | N/A |
 | 44 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 45 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 46 | [niedziela](http://twitter.com/search?q=niedziela) | N/A |
+| 45 | [niedziela](http://twitter.com/search?q=niedziela) | N/A |
+| 46 | [Germans](http://twitter.com/search?q=Germans) | N/A |
 | 47 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
 | 48 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
 | 49 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |

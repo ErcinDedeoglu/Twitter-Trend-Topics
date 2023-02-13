@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-13 02:40:51 UTC`
+📆 Last Updated: `2023-02-13 03:20:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Norway](</Norway>)
 | 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 5 | [Arne Treholt](http://twitter.com/search?q=Arne+Treholt) | N/A |
 | 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 7 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 8 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 9 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
-| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 8 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 9 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 10 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
 | 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 12 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
@@ -41,7 +41,7 @@ This is top 50 for [Norway](</Norway>)
 | 24 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 25 | [#avfc](http://twitter.com/search?q=%23avfc) | #avfc stands for Aston Villa Football Club, an English professional football club based in Birmingham. |
 | 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 27 | [ufos](http://twitter.com/search?q=ufos) | N/A |
 | 28 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 29 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |

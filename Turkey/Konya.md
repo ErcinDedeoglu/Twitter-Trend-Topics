@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-13 02:41:10 UTC`
+📆 Last Updated: `2023-02-13 03:21:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Pentagon](http://twitter.com/search?q=%23Pentagon) | N/A |
-| 2 | [#uzaylılar](http://twitter.com/search?q=%23uzayl%c4%b1lar) | N/A |
-| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
-| 5 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
-| 6 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
-| 7 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
-| 8 | [Bir UFO](http://twitter.com/search?q=Bir+UFO) | N/A |
-| 9 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
-| 10 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 11 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 12 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 13 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
-| 14 | [Huron Gölü](http://twitter.com/search?q=Huron+G%c3%b6l%c3%bc) | N/A |
-| 15 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
-| 16 | [UFO'lar](http://twitter.com/search?q=UFO%27lar) | N/A |
-| 17 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
-| 18 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 19 | [Son 1](http://twitter.com/search?q=Son+1) | N/A |
-| 20 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 21 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
-| 22 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
-| 23 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 24 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
-| 25 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 26 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
-| 27 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 28 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 29 | [vatansız](http://twitter.com/search?q=vatans%c4%b1z) | N/A |
-| 30 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
-| 31 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 32 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 33 | [#amerika](http://twitter.com/search?q=%23amerika) | N/A |
-| 34 | [#UFOshotdown](http://twitter.com/search?q=%23UFOshotdown) | N/A |
-| 35 | [#AsrınFelaketi](http://twitter.com/search?q=%23Asr%c4%b1nFelaketi) | N/A |
-| 36 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
-| 37 | [#meksika](http://twitter.com/search?q=%23meksika) | N/A |
-| 38 | [#DEPREMZEDELER](http://twitter.com/search?q=%23DEPREMZEDELER) | N/A |
-| 39 | [#OkullarAcıkKalsın](http://twitter.com/search?q=%23OkullarAc%c4%b1kKals%c4%b1n) | N/A |
-| 40 | [#KonutSeferberliği](http://twitter.com/search?q=%23KonutSeferberli%c4%9fi) | N/A |
-| 41 | [#ElazığAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9fAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 1 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
+| 2 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 3 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
+| 4 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
+| 5 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
+| 6 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 7 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 8 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 9 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 10 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 11 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
+| 12 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
+| 13 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
+| 14 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 15 | [100milyardolar bağış](http://twitter.com/search?q=100milyardolar+ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 17 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 18 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 19 | [Sibel Kaya](http://twitter.com/search?q=Sibel+Kaya) | N/A |
+| 20 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 21 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 22 | [AFAD](http://twitter.com/search?q=AFAD) | N/A |
+| 23 | [kadir sütçü](http://twitter.com/search?q=kadir+s%c3%bct%c3%a7%c3%bc) | N/A |
+| 24 | [ABD UFO](http://twitter.com/search?q=ABD+UFO) | N/A |
+| 25 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 26 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 27 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 28 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 29 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 30 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 31 | [Unidentified Flying Object](http://twitter.com/search?q=Unidentified+Flying+Object) | N/A |
+| 32 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 33 | [Naime Şakar](http://twitter.com/search?q=Naime+%c5%9eakar) | N/A |
+| 34 | [Yalan](http://twitter.com/search?q=Yalan) | N/A |
+| 35 | [Bir UFO](http://twitter.com/search?q=Bir+UFO) | N/A |
+| 36 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 37 | [sibel özdemir](http://twitter.com/search?q=sibel+%c3%b6zdemir) | N/A |
+| 38 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 39 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 40 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
+| 41 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
+| 42 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 43 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 44 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
+| 45 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 46 | [Sertaç Murat Koç](http://twitter.com/search?q=Serta%c3%a7+Murat+Ko%c3%a7) | N/A |
+| 47 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
+| 48 | [tv 100](http://twitter.com/search?q=tv+100) | N/A |
+| 49 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
+| 50 | [Helal](http://twitter.com/search?q=Helal) | N/A |
 
 
 

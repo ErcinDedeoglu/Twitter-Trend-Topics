@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-13 02:41:00 UTC`
+📆 Last Updated: `2023-02-13 03:20:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 4 | [الانباء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 5 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
 | 6 | [الموقع الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 7 | [الهجمات السيبرانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 8 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 7 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 8 | [الهجمات السيبرانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 9 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 10 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 11 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
@@ -38,23 +38,23 @@ This is top 50 for [Algeria](</Algeria>)
 | 21 | [واشنطن بوست](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86+%d8%a8%d9%88%d8%b3%d8%aa) | N/A |
 | 22 | [الامر الواقع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
 | 23 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 24 | [الحمايه المدنيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 25 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 26 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 24 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 25 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 26 | [الحمايه المدنيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 28 | [Annaba](http://twitter.com/search?q=Annaba) | N/A |
-| 29 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 30 | [علي عون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b9%d9%88%d9%86) | N/A |
+| 29 | [علي عون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b9%d9%88%d9%86) | N/A |
+| 30 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
 | 31 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
 | 32 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 | 33 | [عبد الحميد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
 | 34 | [رفيع المستوي](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d9%8a) | N/A |
 | 35 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 36 | [الصحه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 37 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 38 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 39 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 40 | [علي امره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d8%b1%d9%87) | N/A |
+| 37 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 38 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 39 | [علي امره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d8%b1%d9%87) | N/A |
+| 40 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
 | 41 | [محمد علي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
 | 42 | [علي الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
 | 43 | [بستان القصر](http://twitter.com/search?q=%d8%a8%d8%b3%d8%aa%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d8%b5%d8%b1) | N/A |

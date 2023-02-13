@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-13 02:40:49 UTC`
+📆 Last Updated: `2023-02-13 03:20:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 4 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
 | 5 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 8 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 10 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 13 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 14 | [Jans](http://twitter.com/search?q=Jans) | N/A |
-| 15 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 16 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 17 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 18 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 20 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 21 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 22 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 25 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 26 | [kapje](http://twitter.com/search?q=kapje) | N/A |
-| 27 | [tijdelijk](http://twitter.com/search?q=tijdelijk) | N/A |
-| 28 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 29 | [Vaessen](http://twitter.com/search?q=Vaessen) | N/A |
-| 30 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 31 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 32 | [Taabouni](http://twitter.com/search?q=Taabouni) | N/A |
-| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 34 | [Alfred Schreuder](http://twitter.com/search?q=Alfred+Schreuder) | N/A |
-| 35 | [manhoef](http://twitter.com/search?q=manhoef) | N/A |
-| 36 | [anke](http://twitter.com/search?q=anke) | N/A |
-| 37 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 38 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 39 | [steijn](http://twitter.com/search?q=steijn) | N/A |
-| 40 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 41 | [Conceicao](http://twitter.com/search?q=Conceicao) | N/A |
-| 42 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
-| 43 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
-| 44 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
-| 45 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 46 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
-| 47 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 48 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 49 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 9 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 10 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 11 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 12 | [Jans](http://twitter.com/search?q=Jans) | N/A |
+| 13 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 14 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 15 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 16 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 18 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 19 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 21 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 24 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 25 | [kapje](http://twitter.com/search?q=kapje) | N/A |
+| 26 | [tijdelijk](http://twitter.com/search?q=tijdelijk) | N/A |
+| 27 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 28 | [vaessen](http://twitter.com/search?q=vaessen) | N/A |
+| 29 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 30 | [Taabouni](http://twitter.com/search?q=Taabouni) | N/A |
+| 31 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 32 | [Alfred Schreuder](http://twitter.com/search?q=Alfred+Schreuder) | N/A |
+| 33 | [manhoef](http://twitter.com/search?q=manhoef) | N/A |
+| 34 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 35 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 36 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 37 | [steijn](http://twitter.com/search?q=steijn) | N/A |
+| 38 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 39 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 40 | [Conceicao](http://twitter.com/search?q=Conceicao) | N/A |
+| 41 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
+| 42 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 43 | [dag 12](http://twitter.com/search?q=dag+12) | N/A |
+| 44 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 45 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
+| 46 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 47 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 48 | [wieffer](http://twitter.com/search?q=wieffer) | N/A |
+| 49 | [peilingen](http://twitter.com/search?q=peilingen) | N/A |
 
 
 

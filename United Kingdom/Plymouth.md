@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-02-13 02:40:35 UTC`
+📆 Last Updated: `2023-02-13 03:20:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Affleck](http://twitter.com/search?q=Affleck) | N/A |
-| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 3 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 4 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
-| 5 | [#WOSAwards](http://twitter.com/search?q=%23WOSAwards) | N/A |
-| 6 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 7 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 8 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 12 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 13 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 14 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 15 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 17 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 18 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 19 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 20 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 21 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 22 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
+| 1 | [#WOSAwards](http://twitter.com/search?q=%23WOSAwards) | N/A |
+| 2 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 3 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 5 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 6 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 8 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 9 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 10 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 11 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 12 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 13 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 14 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 15 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 16 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 17 | [American Football](http://twitter.com/search?q=American+Football) | N/A |
+| 18 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 19 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 20 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 21 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 22 | [Darren Fletcher](http://twitter.com/search?q=Darren+Fletcher) | N/A |
 | 23 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 24 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 25 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 26 | [Darren Fletcher](http://twitter.com/search?q=Darren+Fletcher) | N/A |
-| 27 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 28 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 29 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 30 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 31 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 32 | [Rhi Rhi](http://twitter.com/search?q=Rhi+Rhi) | N/A |
-| 33 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 34 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 35 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 36 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 37 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
-| 38 | [Pon de Replay](http://twitter.com/search?q=Pon+de+Replay) | N/A |
-| 39 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
-| 40 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 41 | [Run This Town](http://twitter.com/search?q=Run+This+Town) | N/A |
-| 42 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
-| 43 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 44 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 45 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
-| 46 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 47 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 48 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 49 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 24 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 25 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 26 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 27 | [Rhi Rhi](http://twitter.com/search?q=Rhi+Rhi) | N/A |
+| 28 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 29 | [Kadarius Toney](http://twitter.com/search?q=Kadarius+Toney) | N/A |
+| 30 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
+| 31 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
+| 32 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 33 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 34 | [Pon de Replay](http://twitter.com/search?q=Pon+de+Replay) | N/A |
+| 35 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
+| 36 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
+| 37 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 38 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
+| 39 | [Run This Town](http://twitter.com/search?q=Run+This+Town) | N/A |
+| 40 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 41 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 42 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 43 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 44 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 45 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 46 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 47 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 48 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 49 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
 
 
 

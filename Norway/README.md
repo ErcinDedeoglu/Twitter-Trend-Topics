@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-13 02:41:24 UTC`
+📆 Last Updated: `2023-02-13 03:21:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 3 | [#vgnfl](http://twitter.com/search?q=%23vgnfl) | N/A |
 | 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 5 | [Arne Treholt](http://twitter.com/search?q=Arne+Treholt) | N/A |
-| 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 7 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 8 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 9 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
-| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 6 | [Arne Treholt](http://twitter.com/search?q=Arne+Treholt) | N/A |
+| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 8 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 9 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 10 | [Märtha](http://twitter.com/search?q=M%c3%a4rtha) | N/A |
 | 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 12 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |

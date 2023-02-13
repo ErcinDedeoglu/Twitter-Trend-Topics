@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-13 02:40:44 UTC`
+📆 Last Updated: `2023-02-13 03:20:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 2 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 5 | [#Berlinwahl](http://twitter.com/search?q=%23Berlinwahl) | N/A |
-| 6 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
-| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [#Berlinwahl](http://twitter.com/search?q=%23Berlinwahl) | N/A |
 | 8 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 9 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 11 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 12 | [Karas](http://twitter.com/search?q=Karas) | N/A |
 | 13 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for [Austria](</Austria>)
 | 28 | [Bedarf](http://twitter.com/search?q=Bedarf) | N/A |
 | 29 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
 | 30 | [Ängste](http://twitter.com/search?q=%c3%84ngste) | N/A |
-| 31 | [krone](http://twitter.com/search?q=krone) | N/A |
+| 31 | [KRONE](http://twitter.com/search?q=KRONE) | N/A |
 | 32 | [Petition](http://twitter.com/search?q=Petition) | N/A |
 | 33 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 34 | [Stillen](http://twitter.com/search?q=Stillen) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Austria](</Austria>)
 | 47 | [Zäune](http://twitter.com/search?q=Z%c3%a4une) | N/A |
 | 48 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
 | 49 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 50 | [Jedenfalls](http://twitter.com/search?q=Jedenfalls) | N/A |
+| 50 | [jedenfalls](http://twitter.com/search?q=jedenfalls) | N/A |
 
 
 

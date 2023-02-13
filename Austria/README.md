@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-13 02:41:20 UTC`
+📆 Last Updated: `2023-02-13 03:21:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for Austria
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 2 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 5 | [#Berlinwahl](http://twitter.com/search?q=%23Berlinwahl) | N/A |
-| 6 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
-| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
+| 8 | [#Berlinwahl](http://twitter.com/search?q=%23Berlinwahl) | N/A |
 | 9 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 11 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for Austria
 | 16 | [februar 1934](http://twitter.com/search?q=februar+1934) | N/A |
 | 17 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
 | 18 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 19 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
+| 19 | [verlauf](http://twitter.com/search?q=verlauf) | N/A |
 | 20 | [Paxlovid](http://twitter.com/search?q=Paxlovid) | N/A |
 | 21 | [Mindestsicherung](http://twitter.com/search?q=Mindestsicherung) | N/A |
 | 22 | [othmar](http://twitter.com/search?q=othmar) | N/A |
@@ -45,8 +45,8 @@ This is top 50 for Austria
 | 28 | [Bedarf](http://twitter.com/search?q=Bedarf) | N/A |
 | 29 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
 | 30 | [Ängste](http://twitter.com/search?q=%c3%84ngste) | N/A |
-| 31 | [krone](http://twitter.com/search?q=krone) | N/A |
-| 32 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 31 | [KRONE](http://twitter.com/search?q=KRONE) | N/A |
+| 32 | [petition](http://twitter.com/search?q=petition) | N/A |
 | 33 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 34 | [Stillen](http://twitter.com/search?q=Stillen) | N/A |
 | 35 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-13 02:41:13 UTC`
+📆 Last Updated: `2023-02-13 03:21:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 2 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 3 | [Serena Williams](http://twitter.com/search?q=Serena+Williams) | N/A |
-| 4 | [Alicia Silverstone](http://twitter.com/search?q=Alicia+Silverstone) | N/A |
-| 5 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 6 | [Sheryl](http://twitter.com/search?q=Sheryl) | N/A |
-| 7 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 8 | [Fumble](http://twitter.com/search?q=Fumble) | Fumble is an English verb meaning to make a mistake or to drop something clumsily. It can also refer to a mistake made in a sports game, such as dropping the ball or missing a catch. |
-| 9 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 10 | [#PopCorners10k](http://twitter.com/search?q=%23PopCorners10k) | N/A |
-| 11 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 12 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 13 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
-| 14 | [Devonta](http://twitter.com/search?q=Devonta) | N/A |
-| 15 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
-| 16 | [Adam Driver](http://twitter.com/search?q=Adam+Driver) | N/A |
-| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 18 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 19 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 20 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 21 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 22 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 23 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 24 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 26 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 27 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 28 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 29 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 30 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
-| 31 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 32 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
-| 33 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 34 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 35 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 36 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 37 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 38 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 39 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 40 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 41 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 42 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
-| 43 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 44 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 45 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 46 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 47 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
-| 48 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 49 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 50 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 1 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 4 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 5 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 6 | [Rhi Rhi](http://twitter.com/search?q=Rhi+Rhi) | N/A |
+| 7 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 8 | [Alicia Silverstone](http://twitter.com/search?q=Alicia+Silverstone) | N/A |
+| 9 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
+| 10 | [BBHMM](http://twitter.com/search?q=BBHMM) | N/A |
+| 11 | [#PopCorners10k](http://twitter.com/search?q=%23PopCorners10k) | N/A |
+| 12 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 13 | [Grease](http://twitter.com/search?q=Grease) | N/A |
+| 14 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | Jack Harlow is the stage name of American rapper and singer Jack Harlow. His music is a mix of hip-hop, pop, and R&B. He is best known for his hit single "Whats Poppin" which peaked at number two on the Billboard Hot 100 chart in 2020. |
+| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 16 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 17 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 19 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 20 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 21 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 22 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 23 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
+| 24 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 25 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
+| 26 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 27 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 28 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 29 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 30 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 31 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 32 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
+| 33 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 34 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 35 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 36 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 37 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
+| 38 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 39 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
+| 40 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
+| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 42 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 43 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 44 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 45 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 46 | [#rigged](http://twitter.com/search?q=%23rigged) | N/A |
+| 47 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
+| 48 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 49 | [Skechers](http://twitter.com/search?q=Skechers) | N/A |
+| 50 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-13 02:41:23 UTC`
+📆 Last Updated: `2023-02-13 03:21:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,9 +36,9 @@ This is top 50 for Kuwait
 | 19 | [المدينه الترفيهيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%81%d9%8a%d9%87%d9%8a%d9%87) | N/A |
 | 20 | [مرزوق سعيد](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 21 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 22 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 23 | [فاروق ابراهيم](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d9%88%d9%82+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 24 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 22 | [علام الغيوب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d8%a8) | N/A |
+| 23 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 24 | [فاروق ابراهيم](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d9%88%d9%82+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 25 | [يابو سامي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
 | 26 | [يابو ماطر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%a7%d8%b7%d8%b1) | N/A |
 | 27 | [البصمه المرنه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b5%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%86%d9%87) | N/A |
@@ -55,8 +55,8 @@ This is top 50 for Kuwait
 | 38 | [جمع التبرعات](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa) | N/A |
 | 39 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
 | 40 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 41 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 42 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 41 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 42 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
 | 43 | [يابو حامد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d8%a7%d9%85%d8%af) | N/A |
 | 44 | [عبدالكريم الكندري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%83%d9%86%d8%af%d8%b1%d9%8a) | N/A |
 | 45 | [نقص مال](http://twitter.com/search?q=%d9%86%d9%82%d8%b5+%d9%85%d8%a7%d9%84) | N/A |

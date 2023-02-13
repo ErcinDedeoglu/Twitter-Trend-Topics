@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-13 02:41:15 UTC`
+📆 Last Updated: `2023-02-13 03:21:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 2 | [Jon Robinson](http://twitter.com/search?q=Jon+Robinson) | N/A |
-| 3 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
-| 4 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
-| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 6 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 10 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 13 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 14 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 16 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 17 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 18 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 19 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 20 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
-| 21 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 22 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
-| 23 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 24 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 25 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 26 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 27 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 29 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 30 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 31 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 32 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
-| 33 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 34 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 35 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 36 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 37 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
-| 38 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 39 | [#BinkyDad](http://twitter.com/search?q=%23BinkyDad) | N/A |
-| 40 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 41 | [Pon de Replay](http://twitter.com/search?q=Pon+de+Replay) | N/A |
-| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 43 | [Blue Moon](http://twitter.com/search?q=Blue+Moon) | N/A |
-| 44 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 45 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 46 | [Miles Teller](http://twitter.com/search?q=Miles+Teller) | N/A |
-| 47 | [Run This Town](http://twitter.com/search?q=Run+This+Town) | N/A |
-| 48 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 49 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
-| 50 | [Rhi Rhi](http://twitter.com/search?q=Rhi+Rhi) | N/A |
+| 1 | [Brett Kern](http://twitter.com/search?q=Brett+Kern) | N/A |
+| 2 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 3 | [Jon Robinson](http://twitter.com/search?q=Jon+Robinson) | N/A |
+| 4 | [Pat Tillman](http://twitter.com/search?q=Pat+Tillman) | N/A |
+| 5 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
+| 6 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 7 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
+| 8 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 11 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 13 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 14 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 15 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 16 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 17 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 18 | [Tubi](http://twitter.com/search?q=Tubi) | N/A |
+| 19 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
+| 20 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 21 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 22 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 23 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 24 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 26 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
+| 27 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 28 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
+| 29 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 31 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 32 | [Rih Rih](http://twitter.com/search?q=Rih+Rih) | N/A |
+| 33 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 34 | [Nick Bolton](http://twitter.com/search?q=Nick+Bolton) | N/A |
+| 35 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
+| 36 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 37 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 38 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 39 | [#rigged](http://twitter.com/search?q=%23rigged) | N/A |
+| 40 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 41 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 42 | [Pregnant](http://twitter.com/search?q=Pregnant) | N/A |
+| 43 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 44 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 45 | [Skechers](http://twitter.com/search?q=Skechers) | N/A |
+| 46 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 47 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 48 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 49 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 50 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 
 
 
