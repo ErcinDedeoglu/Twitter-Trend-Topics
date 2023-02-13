@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-13 04:17:52 UTC`
+📆 Last Updated: `2023-02-13 05:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,47 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 4 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 5 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
-| 6 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 7 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 8 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 9 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
-| 10 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
-| 11 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
-| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 13 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
+| 1 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 2 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 3 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 5 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
+| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 7 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 9 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
+| 10 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 12 | [#SBxESPN](http://twitter.com/search?q=%23SBxESPN) | N/A |
+| 13 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
 | 14 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 16 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 16 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
 | 17 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 18 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 19 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 19 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
 | 20 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
 | 21 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 22 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 23 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
-| 24 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 25 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 22 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 23 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 24 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 25 | [Mena](http://twitter.com/search?q=Mena) | N/A |
 | 26 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 27 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 28 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 29 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 30 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 31 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 32 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 33 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 34 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 35 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 36 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 37 | [#Rhianna](http://twitter.com/search?q=%23Rhianna) | N/A |
-| 38 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
-| 39 | [#SecretosDelMatrimonio](http://twitter.com/search?q=%23SecretosDelMatrimonio) | N/A |
-| 40 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 41 | [#OVNIS](http://twitter.com/search?q=%23OVNIS) | N/A |
-| 42 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 27 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 28 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 29 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 30 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 31 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 32 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 33 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 34 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 35 | [#Rhianna](http://twitter.com/search?q=%23Rhianna) | N/A |
+| 36 | [#SecretosDelMatrimonio](http://twitter.com/search?q=%23SecretosDelMatrimonio) | N/A |
+| 37 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 38 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 39 | [#OneusInChile](http://twitter.com/search?q=%23OneusInChile) | N/A |
+| 40 | [#OVNIS](http://twitter.com/search?q=%23OVNIS) | N/A |
+| 41 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-13 04:17:56 UTC`
+📆 Last Updated: `2023-02-13 05:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
 | 2 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
 | 3 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
-| 4 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
-| 5 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 6 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 7 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 9 | [filipe ret](http://twitter.com/search?q=filipe+ret) | N/A |
-| 10 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 11 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 12 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 14 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 16 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 17 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 18 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 19 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 20 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 21 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 22 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 23 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 25 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 26 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 27 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 28 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 29 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 30 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 31 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 32 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 33 | [O Bruno](http://twitter.com/search?q=O+Bruno) | O Bruno is a Portuguese expression that is used to express surprise or admiration. It is similar to the English expression "Oh wow!" or "Wow!" |
-| 34 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
-| 35 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 36 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
-| 37 | [#RedeBBB23](http://twitter.com/search?q=%23RedeBBB23) | N/A |
+| 4 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 5 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 8 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 9 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 10 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 11 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 12 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 13 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 14 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 15 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 16 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 17 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 19 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 20 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 21 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 22 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 23 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 24 | [Cowboy e Key](http://twitter.com/search?q=Cowboy+e+Key) | N/A |
+| 25 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 26 | [O Bruno](http://twitter.com/search?q=O+Bruno) | O Bruno is a Portuguese expression that is used to express surprise or admiration. It is similar to the English expression "Oh wow!" or "Wow!" |
+| 27 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 28 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 29 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
+| 30 | [#RedeBBB23](http://twitter.com/search?q=%23RedeBBB23) | N/A |
+| 31 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 32 | [Esse Bruno](http://twitter.com/search?q=Esse+Bruno) | Esse Bruno is a Portuguese phrase that translates to “Be Brave” in English. It is often used as a motivational phrase to encourage someone to be brave and take risks. |
+| 33 | [Rude Boy](http://twitter.com/search?q=Rude+Boy) | N/A |
+| 34 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 35 | [GRÁVIDA](http://twitter.com/search?q=GR%c3%81VIDA) | N/A |
+| 36 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
+| 37 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
 | 38 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 39 | [Esse Bruno](http://twitter.com/search?q=Esse+Bruno) | Esse Bruno is a Portuguese phrase that translates to “Be Brave” in English. It is often used as a motivational phrase to encourage someone to be brave and take risks. |
+| 39 | [#cadeado](http://twitter.com/search?q=%23cadeado) | N/A |
 | 40 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 41 | [All of the Lights](http://twitter.com/search?q=All+of+the+Lights) | N/A |
-| 42 | [ELA TÁ GRÁVIDA](http://twitter.com/search?q=ELA+T%c3%81+GR%c3%81VIDA) | N/A |
-| 43 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 44 | [VOTAÇÃO ABERTA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ABERTA) | N/A |
-| 45 | [#cadeado](http://twitter.com/search?q=%23cadeado) | N/A |
-| 46 | [karol conka](http://twitter.com/search?q=karol+conka) | N/A |
-| 47 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 48 | [Funk](http://twitter.com/search?q=Funk) | N/A |
-| 49 | [love on the brain](http://twitter.com/search?q=love+on+the+brain) | N/A |
-| 50 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 41 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 42 | [VOTAÇÃO ABERTA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ABERTA) | N/A |
+| 43 | [karol conka](http://twitter.com/search?q=karol+conka) | N/A |
+| 44 | [love on the brain](http://twitter.com/search?q=love+on+the+brain) | N/A |
+| 45 | [Tchau Bruno](http://twitter.com/search?q=Tchau+Bruno) | N/A |
+| 46 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 47 | [Funk](http://twitter.com/search?q=Funk) | N/A |
+| 48 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
 
 
 

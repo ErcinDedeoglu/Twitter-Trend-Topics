@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-13 04:18:12 UTC`
+📆 Last Updated: `2023-02-13 05:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 3 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 4 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 5 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 6 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 7 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 8 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 9 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 10 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 11 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 12 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
-| 13 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 14 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 15 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 16 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 17 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 18 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 19 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 20 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 21 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 22 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 23 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 24 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 25 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
-| 26 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 27 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 29 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 30 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 31 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 32 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 33 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 34 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 35 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 36 | [#pesadilladebate5](http://twitter.com/search?q=%23pesadilladebate5) | N/A |
-| 37 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
+| 2 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 3 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 5 | [#SanidadPublica](http://twitter.com/search?q=%23SanidadPublica) | N/A |
+| 6 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 10 | [#lodeestopa](http://twitter.com/search?q=%23lodeestopa) | N/A |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 12 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 13 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 14 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 15 | [#APOYOROCIO12F](http://twitter.com/search?q=%23APOYOROCIO12F) | N/A |
+| 16 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
+| 17 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 18 | [luis muñoz](http://twitter.com/search?q=luis+mu%c3%b1oz) | N/A |
+| 19 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 20 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 21 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 22 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 23 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
+| 24 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
+| 25 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
+| 26 | [OBLAK](http://twitter.com/search?q=OBLAK) | N/A |
+| 27 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 28 | [Coquelin](http://twitter.com/search?q=Coquelin) | N/A |
+| 29 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
+| 30 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 31 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 32 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 33 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 34 | [Alcarràs](http://twitter.com/search?q=Alcarr%c3%a0s) | N/A |
+| 35 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 36 | [enrich](http://twitter.com/search?q=enrich) | N/A |
+| 37 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 38 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
+| 39 | [MODELO 77](http://twitter.com/search?q=MODELO+77) | N/A |
+| 40 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 41 | [gayà](http://twitter.com/search?q=gay%c3%a0) | N/A |
+| 42 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 43 | [sorogoyen](http://twitter.com/search?q=sorogoyen) | N/A |
+| 44 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 45 | [Sito Alonso](http://twitter.com/search?q=Sito+Alonso) | N/A |
+| 46 | [susi sánchez](http://twitter.com/search?q=susi+s%c3%a1nchez) | N/A |
+| 47 | [la cerámica](http://twitter.com/search?q=la+cer%c3%a1mica) | N/A |
+| 48 | [Clara Lago](http://twitter.com/search?q=Clara+Lago) | N/A |
+| 49 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 50 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
 
 
 
