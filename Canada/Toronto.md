@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-13 22:15:43 UTC`
+📆 Last Updated: `2023-02-13 23:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 4 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 8 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 10 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 12 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 13 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 14 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 7 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 8 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 9 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 10 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 11 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 13 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
+| 14 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 16 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 18 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 19 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 17 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
+| 18 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 19 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
 | 20 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 21 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
-| 22 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 24 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 25 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 26 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 27 | [Nadine Girault](http://twitter.com/search?q=Nadine+Girault) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 30 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 32 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 33 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 34 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 35 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
-| 36 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 37 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 38 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
-| 39 | [Orleans](http://twitter.com/search?q=Orleans) | N/A |
-| 40 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 41 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 42 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 43 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 44 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 45 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 46 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 22 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 23 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 24 | [Dean](http://twitter.com/search?q=Dean) | N/A |
+| 25 | [Nadine Girault](http://twitter.com/search?q=Nadine+Girault) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 28 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 29 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 31 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 32 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 34 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
+| 35 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 36 | [Michael Keaton](http://twitter.com/search?q=Michael+Keaton) | N/A |
+| 37 | [Orleans](http://twitter.com/search?q=Orleans) | N/A |
+| 38 | [Ability](http://twitter.com/search?q=Ability) | N/A |
+| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 40 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 42 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 43 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 44 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 45 | [Damien Cox](http://twitter.com/search?q=Damien+Cox) | N/A |
+| 46 | [Halle](http://twitter.com/search?q=Halle) | N/A |
 | 47 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 48 | [Damien Cox](http://twitter.com/search?q=Damien+Cox) | N/A |
-| 49 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 48 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 49 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
 | 50 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
 
 

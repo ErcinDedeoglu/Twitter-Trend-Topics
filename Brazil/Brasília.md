@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-13 22:15:52 UTC`
+📆 Last Updated: `2023-02-13 23:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [FELIZ ANIVERSÁRIO NERO](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+NERO) | N/A |
-| 4 | [SIGA CORINGA NA TWITCH](http://twitter.com/search?q=SIGA+CORINGA+NA+TWITCH) | N/A |
-| 5 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 1 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 2 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 4 | [dudu](http://twitter.com/search?q=dudu) | N/A |
+| 5 | [FELIZ ANIVERSÁRIO NERO](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+NERO) | N/A |
 | 6 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [#TresVezesAna011](http://twitter.com/search?q=%23TresVezesAna011) | N/A |
-| 9 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 10 | [Timbó](http://twitter.com/search?q=Timb%c3%b3) | N/A |
-| 11 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 12 | [Frango](http://twitter.com/search?q=Frango) | N/A |
-| 13 | [Inter de Milão](http://twitter.com/search?q=Inter+de+Mil%c3%a3o) | N/A |
-| 14 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 15 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 17 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
-| 18 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 19 | [Ana Letícia](http://twitter.com/search?q=Ana+Let%c3%adcia) | N/A |
-| 20 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 22 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 23 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 24 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 25 | [Catupiry](http://twitter.com/search?q=Catupiry) | N/A |
-| 26 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 27 | [Manu e Dudu](http://twitter.com/search?q=Manu+e+Dudu) | N/A |
-| 28 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 29 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 30 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 31 | [6 Bolsonaro](http://twitter.com/search?q=6+Bolsonaro) | N/A |
-| 32 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 33 | [Sampdoria](http://twitter.com/search?q=Sampdoria) | Sampdoria is a professional Italian football club based in Genoa, Italy. The club was founded in 1946 and currently plays in Serie A, the top division of Italian football. The name Sampdoria is derived from the combination of two former clubs: Sampierdarenese and Andrea Doria. In English, Sampdoria translates to "The Doria Brothers". |
-| 34 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 35 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 37 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 38 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 39 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
-| 40 | [manu cit](http://twitter.com/search?q=manu+cit) | N/A |
-| 41 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
-| 42 | [Namu](http://twitter.com/search?q=Namu) | N/A |
-| 43 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 44 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 45 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 46 | [Rádio](http://twitter.com/search?q=R%c3%a1dio) | N/A |
-| 47 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 49 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 50 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 9 | [SIGA CORINGA NA TWITCH](http://twitter.com/search?q=SIGA+CORINGA+NA+TWITCH) | N/A |
+| 10 | [#DiazNaFoliaBotiQDB](http://twitter.com/search?q=%23DiazNaFoliaBotiQDB) | N/A |
+| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 12 | [BIBI TATTO IS COMING](http://twitter.com/search?q=BIBI+TATTO+IS+COMING) | N/A |
+| 13 | [#VencerODesamor096](http://twitter.com/search?q=%23VencerODesamor096) | N/A |
+| 14 | [Timbó](http://twitter.com/search?q=Timb%c3%b3) | N/A |
+| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 16 | [#TresVezesAna011](http://twitter.com/search?q=%23TresVezesAna011) | N/A |
+| 17 | [Frango](http://twitter.com/search?q=Frango) | N/A |
+| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 20 | [Inter de Milão](http://twitter.com/search?q=Inter+de+Mil%c3%a3o) | N/A |
+| 21 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
+| 22 | [#CRUxCAM](http://twitter.com/search?q=%23CRUxCAM) | N/A |
+| 23 | [Love is Love](http://twitter.com/search?q=Love+is+Love) | Love is Love is a phrase that has become popular in recent years as a way to express support for the LGBTQ+ community. It is a simple yet powerful statement that conveys the idea that love should be accepted and celebrated regardless of gender, sexual orientation, or any other factor. The phrase is often used to promote acceptance and understanding of all forms of love. |
+| 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 25 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 26 | [Ana Letícia](http://twitter.com/search?q=Ana+Let%c3%adcia) | N/A |
+| 27 | [VAMO GALO](http://twitter.com/search?q=VAMO+GALO) | N/A |
+| 28 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 29 | [Ludo](http://twitter.com/search?q=Ludo) | N/A |
+| 30 | [Catupiry](http://twitter.com/search?q=Catupiry) | N/A |
+| 31 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 32 | [Tereza](http://twitter.com/search?q=Tereza) | N/A |
+| 33 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 35 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 36 | [Independência](http://twitter.com/search?q=Independ%c3%aancia) | N/A |
+| 37 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 38 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 39 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 40 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 41 | [Dafne](http://twitter.com/search?q=Dafne) | N/A |
+| 42 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 43 | [Luana Piovani](http://twitter.com/search?q=Luana+Piovani) | Luana Piovani is a Brazilian actress, model, and television presenter. Her name is derived from the combination of her mother's name, Luana, and her father's name, Pio. In English, the name means "light of Pio". |
+| 44 | [6 Bolsonaro](http://twitter.com/search?q=6+Bolsonaro) | N/A |
+| 45 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
+| 46 | [Sampdoria](http://twitter.com/search?q=Sampdoria) | Sampdoria is a professional Italian football club based in Genoa, Italy. The club was founded in 1946 and currently plays in Serie A, the top division of Italian football. The name Sampdoria is derived from the combination of two former clubs: Sampierdarenese and Andrea Doria. In English, Sampdoria translates to "The Doria Brothers". |
+| 47 | [Namu](http://twitter.com/search?q=Namu) | N/A |
+| 48 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 50 | [André Lara Resende](http://twitter.com/search?q=Andr%c3%a9+Lara+Resende) | N/A |
 
 
 

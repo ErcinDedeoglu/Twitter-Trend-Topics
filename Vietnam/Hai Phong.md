@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-13 22:16:12 UTC`
+📆 Last Updated: `2023-02-13 23:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 2 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 3 | [#3MillionLoveAPO](http://twitter.com/search?q=%233MillionLoveAPO) | N/A |
-| 4 | [#1DayDatewithBIBLE](http://twitter.com/search?q=%231DayDatewithBIBLE) | N/A |
-| 5 | [#Huobi](http://twitter.com/search?q=%23Huobi) | N/A |
+| 3 | [#1DayDatewithBIBLE](http://twitter.com/search?q=%231DayDatewithBIBLE) | N/A |
+| 4 | [#huobi](http://twitter.com/search?q=%23huobi) | N/A |
+| 5 | [#3MillionLoveAPO](http://twitter.com/search?q=%233MillionLoveAPO) | N/A |
 | 6 | [#primevote3](http://twitter.com/search?q=%23primevote3) | N/A |
 | 7 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
 | 8 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
@@ -32,14 +32,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 15 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
 | 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 17 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 18 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 19 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 20 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 21 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
-| 22 | [tae áo hồng làm động tim army](http://twitter.com/search?q=tae+%c3%a1o+h%e1%bb%93ng+l%c3%a0m+%c4%91%e1%bb%99ng+tim+army) | N/A |
-| 23 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 24 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 25 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 18 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 19 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 20 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
+| 21 | [tae áo hồng làm động tim army](http://twitter.com/search?q=tae+%c3%a1o+h%e1%bb%93ng+l%c3%a0m+%c4%91%e1%bb%99ng+tim+army) | N/A |
+| 22 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 23 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 24 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 25 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 27 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
 | 28 | [color fiesta](http://twitter.com/search?q=color+fiesta) | N/A |
@@ -55,13 +55,13 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 39 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
 | 40 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
-| 41 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 41 | [with build until the end](http://twitter.com/search?q=with+build+until+the+end) | N/A |
 | 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 43 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
 | 44 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
 | 45 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
 | 46 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 47 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
+| 47 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
 | 48 | [Wallet Delegations](http://twitter.com/search?q=Wallet+Delegations) | N/A |
 | 49 | [$GRAIL](http://twitter.com/search?q=%24GRAIL) | N/A |
 | 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
