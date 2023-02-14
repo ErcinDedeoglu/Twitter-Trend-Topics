@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-14 22:16:23 UTC`
+📆 Last Updated: `2023-02-14 23:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 2 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 4 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 5 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 6 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 7 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 6 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 7 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 8 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 9 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 11 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 12 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 13 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 14 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 15 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 16 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 11 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 12 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 13 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 14 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 15 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 16 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 17 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 18 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
 | 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 20 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 21 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 20 | [L'article 2](http://twitter.com/search?q=L%27article+2) | N/A |
+| 21 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
 | 22 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 23 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 24 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
-| 25 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 26 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 27 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 28 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
-| 29 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 30 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 31 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 32 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 33 | [Emmanuel Petit](http://twitter.com/search?q=Emmanuel+Petit) | N/A |
-| 34 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 35 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
-| 36 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 37 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 38 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 39 | [La Clim](http://twitter.com/search?q=La+Clim) | N/A |
-| 40 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 41 | [Ginola](http://twitter.com/search?q=Ginola) | N/A |
-| 42 | [HORS JEU](http://twitter.com/search?q=HORS+JEU) | N/A |
-| 43 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 44 | [Le Tifo](http://twitter.com/search?q=Le+Tifo) | N/A |
-| 45 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 48 | [Shin](http://twitter.com/search?q=Shin) | N/A |
-| 49 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 23 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 24 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 25 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 26 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
+| 27 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 28 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
+| 29 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 30 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 31 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 32 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 33 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 34 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 35 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 36 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 37 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 38 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 39 | [Emmanuel Petit](http://twitter.com/search?q=Emmanuel+Petit) | N/A |
+| 40 | [Hors-jeu](http://twitter.com/search?q=Hors-jeu) | N/A |
+| 41 | [Neyday](http://twitter.com/search?q=Neyday) | N/A |
+| 42 | [La Clim](http://twitter.com/search?q=La+Clim) | N/A |
+| 43 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 45 | [Tifo](http://twitter.com/search?q=Tifo) | N/A |
+| 46 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 47 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 49 | [Habib Beye](http://twitter.com/search?q=Habib+Beye) | N/A |
 
 
 

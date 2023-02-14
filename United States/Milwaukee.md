@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-14 22:16:55 UTC`
+📆 Last Updated: `2023-02-14 23:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [#IJustNeedThisLoveSpiral](http://twitter.com/search?q=%23IJustNeedThisLoveSpiral) | N/A |
+| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 2 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 8 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 9 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 10 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 11 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 12 | [Jerry Jarrett](http://twitter.com/search?q=Jerry+Jarrett) | N/A |
-| 13 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 14 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 16 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 17 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 18 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 19 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
-| 20 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
-| 21 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 24 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 26 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
-| 27 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
-| 28 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 29 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 30 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 31 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 32 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
-| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 34 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 36 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
-| 37 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 9 | [#IJustNeedThisLoveSpiral](http://twitter.com/search?q=%23IJustNeedThisLoveSpiral) | N/A |
+| 10 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 11 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 12 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 13 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 14 | [Jerry Jarrett](http://twitter.com/search?q=Jerry+Jarrett) | N/A |
+| 15 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 16 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 17 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 18 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 19 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
+| 20 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 21 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 22 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
+| 25 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 26 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 27 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 28 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 29 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 30 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
+| 31 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 32 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 33 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 34 | [OANN and Newsmax](http://twitter.com/search?q=OANN+and+Newsmax) | N/A |
+| 35 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 36 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 37 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
 | 38 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
-| 39 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 40 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 43 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 44 | [OANN and Newsmax](http://twitter.com/search?q=OANN+and+Newsmax) | N/A |
-| 45 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 46 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 47 | [Monken](http://twitter.com/search?q=Monken) | N/A |
-| 48 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 49 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
-| 50 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 39 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 41 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
+| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 43 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
+| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 45 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 46 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 47 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 48 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 49 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 50 | [Tik-Tok](http://twitter.com/search?q=Tik-Tok) | N/A |
 
 
 

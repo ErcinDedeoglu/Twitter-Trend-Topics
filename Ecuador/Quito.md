@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-14 22:16:18 UTC`
+📆 Last Updated: `2023-02-14 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 3 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
 | 4 | [#ElGranInforme](http://twitter.com/search?q=%23ElGranInforme) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 7 | [Bernardo Manzano](http://twitter.com/search?q=Bernardo+Manzano) | N/A |
-| 8 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
-| 9 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 13 | [#ElGranPadrino](http://twitter.com/search?q=%23ElGranPadrino) | N/A |
-| 14 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 15 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 16 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 17 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 18 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 19 | [Ministro de Agricultura](http://twitter.com/search?q=Ministro+de+Agricultura) | N/A |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 22 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 23 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 24 | [Narco](http://twitter.com/search?q=Narco) | N/A |
+| 5 | [Bernardo Manzano](http://twitter.com/search?q=Bernardo+Manzano) | N/A |
+| 6 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
+| 7 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [#ElGranPadrino](http://twitter.com/search?q=%23ElGranPadrino) | N/A |
+| 10 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 11 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 12 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 13 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 14 | [Con 102](http://twitter.com/search?q=Con+102) | N/A |
+| 15 | [Ministro de Agricultura](http://twitter.com/search?q=Ministro+de+Agricultura) | N/A |
+| 16 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 18 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
+| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 20 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 21 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 22 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 23 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 24 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
 | 25 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 26 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 27 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 27 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
 | 28 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 29 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 30 | [Monge](http://twitter.com/search?q=Monge) | N/A |
-| 31 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
-| 32 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 33 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 35 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 36 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
-| 37 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 38 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 39 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
-| 40 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 41 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
-| 42 | [zurita](http://twitter.com/search?q=zurita) | N/A |
+| 31 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 33 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
+| 34 | [quinsaloma](http://twitter.com/search?q=quinsaloma) | N/A |
+| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 36 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 37 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 38 | [noboa](http://twitter.com/search?q=noboa) | N/A |
+| 39 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
+| 40 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 41 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 42 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
 | 43 | [Germán Cáceres](http://twitter.com/search?q=Germ%c3%a1n+C%c3%a1ceres) | N/A |
 | 44 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
-| 45 | [Ética](http://twitter.com/search?q=%c3%89tica) | N/A |
-| 46 | [Bran](http://twitter.com/search?q=Bran) | N/A |
-| 47 | [Beccacece](http://twitter.com/search?q=Beccacece) | N/A |
-| 48 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 49 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
-| 50 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 45 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
+| 46 | [Ética](http://twitter.com/search?q=%c3%89tica) | N/A |
+| 47 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 48 | [Beccacece](http://twitter.com/search?q=Beccacece) | N/A |
+| 49 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
+| 50 | [Lilax](http://twitter.com/search?q=Lilax) | N/A |
 
 
 

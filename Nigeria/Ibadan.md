@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-14 22:16:40 UTC`
+📆 Last Updated: `2023-02-14 23:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 3 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 4 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 6 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 7 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 8 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
-| 9 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 7 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 8 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 9 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
 | 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 11 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 12 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
 | 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 14 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 15 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 16 | [So MTN](http://twitter.com/search?q=So+MTN) | N/A |
+| 14 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 15 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 16 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
 | 17 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 18 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 19 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 20 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 21 | [#BawaMustGo](http://twitter.com/search?q=%23BawaMustGo) | N/A |
-| 22 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
-| 23 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
-| 26 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
-| 27 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
-| 28 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 30 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 18 | [#ShootYourShot](http://twitter.com/search?q=%23ShootYourShot) | N/A |
+| 19 | [#BawaMustGo](http://twitter.com/search?q=%23BawaMustGo) | N/A |
+| 20 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [So MTN](http://twitter.com/search?q=So+MTN) | N/A |
+| 23 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 24 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 26 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
+| 27 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
+| 28 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
+| 29 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 30 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 31 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
-| 32 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
-| 33 | [Happy Val](http://twitter.com/search?q=Happy+Val) | N/A |
-| 34 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
-| 35 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
-| 36 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 37 | [VALENTINE WITH PHYNA](http://twitter.com/search?q=VALENTINE+WITH+PHYNA) | N/A |
-| 38 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
-| 39 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
-| 40 | [Owerri](http://twitter.com/search?q=Owerri) | N/A |
-| 41 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 42 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 43 | [#ShootYourShot](http://twitter.com/search?q=%23ShootYourShot) | N/A |
-| 44 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 45 | [#RecoverEnuguWithAtiku](http://twitter.com/search?q=%23RecoverEnuguWithAtiku) | N/A |
+| 32 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 33 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 34 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 35 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
+| 36 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 37 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
+| 38 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 39 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 40 | [VALENTINE WITH PHYNA](http://twitter.com/search?q=VALENTINE+WITH+PHYNA) | N/A |
+| 41 | [Owerri](http://twitter.com/search?q=Owerri) | N/A |
+| 42 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
+| 43 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 44 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 45 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
 | 46 | [#FlutterwavexBBTitans](http://twitter.com/search?q=%23FlutterwavexBBTitans) | N/A |
-| 47 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
-| 48 | [#OldNaira](http://twitter.com/search?q=%23OldNaira) | N/A |
+| 47 | [#OldNaira](http://twitter.com/search?q=%23OldNaira) | N/A |
+| 48 | [#RecoverEnuguWithAtiku](http://twitter.com/search?q=%23RecoverEnuguWithAtiku) | N/A |
 | 49 | [#WhatsApp](http://twitter.com/search?q=%23WhatsApp) | N/A |
 
 
