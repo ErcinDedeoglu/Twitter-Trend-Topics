@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-14 21:16:53 UTC`
+📆 Last Updated: `2023-02-14 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
-| 2 | [最高のバレンタイン](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | N/A |
-| 3 | [#Mリーグ](http://twitter.com/search?q=%23M%e3%83%aa%e3%83%bc%e3%82%b0) | #Mリーグ is a Japanese professional baseball league. It is the top level of professional baseball in Japan and consists of 12 teams. The league was founded in 1950 and is divided into two divisions, the Central League and the Pacific League. The English translation of #Mリーグ is "Nippon Professional Baseball". |
-| 4 | [タリョラ](http://twitter.com/search?q=%e3%82%bf%e3%83%aa%e3%83%a7%e3%83%a9) | タリョラ is a Japanese word that means "a lot of trouble". It is often used to describe a situation that is difficult or complicated. |
+| 1 | [スプライト](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%82%a4%e3%83%88) | スプライト is a type of soft drink produced by the Coca-Cola Company. It is a lemon-lime flavored soda that is popular in Japan and other parts of Asia. In English, it is simply known as Sprite. |
+| 2 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
+| 3 | [最高のバレンタイン](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | N/A |
+| 4 | [#ZIP](http://twitter.com/search?q=%23ZIP) | N/A |
 | 5 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
 | 6 | [ゲームさんぽ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%95%e3%82%93%e3%81%bd) | N/A |
-| 7 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
-| 8 | [ゲキカラドウ](http://twitter.com/search?q=%e3%82%b2%e3%82%ad%e3%82%ab%e3%83%a9%e3%83%89%e3%82%a6) | N/A |
-| 9 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
-| 10 | [エンバペ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%90%e3%83%9a) | N/A |
-| 11 | [#松村北斗入所14周年](http://twitter.com/search?q=%23%e6%9d%be%e6%9d%91%e5%8c%97%e6%96%97%e5%85%a5%e6%89%8014%e5%91%a8%e5%b9%b4) | N/A |
-| 12 | [ブラヒム](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%92%e3%83%a0) | N/A |
-| 13 | [大晴くんドラマ](http://twitter.com/search?q=%e5%a4%a7%e6%99%b4%e3%81%8f%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 14 | [大晴ドラマ](http://twitter.com/search?q=%e5%a4%a7%e6%99%b4%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 15 | [チームデスマッチ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e3%83%87%e3%82%b9%e3%83%9e%e3%83%83%e3%83%81) | N/A |
-| 16 | [ナユタちゃん](http://twitter.com/search?q=%e3%83%8a%e3%83%a6%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | ナユタちゃん is a character from the Japanese manga series "Kodomo no Omocha". The character's name is Nayuta, and her nickname is "Nayuta-chan". In English, it translates to "Little Nayuta". |
-| 17 | [#美しい彼シーズン2みてる](http://twitter.com/search?q=%23%e7%be%8e%e3%81%97%e3%81%84%e5%bd%bc%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b32%e3%81%bf%e3%81%a6%e3%82%8b) | N/A |
-| 18 | [#メンテの日なのでssを貼る](http://twitter.com/search?q=%23%e3%83%a1%e3%83%b3%e3%83%86%e3%81%ae%e6%97%a5%e3%81%aa%e3%81%ae%e3%81%a7ss%e3%82%92%e8%b2%bc%e3%82%8b) | "#メンテの日なのでssを貼る" is a hashtag used on social media in Japan. It translates to "It's maintenance day, so let's post screenshots". It is used to encourage people to post screenshots of their work or activities on maintenance days. |
-| 19 | [ネイマール](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%9e%e3%83%bc%e3%83%ab) | N/A |
-| 20 | [登録解除](http://twitter.com/search?q=%e7%99%bb%e9%8c%b2%e8%a7%a3%e9%99%a4) | N/A |
-| 21 | [グッズ購入完了](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e8%b3%bc%e5%85%a5%e5%ae%8c%e4%ba%86) | N/A |
-| 22 | [タタルシャヌ](http://twitter.com/search?q=%e3%82%bf%e3%82%bf%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%8c) | N/A |
+| 7 | [エンバペ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%90%e3%83%9a) | N/A |
+| 8 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
+| 9 | [ゲキカラドウ](http://twitter.com/search?q=%e3%82%b2%e3%82%ad%e3%82%ab%e3%83%a9%e3%83%89%e3%82%a6) | N/A |
+| 10 | [パヴァール](http://twitter.com/search?q=%e3%83%91%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
+| 11 | [ヌーノメンデス](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%8e%e3%83%a1%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 12 | [ドンナルンマ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%8a%e3%83%ab%e3%83%b3%e3%83%9e) | N/A |
+| 13 | [#おは戦50215fs](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650215fs) | N/A |
+| 14 | [#松村北斗入所14周年](http://twitter.com/search?q=%23%e6%9d%be%e6%9d%91%e5%8c%97%e6%96%97%e5%85%a5%e6%89%8014%e5%91%a8%e5%b9%b4) | N/A |
+| 15 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
+| 16 | [大晴くん](http://twitter.com/search?q=%e5%a4%a7%e6%99%b4%e3%81%8f%e3%82%93) | N/A |
+| 17 | [デイビス](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%93%e3%82%b9) | N/A |
+| 18 | [ネイマール](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%9e%e3%83%bc%e3%83%ab) | N/A |
+| 19 | [セカンドレグ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%83%ac%e3%82%b0) | N/A |
+| 20 | [#メンテの日なのでssを貼る](http://twitter.com/search?q=%23%e3%83%a1%e3%83%b3%e3%83%86%e3%81%ae%e6%97%a5%e3%81%aa%e3%81%ae%e3%81%a7ss%e3%82%92%e8%b2%bc%e3%82%8b) | "#メンテの日なのでssを貼る" is a hashtag used on social media in Japan. It translates to "It's maintenance day, so let's post screenshots". It is used to encourage people to post screenshots of their work or activities on maintenance days. |
+| 21 | [大晴ドラマ](http://twitter.com/search?q=%e5%a4%a7%e6%99%b4%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 22 | [ブラヒム](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%92%e3%83%a0) | N/A |
 | 23 | [ムシアラ](http://twitter.com/search?q=%e3%83%a0%e3%82%b7%e3%82%a2%e3%83%a9) | N/A |
-| 24 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 25 | [レイスのクナイ](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%82%b9%e3%81%ae%e3%82%af%e3%83%8a%e3%82%a4) | N/A |
-| 26 | [第390回](http://twitter.com/search?q=%e7%ac%ac390%e5%9b%9e) | N/A |
-| 27 | [開幕ランク](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e3%83%a9%e3%83%b3%e3%82%af) | 開幕ランク is a Japanese term that refers to the opening rank of a particular event or competition. It is the ranking of participants at the start of the event, before any competition has taken place. In English, it can be translated as "Opening Rank". |
-| 28 | [ライブドア](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%96%e3%83%89%e3%82%a2) | N/A |
-| 29 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 30 | [吉田ヒロフミ](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e3%83%92%e3%83%ad%e3%83%95%e3%83%9f) | N/A |
-| 31 | [たいちぇドラマ](http://twitter.com/search?q=%e3%81%9f%e3%81%84%e3%81%a1%e3%81%87%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 32 | [トナーリ](http://twitter.com/search?q=%e3%83%88%e3%83%8a%e3%83%bc%e3%83%aa) | N/A |
-| 33 | [デイビス](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%93%e3%82%b9) | N/A |
-| 34 | [キミッヒ](http://twitter.com/search?q=%e3%82%ad%e3%83%9f%e3%83%83%e3%83%92) | N/A |
-| 35 | [クルゼフスキ](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%82%bc%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
-| 36 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
-| 37 | [ティアウ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a6) | N/A |
-| 38 | [パヴァール](http://twitter.com/search?q=%e3%83%91%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
-| 39 | [ソレール](http://twitter.com/search?q=%e3%82%bd%e3%83%ac%e3%83%bc%e3%83%ab) | N/A |
-| 40 | [ユンギペン](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%83%9a%e3%83%b3) | ユンギペン (Yun-gi-pen) is a Korean phrase that literally translates to "You can do it!" It is used as an expression of encouragement and support. |
-| 41 | [うちわの裏](http://twitter.com/search?q=%e3%81%86%e3%81%a1%e3%82%8f%e3%81%ae%e8%a3%8f) | N/A |
-| 42 | [マスダさん](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%83%80%e3%81%95%e3%82%93) | N/A |
-| 43 | [シーズン16](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b316) | N/A |
-| 44 | [ポシェット](http://twitter.com/search?q=%e3%83%9d%e3%82%b7%e3%82%a7%e3%83%83%e3%83%88) | N/A |
-| 45 | [うちわのビジュ](http://twitter.com/search?q=%e3%81%86%e3%81%a1%e3%82%8f%e3%81%ae%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
-| 46 | [デンジくん](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%8f%e3%82%93) | デンジくん is a character from the Japanese manga series, Dengeki Oshioki Musume Gōtaman. The character's name is Denji, and he is a robot created by the protagonist of the series, Gōtaman. In English, his name would be translated as "Denji the Robot". |
-| 47 | [ペリシッチ](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%82%b7%e3%83%83%e3%83%81) | N/A |
-| 48 | [ホリエモン](http://twitter.com/search?q=%e3%83%9b%e3%83%aa%e3%82%a8%e3%83%a2%e3%83%b3) | N/A |
-| 49 | [ヴェラッティ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%a9%e3%83%83%e3%83%86%e3%82%a3) | N/A |
+| 24 | [ティアウ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a6) | N/A |
+| 25 | [ムバッペ](http://twitter.com/search?q=%e3%83%a0%e3%83%90%e3%83%83%e3%83%9a) | N/A |
+| 26 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
+| 27 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 28 | [ナユタちゃん](http://twitter.com/search?q=%e3%83%8a%e3%83%a6%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | ナユタちゃん is a character from the Japanese manga series "Kodomo no Omocha". The character's name is Nayuta, and her nickname is "Nayuta-chan". In English, it translates to "Little Nayuta". |
+| 29 | [登録解除](http://twitter.com/search?q=%e7%99%bb%e9%8c%b2%e8%a7%a3%e9%99%a4) | N/A |
+| 30 | [チームデスマッチ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e3%83%87%e3%82%b9%e3%83%9e%e3%83%83%e3%83%81) | N/A |
+| 31 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
+| 32 | [ミュラー](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%a9%e3%83%bc) | N/A |
+| 33 | [ステッカー売り切れ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%83%e3%82%ab%e3%83%bc%e5%a3%b2%e3%82%8a%e5%88%87%e3%82%8c) | N/A |
+| 34 | [ウパメカノ](http://twitter.com/search?q=%e3%82%a6%e3%83%91%e3%83%a1%e3%82%ab%e3%83%8e) | N/A |
+| 35 | [ニャブリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%96%e3%83%aa) | N/A |
+| 36 | [トナーリ](http://twitter.com/search?q=%e3%83%88%e3%83%8a%e3%83%bc%e3%83%aa) | N/A |
+| 37 | [リシャルリソン](http://twitter.com/search?q=%e3%83%aa%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%aa%e3%82%bd%e3%83%b3) | N/A |
+| 38 | [第390回](http://twitter.com/search?q=%e7%ac%ac390%e5%9b%9e) | N/A |
+| 39 | [キンプリファイターズ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
+| 40 | [デケテラーレ](http://twitter.com/search?q=%e3%83%87%e3%82%b1%e3%83%86%e3%83%a9%e3%83%bc%e3%83%ac) | N/A |
+| 41 | [タタルシャヌ](http://twitter.com/search?q=%e3%82%bf%e3%82%bf%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%8c) | N/A |
+| 42 | [メシアス](http://twitter.com/search?q=%e3%83%a1%e3%82%b7%e3%82%a2%e3%82%b9) | N/A |
+| 43 | [週の真ん中水曜日](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad%e6%b0%b4%e6%9b%9c%e6%97%a5) | N/A |
+| 44 | [春一番名付けの日](http://twitter.com/search?q=%e6%98%a5%e4%b8%80%e7%95%aa%e5%90%8d%e4%bb%98%e3%81%91%e3%81%ae%e6%97%a5) | N/A |
+| 45 | [照史くん](http://twitter.com/search?q=%e7%85%a7%e5%8f%b2%e3%81%8f%e3%82%93) | 照史くん is a character from the Japanese manga series, Kochikame. He is a police officer who works at the Ryōgoku Police Station. His name literally translates to "Shine History" and he is known for his strong sense of justice and his dedication to protecting the peace of the city. |
+| 46 | [キミッヒ](http://twitter.com/search?q=%e3%82%ad%e3%83%9f%e3%83%83%e3%83%92) | N/A |
+| 47 | [グッズ購入完了](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e8%b3%bc%e5%85%a5%e5%ae%8c%e4%ba%86) | N/A |
+| 48 | [たいちぇドラマ](http://twitter.com/search?q=%e3%81%9f%e3%81%84%e3%81%a1%e3%81%87%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 49 | [クルゼフスキ](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%82%bc%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
 
 
 

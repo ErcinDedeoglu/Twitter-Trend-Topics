@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-14 21:16:22 UTC`
+📆 Last Updated: `2023-02-14 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
 | 2 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
-| 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 4 | [#oranjehelmen](http://twitter.com/search?q=%23oranjehelmen) | N/A |
-| 5 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 6 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 8 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
-| 9 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 12 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
-| 13 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 14 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 15 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 17 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 18 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 19 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 4 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 5 | [#PARBAY](http://twitter.com/search?q=%23PARBAY) | N/A |
+| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 7 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 8 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 9 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
+| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
+| 12 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 14 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 15 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 16 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 17 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 18 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 19 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 20 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 21 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 22 | [Irma](http://twitter.com/search?q=Irma) | N/A |
-| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 24 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 21 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 22 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 23 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 24 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
 | 25 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 26 | [Annabel](http://twitter.com/search?q=Annabel) | N/A |
-| 27 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
-| 28 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 26 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 27 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 28 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
+| 29 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 30 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
 | 31 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
-| 32 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 33 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 34 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 35 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 36 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
-| 37 | [krezip](http://twitter.com/search?q=krezip) | N/A |
+| 32 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 33 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 34 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 35 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
+| 36 | [krezip](http://twitter.com/search?q=krezip) | N/A |
+| 37 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
 | 38 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
 | 39 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 40 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 40 | [Intravacc](http://twitter.com/search?q=Intravacc) | N/A |
 | 41 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
-| 42 | [Intravacc](http://twitter.com/search?q=Intravacc) | N/A |
-| 43 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 44 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 45 | [KMAR](http://twitter.com/search?q=KMAR) | N/A |
-| 46 | [Deense](http://twitter.com/search?q=Deense) | N/A |
-| 47 | [Dag 14](http://twitter.com/search?q=Dag+14) | N/A |
+| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 43 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 44 | [KMAR](http://twitter.com/search?q=KMAR) | N/A |
+| 45 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
+| 46 | [Dag 14](http://twitter.com/search?q=Dag+14) | N/A |
+| 47 | [Multipla](http://twitter.com/search?q=Multipla) | N/A |
 | 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 49 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 50 | [Multipla](http://twitter.com/search?q=Multipla) | N/A |
+| 50 | [Marechaussee](http://twitter.com/search?q=Marechaussee) | N/A |
 
 
 

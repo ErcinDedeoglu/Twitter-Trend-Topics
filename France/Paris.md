@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-14 21:16:18 UTC`
+📆 Last Updated: `2023-02-14 22:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [Kaguya](http://twitter.com/search?q=Kaguya) | N/A |
-| 3 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 4 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 5 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 6 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 7 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 8 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 9 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 12 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 13 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 14 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 15 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 16 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 17 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 18 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 19 | [Tifo](http://twitter.com/search?q=Tifo) | N/A |
-| 20 | [Ginola](http://twitter.com/search?q=Ginola) | N/A |
-| 21 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 22 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 23 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 24 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 25 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 26 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 27 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 28 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 29 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 30 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 31 | [Shin](http://twitter.com/search?q=Shin) | N/A |
-| 32 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 35 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 36 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 37 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
-| 38 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
-| 39 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
-| 40 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 41 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
-| 42 | [Défensivement](http://twitter.com/search?q=D%c3%a9fensivement) | N/A |
-| 43 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 44 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 45 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 46 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
-| 47 | [Auteuil](http://twitter.com/search?q=Auteuil) | N/A |
-| 48 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 49 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 50 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 1 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 3 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 4 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 5 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 6 | [Kaguya](http://twitter.com/search?q=Kaguya) | N/A |
+| 7 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 8 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 9 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 10 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 13 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 14 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 15 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 16 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 17 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 19 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 20 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 21 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 23 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 24 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 25 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 26 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 27 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 28 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 29 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 30 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 31 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 32 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 33 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 34 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 35 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
+| 36 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 37 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 38 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 39 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 40 | [Emmanuel Petit](http://twitter.com/search?q=Emmanuel+Petit) | N/A |
+| 41 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 42 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
+| 43 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 44 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 45 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 46 | [La Clim](http://twitter.com/search?q=La+Clim) | N/A |
+| 47 | [Ginola](http://twitter.com/search?q=Ginola) | N/A |
+| 48 | [HORS JEU](http://twitter.com/search?q=HORS+JEU) | N/A |
+| 49 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 50 | [Le Tifo](http://twitter.com/search?q=Le+Tifo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-14 21:16:10 UTC`
+📆 Last Updated: `2023-02-14 22:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 3 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 4 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 5 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
-| 6 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 7 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 4 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 5 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 6 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 7 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 10 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 11 | [Alfredo Olivas](http://twitter.com/search?q=Alfredo+Olivas) | N/A |
-| 12 | [#ComoNoTeVoyAQuerer](http://twitter.com/search?q=%23ComoNoTeVoyAQuerer) | N/A |
-| 13 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 14 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 18 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 20 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
-| 21 | [Huixquilucan](http://twitter.com/search?q=Huixquilucan) | N/A |
-| 22 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 23 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
-| 24 | [Vicente Guerrero](http://twitter.com/search?q=Vicente+Guerrero) | N/A |
-| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 26 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 27 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 28 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
-| 29 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 30 | [Martha Bárcena](http://twitter.com/search?q=Martha+B%c3%a1rcena) | N/A |
-| 31 | [Cher](http://twitter.com/search?q=Cher) | N/A |
-| 32 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 33 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 34 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 35 | [Gibran](http://twitter.com/search?q=Gibran) | N/A |
-| 36 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 37 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 38 | [#LoQueRealmenteImporta](http://twitter.com/search?q=%23LoQueRealmenteImporta) | N/A |
-| 39 | [#ElSaborDelBalon](http://twitter.com/search?q=%23ElSaborDelBalon) | N/A |
-| 40 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 41 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 42 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 43 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 44 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 45 | [#clonazepam](http://twitter.com/search?q=%23clonazepam) | N/A |
-| 46 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
-| 47 | [#CardiopatíasCongénitas](http://twitter.com/search?q=%23Cardiopat%c3%adasCong%c3%a9nitas) | N/A |
-| 48 | [#FelizCumpleGDL](http://twitter.com/search?q=%23FelizCumpleGDL) | N/A |
-| 49 | [#DíaMundialDeLaEnergía](http://twitter.com/search?q=%23D%c3%adaMundialDeLaEnerg%c3%ada) | N/A |
+| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 11 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 12 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 14 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 15 | [#ElSaborDelBalon](http://twitter.com/search?q=%23ElSaborDelBalon) | N/A |
+| 16 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 19 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 20 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 21 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 22 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 24 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 25 | [Brahim Díaz](http://twitter.com/search?q=Brahim+D%c3%adaz) | N/A |
+| 26 | [Keylor](http://twitter.com/search?q=Keylor) | Keylor is a name of Spanish origin derived from the name Caelor, which is a combination of the Latin words caelum (sky) and aurum (gold). It can be translated to mean "heavenly gold" or "golden sky". |
+| 27 | [Alfredo Olivas](http://twitter.com/search?q=Alfredo+Olivas) | N/A |
+| 28 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 29 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
+| 30 | [Príncipes](http://twitter.com/search?q=Pr%c3%adncipes) | N/A |
+| 31 | [Huixquilucan](http://twitter.com/search?q=Huixquilucan) | N/A |
+| 32 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 33 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 34 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
+| 35 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 36 | [Vicente Guerrero](http://twitter.com/search?q=Vicente+Guerrero) | N/A |
+| 37 | [Cher](http://twitter.com/search?q=Cher) | N/A |
+| 38 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 39 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
+| 40 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 41 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 42 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 43 | [Martha Bárcena](http://twitter.com/search?q=Martha+B%c3%a1rcena) | N/A |
+| 44 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 45 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 46 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 47 | [#ComoNoTeVoyAQuerer](http://twitter.com/search?q=%23ComoNoTeVoyAQuerer) | N/A |
+| 48 | [#LoQueRealmenteImporta](http://twitter.com/search?q=%23LoQueRealmenteImporta) | N/A |
+| 49 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 50 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
 
 
 
