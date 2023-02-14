@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-14 07:16:04 UTC`
+📆 Last Updated: `2023-02-14 08:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,44 +23,44 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 7 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
 | 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 9 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 11 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 12 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
-| 13 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
+| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 11 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
+| 12 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
+| 13 | [batalla de la victoria](http://twitter.com/search?q=batalla+de+la+victoria) | N/A |
 | 14 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
-| 15 | [batalla de la victoria](http://twitter.com/search?q=batalla+de+la+victoria) | N/A |
+| 15 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 16 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
 | 17 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 18 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 20 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 21 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 24 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 25 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 18 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 19 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 20 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 21 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 22 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 23 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 24 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
+| 25 | [Conde](http://twitter.com/search?q=Conde) | N/A |
 | 26 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 27 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
-| 28 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 29 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 32 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 33 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 34 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
-| 35 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 27 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
+| 28 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 29 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 30 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
+| 31 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 32 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 33 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
+| 34 | [la tipa](http://twitter.com/search?q=la+tipa) | N/A |
+| 35 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
 | 36 | [josé félix ribas](http://twitter.com/search?q=jos%c3%a9+f%c3%a9lix+ribas) | N/A |
-| 37 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 38 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
-| 39 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
-| 40 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 41 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 42 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 37 | [la carlota](http://twitter.com/search?q=la+carlota) | N/A |
+| 38 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
+| 39 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 40 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 41 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 43 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 44 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 45 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 46 | [Jim West](http://twitter.com/search?q=Jim+West) | N/A |
+| 44 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 45 | [Jim West](http://twitter.com/search?q=Jim+West) | N/A |
+| 46 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 47 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-14 07:16:23 UTC`
+📆 Last Updated: `2023-02-14 08:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,42 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 2 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 3 | [HAPPY BALENTYMES DONBELLE](http://twitter.com/search?q=HAPPY+BALENTYMES+DONBELLE) | N/A |
-| 4 | [LoveTakesBravery WITH EIAN](http://twitter.com/search?q=LoveTakesBravery+WITH+EIAN) | N/A |
-| 5 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 6 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 7 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
-| 8 | [#DNAalbum](http://twitter.com/search?q=%23DNAalbum) | N/A |
-| 9 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 10 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 11 | [ANJBRENT CLOSER SA ROCKWELL](http://twitter.com/search?q=ANJBRENT+CLOSER+SA+ROCKWELL) | N/A |
-| 12 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 13 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 14 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
-| 15 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 16 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 17 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 18 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 19 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 21 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 2 | [LoveTakesBravery WITH EIAN](http://twitter.com/search?q=LoveTakesBravery+WITH+EIAN) | N/A |
+| 3 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 4 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 5 | [#ARoseFromTheRose](http://twitter.com/search?q=%23ARoseFromTheRose) | N/A |
+| 6 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
+| 7 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
+| 8 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 9 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 10 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 11 | [#KIMCHAEWONxMakeUpForEver](http://twitter.com/search?q=%23KIMCHAEWONxMakeUpForEver) | N/A |
+| 12 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
+| 13 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 14 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 15 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 16 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 17 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
+| 18 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 19 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 20 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 22 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 23 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
-| 24 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 25 | [Happy Carat](http://twitter.com/search?q=Happy+Carat) | N/A |
-| 26 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 27 | [#KIMCHAEWONxMakeUpForEver](http://twitter.com/search?q=%23KIMCHAEWONxMakeUpForEver) | N/A |
-| 28 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
-| 29 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
-| 30 | [#CNAUnliBait](http://twitter.com/search?q=%23CNAUnliBait) | N/A |
-| 31 | [#ENLoveWithJakeYear3](http://twitter.com/search?q=%23ENLoveWithJakeYear3) | N/A |
-| 32 | [#14กุมภาฮันนี่ขอกุมใจไบเบิ้ล](http://twitter.com/search?q=%2314%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%82%e0%b8%ad%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5) | N/A |
-| 33 | [#CARATDAY](http://twitter.com/search?q=%23CARATDAY) | N/A |
-| 34 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
+| 23 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 24 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 25 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 26 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
+| 27 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 28 | [Happy Carat](http://twitter.com/search?q=Happy+Carat) | N/A |
+| 29 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 30 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
+| 31 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
+| 32 | [#CNAUnliBait](http://twitter.com/search?q=%23CNAUnliBait) | N/A |
+| 33 | [#ENLoveWithJakeYear3](http://twitter.com/search?q=%23ENLoveWithJakeYear3) | N/A |
+| 34 | [#AnjBrent](http://twitter.com/search?q=%23AnjBrent) | N/A |
+| 35 | [#CARATDAY](http://twitter.com/search?q=%23CARATDAY) | N/A |
+| 36 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
 
 
 

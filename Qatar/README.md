@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-14 07:16:50 UTC`
+📆 Last Updated: `2023-02-14 08:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Qatar
 | 9 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 10 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
 | 11 | [ابراهيم نور الدين](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 12 | [الانشطه الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
-| 13 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
-| 14 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 12 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 13 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 14 | [الانشطه الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
 | 15 | [العرش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 16 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
-| 17 | [دوله قطر](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
-| 18 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 19 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
-| 20 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 21 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 22 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [تايلند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d9%86%d8%af) | N/A |
-| 25 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 26 | [الاسبوع الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 27 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 28 | [قطر توتال](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%aa%d9%88%d8%aa%d8%a7%d9%84) | N/A |
+| 16 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
+| 17 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
+| 18 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
+| 19 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
+| 22 | [تايلند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d9%86%d8%af) | N/A |
+| 23 | [الاسبوع الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 24 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 25 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 26 | [والامارات](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 27 | [قطر توتال](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%aa%d9%88%d8%aa%d8%a7%d9%84) | N/A |
+| 28 | [الموقع الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
 | 29 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
 | 30 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 31 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 32 | [والامارات](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 33 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 34 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 35 | [يونايتد](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 36 | [الموقع الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 37 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 38 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 39 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 40 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 41 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
-| 42 | [إيطاليا](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 43 | [الطابور الصباحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a) | N/A |
-| 44 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 45 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
-| 46 | [المجموعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 47 | [المدينه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 48 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
-| 49 | [أبي هريرة](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a+%d9%87%d8%b1%d9%8a%d8%b1%d8%a9) | N/A |
-| 50 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
+| 31 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 32 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 33 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 34 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 35 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 36 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 37 | [يونايتد](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 38 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 39 | [المدينه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 40 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
+| 41 | [سفير دوله قطر](http://twitter.com/search?q=%d8%b3%d9%81%d9%8a%d8%b1+%d8%af%d9%88%d9%84%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
+| 42 | [الطابور الصباحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a) | N/A |
+| 43 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
+| 44 | [المجموعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 45 | [الفعاليات الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
+| 46 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 47 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
+| 48 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 49 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 50 | [ومصر](http://twitter.com/search?q=%d9%88%d9%85%d8%b5%d8%b1) | N/A |
 
 
 

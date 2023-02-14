@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-14 07:16:03 UTC`
+📆 Last Updated: `2023-02-14 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,13 +24,13 @@ This is top 50 for [Colombia](</Colombia>)
 | 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 8 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
 | 9 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 10 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 11 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
-| 12 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
+| 10 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
+| 11 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 12 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
 | 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 14 | [#ReformaALaSalud](http://twitter.com/search?q=%23ReformaALaSalud) | N/A |
-| 15 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 16 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 15 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 16 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
 | 17 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
 | 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 19 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Colombia](</Colombia>)
 | 26 | [Millos](http://twitter.com/search?q=Millos) | N/A |
 | 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 29 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 30 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
-| 31 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
-| 32 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 33 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 29 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 30 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 31 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
+| 32 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 33 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
 | 34 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
 | 35 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
-| 36 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
-| 37 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 36 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 37 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
 | 38 | [Anahí](http://twitter.com/search?q=Anah%c3%ad) | N/A |
-| 39 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 40 | [Y Bogotá](http://twitter.com/search?q=Y+Bogot%c3%a1) | N/A |
-| 41 | [chipi chipi](http://twitter.com/search?q=chipi+chipi) | N/A |
+| 39 | [chipi chipi](http://twitter.com/search?q=chipi+chipi) | N/A |
+| 40 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 41 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
 | 42 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 43 | [Proyecto de Ley](http://twitter.com/search?q=Proyecto+de+Ley) | N/A |
-| 44 | [Elkin Soto](http://twitter.com/search?q=Elkin+Soto) | N/A |
-| 45 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 46 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 47 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
-| 48 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 49 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
-| 50 | [Felices 96](http://twitter.com/search?q=Felices+96) | N/A |
+| 43 | [elkin soto](http://twitter.com/search?q=elkin+soto) | N/A |
+| 44 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 45 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 46 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
+| 47 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
+| 48 | [y bogotá](http://twitter.com/search?q=y+bogot%c3%a1) | N/A |
+| 49 | [Felices 96](http://twitter.com/search?q=Felices+96) | N/A |
+| 50 | [Proyecto de Ley](http://twitter.com/search?q=Proyecto+de+Ley) | N/A |
 
 
 

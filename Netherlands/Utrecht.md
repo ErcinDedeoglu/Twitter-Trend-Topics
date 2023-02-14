@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-14 07:16:13 UTC`
+📆 Last Updated: `2023-02-14 08:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [#PAARS](http://twitter.com/search?q=%23PAARS) | N/A |
-| 4 | [#helpmijnmanisklusser](http://twitter.com/search?q=%23helpmijnmanisklusser) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#paars](http://twitter.com/search?q=%23paars) | N/A |
 | 5 | [#hmmik](http://twitter.com/search?q=%23hmmik) | N/A |
-| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 9 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
-| 10 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
-| 11 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 12 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 13 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
-| 14 | [dank poetin](http://twitter.com/search?q=dank+poetin) | N/A |
-| 15 | [Gratis OV](http://twitter.com/search?q=Gratis+OV) | N/A |
-| 16 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
-| 17 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 6 | [#helpmijnmanisklusser](http://twitter.com/search?q=%23helpmijnmanisklusser) | N/A |
+| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 9 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
+| 10 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 11 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
+| 12 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
+| 13 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 14 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 15 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 16 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 17 | [Gratis OV](http://twitter.com/search?q=Gratis+OV) | N/A |
 | 18 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
 | 19 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 20 | [Denzel](http://twitter.com/search?q=Denzel) | N/A |
-| 21 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 23 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 24 | [asieldwangsommen](http://twitter.com/search?q=asieldwangsommen) | N/A |
-| 25 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 26 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 20 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 21 | [Denzel](http://twitter.com/search?q=Denzel) | N/A |
+| 22 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 23 | [asieldwangsommen](http://twitter.com/search?q=asieldwangsommen) | N/A |
+| 24 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 25 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
+| 26 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 28 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 29 | [Kamervragen](http://twitter.com/search?q=Kamervragen) | N/A |
-| 30 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
-| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 32 | [Akai](http://twitter.com/search?q=Akai) | N/A |
-| 33 | [Maud](http://twitter.com/search?q=Maud) | N/A |
-| 34 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 35 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 36 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 37 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
-| 38 | [jong psv](http://twitter.com/search?q=jong+psv) | N/A |
-| 39 | [famke](http://twitter.com/search?q=famke) | N/A |
-| 40 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 41 | [vleuten](http://twitter.com/search?q=vleuten) | N/A |
-| 42 | [kinderhartcentrum](http://twitter.com/search?q=kinderhartcentrum) | N/A |
-| 43 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 44 | [Krezip](http://twitter.com/search?q=Krezip) | N/A |
-| 45 | [Pioneer](http://twitter.com/search?q=Pioneer) | N/A |
-| 46 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 47 | [Jans](http://twitter.com/search?q=Jans) | N/A |
-| 48 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 49 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 28 | [Dank Poetin](http://twitter.com/search?q=Dank+Poetin) | N/A |
+| 29 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 30 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
+| 31 | [Kamervragen](http://twitter.com/search?q=Kamervragen) | N/A |
+| 32 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
+| 33 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 34 | [Maud](http://twitter.com/search?q=Maud) | N/A |
+| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 36 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 37 | [Krezip](http://twitter.com/search?q=Krezip) | N/A |
+| 38 | [Chris Stapleton](http://twitter.com/search?q=Chris+Stapleton) | Chris Stapleton is an American country music singer-songwriter and guitarist. He has released five studio albums and won multiple awards, including five Grammy Awards. He is known for his soulful voice and his unique blend of country, blues, and rock music. |
+| 39 | [jong psv](http://twitter.com/search?q=jong+psv) | N/A |
+| 40 | [Famke](http://twitter.com/search?q=Famke) | N/A |
+| 41 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 42 | [vleuten](http://twitter.com/search?q=vleuten) | N/A |
+| 43 | [kinderhartcentrum](http://twitter.com/search?q=kinderhartcentrum) | N/A |
+| 44 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 45 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 46 | [Pioneer](http://twitter.com/search?q=Pioneer) | N/A |
+| 47 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 48 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 49 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
 
 
 
