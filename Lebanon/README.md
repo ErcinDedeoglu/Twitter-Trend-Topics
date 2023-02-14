@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-14 02:41:53 UTC`
+📆 Last Updated: `2023-02-14 03:20:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for Lebanon
 | 8 | [١٤ شباط](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
 | 9 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
 | 10 | [الجلسه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 11 | [عيد العشاق](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d8%b4%d8%a7%d9%82) | N/A |
-| 12 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 13 | [علي الفرد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d8%af) | N/A |
-| 14 | [بيت الوسط](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%88%d8%b3%d8%b7) | N/A |
+| 11 | [بيت الوسط](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%88%d8%b3%d8%b7) | N/A |
+| 12 | [عيد العشاق](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d8%b4%d8%a7%d9%82) | N/A |
+| 13 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 14 | [علي الفرد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d8%af) | N/A |
 | 15 | [13 شباط 2023](http://twitter.com/search?q=13+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
 | 16 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 17 | [وطن الاخباريه](http://twitter.com/search?q=%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1%d9%8a%d9%87) | N/A |

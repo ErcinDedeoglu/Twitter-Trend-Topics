@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-14 02:41:50 UTC`
+📆 Last Updated: `2023-02-14 03:20:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,20 +18,20 @@ This is top 50 for Belgium
 | 1 | [#btfoldschool](http://twitter.com/search?q=%23btfoldschool) | N/A |
 | 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 4 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 4 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
 | 5 | [#gnkant](http://twitter.com/search?q=%23gnkant) | N/A |
-| 6 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 7 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 8 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 9 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 10 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 13 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 14 | [lalieux](http://twitter.com/search?q=lalieux) | N/A |
-| 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 16 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 17 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 6 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 7 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 9 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [slimani](http://twitter.com/search?q=slimani) | N/A |
+| 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 13 | [lalieux](http://twitter.com/search?q=lalieux) | N/A |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 16 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 17 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
 | 18 | [michel de herde](http://twitter.com/search?q=michel+de+herde) | N/A |
 | 19 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
 | 20 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
@@ -53,11 +53,11 @@ This is top 50 for Belgium
 | 36 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 37 | [tom waes](http://twitter.com/search?q=tom+waes) | N/A |
 | 38 | [Chayron](http://twitter.com/search?q=Chayron) | N/A |
-| 39 | [Hainaut](http://twitter.com/search?q=Hainaut) | N/A |
+| 39 | [hainaut](http://twitter.com/search?q=hainaut) | N/A |
 | 40 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 41 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
-| 42 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 43 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 41 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 42 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
+| 43 | [Flash](http://twitter.com/search?q=Flash) | N/A |
 | 44 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 45 | [vlaams parlement](http://twitter.com/search?q=vlaams+parlement) | N/A |
 | 46 | [koen geens](http://twitter.com/search?q=koen+geens) | N/A |

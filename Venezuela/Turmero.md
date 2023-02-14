@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-14 02:41:12 UTC`
+📆 Last Updated: `2023-02-14 03:19:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#JuventudIntegraciónYPaz](http://twitter.com/search?q=%23JuventudIntegraci%c3%b3nYPaz) | N/A |
 | 4 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
 | 5 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 9 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 7 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 9 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 11 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
 | 12 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
@@ -36,34 +36,34 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 19 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
 | 20 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
 | 21 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 22 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 23 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 22 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 23 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
 | 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 25 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 26 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 27 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 27 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
 | 28 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 29 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 30 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 31 | [Día Nacional del Guardaparques](http://twitter.com/search?q=D%c3%ada+Nacional+del+Guardaparques) | N/A |
-| 32 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
-| 33 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
-| 34 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 35 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 36 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
-| 37 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
-| 38 | [Parque Nacional Henri Pittier](http://twitter.com/search?q=Parque+Nacional+Henri+Pittier) | N/A |
+| 29 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 30 | [Día Nacional del Guardaparques](http://twitter.com/search?q=D%c3%ada+Nacional+del+Guardaparques) | N/A |
+| 31 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 32 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 33 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 34 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 35 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 36 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
+| 37 | [Parque Nacional Henri Pittier](http://twitter.com/search?q=Parque+Nacional+Henri+Pittier) | N/A |
+| 38 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
 | 39 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
 | 40 | [Rancho Grande](http://twitter.com/search?q=Rancho+Grande) | N/A |
 | 41 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
 | 42 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 43 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 44 | [FELIZ INICIO DE SEMANA](http://twitter.com/search?q=FELIZ+INICIO+DE+SEMANA) | N/A |
-| 45 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
-| 46 | [jim west](http://twitter.com/search?q=jim+west) | N/A |
+| 43 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
+| 44 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 45 | [FELIZ INICIO DE SEMANA](http://twitter.com/search?q=FELIZ+INICIO+DE+SEMANA) | N/A |
+| 46 | [Jim West](http://twitter.com/search?q=Jim+West) | N/A |
 | 47 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 48 | [Los Invasores](http://twitter.com/search?q=Los+Invasores) | N/A |
-| 49 | [Catherine Fulop](http://twitter.com/search?q=Catherine+Fulop) | N/A |
+| 48 | [Delsa Solorzano](http://twitter.com/search?q=Delsa+Solorzano) | N/A |
+| 49 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
 
 
 

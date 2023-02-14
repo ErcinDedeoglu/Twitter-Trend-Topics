@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-14 02:41:46 UTC`
+📆 Last Updated: `2023-02-14 03:20:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 2 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 3 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 4 | [Lindsay](http://twitter.com/search?q=Lindsay) | N/A |
-| 5 | [#jeopardy](http://twitter.com/search?q=%23jeopardy) | N/A |
-| 6 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 1 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
+| 2 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 3 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 4 | [#jeopardy](http://twitter.com/search?q=%23jeopardy) | N/A |
+| 5 | [U-Haul](http://twitter.com/search?q=U-Haul) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 9 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 10 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 12 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 13 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 15 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 16 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 17 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 18 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 19 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 20 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 21 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 22 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 23 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 24 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 25 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
-| 26 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 27 | [Piper Niven](http://twitter.com/search?q=Piper+Niven) | Piper Niven is a professional wrestler from Scotland. She is currently signed to WWE, where she performs on the NXT UK brand. Her ring name is a combination of her first name, Piper, and her mother's maiden name, Niven. |
-| 28 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
-| 29 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 30 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 31 | [Kylee](http://twitter.com/search?q=Kylee) | N/A |
-| 32 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
-| 33 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
-| 34 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 35 | [Danny Mac](http://twitter.com/search?q=Danny+Mac) | N/A |
-| 36 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 37 | [Pray for MSU](http://twitter.com/search?q=Pray+for+MSU) | N/A |
-| 38 | [Vance](http://twitter.com/search?q=Vance) | N/A |
-| 39 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
-| 40 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
-| 41 | [The Doors](http://twitter.com/search?q=The+Doors) | N/A |
-| 42 | [Becky Lynch](http://twitter.com/search?q=Becky+Lynch) | N/A |
-| 43 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 44 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
-| 45 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
-| 46 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
-| 47 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 48 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
-| 49 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 50 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 11 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 12 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 13 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 14 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 16 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
+| 17 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
+| 18 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 19 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 20 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 21 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
+| 22 | [IM East](http://twitter.com/search?q=IM+East) | N/A |
+| 23 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 24 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 25 | [Strus](http://twitter.com/search?q=Strus) | N/A |
+| 26 | [Pray for MSU](http://twitter.com/search?q=Pray+for+MSU) | N/A |
+| 27 | [Kylee](http://twitter.com/search?q=Kylee) | N/A |
+| 28 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 29 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 30 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 31 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
+| 32 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
+| 33 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
+| 34 | [MADDOX](http://twitter.com/search?q=MADDOX) | N/A |
+| 35 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 36 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 37 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 38 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
+| 39 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 40 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 41 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 42 | [Lindsay](http://twitter.com/search?q=Lindsay) | N/A |
+| 43 | [Piper Niven](http://twitter.com/search?q=Piper+Niven) | Piper Niven is a professional wrestler from Scotland. She is currently signed to WWE, where she performs on the NXT UK brand. Her ring name is a combination of her first name, Piper, and her mother's maiden name, Niven. |
+| 44 | [Jacque Vaughn](http://twitter.com/search?q=Jacque+Vaughn) | N/A |
+| 45 | [Hubbard Hall](http://twitter.com/search?q=Hubbard+Hall) | N/A |
+| 46 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 47 | [Danny Mac](http://twitter.com/search?q=Danny+Mac) | N/A |
+| 48 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 49 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
+| 50 | [De'Vion Harmon](http://twitter.com/search?q=De%27Vion+Harmon) | N/A |
 
 
 

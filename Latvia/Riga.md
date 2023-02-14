@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-14 02:41:22 UTC`
+📆 Last Updated: `2023-02-14 03:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 11 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
 | 12 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 13 | [šitas](http://twitter.com/search?q=%c5%a1itas) | N/A |
-| 14 | [tavu](http://twitter.com/search?q=tavu) | N/A |
-| 15 | [Aijā](http://twitter.com/search?q=Aij%c4%81) | N/A |
+| 14 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 15 | [aijā](http://twitter.com/search?q=aij%c4%81) | N/A |
 | 16 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
 | 17 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 18 | [nekad](http://twitter.com/search?q=nekad) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 23 | [sudden lights](http://twitter.com/search?q=sudden+lights) | N/A |
 | 24 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
 | 25 | [principā](http://twitter.com/search?q=princip%c4%81) | N/A |
-| 26 | [Francijā](http://twitter.com/search?q=Francij%c4%81) | N/A |
+| 26 | [francijā](http://twitter.com/search?q=francij%c4%81) | N/A |
 | 27 | [vai jūs](http://twitter.com/search?q=vai+j%c5%abs) | N/A |
 | 28 | [Markus](http://twitter.com/search?q=Markus) | N/A |
 | 29 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 35 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
 | 36 | [reizēm](http://twitter.com/search?q=reiz%c4%93m) | N/A |
 | 37 | [TEVI](http://twitter.com/search?q=TEVI) | N/A |
-| 38 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 38 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 39 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
 | 40 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | N/A |
 | 41 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-14 02:41:30 UTC`
+📆 Last Updated: `2023-02-14 03:19:59 UTC`
 
 🔧 Updated every 1 hour!
 

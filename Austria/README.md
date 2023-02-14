@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-14 02:41:50 UTC`
+📆 Last Updated: `2023-02-14 03:20:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Austria
 | 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 3 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 5 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 6 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 6 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 7 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 8 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 9 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
@@ -45,8 +45,8 @@ This is top 50 for Austria
 | 28 | [Zivilgesellschaft](http://twitter.com/search?q=Zivilgesellschaft) | N/A |
 | 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 30 | [rüstungsindustrie](http://twitter.com/search?q=r%c3%bcstungsindustrie) | N/A |
-| 31 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 32 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
+| 31 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
+| 32 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
 | 33 | [Museum](http://twitter.com/search?q=Museum) | N/A |
 | 34 | [pocket coffee](http://twitter.com/search?q=pocket+coffee) | N/A |
 | 35 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
@@ -59,9 +59,9 @@ This is top 50 for Austria
 | 42 | [Sager](http://twitter.com/search?q=Sager) | N/A |
 | 43 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
 | 44 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 45 | [Wortwahl](http://twitter.com/search?q=Wortwahl) | N/A |
+| 45 | [wortwahl](http://twitter.com/search?q=wortwahl) | N/A |
 | 46 | [Stillen](http://twitter.com/search?q=Stillen) | N/A |
-| 47 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 47 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 48 | [Karas](http://twitter.com/search?q=Karas) | N/A |
 | 49 | [Saison](http://twitter.com/search?q=Saison) | N/A |
 | 50 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |

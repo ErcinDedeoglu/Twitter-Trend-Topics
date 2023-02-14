@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-14 02:41:20 UTC`
+📆 Last Updated: `2023-02-14 03:19:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 6 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
 | 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
+| 8 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
 | 9 | [Gratis OV](http://twitter.com/search?q=Gratis+OV) | N/A |
 | 10 | [Huub](http://twitter.com/search?q=Huub) | N/A |
 | 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
@@ -36,11 +36,11 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 19 | [asieldwangsommen](http://twitter.com/search?q=asieldwangsommen) | N/A |
 | 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 21 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 22 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
+| 22 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
 | 23 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
 | 24 | [kapje](http://twitter.com/search?q=kapje) | N/A |
 | 25 | [Akai](http://twitter.com/search?q=Akai) | N/A |
-| 26 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 26 | [kuipers](http://twitter.com/search?q=kuipers) | N/A |
 | 27 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 28 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 44 | [Noorden](http://twitter.com/search?q=Noorden) | N/A |
 | 45 | [afleiding](http://twitter.com/search?q=afleiding) | N/A |
 | 46 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
-| 47 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 47 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 48 | [Bram](http://twitter.com/search?q=Bram) | N/A |
 | 49 | [Jans](http://twitter.com/search?q=Jans) | N/A |
 

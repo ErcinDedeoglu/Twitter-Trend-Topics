@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-14 02:41:56 UTC`
+📆 Last Updated: `2023-02-14 03:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Switzerland
 | 14 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 15 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 17 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 18 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 19 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 17 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 18 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 19 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
 | 20 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
 | 21 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
 | 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 24 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
-| 25 | [thomi jourdan](http://twitter.com/search?q=thomi+jourdan) | N/A |
-| 26 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 27 | [Rickli](http://twitter.com/search?q=Rickli) | N/A |
-| 28 | [wiederwahl](http://twitter.com/search?q=wiederwahl) | N/A |
-| 29 | [kantonsrat](http://twitter.com/search?q=kantonsrat) | N/A |
-| 30 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 31 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 32 | [bürgerlichen](http://twitter.com/search?q=b%c3%bcrgerlichen) | N/A |
-| 33 | [Kevin Mbabu](http://twitter.com/search?q=Kevin+Mbabu) | N/A |
-| 34 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 35 | [baselbiet](http://twitter.com/search?q=baselbiet) | N/A |
-| 36 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 37 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
-| 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 39 | [Veränderungen](http://twitter.com/search?q=Ver%c3%a4nderungen) | N/A |
-| 40 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 41 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 42 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
-| 43 | [Gruppen](http://twitter.com/search?q=Gruppen) | N/A |
-| 44 | [svpler](http://twitter.com/search?q=svpler) | N/A |
-| 45 | [Kandidierenden](http://twitter.com/search?q=Kandidierenden) | N/A |
-| 46 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 47 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 48 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 49 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 50 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 23 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 24 | [thomi jourdan](http://twitter.com/search?q=thomi+jourdan) | N/A |
+| 25 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 26 | [rickli](http://twitter.com/search?q=rickli) | N/A |
+| 27 | [wiederwahl](http://twitter.com/search?q=wiederwahl) | N/A |
+| 28 | [kantonsrat](http://twitter.com/search?q=kantonsrat) | N/A |
+| 29 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 30 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 31 | [bürgerlichen](http://twitter.com/search?q=b%c3%bcrgerlichen) | N/A |
+| 32 | [kevin mbabu](http://twitter.com/search?q=kevin+mbabu) | N/A |
+| 33 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 34 | [baselbiet](http://twitter.com/search?q=baselbiet) | N/A |
+| 35 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
+| 36 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 37 | [Veränderungen](http://twitter.com/search?q=Ver%c3%a4nderungen) | N/A |
+| 38 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 39 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 40 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
+| 41 | [Gruppen](http://twitter.com/search?q=Gruppen) | N/A |
+| 42 | [svpler](http://twitter.com/search?q=svpler) | N/A |
+| 43 | [Kandidierenden](http://twitter.com/search?q=Kandidierenden) | N/A |
+| 44 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 45 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 46 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 47 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 48 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 49 | [gemeinden](http://twitter.com/search?q=gemeinden) | N/A |
+| 50 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 
 
 

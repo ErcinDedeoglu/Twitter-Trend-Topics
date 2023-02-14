@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-14 02:41:54 UTC`
+📆 Last Updated: `2023-02-14 03:20:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for Norway
 | 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 23 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 24 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 25 | [#bergen](http://twitter.com/search?q=%23bergen) | N/A |
-| 26 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
+| 25 | [sovjet](http://twitter.com/search?q=sovjet) | N/A |
+| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 27 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 28 | [Durek](http://twitter.com/search?q=Durek) | N/A |
+| 28 | [durek](http://twitter.com/search?q=durek) | N/A |
 | 29 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 30 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
 | 31 | [Die Hard](http://twitter.com/search?q=Die+Hard) | Die Hard is an action movie franchise starring Bruce Willis as John McClane, a New York City police officer who finds himself in the middle of a terrorist attack. The phrase "Die Hard" has come to mean any situation that is difficult to overcome or survive. |
-| 32 | [aafk](http://twitter.com/search?q=aafk) | N/A |
-| 33 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 35 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
-| 36 | [oslos](http://twitter.com/search?q=oslos) | N/A |
-| 37 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
-| 38 | [deilig](http://twitter.com/search?q=deilig) | N/A |
-| 39 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 40 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 42 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 43 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 44 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 45 | [måtte](http://twitter.com/search?q=m%c3%a5tte) | N/A |
-| 46 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 49 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 32 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 33 | [aafk](http://twitter.com/search?q=aafk) | N/A |
+| 34 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
+| 35 | [oslos](http://twitter.com/search?q=oslos) | N/A |
+| 36 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
+| 37 | [deilig](http://twitter.com/search?q=deilig) | N/A |
+| 38 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 39 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 41 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 42 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 43 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 44 | [måtte](http://twitter.com/search?q=m%c3%a5tte) | N/A |
+| 45 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 47 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 50 | [Queen](http://twitter.com/search?q=Queen) | N/A |
 
 
 

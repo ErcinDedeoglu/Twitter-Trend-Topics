@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-14 02:41:20 UTC`
+📆 Last Updated: `2023-02-14 03:19:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [#ajarkc](http://twitter.com/search?q=%23ajarkc) | N/A |
 | 7 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
 | 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 9 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
+| 9 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
 | 10 | [Gratis OV](http://twitter.com/search?q=Gratis+OV) | N/A |
 | 11 | [Huub](http://twitter.com/search?q=Huub) | N/A |
 | 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
@@ -34,14 +34,14 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 17 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
 | 18 | [Denzel](http://twitter.com/search?q=Denzel) | N/A |
 | 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 20 | [Asieldwangsommen](http://twitter.com/search?q=Asieldwangsommen) | N/A |
+| 20 | [asieldwangsommen](http://twitter.com/search?q=asieldwangsommen) | N/A |
 | 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 22 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 23 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
+| 23 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
 | 24 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
 | 25 | [kapje](http://twitter.com/search?q=kapje) | N/A |
 | 26 | [Akai](http://twitter.com/search?q=Akai) | N/A |
-| 27 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 27 | [kuipers](http://twitter.com/search?q=kuipers) | N/A |
 | 28 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 29 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 45 | [Noorden](http://twitter.com/search?q=Noorden) | N/A |
 | 46 | [afleiding](http://twitter.com/search?q=afleiding) | N/A |
 | 47 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
-| 48 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 48 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 49 | [Bram](http://twitter.com/search?q=Bram) | N/A |
 | 50 | [Jans](http://twitter.com/search?q=Jans) | N/A |
 
