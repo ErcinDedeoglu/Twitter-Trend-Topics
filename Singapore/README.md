@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-14 00:29:59 UTC`
+📆 Last Updated: `2023-02-14 01:44:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Singapore
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 4 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 5 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
 | 6 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 7 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 9 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 10 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 9 | [#GulfValentineinJAPAN](http://twitter.com/search?q=%23GulfValentineinJAPAN) | N/A |
+| 10 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
 | 11 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 12 | [#LiuYuxin](http://twitter.com/search?q=%23LiuYuxin) | N/A |
-| 13 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 14 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 17 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 19 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
-| 20 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 21 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 22 | [phoebe bridgers](http://twitter.com/search?q=phoebe+bridgers) | N/A |
-| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 24 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 12 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 16 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 17 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 18 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 21 | [phoebe bridgers](http://twitter.com/search?q=phoebe+bridgers) | N/A |
+| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 23 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 25 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 27 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 26 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 27 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 30 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 32 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 33 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 34 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 35 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 36 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 37 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 29 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 30 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 31 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 32 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 33 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 34 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 35 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 36 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 37 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 38 | [North America](http://twitter.com/search?q=North+America) | N/A |
 | 39 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 40 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 40 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 41 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
 | 42 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 43 | [Ryujin](http://twitter.com/search?q=Ryujin) | N/A |
 | 44 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
 | 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [hubei huangshi city](http://twitter.com/search?q=hubei+huangshi+city) | N/A |
-| 47 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 48 | [Nori](http://twitter.com/search?q=Nori) | N/A |
-| 49 | [Inkigayo](http://twitter.com/search?q=Inkigayo) | N/A |
-| 50 | [hiero](http://twitter.com/search?q=hiero) | N/A |
+| 46 | [Hubei Huangshi City](http://twitter.com/search?q=Hubei+Huangshi+City) | N/A |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 49 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 50 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
 
 
 

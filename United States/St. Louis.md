@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-02-14 00:29:49 UTC`
+📆 Last Updated: `2023-02-14 01:44:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 4 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 3 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 4 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
 | 5 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 6 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
+| 6 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
 | 7 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 9 | [#DontMessWithSocialSecurity](http://twitter.com/search?q=%23DontMessWithSocialSecurity) | N/A |
-| 10 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
-| 11 | [Roundball Rock](http://twitter.com/search?q=Roundball+Rock) | N/A |
-| 12 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 13 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
-| 14 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 15 | [Ability](http://twitter.com/search?q=Ability) | N/A |
-| 16 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
-| 17 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 18 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 20 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
-| 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 22 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 23 | [Enoree](http://twitter.com/search?q=Enoree) | N/A |
-| 24 | [Texas and South Carolina](http://twitter.com/search?q=Texas+and+South+Carolina) | N/A |
-| 25 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
-| 26 | [Fleets](http://twitter.com/search?q=Fleets) | N/A |
-| 27 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 28 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 30 | [Solsbury Hill](http://twitter.com/search?q=Solsbury+Hill) | N/A |
-| 31 | [Children of the Corn](http://twitter.com/search?q=Children+of+the+Corn) | N/A |
-| 32 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
-| 33 | [Olsen](http://twitter.com/search?q=Olsen) | Olsen is a Scandinavian surname derived from the Old Norse personal name Óláfr, meaning “ancestor’s descendant”. It is most common in Norway, Denmark, and Sweden. |
-| 34 | [Genji](http://twitter.com/search?q=Genji) | N/A |
-| 35 | [Chronological](http://twitter.com/search?q=Chronological) | N/A |
-| 36 | [Arrested Development](http://twitter.com/search?q=Arrested+Development) | N/A |
-| 37 | [South Carolina and Texas](http://twitter.com/search?q=South+Carolina+and+Texas) | N/A |
-| 38 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
-| 39 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 40 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 41 | [New CEO](http://twitter.com/search?q=New+CEO) | N/A |
-| 42 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
-| 43 | [Atlas Shrugged](http://twitter.com/search?q=Atlas+Shrugged) | N/A |
-| 44 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 45 | [Carmel](http://twitter.com/search?q=Carmel) | N/A |
-| 46 | [Puddle](http://twitter.com/search?q=Puddle) | N/A |
-| 47 | [Sabotage](http://twitter.com/search?q=Sabotage) | N/A |
+| 8 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 9 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
+| 10 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 11 | [Becky Lynch](http://twitter.com/search?q=Becky+Lynch) | N/A |
+| 12 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
+| 13 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 14 | [#DontMessWithSocialSecurity](http://twitter.com/search?q=%23DontMessWithSocialSecurity) | N/A |
+| 15 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 16 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
+| 17 | [Roundball Rock](http://twitter.com/search?q=Roundball+Rock) | N/A |
+| 18 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
+| 19 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
+| 20 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 21 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 22 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 23 | [Ability](http://twitter.com/search?q=Ability) | N/A |
+| 24 | [End 1st](http://twitter.com/search?q=End+1st) | N/A |
+| 25 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 26 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 27 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 28 | [Judgment Day](http://twitter.com/search?q=Judgment+Day) | N/A |
+| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 30 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 31 | [Tom Green](http://twitter.com/search?q=Tom+Green) | N/A |
+| 32 | [Olsen](http://twitter.com/search?q=Olsen) | Olsen is a Scandinavian surname derived from the Old Norse personal name Óláfr, meaning “ancestor’s descendant”. It is most common in Norway, Denmark, and Sweden. |
+| 33 | [Doug Williams](http://twitter.com/search?q=Doug+Williams) | N/A |
+| 34 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 35 | [Northeastern](http://twitter.com/search?q=Northeastern) | N/A |
+| 36 | [Atlas Shrugged](http://twitter.com/search?q=Atlas+Shrugged) | N/A |
+| 37 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
+| 38 | [Arrested Development](http://twitter.com/search?q=Arrested+Development) | N/A |
+| 39 | [Fleets](http://twitter.com/search?q=Fleets) | N/A |
+| 40 | [Hays Code](http://twitter.com/search?q=Hays+Code) | N/A |
+| 41 | [Enoree](http://twitter.com/search?q=Enoree) | N/A |
+| 42 | [Solsbury Hill](http://twitter.com/search?q=Solsbury+Hill) | N/A |
+| 43 | [Sabotage](http://twitter.com/search?q=Sabotage) | N/A |
+| 44 | [Armando Bacot](http://twitter.com/search?q=Armando+Bacot) | N/A |
+| 45 | [New CEO](http://twitter.com/search?q=New+CEO) | N/A |
+| 46 | [Deregulation](http://twitter.com/search?q=Deregulation) | N/A |
+| 47 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
 
 
 

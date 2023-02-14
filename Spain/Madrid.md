@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-14 00:29:16 UTC`
+📆 Last Updated: `2023-02-14 01:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
 | 2 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
-| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 4 | [Óscar](http://twitter.com/search?q=%c3%93scar) | N/A |
-| 5 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
-| 6 | [Quirón](http://twitter.com/search?q=Quir%c3%b3n) | N/A |
-| 7 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 9 | [#LaIslaDeLasTentaciones4](http://twitter.com/search?q=%23LaIslaDeLasTentaciones4) | N/A |
-| 10 | [#COAC2023S1](http://twitter.com/search?q=%23COAC2023S1) | N/A |
-| 11 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
-| 12 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 13 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 14 | [#conquis5ETB](http://twitter.com/search?q=%23conquis5ETB) | N/A |
-| 15 | [David](http://twitter.com/search?q=David) | N/A |
-| 16 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 17 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 18 | [#Murgas1LPGC](http://twitter.com/search?q=%23Murgas1LPGC) | N/A |
-| 19 | [Don Antonio](http://twitter.com/search?q=Don+Antonio) | Don Antonio is a Spanish title of respect given to a man of high social standing. It is equivalent to the English title of "Sir" or "Mister". |
-| 20 | [#Hermanos13Feb](http://twitter.com/search?q=%23Hermanos13Feb) | N/A |
-| 21 | [Jokin](http://twitter.com/search?q=Jokin) | N/A |
-| 22 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 23 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 24 | [Amador](http://twitter.com/search?q=Amador) | N/A |
-| 25 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 26 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
-| 27 | [Seleta](http://twitter.com/search?q=Seleta) | N/A |
-| 28 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 29 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 30 | [manu](http://twitter.com/search?q=manu) | N/A |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 33 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 34 | [Sangalli](http://twitter.com/search?q=Sangalli) | N/A |
-| 35 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 36 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 37 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 38 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
-| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 40 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 41 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 42 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
-| 43 | [La Real](http://twitter.com/search?q=La+Real) | La Real is a Spanish term that translates to "The Royal" in English. It is often used to refer to the Spanish Royal Family, or the monarchy of Spain. It can also be used to refer to certain clubs or organizations that have been granted royal patronage by the Spanish monarchy. |
-| 44 | [Ramoni](http://twitter.com/search?q=Ramoni) | N/A |
-| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 46 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
-| 47 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 48 | [Barrene](http://twitter.com/search?q=Barrene) | N/A |
-| 49 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 50 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 3 | [#LaIslaDeLasTentaciones4](http://twitter.com/search?q=%23LaIslaDeLasTentaciones4) | N/A |
+| 4 | [#COAC2023S1](http://twitter.com/search?q=%23COAC2023S1) | N/A |
+| 5 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 6 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 7 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 8 | [#conquis5ETB](http://twitter.com/search?q=%23conquis5ETB) | N/A |
+| 9 | [David](http://twitter.com/search?q=David) | N/A |
+| 10 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 11 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 12 | [#Murgas1LPGC](http://twitter.com/search?q=%23Murgas1LPGC) | N/A |
+| 13 | [Don Antonio](http://twitter.com/search?q=Don+Antonio) | Don Antonio is a Spanish title of respect given to a man of high social standing. It is equivalent to the English title of "Sir" or "Mister". |
+| 14 | [#Hermanos13Feb](http://twitter.com/search?q=%23Hermanos13Feb) | N/A |
+| 15 | [Jokin](http://twitter.com/search?q=Jokin) | N/A |
+| 16 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 17 | [Amador](http://twitter.com/search?q=Amador) | N/A |
+| 18 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
+| 19 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 20 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 21 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 22 | [Seleta](http://twitter.com/search?q=Seleta) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 25 | [manu](http://twitter.com/search?q=manu) | N/A |
+| 26 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 27 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 28 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 29 | [Sangalli](http://twitter.com/search?q=Sangalli) | N/A |
+| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 31 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 32 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
+| 33 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 34 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 38 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 39 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
+| 40 | [Iñigo Vicente](http://twitter.com/search?q=I%c3%b1igo+Vicente) | N/A |
+| 41 | [Mario Vaquerizo](http://twitter.com/search?q=Mario+Vaquerizo) | Mario Vaquerizo is a Spanish singer, actor, and television presenter. He is best known for his work on the television show La Movida and his collaborations with his wife Alaska. The name Mario Vaquerizo roughly translates to "Mario the Cowboy" in English. |
+| 42 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [Lega](http://twitter.com/search?q=Lega) | N/A |
+| 45 | [Psicosis](http://twitter.com/search?q=Psicosis) | N/A |
+| 46 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 47 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 48 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
+| 49 | [Mari Carmen](http://twitter.com/search?q=Mari+Carmen) | N/A |
+| 50 | [Quirón](http://twitter.com/search?q=Quir%c3%b3n) | N/A |
 
 
 

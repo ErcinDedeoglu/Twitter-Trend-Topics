@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-14 00:29:08 UTC`
+📆 Last Updated: `2023-02-14 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 2 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 3 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 4 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 5 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 6 | [dudu](http://twitter.com/search?q=dudu) | N/A |
-| 7 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 8 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 9 | [STUPID WIFE](http://twitter.com/search?q=STUPID+WIFE) | "Stupid Wife" is an offensive term used to describe a woman who is perceived as unintelligent or foolish. It is considered derogatory and should not be used. |
-| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 11 | [STELOISA NO SAMBA](http://twitter.com/search?q=STELOISA+NO+SAMBA) | N/A |
-| 12 | [#HOPEWEEKD2](http://twitter.com/search?q=%23HOPEWEEKD2) | N/A |
-| 13 | [BARMY FOGO NA HOPEWEEK](http://twitter.com/search?q=BARMY+FOGO+NA+HOPEWEEK) | N/A |
-| 14 | [#CRUxCAM](http://twitter.com/search?q=%23CRUxCAM) | N/A |
-| 15 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 16 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 17 | [FELIZ ANIVERSÁRIO NERO](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+NERO) | N/A |
-| 18 | [#DiazNaFoliaBotiQDB](http://twitter.com/search?q=%23DiazNaFoliaBotiQDB) | N/A |
+| 1 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 2 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 3 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 4 | [dudu](http://twitter.com/search?q=dudu) | N/A |
+| 5 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 6 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 7 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 8 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 9 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 10 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 11 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 12 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 13 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 14 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 15 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 16 | [Walisson](http://twitter.com/search?q=Walisson) | N/A |
+| 17 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 18 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
 | 19 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 21 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [SIGA CORINGA NA TWITCH](http://twitter.com/search?q=SIGA+CORINGA+NA+TWITCH) | N/A |
-| 24 | [TEAM PRIOR SEMPRE](http://twitter.com/search?q=TEAM+PRIOR+SEMPRE) | N/A |
-| 25 | [#neyday](http://twitter.com/search?q=%23neyday) | N/A |
-| 26 | [BIBI TATTO IS COMING](http://twitter.com/search?q=BIBI+TATTO+IS+COMING) | N/A |
-| 27 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
-| 28 | [SANTINHA OU MALVADA](http://twitter.com/search?q=SANTINHA+OU+MALVADA) | N/A |
-| 29 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 30 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 31 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 33 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
-| 34 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 35 | [Frango](http://twitter.com/search?q=Frango) | N/A |
-| 36 | [Rosane](http://twitter.com/search?q=Rosane) | N/A |
-| 37 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
-| 38 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 40 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
-| 41 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 42 | [VAMO GALO](http://twitter.com/search?q=VAMO+GALO) | N/A |
-| 43 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 44 | [UFPEL](http://twitter.com/search?q=UFPEL) | N/A |
-| 45 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 46 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 47 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 48 | [Janete](http://twitter.com/search?q=Janete) | N/A |
-| 49 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 50 | [Independência](http://twitter.com/search?q=Independ%c3%aancia) | N/A |
+| 20 | [STELOISA NO SAMBA](http://twitter.com/search?q=STELOISA+NO+SAMBA) | N/A |
+| 21 | [Arana](http://twitter.com/search?q=Arana) | Arana is a Spanish word meaning "spider". |
+| 22 | [#CRUxCAM](http://twitter.com/search?q=%23CRUxCAM) | N/A |
+| 23 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 24 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 25 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 26 | [STUPID WIFE](http://twitter.com/search?q=STUPID+WIFE) | "Stupid Wife" is an offensive term used to describe a woman who is perceived as unintelligent or foolish. It is considered derogatory and should not be used. |
+| 27 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
+| 28 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
+| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 30 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 31 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 32 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 33 | [#neyday](http://twitter.com/search?q=%23neyday) | N/A |
+| 34 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
+| 35 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 36 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 37 | [100% Galoucura](http://twitter.com/search?q=100%25+Galoucura) | N/A |
+| 38 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
+| 39 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
+| 40 | [Ailton Graça](http://twitter.com/search?q=Ailton+Gra%c3%a7a) | N/A |
+| 41 | [Roberto Campos Neto](http://twitter.com/search?q=Roberto+Campos+Neto) | N/A |
+| 42 | [#HOPEWEEKD2](http://twitter.com/search?q=%23HOPEWEEKD2) | N/A |
+| 43 | [BARMY FOGO NA HOPEWEEK](http://twitter.com/search?q=BARMY+FOGO+NA+HOPEWEEK) | N/A |
+| 44 | [Noise](http://twitter.com/search?q=Noise) | N/A |
+| 45 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 46 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
+| 47 | [FELIZ ANIVERSÁRIO NERO](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+NERO) | N/A |
+| 48 | [TEAM PRIOR SEMPRE](http://twitter.com/search?q=TEAM+PRIOR+SEMPRE) | N/A |
+| 49 | [Independência](http://twitter.com/search?q=Independ%c3%aancia) | N/A |
+| 50 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
 
 
 

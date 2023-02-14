@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-14 00:29:08 UTC`
+📆 Last Updated: `2023-02-14 01:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
-| 2 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 3 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 4 | [alexandre nero](http://twitter.com/search?q=alexandre+nero) | N/A |
-| 5 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
-| 6 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 7 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 8 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 9 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 10 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 11 | [dudu](http://twitter.com/search?q=dudu) | N/A |
-| 12 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 13 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 14 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 15 | [STUPID WIFE](http://twitter.com/search?q=STUPID+WIFE) | "Stupid Wife" is an offensive term used to describe a woman who is perceived as unintelligent or foolish. It is considered derogatory and should not be used. |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [STELOISA NO SAMBA](http://twitter.com/search?q=STELOISA+NO+SAMBA) | N/A |
-| 18 | [#HOPEWEEKD2](http://twitter.com/search?q=%23HOPEWEEKD2) | N/A |
-| 19 | [BARMY FOGO NA HOPEWEEK](http://twitter.com/search?q=BARMY+FOGO+NA+HOPEWEEK) | N/A |
-| 20 | [#CRUxCAM](http://twitter.com/search?q=%23CRUxCAM) | N/A |
-| 21 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 22 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 23 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 24 | [FELIZ ANIVERSÁRIO NERO](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+NERO) | N/A |
-| 25 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 26 | [#DiazNaFoliaBotiQDB](http://twitter.com/search?q=%23DiazNaFoliaBotiQDB) | N/A |
-| 27 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 28 | [SIGA CORINGA NA TWITCH](http://twitter.com/search?q=SIGA+CORINGA+NA+TWITCH) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [TEAM PRIOR SEMPRE](http://twitter.com/search?q=TEAM+PRIOR+SEMPRE) | N/A |
-| 31 | [BIBI TATTO IS COMING](http://twitter.com/search?q=BIBI+TATTO+IS+COMING) | N/A |
-| 32 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
-| 33 | [SANTINHA OU MALVADA](http://twitter.com/search?q=SANTINHA+OU+MALVADA) | N/A |
-| 34 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 35 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 36 | [Frango](http://twitter.com/search?q=Frango) | N/A |
-| 37 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 38 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
-| 39 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 40 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 41 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
-| 42 | [Rosane](http://twitter.com/search?q=Rosane) | N/A |
-| 43 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 44 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 45 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 46 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
-| 47 | [VAMO GALO](http://twitter.com/search?q=VAMO+GALO) | N/A |
-| 48 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 49 | [UFPEL](http://twitter.com/search?q=UFPEL) | N/A |
-| 50 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 1 | [#SalvemAposentados](http://twitter.com/search?q=%23SalvemAposentados) | N/A |
+| 2 | [Marrom](http://twitter.com/search?q=Marrom) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 6 | [Chernobyl 2.0](http://twitter.com/search?q=Chernobyl+2.0) | N/A |
+| 7 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 8 | [André Lara Resende](http://twitter.com/search?q=Andr%c3%a9+Lara+Resende) | N/A |
+| 9 | [#DesmonetizaJovemPan](http://twitter.com/search?q=%23DesmonetizaJovemPan) | N/A |
+| 10 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
+| 11 | [Monte Mor](http://twitter.com/search?q=Monte+Mor) | N/A |
+| 12 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 13 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 14 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 15 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 16 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 17 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 18 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 19 | [dudu](http://twitter.com/search?q=dudu) | N/A |
+| 20 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 21 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 22 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 23 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 24 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 25 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 26 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 27 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 28 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 29 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 30 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 31 | [Walisson](http://twitter.com/search?q=Walisson) | N/A |
+| 32 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 33 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 34 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 35 | [STELOISA NO SAMBA](http://twitter.com/search?q=STELOISA+NO+SAMBA) | N/A |
+| 36 | [Arana](http://twitter.com/search?q=Arana) | Arana is a Spanish word meaning "spider". |
+| 37 | [#CRUxCAM](http://twitter.com/search?q=%23CRUxCAM) | N/A |
+| 38 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 39 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 40 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 41 | [STUPID WIFE](http://twitter.com/search?q=STUPID+WIFE) | "Stupid Wife" is an offensive term used to describe a woman who is perceived as unintelligent or foolish. It is considered derogatory and should not be used. |
+| 42 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
+| 43 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
+| 44 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 45 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 46 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 47 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 48 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
+| 49 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 50 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
 
 
 

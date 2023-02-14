@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-14 00:29:52 UTC`
+📆 Last Updated: `2023-02-14 01:44:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
-| 2 | [#mileienmasrealidad](http://twitter.com/search?q=%23mileienmasrealidad) | N/A |
-| 3 | [Donda](http://twitter.com/search?q=Donda) | N/A |
-| 4 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
-| 5 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 6 | [#LargoLaCarrera](http://twitter.com/search?q=%23LargoLaCarrera) | N/A |
-| 7 | [Canale](http://twitter.com/search?q=Canale) | N/A |
-| 8 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 9 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
-| 10 | [INADI](http://twitter.com/search?q=INADI) | N/A |
-| 11 | [Changuito](http://twitter.com/search?q=Changuito) | N/A |
-| 12 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
-| 13 | [Godoy](http://twitter.com/search?q=Godoy) | N/A |
-| 14 | [Ascacibar](http://twitter.com/search?q=Ascacibar) | N/A |
-| 15 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 18 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 19 | [pablo agustin](http://twitter.com/search?q=pablo+agustin) | N/A |
-| 20 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
-| 21 | [Piris](http://twitter.com/search?q=Piris) | N/A |
-| 22 | [Aued](http://twitter.com/search?q=Aued) | N/A |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [#TeParaMarcos](http://twitter.com/search?q=%23TeParaMarcos) | N/A |
-| 25 | [#LaVirginia](http://twitter.com/search?q=%23LaVirginia) | N/A |
-| 26 | [marti benza](http://twitter.com/search?q=marti+benza) | N/A |
-| 27 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 28 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
-| 29 | [Chango](http://twitter.com/search?q=Chango) | N/A |
-| 30 | [Heller](http://twitter.com/search?q=Heller) | N/A |
-| 31 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 33 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 34 | [Cazzu](http://twitter.com/search?q=Cazzu) | N/A |
-| 35 | [nati jota](http://twitter.com/search?q=nati+jota) | N/A |
-| 36 | [Natuti](http://twitter.com/search?q=Natuti) | N/A |
-| 37 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 38 | [Aracre](http://twitter.com/search?q=Aracre) | N/A |
-| 39 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 40 | [Margus Guarnocchio](http://twitter.com/search?q=Margus+Guarnocchio) | N/A |
-| 41 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 42 | [Flor de la V](http://twitter.com/search?q=Flor+de+la+V) | N/A |
-| 43 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
-| 44 | [#Lanus](http://twitter.com/search?q=%23Lanus) | N/A |
-| 45 | [#FEIDConFMLike](http://twitter.com/search?q=%23FEIDConFMLike) | N/A |
-| 46 | [#BangChan](http://twitter.com/search?q=%23BangChan) | N/A |
-| 47 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
-| 48 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 1 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
+| 2 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
+| 3 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
+| 4 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
+| 5 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 6 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
+| 7 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 8 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 9 | [Troyansky](http://twitter.com/search?q=Troyansky) | N/A |
+| 10 | [Entran 2](http://twitter.com/search?q=Entran+2) | N/A |
+| 11 | [Donda](http://twitter.com/search?q=Donda) | N/A |
+| 12 | [#mileienmasrealidad](http://twitter.com/search?q=%23mileienmasrealidad) | N/A |
+| 13 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 14 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 15 | [Rodrigo Mora](http://twitter.com/search?q=Rodrigo+Mora) | N/A |
+| 16 | [Acosta](http://twitter.com/search?q=Acosta) | N/A |
+| 17 | [Juli Puente](http://twitter.com/search?q=Juli+Puente) | N/A |
+| 18 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 19 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
+| 20 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 21 | [Lema](http://twitter.com/search?q=Lema) | N/A |
+| 22 | [#LargoLaCarrera](http://twitter.com/search?q=%23LargoLaCarrera) | N/A |
+| 23 | [Yeyo](http://twitter.com/search?q=Yeyo) | N/A |
+| 24 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
+| 25 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 26 | [#GranHermanoArgentina](http://twitter.com/search?q=%23GranHermanoArgentina) | N/A |
+| 27 | [Canale](http://twitter.com/search?q=Canale) | N/A |
+| 28 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 29 | [Ascacibar](http://twitter.com/search?q=Ascacibar) | N/A |
+| 30 | [Lizardo](http://twitter.com/search?q=Lizardo) | N/A |
+| 31 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
+| 32 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
+| 33 | [Rollheiser](http://twitter.com/search?q=Rollheiser) | N/A |
+| 34 | [pablo agustin](http://twitter.com/search?q=pablo+agustin) | N/A |
+| 35 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
+| 36 | [INADI](http://twitter.com/search?q=INADI) | N/A |
+| 37 | [Piatti](http://twitter.com/search?q=Piatti) | N/A |
+| 38 | [Gastón](http://twitter.com/search?q=Gast%c3%b3n) | N/A |
+| 39 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 40 | [Zapiola](http://twitter.com/search?q=Zapiola) | N/A |
+| 41 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 42 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 43 | [Changuito](http://twitter.com/search?q=Changuito) | N/A |
+| 44 | [Godoy](http://twitter.com/search?q=Godoy) | N/A |
+| 45 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
+| 46 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 47 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
+| 48 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [marti benza](http://twitter.com/search?q=marti+benza) | N/A |
 
 
 
