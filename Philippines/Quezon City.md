@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-14 16:17:25 UTC`
+📆 Last Updated: `2023-02-14 17:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,47 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 2 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 3 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 4 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 5 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 6 | [KDLEX VALENTINE SPECIAL](http://twitter.com/search?q=KDLEX+VALENTINE+SPECIAL) | N/A |
-| 7 | [ReadyToBe TIMETABLE](http://twitter.com/search?q=ReadyToBe+TIMETABLE) | N/A |
-| 8 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 9 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
-| 10 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 11 | [#DLNewPlan](http://twitter.com/search?q=%23DLNewPlan) | N/A |
-| 12 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 13 | [#MyJaelentines](http://twitter.com/search?q=%23MyJaelentines) | N/A |
-| 14 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
-| 15 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 16 | [FRANSETH PumaFebIbig](http://twitter.com/search?q=FRANSETH+PumaFebIbig) | N/A |
+| 2 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 3 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 4 | [KDLEX VALENTINE SPECIAL](http://twitter.com/search?q=KDLEX+VALENTINE+SPECIAL) | N/A |
+| 5 | [#MetroLovesKDLex](http://twitter.com/search?q=%23MetroLovesKDLex) | N/A |
+| 6 | [#ReadyToBe_Timetable](http://twitter.com/search?q=%23ReadyToBe_Timetable) | N/A |
+| 7 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 8 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 9 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
+| 10 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 11 | [#MyJaelentines](http://twitter.com/search?q=%23MyJaelentines) | N/A |
+| 12 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 13 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 15 | [FRANSETH PumaFebIbig](http://twitter.com/search?q=FRANSETH+PumaFebIbig) | N/A |
+| 16 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
 | 17 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 18 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 19 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 20 | [HaPIE Prince Day](http://twitter.com/search?q=HaPIE+Prince+Day) | N/A |
-| 21 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
-| 22 | [DARREN IS OUR FEB-IBIG](http://twitter.com/search?q=DARREN+IS+OUR+FEB-IBIG) | N/A |
-| 23 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 24 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 25 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 26 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 27 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 28 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 29 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 30 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
-| 31 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 33 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 34 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 35 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 36 | [JOURNEY WITH HORI7ON BEGINS](http://twitter.com/search?q=JOURNEY+WITH+HORI7ON+BEGINS) | N/A |
-| 37 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 38 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 39 | [Flowers](http://twitter.com/search?q=Flowers) | N/A |
-| 40 | [#MCIAgnosOBaril](http://twitter.com/search?q=%23MCIAgnosOBaril) | N/A |
-| 41 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
-| 42 | [#DreamChasersPIELabyu](http://twitter.com/search?q=%23DreamChasersPIELabyu) | N/A |
-| 43 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 44 | [#WWIW17](http://twitter.com/search?q=%23WWIW17) | N/A |
-| 45 | [#LuvIsOuch](http://twitter.com/search?q=%23LuvIsOuch) | N/A |
-| 46 | [#RoyalNaLoyalKayPrince](http://twitter.com/search?q=%23RoyalNaLoyalKayPrince) | N/A |
-| 47 | [#FPJBQTanggol](http://twitter.com/search?q=%23FPJBQTanggol) | N/A |
-| 48 | [#Physical100](http://twitter.com/search?q=%23Physical100) | N/A |
-| 49 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
-| 50 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
+| 18 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 19 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 20 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
+| 21 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 22 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 23 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 24 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 25 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 26 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 27 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 28 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 29 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 30 | [Flowers](http://twitter.com/search?q=Flowers) | N/A |
+| 31 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
+| 32 | [#DLNewPlan](http://twitter.com/search?q=%23DLNewPlan) | N/A |
+| 33 | [#DreamChasersPIELabyu](http://twitter.com/search?q=%23DreamChasersPIELabyu) | N/A |
+| 34 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
+| 35 | [#MCIAgnosOBaril](http://twitter.com/search?q=%23MCIAgnosOBaril) | N/A |
+| 36 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 37 | [#LuvIsOuch](http://twitter.com/search?q=%23LuvIsOuch) | N/A |
+| 38 | [#Physical100](http://twitter.com/search?q=%23Physical100) | N/A |
+| 39 | [#WWIW17](http://twitter.com/search?q=%23WWIW17) | N/A |
+| 40 | [#FPJBQTanggol](http://twitter.com/search?q=%23FPJBQTanggol) | N/A |
+| 41 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
+| 42 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
 
 
 

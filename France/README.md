@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-14 16:17:52 UTC`
+📆 Last Updated: `2023-02-14 17:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,42 +18,38 @@ This is top 50 for France
 | 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 2 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
 | 3 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 4 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 5 | [#mercimacron](http://twitter.com/search?q=%23mercimacron) | N/A |
-| 6 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 7 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 8 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
-| 9 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
-| 10 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 11 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 5 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 6 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 7 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
+| 8 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 9 | [#chainsawman120](http://twitter.com/search?q=%23chainsawman120) | N/A |
+| 10 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
+| 11 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
 | 12 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
-| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 14 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 15 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
-| 16 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 17 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 18 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 19 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 20 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
-| 21 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 22 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 23 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
-| 24 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 25 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 26 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 27 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 13 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 14 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 15 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 16 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 19 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
+| 20 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 21 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 22 | [Mensonges](http://twitter.com/search?q=Mensonges) | N/A |
+| 23 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 24 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 25 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 26 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 27 | [#mercimacron](http://twitter.com/search?q=%23mercimacron) | N/A |
 | 28 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
 | 29 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 30 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 31 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 32 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 33 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
-| 34 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 35 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
-| 36 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 37 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 39 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
+| 30 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 31 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 32 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
+| 33 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 34 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
+| 35 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
 
 
 

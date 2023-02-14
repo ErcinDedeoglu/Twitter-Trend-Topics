@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-14 16:17:04 UTC`
+📆 Last Updated: `2023-02-14 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [#JuventudIntegraciónYPaz](http://twitter.com/search?q=%23JuventudIntegraci%c3%b3nYPaz) | N/A |
 | 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 7 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 8 | [Gustavo Elis](http://twitter.com/search?q=Gustavo+Elis) | N/A |
+| 8 | [Bonanza](http://twitter.com/search?q=Bonanza) | N/A |
 | 9 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 10 | [Bonanza](http://twitter.com/search?q=Bonanza) | N/A |
+| 10 | [Gustavo Elis](http://twitter.com/search?q=Gustavo+Elis) | N/A |
 | 11 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
-| 12 | [Armando Manzanero](http://twitter.com/search?q=Armando+Manzanero) | N/A |
-| 13 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 12 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 13 | [Armando Manzanero](http://twitter.com/search?q=Armando+Manzanero) | N/A |
 | 14 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 15 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 16 | [Claudio II](http://twitter.com/search?q=Claudio+II) | N/A |
-| 17 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
-| 18 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
-| 19 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 20 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
-| 21 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 22 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 23 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
-| 24 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 25 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
-| 26 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 27 | [gran mariscal de ayacucho](http://twitter.com/search?q=gran+mariscal+de+ayacucho) | N/A |
-| 28 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 30 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 31 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 32 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 33 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
-| 34 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
-| 35 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 36 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 37 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 38 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
-| 39 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 40 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 41 | [Carlos Enrique Gómez Rodríguez](http://twitter.com/search?q=Carlos+Enrique+G%c3%b3mez+Rodr%c3%adguez) | N/A |
-| 42 | [Zulia](http://twitter.com/search?q=Zulia) | N/A |
-| 43 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 44 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
-| 45 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
+| 15 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
+| 16 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
+| 17 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 18 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
+| 19 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
+| 20 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 21 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 22 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 23 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
+| 24 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 25 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 26 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 27 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
+| 28 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 29 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 30 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
+| 31 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 32 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 33 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 34 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
+| 35 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 36 | [Zulia](http://twitter.com/search?q=Zulia) | N/A |
+| 37 | [Benjamin Rausseo](http://twitter.com/search?q=Benjamin+Rausseo) | N/A |
+| 38 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
+| 39 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 40 | [Carlos Enrique Gómez Rodríguez](http://twitter.com/search?q=Carlos+Enrique+G%c3%b3mez+Rodr%c3%adguez) | N/A |
+| 41 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 43 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
+| 44 | [Claudio II](http://twitter.com/search?q=Claudio+II) | N/A |
+| 45 | [copei](http://twitter.com/search?q=copei) | N/A |
 | 46 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
-| 47 | [Benjamin Rausseo](http://twitter.com/search?q=Benjamin+Rausseo) | N/A |
+| 47 | [Satena](http://twitter.com/search?q=Satena) | N/A |
 
 
 

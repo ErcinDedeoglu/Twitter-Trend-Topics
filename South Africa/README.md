@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-14 16:17:56 UTC`
+📆 Last Updated: `2023-02-14 17:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for South Africa
 | 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 8 | [Lerato Kganyago](http://twitter.com/search?q=Lerato+Kganyago) | N/A |
 | 9 | [Don Design](http://twitter.com/search?q=Don+Design) | N/A |
-| 10 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
-| 11 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 12 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 13 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
-| 14 | [Tony Forbes](http://twitter.com/search?q=Tony+Forbes) | N/A |
-| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 16 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 17 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 10 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 11 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 12 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
+| 13 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 14 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 15 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
+| 16 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
+| 17 | [happy mashiane](http://twitter.com/search?q=happy+mashiane) | N/A |
 | 18 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 19 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
-| 20 | [happy mashiane](http://twitter.com/search?q=happy+mashiane) | N/A |
-| 21 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
-| 22 | [Bloated](http://twitter.com/search?q=Bloated) | N/A |
-| 23 | [Michael Loftman](http://twitter.com/search?q=Michael+Loftman) | N/A |
-| 24 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 25 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
-| 26 | [Momentum Proteas](http://twitter.com/search?q=Momentum+Proteas) | N/A |
-| 27 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 28 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 29 | [eWaa](http://twitter.com/search?q=eWaa) | N/A |
-| 30 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 31 | [Asap Rocky](http://twitter.com/search?q=Asap+Rocky) | N/A |
-| 32 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 33 | [Reeva Steenkamp](http://twitter.com/search?q=Reeva+Steenkamp) | N/A |
-| 34 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 35 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 36 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 37 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 38 | [kanaiva](http://twitter.com/search?q=kanaiva) | N/A |
-| 39 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 40 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 41 | [juiovla](http://twitter.com/search?q=juiovla) | N/A |
-| 42 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 43 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 44 | [nanette](http://twitter.com/search?q=nanette) | N/A |
-| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 46 | [Phumulani Mall](http://twitter.com/search?q=Phumulani+Mall) | N/A |
-| 47 | [Extreme - More Than Words](http://twitter.com/search?q=Extreme+-+More+Than+Words) | N/A |
-| 48 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 50 | [I CAN](http://twitter.com/search?q=I+CAN) | N/A |
+| 19 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
+| 20 | [Nadia Nakai](http://twitter.com/search?q=Nadia+Nakai) | N/A |
+| 21 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
+| 22 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 23 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 24 | [eWaa](http://twitter.com/search?q=eWaa) | N/A |
+| 25 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 26 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 27 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 28 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 29 | [Reeva Steenkamp](http://twitter.com/search?q=Reeva+Steenkamp) | N/A |
+| 30 | [Khwezi](http://twitter.com/search?q=Khwezi) | N/A |
+| 31 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 32 | [Lehasa](http://twitter.com/search?q=Lehasa) | N/A |
+| 33 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 34 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
+| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 36 | [Bloated](http://twitter.com/search?q=Bloated) | N/A |
+| 37 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
+| 38 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Juiovla](http://twitter.com/search?q=Juiovla) | N/A |
+| 41 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 42 | [nanette](http://twitter.com/search?q=nanette) | N/A |
+| 43 | [Durex](http://twitter.com/search?q=Durex) | N/A |
+| 44 | [Phumulani Mall](http://twitter.com/search?q=Phumulani+Mall) | N/A |
+| 45 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 47 | [Michael Loftman](http://twitter.com/search?q=Michael+Loftman) | N/A |
+| 48 | [Extreme - More Than Words](http://twitter.com/search?q=Extreme+-+More+Than+Words) | N/A |
+| 49 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 50 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-14 16:17:48 UTC`
+📆 Last Updated: `2023-02-14 17:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 2 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 5 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 6 | [Todd Monken](http://twitter.com/search?q=Todd+Monken) | Todd Monken is an American football coach and former player. He is currently the offensive coordinator for the Cleveland Browns of the National Football League (NFL). Monken has previously served as head coach of Southern Miss, offensive coordinator for Oklahoma State, and wide receivers coach for the Jacksonville Jaguars. |
-| 7 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 8 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 9 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 10 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
-| 11 | [#MSUStrong](http://twitter.com/search?q=%23MSUStrong) | N/A |
-| 12 | [#chainsawman120](http://twitter.com/search?q=%23chainsawman120) | N/A |
-| 13 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 1 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 4 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 6 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 7 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 8 | [Monken](http://twitter.com/search?q=Monken) | N/A |
+| 9 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 10 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
+| 11 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
+| 12 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
+| 13 | [NEWARK](http://twitter.com/search?q=NEWARK) | N/A |
 | 14 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 15 | [ROSEMONT](http://twitter.com/search?q=ROSEMONT) | N/A |
-| 16 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 17 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 18 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 19 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 20 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 21 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 22 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 23 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 24 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 25 | [Anthony McRae](http://twitter.com/search?q=Anthony+McRae) | N/A |
-| 26 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 27 | [Jim Caldwell](http://twitter.com/search?q=Jim+Caldwell) | N/A |
-| 28 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
-| 29 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 30 | [YOONGI IS GOING ON TOUR](http://twitter.com/search?q=YOONGI+IS+GOING+ON+TOUR) | N/A |
-| 31 | [nassar](http://twitter.com/search?q=nassar) | N/A |
-| 32 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
-| 33 | [0.5% in January](http://twitter.com/search?q=0.5%25+in+January) | N/A |
-| 34 | [Frank Reich](http://twitter.com/search?q=Frank+Reich) | Frank Reich is a former American football player and coach. He is currently the head coach of the Indianapolis Colts of the National Football League (NFL). The name "Frank Reich" is derived from the German word "Reich", which means "empire". |
-| 35 | [Michael Wacha](http://twitter.com/search?q=Michael+Wacha) | N/A |
-| 36 | [Dax Shepard](http://twitter.com/search?q=Dax+Shepard) | N/A |
-| 37 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 15 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 16 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 17 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 18 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 19 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 20 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 21 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
+| 22 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 24 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 25 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 26 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 27 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 28 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 29 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
+| 30 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 31 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 32 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 33 | [Jim Caldwell](http://twitter.com/search?q=Jim+Caldwell) | N/A |
+| 34 | [Anthony McRae](http://twitter.com/search?q=Anthony+McRae) | N/A |
+| 35 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
+| 36 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 37 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
 | 38 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 39 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 39 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
 | 40 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
-| 41 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 42 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 43 | [Scorpios](http://twitter.com/search?q=Scorpios) | N/A |
-| 44 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 45 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 46 | [Hallmark](http://twitter.com/search?q=Hallmark) | N/A |
-| 47 | [Frank Turner](http://twitter.com/search?q=Frank+Turner) | N/A |
-| 48 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
-| 49 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 50 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 41 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 42 | [Greg Roman](http://twitter.com/search?q=Greg+Roman) | Greg Roman is the name of an American football coach. He is currently the offensive coordinator for the Baltimore Ravens of the National Football League (NFL). He has previously served as offensive coordinator for the San Francisco 49ers, Buffalo Bills, and Stanford Cardinal. |
+| 43 | [Hallmark](http://twitter.com/search?q=Hallmark) | N/A |
+| 44 | [Air Raid](http://twitter.com/search?q=Air+Raid) | N/A |
+| 45 | [Dax Shepard](http://twitter.com/search?q=Dax+Shepard) | N/A |
+| 46 | [Berlanga](http://twitter.com/search?q=Berlanga) | N/A |
+| 47 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 48 | [Michael Wacha](http://twitter.com/search?q=Michael+Wacha) | N/A |
+| 49 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
+| 50 | [YOONGI IS GOING ON TOUR](http://twitter.com/search?q=YOONGI+IS+GOING+ON+TOUR) | N/A |
 
 
 

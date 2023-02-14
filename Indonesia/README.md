@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-14 16:17:52 UTC`
+📆 Last Updated: `2023-02-14 17:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 2 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 3 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
-| 4 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 5 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
-| 6 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 7 | [#HAPPYKDJDAY2023](http://twitter.com/search?q=%23HAPPYKDJDAY2023) | N/A |
-| 8 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
-| 9 | [Mana 3](http://twitter.com/search?q=Mana+3) | N/A |
-| 10 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
-| 11 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 12 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
-| 13 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
-| 14 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
-| 15 | [Sword](http://twitter.com/search?q=Sword) | N/A |
-| 16 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 17 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 18 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 19 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 21 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 22 | [Doneeee](http://twitter.com/search?q=Doneeee) | N/A |
-| 23 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 24 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
-| 25 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 26 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
-| 27 | [Indomaret](http://twitter.com/search?q=Indomaret) | N/A |
-| 28 | [Wibu](http://twitter.com/search?q=Wibu) | N/A |
-| 29 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 30 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
-| 31 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 32 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 33 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
-| 34 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
-| 35 | [#LANEIGExNanonNamtanJan](http://twitter.com/search?q=%23LANEIGExNanonNamtanJan) | N/A |
-| 36 | [#PinkRabbitLens](http://twitter.com/search?q=%23PinkRabbitLens) | N/A |
-| 37 | [#PRoudLens](http://twitter.com/search?q=%23PRoudLens) | N/A |
-| 38 | [#HAPPY_CARAT_DAY](http://twitter.com/search?q=%23HAPPY_CARAT_DAY) | N/A |
-| 39 | [#CARATDAY](http://twitter.com/search?q=%23CARATDAY) | N/A |
+| 1 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 2 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
+| 3 | [#KasihSayangIndiHome](http://twitter.com/search?q=%23KasihSayangIndiHome) | N/A |
+| 4 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 5 | [#YouAreFirst](http://twitter.com/search?q=%23YouAreFirst) | N/A |
+| 6 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 7 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 8 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 9 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 10 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 11 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 12 | [pastinya prabowo](http://twitter.com/search?q=pastinya+prabowo) | N/A |
+| 13 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
+| 14 | [maju terus bersama prabowo](http://twitter.com/search?q=maju+terus+bersama+prabowo) | N/A |
+| 15 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 16 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
+| 17 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
+| 18 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 19 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 20 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 21 | [danny praditya](http://twitter.com/search?q=danny+praditya) | N/A |
+| 22 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
+| 23 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
+| 24 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
+| 25 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
+| 26 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
+| 27 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 28 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
+| 29 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 30 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
+| 31 | [Sword](http://twitter.com/search?q=Sword) | N/A |
+| 32 | [jakarta 3](http://twitter.com/search?q=jakarta+3) | N/A |
+| 33 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 34 | [Brio](http://twitter.com/search?q=Brio) | N/A |
+| 35 | [d.n.a cypher mv out now](http://twitter.com/search?q=d.n.a+cypher+mv+out+now) | N/A |
+| 36 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
+| 37 | [Kuat Ma'ruf](http://twitter.com/search?q=Kuat+Ma%27ruf) | N/A |
+| 38 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 39 | [TIGA HARI](http://twitter.com/search?q=TIGA+HARI) | N/A |
+| 40 | [ReadyToBe TIMETABLE](http://twitter.com/search?q=ReadyToBe+TIMETABLE) | N/A |
+| 41 | [Ricky Rizal](http://twitter.com/search?q=Ricky+Rizal) | N/A |
+| 42 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 43 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 44 | [Mana 3](http://twitter.com/search?q=Mana+3) | N/A |
+| 45 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 46 | [Amnesia](http://twitter.com/search?q=Amnesia) | N/A |
+| 47 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
+| 48 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 49 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 50 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 
 
 

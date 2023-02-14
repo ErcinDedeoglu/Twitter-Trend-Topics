@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-14 16:17:04 UTC`
+📆 Last Updated: `2023-02-14 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [dudu](http://twitter.com/search?q=dudu) | N/A |
-| 2 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 1 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 2 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 3 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 7 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 6 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 7 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 8 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 9 | [Cadê o Brasil](http://twitter.com/search?q=Cad%c3%aa+o+Brasil) | N/A |
-| 10 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 11 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 9 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 10 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 11 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 | 12 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 13 | [ELE CORTOU O CABELO](http://twitter.com/search?q=ELE+CORTOU+O+CABELO) | N/A |
-| 14 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 15 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
-| 16 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 13 | [Cadê o Brasil](http://twitter.com/search?q=Cad%c3%aa+o+Brasil) | N/A |
+| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 16 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
 | 17 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 18 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 19 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 20 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 21 | [Garena](http://twitter.com/search?q=Garena) | N/A |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 23 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 24 | [Minha Casa](http://twitter.com/search?q=Minha+Casa) | N/A |
-| 25 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 26 | [caroline](http://twitter.com/search?q=caroline) | N/A |
-| 27 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
-| 28 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
-| 29 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 30 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 31 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Football Club](http://twitter.com/search?q=Football+Club) | N/A |
-| 34 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
-| 35 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
-| 36 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
-| 37 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
-| 38 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 39 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 40 | [South America](http://twitter.com/search?q=South+America) | N/A |
-| 41 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 18 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 19 | [ELE CORTOU O CABELO](http://twitter.com/search?q=ELE+CORTOU+O+CABELO) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
+| 22 | [Badosa](http://twitter.com/search?q=Badosa) | N/A |
+| 23 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 24 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
+| 25 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 26 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 27 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 28 | [Mel Maia](http://twitter.com/search?q=Mel+Maia) | N/A |
+| 29 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 30 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 31 | [Garena](http://twitter.com/search?q=Garena) | N/A |
+| 32 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
+| 33 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
+| 34 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 35 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 36 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
+| 37 | [caroline](http://twitter.com/search?q=caroline) | N/A |
+| 38 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Football Club](http://twitter.com/search?q=Football+Club) | N/A |
+| 41 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
 | 42 | [Vênus](http://twitter.com/search?q=V%c3%aanus) | N/A |
-| 43 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 44 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 45 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
-| 46 | [Sapiosexual](http://twitter.com/search?q=Sapiosexual) | N/A |
-| 47 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
-| 48 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 49 | [Mel Maia](http://twitter.com/search?q=Mel+Maia) | N/A |
-| 50 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 43 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
+| 44 | [Minha Casa](http://twitter.com/search?q=Minha+Casa) | N/A |
+| 45 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
+| 46 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 47 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
+| 48 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
+| 49 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 
 
 

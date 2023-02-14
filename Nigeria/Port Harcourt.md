@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-14 16:17:27 UTC`
+📆 Last Updated: `2023-02-14 17:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HypoToiletCleanerValentine](http://twitter.com/search?q=%23HypoToiletCleanerValentine) | N/A |
-| 2 | [#LoveInAbox](http://twitter.com/search?q=%23LoveInAbox) | N/A |
-| 3 | [#Lovewisely](http://twitter.com/search?q=%23Lovewisely) | N/A |
-| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [Dj Gaba](http://twitter.com/search?q=Dj+Gaba) | N/A |
-| 6 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
-| 7 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 8 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
-| 9 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
-| 10 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
-| 11 | [The Central Bank of Nigeria](http://twitter.com/search?q=The+Central+Bank+of+Nigeria) | N/A |
-| 12 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 13 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
-| 14 | [SPREAD LOVE WITH YVONNE](http://twitter.com/search?q=SPREAD+LOVE+WITH+YVONNE) | N/A |
-| 15 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
-| 18 | [VALENTINE WITH PHYNA](http://twitter.com/search?q=VALENTINE+WITH+PHYNA) | N/A |
-| 19 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 20 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 21 | [Imo State](http://twitter.com/search?q=Imo+State) | N/A |
-| 22 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 23 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 24 | [LOML](http://twitter.com/search?q=LOML) | N/A |
-| 25 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
-| 26 | [Awwwn](http://twitter.com/search?q=Awwwn) | N/A |
-| 27 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 28 | [#ShoppersWarehouse](http://twitter.com/search?q=%23ShoppersWarehouse) | N/A |
-| 29 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 30 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
-| 31 | [#WhatsApp](http://twitter.com/search?q=%23WhatsApp) | N/A |
-| 32 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 33 | [#Oshodi](http://twitter.com/search?q=%23Oshodi) | N/A |
-| 34 | [#ASundayAffair](http://twitter.com/search?q=%23ASundayAffair) | N/A |
-| 35 | [#February14](http://twitter.com/search?q=%23February14) | N/A |
-| 36 | [#AtikuMyVal](http://twitter.com/search?q=%23AtikuMyVal) | N/A |
-| 37 | [#HypoSpecialValentine](http://twitter.com/search?q=%23HypoSpecialValentine) | N/A |
-| 38 | [#VoteLabourParty](http://twitter.com/search?q=%23VoteLabourParty) | N/A |
-| 39 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 40 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 2 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 3 | [#LoveInAbox](http://twitter.com/search?q=%23LoveInAbox) | N/A |
+| 4 | [#HypoToiletCleanerValentine](http://twitter.com/search?q=%23HypoToiletCleanerValentine) | N/A |
+| 5 | [#Lovewisely](http://twitter.com/search?q=%23Lovewisely) | N/A |
+| 6 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 7 | [dj gaba](http://twitter.com/search?q=dj+gaba) | N/A |
+| 8 | [MTN Network](http://twitter.com/search?q=MTN+Network) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
+| 11 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
+| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 13 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 14 | [dozy mmobuosi](http://twitter.com/search?q=dozy+mmobuosi) | N/A |
+| 15 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
+| 16 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 17 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
+| 18 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 19 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
+| 20 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
+| 21 | [Ladipo](http://twitter.com/search?q=Ladipo) | N/A |
+| 22 | [VALENTINE WITH PHYNA](http://twitter.com/search?q=VALENTINE+WITH+PHYNA) | N/A |
+| 23 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 24 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 25 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 26 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
+| 27 | [The Central Bank of Nigeria](http://twitter.com/search?q=The+Central+Bank+of+Nigeria) | N/A |
+| 28 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 29 | [SPREAD LOVE WITH YVONNE](http://twitter.com/search?q=SPREAD+LOVE+WITH+YVONNE) | N/A |
+| 30 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
+| 31 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 32 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
+| 33 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 34 | [nasboi lover boy](http://twitter.com/search?q=nasboi+lover+boy) | N/A |
+| 35 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
+| 36 | [THE LORD HAS HELPED ME](http://twitter.com/search?q=THE+LORD+HAS+HELPED+ME) | "THE LORD HAS HELPED ME" is a phrase from the Bible (Psalm 118:13) and it means that God has provided assistance or guidance to the speaker. |
+| 37 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 38 | [unusual phyna](http://twitter.com/search?q=unusual+phyna) | N/A |
+| 39 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 40 | [gani adams](http://twitter.com/search?q=gani+adams) | N/A |
+| 41 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
+| 42 | [VOTE YELISA](http://twitter.com/search?q=VOTE+YELISA) | N/A |
+| 43 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 44 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 45 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
+| 46 | [olu of warri](http://twitter.com/search?q=olu+of+warri) | N/A |
+| 47 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 48 | [Femi Fani-Kayode](http://twitter.com/search?q=Femi+Fani-Kayode) | N/A |
+| 49 | [Funmilayo](http://twitter.com/search?q=Funmilayo) | N/A |
+| 50 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 
 
 

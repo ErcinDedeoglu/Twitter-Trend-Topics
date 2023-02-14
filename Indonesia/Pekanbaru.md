@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-14 16:17:16 UTC`
+📆 Last Updated: `2023-02-14 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,41 +20,35 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
 | 4 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
 | 5 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
-| 6 | [YOONGI MARRY ME](http://twitter.com/search?q=YOONGI+MARRY+ME) | N/A |
-| 7 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 6 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 7 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
 | 8 | [#HAPPYKDJDAY2023](http://twitter.com/search?q=%23HAPPYKDJDAY2023) | N/A |
-| 9 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
-| 10 | [YOONGI LIVE](http://twitter.com/search?q=YOONGI+LIVE) | N/A |
-| 11 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 9 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 10 | [Mana 3](http://twitter.com/search?q=Mana+3) | N/A |
+| 11 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
 | 12 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 13 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
+| 13 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
 | 14 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
-| 15 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
-| 16 | [Sword](http://twitter.com/search?q=Sword) | N/A |
-| 17 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 18 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 19 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 15 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
+| 16 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
+| 17 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 18 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 20 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 23 | [Doneeee](http://twitter.com/search?q=Doneeee) | N/A |
+| 21 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 22 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 23 | [Sword](http://twitter.com/search?q=Sword) | N/A |
 | 24 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 25 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
-| 26 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 27 | [Indomaret](http://twitter.com/search?q=Indomaret) | N/A |
-| 28 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
-| 29 | [Wibu](http://twitter.com/search?q=Wibu) | N/A |
-| 30 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 31 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
-| 32 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 33 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 25 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 26 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
+| 27 | [Wibu](http://twitter.com/search?q=Wibu) | N/A |
+| 28 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 29 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 30 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
+| 31 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
+| 32 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
+| 33 | [#LANEIGExNanonNamtanJan](http://twitter.com/search?q=%23LANEIGExNanonNamtanJan) | N/A |
 | 34 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
-| 35 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
-| 36 | [#LANEIGExNanonNamtanJan](http://twitter.com/search?q=%23LANEIGExNanonNamtanJan) | N/A |
-| 37 | [#PinkRabbitLens](http://twitter.com/search?q=%23PinkRabbitLens) | N/A |
-| 38 | [#PRoudLens](http://twitter.com/search?q=%23PRoudLens) | N/A |
-| 39 | [#HAPPY_CARAT_DAY](http://twitter.com/search?q=%23HAPPY_CARAT_DAY) | N/A |
-| 40 | [#CARATDAY](http://twitter.com/search?q=%23CARATDAY) | N/A |
 
 
 

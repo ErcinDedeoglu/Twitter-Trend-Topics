@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-14 16:17:33 UTC`
+📆 Last Updated: `2023-02-14 17:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
-| 2 | [#PZvsKK](http://twitter.com/search?q=%23PZvsKK) | N/A |
-| 3 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 2 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
+| 3 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
 | 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 6 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 7 | [kohler](http://twitter.com/search?q=kohler) | N/A |
-| 8 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 9 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
-| 10 | [Cadmore](http://twitter.com/search?q=Cadmore) | N/A |
-| 11 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 12 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 5 | [#PZvsKK](http://twitter.com/search?q=%23PZvsKK) | N/A |
+| 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 7 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
+| 8 | [Cadmore](http://twitter.com/search?q=Cadmore) | N/A |
+| 9 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 10 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 11 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 12 | [sharjeel](http://twitter.com/search?q=sharjeel) | N/A |
 | 13 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 14 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 15 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 16 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 17 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 18 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 19 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 20 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
-| 21 | [muavia founder of navel](http://twitter.com/search?q=muavia+founder+of+navel) | N/A |
-| 22 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 23 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
+| 14 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 15 | [Fitch](http://twitter.com/search?q=Fitch) | N/A |
+| 16 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 17 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 18 | [muavia founder of navel](http://twitter.com/search?q=muavia+founder+of+navel) | N/A |
+| 19 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 20 | [Wahab Riaz](http://twitter.com/search?q=Wahab+Riaz) | Wahab Riaz is a Pakistani cricketer who plays for the Pakistan national cricket team. His name is derived from the Arabic word "wahab", which means "giver". The name Riaz is derived from the Persian word "riaz", which means "honor". |
+| 21 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 22 | [Cover Drive](http://twitter.com/search?q=Cover+Drive) | N/A |
+| 23 | [Qasim](http://twitter.com/search?q=Qasim) | N/A |
 | 24 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 25 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 26 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
-| 27 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
-| 28 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 29 | [Toss](http://twitter.com/search?q=Toss) | N/A |
-| 30 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Road](http://twitter.com/search?q=Road) | N/A |
-| 33 | [National Stadium](http://twitter.com/search?q=National+Stadium) | N/A |
-| 34 | [Deserved](http://twitter.com/search?q=Deserved) | N/A |
-| 35 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 36 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 37 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 38 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 39 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 40 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 41 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 42 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 43 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 44 | [Ignore](http://twitter.com/search?q=Ignore) | N/A |
-| 45 | [Sindh Govt](http://twitter.com/search?q=Sindh+Govt) | N/A |
-| 46 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 48 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 49 | [Video Link](http://twitter.com/search?q=Video+Link) | N/A |
-| 50 | [#msvlq](http://twitter.com/search?q=%23msvlq) | N/A |
+| 25 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 26 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 27 | [Imran Tahir](http://twitter.com/search?q=Imran+Tahir) | N/A |
+| 28 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
+| 29 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 30 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 31 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 32 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 33 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
+| 34 | [National Stadium](http://twitter.com/search?q=National+Stadium) | N/A |
+| 35 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
+| 36 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 37 | [Road](http://twitter.com/search?q=Road) | N/A |
+| 38 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 39 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 40 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 43 | [Classic](http://twitter.com/search?q=Classic) | N/A |
+| 44 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 45 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 46 | [#msvlq](http://twitter.com/search?q=%23msvlq) | N/A |
+| 47 | [#WelcomeAliWazir](http://twitter.com/search?q=%23WelcomeAliWazir) | N/A |
+| 48 | [#lqvms](http://twitter.com/search?q=%23lqvms) | N/A |
+| 49 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
+| 50 | [#ہماراملک_فیصلہ_بھی_ہمارا](http://twitter.com/search?q=%23%db%81%d9%85%d8%a7%d8%b1%d8%a7%d9%85%d9%84%da%a9_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%a8%da%be%db%8c_%db%81%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
 
 
 

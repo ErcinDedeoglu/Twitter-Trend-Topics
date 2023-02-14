@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-14 16:17:12 UTC`
+📆 Last Updated: `2023-02-14 17:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 2 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 3 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 4 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 6 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
-| 7 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 8 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 9 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 11 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 12 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
-| 13 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 14 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 15 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 18 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 19 | [La Moratti](http://twitter.com/search?q=La+Moratti) | N/A |
-| 20 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 21 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 22 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
-| 23 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 24 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 25 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 26 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
-| 27 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
-| 28 | [#Spal](http://twitter.com/search?q=%23Spal) | N/A |
-| 29 | [#quelbacioche](http://twitter.com/search?q=%23quelbacioche) | N/A |
-| 30 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 31 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
-| 32 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 33 | [#Salernitana](http://twitter.com/search?q=%23Salernitana) | N/A |
-| 34 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 35 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 36 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 37 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
-| 38 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 1 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 2 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
+| 3 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
+| 4 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
+| 5 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 6 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 7 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 8 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 10 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 11 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 12 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 13 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 14 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 15 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 16 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 17 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 18 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 19 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 20 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 21 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 22 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 23 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 24 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 25 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 26 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 27 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 28 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 29 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 30 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Minchiotti](http://twitter.com/search?q=Minchiotti) | N/A |
+| 33 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 34 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
+| 35 | [Ida e Alessandro](http://twitter.com/search?q=Ida+e+Alessandro) | N/A |
+| 36 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 37 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 39 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
+| 40 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 41 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 42 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
+| 43 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 44 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 45 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
+| 46 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 47 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 48 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 49 | [Fiorano](http://twitter.com/search?q=Fiorano) | N/A |
+| 50 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
 
 
 

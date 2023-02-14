@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-02-14 16:16:56 UTC`
+📆 Last Updated: `2023-02-14 17:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 2 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 3 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
+| 1 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
+| 2 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 3 | [#selfcare](http://twitter.com/search?q=%23selfcare) | N/A |
 | 4 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 5 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 6 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 7 | [#BrexitBrokeBritain](http://twitter.com/search?q=%23BrexitBrokeBritain) | N/A |
-| 8 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 9 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 10 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 11 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
-| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 13 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 14 | [Margate](http://twitter.com/search?q=Margate) | N/A |
-| 15 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 16 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 17 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 18 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 19 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 20 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 21 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
-| 22 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 23 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 26 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 28 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 29 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 30 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 31 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 32 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 33 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 34 | [#BakeryFilmsOrSongs](http://twitter.com/search?q=%23BakeryFilmsOrSongs) | N/A |
-| 35 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 36 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 37 | [#LoveAO](http://twitter.com/search?q=%23LoveAO) | N/A |
-| 38 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 39 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 40 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 41 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 42 | [#countdown](http://twitter.com/search?q=%23countdown) | N/A |
-| 43 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
+| 5 | [#HeartUnions](http://twitter.com/search?q=%23HeartUnions) | N/A |
+| 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 7 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 8 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 9 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
+| 10 | [Koh-i-Noor](http://twitter.com/search?q=Koh-i-Noor) | N/A |
+| 11 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 12 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 13 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 14 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 15 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
+| 18 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
+| 19 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 23 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 24 | [Margate](http://twitter.com/search?q=Margate) | N/A |
+| 25 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 26 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
+| 27 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 28 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 29 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 30 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 31 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 32 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 33 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 34 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 35 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 36 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 39 | [#BakeryFilmsOrSongs](http://twitter.com/search?q=%23BakeryFilmsOrSongs) | N/A |
+| 40 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 41 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 42 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 43 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
 | 44 | [#nufcballot](http://twitter.com/search?q=%23nufcballot) | N/A |
-| 45 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 46 | [#DonationDay](http://twitter.com/search?q=%23DonationDay) | N/A |
-| 47 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 48 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 49 | [#WelshOpen](http://twitter.com/search?q=%23WelshOpen) | N/A |
+| 45 | [#LoveAO](http://twitter.com/search?q=%23LoveAO) | N/A |
+| 46 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 47 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 48 | [#countdown](http://twitter.com/search?q=%23countdown) | N/A |
+| 49 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
 
 
 
