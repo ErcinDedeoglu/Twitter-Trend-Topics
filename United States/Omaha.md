@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-02-14 03:20:18 UTC`
+📆 Last Updated: `2023-02-14 04:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 3 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 5 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 3 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 4 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 5 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 6 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 7 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 8 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 9 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 10 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 12 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
-| 13 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
-| 14 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 15 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 16 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 7 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 9 | [#ActiveShooter](http://twitter.com/search?q=%23ActiveShooter) | N/A |
+| 10 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 11 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 13 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 14 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
+| 15 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 16 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
 | 17 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
-| 18 | [IM East](http://twitter.com/search?q=IM+East) | N/A |
-| 19 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
-| 20 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 21 | [Strus](http://twitter.com/search?q=Strus) | N/A |
-| 22 | [Pray for MSU](http://twitter.com/search?q=Pray+for+MSU) | N/A |
-| 23 | [Kylee](http://twitter.com/search?q=Kylee) | N/A |
-| 24 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 25 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 26 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 27 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 28 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
-| 29 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 30 | [MADDOX](http://twitter.com/search?q=MADDOX) | N/A |
-| 31 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 32 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 33 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 34 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
-| 35 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 36 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
-| 37 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 38 | [Lindsay](http://twitter.com/search?q=Lindsay) | N/A |
-| 39 | [Piper Niven](http://twitter.com/search?q=Piper+Niven) | Piper Niven is a professional wrestler from Scotland. She is currently signed to WWE, where she performs on the NXT UK brand. Her ring name is a combination of her first name, Piper, and her mother's maiden name, Niven. |
-| 40 | [Jacque Vaughn](http://twitter.com/search?q=Jacque+Vaughn) | N/A |
-| 41 | [Hubbard Hall](http://twitter.com/search?q=Hubbard+Hall) | N/A |
-| 42 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 43 | [Danny Mac](http://twitter.com/search?q=Danny+Mac) | N/A |
-| 44 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 45 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
-| 46 | [De'Vion Harmon](http://twitter.com/search?q=De%27Vion+Harmon) | N/A |
+| 18 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 19 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 20 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 21 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 22 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 23 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 25 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 26 | [Pray for MSU](http://twitter.com/search?q=Pray+for+MSU) | N/A |
+| 27 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 28 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 29 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 30 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 31 | [IM East](http://twitter.com/search?q=IM+East) | N/A |
+| 32 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
+| 33 | [maddox](http://twitter.com/search?q=maddox) | N/A |
+| 34 | [Ant and Jaden](http://twitter.com/search?q=Ant+and+Jaden) | N/A |
+| 35 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
+| 36 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
+| 37 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
+| 38 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 39 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 40 | [Sparrow Hospital](http://twitter.com/search?q=Sparrow+Hospital) | N/A |
+| 41 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 42 | [Strus](http://twitter.com/search?q=Strus) | N/A |
+| 43 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 44 | [Jongho](http://twitter.com/search?q=Jongho) | N/A |
+| 45 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
+| 46 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
 
 
 

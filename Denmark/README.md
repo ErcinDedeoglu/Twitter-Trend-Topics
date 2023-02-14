@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-14 03:20:23 UTC`
+📆 Last Updated: `2023-02-14 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for Denmark
 | 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 11 | [#nfldk](http://twitter.com/search?q=%23nfldk) | N/A |
 | 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
-| 15 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 16 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 13 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
+| 14 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 15 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 17 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
 | 18 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 | 19 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |

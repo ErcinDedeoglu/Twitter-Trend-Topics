@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-14 03:20:27 UTC`
+📆 Last Updated: `2023-02-14 04:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,12 +26,12 @@ This is top 50 for Norway
 | 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 12 | [Treholt](http://twitter.com/search?q=Treholt) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [märtha](http://twitter.com/search?q=m%c3%a4rtha) | N/A |
-| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 17 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 12 | [treholt](http://twitter.com/search?q=treholt) | N/A |
+| 13 | [märtha](http://twitter.com/search?q=m%c3%a4rtha) | N/A |
+| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 18 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 19 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -39,9 +39,9 @@ This is top 50 for Norway
 | 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 23 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 24 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 25 | [sovjet](http://twitter.com/search?q=sovjet) | N/A |
-| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 27 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 26 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 27 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
 | 28 | [durek](http://twitter.com/search?q=durek) | N/A |
 | 29 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 30 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |

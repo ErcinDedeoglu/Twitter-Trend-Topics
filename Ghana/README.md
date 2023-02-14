@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-14 03:20:24 UTC`
+📆 Last Updated: `2023-02-14 04:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,21 +18,21 @@ This is top 50 for Ghana
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 3 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 4 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [chris hughton](http://twitter.com/search?q=chris+hughton) | N/A |
-| 7 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
-| 8 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 9 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 12 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 4 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
+| 5 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 6 | [#WorldRadioDay](http://twitter.com/search?q=%23WorldRadioDay) | N/A |
+| 7 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 9 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 10 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 11 | [#DateRush](http://twitter.com/search?q=%23DateRush) | N/A |
+| 12 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
 | 13 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 14 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 15 | [Black STARs](http://twitter.com/search?q=Black+STARs) | N/A |
-| 16 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 17 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 18 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 16 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 17 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 19 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 20 | [george boateng](http://twitter.com/search?q=george+boateng) | N/A |
 | 21 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Ghana
 | 30 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 31 | [Ghana Yesu](http://twitter.com/search?q=Ghana+Yesu) | N/A |
 | 32 | [jb money at 23](http://twitter.com/search?q=jb+money+at+23) | N/A |
-| 33 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 33 | [gabby](http://twitter.com/search?q=gabby) | N/A |
 | 34 | [mas-ud didi dramani](http://twitter.com/search?q=mas-ud+didi+dramani) | N/A |
 | 35 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 36 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
@@ -55,16 +55,16 @@ This is top 50 for Ghana
 | 38 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
 | 39 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
 | 40 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 41 | [Yaris](http://twitter.com/search?q=Yaris) | N/A |
-| 42 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 43 | [UNUSUAL PHYNA](http://twitter.com/search?q=UNUSUAL+PHYNA) | N/A |
-| 44 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 45 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 46 | [Antoa](http://twitter.com/search?q=Antoa) | N/A |
-| 47 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
-| 48 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 49 | [Range Rover](http://twitter.com/search?q=Range+Rover) | N/A |
-| 50 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
+| 41 | [Black STARs](http://twitter.com/search?q=Black+STARs) | N/A |
+| 42 | [Yaris](http://twitter.com/search?q=Yaris) | N/A |
+| 43 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 44 | [UNUSUAL PHYNA](http://twitter.com/search?q=UNUSUAL+PHYNA) | N/A |
+| 45 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 46 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 47 | [Antoa](http://twitter.com/search?q=Antoa) | N/A |
+| 48 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
+| 49 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 
 
 

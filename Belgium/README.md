@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-14 03:20:22 UTC`
+📆 Last Updated: `2023-02-14 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#btfoldschool](http://twitter.com/search?q=%23btfoldschool) | N/A |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [#btfoldschool](http://twitter.com/search?q=%23btfoldschool) | N/A |
 | 4 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
 | 5 | [#gnkant](http://twitter.com/search?q=%23gnkant) | N/A |
 | 6 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
@@ -37,9 +37,9 @@ This is top 50 for Belgium
 | 20 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 22 | [courtrai](http://twitter.com/search?q=courtrai) | N/A |
-| 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 24 | [miss belgië](http://twitter.com/search?q=miss+belgi%c3%ab) | N/A |
-| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [miss belgië](http://twitter.com/search?q=miss+belgi%c3%ab) | N/A |
+| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 25 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 26 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
 | 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Belgium
 | 35 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
 | 36 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 37 | [tom waes](http://twitter.com/search?q=tom+waes) | N/A |
-| 38 | [Chayron](http://twitter.com/search?q=Chayron) | N/A |
+| 38 | [chayron](http://twitter.com/search?q=chayron) | N/A |
 | 39 | [hainaut](http://twitter.com/search?q=hainaut) | N/A |
 | 40 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 41 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |

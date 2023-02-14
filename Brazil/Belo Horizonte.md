@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-14 03:19:39 UTC`
+📆 Last Updated: `2023-02-14 04:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
+| 1 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
 | 2 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
-| 3 | [Goleiro](http://twitter.com/search?q=Goleiro) | N/A |
-| 4 | [Contrata](http://twitter.com/search?q=Contrata) | N/A |
-| 5 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 6 | [Jogou](http://twitter.com/search?q=Jogou) | N/A |
-| 7 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 8 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 9 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 10 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
-| 11 | [Golaço](http://twitter.com/search?q=Gola%c3%a7o) | N/A |
-| 12 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
-| 13 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
-| 14 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 15 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
-| 16 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 17 | [Jogaram](http://twitter.com/search?q=Jogaram) | N/A |
-| 18 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
-| 19 | [Frango](http://twitter.com/search?q=Frango) | N/A |
-| 20 | [Clássico](http://twitter.com/search?q=Cl%c3%a1ssico) | N/A |
-| 21 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 22 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
-| 23 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 24 | [HORROROSO](http://twitter.com/search?q=HORROROSO) | N/A |
-| 25 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 26 | [Independência](http://twitter.com/search?q=Independ%c3%aancia) | N/A |
-| 27 | [Cabuloso](http://twitter.com/search?q=Cabuloso) | N/A |
-| 28 | [Cruzeirense](http://twitter.com/search?q=Cruzeirense) | N/A |
-| 29 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 30 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 31 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 32 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 33 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 34 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 35 | [dudu](http://twitter.com/search?q=dudu) | N/A |
-| 36 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 37 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 38 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 39 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 40 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 41 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 42 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
-| 43 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 44 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 45 | [O Sapato](http://twitter.com/search?q=O+Sapato) | N/A |
-| 46 | [Vai Larissa](http://twitter.com/search?q=Vai+Larissa) | N/A |
-| 47 | [Tiago Abravanel](http://twitter.com/search?q=Tiago+Abravanel) | N/A |
-| 48 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
-| 49 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
-| 50 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 3 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 4 | [Falha](http://twitter.com/search?q=Falha) | N/A |
+| 5 | [Arana](http://twitter.com/search?q=Arana) | Arana is a Spanish word meaning "spider". |
+| 6 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 7 | [Falhou](http://twitter.com/search?q=Falhou) | N/A |
+| 8 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 9 | [Goleiro](http://twitter.com/search?q=Goleiro) | N/A |
+| 10 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 11 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 12 | [Contrata](http://twitter.com/search?q=Contrata) | N/A |
+| 13 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 14 | [Jogou](http://twitter.com/search?q=Jogou) | N/A |
+| 15 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
+| 16 | [100% Galoucura](http://twitter.com/search?q=100%25+Galoucura) | N/A |
+| 17 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 18 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
+| 19 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 20 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
+| 21 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 22 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 23 | [Golaço](http://twitter.com/search?q=Gola%c3%a7o) | N/A |
+| 24 | [#CRUxCAM](http://twitter.com/search?q=%23CRUxCAM) | N/A |
+| 25 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 26 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
+| 27 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 28 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
+| 29 | [Frango](http://twitter.com/search?q=Frango) | N/A |
+| 30 | [Clássico](http://twitter.com/search?q=Cl%c3%a1ssico) | N/A |
+| 31 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
+| 32 | [HORROROSO](http://twitter.com/search?q=HORROROSO) | N/A |
+| 33 | [Independência](http://twitter.com/search?q=Independ%c3%aancia) | N/A |
+| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 35 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
+| 36 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 37 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 38 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 39 | [Cezar Black](http://twitter.com/search?q=Cezar+Black) | Cezar Black is a Romanian name derived from the Latin name Caesar, which means "emperor". It is also a surname that is used by some families in Romania. In English, Cezar Black can be translated to mean "Emperor Black". |
+| 40 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 41 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 42 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 43 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 44 | [dudu](http://twitter.com/search?q=dudu) | N/A |
+| 45 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 46 | [manu](http://twitter.com/search?q=manu) | N/A |
+| 47 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 48 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 49 | [#bbb33](http://twitter.com/search?q=%23bbb33) | N/A |
+| 50 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
 
 
 

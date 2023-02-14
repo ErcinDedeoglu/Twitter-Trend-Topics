@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-14 03:19:50 UTC`
+📆 Last Updated: `2023-02-14 04:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,20 +51,20 @@ This is top 50 for [Latvia](</Latvia>)
 | 34 | [tiešām](http://twitter.com/search?q=tie%c5%a1%c4%81m) | N/A |
 | 35 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
 | 36 | [reizēm](http://twitter.com/search?q=reiz%c4%93m) | N/A |
-| 37 | [TEVI](http://twitter.com/search?q=TEVI) | N/A |
-| 38 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 39 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
-| 40 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | N/A |
-| 41 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 42 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
-| 43 | [Nesen](http://twitter.com/search?q=Nesen) | N/A |
-| 44 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 45 | [nebija](http://twitter.com/search?q=nebija) | N/A |
-| 46 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
-| 47 | [kādreiz](http://twitter.com/search?q=k%c4%81dreiz) | N/A |
-| 48 | [valmieras](http://twitter.com/search?q=valmieras) | N/A |
-| 49 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 50 | [krievu](http://twitter.com/search?q=krievu) | N/A |
+| 37 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 38 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
+| 39 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | N/A |
+| 40 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
+| 41 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
+| 42 | [nesen](http://twitter.com/search?q=nesen) | N/A |
+| 43 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 44 | [nebija](http://twitter.com/search?q=nebija) | N/A |
+| 45 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
+| 46 | [kādreiz](http://twitter.com/search?q=k%c4%81dreiz) | N/A |
+| 47 | [valmieras](http://twitter.com/search?q=valmieras) | N/A |
+| 48 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 49 | [krievu](http://twitter.com/search?q=krievu) | N/A |
+| 50 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 
 
 
