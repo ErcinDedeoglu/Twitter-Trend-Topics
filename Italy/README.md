@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-14 14:18:02 UTC`
+📆 Last Updated: `2023-02-14 15:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,50 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 2 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
 | 3 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
 | 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
-| 6 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 5 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 6 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
 | 7 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 8 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 9 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 10 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
-| 11 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 12 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 13 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 14 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 15 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 17 | [il 60%](http://twitter.com/search?q=il+60%25) | N/A |
-| 18 | [Democrazia](http://twitter.com/search?q=Democrazia) | N/A |
-| 19 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 20 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 21 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
-| 22 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 23 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 24 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 25 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
-| 26 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
-| 27 | [#Spal](http://twitter.com/search?q=%23Spal) | N/A |
-| 28 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 29 | [#DeRossi](http://twitter.com/search?q=%23DeRossi) | N/A |
-| 30 | [#QuelBacioChe](http://twitter.com/search?q=%23QuelBacioChe) | N/A |
-| 31 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 33 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
-| 34 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
-| 35 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
-| 36 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 37 | [#Letta](http://twitter.com/search?q=%23Letta) | N/A |
-| 38 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
+| 8 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 9 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 11 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 12 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 13 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 14 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 15 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
+| 16 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 18 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
+| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 20 | [il 60%](http://twitter.com/search?q=il+60%25) | N/A |
+| 21 | [Democrazia](http://twitter.com/search?q=Democrazia) | N/A |
+| 22 | [La Moratti](http://twitter.com/search?q=La+Moratti) | N/A |
+| 23 | [mubarak](http://twitter.com/search?q=mubarak) | N/A |
+| 24 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 25 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
+| 26 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 27 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 28 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 29 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 30 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 31 | [#Pfizer](http://twitter.com/search?q=%23Pfizer) | N/A |
+| 32 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
+| 33 | [#QuelBacioChe](http://twitter.com/search?q=%23QuelBacioChe) | N/A |
+| 34 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 35 | [#Spal](http://twitter.com/search?q=%23Spal) | N/A |
+| 36 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 37 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
+| 38 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
+| 39 | [#DeRossi](http://twitter.com/search?q=%23DeRossi) | N/A |
+| 40 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 41 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 42 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 43 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 44 | [#Letta](http://twitter.com/search?q=%23Letta) | N/A |
 
 
 

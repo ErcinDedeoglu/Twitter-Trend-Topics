@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-14 14:17:26 UTC`
+📆 Last Updated: `2023-02-14 15:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
 | 2 | [#paars](http://twitter.com/search?q=%23paars) | N/A |
 | 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 4 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 5 | [#helpmijnmanisklusser](http://twitter.com/search?q=%23helpmijnmanisklusser) | N/A |
-| 6 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
-| 7 | [#vragenuurtje](http://twitter.com/search?q=%23vragenuurtje) | N/A |
-| 8 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
-| 11 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 12 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 4 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
+| 5 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
+| 6 | [#vragenuurtje](http://twitter.com/search?q=%23vragenuurtje) | N/A |
+| 7 | [#helpmijnmanisklusser](http://twitter.com/search?q=%23helpmijnmanisklusser) | N/A |
+| 8 | [huub](http://twitter.com/search?q=huub) | N/A |
+| 9 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 12 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
 | 13 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
-| 14 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
-| 15 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 16 | [Denzel](http://twitter.com/search?q=Denzel) | N/A |
-| 17 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 18 | [kinderhartcentra groningen](http://twitter.com/search?q=kinderhartcentra+groningen) | N/A |
-| 19 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
-| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 21 | [marechaussee](http://twitter.com/search?q=marechaussee) | N/A |
-| 22 | [dag 14](http://twitter.com/search?q=dag+14) | N/A |
-| 23 | [dank poetin](http://twitter.com/search?q=dank+poetin) | N/A |
-| 24 | [Intravacc](http://twitter.com/search?q=Intravacc) | N/A |
-| 25 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 26 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
-| 27 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 28 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
-| 29 | [Krezip](http://twitter.com/search?q=Krezip) | N/A |
-| 30 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 31 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 32 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 33 | [Zorgen in Tweede Kamer](http://twitter.com/search?q=Zorgen+in+Tweede+Kamer) | N/A |
-| 34 | [Noorden](http://twitter.com/search?q=Noorden) | N/A |
-| 35 | [Akai](http://twitter.com/search?q=Akai) | N/A |
-| 36 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 37 | [nederlandse f-35](http://twitter.com/search?q=nederlandse+f-35) | N/A |
-| 38 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 14 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 15 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 16 | [denzel](http://twitter.com/search?q=denzel) | N/A |
+| 17 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 18 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
+| 19 | [kinderhartcentra groningen](http://twitter.com/search?q=kinderhartcentra+groningen) | N/A |
+| 20 | [Marechaussee](http://twitter.com/search?q=Marechaussee) | N/A |
+| 21 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
+| 22 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 23 | [dag 14](http://twitter.com/search?q=dag+14) | N/A |
+| 24 | [dank poetin](http://twitter.com/search?q=dank+poetin) | N/A |
+| 25 | [Intravacc](http://twitter.com/search?q=Intravacc) | N/A |
+| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 27 | [cody gakpo](http://twitter.com/search?q=cody+gakpo) | N/A |
+| 28 | [Krezip](http://twitter.com/search?q=Krezip) | N/A |
+| 29 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 30 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
+| 31 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
+| 32 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
+| 33 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 34 | [nederlandse f-35](http://twitter.com/search?q=nederlandse+f-35) | N/A |
+| 35 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 36 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 37 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
+| 38 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
 | 39 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 40 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 41 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 42 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 43 | [Bedrijven](http://twitter.com/search?q=Bedrijven) | N/A |
-| 44 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
-| 45 | [Pioneer](http://twitter.com/search?q=Pioneer) | N/A |
-| 46 | [energiecrisis](http://twitter.com/search?q=energiecrisis) | N/A |
-| 47 | [Honderdduizenden](http://twitter.com/search?q=Honderdduizenden) | N/A |
-| 48 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 49 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 50 | [Kapje](http://twitter.com/search?q=Kapje) | N/A |
+| 40 | [bedrijven](http://twitter.com/search?q=bedrijven) | N/A |
+| 41 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 42 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 43 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 44 | [Noorden](http://twitter.com/search?q=Noorden) | N/A |
+| 45 | [energiecrisis](http://twitter.com/search?q=energiecrisis) | N/A |
+| 46 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 47 | [UMCG](http://twitter.com/search?q=UMCG) | N/A |
+| 48 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 49 | [Bram](http://twitter.com/search?q=Bram) | N/A |
+| 50 | [Erasmus MC](http://twitter.com/search?q=Erasmus+MC) | N/A |
 
 
 

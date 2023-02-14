@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-02-14 14:17:53 UTC`
+📆 Last Updated: `2023-02-14 15:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 2 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
 | 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [#MSUStrong](http://twitter.com/search?q=%23MSUStrong) | N/A |
-| 5 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 8 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 9 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 4 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 5 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 6 | [#MSUStrong](http://twitter.com/search?q=%23MSUStrong) | N/A |
+| 7 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 9 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
 | 10 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 11 | [#SpartanStrong](http://twitter.com/search?q=%23SpartanStrong) | N/A |
-| 12 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 13 | [wordle 605 x](http://twitter.com/search?q=wordle+605+x) | N/A |
-| 14 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
-| 15 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 16 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 17 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 18 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 19 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 20 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 21 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 22 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 23 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 24 | [Methodius](http://twitter.com/search?q=Methodius) | N/A |
-| 25 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
-| 26 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 27 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
-| 28 | [January CPI](http://twitter.com/search?q=January+CPI) | N/A |
-| 29 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 30 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 31 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 32 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 33 | [Scorpios](http://twitter.com/search?q=Scorpios) | N/A |
-| 34 | [James Clapper](http://twitter.com/search?q=James+Clapper) | N/A |
+| 11 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 12 | [NEWARK](http://twitter.com/search?q=NEWARK) | N/A |
+| 13 | [YOONGIS](http://twitter.com/search?q=YOONGIS) | YOONGIS is a Korean slang term that is used to describe someone who is attractive, cool, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it could be translated as "stylish" or "trendy". |
+| 14 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 15 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 16 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 17 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
+| 18 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
+| 19 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 20 | [Jim Caldwell](http://twitter.com/search?q=Jim+Caldwell) | N/A |
+| 21 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 22 | [Anthony McRae](http://twitter.com/search?q=Anthony+McRae) | N/A |
+| 23 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 24 | [ROSEMONT](http://twitter.com/search?q=ROSEMONT) | N/A |
+| 25 | [0.5% in January](http://twitter.com/search?q=0.5%25+in+January) | N/A |
+| 26 | [Nassar](http://twitter.com/search?q=Nassar) | N/A |
+| 27 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 28 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 29 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 30 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
+| 31 | [Michael Wacha](http://twitter.com/search?q=Michael+Wacha) | N/A |
+| 32 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 33 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 34 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 35 | [Hallmark](http://twitter.com/search?q=Hallmark) | N/A |
-| 36 | [Lansing](http://twitter.com/search?q=Lansing) | N/A |
-| 37 | [Gretchen Whitmer](http://twitter.com/search?q=Gretchen+Whitmer) | N/A |
-| 38 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 40 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 41 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
-| 42 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 43 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 44 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 45 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 46 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 47 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
-| 48 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 49 | [billy baker](http://twitter.com/search?q=billy+baker) | N/A |
-| 50 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 36 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 37 | [Dax Shepard](http://twitter.com/search?q=Dax+Shepard) | N/A |
+| 38 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
+| 39 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 40 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 41 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
+| 42 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 43 | [The Colts](http://twitter.com/search?q=The+Colts) | N/A |
+| 44 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 45 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 46 | [Eagles OC](http://twitter.com/search?q=Eagles+OC) | N/A |
+| 47 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 48 | [Methodius](http://twitter.com/search?q=Methodius) | N/A |
+| 49 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
+| 50 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
 
 
 

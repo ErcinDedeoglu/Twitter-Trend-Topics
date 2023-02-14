@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-14 14:18:04 UTC`
+📆 Last Updated: `2023-02-14 15:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [#WelcomeAliWazir](http://twitter.com/search?q=%23WelcomeAliWazir) | N/A |
-| 5 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
-| 6 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 7 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 8 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 9 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 10 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 11 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 12 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
-| 13 | [muavia founder of navel](http://twitter.com/search?q=muavia+founder+of+navel) | N/A |
+| 1 | [#PZvsKK](http://twitter.com/search?q=%23PZvsKK) | N/A |
+| 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 3 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
+| 4 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 5 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 6 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 7 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 8 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
+| 9 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 10 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 11 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 12 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 13 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 14 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 15 | [hussain talat](http://twitter.com/search?q=hussain+talat) | N/A |
-| 16 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 17 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
-| 18 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
+| 15 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 16 | [virgin atlantic](http://twitter.com/search?q=virgin+atlantic) | N/A |
+| 17 | [muavia founder of navel](http://twitter.com/search?q=muavia+founder+of+navel) | N/A |
+| 18 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
 | 19 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
-| 20 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
-| 21 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
-| 22 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 23 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 24 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 25 | [Aftab Iqbal](http://twitter.com/search?q=Aftab+Iqbal) | N/A |
-| 26 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 27 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
-| 28 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 29 | [Holy Prophet](http://twitter.com/search?q=Holy+Prophet) | N/A |
-| 30 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 20 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 21 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
+| 22 | [Tyrian](http://twitter.com/search?q=Tyrian) | N/A |
+| 23 | [Toss](http://twitter.com/search?q=Toss) | N/A |
+| 24 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 25 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 26 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 27 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 28 | [National Stadium](http://twitter.com/search?q=National+Stadium) | N/A |
+| 29 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
+| 30 | [Aftab Iqbal](http://twitter.com/search?q=Aftab+Iqbal) | N/A |
 | 31 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 32 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
-| 33 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 34 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 35 | [German](http://twitter.com/search?q=German) | N/A |
-| 36 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 38 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 40 | ["Murshad"](http://twitter.com/search?q=%22Murshad%22) | N/A |
-| 41 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 42 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 43 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 44 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 45 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 46 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [Hunza](http://twitter.com/search?q=Hunza) | N/A |
-| 49 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 50 | [Ignore](http://twitter.com/search?q=Ignore) | N/A |
+| 32 | [Road](http://twitter.com/search?q=Road) | N/A |
+| 33 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 34 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
+| 35 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 36 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
+| 37 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 38 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 39 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
+| 42 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 43 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 44 | [Thnks](http://twitter.com/search?q=Thnks) | N/A |
+| 45 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 46 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 47 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 50 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-14 14:17:49 UTC`
+📆 Last Updated: `2023-02-14 15:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 2 | [6 Şubat](http://twitter.com/search?q=6+%c5%9eubat) | N/A |
-| 3 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 4 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
-| 5 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
-| 6 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
-| 7 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 8 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 9 | [#volkandemirel](http://twitter.com/search?q=%23volkandemirel) | N/A |
+| 3 | [Fetö](http://twitter.com/search?q=Fet%c3%b6) | N/A |
+| 4 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 5 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
+| 6 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 7 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 8 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 9 | [#borsadasonikigueniptaledilsin](http://twitter.com/search?q=%23borsadasonikigueniptaledilsin) | N/A |
 | 10 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 11 | [İlker Başbuğ](http://twitter.com/search?q=%c4%b0lker+Ba%c5%9fbu%c4%9f) | N/A |
-| 12 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
-| 13 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
-| 14 | [#borsadasonikigueniptaledilsin](http://twitter.com/search?q=%23borsadasonikigueniptaledilsin) | N/A |
-| 15 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
-| 16 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
-| 17 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
-| 18 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
-| 19 | [çArşı Ankara](http://twitter.com/search?q=%c3%a7Ar%c5%9f%c4%b1+Ankara) | N/A |
-| 20 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
-| 21 | [Mine Akgül](http://twitter.com/search?q=Mine+Akg%c3%bcl) | N/A |
-| 22 | [Osmaniye'ye](http://twitter.com/search?q=Osmaniye%27ye) | N/A |
-| 23 | [Milliyetçi Hareket Partisi](http://twitter.com/search?q=Milliyet%c3%a7i+Hareket+Partisi) | N/A |
-| 24 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
-| 25 | [Babala](http://twitter.com/search?q=Babala) | N/A |
-| 26 | [Haluk Bey](http://twitter.com/search?q=Haluk+Bey) | N/A |
-| 27 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
-| 28 | [Mehmet Topal](http://twitter.com/search?q=Mehmet+Topal) | N/A |
-| 29 | [Kaza](http://twitter.com/search?q=Kaza) | N/A |
-| 30 | [Devlet Bey](http://twitter.com/search?q=Devlet+Bey) | N/A |
-| 31 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 32 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 33 | [Haluk Abi](http://twitter.com/search?q=Haluk+Abi) | N/A |
-| 34 | [Bunak](http://twitter.com/search?q=Bunak) | N/A |
-| 35 | [Sahtekar](http://twitter.com/search?q=Sahtekar) | N/A |
-| 36 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 37 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
-| 38 | [Ağzından](http://twitter.com/search?q=A%c4%9fz%c4%b1ndan) | N/A |
-| 39 | [Depremin 9](http://twitter.com/search?q=Depremin+9) | N/A |
-| 40 | [Muhammed Enes](http://twitter.com/search?q=Muhammed+Enes) | N/A |
-| 41 | [Gözü](http://twitter.com/search?q=G%c3%b6z%c3%bc) | N/A |
-| 42 | [Kasım](http://twitter.com/search?q=Kas%c4%b1m) | N/A |
-| 43 | [Ciddiye](http://twitter.com/search?q=Ciddiye) | N/A |
-| 44 | [Dedem](http://twitter.com/search?q=Dedem) | N/A |
-| 45 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
-| 46 | [Abdurrahman](http://twitter.com/search?q=Abdurrahman) | N/A |
-| 47 | [#Borsa20SubataKadarKapatılsın](http://twitter.com/search?q=%23Borsa20SubataKadarKapat%c4%b1ls%c4%b1n) | N/A |
-| 48 | [#YAPMAYIN](http://twitter.com/search?q=%23YAPMAYIN) | N/A |
-| 49 | [#Hamstercoin](http://twitter.com/search?q=%23Hamstercoin) | N/A |
-| 50 | [#14Subat](http://twitter.com/search?q=%2314Subat) | N/A |
+| 11 | [#volkandemirel](http://twitter.com/search?q=%23volkandemirel) | N/A |
+| 12 | [İlker Başbuğ](http://twitter.com/search?q=%c4%b0lker+Ba%c5%9fbu%c4%9f) | N/A |
+| 13 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
+| 14 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
+| 15 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
+| 16 | [Kürtçü](http://twitter.com/search?q=K%c3%bcrt%c3%a7%c3%bc) | N/A |
+| 17 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
+| 18 | [Cenazede](http://twitter.com/search?q=Cenazede) | N/A |
+| 19 | [Emine Akgül](http://twitter.com/search?q=Emine+Akg%c3%bcl) | N/A |
+| 20 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
+| 21 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
+| 22 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 23 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
+| 24 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
+| 25 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
+| 26 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 27 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
+| 28 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
+| 29 | [Ticaret Bakanlığı](http://twitter.com/search?q=Ticaret+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 30 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
+| 31 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
+| 32 | [maxim](http://twitter.com/search?q=maxim) | N/A |
+| 33 | [Osmaniye'ye](http://twitter.com/search?q=Osmaniye%27ye) | N/A |
+| 34 | [Depremin 9](http://twitter.com/search?q=Depremin+9) | N/A |
+| 35 | [Lütfü](http://twitter.com/search?q=L%c3%bctf%c3%bc) | N/A |
+| 36 | [Mehmet Topal](http://twitter.com/search?q=Mehmet+Topal) | N/A |
+| 37 | [Haluk Bey](http://twitter.com/search?q=Haluk+Bey) | N/A |
+| 38 | [Devlet Bey](http://twitter.com/search?q=Devlet+Bey) | N/A |
+| 39 | [Babala](http://twitter.com/search?q=Babala) | N/A |
+| 40 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
+| 41 | [kaza](http://twitter.com/search?q=kaza) | N/A |
+| 42 | [Milliyetçi Hareket Partisi](http://twitter.com/search?q=Milliyet%c3%a7i+Hareket+Partisi) | N/A |
+| 43 | [Haluk Abi](http://twitter.com/search?q=Haluk+Abi) | N/A |
+| 44 | [Sahtekar](http://twitter.com/search?q=Sahtekar) | N/A |
+| 45 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 46 | [Dedem](http://twitter.com/search?q=Dedem) | N/A |
+| 47 | [Ağzından](http://twitter.com/search?q=A%c4%9fz%c4%b1ndan) | N/A |
+| 48 | [ahmet şık](http://twitter.com/search?q=ahmet+%c5%9f%c4%b1k) | N/A |
+| 49 | [Haluk Levent'ten](http://twitter.com/search?q=Haluk+Levent%27ten) | N/A |
+| 50 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-14 14:17:19 UTC`
+📆 Last Updated: `2023-02-14 15:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 8 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 9 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 10 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 11 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 12 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
-| 13 | [caroline](http://twitter.com/search?q=caroline) | N/A |
-| 14 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
-| 15 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [Paola Carosella](http://twitter.com/search?q=Paola+Carosella) | N/A |
-| 18 | [Minha Casa Minha Vida](http://twitter.com/search?q=Minha+Casa+Minha+Vida) | N/A |
-| 19 | [Sapiosexual](http://twitter.com/search?q=Sapiosexual) | N/A |
-| 20 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
-| 21 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
-| 22 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 1 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 3 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 4 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 5 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 8 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 9 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 10 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
+| 11 | [#BrasilcomS](http://twitter.com/search?q=%23BrasilcomS) | N/A |
+| 12 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 13 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 14 | [ELE CORTOU O CABELO](http://twitter.com/search?q=ELE+CORTOU+O+CABELO) | N/A |
+| 15 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
+| 16 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
+| 17 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 19 | [Garena](http://twitter.com/search?q=Garena) | N/A |
+| 20 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
+| 21 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
+| 22 | [caroline](http://twitter.com/search?q=caroline) | N/A |
 | 23 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
-| 24 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 25 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 26 | [Julio Cesar](http://twitter.com/search?q=Julio+Cesar) | N/A |
-| 27 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
-| 28 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 29 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 30 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 31 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 32 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 33 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 34 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
-| 35 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 36 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 37 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
-| 38 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
-| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 40 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 41 | [Lara Resende](http://twitter.com/search?q=Lara+Resende) | N/A |
-| 42 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
-| 43 | [Dahmer](http://twitter.com/search?q=Dahmer) | N/A |
-| 44 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 46 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 47 | [Léo Índio](http://twitter.com/search?q=L%c3%a9o+%c3%8dndio) | N/A |
-| 48 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 49 | [Bebeto](http://twitter.com/search?q=Bebeto) | N/A |
+| 24 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 25 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 27 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 28 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 29 | [Minha Casa](http://twitter.com/search?q=Minha+Casa) | N/A |
+| 30 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 31 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 32 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
+| 33 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
+| 34 | [Football Club](http://twitter.com/search?q=Football+Club) | N/A |
+| 35 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 36 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
+| 37 | [Julio Cesar](http://twitter.com/search?q=Julio+Cesar) | N/A |
+| 38 | [Mel Maia](http://twitter.com/search?q=Mel+Maia) | N/A |
+| 39 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
+| 40 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
+| 41 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 42 | [Bienal](http://twitter.com/search?q=Bienal) | N/A |
+| 43 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
+| 44 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
+| 45 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 46 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 47 | [Sapiosexual](http://twitter.com/search?q=Sapiosexual) | N/A |
+| 48 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 49 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
 
 
 

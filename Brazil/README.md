@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-14 14:18:00 UTC`
+📆 Last Updated: `2023-02-14 15:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 2 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 5 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 6 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 7 | [Paola Carosella](http://twitter.com/search?q=Paola+Carosella) | N/A |
-| 8 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 9 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 10 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 11 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 12 | [caroline](http://twitter.com/search?q=caroline) | N/A |
-| 13 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
-| 14 | [Minha Casa Minha Vida](http://twitter.com/search?q=Minha+Casa+Minha+Vida) | N/A |
-| 15 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
-| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
-| 18 | [Sapiosexual](http://twitter.com/search?q=Sapiosexual) | N/A |
-| 19 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 20 | [#PomboDay](http://twitter.com/search?q=%23PomboDay) | N/A |
-| 21 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
-| 22 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
-| 23 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
-| 24 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 25 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 26 | [Julio Cesar](http://twitter.com/search?q=Julio+Cesar) | N/A |
-| 27 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 28 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 29 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 30 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 31 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 32 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 33 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
-| 34 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 35 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 36 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
-| 37 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
-| 38 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 39 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 40 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
-| 41 | [Lara Resende](http://twitter.com/search?q=Lara+Resende) | N/A |
-| 42 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 43 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
-| 44 | [Dahmer](http://twitter.com/search?q=Dahmer) | N/A |
-| 45 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 46 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 47 | [Bebeto](http://twitter.com/search?q=Bebeto) | N/A |
-| 48 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 49 | [Léo Índio](http://twitter.com/search?q=L%c3%a9o+%c3%8dndio) | N/A |
-| 50 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 2 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 3 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 4 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 7 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 8 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 9 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
+| 10 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 11 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 12 | [#BrasilcomS](http://twitter.com/search?q=%23BrasilcomS) | N/A |
+| 13 | [ELE CORTOU O CABELO](http://twitter.com/search?q=ELE+CORTOU+O+CABELO) | N/A |
+| 14 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
+| 15 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 16 | [garena](http://twitter.com/search?q=garena) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
+| 19 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
+| 20 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
+| 21 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 22 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
+| 23 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
+| 24 | [caroline](http://twitter.com/search?q=caroline) | N/A |
+| 25 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 26 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 28 | [Minha Casa](http://twitter.com/search?q=Minha+Casa) | N/A |
+| 29 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 30 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 31 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 32 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
+| 33 | [Football Club](http://twitter.com/search?q=Football+Club) | N/A |
+| 34 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
+| 35 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
+| 36 | [Mel Maia](http://twitter.com/search?q=Mel+Maia) | N/A |
+| 37 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
+| 38 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 39 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 40 | [Bienal](http://twitter.com/search?q=Bienal) | N/A |
+| 41 | [Julio Cesar](http://twitter.com/search?q=Julio+Cesar) | N/A |
+| 42 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
+| 43 | [Sapiosexual](http://twitter.com/search?q=Sapiosexual) | N/A |
+| 44 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 45 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
+| 46 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
+| 47 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 48 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 49 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 50 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
 
 
 

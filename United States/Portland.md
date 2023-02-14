@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-02-14 14:17:56 UTC`
+📆 Last Updated: `2023-02-14 15:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 4 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
 | 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 6 | [#MSUStrong](http://twitter.com/search?q=%23MSUStrong) | N/A |
-| 7 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 10 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 12 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 13 | [#SpartanStrong](http://twitter.com/search?q=%23SpartanStrong) | N/A |
-| 14 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 15 | [wordle 605 x](http://twitter.com/search?q=wordle+605+x) | N/A |
-| 16 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
-| 17 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 18 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 19 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 20 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 21 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 22 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 23 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 24 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 25 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 26 | [Methodius](http://twitter.com/search?q=Methodius) | N/A |
-| 27 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
-| 28 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 29 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
-| 30 | [January CPI](http://twitter.com/search?q=January+CPI) | N/A |
-| 31 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 32 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 33 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 34 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 35 | [Scorpios](http://twitter.com/search?q=Scorpios) | N/A |
-| 36 | [James Clapper](http://twitter.com/search?q=James+Clapper) | N/A |
+| 6 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 7 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 8 | [#MSUStrong](http://twitter.com/search?q=%23MSUStrong) | N/A |
+| 9 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 10 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 11 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 12 | [NEWARK](http://twitter.com/search?q=NEWARK) | N/A |
+| 13 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 14 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 15 | [YOONGIS](http://twitter.com/search?q=YOONGIS) | YOONGIS is a Korean slang term that is used to describe someone who is attractive, cool, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it could be translated as "stylish" or "trendy". |
+| 16 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 17 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 18 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 19 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
+| 20 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
+| 21 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 22 | [Jim Caldwell](http://twitter.com/search?q=Jim+Caldwell) | N/A |
+| 23 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 24 | [Anthony McRae](http://twitter.com/search?q=Anthony+McRae) | N/A |
+| 25 | [ROSEMONT](http://twitter.com/search?q=ROSEMONT) | N/A |
+| 26 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 27 | [0.5% in January](http://twitter.com/search?q=0.5%25+in+January) | N/A |
+| 28 | [Nassar](http://twitter.com/search?q=Nassar) | N/A |
+| 29 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 30 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 31 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 32 | [Michael Wacha](http://twitter.com/search?q=Michael+Wacha) | N/A |
+| 33 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
+| 34 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 35 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 36 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 37 | [Hallmark](http://twitter.com/search?q=Hallmark) | N/A |
-| 38 | [Lansing](http://twitter.com/search?q=Lansing) | N/A |
-| 39 | [Gretchen Whitmer](http://twitter.com/search?q=Gretchen+Whitmer) | N/A |
-| 40 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 43 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
-| 44 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 45 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 46 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 47 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 48 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 49 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
-| 50 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 38 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 39 | [Dax Shepard](http://twitter.com/search?q=Dax+Shepard) | N/A |
+| 40 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
+| 41 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 42 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 43 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 44 | [ivan](http://twitter.com/search?q=ivan) | N/A |
+| 45 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
+| 46 | [Scorpios](http://twitter.com/search?q=Scorpios) | N/A |
+| 47 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 48 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
+| 49 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 50 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
 
 
 

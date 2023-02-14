@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-14 14:17:17 UTC`
+📆 Last Updated: `2023-02-14 15:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
-| 2 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 2 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
 | 3 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 5 | [#FiscaliaCorrupta](http://twitter.com/search?q=%23FiscaliaCorrupta) | N/A |
+| 4 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
+| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 6 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 7 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
-| 8 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 9 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
-| 11 | [#ColombiaQuiere](http://twitter.com/search?q=%23ColombiaQuiere) | N/A |
-| 12 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
+| 7 | [#FiscaliaCorrupta](http://twitter.com/search?q=%23FiscaliaCorrupta) | N/A |
+| 8 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 9 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 10 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 11 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 12 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 13 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 14 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
 | 15 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 16 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 18 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
-| 19 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 20 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
-| 21 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
-| 22 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
-| 23 | [Sura](http://twitter.com/search?q=Sura) | N/A |
-| 24 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
-| 25 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
-| 26 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 27 | [Médicos](http://twitter.com/search?q=M%c3%a9dicos) | N/A |
-| 28 | [OVNIs](http://twitter.com/search?q=OVNIs) | N/A |
-| 29 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 30 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 31 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 32 | [magdalena](http://twitter.com/search?q=magdalena) | N/A |
-| 33 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
-| 34 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 35 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 36 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
-| 37 | [Millos](http://twitter.com/search?q=Millos) | N/A |
-| 38 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
-| 39 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
-| 40 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 41 | [chipi chipi](http://twitter.com/search?q=chipi+chipi) | N/A |
-| 42 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 43 | [ana catalina noguera](http://twitter.com/search?q=ana+catalina+noguera) | N/A |
-| 44 | [Prepagada](http://twitter.com/search?q=Prepagada) | N/A |
-| 45 | [Anahí](http://twitter.com/search?q=Anah%c3%ad) | N/A |
-| 46 | [Fabi Ou](http://twitter.com/search?q=Fabi+Ou) | N/A |
-| 47 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
-| 48 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
-| 49 | [Cotes](http://twitter.com/search?q=Cotes) | N/A |
-| 50 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 16 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
+| 17 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 19 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
+| 20 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
+| 21 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
+| 22 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 24 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
+| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 26 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 27 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 29 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
+| 30 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 31 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 32 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
+| 33 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 34 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 35 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
+| 36 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 37 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
+| 38 | [Sura](http://twitter.com/search?q=Sura) | N/A |
+| 39 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 40 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 41 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 42 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 43 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
+| 44 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 45 | [Clan Cotes](http://twitter.com/search?q=Clan+Cotes) | N/A |
+| 46 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
+| 47 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
+| 48 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
+| 49 | [Shakira y Jlo](http://twitter.com/search?q=Shakira+y+Jlo) | N/A |
+| 50 | [Prepagada](http://twitter.com/search?q=Prepagada) | N/A |
 
 
 
