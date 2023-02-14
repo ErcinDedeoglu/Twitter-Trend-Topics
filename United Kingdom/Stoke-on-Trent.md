@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-14 09:17:26 UTC`
+📆 Last Updated: `2023-02-14 10:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 3 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
-| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 6 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 7 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 8 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 9 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 10 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 14 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 15 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 16 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 17 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 18 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 20 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 21 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 22 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 24 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 25 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 26 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 27 | [Andy Robertson](http://twitter.com/search?q=Andy+Robertson) | N/A |
-| 28 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 29 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Darvel](http://twitter.com/search?q=Darvel) | Darvel is a town in East Ayrshire, Scotland. It is located on the River Irvine, about 8 miles (13 km) south of Kilmarnock. The name Darvel is derived from the Gaelic word darbh-fhaol, meaning "oak-plain". |
-| 32 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 33 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 34 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 35 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 36 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 37 | [Dilly](http://twitter.com/search?q=Dilly) | N/A |
-| 38 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 39 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 40 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
-| 41 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 42 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 43 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
-| 44 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 45 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
-| 46 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 47 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
-| 48 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 49 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 50 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 1 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 6 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 7 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 8 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 9 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 10 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
+| 11 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 12 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 13 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 14 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
+| 15 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
+| 16 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
+| 17 | [Misty](http://twitter.com/search?q=Misty) | N/A |
+| 18 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 19 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 20 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 21 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 22 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 24 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 25 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 26 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
+| 27 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 28 | [#Loveisintheair](http://twitter.com/search?q=%23Loveisintheair) | N/A |
+| 29 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 30 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 31 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
+| 32 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 33 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
+| 34 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 35 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 36 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 37 | [#Romance](http://twitter.com/search?q=%23Romance) | N/A |
+| 38 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
+| 39 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 40 | [#ShareTheLove](http://twitter.com/search?q=%23ShareTheLove) | N/A |
+| 41 | [#loveislove](http://twitter.com/search?q=%23loveislove) | N/A |
+| 42 | [#WelshTop10](http://twitter.com/search?q=%23WelshTop10) | N/A |
+| 43 | [#HeartUnions](http://twitter.com/search?q=%23HeartUnions) | N/A |
 
 
 

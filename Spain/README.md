@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-14 09:18:30 UTC`
+📆 Last Updated: `2023-02-14 10:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,27 +15,43 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Feliz San Valentín](http://twitter.com/search?q=Feliz+San+Valent%c3%adn) | N/A |
+| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 4 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 5 | [#APOYOROCIO14F](http://twitter.com/search?q=%23APOYOROCIO14F) | N/A |
-| 6 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
-| 7 | [#YoMeRebelo14F](http://twitter.com/search?q=%23YoMeRebelo14F) | N/A |
-| 8 | [Parla](http://twitter.com/search?q=Parla) | N/A |
-| 9 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 10 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 11 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
+| 5 | [#conVodafone](http://twitter.com/search?q=%23conVodafone) | N/A |
+| 6 | [#realme10mejorQueMiEx](http://twitter.com/search?q=%23realme10mejorQueMiEx) | N/A |
+| 7 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
+| 8 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 9 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 10 | [Parla](http://twitter.com/search?q=Parla) | N/A |
+| 11 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
 | 12 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 13 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 13 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
+| 14 | [Vaquerizo](http://twitter.com/search?q=Vaquerizo) | N/A |
 | 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 16 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
-| 17 | [Mario Vaquerizo](http://twitter.com/search?q=Mario+Vaquerizo) | Mario Vaquerizo is a Spanish singer, actor, and television presenter. He is best known for his work on the television show La Movida and his collaborations with his wife Alaska. The name Mario Vaquerizo roughly translates to "Mario the Cowboy" in English. |
-| 18 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 19 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 20 | [Quirón](http://twitter.com/search?q=Quir%c3%b3n) | N/A |
-| 21 | [Junqueras](http://twitter.com/search?q=Junqueras) | N/A |
+| 16 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 17 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 18 | [Corte Inglés](http://twitter.com/search?q=Corte+Ingl%c3%a9s) | N/A |
+| 19 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 20 | [Moncloa](http://twitter.com/search?q=Moncloa) | N/A |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
+| 23 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
+| 24 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
+| 25 | [Carlos Alsina](http://twitter.com/search?q=Carlos+Alsina) | N/A |
+| 26 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
+| 27 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 28 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 29 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 30 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 31 | [Quirón](http://twitter.com/search?q=Quir%c3%b3n) | N/A |
+| 32 | [#APOYOROCIO14F](http://twitter.com/search?q=%23APOYOROCIO14F) | N/A |
+| 33 | [#DíaMundialdelaEnergía](http://twitter.com/search?q=%23D%c3%adaMundialdelaEnerg%c3%ada) | N/A |
+| 34 | [#Gianmarco14F](http://twitter.com/search?q=%23Gianmarco14F) | N/A |
+| 35 | [#YoMeRebelo14F](http://twitter.com/search?q=%23YoMeRebelo14F) | N/A |
+| 36 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
+| 37 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

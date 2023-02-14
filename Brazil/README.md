@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-14 09:18:23 UTC`
+📆 Last Updated: `2023-02-14 10:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Brazil
 | 9 | [gaga](http://twitter.com/search?q=gaga) | N/A |
 | 10 | [manu](http://twitter.com/search?q=manu) | N/A |
 | 11 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 12 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 13 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 14 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 15 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 17 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 18 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 19 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 20 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 12 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 13 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 14 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 16 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 17 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 18 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 19 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 20 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
 | 21 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 22 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 23 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 25 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 26 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 23 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 24 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 27 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 28 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 30 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 31 | [bruno rodrigues](http://twitter.com/search?q=bruno+rodrigues) | N/A |
+| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 29 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 30 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 31 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
 | 32 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 33 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 34 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 35 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 36 | [hyoran](http://twitter.com/search?q=hyoran) | N/A |
-| 37 | [feliz aniversário nero](http://twitter.com/search?q=feliz+anivers%c3%a1rio+nero) | N/A |
-| 38 | [steloisa no samba](http://twitter.com/search?q=steloisa+no+samba) | N/A |
-| 39 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 40 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 41 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 42 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 43 | [david braz](http://twitter.com/search?q=david+braz) | N/A |
-| 44 | [igor gomes](http://twitter.com/search?q=igor+gomes) | N/A |
-| 45 | [Walisson](http://twitter.com/search?q=Walisson) | N/A |
-| 46 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 47 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 48 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 49 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 50 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
+| 33 | [TEDDY BEAR OUT NOW](http://twitter.com/search?q=TEDDY+BEAR+OUT+NOW) | N/A |
+| 34 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 35 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 36 | [BRUNO RODRIGUES](http://twitter.com/search?q=BRUNO+RODRIGUES) | N/A |
+| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 38 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
+| 39 | [hyoran](http://twitter.com/search?q=hyoran) | N/A |
+| 40 | [feliz aniversário nero](http://twitter.com/search?q=feliz+anivers%c3%a1rio+nero) | N/A |
+| 41 | [steloisa no samba](http://twitter.com/search?q=steloisa+no+samba) | N/A |
+| 42 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 43 | [Mais Procurados](http://twitter.com/search?q=Mais+Procurados) | N/A |
+| 44 | [david braz](http://twitter.com/search?q=david+braz) | N/A |
+| 45 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 46 | [coudet](http://twitter.com/search?q=coudet) | N/A |
+| 47 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 48 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 49 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 
 
 

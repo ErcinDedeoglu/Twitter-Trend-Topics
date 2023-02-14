@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-14 09:17:42 UTC`
+📆 Last Updated: `2023-02-14 10:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,42 +20,45 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
 | 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 5 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 6 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
-| 7 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
-| 8 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 9 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
-| 10 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 11 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 12 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
-| 13 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
-| 14 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 15 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
+| 6 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
+| 7 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 8 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
+| 9 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 10 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
+| 11 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
+| 12 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 13 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 14 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 15 | [Letta](http://twitter.com/search?q=Letta) | N/A |
 | 16 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 17 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 18 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 19 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 20 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 21 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 22 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 23 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 17 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 18 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 19 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 20 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
+| 21 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 22 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 23 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
 | 24 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 25 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
-| 26 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 27 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 28 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 29 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 30 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 31 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
-| 32 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
-| 33 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
-| 34 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
-| 35 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
-| 36 | [#Regionali2023](http://twitter.com/search?q=%23Regionali2023) | N/A |
-| 37 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 38 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 39 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
-| 40 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 41 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 25 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 26 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 27 | [La Lombardia](http://twitter.com/search?q=La+Lombardia) | N/A |
+| 28 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
+| 29 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 30 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 31 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
+| 32 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 33 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 34 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 35 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
+| 36 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
+| 37 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
+| 38 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
+| 39 | [#Regionali2023](http://twitter.com/search?q=%23Regionali2023) | N/A |
+| 40 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 41 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 42 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 43 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 44 | [#sinistra](http://twitter.com/search?q=%23sinistra) | N/A |
 
 
 

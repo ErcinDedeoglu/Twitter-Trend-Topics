@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-14 09:18:28 UTC`
+📆 Last Updated: `2023-02-14 10:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Panama
 | 4 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
 | 5 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 6 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 7 | [ovnis](http://twitter.com/search?q=ovnis) | N/A |
+| 7 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
 | 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 9 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
