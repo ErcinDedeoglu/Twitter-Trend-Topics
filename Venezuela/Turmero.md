@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-14 06:17:07 UTC`
+📆 Last Updated: `2023-02-14 07:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 12 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
 | 13 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
 | 14 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
-| 15 | [Batalla de la Victoria](http://twitter.com/search?q=Batalla+de+la+Victoria) | N/A |
+| 15 | [batalla de la victoria](http://twitter.com/search?q=batalla+de+la+victoria) | N/A |
 | 16 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
 | 17 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
 | 18 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
 | 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 20 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 21 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 22 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 23 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 25 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 27 | [#MundoCaraquista](http://twitter.com/search?q=%23MundoCaraquista) | N/A |
-| 28 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 29 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
-| 30 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 31 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 32 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 33 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
-| 34 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 20 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 21 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 23 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 24 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 25 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 26 | [#MundoCaraquista](http://twitter.com/search?q=%23MundoCaraquista) | N/A |
+| 27 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 28 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
+| 29 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 30 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 32 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
+| 33 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
+| 34 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
 | 35 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
-| 36 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
-| 37 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 38 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
-| 39 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
-| 40 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 41 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
-| 42 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 43 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 44 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 45 | [Jim West](http://twitter.com/search?q=Jim+West) | N/A |
-| 46 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 47 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 48 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 49 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 36 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 37 | [josé félix ribas](http://twitter.com/search?q=jos%c3%a9+f%c3%a9lix+ribas) | N/A |
+| 38 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 39 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
+| 40 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
+| 41 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 42 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 43 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 44 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
+| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 46 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 47 | [Jim West](http://twitter.com/search?q=Jim+West) | N/A |
+| 48 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 49 | [toco gómez](http://twitter.com/search?q=toco+g%c3%b3mez) | N/A |
 
 
 

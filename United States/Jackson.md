@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-14 06:17:40 UTC`
+📆 Last Updated: `2023-02-14 07:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 2 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
 | 3 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
 | 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 6 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 5 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 6 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 7 | [#ActiveShooter](http://twitter.com/search?q=%23ActiveShooter) | N/A |
 | 8 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
 | 9 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 10 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 11 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
-| 12 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 13 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 14 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
-| 15 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 11 | [#msustrong](http://twitter.com/search?q=%23msustrong) | N/A |
+| 12 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
+| 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 14 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 15 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
 | 16 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
 | 17 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
-| 18 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 19 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 18 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
+| 19 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
 | 20 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 21 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 21 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
 | 22 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
 | 23 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 24 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 25 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 26 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 27 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 28 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 29 | [MSU Union](http://twitter.com/search?q=MSU+Union) | N/A |
-| 30 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 31 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 32 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
-| 33 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 34 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 35 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 36 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
-| 37 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
-| 38 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
-| 39 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
-| 40 | [The MSU](http://twitter.com/search?q=The+MSU) | N/A |
-| 41 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 42 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 43 | [Larch](http://twitter.com/search?q=Larch) | N/A |
-| 44 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 45 | [Beanpot](http://twitter.com/search?q=Beanpot) | N/A |
-| 46 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 47 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 24 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 25 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 27 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 28 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 29 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 30 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 31 | [MSU Union](http://twitter.com/search?q=MSU+Union) | N/A |
+| 32 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 33 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 34 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
+| 35 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 36 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
+| 37 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 38 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 39 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
+| 40 | [Emi Jones](http://twitter.com/search?q=Emi+Jones) | N/A |
+| 41 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
+| 42 | [Chris Rozman](http://twitter.com/search?q=Chris+Rozman) | N/A |
+| 43 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 44 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
+| 45 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 46 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 47 | [Larch](http://twitter.com/search?q=Larch) | N/A |
+| 48 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
 
 
 

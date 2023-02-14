@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-14 06:17:28 UTC`
+📆 Last Updated: `2023-02-14 07:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 2 | [#صباح_الخير_والسعاده](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | #صباح_الخير_والسعاده is an Arabic phrase that translates to "Good morning and happiness". It is a common greeting used to wish someone a good morning and a happy day. |
-| 3 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 4 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 5 | [#الاهلي_العروبه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%a8%d9%87) | N/A |
-| 6 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 1 | [#تعليم_الرياض](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 2 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 3 | [#مين_اجل_مباراه_الفيحا_والهلال](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%86_%d8%a7%d8%ac%d9%84_%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7_%d9%88%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 4 | [#وزاره_التعليم](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 5 | [#تعليم_الخرج](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%ae%d8%b1%d8%ac) | N/A |
+| 6 | [#صباح_الخير_والسعاده](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | #صباح_الخير_والسعاده is an Arabic phrase that translates to "Good morning and happiness". It is a common greeting used to wish someone a good morning and a happy day. |
 | 7 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 8 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 9 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 10 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 11 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 12 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 13 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
-| 14 | [هيثم](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85) | N/A |
-| 15 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 16 | [بنك الرياض](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 17 | [الاطباق الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 18 | [علي قياس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%8a%d8%a7%d8%b3) | N/A |
-| 19 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 20 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 21 | [ماتيب](http://twitter.com/search?q=%d9%85%d8%a7%d8%aa%d9%8a%d8%a8) | ماتيب is an Arabic expression that means "I'm sorry". |
-| 22 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 23 | [تاجيل المباراه](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
-| 24 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
-| 25 | [نايف كريري](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 26 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 27 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 28 | [المعجب السري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%a8+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a) | N/A |
-| 29 | [ابراهيم نور الدين](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 30 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
-| 31 | [الكرت الذهبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a) | N/A |
-| 32 | [ديربي الميرسيسايد](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d9%8a%d8%b1%d8%b3%d9%8a%d8%b3%d8%a7%d9%8a%d8%af) | N/A |
-| 33 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 34 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 35 | [علي تاجيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%aa%d8%a7%d8%ac%d9%8a%d9%84) | N/A |
-| 36 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 37 | [الليكرز](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%83%d8%b1%d8%b2) | N/A |
-| 38 | [التاسيس السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 39 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 40 | [الصباح الجميل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 41 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 42 | [سامبدوريا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%a8%d8%af%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 43 | [وزير الرياضه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87) | N/A |
-| 44 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 45 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 46 | [اللعب النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
-| 47 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 48 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 49 | [ذكري التاسيس](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 50 | [هابي فالنتاين](http://twitter.com/search?q=%d9%87%d8%a7%d8%a8%d9%8a+%d9%81%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d9%8a%d9%86) | N/A |
+| 8 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 9 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 10 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 11 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 12 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 13 | [الجذور الراسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b0%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d8%ae%d9%87) | N/A |
+| 14 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 15 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 16 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
+| 17 | [رييس الفيحاء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 18 | [للمملكة العربية السعودية](http://twitter.com/search?q=%d9%84%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 19 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 20 | [بنك الرياض](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 21 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 22 | [#المخطوفه_الطفله_سديم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d9%88%d9%81%d9%87_%d8%a7%d9%84%d8%b7%d9%81%d9%84%d9%87_%d8%b3%d8%af%d9%8a%d9%85) | N/A |
+| 23 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 24 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 25 | [#صباح_الحب](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 26 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 27 | [#عبر_ببساطه](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%b1_%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d9%87) | N/A |
+| 28 | [#عيد_الفلنتاين](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d9%84%d9%86%d8%aa%d8%a7%d9%8a%d9%86) | N/A |
+| 29 | [#ابعاد_المسحل_مطلب_الجماهير](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b9%d8%a7%d8%af_%d8%a7%d9%84%d9%85%d8%b3%d8%ad%d9%84_%d9%85%d8%b7%d9%84%d8%a8_%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1) | N/A |
+| 30 | [#ابن_شديد](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%86_%d8%b4%d8%af%d9%8a%d8%af) | N/A |
+| 31 | [#الستر_فطره_والحجاب_فريضه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%aa%d8%b1_%d9%81%d8%b7%d8%b1%d9%87_%d9%88%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%a8_%d9%81%d8%b1%d9%8a%d8%b6%d9%87) | N/A |
+| 32 | [#يوم_الحب](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 33 | [#صباحيات](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d8%a7%d8%aa) | N/A |
+| 34 | [#سعد_بهاج_في_مصر](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d8%a8%d9%87%d8%a7%d8%ac_%d9%81%d9%8a_%d9%85%d8%b5%d8%b1) | N/A |
+| 35 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 36 | [#اليوم_العالمي_للحب](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%ad%d8%a8) | N/A |
+| 37 | [#مشاري_العتيبي](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%a7%d8%b1%d9%8a_%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
+| 38 | [#البزنس69](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b369) | N/A |
+| 39 | [#تعليم_محايل_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d8%ad%d8%a7%d9%8a%d9%84_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 40 | [#تعليم_تبوك](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%aa%d8%a8%d9%88%d9%83) | N/A |
+| 41 | [#تعليم_القصيم](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d9%85) | N/A |
+| 42 | [#الفصل_الدراسي_الثالث](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%b5%d9%84_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a_%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 43 | [#تعليم_الدوادمي](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%af%d9%85%d9%8a) | N/A |
+| 44 | [#حمله_تبليك_عثمان_ابوبكر_مالي](http://twitter.com/search?q=%23%d8%ad%d9%85%d9%84%d9%87_%d8%aa%d8%a8%d9%84%d9%8a%d9%83_%d8%b9%d8%ab%d9%85%d8%a7%d9%86_%d8%a7%d8%a8%d9%88%d8%a8%d9%83%d8%b1_%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 45 | [#تعليم_ينبع](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%8a%d9%86%d8%a8%d8%b9) | N/A |
+| 46 | [#تعليم_جازان](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
 
 
 

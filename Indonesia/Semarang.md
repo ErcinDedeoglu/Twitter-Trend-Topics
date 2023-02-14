@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-14 06:17:19 UTC`
+📆 Last Updated: `2023-02-14 07:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 2 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
-| 3 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
-| 4 | [#DNAalbum](http://twitter.com/search?q=%23DNAalbum) | N/A |
-| 5 | [D.N.A Cypher MV OUT NOW](http://twitter.com/search?q=D.N.A+Cypher+MV+OUT+NOW) | N/A |
-| 6 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 7 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 8 | [Kuat Ma'ruf](http://twitter.com/search?q=Kuat+Ma%27ruf) | N/A |
-| 9 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
-| 10 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
-| 11 | [127 TRIPLE MILLION SELLERS](http://twitter.com/search?q=127+TRIPLE+MILLION+SELLERS) | N/A |
-| 12 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 13 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
-| 14 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
-| 15 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 16 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
-| 17 | [Happy Vals](http://twitter.com/search?q=Happy+Vals) | N/A |
-| 18 | [Selamat Hari Kasih Sayang](http://twitter.com/search?q=Selamat+Hari+Kasih+Sayang) | N/A |
-| 19 | [Brio](http://twitter.com/search?q=Brio) | N/A |
-| 20 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 21 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 22 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 23 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 24 | [Refal Hady](http://twitter.com/search?q=Refal+Hady) | N/A |
-| 25 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
-| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 27 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
-| 28 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
-| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 30 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 31 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 32 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 33 | [#NCT127_2ndTripleMillion](http://twitter.com/search?q=%23NCT127_2ndTripleMillion) | N/A |
-| 34 | [#Ashelasa](http://twitter.com/search?q=%23Ashelasa) | N/A |
-| 35 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
-| 36 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 37 | [#บวงสรวงรักร้าย](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2) | N/A |
-| 38 | [#14กุมภาฮันนี่ขอกุมใจไบเบิ้ล](http://twitter.com/search?q=%2314%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%82%e0%b8%ad%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5) | N/A |
-| 39 | [#YoonA](http://twitter.com/search?q=%23YoonA) | N/A |
-| 40 | [#KingTheLand](http://twitter.com/search?q=%23KingTheLand) | N/A |
-| 41 | [#ASLOVEU](http://twitter.com/search?q=%23ASLOVEU) | N/A |
-| 42 | [#วาเลนไทน์เทใจให้นุนิว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b8%99%e0%b9%84%e0%b8%97%e0%b8%99%e0%b9%8c%e0%b9%80%e0%b8%97%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 43 | [#JeffBarcode](http://twitter.com/search?q=%23JeffBarcode) | N/A |
-| 44 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
-| 45 | [#HAPPYJAEHYUNDAY](http://twitter.com/search?q=%23HAPPYJAEHYUNDAY) | N/A |
-| 46 | [#thombrowneXJohnnySuh](http://twitter.com/search?q=%23thombrowneXJohnnySuh) | N/A |
-| 47 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 1 | [Dekade 08](http://twitter.com/search?q=Dekade+08) | N/A |
+| 2 | [Maju Terus Bersama Prabowo](http://twitter.com/search?q=Maju+Terus+Bersama+Prabowo) | N/A |
+| 3 | [Pastinya Prabowo](http://twitter.com/search?q=Pastinya+Prabowo) | N/A |
+| 4 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 5 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
+| 6 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
+| 7 | [#DNAalbum](http://twitter.com/search?q=%23DNAalbum) | N/A |
+| 8 | [#YouAreFirst](http://twitter.com/search?q=%23YouAreFirst) | N/A |
+| 9 | [D.N.A Cypher MV OUT NOW](http://twitter.com/search?q=D.N.A+Cypher+MV+OUT+NOW) | N/A |
+| 10 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 11 | [Kuat Ma'ruf](http://twitter.com/search?q=Kuat+Ma%27ruf) | N/A |
+| 12 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
+| 13 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 14 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
+| 15 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
+| 16 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
+| 17 | [Mandat Desa Untuk Indonesia](http://twitter.com/search?q=Mandat+Desa+Untuk+Indonesia) | N/A |
+| 18 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 19 | [127 TRIPLE MILLION SELLERS](http://twitter.com/search?q=127+TRIPLE+MILLION+SELLERS) | N/A |
+| 20 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
+| 21 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 22 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
+| 23 | [Brio](http://twitter.com/search?q=Brio) | N/A |
+| 24 | [Selamat Hari Kasih Sayang](http://twitter.com/search?q=Selamat+Hari+Kasih+Sayang) | N/A |
+| 25 | [Happy Vals](http://twitter.com/search?q=Happy+Vals) | N/A |
+| 26 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 27 | [Meikarta](http://twitter.com/search?q=Meikarta) | N/A |
+| 28 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 29 | [Refal Hady](http://twitter.com/search?q=Refal+Hady) | N/A |
+| 30 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
+| 31 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 32 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 33 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 35 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
+| 36 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 37 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
+| 38 | [Banjir](http://twitter.com/search?q=Banjir) | N/A |
+| 39 | [Jung Jaehyun](http://twitter.com/search?q=Jung+Jaehyun) | N/A |
+| 40 | [#KasihSayangIndiHome](http://twitter.com/search?q=%23KasihSayangIndiHome) | N/A |
+| 41 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
+| 42 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 43 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 44 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
+| 45 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
+| 46 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 47 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 48 | [#COKELATDARIMINTO](http://twitter.com/search?q=%23COKELATDARIMINTO) | N/A |
+| 49 | [#Ashelasa](http://twitter.com/search?q=%23Ashelasa) | N/A |
 
 
 
