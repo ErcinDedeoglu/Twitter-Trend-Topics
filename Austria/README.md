@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-13 23:16:46 UTC`
+📆 Last Updated: `2023-02-14 00:29:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,24 +25,24 @@ This is top 50 for Austria
 | 8 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 9 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
 | 10 | [gigi](http://twitter.com/search?q=gigi) | N/A |
-| 11 | [#kitchenimpossible](http://twitter.com/search?q=%23kitchenimpossible) | N/A |
-| 12 | [Mindestsicherung](http://twitter.com/search?q=Mindestsicherung) | N/A |
-| 13 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 11 | [Mindestsicherung](http://twitter.com/search?q=Mindestsicherung) | N/A |
+| 12 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 13 | [Klimaschutzgesetz](http://twitter.com/search?q=Klimaschutzgesetz) | N/A |
 | 14 | [#Berlinwahl](http://twitter.com/search?q=%23Berlinwahl) | N/A |
-| 15 | [Klimaschutzgesetz](http://twitter.com/search?q=Klimaschutzgesetz) | N/A |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 16 | [Sackerl](http://twitter.com/search?q=Sackerl) | N/A |
 | 17 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
 | 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 19 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 20 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
-| 21 | [Schrift](http://twitter.com/search?q=Schrift) | N/A |
-| 22 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 23 | [Blockade](http://twitter.com/search?q=Blockade) | N/A |
+| 19 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
+| 20 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 21 | [Blockade](http://twitter.com/search?q=Blockade) | N/A |
+| 22 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
+| 23 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 24 | [Putsch](http://twitter.com/search?q=Putsch) | N/A |
 | 25 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 26 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 27 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
-| 28 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 26 | [Schrift](http://twitter.com/search?q=Schrift) | N/A |
+| 27 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 28 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
 | 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 30 | [Zivilgesellschaft](http://twitter.com/search?q=Zivilgesellschaft) | N/A |
 | 31 | [Rüstungsindustrie](http://twitter.com/search?q=R%c3%bcstungsindustrie) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Austria
 | 33 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
 | 34 | [Museum](http://twitter.com/search?q=Museum) | N/A |
 | 35 | [pocket coffee](http://twitter.com/search?q=pocket+coffee) | N/A |
-| 36 | [Außerirdischen](http://twitter.com/search?q=Au%c3%9ferirdischen) | N/A |
-| 37 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 38 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Paxlovid](http://twitter.com/search?q=Paxlovid) | N/A |
-| 41 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
-| 42 | [Wortwahl](http://twitter.com/search?q=Wortwahl) | N/A |
-| 43 | [Stillen](http://twitter.com/search?q=Stillen) | N/A |
-| 44 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 45 | [Karas](http://twitter.com/search?q=Karas) | N/A |
-| 46 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 47 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
-| 48 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 49 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 50 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 36 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 37 | [Außerirdischen](http://twitter.com/search?q=Au%c3%9ferirdischen) | N/A |
+| 38 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 39 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
+| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Bezirk](http://twitter.com/search?q=Bezirk) | N/A |
+| 43 | [Paxlovid](http://twitter.com/search?q=Paxlovid) | N/A |
+| 44 | [Sager](http://twitter.com/search?q=Sager) | N/A |
+| 45 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
+| 46 | [Wortwahl](http://twitter.com/search?q=Wortwahl) | N/A |
+| 47 | [Stillen](http://twitter.com/search?q=Stillen) | N/A |
+| 48 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 49 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 50 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
 
 
 

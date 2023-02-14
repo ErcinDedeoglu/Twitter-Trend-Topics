@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-13 23:16:42 UTC`
+📆 Last Updated: `2023-02-14 00:29:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 3 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 4 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 5 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 6 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 7 | [#DontMessWithSocialSecurity](http://twitter.com/search?q=%23DontMessWithSocialSecurity) | N/A |
-| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 9 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 4 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 5 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 6 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
+| 7 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 9 | [#DontMessWithSocialSecurity](http://twitter.com/search?q=%23DontMessWithSocialSecurity) | N/A |
 | 10 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
-| 11 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 13 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 14 | [Ability](http://twitter.com/search?q=Ability) | N/A |
-| 15 | [#LoverLiveFromParis](http://twitter.com/search?q=%23LoverLiveFromParis) | N/A |
-| 16 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
-| 17 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
-| 18 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 20 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 21 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 22 | [Enoree](http://twitter.com/search?q=Enoree) | N/A |
-| 23 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 24 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 25 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
-| 26 | [Texas and South Carolina](http://twitter.com/search?q=Texas+and+South+Carolina) | N/A |
-| 27 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
-| 28 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 29 | [Fleets](http://twitter.com/search?q=Fleets) | N/A |
-| 30 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 31 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
-| 32 | [Chronological](http://twitter.com/search?q=Chronological) | N/A |
-| 33 | [Solsbury Hill](http://twitter.com/search?q=Solsbury+Hill) | N/A |
-| 34 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 35 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 36 | [Olsen](http://twitter.com/search?q=Olsen) | Olsen is a Scandinavian surname derived from the Old Norse personal name Óláfr, meaning “ancestor’s descendant”. It is most common in Norway, Denmark, and Sweden. |
-| 37 | [Puddle](http://twitter.com/search?q=Puddle) | N/A |
-| 38 | [joshua bassett](http://twitter.com/search?q=joshua+bassett) | Joshua Bassett is an American actor, singer, and songwriter. He is best known for his role as Ricky Bowen in the Disney+ series High School Musical: The Musical: The Series. He has also appeared in the films A Week Away and The Thing About Harry. |
-| 39 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 40 | [Genji](http://twitter.com/search?q=Genji) | N/A |
-| 41 | [Conrad Dobler](http://twitter.com/search?q=Conrad+Dobler) | N/A |
-| 42 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 43 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
-| 44 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 45 | [Where is Biden](http://twitter.com/search?q=Where+is+Biden) | N/A |
-| 46 | [Blanton](http://twitter.com/search?q=Blanton) | N/A |
+| 11 | [Roundball Rock](http://twitter.com/search?q=Roundball+Rock) | N/A |
+| 12 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 13 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
+| 14 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 15 | [#StartingThisMayBeFun](http://twitter.com/search?q=%23StartingThisMayBeFun) | N/A |
+| 16 | [Ability](http://twitter.com/search?q=Ability) | N/A |
+| 17 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 18 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 19 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 21 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
+| 22 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 23 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 24 | [Enoree](http://twitter.com/search?q=Enoree) | N/A |
+| 25 | [Texas and South Carolina](http://twitter.com/search?q=Texas+and+South+Carolina) | N/A |
+| 26 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
+| 27 | [Fleets](http://twitter.com/search?q=Fleets) | N/A |
+| 28 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 29 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 30 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 31 | [Solsbury Hill](http://twitter.com/search?q=Solsbury+Hill) | N/A |
+| 32 | [Children of the Corn](http://twitter.com/search?q=Children+of+the+Corn) | N/A |
+| 33 | [Gambit](http://twitter.com/search?q=Gambit) | N/A |
+| 34 | [Olsen](http://twitter.com/search?q=Olsen) | Olsen is a Scandinavian surname derived from the Old Norse personal name Óláfr, meaning “ancestor’s descendant”. It is most common in Norway, Denmark, and Sweden. |
+| 35 | [Genji](http://twitter.com/search?q=Genji) | N/A |
+| 36 | [Chronological](http://twitter.com/search?q=Chronological) | N/A |
+| 37 | [Arrested Development](http://twitter.com/search?q=Arrested+Development) | N/A |
+| 38 | [South Carolina and Texas](http://twitter.com/search?q=South+Carolina+and+Texas) | N/A |
+| 39 | [Mississippi River](http://twitter.com/search?q=Mississippi+River) | N/A |
+| 40 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 42 | [New CEO](http://twitter.com/search?q=New+CEO) | N/A |
+| 43 | [Atlas Shrugged](http://twitter.com/search?q=Atlas+Shrugged) | N/A |
+| 44 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 45 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 46 | [Carmel](http://twitter.com/search?q=Carmel) | N/A |
 
 
 

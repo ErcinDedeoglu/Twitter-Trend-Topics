@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-13 23:16:07 UTC`
+📆 Last Updated: `2023-02-14 00:29:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 3 | [#JuventudIntegraciónYPaz](http://twitter.com/search?q=%23JuventudIntegraci%c3%b3nYPaz) | N/A |
 | 4 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 5 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 6 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 7 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 5 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
+| 6 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 10 | [Batalla de la Victoria](http://twitter.com/search?q=Batalla+de+la+Victoria) | N/A |
-| 11 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 9 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
+| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
 | 12 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
-| 13 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
-| 14 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 15 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 16 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 17 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 13 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 14 | [vicente campo elías](http://twitter.com/search?q=vicente+campo+el%c3%adas) | N/A |
+| 15 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
+| 16 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 17 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 18 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
 | 19 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 20 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
-| 21 | [Día Nacional del Guardaparques](http://twitter.com/search?q=D%c3%ada+Nacional+del+Guardaparques) | N/A |
-| 22 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 23 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 24 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 25 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 26 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 20 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 21 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 22 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 24 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 25 | [Día Nacional del Guardaparques](http://twitter.com/search?q=D%c3%ada+Nacional+del+Guardaparques) | N/A |
+| 26 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 27 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
 | 28 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 29 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 30 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 31 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
+| 29 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 30 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 31 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
 | 32 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
-| 33 | [Parque Nacional Henri Pittier](http://twitter.com/search?q=Parque+Nacional+Henri+Pittier) | N/A |
-| 34 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
-| 35 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
-| 36 | [Rancho Grande](http://twitter.com/search?q=Rancho+Grande) | N/A |
-| 37 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 38 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 39 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 40 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 41 | [Toco Gómez](http://twitter.com/search?q=Toco+G%c3%b3mez) | N/A |
-| 42 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 43 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 44 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 33 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
+| 34 | [Parque Nacional Henri Pittier](http://twitter.com/search?q=Parque+Nacional+Henri+Pittier) | N/A |
+| 35 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 36 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 37 | [Rancho Grande](http://twitter.com/search?q=Rancho+Grande) | N/A |
+| 38 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 39 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 40 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 42 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 43 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 44 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
 | 45 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 46 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
-| 47 | [Pérez Jiménez](http://twitter.com/search?q=P%c3%a9rez+Jim%c3%a9nez) | N/A |
+| 46 | [Toco Gómez](http://twitter.com/search?q=Toco+G%c3%b3mez) | N/A |
+| 47 | [Pedro Navaja](http://twitter.com/search?q=Pedro+Navaja) | N/A |
 
 
 

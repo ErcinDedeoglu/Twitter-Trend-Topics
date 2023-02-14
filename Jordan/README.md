@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-02-13 23:16:49 UTC`
+📆 Last Updated: `2023-02-14 00:29:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Jordan
 | ------- | ------------ | ------------ |
 | 1 | [احمد القيسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%8a%d8%b3%d9%8a) | N/A |
 | 2 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 3 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 4 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 5 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 6 | [باسم عوض](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%b9%d9%88%d8%b6) | N/A |
-| 7 | [#مستمرون_بالطوفان](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%aa%d9%85%d8%b1%d9%88%d9%86_%d8%a8%d8%a7%d9%84%d8%b7%d9%88%d9%81%d8%a7%d9%86) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 10 | [#اليوم_العالمي_للاذاعه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87) | N/A |
-| 11 | [التدخل السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
-| 12 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 13 | [مقتل جندي](http://twitter.com/search?q=%d9%85%d9%82%d8%aa%d9%84+%d8%ac%d9%86%d8%af%d9%8a) | N/A |
-| 14 | [فخر الاردن](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 15 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 16 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
-| 17 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 18 | [النايب العشوش](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%b4%d9%88%d8%b4) | N/A |
-| 19 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 20 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 21 | [الاجسام الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 22 | [الامتحان التنافسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81%d8%b3%d9%8a) | N/A |
+| 3 | [#مستمرون_بالطوفان](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%aa%d9%85%d8%b1%d9%88%d9%86_%d8%a8%d8%a7%d9%84%d8%b7%d9%88%d9%81%d8%a7%d9%86) | N/A |
+| 4 | [باسم عوض](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%b9%d9%88%d8%b6) | N/A |
+| 5 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 6 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 8 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 9 | [#اليوم_العالمي_للاذاعه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87) | N/A |
+| 10 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 11 | [مقتل جندي](http://twitter.com/search?q=%d9%85%d9%82%d8%aa%d9%84+%d8%ac%d9%86%d8%af%d9%8a) | N/A |
+| 12 | [التدخل السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
+| 13 | [فخر الاردن](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 14 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 15 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
+| 16 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 17 | [النايب العشوش](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%b4%d9%88%d8%b4) | N/A |
+| 18 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 19 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 20 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 21 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 22 | [الاجسام الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
 | 23 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 24 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 25 | [بشر الخصاونه](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1+%d8%a7%d9%84%d8%ae%d8%b5%d8%a7%d9%88%d9%86%d9%87) | N/A |
-| 26 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 24 | [الامتحان التنافسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81%d8%b3%d9%8a) | N/A |
+| 25 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 26 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
 | 27 | [لموظفي البلديات](http://twitter.com/search?q=%d9%84%d9%85%d9%88%d8%b8%d9%81%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d8%a7%d8%aa) | N/A |
 | 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 29 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 30 | [طارق](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
+| 29 | [بشر الخصاونه](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1+%d8%a7%d9%84%d8%ae%d8%b5%d8%a7%d9%88%d9%86%d9%87) | N/A |
+| 30 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
 | 31 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 32 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 33 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
-| 34 | [الصحه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 35 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 36 | [جامعه اليرموك](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83) | N/A |
-| 37 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 38 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 39 | [انقاذ طفل](http://twitter.com/search?q=%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%b7%d9%81%d9%84) | N/A |
-| 40 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 32 | [طارق](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
+| 33 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 34 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 35 | [الصحه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 36 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 37 | [جامعه اليرموك](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83) | N/A |
+| 38 | [بني ادم](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a7%d8%af%d9%85) | N/A |
+| 39 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 40 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
 | 41 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
-| 42 | [دعم القدس](http://twitter.com/search?q=%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 45 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 46 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
-| 47 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 48 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 49 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 42 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 43 | [دعم القدس](http://twitter.com/search?q=%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
+| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 47 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 48 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 49 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 50 | [انقاذ طفل](http://twitter.com/search?q=%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%b7%d9%81%d9%84) | N/A |
 
 
 

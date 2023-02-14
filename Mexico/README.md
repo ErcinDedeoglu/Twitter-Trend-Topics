@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-13 23:16:50 UTC`
+📆 Last Updated: `2023-02-14 00:29:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,43 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
-| 2 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 3 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 4 | [#enhorabuenaradio](http://twitter.com/search?q=%23enhorabuenaradio) | N/A |
-| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 6 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 7 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
-| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
-| 11 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
-| 12 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 13 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 14 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 15 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 16 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 17 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
-| 18 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
-| 19 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 20 | [Día Internacional del Condón](http://twitter.com/search?q=D%c3%ada+Internacional+del+Cond%c3%b3n) | N/A |
-| 21 | [Raúl Gutiérrez](http://twitter.com/search?q=Ra%c3%bal+Guti%c3%a9rrez) | N/A |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 24 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 25 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
-| 26 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 27 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 28 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
-| 29 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 30 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 31 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
-| 32 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 33 | [#AMR23](http://twitter.com/search?q=%23AMR23) | N/A |
-| 34 | [#DiaDelSoltero](http://twitter.com/search?q=%23DiaDelSoltero) | N/A |
-| 35 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
-| 36 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 2 | [#ladofdefrankenvivo](http://twitter.com/search?q=%23ladofdefrankenvivo) | N/A |
+| 3 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
+| 4 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
+| 5 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 6 | [#enhorabuenaradio](http://twitter.com/search?q=%23enhorabuenaradio) | N/A |
+| 7 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 8 | [CHASE ATLANTIC](http://twitter.com/search?q=CHASE+ATLANTIC) | N/A |
+| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
+| 12 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
+| 13 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
+| 14 | [Pati Chapoy](http://twitter.com/search?q=Pati+Chapoy) | N/A |
+| 15 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 16 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 17 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 18 | [El 84%](http://twitter.com/search?q=El+84%25) | N/A |
+| 19 | [Fox y Calderón](http://twitter.com/search?q=Fox+y+Calder%c3%b3n) | N/A |
+| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 22 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
+| 23 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 24 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
+| 25 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 26 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
+| 27 | [Aarón](http://twitter.com/search?q=Aar%c3%b3n) | N/A |
+| 28 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 29 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 30 | [#AmorEnElAire](http://twitter.com/search?q=%23AmorEnElAire) | N/A |
+| 31 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 32 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
+| 33 | [#DiaDelSoltero](http://twitter.com/search?q=%23DiaDelSoltero) | N/A |
+| 34 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
+| 35 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 36 | [#Ventaneando](http://twitter.com/search?q=%23Ventaneando) | N/A |
 | 37 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 38 | [#Yuridia](http://twitter.com/search?q=%23Yuridia) | N/A |
-| 39 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 40 | [#Flash](http://twitter.com/search?q=%23Flash) | N/A |
 
 
 
