@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-14 11:15:47 UTC`
+📆 Last Updated: `2023-02-14 12:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 2 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 4 | [#brexitbrokebritain](http://twitter.com/search?q=%23brexitbrokebritain) | N/A |
-| 5 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 8 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 9 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 10 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 7 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 8 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 9 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 10 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
 | 11 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 12 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
-| 13 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 14 | [Romance](http://twitter.com/search?q=Romance) | Romance is a feeling of excitement and mystery associated with love. It is often described as a strong emotional attraction between two people, characterized by intimacy, passion, and commitment. In English, it is often used to refer to a romantic relationship between two people. |
-| 15 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
-| 16 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 17 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
-| 18 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
-| 19 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
-| 20 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
-| 21 | [Misty](http://twitter.com/search?q=Misty) | N/A |
-| 22 | [caroline polachek](http://twitter.com/search?q=caroline+polachek) | N/A |
-| 23 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
-| 24 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 25 | [Voter](http://twitter.com/search?q=Voter) | N/A |
-| 26 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 27 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 28 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 29 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 31 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 32 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 33 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 34 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 35 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 36 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 37 | [#Loveisintheair](http://twitter.com/search?q=%23Loveisintheair) | N/A |
-| 38 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
-| 39 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 40 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 41 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 42 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
-| 43 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
-| 44 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
-| 45 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
-| 46 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 12 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 13 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 14 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 15 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
+| 16 | [Romance](http://twitter.com/search?q=Romance) | Romance is a feeling of excitement and mystery associated with love. It is often described as a strong emotional attraction between two people, characterized by intimacy, passion, and commitment. In English, it is often used to refer to a romantic relationship between two people. |
+| 17 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 18 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
+| 19 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
+| 20 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
+| 21 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 22 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 23 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
+| 24 | [Misty](http://twitter.com/search?q=Misty) | N/A |
+| 25 | [Margate](http://twitter.com/search?q=Margate) | N/A |
+| 26 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
+| 27 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 28 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 29 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 30 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 31 | [Crust](http://twitter.com/search?q=Crust) | N/A |
+| 32 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 33 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 34 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 35 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
+| 36 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 37 | [#loveisintheair](http://twitter.com/search?q=%23loveisintheair) | N/A |
+| 38 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 39 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
+| 40 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 41 | [#counciltax](http://twitter.com/search?q=%23counciltax) | N/A |
+| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 43 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
+| 44 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
+| 45 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 46 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
 | 47 | [#vixen](http://twitter.com/search?q=%23vixen) | N/A |
 | 48 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 49 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 49 | [#ShareTheLove](http://twitter.com/search?q=%23ShareTheLove) | N/A |
+| 50 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
 
 
 

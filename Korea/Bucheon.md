@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bucheon
 
-📆 Last Updated: `2023-02-14 11:16:08 UTC`
+📆 Last Updated: `2023-02-14 12:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Hz_pm_8_go5rae](http://twitter.com/search?q=%23Hz_pm_8_go5rae) | N/A |
-| 2 | [발렌타인데이](http://twitter.com/search?q=%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8%eb%8d%b0%ec%9d%b4) | N/A |
-| 3 | [문준휘 머리](http://twitter.com/search?q=%eb%ac%b8%ec%a4%80%ed%9c%98+%eb%a8%b8%eb%a6%ac) | N/A |
-| 4 | [CGV나](http://twitter.com/search?q=CGV%eb%82%98) | N/A |
-| 5 | [#너를사랑하는일_온앤오프효진](http://twitter.com/search?q=%23%eb%84%88%eb%a5%bc%ec%82%ac%eb%9e%91%ed%95%98%eb%8a%94%ec%9d%bc_%ec%98%a8%ec%95%a4%ec%98%a4%ed%94%84%ed%9a%a8%ec%a7%84) | N/A |
-| 6 | [#시우민버블](http://twitter.com/search?q=%23%ec%8b%9c%ec%9a%b0%eb%af%bc%eb%b2%84%eb%b8%94) | N/A |
-| 7 | [#큥이버블](http://twitter.com/search?q=%23%ed%81%a5%ec%9d%b4%eb%b2%84%eb%b8%94) | N/A |
-| 8 | [#슈밍버블](http://twitter.com/search?q=%23%ec%8a%88%eb%b0%8d%eb%b2%84%eb%b8%94) | N/A |
-| 9 | [사전패치](http://twitter.com/search?q=%ec%82%ac%ec%a0%84%ed%8c%a8%ec%b9%98) | N/A |
-| 10 | [테디베어](http://twitter.com/search?q=%ed%85%8c%eb%94%94%eb%b2%a0%ec%96%b4) | N/A |
-| 11 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
-| 12 | [소중한 것들](http://twitter.com/search?q=%ec%86%8c%ec%a4%91%ed%95%9c+%ea%b2%83%eb%93%a4) | N/A |
-| 13 | [벌써 눈물](http://twitter.com/search?q=%eb%b2%8c%ec%8d%a8+%eb%88%88%eb%ac%bc) | N/A |
-| 14 | [브레이킹](http://twitter.com/search?q=%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%82%b9) | N/A |
-| 15 | [잔반처리](http://twitter.com/search?q=%ec%9e%94%eb%b0%98%ec%b2%98%eb%a6%ac) | N/A |
-| 16 | [버블 배경](http://twitter.com/search?q=%eb%b2%84%eb%b8%94+%eb%b0%b0%ea%b2%bd) | N/A |
-| 17 | [메인보컬](http://twitter.com/search?q=%eb%a9%94%ec%9d%b8%eb%b3%b4%ec%bb%ac) | N/A |
-| 18 | [마리끌레르](http://twitter.com/search?q=%eb%a7%88%eb%a6%ac%eb%81%8c%eb%a0%88%eb%a5%b4) | N/A |
-| 19 | [초콜릿 하나](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%ed%95%98%eb%82%98) | N/A |
-| 20 | [러브워치](http://twitter.com/search?q=%eb%9f%ac%eb%b8%8c%ec%9b%8c%ec%b9%98) | N/A |
-| 21 | [페레로로쉐](http://twitter.com/search?q=%ed%8e%98%eb%a0%88%eb%a1%9c%eb%a1%9c%ec%89%90) | N/A |
-| 22 | [알티위주](http://twitter.com/search?q=%ec%95%8c%ed%8b%b0%ec%9c%84%ec%a3%bc) | N/A |
-| 23 | [스프라이트](http://twitter.com/search?q=%ec%8a%a4%ed%94%84%eb%9d%bc%ec%9d%b4%ed%8a%b8) | N/A |
-| 24 | [마스터피스](http://twitter.com/search?q=%eb%a7%88%ec%8a%a4%ed%84%b0%ed%94%bc%ec%8a%a4) | N/A |
-| 25 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 26 | [초콜릿 상자](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%ec%83%81%ec%9e%90) | N/A |
-| 27 | [우정초코](http://twitter.com/search?q=%ec%9a%b0%ec%a0%95%ec%b4%88%ec%bd%94) | N/A |
-| 28 | [수제 초콜릿](http://twitter.com/search?q=%ec%88%98%ec%a0%9c+%ec%b4%88%ec%bd%9c%eb%a6%bf) | N/A |
-| 29 | [디오라마](http://twitter.com/search?q=%eb%94%94%ec%98%a4%eb%9d%bc%eb%a7%88) | N/A |
-| 30 | [가치관 취향캐](http://twitter.com/search?q=%ea%b0%80%ec%b9%98%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 31 | [사형선고](http://twitter.com/search?q=%ec%82%ac%ed%98%95%ec%84%a0%ea%b3%a0) | N/A |
-| 32 | [구속영장](http://twitter.com/search?q=%ea%b5%ac%ec%86%8d%ec%98%81%ec%9e%a5) | N/A |
-| 33 | [아마데우스](http://twitter.com/search?q=%ec%95%84%eb%a7%88%eb%8d%b0%ec%9a%b0%ec%8a%a4) | N/A |
-| 34 | [브라우니](http://twitter.com/search?q=%eb%b8%8c%eb%9d%bc%ec%9a%b0%eb%8b%88) | N/A |
-| 35 | [발렌타인 이벤트](http://twitter.com/search?q=%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8+%ec%9d%b4%eb%b2%a4%ed%8a%b8) | N/A |
-| 36 | [선물코드 등록](http://twitter.com/search?q=%ec%84%a0%eb%ac%bc%ec%bd%94%eb%93%9c+%eb%93%b1%eb%a1%9d) | N/A |
-| 37 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 38 | [등록 URL](http://twitter.com/search?q=%eb%93%b1%eb%a1%9d+URL) | N/A |
-| 39 | [카카오톡](http://twitter.com/search?q=%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%86%a1) | N/A |
-| 40 | [외관 취향캐](http://twitter.com/search?q=%ec%99%b8%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 41 | [서사 취향캐](http://twitter.com/search?q=%ec%84%9c%ec%82%ac+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 42 | [하트모양](http://twitter.com/search?q=%ed%95%98%ed%8a%b8%eb%aa%a8%ec%96%91) | N/A |
-| 43 | [초콜릿 선물](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%ec%84%a0%eb%ac%bc) | N/A |
-| 44 | [볼드모트](http://twitter.com/search?q=%eb%b3%bc%eb%93%9c%eb%aa%a8%ed%8a%b8) | N/A |
-| 45 | [목소리 취향캐](http://twitter.com/search?q=%eb%aa%a9%ec%86%8c%eb%a6%ac+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 46 | [초콜릿 대신](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%eb%8c%80%ec%8b%a0) | N/A |
-| 47 | [최고의 선물](http://twitter.com/search?q=%ec%b5%9c%ea%b3%a0%ec%9d%98+%ec%84%a0%eb%ac%bc) | N/A |
-| 48 | [진심초코](http://twitter.com/search?q=%ec%a7%84%ec%8b%ac%ec%b4%88%ec%bd%94) | N/A |
-| 49 | [오타쿠 명절](http://twitter.com/search?q=%ec%98%a4%ed%83%80%ec%bf%a0+%eb%aa%85%ec%a0%88) | N/A |
+| 1 | [왕천파닭](http://twitter.com/search?q=%ec%99%95%ec%b2%9c%ed%8c%8c%eb%8b%ad) | N/A |
+| 2 | [#Hz_pm_8_go5rae](http://twitter.com/search?q=%23Hz_pm_8_go5rae) | N/A |
+| 3 | [캡쳐타임](http://twitter.com/search?q=%ec%ba%a1%ec%b3%90%ed%83%80%ec%9e%84) | N/A |
+| 4 | [문준휘 머리](http://twitter.com/search?q=%eb%ac%b8%ec%a4%80%ed%9c%98+%eb%a8%b8%eb%a6%ac) | N/A |
+| 5 | [#발렌타인데이_트친소](http://twitter.com/search?q=%23%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8%eb%8d%b0%ec%9d%b4_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 6 | [CGV나](http://twitter.com/search?q=CGV%eb%82%98) | N/A |
+| 7 | [#살면서_겪어본_일](http://twitter.com/search?q=%23%ec%82%b4%eb%a9%b4%ec%84%9c_%ea%b2%aa%ec%96%b4%eb%b3%b8_%ec%9d%bc) | N/A |
+| 8 | [조조 매진](http://twitter.com/search?q=%ec%a1%b0%ec%a1%b0+%eb%a7%a4%ec%a7%84) | N/A |
+| 9 | [너의마음](http://twitter.com/search?q=%eb%84%88%ec%9d%98%eb%a7%88%ec%9d%8c) | N/A |
+| 10 | [#너를사랑하는일_온앤오프효진](http://twitter.com/search?q=%23%eb%84%88%eb%a5%bc%ec%82%ac%eb%9e%91%ed%95%98%eb%8a%94%ec%9d%bc_%ec%98%a8%ec%95%a4%ec%98%a4%ed%94%84%ed%9a%a8%ec%a7%84) | N/A |
+| 11 | [#시우민버블](http://twitter.com/search?q=%23%ec%8b%9c%ec%9a%b0%eb%af%bc%eb%b2%84%eb%b8%94) | N/A |
+| 12 | [안무영상](http://twitter.com/search?q=%ec%95%88%eb%ac%b4%ec%98%81%ec%83%81) | 안무영상 is a Korean term that refers to a video of choreography. It is usually used to refer to videos of dance routines or other types of physical movement set to music. In English, it can be translated as "choreography video". |
+| 13 | [치즈버거](http://twitter.com/search?q=%ec%b9%98%ec%a6%88%eb%b2%84%ea%b1%b0) | N/A |
+| 14 | [버블 배경](http://twitter.com/search?q=%eb%b2%84%eb%b8%94+%eb%b0%b0%ea%b2%bd) | N/A |
+| 15 | [캐릭캐릭체인지](http://twitter.com/search?q=%ec%ba%90%eb%a6%ad%ec%ba%90%eb%a6%ad%ec%b2%b4%ec%9d%b8%ec%a7%80) | N/A |
+| 16 | [SG워너비](http://twitter.com/search?q=SG%ec%9b%8c%eb%84%88%eb%b9%84) | N/A |
+| 17 | [발렌타인 데이](http://twitter.com/search?q=%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8+%eb%8d%b0%ec%9d%b4) | N/A |
+| 18 | [캐럿 생일](http://twitter.com/search?q=%ec%ba%90%eb%9f%bf+%ec%83%9d%ec%9d%bc) | N/A |
+| 19 | [테디베어](http://twitter.com/search?q=%ed%85%8c%eb%94%94%eb%b2%a0%ec%96%b4) | N/A |
+| 20 | [루이비통](http://twitter.com/search?q=%eb%a3%a8%ec%9d%b4%eb%b9%84%ed%86%b5) | N/A |
+| 21 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
+| 22 | [우리 생일](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%83%9d%ec%9d%bc) | N/A |
+| 23 | [생일파티](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc%ed%8c%8c%ed%8b%b0) | N/A |
+| 24 | [평양냉면](http://twitter.com/search?q=%ed%8f%89%ec%96%91%eb%83%89%eb%a9%b4) | N/A |
+| 25 | [엔시티 취향표](http://twitter.com/search?q=%ec%97%94%ec%8b%9c%ed%8b%b0+%ec%b7%a8%ed%96%a5%ed%91%9c) | N/A |
+| 26 | [잔반처리](http://twitter.com/search?q=%ec%9e%94%eb%b0%98%ec%b2%98%eb%a6%ac) | N/A |
+| 27 | [알티위주](http://twitter.com/search?q=%ec%95%8c%ed%8b%b0%ec%9c%84%ec%a3%bc) | N/A |
+| 28 | [벌써 눈물](http://twitter.com/search?q=%eb%b2%8c%ec%8d%a8+%eb%88%88%eb%ac%bc) | N/A |
+| 29 | [브레이킹 배드](http://twitter.com/search?q=%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%82%b9+%eb%b0%b0%eb%93%9c) | N/A |
+| 30 | [도로공사](http://twitter.com/search?q=%eb%8f%84%eb%a1%9c%ea%b3%b5%ec%82%ac) | N/A |
+| 31 | [스프라이트](http://twitter.com/search?q=%ec%8a%a4%ed%94%84%eb%9d%bc%ec%9d%b4%ed%8a%b8) | N/A |
+| 32 | [초콜릿 하나](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%ed%95%98%eb%82%98) | N/A |
+| 33 | [마리끌레르](http://twitter.com/search?q=%eb%a7%88%eb%a6%ac%eb%81%8c%eb%a0%88%eb%a5%b4) | N/A |
+| 34 | [수제 초콜릿](http://twitter.com/search?q=%ec%88%98%ec%a0%9c+%ec%b4%88%ec%bd%9c%eb%a6%bf) | N/A |
+| 35 | [러브워치](http://twitter.com/search?q=%eb%9f%ac%eb%b8%8c%ec%9b%8c%ec%b9%98) | N/A |
+| 36 | [페레로로쉐](http://twitter.com/search?q=%ed%8e%98%eb%a0%88%eb%a1%9c%eb%a1%9c%ec%89%90) | N/A |
+| 37 | [초콜릿 만들기](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%eb%a7%8c%eb%93%a4%ea%b8%b0) | N/A |
+| 38 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 39 | [초콜릿들](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf%eb%93%a4) | N/A |
+| 40 | [초콜릿 상자](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%ec%83%81%ec%9e%90) | N/A |
+| 41 | [초콜릿 대신](http://twitter.com/search?q=%ec%b4%88%ec%bd%9c%eb%a6%bf+%eb%8c%80%ec%8b%a0) | N/A |
+| 42 | [브라우니](http://twitter.com/search?q=%eb%b8%8c%eb%9d%bc%ec%9a%b0%eb%8b%88) | N/A |
+| 43 | [디오라마](http://twitter.com/search?q=%eb%94%94%ec%98%a4%eb%9d%bc%eb%a7%88) | N/A |
+| 44 | [가치관 취향캐](http://twitter.com/search?q=%ea%b0%80%ec%b9%98%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 45 | [발렌타인 이벤트](http://twitter.com/search?q=%eb%b0%9c%eb%a0%8c%ed%83%80%ec%9d%b8+%ec%9d%b4%eb%b2%a4%ed%8a%b8) | N/A |
+| 46 | [사형선고](http://twitter.com/search?q=%ec%82%ac%ed%98%95%ec%84%a0%ea%b3%a0) | N/A |
+| 47 | [아마데우스](http://twitter.com/search?q=%ec%95%84%eb%a7%88%eb%8d%b0%ec%9a%b0%ec%8a%a4) | N/A |
+| 48 | [구속영장](http://twitter.com/search?q=%ea%b5%ac%ec%86%8d%ec%98%81%ec%9e%a5) | N/A |
+| 49 | [우정초코](http://twitter.com/search?q=%ec%9a%b0%ec%a0%95%ec%b4%88%ec%bd%94) | N/A |
 
 
 

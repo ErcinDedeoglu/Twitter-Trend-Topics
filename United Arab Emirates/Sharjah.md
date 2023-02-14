@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-02-14 11:16:16 UTC`
+📆 Last Updated: `2023-02-14 12:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,19 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 6 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
 | 7 | [سلطان الجابر](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
 | 8 | [الرييس المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [محمد القرقاوي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d9%82%d8%a7%d9%88%d9%8a) | N/A |
+| 9 | [محمد القرقاوي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d9%82%d8%a7%d9%88%d9%8a) | N/A |
+| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 11 | [ابراهيم نور الدين](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 12 | [عمري عمر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%8a+%d8%b9%d9%85%d8%b1) | N/A |
-| 13 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 12 | [عبدالفتاح السيسي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 13 | [عمري عمر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%8a+%d8%b9%d9%85%d8%b1) | N/A |
 | 14 | [سموحة](http://twitter.com/search?q=%d8%b3%d9%85%d9%88%d8%ad%d8%a9) | N/A |
-| 15 | [جمال بلعمري](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | N/A |
-| 16 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 17 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 15 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 16 | [جمال بلعمري](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | N/A |
+| 17 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
 | 18 | [بو عمر](http://twitter.com/search?q=%d8%a8%d9%88+%d8%b9%d9%85%d8%b1) | N/A |
 | 19 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 20 | [Jai Hind](http://twitter.com/search?q=Jai+Hind) | Jai Hind is a Hindi phrase meaning “Victory to India” or “Long live India”. It is commonly used as a patriotic slogan to express support for India and its people. |
-| 21 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 21 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
 | 22 | [للزمالك](http://twitter.com/search?q=%d9%84%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
 | 23 | [صندوق النقد الدولي](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%86%d9%82%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 24 | [الجامعه القاسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85%d9%8a%d9%87) | N/A |
@@ -48,22 +48,22 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 31 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 32 | [راس الخيمه](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%87) | N/A |
 | 33 | [الجايزه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d8%b2%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 34 | [الفتره الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 35 | [إيفرتون](http://twitter.com/search?q=%d8%a5%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | N/A |
-| 36 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 37 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 38 | [العمل الحكومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
-| 39 | [الاطباق الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 41 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 42 | [الاجسام الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 43 | [بن نعمان الكعبي](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%b9%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
-| 44 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 45 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
-| 46 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
-| 47 | [التطبيقات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 48 | [الجهود الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [حاكم الشارقه](http://twitter.com/search?q=%d8%ad%d8%a7%d9%83%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 34 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 35 | [الفتره الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 36 | [إيفرتون](http://twitter.com/search?q=%d8%a5%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | N/A |
+| 37 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 38 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 39 | [العمل الحكومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
+| 40 | [الاطباق الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 41 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 42 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
+| 43 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 44 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
+| 45 | [التطبيقات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 46 | [حاكم الشارقه](http://twitter.com/search?q=%d8%ad%d8%a7%d9%83%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 47 | [التحديات العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 48 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 49 | [الاجسام الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
 
 
 

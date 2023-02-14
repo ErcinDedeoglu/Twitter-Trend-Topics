@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-14 11:16:02 UTC`
+📆 Last Updated: `2023-02-14 12:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 8 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 | 9 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 10 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 11 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 12 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
-| 13 | [Wiederwahl](http://twitter.com/search?q=Wiederwahl) | N/A |
-| 14 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 15 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 16 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 17 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 18 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 10 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 11 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
+| 12 | [wiederwahl](http://twitter.com/search?q=wiederwahl) | N/A |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 14 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 15 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 16 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 19 | [kantonsrat](http://twitter.com/search?q=kantonsrat) | N/A |
 | 20 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 21 | [Jourdan](http://twitter.com/search?q=Jourdan) | N/A |
+| 21 | [jourdan](http://twitter.com/search?q=jourdan) | N/A |
 | 22 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 23 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
 | 24 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 25 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 26 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 27 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
-| 28 | [rickli](http://twitter.com/search?q=rickli) | N/A |
-| 29 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 30 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 31 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
-| 32 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 33 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 34 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
-| 35 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 36 | [Gruppen](http://twitter.com/search?q=Gruppen) | N/A |
-| 37 | [geiger](http://twitter.com/search?q=geiger) | N/A |
-| 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 39 | [Bürgerlichen](http://twitter.com/search?q=B%c3%bcrgerlichen) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 42 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 43 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 44 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 45 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 46 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 47 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 26 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 27 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 28 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 29 | [rickli](http://twitter.com/search?q=rickli) | N/A |
+| 30 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 31 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 32 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 33 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
+| 34 | [Eritreer](http://twitter.com/search?q=Eritreer) | N/A |
+| 35 | [bürgerlichen](http://twitter.com/search?q=b%c3%bcrgerlichen) | N/A |
+| 36 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 37 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 38 | [Aufrecht](http://twitter.com/search?q=Aufrecht) | N/A |
+| 39 | [geiger](http://twitter.com/search?q=geiger) | N/A |
+| 40 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 41 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 42 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
+| 43 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 44 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 45 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 46 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 47 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
 
 
 

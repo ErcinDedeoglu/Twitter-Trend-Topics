@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-14 11:16:29 UTC`
+📆 Last Updated: `2023-02-14 12:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 4 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
 | 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 6 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 7 | [#msustrong](http://twitter.com/search?q=%23msustrong) | N/A |
-| 8 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 9 | [#Wordle605](http://twitter.com/search?q=%23Wordle605) | N/A |
-| 10 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 11 | [#MSUShooting](http://twitter.com/search?q=%23MSUShooting) | N/A |
-| 12 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 13 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 14 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 15 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 16 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 17 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 6 | [#TheSummerBibleMetBuild](http://twitter.com/search?q=%23TheSummerBibleMetBuild) | N/A |
+| 7 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 8 | [#msustrong](http://twitter.com/search?q=%23msustrong) | N/A |
+| 9 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 10 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 11 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 14 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 15 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 16 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 17 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
 | 18 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 19 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 20 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 21 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 22 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 23 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 24 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 25 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 26 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 27 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 28 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
-| 29 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 30 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
-| 31 | [caroline polachek](http://twitter.com/search?q=caroline+polachek) | N/A |
-| 32 | [Emi Jones](http://twitter.com/search?q=Emi+Jones) | N/A |
-| 33 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
-| 34 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
-| 35 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 36 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 37 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 38 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 39 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
-| 40 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 41 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 42 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
-| 43 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 44 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 45 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 46 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 47 | [Character Name](http://twitter.com/search?q=Character+Name) | N/A |
-| 48 | [Transportation Secretary](http://twitter.com/search?q=Transportation+Secretary) | Transportation Secretary is a government official responsible for overseeing the transportation system of a country or region. This includes managing the infrastructure, such as roads and airports, as well as regulating the transportation industry, such as airlines and trucking companies. The Transportation Secretary is also responsible for developing policies to ensure safe and efficient transportation systems. |
-| 49 | [The Doors](http://twitter.com/search?q=The+Doors) | N/A |
-| 50 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
+| 19 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 20 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
+| 21 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 23 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 24 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 25 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
+| 26 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 27 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 28 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 29 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 30 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 31 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 32 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 33 | [Emi Jones](http://twitter.com/search?q=Emi+Jones) | N/A |
+| 34 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 35 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 36 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 37 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 38 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 39 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
+| 40 | [columbine](http://twitter.com/search?q=columbine) | N/A |
+| 41 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 42 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 43 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 44 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 45 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 46 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
+| 47 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 48 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
+| 49 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
+| 50 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-14 11:15:52 UTC`
+📆 Last Updated: `2023-02-14 12:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
 | 2 | [#ElGranInforme](http://twitter.com/search?q=%23ElGranInforme) | N/A |
-| 3 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 4 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 3 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 4 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 6 | [#ElGranPadrino](http://twitter.com/search?q=%23ElGranPadrino) | N/A |
 | 7 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 8 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
-| 9 | [#OVNIS](http://twitter.com/search?q=%23OVNIS) | N/A |
-| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 11 | [#Narcogobierno](http://twitter.com/search?q=%23Narcogobierno) | N/A |
-| 12 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 13 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 8 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 9 | [noboa](http://twitter.com/search?q=noboa) | N/A |
+| 10 | [#OVNIS](http://twitter.com/search?q=%23OVNIS) | N/A |
+| 11 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
+| 12 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 13 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 15 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 17 | [Bran](http://twitter.com/search?q=Bran) | N/A |
-| 18 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 19 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 16 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 17 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 19 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 21 | [baldor bermeo](http://twitter.com/search?q=baldor+bermeo) | N/A |
-| 22 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 24 | [Albaneses](http://twitter.com/search?q=Albaneses) | N/A |
 | 25 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
-| 26 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 27 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
+| 26 | [zurita](http://twitter.com/search?q=zurita) | N/A |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 28 | [keviam cazo](http://twitter.com/search?q=keviam+cazo) | N/A |
-| 29 | [consejo de la judicatura](http://twitter.com/search?q=consejo+de+la+judicatura) | N/A |
-| 30 | [Albaneses](http://twitter.com/search?q=Albaneses) | N/A |
-| 31 | [wilman terán](http://twitter.com/search?q=wilman+ter%c3%a1n) | N/A |
-| 32 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 33 | [justin cuero](http://twitter.com/search?q=justin+cuero) | N/A |
-| 34 | [ponce enríquez](http://twitter.com/search?q=ponce+enr%c3%adquez) | N/A |
-| 35 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 29 | [Bran](http://twitter.com/search?q=Bran) | N/A |
+| 30 | [wilman terán](http://twitter.com/search?q=wilman+ter%c3%a1n) | N/A |
+| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 32 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 33 | [Justin Cuero](http://twitter.com/search?q=Justin+Cuero) | N/A |
+| 34 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 35 | [ponce enríquez](http://twitter.com/search?q=ponce+enr%c3%adquez) | N/A |
 | 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 37 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
-| 38 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 39 | [vivanco](http://twitter.com/search?q=vivanco) | N/A |
+| 37 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 38 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 39 | [yeri](http://twitter.com/search?q=yeri) | N/A |
 | 40 | [Interior](http://twitter.com/search?q=Interior) | N/A |
 | 41 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
 | 42 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
-| 43 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 44 | [Patricio Carrillo](http://twitter.com/search?q=Patricio+Carrillo) | N/A |
-| 45 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 46 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 47 | [gilmar napa](http://twitter.com/search?q=gilmar+napa) | N/A |
-| 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 49 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
-| 50 | [Defendiendo](http://twitter.com/search?q=Defendiendo) | N/A |
+| 43 | [araus](http://twitter.com/search?q=araus) | N/A |
+| 44 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 45 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
+| 46 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 47 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 48 | [gilmar napa](http://twitter.com/search?q=gilmar+napa) | N/A |
+| 49 | [Seokjin](http://twitter.com/search?q=Seokjin) | N/A |
+| 50 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
 
 
 
