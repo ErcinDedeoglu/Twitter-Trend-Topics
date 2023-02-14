@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-02-14 05:16:44 UTC`
+📆 Last Updated: `2023-02-14 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Kenya](</Kenya>)
 | 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 4 | [Natembeya](http://twitter.com/search?q=Natembeya) | N/A |
-| 5 | [#ShambaNdioBest](http://twitter.com/search?q=%23ShambaNdioBest) | N/A |
-| 6 | [Fusion Estates](http://twitter.com/search?q=Fusion+Estates) | N/A |
-| 7 | [#SayItWithUBAPrepaid](http://twitter.com/search?q=%23SayItWithUBAPrepaid) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [North Rift](http://twitter.com/search?q=North+Rift) | N/A |
-| 10 | [Linet Toto](http://twitter.com/search?q=Linet+Toto) | N/A |
-| 11 | [gov nassir](http://twitter.com/search?q=gov+nassir) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 14 | [equity group foundation](http://twitter.com/search?q=equity+group+foundation) | N/A |
-| 15 | [Nyayo Stadium](http://twitter.com/search?q=Nyayo+Stadium) | N/A |
-| 16 | [Bandits](http://twitter.com/search?q=Bandits) | N/A |
-| 17 | [kdf-police](http://twitter.com/search?q=kdf-police) | N/A |
-| 18 | [Equitel](http://twitter.com/search?q=Equitel) | N/A |
-| 19 | [Kibicho](http://twitter.com/search?q=Kibicho) | N/A |
-| 20 | [Biwott](http://twitter.com/search?q=Biwott) | N/A |
-| 21 | [Nakuru](http://twitter.com/search?q=Nakuru) | N/A |
-| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
-| 25 | [kenya will lose wrc](http://twitter.com/search?q=kenya+will+lose+wrc) | N/A |
-| 26 | [Turkana](http://twitter.com/search?q=Turkana) | N/A |
-| 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#SayItWithUBAPrepaid](http://twitter.com/search?q=%23SayItWithUBAPrepaid) | N/A |
+| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 7 | [#omokanagabriel1xbet](http://twitter.com/search?q=%23omokanagabriel1xbet) | N/A |
+| 8 | [North Rift](http://twitter.com/search?q=North+Rift) | N/A |
+| 9 | [Fusion Estates](http://twitter.com/search?q=Fusion+Estates) | N/A |
+| 10 | [Brian Mutembei](http://twitter.com/search?q=Brian+Mutembei) | N/A |
+| 11 | [Linet Toto](http://twitter.com/search?q=Linet+Toto) | N/A |
+| 12 | [gov nassir](http://twitter.com/search?q=gov+nassir) | N/A |
+| 13 | [Kibicho](http://twitter.com/search?q=Kibicho) | N/A |
+| 14 | [Visa](http://twitter.com/search?q=Visa) | N/A |
+| 15 | [Bandits](http://twitter.com/search?q=Bandits) | N/A |
+| 16 | [equity group foundation](http://twitter.com/search?q=equity+group+foundation) | N/A |
+| 17 | [Nyayo Stadium](http://twitter.com/search?q=Nyayo+Stadium) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [kdf-police](http://twitter.com/search?q=kdf-police) | N/A |
+| 20 | [Equitel](http://twitter.com/search?q=Equitel) | N/A |
+| 21 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 22 | [Biwott](http://twitter.com/search?q=Biwott) | N/A |
+| 23 | [Nakuru](http://twitter.com/search?q=Nakuru) | N/A |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 26 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
+| 27 | [Equity Building Society](http://twitter.com/search?q=Equity+Building+Society) | N/A |
+| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 29 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 30 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
-| 31 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 30 | [Turkana](http://twitter.com/search?q=Turkana) | N/A |
+| 31 | [Banditry](http://twitter.com/search?q=Banditry) | N/A |
 | 32 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 33 | [Equity Building Society](http://twitter.com/search?q=Equity+Building+Society) | N/A |
-| 34 | [nairobi stock exchange](http://twitter.com/search?q=nairobi+stock+exchange) | N/A |
-| 35 | [Banditry](http://twitter.com/search?q=Banditry) | N/A |
-| 36 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
+| 35 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 36 | [nairobi stock exchange](http://twitter.com/search?q=nairobi+stock+exchange) | N/A |
 | 37 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 39 | [ongwae](http://twitter.com/search?q=ongwae) | N/A |
-| 40 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 41 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 42 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 43 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 44 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 45 | [kainuk](http://twitter.com/search?q=kainuk) | N/A |
-| 46 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 47 | [natalie tewa](http://twitter.com/search?q=natalie+tewa) | N/A |
-| 48 | [Miguna](http://twitter.com/search?q=Miguna) | N/A |
-| 49 | [Pokot](http://twitter.com/search?q=Pokot) | N/A |
-| 50 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 38 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 40 | [ongwae](http://twitter.com/search?q=ongwae) | N/A |
+| 41 | [natalie tewa](http://twitter.com/search?q=natalie+tewa) | N/A |
+| 42 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 43 | [Pokot](http://twitter.com/search?q=Pokot) | N/A |
+| 44 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 45 | [Trans Nzoia](http://twitter.com/search?q=Trans+Nzoia) | N/A |
+| 46 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 47 | [Rift Valley](http://twitter.com/search?q=Rift+Valley) | N/A |
+| 48 | [Equity Bank](http://twitter.com/search?q=Equity+Bank) | N/A |
+| 49 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
+| 50 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
 
 
 

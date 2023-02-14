@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-14 05:17:04 UTC`
+📆 Last Updated: `2023-02-14 06:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Colombia
 | 3 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
 | 4 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
 | 5 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
-| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 7 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 8 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 9 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 10 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
+| 6 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 8 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
+| 9 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 10 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 11 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
 | 12 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
 | 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 14 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 15 | [#ESPNEquipoFColombia](http://twitter.com/search?q=%23ESPNEquipoFColombia) | N/A |
-| 16 | [#ReformaALaSalud](http://twitter.com/search?q=%23ReformaALaSalud) | N/A |
+| 14 | [#ReformaALaSalud](http://twitter.com/search?q=%23ReformaALaSalud) | N/A |
+| 15 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 16 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 17 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
-| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 20 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
 | 21 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
-| 22 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 23 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 22 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 23 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
 | 24 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
 | 25 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
 | 26 | [Millos](http://twitter.com/search?q=Millos) | N/A |
 | 27 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 29 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
-| 30 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 31 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
-| 32 | [Y Bogotá](http://twitter.com/search?q=Y+Bogot%c3%a1) | N/A |
-| 33 | [Aval](http://twitter.com/search?q=Aval) | N/A |
+| 29 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 30 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
+| 31 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 32 | [Aval](http://twitter.com/search?q=Aval) | N/A |
+| 33 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
 | 34 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 35 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 36 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 37 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
-| 38 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
+| 35 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 36 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
+| 37 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
+| 38 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
 | 39 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
-| 40 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 41 | [Anahí](http://twitter.com/search?q=Anah%c3%ad) | N/A |
-| 42 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 40 | [Anahí](http://twitter.com/search?q=Anah%c3%ad) | N/A |
+| 41 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 42 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 43 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 44 | [Proyecto de Ley](http://twitter.com/search?q=Proyecto+de+Ley) | N/A |
-| 45 | [Elkin Soto](http://twitter.com/search?q=Elkin+Soto) | N/A |
-| 46 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 47 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 48 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
-| 49 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
-| 50 | [Sálvame](http://twitter.com/search?q=S%c3%a1lvame) | N/A |
+| 44 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 45 | [Proyecto de Ley](http://twitter.com/search?q=Proyecto+de+Ley) | N/A |
+| 46 | [Elkin Soto](http://twitter.com/search?q=Elkin+Soto) | N/A |
+| 47 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 48 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 49 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
+| 50 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
 
 
 

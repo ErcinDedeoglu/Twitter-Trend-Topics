@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-14 05:16:49 UTC`
+📆 Last Updated: `2023-02-14 06:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
 | 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 3 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
-| 4 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 3 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 4 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
 | 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 6 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
 | 7 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
 | 8 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
 | 9 | [ZAMAN KHAN](http://twitter.com/search?q=ZAMAN+KHAN) | N/A |
 | 10 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 11 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 12 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 13 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 14 | [Ayesha Naseem](http://twitter.com/search?q=Ayesha+Naseem) | N/A |
-| 15 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 11 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 12 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
+| 13 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
+| 14 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
+| 15 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
 | 16 | [hussain talat](http://twitter.com/search?q=hussain+talat) | N/A |
-| 17 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 18 | [What A Match](http://twitter.com/search?q=What+A+Match) | N/A |
-| 19 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
-| 20 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 21 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 17 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 18 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 19 | [What A Match](http://twitter.com/search?q=What+A+Match) | N/A |
+| 20 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 21 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
 | 22 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 23 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
+| 23 | [ayesha naseem](http://twitter.com/search?q=ayesha+naseem) | N/A |
 | 24 | [dahani](http://twitter.com/search?q=dahani) | N/A |
-| 25 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
-| 26 | [ihsanullah](http://twitter.com/search?q=ihsanullah) | N/A |
+| 25 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
+| 26 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
 | 27 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
 | 28 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 29 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 30 | [WordPress](http://twitter.com/search?q=WordPress) | N/A |
-| 31 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
-| 32 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 33 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 34 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 35 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 36 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
-| 39 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 40 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 41 | [Yak Grill](http://twitter.com/search?q=Yak+Grill) | N/A |
-| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 43 | [ALOT](http://twitter.com/search?q=ALOT) | N/A |
-| 44 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 45 | [Hoping](http://twitter.com/search?q=Hoping) | N/A |
-| 46 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 47 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 49 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
-| 50 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 29 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 30 | [LOVE YOU](http://twitter.com/search?q=LOVE+YOU) | N/A |
+| 31 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 32 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 33 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 34 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
+| 35 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 36 | [Yak Grill](http://twitter.com/search?q=Yak+Grill) | N/A |
+| 37 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 38 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
+| 39 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 40 | [Dono](http://twitter.com/search?q=Dono) | N/A |
+| 41 | [Hoping](http://twitter.com/search?q=Hoping) | N/A |
+| 42 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 43 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 46 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 47 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 48 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 49 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 50 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
 
 
 
