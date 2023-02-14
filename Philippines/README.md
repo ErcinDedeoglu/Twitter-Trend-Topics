@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-14 08:18:16 UTC`
+📆 Last Updated: `2023-02-14 09:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,38 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 2 | [LoveTakesBravery WITH EIAN](http://twitter.com/search?q=LoveTakesBravery+WITH+EIAN) | N/A |
+| 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 3 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
-| 4 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 5 | [JOURNEY WITH HORI7ON BEGINS](http://twitter.com/search?q=JOURNEY+WITH+HORI7ON+BEGINS) | N/A |
-| 6 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 7 | [#ARoseFromTheRose](http://twitter.com/search?q=%23ARoseFromTheRose) | N/A |
-| 8 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 9 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 10 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 11 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
-| 12 | [#KIMCHAEWONxMakeUpForEver](http://twitter.com/search?q=%23KIMCHAEWONxMakeUpForEver) | N/A |
-| 13 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
-| 14 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 15 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 16 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 17 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 18 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
+| 4 | [#TeddyBear_Release](http://twitter.com/search?q=%23TeddyBear_Release) | N/A |
+| 5 | [#MaHeartLima](http://twitter.com/search?q=%23MaHeartLima) | N/A |
+| 6 | [#안녕_우리_호라이즌](http://twitter.com/search?q=%23%ec%95%88%eb%85%95_%ec%9a%b0%eb%a6%ac_%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 7 | [JOURNEY WITH HORI7ON BEGINS](http://twitter.com/search?q=JOURNEY+WITH+HORI7ON+BEGINS) | N/A |
+| 8 | [JUNGKOOK ON SUCHWITA](http://twitter.com/search?q=JUNGKOOK+ON+SUCHWITA) | N/A |
+| 9 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
+| 10 | [#ARoseFromTheRose](http://twitter.com/search?q=%23ARoseFromTheRose) | N/A |
+| 11 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 12 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 13 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 14 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 15 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 16 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 17 | [Happy Hearts Day](http://twitter.com/search?q=Happy+Hearts+Day) | N/A |
+| 18 | [Vday](http://twitter.com/search?q=Vday) | N/A |
 | 19 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 20 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 22 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 23 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 24 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 25 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 26 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
-| 27 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
-| 28 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 29 | [Happy Carat](http://twitter.com/search?q=Happy+Carat) | N/A |
-| 30 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 31 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
-| 32 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
+| 20 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 21 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 22 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
+| 23 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 24 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
+| 25 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 26 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 27 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 28 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
+| 29 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
+| 30 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
+| 31 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
+| 32 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
 | 33 | [#CNAUnliBait](http://twitter.com/search?q=%23CNAUnliBait) | N/A |
-| 34 | [#ENLoveWithJakeYear3](http://twitter.com/search?q=%23ENLoveWithJakeYear3) | N/A |
-| 35 | [#AnjBrent](http://twitter.com/search?q=%23AnjBrent) | N/A |
-| 36 | [#CARATDAY](http://twitter.com/search?q=%23CARATDAY) | N/A |
-| 37 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
 
 
 

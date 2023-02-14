@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-02-14 08:17:32 UTC`
+📆 Last Updated: `2023-02-14 09:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,29 +27,29 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 11 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
 | 12 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
-| 13 | [batalla de la victoria](http://twitter.com/search?q=batalla+de+la+victoria) | N/A |
-| 14 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
-| 15 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 16 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
-| 17 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 18 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
-| 19 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 20 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 21 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [#MundoCaraquista](http://twitter.com/search?q=%23MundoCaraquista) | N/A |
-| 24 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 13 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 14 | [batalla de la victoria](http://twitter.com/search?q=batalla+de+la+victoria) | N/A |
+| 15 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
+| 16 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 17 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
+| 18 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 19 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 20 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 21 | [#mundocaraquista](http://twitter.com/search?q=%23mundocaraquista) | N/A |
+| 22 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 23 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 24 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
 | 25 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 26 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
-| 27 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 26 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 27 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 28 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
 | 29 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 30 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 32 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 33 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
-| 34 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 35 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
+| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 31 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
+| 32 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 33 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
+| 34 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 35 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
 | 36 | [la tipa](http://twitter.com/search?q=la+tipa) | N/A |
 | 37 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
 | 38 | [josé félix ribas](http://twitter.com/search?q=jos%c3%a9+f%c3%a9lix+ribas) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 45 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 46 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
 | 47 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 48 | [Jim West](http://twitter.com/search?q=Jim+West) | N/A |
-| 49 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 50 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 48 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 49 | [jim west](http://twitter.com/search?q=jim+west) | N/A |
+| 50 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-14 08:17:39 UTC`
+📆 Last Updated: `2023-02-14 09:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,45 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Buon San Valentino](http://twitter.com/search?q=Buon+San+Valentino) | N/A |
-| 2 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
-| 3 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
-| 4 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 5 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 6 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 7 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 8 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 11 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 12 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 13 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 14 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 15 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 16 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 19 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 20 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 21 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 22 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 23 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 24 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 25 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
-| 26 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
-| 27 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 28 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
-| 29 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 30 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 31 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 33 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 34 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
-| 35 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 36 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
-| 37 | [jore](http://twitter.com/search?q=jore) | N/A |
-| 38 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 39 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
-| 40 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
-| 41 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 42 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 43 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 44 | [L'aereo](http://twitter.com/search?q=L%27aereo) | N/A |
-| 45 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 46 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 47 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 48 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 2 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
+| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 5 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 6 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
+| 7 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 8 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 9 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
+| 10 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
+| 11 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 12 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
+| 13 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 14 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 15 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 16 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 17 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 18 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 19 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 20 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 21 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 22 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
+| 23 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 24 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 25 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 26 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 27 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 28 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 29 | [D'Amato](http://twitter.com/search?q=D%27Amato) | N/A |
+| 30 | [Rocca](http://twitter.com/search?q=Rocca) | N/A |
+| 31 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
+| 32 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
+| 33 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
+| 34 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
+| 35 | [#Regionali2023](http://twitter.com/search?q=%23Regionali2023) | N/A |
+| 36 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 37 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 38 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
+| 39 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 40 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
 
 
 

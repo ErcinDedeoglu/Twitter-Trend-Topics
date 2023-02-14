@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-14 08:17:44 UTC`
+📆 Last Updated: `2023-02-14 09:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#KasihSayangIndiHome](http://twitter.com/search?q=%23KasihSayangIndiHome) | N/A |
 | 2 | [#YouAreFirst](http://twitter.com/search?q=%23YouAreFirst) | N/A |
-| 3 | [Pastinya Prabowo](http://twitter.com/search?q=Pastinya+Prabowo) | N/A |
-| 4 | [Maju Terus Bersama Prabowo](http://twitter.com/search?q=Maju+Terus+Bersama+Prabowo) | N/A |
-| 5 | [Dekade 08](http://twitter.com/search?q=Dekade+08) | N/A |
-| 6 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 7 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 3 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 4 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 5 | [Pastinya Prabowo](http://twitter.com/search?q=Pastinya+Prabowo) | N/A |
+| 6 | [Maju Terus Bersama Prabowo](http://twitter.com/search?q=Maju+Terus+Bersama+Prabowo) | N/A |
+| 7 | [Dekade 08](http://twitter.com/search?q=Dekade+08) | N/A |
 | 8 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 9 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 10 | [D.N.A Cypher MV OUT NOW](http://twitter.com/search?q=D.N.A+Cypher+MV+OUT+NOW) | N/A |
-| 11 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
-| 12 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 13 | [Kuat Ma'ruf](http://twitter.com/search?q=Kuat+Ma%27ruf) | N/A |
-| 14 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 15 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
-| 16 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
-| 17 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 18 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
-| 19 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 20 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
-| 21 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
-| 22 | [Brio](http://twitter.com/search?q=Brio) | N/A |
-| 23 | [127 TRIPLE MILLION SELLERS](http://twitter.com/search?q=127+TRIPLE+MILLION+SELLERS) | N/A |
-| 24 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 25 | [Promo](http://twitter.com/search?q=Promo) | N/A |
-| 26 | [Hari Kasih Sayang](http://twitter.com/search?q=Hari+Kasih+Sayang) | N/A |
-| 27 | [Meikarta](http://twitter.com/search?q=Meikarta) | N/A |
-| 28 | [Happy Vals](http://twitter.com/search?q=Happy+Vals) | N/A |
-| 29 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 30 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
-| 31 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 32 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
-| 33 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 34 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 35 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 36 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
-| 37 | [Refal Hady](http://twitter.com/search?q=Refal+Hady) | N/A |
-| 38 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
-| 39 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 40 | [Banjir](http://twitter.com/search?q=Banjir) | N/A |
-| 41 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 42 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
-| 43 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
-| 44 | [#DNAalbum](http://twitter.com/search?q=%23DNAalbum) | N/A |
-| 45 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 46 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 47 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 48 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 49 | [#COKELATDARIMINTO](http://twitter.com/search?q=%23COKELATDARIMINTO) | N/A |
+| 9 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
+| 10 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 11 | [Kuat Ma'ruf](http://twitter.com/search?q=Kuat+Ma%27ruf) | N/A |
+| 12 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 13 | [Ricky Rizal](http://twitter.com/search?q=Ricky+Rizal) | N/A |
+| 14 | [D.N.A Cypher MV OUT NOW](http://twitter.com/search?q=D.N.A+Cypher+MV+OUT+NOW) | N/A |
+| 15 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
+| 16 | [Teman Tapi Sayang](http://twitter.com/search?q=Teman+Tapi+Sayang) | N/A |
+| 17 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 18 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
+| 19 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
+| 20 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
+| 21 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 22 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 23 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 24 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
+| 25 | [Brio](http://twitter.com/search?q=Brio) | N/A |
+| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 27 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 28 | [Promo](http://twitter.com/search?q=Promo) | N/A |
+| 29 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
+| 30 | [127 TRIPLE MILLION SELLERS](http://twitter.com/search?q=127+TRIPLE+MILLION+SELLERS) | N/A |
+| 31 | [Meikarta](http://twitter.com/search?q=Meikarta) | N/A |
+| 32 | [Hari Kasih Sayang](http://twitter.com/search?q=Hari+Kasih+Sayang) | N/A |
+| 33 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 34 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
+| 35 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 36 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
+| 37 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 38 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
+| 39 | [#LAY_DNA](http://twitter.com/search?q=%23LAY_DNA) | N/A |
+| 40 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
+| 41 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
+| 42 | [#DNAalbum](http://twitter.com/search?q=%23DNAalbum) | N/A |
+| 43 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 44 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 45 | [#COKELATDARIMINTO](http://twitter.com/search?q=%23COKELATDARIMINTO) | N/A |
+| 46 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
+| 47 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
+| 48 | [#Ashelasa](http://twitter.com/search?q=%23Ashelasa) | N/A |
+| 49 | [#YoonA](http://twitter.com/search?q=%23YoonA) | N/A |
 
 
 

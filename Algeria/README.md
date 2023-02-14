@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-14 08:18:10 UTC`
+📆 Last Updated: `2023-02-14 09:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,42 @@ This is top 50 for Algeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 2 | [#شكرا_ابطال_الحمايه](http://twitter.com/search?q=%23%d8%b4%d9%83%d8%b1%d8%a7_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87) | N/A |
-| 3 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
-| 4 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
-| 5 | [#Always_With_EXO](http://twitter.com/search?q=%23Always_With_EXO) | N/A |
-| 6 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 1 | [#صباح_الخير_والسعاده](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | #صباح_الخير_والسعاده is an Arabic phrase that translates to "Good morning and happiness". It is a common greeting used to wish someone a good morning and a happy day. |
+| 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 3 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 4 | [#شكرا_ابطال_الحمايه](http://twitter.com/search?q=%23%d8%b4%d9%83%d8%b1%d8%a7_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87) | N/A |
+| 5 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
+| 6 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
 | 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 8 | [13 فيفري 1960](http://twitter.com/search?q=13+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+1960) | N/A |
-| 9 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 10 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 9 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 10 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 11 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
 | 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 13 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 | 14 | [الانباء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 15 | [القضاء البلجيكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d9%8a) | N/A |
 | 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [الجزاير الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 18 | [التفجيرات النوويه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%81%d8%ac%d9%8a%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%88%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
-| 19 | [وزير الاتصال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
-| 20 | [14 فيفري](http://twitter.com/search?q=14+%d9%81%d9%8a%d9%81%d8%b1%d9%8a) | N/A |
-| 21 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 22 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 17 | [التفجيرات النوويه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%81%d8%ac%d9%8a%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%88%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 20 | [وزير الاتصال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
+| 21 | [الجزاير الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 22 | [14 فيفري](http://twitter.com/search?q=14+%d9%81%d9%8a%d9%81%d8%b1%d9%8a) | N/A |
 | 23 | [التجارب النوويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d9%86%d9%88%d9%88%d9%8a%d9%87) | N/A |
 | 24 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 25 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 26 | [الهجمات السيبرانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 27 | [بكاس العالم](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 28 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 29 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 30 | [الثوره الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 33 | [والصين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 34 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 35 | [واشنطن بوست](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86+%d8%a8%d9%88%d8%b3%d8%aa) | N/A |
-| 36 | [علي كتاب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
+| 25 | [الهجمات السيبرانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 26 | [بكاس العالم](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 27 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
+| 28 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 29 | [الثوره الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 30 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 31 | [والصين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 32 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 33 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 34 | [واشنطن بوست](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86+%d8%a8%d9%88%d8%b3%d8%aa) | N/A |
+| 35 | [علي كتاب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
+| 36 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 37 | [علي الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
 | 38 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 39 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Algeria
 | 42 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
 | 43 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
 | 44 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
-| 45 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 46 | [الثوره السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 47 | [الاستعمار الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 48 | [الحمايه المدنيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 49 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
-| 50 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
+| 45 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 46 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 47 | [الثوره السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 48 | [الاستعمار الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 49 | [الحمايه المدنيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 50 | [مطار حلب](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%ad%d9%84%d8%a8) | N/A |
 
 
 

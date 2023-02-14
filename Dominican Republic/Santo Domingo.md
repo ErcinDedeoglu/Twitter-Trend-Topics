@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-14 08:17:27 UTC`
+📆 Last Updated: `2023-02-14 09:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 | 2 | [leonel farsante](http://twitter.com/search?q=leonel+farsante) | N/A |
 | 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [Donaly Martínez](http://twitter.com/search?q=Donaly+Mart%c3%adnez) | N/A |
+| 4 | [donaly martínez](http://twitter.com/search?q=donaly+mart%c3%adnez) | N/A |
 | 5 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 6 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
 | 7 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
@@ -51,20 +51,20 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 34 | [Las Carreras](http://twitter.com/search?q=Las+Carreras) | N/A |
 | 35 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
 | 36 | [Hoy 13](http://twitter.com/search?q=Hoy+13) | N/A |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [elias piña](http://twitter.com/search?q=elias+pi%c3%b1a) | N/A |
-| 39 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 40 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 41 | [eduardo alberto then](http://twitter.com/search?q=eduardo+alberto+then) | N/A |
-| 42 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 43 | [robertico](http://twitter.com/search?q=robertico) | N/A |
-| 44 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
-| 45 | [El Niño](http://twitter.com/search?q=El+Ni%c3%b1o) | N/A |
-| 46 | [gerente general](http://twitter.com/search?q=gerente+general) | N/A |
-| 47 | [La Materialista](http://twitter.com/search?q=La+Materialista) | N/A |
-| 48 | [#sbxespn](http://twitter.com/search?q=%23sbxespn) | N/A |
-| 49 | [Angel Dior](http://twitter.com/search?q=Angel+Dior) | N/A |
-| 50 | [La PN](http://twitter.com/search?q=La+PN) | N/A |
+| 37 | [elias piña](http://twitter.com/search?q=elias+pi%c3%b1a) | N/A |
+| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 39 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 40 | [eduardo alberto then](http://twitter.com/search?q=eduardo+alberto+then) | N/A |
+| 41 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 42 | [robertico](http://twitter.com/search?q=robertico) | N/A |
+| 43 | [#TheFlashMovie](http://twitter.com/search?q=%23TheFlashMovie) | N/A |
+| 44 | [El Niño](http://twitter.com/search?q=El+Ni%c3%b1o) | N/A |
+| 45 | [gerente general](http://twitter.com/search?q=gerente+general) | N/A |
+| 46 | [la materialista](http://twitter.com/search?q=la+materialista) | N/A |
+| 47 | [#sbxespn](http://twitter.com/search?q=%23sbxespn) | N/A |
+| 48 | [Angel Dior](http://twitter.com/search?q=Angel+Dior) | N/A |
+| 49 | [La PN](http://twitter.com/search?q=La+PN) | N/A |
+| 50 | [Alzheimer](http://twitter.com/search?q=Alzheimer) | N/A |
 
 
 

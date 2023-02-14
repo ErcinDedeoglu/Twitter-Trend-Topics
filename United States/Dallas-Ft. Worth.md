@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-14 08:18:03 UTC`
+📆 Last Updated: `2023-02-14 09:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Harmon](http://twitter.com/search?q=Harmon) | N/A |
-| 2 | [Red Raiders](http://twitter.com/search?q=Red+Raiders) | N/A |
-| 3 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
-| 4 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 5 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 6 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 7 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 8 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 10 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 11 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 12 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 13 | [#ActiveShooter](http://twitter.com/search?q=%23ActiveShooter) | N/A |
-| 14 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 15 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 16 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 17 | [#msustrong](http://twitter.com/search?q=%23msustrong) | N/A |
-| 18 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 19 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 20 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
-| 21 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
-| 22 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 23 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
-| 24 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
-| 25 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 26 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 27 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 28 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
-| 29 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 30 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 31 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 32 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 33 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 34 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 35 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 36 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 37 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 38 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
-| 39 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 40 | [MSU Union](http://twitter.com/search?q=MSU+Union) | N/A |
-| 41 | [Emi Jones](http://twitter.com/search?q=Emi+Jones) | N/A |
-| 42 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
-| 43 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 44 | [Chris Rozman](http://twitter.com/search?q=Chris+Rozman) | N/A |
-| 45 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 46 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 47 | [The MSU](http://twitter.com/search?q=The+MSU) | N/A |
-| 48 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 49 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 50 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 3 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 4 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 6 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 7 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 10 | [#msustrong](http://twitter.com/search?q=%23msustrong) | N/A |
+| 11 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 12 | [#ActiveShooter](http://twitter.com/search?q=%23ActiveShooter) | N/A |
+| 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 14 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 15 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 16 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 17 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 18 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
+| 19 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
+| 20 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
+| 21 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 22 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 23 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 24 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 25 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 26 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 27 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 28 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 29 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
+| 30 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
+| 31 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 32 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 33 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 34 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 35 | [Emi Jones](http://twitter.com/search?q=Emi+Jones) | N/A |
+| 36 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 37 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 38 | [MSU Union](http://twitter.com/search?q=MSU+Union) | N/A |
+| 39 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 40 | [The MSU](http://twitter.com/search?q=The+MSU) | N/A |
+| 41 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 42 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 43 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 44 | [Sparrow Hospital](http://twitter.com/search?q=Sparrow+Hospital) | N/A |
+| 45 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 46 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 47 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 48 | [Zepla](http://twitter.com/search?q=Zepla) | N/A |
+| 49 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 50 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
 
 
 
