@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-14 20:16:32 UTC`
+📆 Last Updated: `2023-02-14 21:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JurosBaixosJa](http://twitter.com/search?q=%23JurosBaixosJa) | N/A |
-| 2 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 3 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 4 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 5 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 6 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 9 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 12 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 13 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 15 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 16 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 17 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
-| 18 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 19 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 20 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 21 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
-| 22 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 23 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 25 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 26 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 27 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 28 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 29 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 30 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 31 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 32 | [Cofre](http://twitter.com/search?q=Cofre) | N/A |
-| 33 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 34 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
-| 35 | [Furo](http://twitter.com/search?q=Furo) | N/A |
-| 36 | [Garena](http://twitter.com/search?q=Garena) | N/A |
-| 37 | [André Valadão](http://twitter.com/search?q=Andr%c3%a9+Valad%c3%a3o) | N/A |
-| 38 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 39 | [Halls](http://twitter.com/search?q=Halls) | N/A |
-| 40 | [Botão](http://twitter.com/search?q=Bot%c3%a3o) | N/A |
-| 41 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 42 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 43 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 44 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 45 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 46 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 47 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 48 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 49 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 1 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 2 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 3 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 4 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 5 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 6 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 7 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 8 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 9 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 10 | [Ásia](http://twitter.com/search?q=%c3%81sia) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 14 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 15 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 18 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 19 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 20 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 21 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 22 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 23 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 24 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 26 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 27 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
+| 28 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 29 | [Danilo Pereira](http://twitter.com/search?q=Danilo+Pereira) | N/A |
+| 30 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 31 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 32 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 33 | [Esse PSG](http://twitter.com/search?q=Esse+PSG) | N/A |
+| 34 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 35 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 36 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 37 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 38 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 39 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 40 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
+| 41 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 42 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 43 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 44 | [André Valadão](http://twitter.com/search?q=Andr%c3%a9+Valad%c3%a3o) | N/A |
+| 45 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 46 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 47 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 48 | [Rego](http://twitter.com/search?q=Rego) | N/A |
+| 49 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
 
 
 

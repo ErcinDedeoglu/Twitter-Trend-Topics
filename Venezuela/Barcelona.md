@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-14 20:16:30 UTC`
+📆 Last Updated: `2023-02-14 21:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#14Feb](http://twitter.com/search?q=%2314Feb) | N/A |
-| 2 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 2 | [#14Feb](http://twitter.com/search?q=%2314Feb) | N/A |
 | 3 | [#LasSancionesSonContraElPueblo](http://twitter.com/search?q=%23LasSancionesSonContraElPueblo) | N/A |
 | 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 5 | [#JuventudIntegraciónYPaz](http://twitter.com/search?q=%23JuventudIntegraci%c3%b3nYPaz) | N/A |
 | 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 7 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 8 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 9 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 10 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 11 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 12 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
-| 13 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
-| 14 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
-| 15 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
-| 16 | [Armando Manzanero](http://twitter.com/search?q=Armando+Manzanero) | N/A |
-| 17 | [Día Mundial de la Energía](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Energ%c3%ada) | N/A |
-| 18 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
-| 19 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 20 | [Bonanza](http://twitter.com/search?q=Bonanza) | N/A |
-| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [Gustavo Elis](http://twitter.com/search?q=Gustavo+Elis) | N/A |
-| 23 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 24 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
-| 25 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
-| 26 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 27 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
-| 28 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 29 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 30 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 31 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 32 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 33 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 34 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 35 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 36 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
-| 37 | [Claudio II](http://twitter.com/search?q=Claudio+II) | N/A |
-| 38 | [Benjamin Rausseo](http://twitter.com/search?q=Benjamin+Rausseo) | N/A |
-| 39 | [Lucho Gatica](http://twitter.com/search?q=Lucho+Gatica) | N/A |
-| 40 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 41 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
-| 42 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 43 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 44 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 45 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 46 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 47 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 10 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 12 | [Torrejas](http://twitter.com/search?q=Torrejas) | N/A |
+| 13 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 14 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 15 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
+| 16 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
+| 17 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
+| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 19 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
+| 20 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 21 | [Armando Manzanero](http://twitter.com/search?q=Armando+Manzanero) | N/A |
+| 22 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
+| 23 | [Día Mundial de la Energía](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Energ%c3%ada) | N/A |
+| 24 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 25 | [Bonanza](http://twitter.com/search?q=Bonanza) | N/A |
+| 26 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
+| 27 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
+| 28 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 29 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 30 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
+| 31 | [Tamarindo](http://twitter.com/search?q=Tamarindo) | N/A |
+| 32 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 33 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 34 | [Gustavo Elis](http://twitter.com/search?q=Gustavo+Elis) | N/A |
+| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 36 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 37 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 38 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 39 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
+| 40 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 41 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 42 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 43 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 44 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
+| 45 | [Lucho Gatica](http://twitter.com/search?q=Lucho+Gatica) | N/A |
+| 46 | [Claudio II](http://twitter.com/search?q=Claudio+II) | N/A |
+| 47 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
 
 
 

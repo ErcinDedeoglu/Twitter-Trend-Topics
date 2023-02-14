@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-02-14 20:16:57 UTC`
+📆 Last Updated: `2023-02-14 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MensConference2023](http://twitter.com/search?q=%23MensConference2023) | N/A |
-| 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [Natembeya](http://twitter.com/search?q=Natembeya) | N/A |
-| 5 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 6 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 7 | [Karen Nyamu](http://twitter.com/search?q=Karen+Nyamu) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Nyayo Stadium](http://twitter.com/search?q=Nyayo+Stadium) | N/A |
-| 10 | [Pads Then Condoms](http://twitter.com/search?q=Pads+Then+Condoms) | N/A |
-| 11 | [North Rift](http://twitter.com/search?q=North+Rift) | N/A |
-| 12 | [Ksh 250](http://twitter.com/search?q=Ksh+250) | N/A |
-| 13 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
+| 1 | [Karen Nyamu](http://twitter.com/search?q=Karen+Nyamu) | N/A |
+| 2 | [#MensConference2023](http://twitter.com/search?q=%23MensConference2023) | N/A |
+| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 6 | [Natembeya](http://twitter.com/search?q=Natembeya) | N/A |
+| 7 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 8 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 9 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
+| 12 | [Nyayo Stadium](http://twitter.com/search?q=Nyayo+Stadium) | N/A |
+| 13 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
 | 14 | [Linet Toto](http://twitter.com/search?q=Linet+Toto) | N/A |
-| 15 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 16 | [120 Equity Card Holders](http://twitter.com/search?q=120+Equity+Card+Holders) | N/A |
-| 17 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 18 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 19 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 20 | [equitel](http://twitter.com/search?q=equitel) | N/A |
-| 21 | [Kibicho](http://twitter.com/search?q=Kibicho) | N/A |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 23 | [fusion estates](http://twitter.com/search?q=fusion+estates) | N/A |
-| 24 | [Governor Nassir](http://twitter.com/search?q=Governor+Nassir) | N/A |
-| 25 | [Brian Mutembei](http://twitter.com/search?q=Brian+Mutembei) | N/A |
-| 26 | [Banditry](http://twitter.com/search?q=Banditry) | N/A |
-| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 28 | [Garissa](http://twitter.com/search?q=Garissa) | N/A |
-| 29 | [Senator Gloria Orwoba](http://twitter.com/search?q=Senator+Gloria+Orwoba) | N/A |
-| 30 | [Bandits](http://twitter.com/search?q=Bandits) | N/A |
-| 31 | [Ethical](http://twitter.com/search?q=Ethical) | N/A |
-| 32 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [West Pokot](http://twitter.com/search?q=West+Pokot) | N/A |
-| 35 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
-| 36 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 37 | [Biwott](http://twitter.com/search?q=Biwott) | N/A |
-| 38 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [murkomen](http://twitter.com/search?q=murkomen) | N/A |
-| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 42 | [COTU](http://twitter.com/search?q=COTU) | N/A |
-| 43 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
-| 44 | [Wayne Rooney](http://twitter.com/search?q=Wayne+Rooney) | N/A |
-| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 46 | [Ugandans](http://twitter.com/search?q=Ugandans) | N/A |
-| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 48 | [Embu](http://twitter.com/search?q=Embu) | N/A |
-| 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 50 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 15 | [North Rift](http://twitter.com/search?q=North+Rift) | N/A |
+| 16 | [Pads Then Condoms](http://twitter.com/search?q=Pads+Then+Condoms) | N/A |
+| 17 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
+| 18 | [Ksh 250](http://twitter.com/search?q=Ksh+250) | N/A |
+| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 20 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 21 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 22 | [120 Equity Card Holders](http://twitter.com/search?q=120+Equity+Card+Holders) | N/A |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 25 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 27 | [equitel](http://twitter.com/search?q=equitel) | N/A |
+| 28 | [Kibicho](http://twitter.com/search?q=Kibicho) | N/A |
+| 29 | [fusion estates](http://twitter.com/search?q=fusion+estates) | N/A |
+| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 31 | [governor nassir](http://twitter.com/search?q=governor+nassir) | N/A |
+| 32 | [Banditry](http://twitter.com/search?q=Banditry) | N/A |
+| 33 | [Brian Mutembei](http://twitter.com/search?q=Brian+Mutembei) | N/A |
+| 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 36 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
+| 37 | [Bandits](http://twitter.com/search?q=Bandits) | N/A |
+| 38 | [Ethical](http://twitter.com/search?q=Ethical) | N/A |
+| 39 | [Senator Gloria Orwoba](http://twitter.com/search?q=Senator+Gloria+Orwoba) | N/A |
+| 40 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
+| 41 | [West Pokot](http://twitter.com/search?q=West+Pokot) | N/A |
+| 42 | [Biwott](http://twitter.com/search?q=Biwott) | N/A |
+| 43 | [COTU](http://twitter.com/search?q=COTU) | N/A |
+| 44 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [cs kindiki](http://twitter.com/search?q=cs+kindiki) | N/A |
+| 47 | [murkomen](http://twitter.com/search?q=murkomen) | N/A |
+| 48 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 49 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 50 | [Ugandans](http://twitter.com/search?q=Ugandans) | N/A |
 
 
 

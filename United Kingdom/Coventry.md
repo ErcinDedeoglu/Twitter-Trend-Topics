@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-14 20:16:21 UTC`
+📆 Last Updated: `2023-02-14 21:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 2 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 3 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
-| 4 | [The Police](http://twitter.com/search?q=The+Police) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [Alfie](http://twitter.com/search?q=Alfie) | Alfie is a British male name, derived from the Old English name Alfred. It is also used as a nickname for someone named Alfred. The meaning of Alfie in English is "wise counselor". |
-| 7 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 9 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 10 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
-| 14 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 15 | [ELEANOR NEALE](http://twitter.com/search?q=ELEANOR+NEALE) | N/A |
-| 16 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
-| 17 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 18 | [200,000 Cadbury Creme Eggs](http://twitter.com/search?q=200%2c000+Cadbury+Creme+Eggs) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [Skoobs](http://twitter.com/search?q=Skoobs) | N/A |
-| 21 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 22 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 23 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 24 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 25 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 26 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 27 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 28 | [Godden](http://twitter.com/search?q=Godden) | N/A |
-| 29 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
-| 30 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 31 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 32 | [Koh-i-Noor](http://twitter.com/search?q=Koh-i-Noor) | N/A |
-| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 34 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 35 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 36 | [Skubs](http://twitter.com/search?q=Skubs) | N/A |
-| 37 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 38 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 39 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 40 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 41 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 42 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
-| 43 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 44 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
-| 45 | [Violets](http://twitter.com/search?q=Violets) | N/A |
+| 1 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
+| 2 | [#ctfc](http://twitter.com/search?q=%23ctfc) | N/A |
+| 3 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
+| 4 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 5 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 6 | [#LoveAO](http://twitter.com/search?q=%23LoveAO) | N/A |
+| 7 | [Radz](http://twitter.com/search?q=Radz) | N/A |
+| 8 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
+| 9 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 10 | [The Police](http://twitter.com/search?q=The+Police) | N/A |
+| 11 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 13 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 14 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 20 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 21 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 22 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
+| 23 | [ELEANOR NEALE](http://twitter.com/search?q=ELEANOR+NEALE) | N/A |
+| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 25 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 26 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 27 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 28 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 30 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 31 | [200,000 Cadbury Creme Eggs](http://twitter.com/search?q=200%2c000+Cadbury+Creme+Eggs) | N/A |
+| 32 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 33 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 34 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 35 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 36 | [Muric](http://twitter.com/search?q=Muric) | N/A |
+| 37 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 38 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 39 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 40 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 41 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 42 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 43 | [Dowell](http://twitter.com/search?q=Dowell) | N/A |
+| 44 | [Skoobs](http://twitter.com/search?q=Skoobs) | N/A |
+| 45 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
 | 46 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 47 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
-| 48 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 49 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 47 | [Godden](http://twitter.com/search?q=Godden) | N/A |
+| 48 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 49 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 50 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
 
 
 

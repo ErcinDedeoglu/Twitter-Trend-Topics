@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-14 20:16:56 UTC`
+📆 Last Updated: `2023-02-14 21:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 3 | [#BawaMustGo](http://twitter.com/search?q=%23BawaMustGo) | N/A |
-| 4 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 5 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
-| 6 | [#ShoppersWarehouse](http://twitter.com/search?q=%23ShoppersWarehouse) | N/A |
-| 7 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
-| 8 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
-| 9 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
-| 10 | [So MTN](http://twitter.com/search?q=So+MTN) | N/A |
-| 11 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 12 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
-| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 14 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
-| 15 | [Dj Gaba](http://twitter.com/search?q=Dj+Gaba) | N/A |
-| 16 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
-| 19 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
-| 20 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 21 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 22 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
-| 23 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 24 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
-| 25 | [Ladipo](http://twitter.com/search?q=Ladipo) | N/A |
-| 26 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 27 | [The Central Bank of Nigeria](http://twitter.com/search?q=The+Central+Bank+of+Nigeria) | N/A |
-| 28 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 29 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 30 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
-| 31 | [SPREAD LOVE WITH YVONNE](http://twitter.com/search?q=SPREAD+LOVE+WITH+YVONNE) | N/A |
-| 32 | [MTN network](http://twitter.com/search?q=MTN+network) | N/A |
-| 33 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 34 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 35 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 36 | [nasboi lover boy](http://twitter.com/search?q=nasboi+lover+boy) | N/A |
-| 37 | [unusual phyna](http://twitter.com/search?q=unusual+phyna) | N/A |
-| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 39 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 40 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
-| 41 | [VOTE YELISA](http://twitter.com/search?q=VOTE+YELISA) | N/A |
-| 42 | [Saskay](http://twitter.com/search?q=Saskay) | N/A |
-| 43 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 44 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
-| 45 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 46 | [THE LORD HAS HELPED ME](http://twitter.com/search?q=THE+LORD+HAS+HELPED+ME) | "THE LORD HAS HELPED ME" is a phrase from the Bible (Psalm 118:13) and it means that God has provided assistance or guidance to the speaker. |
-| 47 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 48 | [Gbaja](http://twitter.com/search?q=Gbaja) | N/A |
-| 49 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 50 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 1 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 4 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 5 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
+| 6 | [#BawaMustGo](http://twitter.com/search?q=%23BawaMustGo) | N/A |
+| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 8 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 9 | [So MTN](http://twitter.com/search?q=So+MTN) | N/A |
+| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 11 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 12 | [#FlutterwavexBBTitans](http://twitter.com/search?q=%23FlutterwavexBBTitans) | N/A |
+| 13 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 15 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
+| 16 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
+| 17 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
+| 18 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
+| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 20 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 21 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 22 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 23 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
+| 24 | [MTN network](http://twitter.com/search?q=MTN+network) | N/A |
+| 25 | [Happy Val](http://twitter.com/search?q=Happy+Val) | N/A |
+| 26 | [VALENTINE WITH PHYNA](http://twitter.com/search?q=VALENTINE+WITH+PHYNA) | N/A |
+| 27 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 28 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
+| 29 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
+| 30 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
+| 31 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 32 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 33 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 34 | [Owerri](http://twitter.com/search?q=Owerri) | N/A |
+| 35 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
+| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 37 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 38 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
+| 39 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 40 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 41 | [#ShootYourShot](http://twitter.com/search?q=%23ShootYourShot) | N/A |
+| 42 | [#RecoverEnuguWithAtiku](http://twitter.com/search?q=%23RecoverEnuguWithAtiku) | N/A |
+| 43 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
+| 44 | [#Oshodi](http://twitter.com/search?q=%23Oshodi) | N/A |
+| 45 | [#OldNaira](http://twitter.com/search?q=%23OldNaira) | N/A |
+| 46 | [#AMItura](http://twitter.com/search?q=%23AMItura) | N/A |
+| 47 | [#Lovewisely](http://twitter.com/search?q=%23Lovewisely) | N/A |
+| 48 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
+| 49 | [#LoveInABox](http://twitter.com/search?q=%23LoveInABox) | N/A |
 
 
 

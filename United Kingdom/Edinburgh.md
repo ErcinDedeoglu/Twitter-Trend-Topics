@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-14 20:16:21 UTC`
+📆 Last Updated: `2023-02-14 21:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
-| 4 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 5 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 6 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 7 | [ELEANOR NEALE](http://twitter.com/search?q=ELEANOR+NEALE) | N/A |
-| 8 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
-| 9 | [#ACMTOT](http://twitter.com/search?q=%23ACMTOT) | N/A |
-| 10 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 11 | [200,000 Cadbury Creme Eggs](http://twitter.com/search?q=200%2c000+Cadbury+Creme+Eggs) | N/A |
-| 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 13 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
-| 14 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
-| 15 | [Skoobs](http://twitter.com/search?q=Skoobs) | N/A |
-| 16 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 17 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 18 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 19 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 22 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 23 | [Godden](http://twitter.com/search?q=Godden) | N/A |
-| 24 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
-| 25 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 26 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 27 | [Koh-i-Noor](http://twitter.com/search?q=Koh-i-Noor) | N/A |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 30 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 31 | [Skubs](http://twitter.com/search?q=Skubs) | N/A |
-| 32 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 33 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 34 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 35 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 36 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 37 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
-| 40 | [Violets](http://twitter.com/search?q=Violets) | N/A |
-| 41 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 42 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 43 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 44 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
-| 45 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 46 | [Radz](http://twitter.com/search?q=Radz) | N/A |
-| 47 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
-| 48 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 49 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 50 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 1 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 2 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 6 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 8 | [#CMWYL14](http://twitter.com/search?q=%23CMWYL14) | N/A |
+| 9 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 10 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 11 | [#ACMTOT](http://twitter.com/search?q=%23ACMTOT) | N/A |
+| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 13 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 14 | [#MILTOT](http://twitter.com/search?q=%23MILTOT) | N/A |
+| 15 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
+| 16 | [ELEANOR NEALE](http://twitter.com/search?q=ELEANOR+NEALE) | N/A |
+| 17 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 18 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 19 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 20 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 21 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 22 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 24 | [200,000 Cadbury Creme Eggs](http://twitter.com/search?q=200%2c000+Cadbury+Creme+Eggs) | N/A |
+| 25 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 26 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 27 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 28 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 29 | [Muric](http://twitter.com/search?q=Muric) | N/A |
+| 30 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 31 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 32 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 33 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 34 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 35 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 36 | [Dowell](http://twitter.com/search?q=Dowell) | N/A |
+| 37 | [Skoobs](http://twitter.com/search?q=Skoobs) | N/A |
+| 38 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 39 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 40 | [Godden](http://twitter.com/search?q=Godden) | N/A |
+| 41 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 42 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 43 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
+| 44 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 45 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
+| 46 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 47 | [Skubs](http://twitter.com/search?q=Skubs) | N/A |
+| 48 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 49 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 50 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
 
 
 
