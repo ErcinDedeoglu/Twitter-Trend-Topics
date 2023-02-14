@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-14 18:17:00 UTC`
+📆 Last Updated: `2023-02-14 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Oman
 | 1 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
 | 2 | [#معرض_الوظايف](http://twitter.com/search?q=%23%d9%85%d8%b9%d8%b1%d8%b6_%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d9%8a%d9%81) | N/A |
 | 3 | [#منظومه_الحمايه_الاجتماعيه](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b8%d9%88%d9%85%d9%87_%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 4 | [#البزنس70](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b370) | N/A |
+| 4 | [#عيد_الفلنتاين](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d9%84%d9%86%d8%aa%d8%a7%d9%8a%d9%86) | N/A |
 | 5 | [#الشتاء_مسندم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1_%d9%85%d8%b3%d9%86%d8%af%d9%85) | N/A |
 | 6 | [التجاره العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
 | 7 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 8 | [المديره العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 9 | [مجلس عمان](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 10 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 11 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 10 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 11 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 12 | [المشروبات الكحوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%ad%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 13 | [الاسر الاقل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
-| 14 | [وزير الصحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
+| 13 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
+| 14 | [الاسر الاقل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
 | 15 | [البركه العامر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%b1) | N/A |
-| 16 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 17 | [جمال النوفلي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%86%d9%88%d9%81%d9%84%d9%8a) | N/A |
+| 16 | [وزير الصحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
+| 17 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 18 | [عمل الشيطان](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86) | N/A |
-| 19 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
+| 19 | [جمال النوفلي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%86%d9%88%d9%81%d9%84%d9%8a) | N/A |
 | 20 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
-| 21 | [الاهتمام السامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 22 | [الجوانب الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%86%d8%a8+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 21 | [الجوانب الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%86%d8%a8+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 22 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 23 | [المقيمين الراغبين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%ba%d8%a8%d9%8a%d9%86) | N/A |
 | 24 | [النظام الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 25 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 26 | [الدخل المحدود](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d8%af%d9%88%d8%af) | N/A |
-| 27 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 28 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | N/A |
-| 29 | [ولايات خصب](http://twitter.com/search?q=%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%ae%d8%b5%d8%a8) | N/A |
-| 30 | [فيات المجتمع](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
-| 31 | [فتح التسجيل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84) | N/A |
-| 32 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 33 | [وزارة العمل](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 34 | [الرزق الحلال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b2%d9%82+%d8%a7%d9%84%d8%ad%d9%84%d8%a7%d9%84) | N/A |
-| 35 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 36 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 25 | [الاهتمام السامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
+| 26 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 27 | [الدخل المحدود](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d8%af%d9%88%d8%af) | N/A |
+| 28 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 29 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | N/A |
+| 30 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 31 | [ولايات خصب](http://twitter.com/search?q=%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%ae%d8%b5%d8%a8) | N/A |
+| 32 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 33 | [فتح التسجيل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84) | N/A |
+| 34 | [وزارة العمل](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 35 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
+| 36 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
 | 37 | [21 فبراير](http://twitter.com/search?q=21+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 38 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
-| 39 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 40 | [13 فبراير 2023](http://twitter.com/search?q=13+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 41 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
-| 42 | [علي الرابط التالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 43 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 44 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 38 | [فيات المجتمع](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
+| 39 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
+| 40 | [علي الحكومه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 41 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 42 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 43 | [علي الرابط التالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 45 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 46 | [مهرجان البشاير](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d9%8a%d8%b1) | N/A |
 | 47 | [الفتره الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 48 | [علي المواطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86) | N/A |
-| 49 | [المهرجان العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 50 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 48 | [المهرجان العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 49 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 50 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 
 
 

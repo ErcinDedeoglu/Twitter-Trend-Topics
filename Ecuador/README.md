@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-14 18:16:58 UTC`
+📆 Last Updated: `2023-02-14 19:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Ecuador
 | 9 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
 | 10 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
 | 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 12 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 13 | [Narco](http://twitter.com/search?q=Narco) | N/A |
-| 14 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 15 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 16 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 17 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
+| 12 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 13 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 14 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
+| 15 | [Narco](http://twitter.com/search?q=Narco) | N/A |
+| 16 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 18 | [Ética](http://twitter.com/search?q=%c3%89tica) | N/A |
-| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 20 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 19 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 20 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
 | 21 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 22 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
-| 23 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
-| 24 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 25 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 26 | [Mundial de Indonesia](http://twitter.com/search?q=Mundial+de+Indonesia) | N/A |
-| 27 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 28 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 29 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 30 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
-| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 32 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 33 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 34 | [Bran](http://twitter.com/search?q=Bran) | N/A |
-| 35 | [Dinapen](http://twitter.com/search?q=Dinapen) | N/A |
-| 36 | [Germán Cáceres](http://twitter.com/search?q=Germ%c3%a1n+C%c3%a1ceres) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
-| 39 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 41 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 42 | [patricio carrillo](http://twitter.com/search?q=patricio+carrillo) | N/A |
-| 43 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 44 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 22 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
+| 23 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 24 | [Mundial de Indonesia](http://twitter.com/search?q=Mundial+de+Indonesia) | N/A |
+| 25 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 26 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 27 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 28 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
+| 29 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
+| 30 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
+| 31 | [Monge](http://twitter.com/search?q=Monge) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Beccacece](http://twitter.com/search?q=Beccacece) | N/A |
+| 34 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 35 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 36 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 37 | [Bran](http://twitter.com/search?q=Bran) | N/A |
+| 38 | [Dinapen](http://twitter.com/search?q=Dinapen) | N/A |
+| 39 | [Germán Cáceres](http://twitter.com/search?q=Germ%c3%a1n+C%c3%a1ceres) | N/A |
+| 40 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
+| 41 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 42 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 43 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
+| 44 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
 | 45 | [Baldor Bermeo](http://twitter.com/search?q=Baldor+Bermeo) | N/A |
-| 46 | [Monge](http://twitter.com/search?q=Monge) | N/A |
+| 46 | [Gral](http://twitter.com/search?q=Gral) | N/A |
 | 47 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 48 | [Gral](http://twitter.com/search?q=Gral) | N/A |
+| 48 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 49 | [Wilman Terán](http://twitter.com/search?q=Wilman+Ter%c3%a1n) | N/A |
-| 50 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
+| 50 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
 
 
 

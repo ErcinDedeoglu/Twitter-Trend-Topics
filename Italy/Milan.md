@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-14 18:16:24 UTC`
+📆 Last Updated: `2023-02-14 19:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,41 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
 | 2 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 4 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
-| 5 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 6 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 3 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 5 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 6 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
 | 7 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 8 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 9 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 10 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 11 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 8 | [Minchiotti](http://twitter.com/search?q=Minchiotti) | N/A |
+| 9 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 10 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 11 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 13 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 14 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 15 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 16 | [Congratulazioni](http://twitter.com/search?q=Congratulazioni) | N/A |
-| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 18 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
-| 19 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 20 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 21 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 22 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 23 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 13 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 14 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 15 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 16 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 17 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 20 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
+| 21 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 22 | [Congratulazioni](http://twitter.com/search?q=Congratulazioni) | N/A |
+| 23 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
 | 24 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
-| 25 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 26 | [#diesel](http://twitter.com/search?q=%23diesel) | N/A |
-| 27 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 28 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
-| 29 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 30 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 31 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 33 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 34 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 35 | [#Salernitana](http://twitter.com/search?q=%23Salernitana) | N/A |
-| 36 | [#QuelBacioChe](http://twitter.com/search?q=%23QuelBacioChe) | N/A |
-| 37 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
-| 38 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
-| 39 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
-| 40 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 25 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 26 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 27 | [#diesel](http://twitter.com/search?q=%23diesel) | N/A |
+| 28 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 29 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
+| 30 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 31 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 32 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 33 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
+| 34 | [#QuelBacioChe](http://twitter.com/search?q=%23QuelBacioChe) | N/A |
+| 35 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
+| 36 | [#Salernitana](http://twitter.com/search?q=%23Salernitana) | N/A |
+| 37 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
 
 
 

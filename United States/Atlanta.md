@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-14 18:16:47 UTC`
+📆 Last Updated: `2023-02-14 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
-| 5 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
-| 6 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 7 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 8 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 9 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 10 | [Monken](http://twitter.com/search?q=Monken) | N/A |
-| 11 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 12 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
-| 13 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 14 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 15 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 16 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 17 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 18 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
-| 19 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 20 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 21 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 22 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 23 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 24 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
-| 25 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 26 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
-| 27 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 2 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 5 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
+| 6 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
+| 7 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 8 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 9 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 11 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 12 | [Monken](http://twitter.com/search?q=Monken) | N/A |
+| 13 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 14 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 15 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 16 | [#WeMetOnOverwatch](http://twitter.com/search?q=%23WeMetOnOverwatch) | N/A |
+| 17 | [Dianne Feinstein](http://twitter.com/search?q=Dianne+Feinstein) | N/A |
+| 18 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
+| 19 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 20 | [OC and DC](http://twitter.com/search?q=OC+and+DC) | N/A |
+| 21 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
+| 22 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 23 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 24 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 26 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 27 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
 | 28 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 29 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 30 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
-| 31 | [Brian Fraser](http://twitter.com/search?q=Brian+Fraser) | N/A |
-| 32 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 33 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 34 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
-| 35 | [Yellowcard](http://twitter.com/search?q=Yellowcard) | N/A |
-| 36 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 37 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 38 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
-| 39 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 40 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 41 | [Jeff Saturday](http://twitter.com/search?q=Jeff+Saturday) | Jeff Saturday is a former American football center who played in the National Football League (NFL) for 14 seasons. He is best known for his time with the Indianapolis Colts, with whom he won Super Bowl XLI over the Chicago Bears. The phrase "Jeff Saturday" is often used as a metaphor for teamwork and collaboration, as Saturday was known for his ability to work well with others on the field. |
-| 42 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 43 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 44 | [Alexandria Verner](http://twitter.com/search?q=Alexandria+Verner) | N/A |
-| 45 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
-| 46 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 47 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
-| 48 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 49 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 50 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 29 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 30 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 31 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
+| 32 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 33 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 34 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 35 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 36 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
+| 37 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
+| 40 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 41 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 42 | [Brian Fraser](http://twitter.com/search?q=Brian+Fraser) | N/A |
+| 43 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 44 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
+| 45 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 46 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
+| 47 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 48 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 49 | [Yellowcard](http://twitter.com/search?q=Yellowcard) | N/A |
+| 50 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
 
 
 

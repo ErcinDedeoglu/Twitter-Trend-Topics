@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-14 18:16:22 UTC`
+📆 Last Updated: `2023-02-14 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 2 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 3 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 4 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
-| 5 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 6 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 7 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
-| 8 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 11 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 12 | [Shin](http://twitter.com/search?q=Shin) | N/A |
-| 13 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 14 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 1 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 2 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 3 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 4 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 5 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 6 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
+| 7 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 8 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 9 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 10 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
+| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 12 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
+| 13 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 14 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 | 15 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 16 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 17 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
-| 18 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
-| 19 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 20 | [Johannes Boe](http://twitter.com/search?q=Johannes+Boe) | N/A |
-| 21 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 23 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 24 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 25 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 26 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 27 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 16 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 17 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 19 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 20 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 21 | [Shin](http://twitter.com/search?q=Shin) | N/A |
+| 22 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 23 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 24 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 25 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 26 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 27 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
 | 28 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 29 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
-| 30 | [Mensonges](http://twitter.com/search?q=Mensonges) | N/A |
-| 31 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 32 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
-| 33 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 34 | [#psgbayern](http://twitter.com/search?q=%23psgbayern) | N/A |
-| 35 | [#RallumerLesEtoiles](http://twitter.com/search?q=%23RallumerLesEtoiles) | N/A |
-| 36 | [#mylenefarmer](http://twitter.com/search?q=%23mylenefarmer) | N/A |
-| 37 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
-| 38 | [#chainsawman120](http://twitter.com/search?q=%23chainsawman120) | N/A |
-| 39 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 40 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 41 | [#MerciMacron](http://twitter.com/search?q=%23MerciMacron) | N/A |
-| 42 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 43 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 44 | [#chomage](http://twitter.com/search?q=%23chomage) | N/A |
-| 45 | [#MullerDay](http://twitter.com/search?q=%23MullerDay) | N/A |
-| 46 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 47 | [#Ohio](http://twitter.com/search?q=%23Ohio) | N/A |
-| 48 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
-| 49 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
+| 29 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 30 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 31 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
+| 32 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 34 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 35 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
+| 36 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
+| 37 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 38 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 39 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 40 | [Mensonges](http://twitter.com/search?q=Mensonges) | N/A |
+| 41 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
+| 42 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 43 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 44 | [#RallumerLesEtoiles](http://twitter.com/search?q=%23RallumerLesEtoiles) | N/A |
+| 45 | [#mylenefarmer](http://twitter.com/search?q=%23mylenefarmer) | N/A |
+| 46 | [#Facealinfo](http://twitter.com/search?q=%23Facealinfo) | N/A |
+| 47 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
+| 48 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 49 | [#chainsawman120](http://twitter.com/search?q=%23chainsawman120) | N/A |
+| 50 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

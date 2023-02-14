@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-02-14 18:16:54 UTC`
+📆 Last Updated: `2023-02-14 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
 | 3 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
 | 4 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 5 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 6 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 7 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 8 | [Monken](http://twitter.com/search?q=Monken) | N/A |
-| 9 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 10 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 11 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
-| 12 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 13 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 14 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 15 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 16 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
-| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 18 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 19 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 20 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 21 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 22 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
-| 23 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 24 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
-| 25 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 5 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 6 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 7 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 8 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 9 | [Monken](http://twitter.com/search?q=Monken) | N/A |
+| 10 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 11 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 12 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 13 | [#WeMetOnOverwatch](http://twitter.com/search?q=%23WeMetOnOverwatch) | N/A |
+| 14 | [Dianne Feinstein](http://twitter.com/search?q=Dianne+Feinstein) | N/A |
+| 15 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 16 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
+| 17 | [OC and DC](http://twitter.com/search?q=OC+and+DC) | N/A |
+| 18 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
+| 19 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 20 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 21 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 23 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 24 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 25 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
 | 26 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 27 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 28 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
-| 29 | [Brian Fraser](http://twitter.com/search?q=Brian+Fraser) | N/A |
-| 30 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 31 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 32 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
-| 33 | [Yellowcard](http://twitter.com/search?q=Yellowcard) | N/A |
-| 34 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 35 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 36 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
-| 37 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 38 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 39 | [Jeff Saturday](http://twitter.com/search?q=Jeff+Saturday) | Jeff Saturday is a former American football center who played in the National Football League (NFL) for 14 seasons. He is best known for his time with the Indianapolis Colts, with whom he won Super Bowl XLI over the Chicago Bears. The phrase "Jeff Saturday" is often used as a metaphor for teamwork and collaboration, as Saturday was known for his ability to work well with others on the field. |
-| 40 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 41 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 42 | [Alexandria Verner](http://twitter.com/search?q=Alexandria+Verner) | N/A |
-| 43 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
-| 44 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 45 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
-| 46 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 47 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 48 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 49 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
-| 50 | [PINK WOOD](http://twitter.com/search?q=PINK+WOOD) | N/A |
+| 27 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 28 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 29 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
+| 30 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 31 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 32 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 33 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
+| 34 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
+| 37 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 38 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 39 | [Brian Fraser](http://twitter.com/search?q=Brian+Fraser) | N/A |
+| 40 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 41 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
+| 42 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 43 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
+| 44 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 45 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 46 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 47 | [Yellowcard](http://twitter.com/search?q=Yellowcard) | N/A |
+| 48 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
+| 49 | [MC Ride](http://twitter.com/search?q=MC+Ride) | N/A |
+| 50 | [Martine Rose](http://twitter.com/search?q=Martine+Rose) | N/A |
 
 
 

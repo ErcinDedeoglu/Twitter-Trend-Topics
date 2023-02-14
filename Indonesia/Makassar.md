@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-14 18:16:27 UTC`
+📆 Last Updated: `2023-02-14 19:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EwakoPSM](http://twitter.com/search?q=%23EwakoPSM) | N/A |
-| 2 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 3 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 4 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 5 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 6 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 7 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
-| 8 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
-| 9 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
-| 10 | [Amnesia](http://twitter.com/search?q=Amnesia) | N/A |
-| 11 | [Mana 3](http://twitter.com/search?q=Mana+3) | N/A |
-| 12 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
-| 13 | [Jakarta 3](http://twitter.com/search?q=Jakarta+3) | N/A |
-| 14 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 16 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 17 | [DEMI APA](http://twitter.com/search?q=DEMI+APA) | N/A |
-| 18 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
-| 19 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 20 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
-| 21 | [Cindo](http://twitter.com/search?q=Cindo) | N/A |
-| 22 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
-| 23 | [The Beatles](http://twitter.com/search?q=The+Beatles) | N/A |
-| 24 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 25 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 26 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 27 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 2 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 3 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
+| 4 | [#KasihSayangIndiHome](http://twitter.com/search?q=%23KasihSayangIndiHome) | N/A |
+| 5 | [#YouAreFirst](http://twitter.com/search?q=%23YouAreFirst) | N/A |
+| 6 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 7 | [maju terus bersama prabowo](http://twitter.com/search?q=maju+terus+bersama+prabowo) | N/A |
+| 8 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
+| 9 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 10 | [pastinya prabowo](http://twitter.com/search?q=pastinya+prabowo) | N/A |
+| 11 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 12 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 13 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
+| 14 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 15 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 16 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 17 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
+| 18 | [danny praditya](http://twitter.com/search?q=danny+praditya) | N/A |
+| 19 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
+| 20 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
+| 21 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
+| 22 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
+| 23 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
+| 24 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 25 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 26 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 27 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
 | 28 | [Sword](http://twitter.com/search?q=Sword) | N/A |
-| 29 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 30 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 31 | [#HAPPYKDJDAY2023](http://twitter.com/search?q=%23HAPPYKDJDAY2023) | N/A |
-| 32 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
-| 33 | [#OaseaFirstLove](http://twitter.com/search?q=%23OaseaFirstLove) | N/A |
-| 34 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 35 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
-| 36 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
-| 37 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 38 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
-| 39 | [#HAPPY_CARAT_DAY](http://twitter.com/search?q=%23HAPPY_CARAT_DAY) | N/A |
-| 40 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
+| 29 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
+| 30 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
+| 31 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
+| 32 | [d.n.a cypher mv out now](http://twitter.com/search?q=d.n.a+cypher+mv+out+now) | N/A |
+| 33 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 34 | [Brio](http://twitter.com/search?q=Brio) | N/A |
+| 35 | [Kuat Ma'ruf](http://twitter.com/search?q=Kuat+Ma%27ruf) | N/A |
+| 36 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 37 | [ricky rizal](http://twitter.com/search?q=ricky+rizal) | N/A |
+| 38 | [BANGGA BRAJAMUSTI](http://twitter.com/search?q=BANGGA+BRAJAMUSTI) | N/A |
+| 39 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
+| 40 | [youngblood](http://twitter.com/search?q=youngblood) | N/A |
+| 41 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 42 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 43 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 44 | [DUIT MANA DUIT](http://twitter.com/search?q=DUIT+MANA+DUIT) | N/A |
+| 45 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 46 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 47 | [refal hady](http://twitter.com/search?q=refal+hady) | N/A |
+| 48 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 49 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 50 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
 
 
 

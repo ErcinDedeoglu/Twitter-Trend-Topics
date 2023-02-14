@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-14 18:16:25 UTC`
+📆 Last Updated: `2023-02-14 19:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 3 | [Patricia Donoso](http://twitter.com/search?q=Patricia+Donoso) | N/A |
-| 4 | [#TierraAmarga14Feb](http://twitter.com/search?q=%23TierraAmarga14Feb) | N/A |
-| 5 | [#ZeldaNintendencias](http://twitter.com/search?q=%23ZeldaNintendencias) | N/A |
-| 6 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 7 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 9 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 10 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 11 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 12 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 13 | [Garsias](http://twitter.com/search?q=Garsias) | N/A |
-| 14 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
-| 15 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 18 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 19 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 20 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
-| 23 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 24 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
-| 25 | [Participo](http://twitter.com/search?q=Participo) | N/A |
-| 26 | [Monedero](http://twitter.com/search?q=Monedero) | N/A |
-| 27 | [La UE](http://twitter.com/search?q=La+UE) | N/A |
-| 28 | [Okdiario](http://twitter.com/search?q=Okdiario) | N/A |
-| 29 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
-| 30 | [Grasias](http://twitter.com/search?q=Grasias) | N/A |
-| 31 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 32 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
-| 33 | [Ana Pastor](http://twitter.com/search?q=Ana+Pastor) | N/A |
-| 34 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
-| 35 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 37 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 38 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 39 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
-| 40 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
-| 41 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 42 | [Valencia CF](http://twitter.com/search?q=Valencia+CF) | N/A |
-| 43 | [Esperanza Aguirre](http://twitter.com/search?q=Esperanza+Aguirre) | N/A |
-| 44 | [Vicente Moreno](http://twitter.com/search?q=Vicente+Moreno) | N/A |
-| 45 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
-| 46 | [San Solterín](http://twitter.com/search?q=San+Solter%c3%adn) | N/A |
-| 47 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 48 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#TierraAmarga14Feb](http://twitter.com/search?q=%23TierraAmarga14Feb) | N/A |
+| 4 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 5 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 6 | [#ZeldaNintendencias](http://twitter.com/search?q=%23ZeldaNintendencias) | N/A |
+| 7 | [Patricia Donoso](http://twitter.com/search?q=Patricia+Donoso) | N/A |
+| 8 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 10 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 11 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
+| 12 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 13 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 14 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 15 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 16 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
+| 17 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 18 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 19 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 20 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 21 | [Garsias](http://twitter.com/search?q=Garsias) | N/A |
+| 22 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 23 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 24 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 25 | [Monedero](http://twitter.com/search?q=Monedero) | N/A |
+| 26 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
+| 27 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 28 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 31 | [Ana Pastor](http://twitter.com/search?q=Ana+Pastor) | N/A |
+| 32 | [Participo](http://twitter.com/search?q=Participo) | N/A |
+| 33 | [Grasias](http://twitter.com/search?q=Grasias) | N/A |
+| 34 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 35 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 36 | [La UE](http://twitter.com/search?q=La+UE) | N/A |
+| 37 | [Okdiario](http://twitter.com/search?q=Okdiario) | N/A |
+| 38 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 39 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 40 | [Rubiales](http://twitter.com/search?q=Rubiales) | N/A |
+| 41 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
+| 42 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 43 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 44 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
+| 45 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 46 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
+| 47 | [#SuperligaLoL](http://twitter.com/search?q=%23SuperligaLoL) | N/A |
+| 48 | [#realme10mejorQueMiEx](http://twitter.com/search?q=%23realme10mejorQueMiEx) | N/A |
 | 49 | [#APOYOROCIO14F](http://twitter.com/search?q=%23APOYOROCIO14F) | N/A |
-| 50 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 50 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 
 
 
