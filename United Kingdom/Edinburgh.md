@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-14 12:17:32 UTC`
+📆 Last Updated: `2023-02-14 13:22:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 2 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 5 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 6 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 5 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 6 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
 | 7 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
 | 8 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 9 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 10 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 11 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 9 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
+| 10 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 11 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
 | 12 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
 | 13 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 14 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
-| 15 | [Romance](http://twitter.com/search?q=Romance) | Romance is a feeling of excitement and mystery associated with love. It is often described as a strong emotional attraction between two people, characterized by intimacy, passion, and commitment. In English, it is often used to refer to a romantic relationship between two people. |
-| 16 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 17 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
-| 18 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
-| 19 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
-| 20 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 14 | [Margate](http://twitter.com/search?q=Margate) | N/A |
+| 15 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
+| 16 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 17 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
+| 18 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 19 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
+| 20 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
 | 21 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 22 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
-| 23 | [Misty](http://twitter.com/search?q=Misty) | N/A |
-| 24 | [Margate](http://twitter.com/search?q=Margate) | N/A |
-| 25 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
-| 26 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 27 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 28 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 22 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
+| 23 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 24 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
+| 25 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 26 | [Misty](http://twitter.com/search?q=Misty) | N/A |
+| 27 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 28 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 29 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 30 | [Voter](http://twitter.com/search?q=Voter) | N/A |
-| 31 | [Crust](http://twitter.com/search?q=Crust) | N/A |
-| 32 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 33 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 34 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
+| 30 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 31 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 32 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 33 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 34 | [Crust](http://twitter.com/search?q=Crust) | N/A |
 | 35 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 36 | [#loveisintheair](http://twitter.com/search?q=%23loveisintheair) | N/A |
-| 37 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
-| 38 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 39 | [#counciltax](http://twitter.com/search?q=%23counciltax) | N/A |
-| 40 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 41 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 42 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
-| 43 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 44 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 45 | [#vixen](http://twitter.com/search?q=%23vixen) | N/A |
-| 46 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 47 | [#ShareTheLove](http://twitter.com/search?q=%23ShareTheLove) | N/A |
-| 48 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
-| 49 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 50 | [#loveislove](http://twitter.com/search?q=%23loveislove) | N/A |
+| 36 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 37 | [#DonationDay](http://twitter.com/search?q=%23DonationDay) | N/A |
+| 38 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
+| 39 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 40 | [#digitalcultureawards](http://twitter.com/search?q=%23digitalcultureawards) | N/A |
+| 41 | [#counciltax](http://twitter.com/search?q=%23counciltax) | N/A |
+| 42 | [#loveisintheair](http://twitter.com/search?q=%23loveisintheair) | N/A |
+| 43 | [#verymerewards](http://twitter.com/search?q=%23verymerewards) | N/A |
+| 44 | [#CharityTuesday](http://twitter.com/search?q=%23CharityTuesday) | N/A |
+| 45 | [#BookGivingDay](http://twitter.com/search?q=%23BookGivingDay) | N/A |
+| 46 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 47 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
+| 50 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
 
 
 

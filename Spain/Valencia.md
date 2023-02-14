@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-14 12:17:49 UTC`
+📆 Last Updated: `2023-02-14 13:22:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 3 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 4 | [#conVodafone](http://twitter.com/search?q=%23conVodafone) | N/A |
-| 5 | [#realme10mejorQueMiEx](http://twitter.com/search?q=%23realme10mejorQueMiEx) | N/A |
-| 6 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 7 | [#HazMatchConXiaomi](http://twitter.com/search?q=%23HazMatchConXiaomi) | N/A |
-| 8 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
-| 9 | [Fiorano](http://twitter.com/search?q=Fiorano) | N/A |
-| 10 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 11 | [Carlos Sainz](http://twitter.com/search?q=Carlos+Sainz) | N/A |
-| 12 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 13 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 14 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 15 | [Parla](http://twitter.com/search?q=Parla) | N/A |
-| 16 | [Cardiopatías Congénitas](http://twitter.com/search?q=Cardiopat%c3%adas+Cong%c3%a9nitas) | N/A |
-| 17 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
-| 18 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 19 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
-| 20 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 21 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
-| 22 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
-| 23 | [Miércoles 15](http://twitter.com/search?q=Mi%c3%a9rcoles+15) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Vaquerizo](http://twitter.com/search?q=Vaquerizo) | N/A |
-| 26 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 27 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 28 | [Corte Inglés](http://twitter.com/search?q=Corte+Ingl%c3%a9s) | N/A |
-| 29 | [Moncloa](http://twitter.com/search?q=Moncloa) | N/A |
-| 30 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
-| 31 | [Carlos Alsina](http://twitter.com/search?q=Carlos+Alsina) | N/A |
-| 32 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
-| 33 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 34 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
-| 35 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
-| 36 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
-| 37 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 38 | [#JugonesDeBarra](http://twitter.com/search?q=%23JugonesDeBarra) | N/A |
-| 39 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 40 | [#DíaMundialdelaEnergía](http://twitter.com/search?q=%23D%c3%adaMundialdelaEnerg%c3%ada) | N/A |
-| 41 | [#APOYOROCIO14F](http://twitter.com/search?q=%23APOYOROCIO14F) | N/A |
-| 42 | [#Barómetro3Sector](http://twitter.com/search?q=%23Bar%c3%b3metro3Sector) | N/A |
-| 43 | [#Skyshowtime](http://twitter.com/search?q=%23Skyshowtime) | N/A |
-| 44 | [#Gianmarco14F](http://twitter.com/search?q=%23Gianmarco14F) | N/A |
-| 45 | [#SaludSexual](http://twitter.com/search?q=%23SaludSexual) | N/A |
-| 46 | [#YoMeRebelo14F](http://twitter.com/search?q=%23YoMeRebelo14F) | N/A |
-| 47 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
-| 48 | [#CyACartuja](http://twitter.com/search?q=%23CyACartuja) | N/A |
-| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 1 | [Valencia CF](http://twitter.com/search?q=Valencia+CF) | N/A |
+| 2 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 4 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 5 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 7 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 8 | [#HazMatchConXiaomi](http://twitter.com/search?q=%23HazMatchConXiaomi) | N/A |
+| 9 | [#realme10mejorQueMiEx](http://twitter.com/search?q=%23realme10mejorQueMiEx) | N/A |
+| 10 | [#JugonesDeBarra](http://twitter.com/search?q=%23JugonesDeBarra) | N/A |
+| 11 | [#conVodafone](http://twitter.com/search?q=%23conVodafone) | N/A |
+| 12 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
+| 13 | [Vicente Moreno](http://twitter.com/search?q=Vicente+Moreno) | N/A |
+| 14 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 15 | [Carlos Sainz](http://twitter.com/search?q=Carlos+Sainz) | N/A |
+| 16 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 18 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 19 | [Parla](http://twitter.com/search?q=Parla) | N/A |
+| 20 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
+| 21 | [Día Europeo de la Salud Sexual](http://twitter.com/search?q=D%c3%ada+Europeo+de+la+Salud+Sexual) | N/A |
+| 22 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Cardiopatías Congénitas](http://twitter.com/search?q=Cardiopat%c3%adas+Cong%c3%a9nitas) | N/A |
+| 25 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
+| 26 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
+| 27 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 28 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 29 | [Mario Vaquerizo](http://twitter.com/search?q=Mario+Vaquerizo) | Mario Vaquerizo is a Spanish singer, actor, and television presenter. He is best known for his work on the television show La Movida and his collaborations with his wife Alaska. The name Mario Vaquerizo roughly translates to "Mario the Cowboy" in English. |
+| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 31 | [Corte Inglés](http://twitter.com/search?q=Corte+Ingl%c3%a9s) | N/A |
+| 32 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 33 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 34 | [Miércoles 15](http://twitter.com/search?q=Mi%c3%a9rcoles+15) | N/A |
+| 35 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 38 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
+| 39 | [Carlos Alsina](http://twitter.com/search?q=Carlos+Alsina) | N/A |
+| 40 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
+| 41 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
+| 42 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
+| 43 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 44 | [#CrushWantedDeadConGAME](http://twitter.com/search?q=%23CrushWantedDeadConGAME) | N/A |
+| 45 | [#DíaMundialdelaEnergía](http://twitter.com/search?q=%23D%c3%adaMundialdelaEnerg%c3%ada) | N/A |
+| 46 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 47 | [#Gianmarco14F](http://twitter.com/search?q=%23Gianmarco14F) | N/A |
+| 48 | [#APOYOROCIO14F](http://twitter.com/search?q=%23APOYOROCIO14F) | N/A |
+| 49 | [#Barómetro3Sector](http://twitter.com/search?q=%23Bar%c3%b3metro3Sector) | N/A |
+| 50 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
 
 
 

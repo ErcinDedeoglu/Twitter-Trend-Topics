@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-14 12:17:58 UTC`
+📆 Last Updated: `2023-02-14 13:22:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 2 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 3 | [#TeddyBear_Release](http://twitter.com/search?q=%23TeddyBear_Release) | N/A |
-| 4 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
-| 5 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 6 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
-| 7 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 8 | [KDLEX VALENTINE SPECIAL](http://twitter.com/search?q=KDLEX+VALENTINE+SPECIAL) | N/A |
-| 9 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 10 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
-| 11 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
-| 12 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
-| 13 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 14 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 15 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 2 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 3 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
+| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 5 | [KDLEX VALENTINE SPECIAL](http://twitter.com/search?q=KDLEX+VALENTINE+SPECIAL) | N/A |
+| 6 | [#MCIAgnosOBaril](http://twitter.com/search?q=%23MCIAgnosOBaril) | N/A |
+| 7 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 8 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 9 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 10 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 11 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 12 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 13 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
+| 14 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
+| 15 | [#DreamChasersPIELabyu](http://twitter.com/search?q=%23DreamChasersPIELabyu) | N/A |
 | 16 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
 | 17 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 18 | [HEEWON LIVE](http://twitter.com/search?q=HEEWON+LIVE) | N/A |
-| 19 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 20 | [JANELLA SALVADOR FOR OLAY](http://twitter.com/search?q=JANELLA+SALVADOR+FOR+OLAY) | N/A |
-| 21 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
-| 22 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
-| 23 | [JOURNEY WITH HORI7ON BEGINS](http://twitter.com/search?q=JOURNEY+WITH+HORI7ON+BEGINS) | N/A |
-| 24 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 25 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 26 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 27 | [Denden](http://twitter.com/search?q=Denden) | N/A |
-| 28 | [marcuspread the love](http://twitter.com/search?q=marcuspread+the+love) | N/A |
-| 29 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 30 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
-| 31 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 32 | [JUNGKOOK ON SUCHWITA](http://twitter.com/search?q=JUNGKOOK+ON+SUCHWITA) | N/A |
-| 33 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 34 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 35 | [TWODAY IS HEARTSDAY](http://twitter.com/search?q=TWODAY+IS+HEARTSDAY) | N/A |
-| 36 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 37 | [Bang](http://twitter.com/search?q=Bang) | N/A |
-| 38 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 39 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 40 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 41 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 42 | [Happy Heart's Day](http://twitter.com/search?q=Happy+Heart%27s+Day) | N/A |
-| 43 | [LoveTakesBravery WITH EIAN](http://twitter.com/search?q=LoveTakesBravery+WITH+EIAN) | N/A |
+| 18 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 19 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
+| 20 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 21 | [ValenTAMIS NG RALPHGAIL](http://twitter.com/search?q=ValenTAMIS+NG+RALPHGAIL) | N/A |
+| 22 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
+| 23 | [HEEWON LIVE](http://twitter.com/search?q=HEEWON+LIVE) | N/A |
+| 24 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
+| 25 | [JANELLA SALVADOR FOR OLAY](http://twitter.com/search?q=JANELLA+SALVADOR+FOR+OLAY) | N/A |
+| 26 | [JOURNEY WITH HORI7ON BEGINS](http://twitter.com/search?q=JOURNEY+WITH+HORI7ON+BEGINS) | N/A |
+| 27 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 28 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 29 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 30 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 31 | [Denden](http://twitter.com/search?q=Denden) | N/A |
+| 32 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 33 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 34 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 35 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 36 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
+| 37 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 38 | [TWODAY IS HEARTSDAY](http://twitter.com/search?q=TWODAY+IS+HEARTSDAY) | N/A |
+| 39 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 40 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 41 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 42 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 43 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 44 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 45 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 46 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 47 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 48 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
-| 49 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 50 | [#WWIW17](http://twitter.com/search?q=%23WWIW17) | N/A |
+| 45 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 46 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 47 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
+| 48 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 49 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 50 | [#FPJBQTanggol](http://twitter.com/search?q=%23FPJBQTanggol) | N/A |
 
 
 

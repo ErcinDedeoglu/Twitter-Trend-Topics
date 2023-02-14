@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-14 12:17:44 UTC`
+📆 Last Updated: `2023-02-14 13:22:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,38 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
 | 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 3 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
-| 4 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 4 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
 | 5 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 6 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 7 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
-| 8 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
-| 9 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 10 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 11 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 12 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
-| 13 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
-| 14 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
+| 6 | [Hellfest](http://twitter.com/search?q=Hellfest) | N/A |
+| 7 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
+| 8 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
+| 9 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 10 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 11 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 12 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 13 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
+| 14 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
 | 15 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
 | 16 | [Ignatius Ganago](http://twitter.com/search?q=Ignatius+Ganago) | N/A |
 | 17 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 19 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
-| 20 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 21 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 22 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 23 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 24 | [Buttes-Chaumont](http://twitter.com/search?q=Buttes-Chaumont) | N/A |
-| 25 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 26 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 27 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 28 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 31 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
-| 32 | [#chomage](http://twitter.com/search?q=%23chomage) | N/A |
-| 33 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 34 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 35 | [#ReformedesRetraite](http://twitter.com/search?q=%23ReformedesRetraite) | N/A |
-| 36 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 37 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
+| 18 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 19 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 21 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
+| 22 | [Buttes-Chaumont](http://twitter.com/search?q=Buttes-Chaumont) | N/A |
+| 23 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 24 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 25 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 26 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 27 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 28 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 29 | [#chomage](http://twitter.com/search?q=%23chomage) | N/A |
+| 30 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 31 | [#ReformedesRetraite](http://twitter.com/search?q=%23ReformedesRetraite) | N/A |
+| 32 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 33 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 34 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
 
 
 

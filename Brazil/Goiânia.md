@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-14 12:17:41 UTC`
+📆 Last Updated: `2023-02-14 13:22:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 5 | [dudu](http://twitter.com/search?q=dudu) | N/A |
 | 6 | [manu](http://twitter.com/search?q=manu) | N/A |
-| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 8 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 9 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 10 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 13 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
-| 14 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 15 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 16 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 17 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 18 | [Mais Procurados](http://twitter.com/search?q=Mais+Procurados) | N/A |
-| 19 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 20 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 21 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 7 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 9 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 12 | [Juan e Sávio](http://twitter.com/search?q=Juan+e+S%c3%a1vio) | N/A |
+| 13 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 14 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
+| 15 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
+| 16 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
+| 17 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
+| 18 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 19 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
+| 20 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 21 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
 | 22 | [Minha Casa Minha Vida](http://twitter.com/search?q=Minha+Casa+Minha+Vida) | N/A |
-| 23 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 24 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 25 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 26 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 27 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
-| 28 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 29 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
-| 30 | [Roberto Campos Neto](http://twitter.com/search?q=Roberto+Campos+Neto) | N/A |
-| 31 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
-| 32 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 33 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 34 | [Léo Índio](http://twitter.com/search?q=L%c3%a9o+%c3%8dndio) | N/A |
-| 35 | [Lara Resende](http://twitter.com/search?q=Lara+Resende) | N/A |
-| 36 | [#bbbb23](http://twitter.com/search?q=%23bbbb23) | N/A |
-| 37 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 38 | [CEZAR BLACK](http://twitter.com/search?q=CEZAR+BLACK) | N/A |
-| 39 | [Bebeto](http://twitter.com/search?q=Bebeto) | N/A |
-| 40 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 41 | [Seokjin](http://twitter.com/search?q=Seokjin) | N/A |
-| 42 | [dodô](http://twitter.com/search?q=dod%c3%b4) | N/A |
-| 43 | [Alien](http://twitter.com/search?q=Alien) | N/A |
-| 44 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 45 | [Falha](http://twitter.com/search?q=Falha) | N/A |
-| 46 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 47 | [JÁ FEZ NA ESCOLA](http://twitter.com/search?q=J%c3%81+FEZ+NA+ESCOLA) | N/A |
-| 48 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 49 | [#foracamposneto](http://twitter.com/search?q=%23foracamposneto) | N/A |
-| 50 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
+| 23 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
+| 24 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 25 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 26 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 27 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 28 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 29 | [Mais Procurados](http://twitter.com/search?q=Mais+Procurados) | N/A |
+| 30 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 31 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 32 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
+| 33 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 34 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
+| 35 | [júlio césar](http://twitter.com/search?q=j%c3%balio+c%c3%a9sar) | N/A |
+| 36 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
+| 37 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 38 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 39 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
+| 40 | [Lara Resende](http://twitter.com/search?q=Lara+Resende) | N/A |
+| 41 | [Dahmer](http://twitter.com/search?q=Dahmer) | N/A |
+| 42 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 43 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 44 | [Léo Índio](http://twitter.com/search?q=L%c3%a9o+%c3%8dndio) | N/A |
+| 45 | [grimes](http://twitter.com/search?q=grimes) | N/A |
+| 46 | [Bebeto](http://twitter.com/search?q=Bebeto) | N/A |
+| 47 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 48 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 49 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 50 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
 
 
 

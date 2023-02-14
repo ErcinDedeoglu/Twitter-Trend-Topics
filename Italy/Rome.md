@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-14 12:17:47 UTC`
+📆 Last Updated: `2023-02-14 13:22:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,42 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
-| 2 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 3 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 4 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 5 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 6 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 7 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
-| 8 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 9 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 10 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
-| 11 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
-| 12 | [Fiorano](http://twitter.com/search?q=Fiorano) | N/A |
-| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 14 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 15 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 1 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 2 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 3 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 5 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
+| 6 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 7 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
+| 8 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 9 | [Fiorano](http://twitter.com/search?q=Fiorano) | N/A |
+| 10 | [Rosse](http://twitter.com/search?q=Rosse) | N/A |
+| 11 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 12 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 13 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 14 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 16 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
 | 17 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 19 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 20 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 18 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 19 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 20 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
 | 21 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 22 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 23 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 24 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 25 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 26 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 27 | [Continuate](http://twitter.com/search?q=Continuate) | N/A |
-| 28 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 29 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
-| 30 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 31 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 32 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
-| 33 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 34 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
-| 35 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
-| 36 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
-| 37 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
-| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 39 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 40 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
-| 41 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 22 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 23 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 24 | [#Pantani](http://twitter.com/search?q=%23Pantani) | N/A |
+| 25 | [#amore](http://twitter.com/search?q=%23amore) | N/A |
+| 26 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
+| 27 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 28 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 29 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 30 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 31 | [#Pregliasco](http://twitter.com/search?q=%23Pregliasco) | N/A |
+| 32 | [#astensionismo](http://twitter.com/search?q=%23astensionismo) | N/A |
+| 33 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 34 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 35 | [#faròInModo](http://twitter.com/search?q=%23far%c3%b2InModo) | N/A |
+| 36 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-02-14 12:17:32 UTC`
+📆 Last Updated: `2023-02-14 13:22:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 2 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 4 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 8 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 9 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 10 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 11 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 12 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 13 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 14 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
-| 15 | [Romance](http://twitter.com/search?q=Romance) | Romance is a feeling of excitement and mystery associated with love. It is often described as a strong emotional attraction between two people, characterized by intimacy, passion, and commitment. In English, it is often used to refer to a romantic relationship between two people. |
-| 16 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 17 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
-| 18 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
-| 19 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
-| 20 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 21 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 22 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
-| 23 | [Misty](http://twitter.com/search?q=Misty) | N/A |
-| 24 | [Margate](http://twitter.com/search?q=Margate) | N/A |
-| 25 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
-| 26 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 27 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 28 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 29 | [Voter](http://twitter.com/search?q=Voter) | N/A |
-| 30 | [Crust](http://twitter.com/search?q=Crust) | N/A |
-| 31 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 32 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 33 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 34 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 35 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
-| 36 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 37 | [#loveisintheair](http://twitter.com/search?q=%23loveisintheair) | N/A |
-| 38 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
-| 39 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 40 | [#counciltax](http://twitter.com/search?q=%23counciltax) | N/A |
-| 41 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 43 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
-| 44 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 45 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 46 | [#vixen](http://twitter.com/search?q=%23vixen) | N/A |
-| 47 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 48 | [#ShareTheLove](http://twitter.com/search?q=%23ShareTheLove) | N/A |
+| 2 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 3 | [#loveislove](http://twitter.com/search?q=%23loveislove) | N/A |
+| 4 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 5 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 6 | [#BrexitBrokeBritain](http://twitter.com/search?q=%23BrexitBrokeBritain) | N/A |
+| 7 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 8 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 11 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
+| 12 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 13 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 14 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 15 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 16 | [Margate](http://twitter.com/search?q=Margate) | N/A |
+| 17 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
+| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 19 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
+| 20 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
+| 21 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 22 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 23 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
+| 24 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 25 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
+| 26 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 27 | [Misty](http://twitter.com/search?q=Misty) | N/A |
+| 28 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 29 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 30 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 31 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 32 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 33 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 34 | [Crust](http://twitter.com/search?q=Crust) | N/A |
+| 35 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 36 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 37 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 38 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 39 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 40 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 41 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 42 | [#DonationDay](http://twitter.com/search?q=%23DonationDay) | N/A |
+| 43 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
+| 44 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 45 | [#digitalcultureawards](http://twitter.com/search?q=%23digitalcultureawards) | N/A |
+| 46 | [#counciltax](http://twitter.com/search?q=%23counciltax) | N/A |
+| 47 | [#loveisintheair](http://twitter.com/search?q=%23loveisintheair) | N/A |
+| 48 | [#verymerewards](http://twitter.com/search?q=%23verymerewards) | N/A |
 
 
 
