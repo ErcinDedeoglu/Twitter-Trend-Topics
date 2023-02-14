@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-14 01:44:42 UTC`
+📆 Last Updated: `2023-02-14 02:41:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 5 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 6 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 7 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 2 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 5 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 6 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 7 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
 | 8 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 9 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 10 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 11 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
-| 12 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 13 | [Becky Lynch](http://twitter.com/search?q=Becky+Lynch) | N/A |
-| 14 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
-| 15 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 16 | [#DontMessWithSocialSecurity](http://twitter.com/search?q=%23DontMessWithSocialSecurity) | N/A |
-| 17 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 18 | [Roundball Rock](http://twitter.com/search?q=Roundball+Rock) | N/A |
-| 19 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
-| 20 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
-| 21 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 22 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 23 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
-| 24 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
-| 25 | [Ability](http://twitter.com/search?q=Ability) | N/A |
-| 26 | [End 1st](http://twitter.com/search?q=End+1st) | N/A |
-| 27 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 28 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 29 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 30 | [Judgment Day](http://twitter.com/search?q=Judgment+Day) | N/A |
-| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 32 | [Tom Green](http://twitter.com/search?q=Tom+Green) | N/A |
-| 33 | [Olsen](http://twitter.com/search?q=Olsen) | Olsen is a Scandinavian surname derived from the Old Norse personal name Óláfr, meaning “ancestor’s descendant”. It is most common in Norway, Denmark, and Sweden. |
-| 34 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 35 | [Doug Williams](http://twitter.com/search?q=Doug+Williams) | N/A |
-| 36 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 37 | [Northeastern](http://twitter.com/search?q=Northeastern) | N/A |
-| 38 | [Atlas Shrugged](http://twitter.com/search?q=Atlas+Shrugged) | N/A |
-| 39 | [Architect of the Capitol](http://twitter.com/search?q=Architect+of+the+Capitol) | N/A |
-| 40 | [Arrested Development](http://twitter.com/search?q=Arrested+Development) | N/A |
-| 41 | [Fleets](http://twitter.com/search?q=Fleets) | N/A |
-| 42 | [Enoree](http://twitter.com/search?q=Enoree) | N/A |
-| 43 | [Hays Code](http://twitter.com/search?q=Hays+Code) | N/A |
-| 44 | [Solsbury Hill](http://twitter.com/search?q=Solsbury+Hill) | N/A |
-| 45 | [Armando Bacot](http://twitter.com/search?q=Armando+Bacot) | N/A |
-| 46 | [Sabotage](http://twitter.com/search?q=Sabotage) | N/A |
-| 47 | [New CEO](http://twitter.com/search?q=New+CEO) | N/A |
-| 48 | [Deregulation](http://twitter.com/search?q=Deregulation) | N/A |
-| 49 | [Genji](http://twitter.com/search?q=Genji) | N/A |
-| 50 | [Dislike](http://twitter.com/search?q=Dislike) | N/A |
+| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 10 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 11 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 12 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 13 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 14 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 15 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 16 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 17 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 18 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
+| 19 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
+| 20 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 21 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
+| 22 | [Piper Niven](http://twitter.com/search?q=Piper+Niven) | Piper Niven is a professional wrestler from Scotland. She is currently signed to WWE, where she performs on the NXT UK brand. Her ring name is a combination of her first name, Piper, and her mother's maiden name, Niven. |
+| 23 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 24 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 25 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
+| 26 | [Kylee](http://twitter.com/search?q=Kylee) | N/A |
+| 27 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 28 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
+| 29 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
+| 30 | [Danny Mac](http://twitter.com/search?q=Danny+Mac) | N/A |
+| 31 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 32 | [Pray for MSU](http://twitter.com/search?q=Pray+for+MSU) | N/A |
+| 33 | [Vance](http://twitter.com/search?q=Vance) | N/A |
+| 34 | [DeJoy](http://twitter.com/search?q=DeJoy) | N/A |
+| 35 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 36 | [The Doors](http://twitter.com/search?q=The+Doors) | N/A |
+| 37 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 38 | [Becky Lynch](http://twitter.com/search?q=Becky+Lynch) | N/A |
+| 39 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
+| 40 | [Clapper](http://twitter.com/search?q=Clapper) | N/A |
+| 41 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
+| 42 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
+| 43 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
+| 44 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 45 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 46 | [Asher](http://twitter.com/search?q=Asher) | N/A |
+| 47 | [LaMelo Ball](http://twitter.com/search?q=LaMelo+Ball) | N/A |
+| 48 | [Tom Green](http://twitter.com/search?q=Tom+Green) | N/A |
+| 49 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 50 | [Roundball Rock](http://twitter.com/search?q=Roundball+Rock) | N/A |
 
 
 

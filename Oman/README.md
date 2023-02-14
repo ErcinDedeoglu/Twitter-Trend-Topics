@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-14 01:44:53 UTC`
+📆 Last Updated: `2023-02-14 02:41:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Oman
 | 1 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
 | 2 | [#الشتاء_مسندم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1_%d9%85%d8%b3%d9%86%d8%af%d9%85) | N/A |
 | 3 | [#غير_جو](http://twitter.com/search?q=%23%d8%ba%d9%8a%d8%b1_%d8%ac%d9%88) | N/A |
-| 4 | [#البزنس69](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b369) | N/A |
-| 5 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 5 | [#البزنس69](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b369) | N/A |
 | 6 | [ولايات خصب](http://twitter.com/search?q=%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%ae%d8%b5%d8%a8) | N/A |
 | 7 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
 | 8 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 9 | [بيت العجايب](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d8%ac%d8%a7%d9%8a%d8%a8) | N/A |
 | 10 | [عمل الشيطان](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86) | N/A |
 | 11 | [معرض مسقط الدولي](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d9%85%d8%b3%d9%82%d8%b7+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 12 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 13 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
-| 14 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 15 | [التراث البحري العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 17 | [العمود الفقري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%88%d8%af+%d8%a7%d9%84%d9%81%d9%82%d8%b1%d9%8a) | N/A |
-| 18 | [مهرجان البشاير السنوي السادس](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 19 | [المشروبات الكحوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%ad%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 20 | [وزارة الإعلام](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 21 | [الفريق العماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 23 | [شارب الخمر](http://twitter.com/search?q=%d8%b4%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d8%ae%d9%85%d8%b1) | N/A |
-| 24 | [ميدان البشاير](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d9%8a%d8%b1) | N/A |
-| 25 | [لسباقات الهجن](http://twitter.com/search?q=%d9%84%d8%b3%d8%a8%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d8%ac%d9%86) | N/A |
-| 26 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 27 | [المرحله الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 28 | [13 فبراير 2023](http://twitter.com/search?q=13+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 12 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
+| 13 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 14 | [التراث البحري العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 15 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 16 | [المشروبات الكحوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%ad%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 17 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 18 | [العمود الفقري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%88%d8%af+%d8%a7%d9%84%d9%81%d9%82%d8%b1%d9%8a) | N/A |
+| 19 | [مهرجان البشاير السنوي السادس](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 20 | [المرحله الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 21 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [وزارة الإعلام](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 23 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 24 | [الفريق العماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 25 | [شارب الخمر](http://twitter.com/search?q=%d8%b4%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d8%ae%d9%85%d8%b1) | N/A |
+| 26 | [ميدان البشاير](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d9%8a%d8%b1) | N/A |
+| 27 | [13 فبراير 2023](http://twitter.com/search?q=13+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 28 | [لسباقات الهجن العربيه](http://twitter.com/search?q=%d9%84%d8%b3%d8%a8%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d8%ac%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 29 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
-| 30 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 30 | [دوري عمانتل](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b9%d9%85%d8%a7%d9%86%d8%aa%d9%84) | N/A |
 | 31 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 32 | [المعجب السري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%a8+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a) | N/A |
-| 33 | [دوري الدرجه الاولي](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 34 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 35 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 36 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 37 | [السيره الذاتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
-| 38 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
-| 39 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 40 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 41 | [مركز عمان](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 42 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
-| 43 | [الجهود المبذوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%b0%d9%88%d9%84%d9%87) | N/A |
+| 32 | [دوري الدرجه الاولي](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 33 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 34 | [الاطباق الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 35 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
+| 36 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 37 | [المعجب السري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%a8+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a) | N/A |
+| 38 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 39 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 40 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 41 | [السيره الذاتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
+| 42 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 43 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
 | 44 | [الجامعه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 45 | [السحب المنخفضه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ad%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%ae%d9%81%d8%b6%d9%87) | N/A |
-| 46 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 47 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 48 | [المواد الغذاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 49 | [الفريق الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 50 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 45 | [مركز عمان](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 46 | [الجهود المبذوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%b0%d9%88%d9%84%d9%87) | N/A |
+| 47 | [الواحد الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 48 | [السحب المنخفضه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ad%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%ae%d9%81%d8%b6%d9%87) | N/A |
+| 49 | [السعاده الدايمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%af%d8%a7%d9%8a%d9%85%d9%87) | N/A |
+| 50 | [الفريق الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 
 
 

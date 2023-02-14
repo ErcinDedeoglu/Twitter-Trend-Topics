@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-14 01:44:27 UTC`
+📆 Last Updated: `2023-02-14 02:41:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 2 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 3 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 2 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 3 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
 | 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 5 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 | 6 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
 | 7 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
 | 8 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 9 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 11 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 12 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
-| 13 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 14 | [Happy Balentayms](http://twitter.com/search?q=Happy+Balentayms) | N/A |
-| 15 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
+| 12 | [ANJBRENT CLOSER SA ROCKWELL](http://twitter.com/search?q=ANJBRENT+CLOSER+SA+ROCKWELL) | N/A |
+| 13 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
+| 14 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
+| 15 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 16 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
-| 17 | [blooms 2gether walang dulo](http://twitter.com/search?q=blooms+2gether+walang+dulo) | N/A |
-| 18 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 19 | [PADABA MI IKA RALPH](http://twitter.com/search?q=PADABA+MI+IKA+RALPH) | N/A |
+| 17 | [Happy Balentayms](http://twitter.com/search?q=Happy+Balentayms) | N/A |
+| 18 | [blooms 2gether walang dulo](http://twitter.com/search?q=blooms+2gether+walang+dulo) | N/A |
+| 19 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
 | 20 | [CRUSHING ON SUNBAE JINHWAN](http://twitter.com/search?q=CRUSHING+ON+SUNBAE+JINHWAN) | N/A |
-| 21 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
-| 22 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 23 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 24 | [BOYFRIEND REVEAL](http://twitter.com/search?q=BOYFRIEND+REVEAL) | N/A |
-| 25 | [Honne](http://twitter.com/search?q=Honne) | N/A |
-| 26 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 21 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 22 | [YOON JEONGHAN](http://twitter.com/search?q=YOON+JEONGHAN) | N/A |
+| 23 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
+| 24 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 25 | [pieflex superseian at moa](http://twitter.com/search?q=pieflex+superseian+at+moa) | N/A |
+| 26 | [PADABA MI IKA RALPH](http://twitter.com/search?q=PADABA+MI+IKA+RALPH) | N/A |
 | 27 | [UNCLOS](http://twitter.com/search?q=UNCLOS) | N/A |
-| 28 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
-| 29 | [pieflex superseian at moa](http://twitter.com/search?q=pieflex+superseian+at+moa) | N/A |
-| 30 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 31 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
-| 32 | [HAPPY BIRTHDAY VALENTINE BOY](http://twitter.com/search?q=HAPPY+BIRTHDAY+VALENTINE+BOY) | N/A |
-| 33 | [ANGELIQUE MANTO](http://twitter.com/search?q=ANGELIQUE+MANTO) | N/A |
-| 34 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 35 | [D14 BE OUR VALENTINE](http://twitter.com/search?q=D14+BE+OUR+VALENTINE) | N/A |
-| 36 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
-| 37 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 28 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 29 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
+| 30 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
+| 31 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 32 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 33 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 34 | [ANGELIQUE MANTO](http://twitter.com/search?q=ANGELIQUE+MANTO) | N/A |
+| 35 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 36 | [BOYFRIEND REVEAL](http://twitter.com/search?q=BOYFRIEND+REVEAL) | N/A |
+| 37 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
 | 38 | [Happy Halloween](http://twitter.com/search?q=Happy+Halloween) | N/A |
-| 39 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 40 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 41 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 44 | [MUPH](http://twitter.com/search?q=MUPH) | N/A |
-| 45 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 46 | [Solar](http://twitter.com/search?q=Solar) | N/A |
-| 47 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 39 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 40 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 42 | [Happy Birthday Valentine Boy](http://twitter.com/search?q=Happy+Birthday+Valentine+Boy) | N/A |
+| 43 | [D14 BE OUR VALENTINE](http://twitter.com/search?q=D14+BE+OUR+VALENTINE) | N/A |
+| 44 | [Ren'ai Reef](http://twitter.com/search?q=Ren%27ai+Reef) | N/A |
+| 45 | [Hapi](http://twitter.com/search?q=Hapi) | N/A |
+| 46 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 47 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 
 
 

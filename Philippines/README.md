@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-14 01:44:55 UTC`
+📆 Last Updated: `2023-02-14 02:41:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 2 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 3 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 2 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 3 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
 | 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 5 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 | 6 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
 | 7 | [#FPJsBatangQuiapoDay](http://twitter.com/search?q=%23FPJsBatangQuiapoDay) | N/A |
 | 8 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
 | 9 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
-| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 11 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 12 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 13 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
-| 14 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 15 | [Happy Balentayms](http://twitter.com/search?q=Happy+Balentayms) | N/A |
-| 16 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
-| 17 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
-| 18 | [blooms 2gether walang dulo](http://twitter.com/search?q=blooms+2gether+walang+dulo) | N/A |
-| 19 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 20 | [PADABA MI IKA RALPH](http://twitter.com/search?q=PADABA+MI+IKA+RALPH) | N/A |
-| 21 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 10 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 12 | [ANJBRENT CLOSER SA ROCKWELL](http://twitter.com/search?q=ANJBRENT+CLOSER+SA+ROCKWELL) | N/A |
+| 13 | [HOY MALAPIT NA](http://twitter.com/search?q=HOY+MALAPIT+NA) | N/A |
+| 14 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 15 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
+| 16 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 17 | [Happy Balentayms](http://twitter.com/search?q=Happy+Balentayms) | N/A |
+| 18 | [Coco Martin](http://twitter.com/search?q=Coco+Martin) | N/A |
+| 19 | [blooms 2gether walang dulo](http://twitter.com/search?q=blooms+2gether+walang+dulo) | N/A |
+| 20 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
+| 21 | [Honne](http://twitter.com/search?q=Honne) | N/A |
 | 22 | [CRUSHING ON SUNBAE JINHWAN](http://twitter.com/search?q=CRUSHING+ON+SUNBAE+JINHWAN) | N/A |
-| 23 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
-| 24 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 25 | [Honne](http://twitter.com/search?q=Honne) | N/A |
+| 23 | [YOON JEONGHAN](http://twitter.com/search?q=YOON+JEONGHAN) | N/A |
+| 24 | [Belle](http://twitter.com/search?q=Belle) | N/A |
+| 25 | [SUBUNIT](http://twitter.com/search?q=SUBUNIT) | N/A |
 | 26 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
-| 27 | [UNCLOS](http://twitter.com/search?q=UNCLOS) | N/A |
-| 28 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
-| 29 | [pieflex superseian at moa](http://twitter.com/search?q=pieflex+superseian+at+moa) | N/A |
+| 27 | [pieflex superseian at moa](http://twitter.com/search?q=pieflex+superseian+at+moa) | N/A |
+| 28 | [PADABA MI IKA RALPH](http://twitter.com/search?q=PADABA+MI+IKA+RALPH) | N/A |
+| 29 | [UNCLOS](http://twitter.com/search?q=UNCLOS) | N/A |
 | 30 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
 | 31 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
-| 32 | [HAPPY BIRTHDAY VALENTINE BOY](http://twitter.com/search?q=HAPPY+BIRTHDAY+VALENTINE+BOY) | N/A |
-| 33 | [ANGELIQUE MANTO](http://twitter.com/search?q=ANGELIQUE+MANTO) | N/A |
-| 34 | [BOYFRIEND REVEAL](http://twitter.com/search?q=BOYFRIEND+REVEAL) | N/A |
+| 32 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
+| 33 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 34 | [Barney](http://twitter.com/search?q=Barney) | N/A |
 | 35 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 36 | [D14 BE OUR VALENTINE](http://twitter.com/search?q=D14+BE+OUR+VALENTINE) | N/A |
-| 37 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
-| 38 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
-| 39 | [Happy Halloween](http://twitter.com/search?q=Happy+Halloween) | N/A |
-| 40 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 41 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 42 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 43 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 44 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 45 | [MUPH](http://twitter.com/search?q=MUPH) | N/A |
-| 46 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 47 | [Solar](http://twitter.com/search?q=Solar) | N/A |
-| 48 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 49 | [South China Sea](http://twitter.com/search?q=South+China+Sea) | N/A |
+| 36 | [ANGELIQUE MANTO](http://twitter.com/search?q=ANGELIQUE+MANTO) | N/A |
+| 37 | [Juan Ponce Enrile](http://twitter.com/search?q=Juan+Ponce+Enrile) | N/A |
+| 38 | [BOYFRIEND REVEAL](http://twitter.com/search?q=BOYFRIEND+REVEAL) | N/A |
+| 39 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
+| 40 | [Happy Halloween](http://twitter.com/search?q=Happy+Halloween) | N/A |
+| 41 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 44 | [Happy Birthday Valentine Boy](http://twitter.com/search?q=Happy+Birthday+Valentine+Boy) | N/A |
+| 45 | [D14 BE OUR VALENTINE](http://twitter.com/search?q=D14+BE+OUR+VALENTINE) | N/A |
+| 46 | [THE ASTRONAUT WITH LOVE](http://twitter.com/search?q=THE+ASTRONAUT+WITH+LOVE) | N/A |
+| 47 | [Ren'ai Reef](http://twitter.com/search?q=Ren%27ai+Reef) | N/A |
+| 48 | [Hapi](http://twitter.com/search?q=Hapi) | N/A |
+| 49 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
 | 50 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 
 

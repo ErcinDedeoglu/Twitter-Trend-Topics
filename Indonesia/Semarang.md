@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-14 01:44:21 UTC`
+📆 Last Updated: `2023-02-14 02:41:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,38 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 2 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 1 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 2 | [#14กุมภาฮันนี่ขอกุมใจไบเบิ้ล](http://twitter.com/search?q=%2314%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%82%e0%b8%ad%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5) | N/A |
 | 3 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
 | 4 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 5 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
-| 6 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 7 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 8 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 9 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
-| 10 | [indonesia terus maju](http://twitter.com/search?q=indonesia+terus+maju) | N/A |
-| 11 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 12 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 13 | [#DemiGenerasiBerikutnya](http://twitter.com/search?q=%23DemiGenerasiBerikutnya) | N/A |
-| 14 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 15 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
-| 16 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
-| 17 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
-| 18 | [Tekan Angka Kemiskinan](http://twitter.com/search?q=Tekan+Angka+Kemiskinan) | N/A |
-| 19 | [Raih Keberkahan Pagi](http://twitter.com/search?q=Raih+Keberkahan+Pagi) | N/A |
-| 20 | [Siap Perjuangkan Syariah](http://twitter.com/search?q=Siap+Perjuangkan+Syariah) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Putri Candrawathi](http://twitter.com/search?q=Putri+Candrawathi) | N/A |
-| 23 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
-| 24 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
-| 25 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
-| 26 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
-| 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 28 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 29 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 30 | [sgar](http://twitter.com/search?q=sgar) | N/A |
-| 31 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 32 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 33 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
-| 34 | [Maaf](http://twitter.com/search?q=Maaf) | N/A |
-| 35 | [Smelter Grade Alumina Refinery](http://twitter.com/search?q=Smelter+Grade+Alumina+Refinery) | N/A |
-| 36 | [Makassar](http://twitter.com/search?q=Makassar) | N/A |
-| 37 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
-| 38 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
-| 39 | [Direktur Operasi](http://twitter.com/search?q=Direktur+Operasi) | N/A |
-| 40 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 41 | [Refal Hady](http://twitter.com/search?q=Refal+Hady) | N/A |
-| 42 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 43 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 44 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
-| 45 | [Banding](http://twitter.com/search?q=Banding) | N/A |
-| 46 | [Happy Vals](http://twitter.com/search?q=Happy+Vals) | N/A |
-| 47 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 48 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 49 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
+| 5 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 6 | [MALU HEHE](http://twitter.com/search?q=MALU+HEHE) | N/A |
+| 7 | [#DemiGenerasiBerikutnya](http://twitter.com/search?q=%23DemiGenerasiBerikutnya) | N/A |
+| 8 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
+| 9 | [Selamat Hari Kasih Sayang](http://twitter.com/search?q=Selamat+Hari+Kasih+Sayang) | N/A |
+| 10 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 11 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
+| 12 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
+| 13 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
+| 14 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 15 | [Raih Keberkahan Pagi](http://twitter.com/search?q=Raih+Keberkahan+Pagi) | N/A |
+| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 17 | [Siap Perjuangkan Syariah](http://twitter.com/search?q=Siap+Perjuangkan+Syariah) | N/A |
+| 18 | [Refal Hady](http://twitter.com/search?q=Refal+Hady) | N/A |
+| 19 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 20 | [Hukuman Mati](http://twitter.com/search?q=Hukuman+Mati) | N/A |
+| 21 | [KUHP](http://twitter.com/search?q=KUHP) | N/A |
+| 22 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 23 | [#YoonA](http://twitter.com/search?q=%23YoonA) | N/A |
+| 24 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
+| 25 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 26 | [#DakwahPorosHidup](http://twitter.com/search?q=%23DakwahPorosHidup) | N/A |
+| 27 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 28 | [#thombrowneXJohnnySuh](http://twitter.com/search?q=%23thombrowneXJohnnySuh) | N/A |
+| 29 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 30 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 31 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 32 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
 
 
 

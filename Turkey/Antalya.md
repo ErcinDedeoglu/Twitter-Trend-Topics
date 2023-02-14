@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-14 01:44:39 UTC`
+📆 Last Updated: `2023-02-14 02:41:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,39 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
 | 2 | [#SeçimlerErtelenemez](http://twitter.com/search?q=%23Se%c3%a7imlerErtelenemez) | N/A |
-| 3 | [Didem](http://twitter.com/search?q=Didem) | N/A |
-| 4 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
+| 3 | [#galaxyarena](http://twitter.com/search?q=%23galaxyarena) | N/A |
+| 4 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
 | 5 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 6 | [Devletimiz Yanımızda](http://twitter.com/search?q=Devletimiz+Yan%c4%b1m%c4%b1zda) | N/A |
-| 7 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 8 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
-| 9 | [Mümtaz](http://twitter.com/search?q=M%c3%bcmtaz) | N/A |
-| 10 | [#universitelerkapatılmasın](http://twitter.com/search?q=%23universitelerkapat%c4%b1lmas%c4%b1n) | N/A |
-| 11 | [#Rihanna](http://twitter.com/search?q=%23Rihanna) | N/A |
-| 12 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
-| 13 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
-| 14 | [Arkadaki](http://twitter.com/search?q=Arkadaki) | N/A |
-| 15 | [Naci](http://twitter.com/search?q=Naci) | N/A |
-| 16 | [Ayça](http://twitter.com/search?q=Ay%c3%a7a) | N/A |
-| 17 | [Nabız](http://twitter.com/search?q=Nab%c4%b1z) | N/A |
-| 18 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 19 | [18 Haziran'da](http://twitter.com/search?q=18+Haziran%27da) | N/A |
-| 20 | [TBMM](http://twitter.com/search?q=TBMM) | N/A |
-| 21 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 22 | [Sübhanallah](http://twitter.com/search?q=S%c3%bcbhanallah) | N/A |
-| 23 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
-| 24 | [Atam](http://twitter.com/search?q=Atam) | N/A |
-| 25 | [Fulya](http://twitter.com/search?q=Fulya) | N/A |
-| 26 | [İstanbulu](http://twitter.com/search?q=%c4%b0stanbulu) | N/A |
-| 27 | [#uğurarslan](http://twitter.com/search?q=%23u%c4%9furarslan) | N/A |
-| 28 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
-| 29 | [#ueniversitemikapatma](http://twitter.com/search?q=%23ueniversitemikapatma) | N/A |
-| 30 | [#Borsa20SubataKadarKapatılsın](http://twitter.com/search?q=%23Borsa20SubataKadarKapat%c4%b1ls%c4%b1n) | N/A |
-| 31 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 32 | [#ueniversiteleriacın](http://twitter.com/search?q=%23ueniversiteleriac%c4%b1n) | N/A |
-| 33 | [#istanbuldepremi](http://twitter.com/search?q=%23istanbuldepremi) | N/A |
-| 34 | [#SelcukBayraktar](http://twitter.com/search?q=%23SelcukBayraktar) | N/A |
-| 35 | [#çarşı](http://twitter.com/search?q=%23%c3%a7ar%c5%9f%c4%b1) | N/A |
+| 6 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 7 | [Didem](http://twitter.com/search?q=Didem) | N/A |
+| 8 | [Beraberiz Türkiye](http://twitter.com/search?q=Beraberiz+T%c3%bcrkiye) | N/A |
+| 9 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
+| 10 | [24can kurtardık](http://twitter.com/search?q=24can+kurtard%c4%b1k) | N/A |
+| 11 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 12 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
+| 13 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 14 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 15 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 16 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 17 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 18 | [Yoktu](http://twitter.com/search?q=Yoktu) | Yoktu is a Korean word that means "to be able to do something". It is often used to express the ability to do something, such as "I can do it" or "I am capable of doing it". |
+| 19 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
+| 20 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 21 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 22 | [AÇIK AÇIK PED](http://twitter.com/search?q=A%c3%87IK+A%c3%87IK+PED) | N/A |
+| 23 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 24 | [Yol Tv](http://twitter.com/search?q=Yol+Tv) | N/A |
+| 25 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 26 | [Hizmetkar](http://twitter.com/search?q=Hizmetkar) | N/A |
+| 27 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 28 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
+| 29 | [naime şakar](http://twitter.com/search?q=naime+%c5%9fakar) | N/A |
+| 30 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
+| 31 | [PED PED PED](http://twitter.com/search?q=PED+PED+PED) | N/A |
+| 32 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 33 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 34 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 35 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 36 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 37 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 38 | [abd ufo](http://twitter.com/search?q=abd+ufo) | N/A |
+| 39 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
+| 40 | [Ayşe Betül](http://twitter.com/search?q=Ay%c5%9fe+Bet%c3%bcl) | N/A |
+| 41 | [Numan Kurtulmuş](http://twitter.com/search?q=Numan+Kurtulmu%c5%9f) | N/A |
+| 42 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
+| 43 | [Ayça](http://twitter.com/search?q=Ay%c3%a7a) | N/A |
+| 44 | [Miray](http://twitter.com/search?q=Miray) | N/A |
+| 45 | [Yalan](http://twitter.com/search?q=Yalan) | N/A |
+| 46 | [18 Haziran'da](http://twitter.com/search?q=18+Haziran%27da) | N/A |
+| 47 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 48 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
+| 49 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 50 | [Nabız](http://twitter.com/search?q=Nab%c4%b1z) | N/A |
 
 
 

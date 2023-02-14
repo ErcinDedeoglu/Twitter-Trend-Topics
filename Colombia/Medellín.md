@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-14 01:44:07 UTC`
+📆 Last Updated: `2023-02-14 02:41:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
 | 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 3 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 4 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 4 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
 | 5 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
-| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 7 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 8 | [#ReformaALaSalud](http://twitter.com/search?q=%23ReformaALaSalud) | N/A |
-| 9 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
-| 10 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 6 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 7 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 9 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 10 | [#ReformaALaSalud](http://twitter.com/search?q=%23ReformaALaSalud) | N/A |
 | 11 | [#DiaMundialdelaRadio](http://twitter.com/search?q=%23DiaMundialdelaRadio) | N/A |
-| 12 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
-| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 14 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 15 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
-| 16 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 12 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
+| 13 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
+| 14 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 15 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 16 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
 | 17 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 19 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
-| 20 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 18 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 20 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
 | 21 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 22 | [Millos](http://twitter.com/search?q=Millos) | N/A |
-| 23 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
-| 24 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
-| 25 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
-| 26 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 27 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 29 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 30 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 31 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
-| 32 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 33 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 34 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
-| 35 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 36 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
-| 37 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 38 | [Aval](http://twitter.com/search?q=Aval) | N/A |
-| 39 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 40 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
-| 41 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 43 | [Diamonds](http://twitter.com/search?q=Diamonds) | N/A |
-| 44 | [Proyecto de Ley](http://twitter.com/search?q=Proyecto+de+Ley) | N/A |
-| 45 | [Diego Corredor](http://twitter.com/search?q=Diego+Corredor) | N/A |
-| 46 | [Carolina Corcho](http://twitter.com/search?q=Carolina+Corcho) | N/A |
-| 47 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 48 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 49 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
-| 50 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
+| 22 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 23 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
+| 24 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
+| 25 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 26 | [Aval](http://twitter.com/search?q=Aval) | N/A |
+| 27 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
+| 28 | [Murillo Toro](http://twitter.com/search?q=Murillo+Toro) | N/A |
+| 29 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 30 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 31 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 32 | [Sálvame](http://twitter.com/search?q=S%c3%a1lvame) | N/A |
+| 33 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
+| 34 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 35 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 36 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 37 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
+| 38 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
+| 39 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 40 | [Daniel Quintero](http://twitter.com/search?q=Daniel+Quintero) | N/A |
+| 41 | [Shakira y JLo](http://twitter.com/search?q=Shakira+y+JLo) | N/A |
+| 42 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 43 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 44 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
+| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 46 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 47 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 48 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
+| 49 | [Anahí](http://twitter.com/search?q=Anah%c3%ad) | N/A |
+| 50 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
 
 
 

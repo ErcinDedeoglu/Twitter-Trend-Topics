@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-14 01:44:11 UTC`
+📆 Last Updated: `2023-02-14 02:41:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
-| 2 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
-| 3 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
-| 4 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 5 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
-| 6 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
-| 7 | [Troyansky](http://twitter.com/search?q=Troyansky) | N/A |
-| 8 | [Donda](http://twitter.com/search?q=Donda) | N/A |
+| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 2 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
+| 3 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 4 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 5 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
+| 6 | [MARCOS CON EL PERRITO](http://twitter.com/search?q=MARCOS+CON+EL+PERRITO) | N/A |
+| 7 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
+| 8 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
 | 9 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 10 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 11 | [Entran 2](http://twitter.com/search?q=Entran+2) | N/A |
-| 12 | [#mileienmasrealidad](http://twitter.com/search?q=%23mileienmasrealidad) | N/A |
-| 13 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 14 | [Marley](http://twitter.com/search?q=Marley) | N/A |
-| 15 | [Acosta](http://twitter.com/search?q=Acosta) | N/A |
-| 16 | [Rodrigo Mora](http://twitter.com/search?q=Rodrigo+Mora) | N/A |
-| 17 | [Juli Puente](http://twitter.com/search?q=Juli+Puente) | N/A |
-| 18 | [Yeyo](http://twitter.com/search?q=Yeyo) | N/A |
-| 19 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
-| 20 | [Lema](http://twitter.com/search?q=Lema) | N/A |
-| 21 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 22 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 23 | [#LargoLaCarrera](http://twitter.com/search?q=%23LargoLaCarrera) | N/A |
-| 24 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
-| 25 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
-| 26 | [Ascacibar](http://twitter.com/search?q=Ascacibar) | N/A |
-| 27 | [Canale](http://twitter.com/search?q=Canale) | N/A |
-| 28 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
-| 29 | [Lizardo](http://twitter.com/search?q=Lizardo) | N/A |
-| 30 | [Rollheiser](http://twitter.com/search?q=Rollheiser) | N/A |
-| 31 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 32 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 33 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
-| 34 | [INADI](http://twitter.com/search?q=INADI) | N/A |
-| 35 | [pablo agustin](http://twitter.com/search?q=pablo+agustin) | N/A |
-| 36 | [#GranHermanoArgentina](http://twitter.com/search?q=%23GranHermanoArgentina) | N/A |
-| 37 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 38 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
-| 39 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 40 | [Godoy](http://twitter.com/search?q=Godoy) | N/A |
-| 41 | [Changuito](http://twitter.com/search?q=Changuito) | N/A |
-| 42 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
-| 43 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 45 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
-| 46 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 47 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 48 | [marti benza](http://twitter.com/search?q=marti+benza) | N/A |
-| 49 | [Aued](http://twitter.com/search?q=Aued) | N/A |
-| 50 | [Telefe](http://twitter.com/search?q=Telefe) | N/A |
+| 10 | [#GranHernano](http://twitter.com/search?q=%23GranHernano) | N/A |
+| 11 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 12 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 13 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 14 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 15 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 16 | [Entran 2](http://twitter.com/search?q=Entran+2) | N/A |
+| 17 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
+| 18 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 19 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 20 | [PERROS](http://twitter.com/search?q=PERROS) | N/A |
+| 21 | [pablo agustin](http://twitter.com/search?q=pablo+agustin) | N/A |
+| 22 | [Troyansky](http://twitter.com/search?q=Troyansky) | N/A |
+| 23 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
+| 24 | [Donda](http://twitter.com/search?q=Donda) | N/A |
+| 25 | [Rodrigo Mora](http://twitter.com/search?q=Rodrigo+Mora) | N/A |
+| 26 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 27 | [Que Julieta](http://twitter.com/search?q=Que+Julieta) | N/A |
+| 28 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 29 | [Julieta y Daniela](http://twitter.com/search?q=Julieta+y+Daniela) | N/A |
+| 30 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
+| 31 | [Juli Puente](http://twitter.com/search?q=Juli+Puente) | N/A |
+| 32 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
+| 33 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
+| 34 | [Mañana 14](http://twitter.com/search?q=Ma%c3%b1ana+14) | N/A |
+| 35 | [Gaston](http://twitter.com/search?q=Gaston) | N/A |
+| 36 | [Lema](http://twitter.com/search?q=Lema) | N/A |
+| 37 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
+| 38 | [Alfa y Ariel](http://twitter.com/search?q=Alfa+y+Ariel) | Alfa y Ariel is a Spanish phrase that translates to Alpha and Ariel. It is often used as a way to refer to two people who are close friends or partners. |
+| 39 | [Lizardo](http://twitter.com/search?q=Lizardo) | N/A |
+| 40 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 41 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 42 | [Yeyo](http://twitter.com/search?q=Yeyo) | N/A |
+| 43 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 44 | [Ascacibar](http://twitter.com/search?q=Ascacibar) | N/A |
+| 45 | [Rollheiser](http://twitter.com/search?q=Rollheiser) | N/A |
+| 46 | [Canale](http://twitter.com/search?q=Canale) | N/A |
+| 47 | [Piatti](http://twitter.com/search?q=Piatti) | N/A |
+| 48 | [Zapiola](http://twitter.com/search?q=Zapiola) | N/A |
+| 49 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 50 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
 
 
 
