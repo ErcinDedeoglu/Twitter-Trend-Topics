@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-14 10:17:35 UTC`
+📆 Last Updated: `2023-02-14 11:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Germany](</Germany>)
 | 7 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
 | 8 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
 | 9 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 10 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
+| 10 | [regierungsauftrag](http://twitter.com/search?q=regierungsauftrag) | N/A |
 | 11 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 12 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 13 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 14 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 12 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 13 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 14 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
 | 15 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 17 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
-| 18 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 16 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 17 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 18 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 19 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 20 | ['Gegensätze'](http://twitter.com/search?q=%27Gegens%c3%a4tze%27) | N/A |
+| 20 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
 | 21 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 22 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 22 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 23 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
-| 24 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 25 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 24 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 25 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
 | 26 | [Wählerwille](http://twitter.com/search?q=W%c3%a4hlerwille) | N/A |
 | 27 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 28 | [Interesse der Menschen](http://twitter.com/search?q=Interesse+der+Menschen) | N/A |
-| 29 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 30 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 32 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 33 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 34 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 35 | [Varwick](http://twitter.com/search?q=Varwick) | N/A |
-| 36 | [Tag der Liebe](http://twitter.com/search?q=Tag+der+Liebe) | N/A |
-| 37 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 38 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 39 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 40 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 28 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 29 | [Varwick](http://twitter.com/search?q=Varwick) | N/A |
+| 30 | [Interesse der Menschen](http://twitter.com/search?q=Interesse+der+Menschen) | N/A |
+| 31 | [Tag der Liebe](http://twitter.com/search?q=Tag+der+Liebe) | N/A |
+| 32 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 33 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 34 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 35 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 36 | ['Gegensätze'](http://twitter.com/search?q=%27Gegens%c3%a4tze%27) | N/A |
+| 37 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 38 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
+| 39 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 40 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
 | 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 42 | [Liberalismus](http://twitter.com/search?q=Liberalismus) | N/A |
-| 43 | [Promi](http://twitter.com/search?q=Promi) | N/A |
-| 44 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 45 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 46 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 47 | [Liebsten](http://twitter.com/search?q=Liebsten) | N/A |
-| 48 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 49 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 50 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 42 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 43 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 44 | [Promi](http://twitter.com/search?q=Promi) | N/A |
+| 45 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
+| 46 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 47 | [Liberalismus](http://twitter.com/search?q=Liberalismus) | N/A |
+| 48 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 49 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 50 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
 
 
 

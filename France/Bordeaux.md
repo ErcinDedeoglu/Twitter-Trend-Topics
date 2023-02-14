@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-14 10:17:33 UTC`
+📆 Last Updated: `2023-02-14 11:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,30 +16,38 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SaintValentin](http://twitter.com/search?q=%23SaintValentin) | N/A |
-| 2 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
-| 3 | [#PSGDay](http://twitter.com/search?q=%23PSGDay) | N/A |
-| 4 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 5 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
+| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 3 | [#coeuraveclesdoigts](http://twitter.com/search?q=%23coeuraveclesdoigts) | N/A |
+| 4 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 5 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
 | 6 | [Ignatius Ganago](http://twitter.com/search?q=Ignatius+Ganago) | N/A |
 | 7 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 8 | [JOUR DE GUERRE](http://twitter.com/search?q=JOUR+DE+GUERRE) | N/A |
-| 9 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
-| 10 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
-| 13 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 14 | [PSG - Bayern](http://twitter.com/search?q=PSG+-+Bayern) | N/A |
-| 15 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 16 | [St Jacques](http://twitter.com/search?q=St+Jacques) | N/A |
-| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 19 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 20 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
-| 21 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 22 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 23 | [#chômage](http://twitter.com/search?q=%23ch%c3%b4mage) | N/A |
-| 24 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 25 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
+| 8 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
+| 9 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
+| 10 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
+| 11 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
+| 12 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
+| 13 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 14 | [JOUR DE GUERRE](http://twitter.com/search?q=JOUR+DE+GUERRE) | N/A |
+| 15 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 16 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
+| 17 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
+| 18 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 19 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 20 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 21 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 22 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 23 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 24 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 25 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 26 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 27 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
+| 28 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 29 | [#chômage](http://twitter.com/search?q=%23ch%c3%b4mage) | N/A |
+| 30 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 31 | [#ReformedesRetraite](http://twitter.com/search?q=%23ReformedesRetraite) | N/A |
+| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 33 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
 
 
 

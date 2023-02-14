@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-14 10:17:49 UTC`
+📆 Last Updated: `2023-02-14 11:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
-| 2 | [#JoshCullen](http://twitter.com/search?q=%23JoshCullen) | N/A |
-| 3 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 4 | [#안녕_우리_호라이즌](http://twitter.com/search?q=%23%ec%95%88%eb%85%95_%ec%9a%b0%eb%a6%ac_%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 5 | [#TeddyBear](http://twitter.com/search?q=%23TeddyBear) | N/A |
+| 1 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
+| 2 | [#DreamMakerSeatedForHORI7ON](http://twitter.com/search?q=%23DreamMakerSeatedForHORI7ON) | N/A |
+| 3 | [KDLEX VALENTINE SPECIAL](http://twitter.com/search?q=KDLEX+VALENTINE+SPECIAL) | N/A |
+| 4 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
+| 5 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
 | 6 | [JOURNEY WITH HORI7ON BEGINS](http://twitter.com/search?q=JOURNEY+WITH+HORI7ON+BEGINS) | N/A |
-| 7 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 8 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 9 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
-| 10 | [#MaHeartLima](http://twitter.com/search?q=%23MaHeartLima) | N/A |
-| 11 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 12 | [TWODAY IS HEARTSDAY](http://twitter.com/search?q=TWODAY+IS+HEARTSDAY) | N/A |
-| 13 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 14 | [JUNGKOOK ON SUCHWITA](http://twitter.com/search?q=JUNGKOOK+ON+SUCHWITA) | N/A |
-| 15 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 16 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 17 | [Bang](http://twitter.com/search?q=Bang) | N/A |
-| 18 | [LoveTakesBravery WITH EIAN](http://twitter.com/search?q=LoveTakesBravery+WITH+EIAN) | N/A |
-| 19 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 21 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 22 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 23 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 24 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 25 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 26 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
-| 27 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
-| 28 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 29 | [Happy Hearts Day](http://twitter.com/search?q=Happy+Hearts+Day) | N/A |
-| 30 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 31 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 32 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 33 | [Araw](http://twitter.com/search?q=Araw) | N/A |
-| 34 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 35 | [Han Jisung](http://twitter.com/search?q=Han+Jisung) | N/A |
-| 36 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 37 | [#MICHAELKORSxDAHYUN](http://twitter.com/search?q=%23MICHAELKORSxDAHYUN) | N/A |
-| 38 | [#TheWriteOneFirstKiss](http://twitter.com/search?q=%23TheWriteOneFirstKiss) | N/A |
-| 39 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
-| 40 | [#STAYC](http://twitter.com/search?q=%23STAYC) | N/A |
-| 41 | [#HORI7ON_JEROMY](http://twitter.com/search?q=%23HORI7ON_JEROMY) | N/A |
-| 42 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
-| 43 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 44 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 45 | [#ARoseFromTheRose](http://twitter.com/search?q=%23ARoseFromTheRose) | N/A |
-| 46 | [#HORI7ON_KIM](http://twitter.com/search?q=%23HORI7ON_KIM) | N/A |
-| 47 | [#DNA_CYPHER](http://twitter.com/search?q=%23DNA_CYPHER) | N/A |
-| 48 | [#ALAMATAnniversarySerenade](http://twitter.com/search?q=%23ALAMATAnniversarySerenade) | N/A |
-| 49 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
+| 7 | [#안녕_우리_호라이즌](http://twitter.com/search?q=%23%ec%95%88%eb%85%95_%ec%9a%b0%eb%a6%ac_%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 8 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 10 | [#Hiraya](http://twitter.com/search?q=%23Hiraya) | N/A |
+| 11 | [#TLF7](http://twitter.com/search?q=%23TLF7) | N/A |
+| 12 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
+| 13 | [JANELLA SALVADOR FOR OLAY](http://twitter.com/search?q=JANELLA+SALVADOR+FOR+OLAY) | N/A |
+| 14 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 15 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 16 | [The Write One First Kiss](http://twitter.com/search?q=The+Write+One+First+Kiss) | N/A |
+| 17 | [TWODAY IS HEARTSDAY](http://twitter.com/search?q=TWODAY+IS+HEARTSDAY) | N/A |
+| 18 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 19 | [MARCUSpread the Love](http://twitter.com/search?q=MARCUSpread+the+Love) | N/A |
+| 20 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 21 | [JUNGKOOK ON SUCHWITA](http://twitter.com/search?q=JUNGKOOK+ON+SUCHWITA) | N/A |
+| 22 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 23 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 24 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 25 | [Bang](http://twitter.com/search?q=Bang) | N/A |
+| 26 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 27 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 28 | [LoveTakesBravery WITH EIAN](http://twitter.com/search?q=LoveTakesBravery+WITH+EIAN) | N/A |
+| 29 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 30 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 31 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 32 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 33 | [marie claire](http://twitter.com/search?q=marie+claire) | Marie Claire is a French-language women's magazine that was first published in 1937. It is now published in over 30 countries and focuses on fashion, beauty, health, and lifestyle topics. The name Marie Claire translates to "Mary of the Clarity" in English. |
+| 34 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 35 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 36 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 37 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 38 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 39 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
+| 40 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 41 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
+| 42 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 43 | [#MICHAELKORSxDAHYUN](http://twitter.com/search?q=%23MICHAELKORSxDAHYUN) | N/A |
+| 44 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 45 | [#TeddyBear](http://twitter.com/search?q=%23TeddyBear) | N/A |
+| 46 | [#BackToSlayWithOlay](http://twitter.com/search?q=%23BackToSlayWithOlay) | N/A |
+| 47 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
+| 48 | [#MaHeartLima](http://twitter.com/search?q=%23MaHeartLima) | N/A |
+| 49 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
+| 50 | [#SeasonalHiatus](http://twitter.com/search?q=%23SeasonalHiatus) | N/A |
 
 
 

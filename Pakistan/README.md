@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-14 10:18:22 UTC`
+📆 Last Updated: `2023-02-14 11:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Pakistan
 | 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 4 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
 | 5 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
-| 6 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 7 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 8 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 6 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 7 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 8 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 9 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 10 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 11 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 12 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
-| 13 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 14 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 15 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
-| 16 | [what a match](http://twitter.com/search?q=what+a+match) | N/A |
+| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 11 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
+| 12 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 13 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
+| 14 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 15 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
+| 16 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
 | 17 | [Muavia Founder of Navel](http://twitter.com/search?q=Muavia+Founder+of+Navel) | N/A |
-| 18 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 19 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
-| 20 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
-| 21 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 18 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
+| 19 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 20 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 21 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
 | 22 | [RIP SIR](http://twitter.com/search?q=RIP+SIR) | N/A |
-| 23 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 24 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 25 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 26 | [Mohammad Hafeez](http://twitter.com/search?q=Mohammad+Hafeez) | N/A |
-| 27 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
-| 28 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 29 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 30 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 31 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 32 | [Dono](http://twitter.com/search?q=Dono) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 35 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 36 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 37 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 38 | [Chal](http://twitter.com/search?q=Chal) | N/A |
-| 39 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
-| 40 | [Learning](http://twitter.com/search?q=Learning) | N/A |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [Mian](http://twitter.com/search?q=Mian) | N/A |
-| 43 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
-| 44 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 45 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
-| 46 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
-| 47 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Very Nice](http://twitter.com/search?q=Very+Nice) | N/A |
-| 50 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
+| 23 | [Mohammad Hafeez](http://twitter.com/search?q=Mohammad+Hafeez) | N/A |
+| 24 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
+| 25 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 26 | [Aftab Iqbal](http://twitter.com/search?q=Aftab+Iqbal) | N/A |
+| 27 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 28 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 29 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 30 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
+| 31 | [cpec](http://twitter.com/search?q=cpec) | N/A |
+| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 33 | [very nice](http://twitter.com/search?q=very+nice) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
+| 36 | [Chal](http://twitter.com/search?q=Chal) | N/A |
+| 37 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 38 | [German](http://twitter.com/search?q=German) | N/A |
+| 39 | [England](http://twitter.com/search?q=England) | N/A |
+| 40 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
+| 41 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 42 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 43 | [Mian](http://twitter.com/search?q=Mian) | N/A |
+| 44 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 45 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 46 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 47 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 48 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
+| 49 | [#داماد_ہائیکورٹ](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%85%d8%a7%d8%af_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9) | N/A |
+| 50 | [#LQvMS](http://twitter.com/search?q=%23LQvMS) | N/A |
 
 
 

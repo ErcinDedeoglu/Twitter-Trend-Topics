@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-14 10:17:18 UTC`
+📆 Last Updated: `2023-02-14 11:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,43 +18,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 2 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 5 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 6 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 4 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 5 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 7 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 8 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
-| 9 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
-| 10 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 11 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 12 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
-| 13 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 14 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
-| 15 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
-| 16 | [Misty](http://twitter.com/search?q=Misty) | N/A |
-| 17 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 18 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 19 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 20 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 21 | [Edit](http://twitter.com/search?q=Edit) | N/A |
-| 22 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 23 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 24 | [#Loveisintheair](http://twitter.com/search?q=%23Loveisintheair) | N/A |
-| 25 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
-| 26 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 27 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 28 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
-| 29 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 30 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
-| 31 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 32 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 33 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 34 | [#Romance](http://twitter.com/search?q=%23Romance) | N/A |
-| 35 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
-| 36 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 37 | [#loveislove](http://twitter.com/search?q=%23loveislove) | N/A |
-| 38 | [#WelshTop10](http://twitter.com/search?q=%23WelshTop10) | N/A |
-| 39 | [#HeartUnions](http://twitter.com/search?q=%23HeartUnions) | N/A |
-| 40 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 8 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 9 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 10 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 11 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 12 | [BUILD MONEY CONFIDENCE](http://twitter.com/search?q=BUILD+MONEY+CONFIDENCE) | N/A |
+| 13 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 14 | [Romance](http://twitter.com/search?q=Romance) | Romance is a feeling of excitement and mystery associated with love. It is often described as a strong emotional attraction between two people, characterized by intimacy, passion, and commitment. In English, it is often used to refer to a romantic relationship between two people. |
+| 15 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
+| 16 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 17 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
+| 18 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
+| 19 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
+| 20 | [Feargal](http://twitter.com/search?q=Feargal) | N/A |
+| 21 | [Misty](http://twitter.com/search?q=Misty) | N/A |
+| 22 | [caroline polachek](http://twitter.com/search?q=caroline+polachek) | N/A |
+| 23 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
+| 24 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 25 | [Voter](http://twitter.com/search?q=Voter) | N/A |
+| 26 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 27 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 28 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 29 | [Edit](http://twitter.com/search?q=Edit) | N/A |
+| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 31 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 32 | [#Loveisintheair](http://twitter.com/search?q=%23Loveisintheair) | N/A |
+| 33 | [#UCUstrike](http://twitter.com/search?q=%23UCUstrike) | N/A |
+| 34 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 35 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 36 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 37 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 38 | [#RespectRomFic](http://twitter.com/search?q=%23RespectRomFic) | N/A |
+| 39 | [#ToriesOut222](http://twitter.com/search?q=%23ToriesOut222) | N/A |
+| 40 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
+| 41 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
+| 42 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 43 | [#vixen](http://twitter.com/search?q=%23vixen) | N/A |
+| 44 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 45 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 46 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 47 | [#ShareTheLove](http://twitter.com/search?q=%23ShareTheLove) | N/A |
+| 48 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 49 | [#loveislove](http://twitter.com/search?q=%23loveislove) | N/A |
 
 
 

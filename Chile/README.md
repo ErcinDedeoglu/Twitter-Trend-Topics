@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-14 10:18:17 UTC`
+📆 Last Updated: `2023-02-14 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#vamoscolocolo](http://twitter.com/search?q=%23vamoscolocolo) | N/A |
+| 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
 | 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
-| 4 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 5 | [#alarucaconcoolbet](http://twitter.com/search?q=%23alarucaconcoolbet) | N/A |
+| 3 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 4 | [yerko puchento](http://twitter.com/search?q=yerko+puchento) | N/A |
+| 5 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
 | 6 | [LEZCANO](http://twitter.com/search?q=LEZCANO) | N/A |
-| 7 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 8 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 10 | [ñublense](http://twitter.com/search?q=%c3%b1ublense) | N/A |
-| 11 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 12 | [ramiro gonzález](http://twitter.com/search?q=ramiro+gonz%c3%a1lez) | N/A |
+| 7 | [#alarucaconcoolbet](http://twitter.com/search?q=%23alarucaconcoolbet) | N/A |
+| 8 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 9 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 10 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 12 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
 | 13 | [#yosoychv](http://twitter.com/search?q=%23yosoychv) | N/A |
 | 14 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 15 | [#ccvsnubxtntsports](http://twitter.com/search?q=%23ccvsnubxtntsports) | N/A |
-| 16 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 17 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 15 | [ramiro gonzález](http://twitter.com/search?q=ramiro+gonz%c3%a1lez) | N/A |
+| 16 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 17 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 18 | [Daniel Alcaino](http://twitter.com/search?q=Daniel+Alcaino) | N/A |
-| 19 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [burdisso](http://twitter.com/search?q=burdisso) | N/A |
-| 22 | [Peñaflor](http://twitter.com/search?q=Pe%c3%b1aflor) | N/A |
-| 23 | [wiemberg](http://twitter.com/search?q=wiemberg) | N/A |
-| 24 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [Peñaflor](http://twitter.com/search?q=Pe%c3%b1aflor) | N/A |
+| 21 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 22 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 24 | [bolados](http://twitter.com/search?q=bolados) | N/A |
 | 25 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 26 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 27 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 28 | [vilches](http://twitter.com/search?q=vilches) | N/A |
-| 29 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 30 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 31 | [rovira](http://twitter.com/search?q=rovira) | N/A |
-| 32 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 33 | [lorenzo reyes](http://twitter.com/search?q=lorenzo+reyes) | N/A |
-| 34 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 35 | [Jona](http://twitter.com/search?q=Jona) | N/A |
+| 26 | [vilches](http://twitter.com/search?q=vilches) | N/A |
+| 27 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 28 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
+| 29 | [Wiemberg](http://twitter.com/search?q=Wiemberg) | N/A |
+| 30 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 31 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
+| 32 | [falcón](http://twitter.com/search?q=falc%c3%b3n) | N/A |
+| 33 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 35 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 36 | [Violeta Parra](http://twitter.com/search?q=Violeta+Parra) | N/A |
-| 37 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 38 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 39 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 40 | [ampuero](http://twitter.com/search?q=ampuero) | N/A |
-| 41 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 42 | [11 UTM](http://twitter.com/search?q=11+UTM) | N/A |
-| 43 | [jaime garcía](http://twitter.com/search?q=jaime+garc%c3%ada) | N/A |
-| 44 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 45 | [barrio yungay](http://twitter.com/search?q=barrio+yungay) | N/A |
-| 46 | [cristian castro](http://twitter.com/search?q=cristian+castro) | N/A |
-| 47 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 48 | [Mauricio correa](http://twitter.com/search?q=Mauricio+correa) | N/A |
-| 49 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 50 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 37 | [Jona](http://twitter.com/search?q=Jona) | N/A |
+| 38 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 39 | [11 UTM](http://twitter.com/search?q=11+UTM) | N/A |
+| 40 | [Lorenzo Reyes](http://twitter.com/search?q=Lorenzo+Reyes) | N/A |
+| 41 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 42 | [barrio yungay](http://twitter.com/search?q=barrio+yungay) | N/A |
+| 43 | [Mauricio correa](http://twitter.com/search?q=Mauricio+correa) | N/A |
+| 44 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 45 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 46 | [pavez](http://twitter.com/search?q=pavez) | N/A |
+| 47 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 48 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 49 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 50 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
 
 
 

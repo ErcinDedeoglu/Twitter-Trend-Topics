@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-14 10:17:26 UTC`
+📆 Last Updated: `2023-02-14 11:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 7 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
 | 8 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
 | 9 | [#OVNIS](http://twitter.com/search?q=%23OVNIS) | N/A |
-| 10 | [#NarcoGobierno](http://twitter.com/search?q=%23NarcoGobierno) | N/A |
-| 11 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 12 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 13 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 14 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 15 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 11 | [#Narcogobierno](http://twitter.com/search?q=%23Narcogobierno) | N/A |
+| 12 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 13 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 15 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
 | 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 17 | [Bran](http://twitter.com/search?q=Bran) | N/A |
-| 18 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 19 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 18 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 19 | [Albania](http://twitter.com/search?q=Albania) | N/A |
 | 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 21 | [baldor bermeo](http://twitter.com/search?q=baldor+bermeo) | N/A |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 22 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
-| 25 | [albaneses](http://twitter.com/search?q=albaneses) | N/A |
-| 26 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
-| 27 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 28 | [Keviam Cazo](http://twitter.com/search?q=Keviam+Cazo) | N/A |
-| 29 | [justin cuero](http://twitter.com/search?q=justin+cuero) | N/A |
-| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [consejo de la judicatura](http://twitter.com/search?q=consejo+de+la+judicatura) | N/A |
-| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 33 | [wilman terán](http://twitter.com/search?q=wilman+ter%c3%a1n) | N/A |
+| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 25 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
+| 26 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 27 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
+| 28 | [keviam cazo](http://twitter.com/search?q=keviam+cazo) | N/A |
+| 29 | [consejo de la judicatura](http://twitter.com/search?q=consejo+de+la+judicatura) | N/A |
+| 30 | [Albaneses](http://twitter.com/search?q=Albaneses) | N/A |
+| 31 | [wilman terán](http://twitter.com/search?q=wilman+ter%c3%a1n) | N/A |
+| 32 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 33 | [justin cuero](http://twitter.com/search?q=justin+cuero) | N/A |
 | 34 | [ponce enríquez](http://twitter.com/search?q=ponce+enr%c3%adquez) | N/A |
-| 35 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 36 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
-| 37 | [Interior](http://twitter.com/search?q=Interior) | N/A |
-| 38 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 39 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
-| 40 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 41 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 42 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 43 | [Lárgate](http://twitter.com/search?q=L%c3%a1rgate) | N/A |
-| 44 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 45 | [Patricio Carrillo](http://twitter.com/search?q=Patricio+Carrillo) | N/A |
-| 46 | [richard carapaz](http://twitter.com/search?q=richard+carapaz) | N/A |
-| 47 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
-| 48 | [Gilmar Napa](http://twitter.com/search?q=Gilmar+Napa) | N/A |
-| 49 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 50 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 35 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 37 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 38 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 39 | [vivanco](http://twitter.com/search?q=vivanco) | N/A |
+| 40 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 41 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 42 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
+| 43 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 44 | [Patricio Carrillo](http://twitter.com/search?q=Patricio+Carrillo) | N/A |
+| 45 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 46 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 47 | [gilmar napa](http://twitter.com/search?q=gilmar+napa) | N/A |
+| 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 49 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
+| 50 | [Defendiendo](http://twitter.com/search?q=Defendiendo) | N/A |
 
 
 
