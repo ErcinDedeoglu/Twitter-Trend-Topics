@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-14 15:16:19 UTC`
+📆 Last Updated: `2023-02-14 16:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
-| 3 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 2 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 3 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
 | 4 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
 | 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 6 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 7 | [#FiscaliaCorrupta](http://twitter.com/search?q=%23FiscaliaCorrupta) | N/A |
-| 8 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 9 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 10 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 7 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 8 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 9 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 10 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 11 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
 | 12 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
 | 13 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 14 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
-| 15 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 16 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
-| 17 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 19 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
-| 20 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 21 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
-| 22 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 24 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
-| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 26 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
-| 27 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 28 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 29 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
-| 30 | [Fabi-ou](http://twitter.com/search?q=Fabi-ou) | N/A |
-| 31 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 32 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 33 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
-| 34 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 36 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
-| 37 | [Rudolf](http://twitter.com/search?q=Rudolf) | N/A |
-| 38 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 39 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
-| 40 | [Sura](http://twitter.com/search?q=Sura) | N/A |
-| 41 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 42 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
-| 43 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 44 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
-| 45 | [Millos](http://twitter.com/search?q=Millos) | N/A |
-| 46 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 47 | [Clan Cotes](http://twitter.com/search?q=Clan+Cotes) | N/A |
-| 48 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
-| 49 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
-| 50 | [Shakira y Jlo](http://twitter.com/search?q=Shakira+y+Jlo) | N/A |
+| 14 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 15 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
+| 16 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 18 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
+| 19 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
+| 20 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 21 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
+| 22 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 23 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
+| 24 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 25 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 26 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 27 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 28 | [Alejandro Montenegro](http://twitter.com/search?q=Alejandro+Montenegro) | N/A |
+| 29 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 30 | [Fabi Ou](http://twitter.com/search?q=Fabi+Ou) | N/A |
+| 31 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 32 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
+| 33 | [mañana 14](http://twitter.com/search?q=ma%c3%b1ana+14) | N/A |
+| 34 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
+| 35 | [Sura](http://twitter.com/search?q=Sura) | N/A |
+| 36 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 37 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
+| 38 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 39 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
+| 40 | [gamero](http://twitter.com/search?q=gamero) | N/A |
+| 41 | [Yo Petro](http://twitter.com/search?q=Yo+Petro) | N/A |
+| 42 | [Rudolf](http://twitter.com/search?q=Rudolf) | N/A |
+| 43 | [Ana Catalina Noguera](http://twitter.com/search?q=Ana+Catalina+Noguera) | N/A |
+| 44 | [Cotes](http://twitter.com/search?q=Cotes) | N/A |
+| 45 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 46 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 47 | [Parque Nacional](http://twitter.com/search?q=Parque+Nacional) | N/A |
+| 48 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
+| 49 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 50 | [felices 96](http://twitter.com/search?q=felices+96) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-14 15:16:16 UTC`
+📆 Last Updated: `2023-02-14 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
 | 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 3 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 4 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 4 | [#BakeryFilmsOrSongs](http://twitter.com/search?q=%23BakeryFilmsOrSongs) | N/A |
 | 5 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 6 | [#countdown](http://twitter.com/search?q=%23countdown) | N/A |
+| 6 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 7 | [#LoveAO](http://twitter.com/search?q=%23LoveAO) | N/A |
-| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 9 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 8 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
+| 9 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 10 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
-| 11 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 12 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 12 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
 | 13 | [Margate](http://twitter.com/search?q=Margate) | N/A |
 | 14 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 15 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 16 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 17 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
-| 18 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 19 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 20 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 21 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 22 | [Multi](http://twitter.com/search?q=Multi) | N/A |
-| 23 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 24 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 25 | [chris sutton](http://twitter.com/search?q=chris+sutton) | N/A |
-| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 27 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 28 | [Opal Fruits](http://twitter.com/search?q=Opal+Fruits) | N/A |
-| 29 | [Kevin Keegan](http://twitter.com/search?q=Kevin+Keegan) | N/A |
-| 30 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 31 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 32 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 33 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 35 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 36 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 37 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 38 | [remainers](http://twitter.com/search?q=remainers) | N/A |
-| 39 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 40 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
-| 41 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 42 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 43 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 44 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 45 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 46 | [#nufcballot](http://twitter.com/search?q=%23nufcballot) | N/A |
-| 47 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 48 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
+| 15 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 16 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 17 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 18 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 19 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 20 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 21 | [Chris Sutton](http://twitter.com/search?q=Chris+Sutton) | N/A |
+| 22 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 23 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 26 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 27 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 28 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 29 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 30 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 31 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 32 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 33 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 34 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
+| 35 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 36 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
+| 37 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 38 | [#countdown](http://twitter.com/search?q=%23countdown) | N/A |
+| 39 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
+| 40 | [#nufcballot](http://twitter.com/search?q=%23nufcballot) | N/A |
+| 41 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 42 | [#DonationDay](http://twitter.com/search?q=%23DonationDay) | N/A |
+| 43 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 44 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 45 | [#WelshOpen](http://twitter.com/search?q=%23WelshOpen) | N/A |
+| 46 | [#counciltax](http://twitter.com/search?q=%23counciltax) | N/A |
+| 47 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#selflove](http://twitter.com/search?q=%23selflove) | N/A |
+| 50 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
 
 
 

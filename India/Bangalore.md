@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-02-14 15:16:50 UTC`
+📆 Last Updated: `2023-02-14 16:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#d56uncoversonfeb16](http://twitter.com/search?q=%23d56uncoversonfeb16) | N/A |
-| 2 | [#GameOver](http://twitter.com/search?q=%23GameOver) | N/A |
-| 3 | [#JPNaddaInMeghalaya](http://twitter.com/search?q=%23JPNaddaInMeghalaya) | N/A |
-| 4 | [#theAIvalentine](http://twitter.com/search?q=%23theAIvalentine) | N/A |
-| 5 | [#7thJulyDreamGirl2](http://twitter.com/search?q=%237thJulyDreamGirl2) | N/A |
-| 6 | [World BFSI Awards 2023](http://twitter.com/search?q=World+BFSI+Awards+2023) | N/A |
-| 7 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 8 | [Chetan Sharma](http://twitter.com/search?q=Chetan+Sharma) | Chetan Sharma is a common Indian name. It is derived from the Sanskrit words "chetana" (consciousness) and "sharma" (happiness). The literal meaning of the name is "one who brings happiness through consciousness". |
-| 9 | [AGUSTD](http://twitter.com/search?q=AGUSTD) | N/A |
-| 10 | [10days to selfiee](http://twitter.com/search?q=10days+to+selfiee) | N/A |
-| 11 | [Minus One](http://twitter.com/search?q=Minus+One) | N/A |
-| 12 | [Zee News](http://twitter.com/search?q=Zee+News) | N/A |
-| 13 | [ETHEREAL LOVE TEJRAN](http://twitter.com/search?q=ETHEREAL+LOVE+TEJRAN) | N/A |
-| 14 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 15 | [Shreyas Iyer](http://twitter.com/search?q=Shreyas+Iyer) | N/A |
-| 16 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 17 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
-| 18 | [2 YRS OF SIDNAAZ KI CHAMPI](http://twitter.com/search?q=2+YRS+OF+SIDNAAZ+KI+CHAMPI) | N/A |
-| 19 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 20 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 21 | [CBIDelay Injustice 2Sushant](http://twitter.com/search?q=CBIDelay+Injustice+2Sushant) | N/A |
-| 22 | [Indira Gandhi](http://twitter.com/search?q=Indira+Gandhi) | N/A |
-| 23 | [कृष्णा पूनिया](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 24 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 25 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 26 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 27 | [Arnab](http://twitter.com/search?q=Arnab) | N/A |
-| 28 | [नेहा जैन](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
-| 29 | [दीक्षित परिवार](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 31 | [Survey](http://twitter.com/search?q=Survey) | N/A |
-| 32 | [Lord Hanuman](http://twitter.com/search?q=Lord+Hanuman) | N/A |
-| 33 | [Blue Tick](http://twitter.com/search?q=Blue+Tick) | N/A |
-| 34 | [Delhi and Mumbai](http://twitter.com/search?q=Delhi+and+Mumbai) | N/A |
-| 35 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 36 | [गरीब परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 37 | [हरियाणा पुलिस](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 2 | [#D56UncoversOnFeb16](http://twitter.com/search?q=%23D56UncoversOnFeb16) | N/A |
+| 3 | [Chetan Sharma](http://twitter.com/search?q=Chetan+Sharma) | Chetan Sharma is a common Indian name. It is derived from the Sanskrit words "chetana" (consciousness) and "sharma" (happiness). The literal meaning of the name is "one who brings happiness through consciousness". |
+| 4 | [#GameOver](http://twitter.com/search?q=%23GameOver) | N/A |
+| 5 | [#JPNaddaInMeghalaya](http://twitter.com/search?q=%23JPNaddaInMeghalaya) | N/A |
+| 6 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 7 | [World BFSI Awards 2023](http://twitter.com/search?q=World+BFSI+Awards+2023) | N/A |
+| 8 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 9 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
+| 10 | [10DAYS TO SELFIEE](http://twitter.com/search?q=10DAYS+TO+SELFIEE) | N/A |
+| 11 | [Ganguly](http://twitter.com/search?q=Ganguly) | N/A |
+| 12 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 13 | [Zee News](http://twitter.com/search?q=Zee+News) | N/A |
+| 14 | [ETHEREAL LOVE TEJRAN](http://twitter.com/search?q=ETHEREAL+LOVE+TEJRAN) | N/A |
+| 15 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 16 | [RRAHELIANS VALENTINE RRAHEL](http://twitter.com/search?q=RRAHELIANS+VALENTINE+RRAHEL) | N/A |
+| 17 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 18 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 19 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 20 | [Minus One](http://twitter.com/search?q=Minus+One) | N/A |
+| 21 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 22 | [Shreyas Iyer](http://twitter.com/search?q=Shreyas+Iyer) | N/A |
+| 23 | [2 YRS OF SIDNAAZ KI CHAMPI](http://twitter.com/search?q=2+YRS+OF+SIDNAAZ+KI+CHAMPI) | N/A |
+| 24 | [CBIDelay Injustice 2Sushant](http://twitter.com/search?q=CBIDelay+Injustice+2Sushant) | N/A |
+| 25 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 26 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 27 | [नेहा जैन](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 28 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 29 | [Survey](http://twitter.com/search?q=Survey) | N/A |
+| 30 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 31 | [गरीब परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 32 | [दीक्षित परिवार](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [Hanuman](http://twitter.com/search?q=Hanuman) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [Delhi and Mumbai](http://twitter.com/search?q=Delhi+and+Mumbai) | N/A |
+| 36 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 37 | [फूलन देवी](http://twitter.com/search?q=%e0%a4%ab%e0%a5%82%e0%a4%b2%e0%a4%a8+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 38 | [कृष्ण गोपाल दीक्षित](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
 | 39 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [कृष्ण गोपाल दीक्षित](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 42 | [#sayitwithimagine](http://twitter.com/search?q=%23sayitwithimagine) | N/A |
-| 43 | [#Juliet2Trailer](http://twitter.com/search?q=%23Juliet2Trailer) | N/A |
-| 44 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 45 | [#bbcindia](http://twitter.com/search?q=%23bbcindia) | N/A |
-| 46 | [#BBCdocumentary](http://twitter.com/search?q=%23BBCdocumentary) | N/A |
-| 47 | [#shehzadatitletrackoutnow](http://twitter.com/search?q=%23shehzadatitletrackoutnow) | N/A |
-| 48 | [#BBCOffice](http://twitter.com/search?q=%23BBCOffice) | N/A |
-| 49 | [#AirIndia](http://twitter.com/search?q=%23AirIndia) | N/A |
-| 50 | [#SamPitroda](http://twitter.com/search?q=%23SamPitroda) | N/A |
+| 40 | [#bbcindia](http://twitter.com/search?q=%23bbcindia) | N/A |
+| 41 | [#Juliet2Trailer](http://twitter.com/search?q=%23Juliet2Trailer) | N/A |
+| 42 | [#BBCdocumentary](http://twitter.com/search?q=%23BBCdocumentary) | N/A |
+| 43 | [#BBCOffice](http://twitter.com/search?q=%23BBCOffice) | N/A |
+| 44 | [#SamPitroda](http://twitter.com/search?q=%23SamPitroda) | N/A |
+| 45 | [#Airbus](http://twitter.com/search?q=%23Airbus) | N/A |
+| 46 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
+| 47 | [#कानपुर_देहात](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0_%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
+| 48 | [#JavedKhanAmrohi](http://twitter.com/search?q=%23JavedKhanAmrohi) | N/A |
+| 49 | [#KanpurDehat](http://twitter.com/search?q=%23KanpurDehat) | N/A |
+| 50 | [#पुलवामा_शहीद_दिवस](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be_%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
 
 
 

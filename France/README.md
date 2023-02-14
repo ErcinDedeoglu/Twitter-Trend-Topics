@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-14 15:17:03 UTC`
+📆 Last Updated: `2023-02-14 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,42 @@ This is top 50 for France
 | 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 2 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
 | 3 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 4 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 5 | [#MerciMacron](http://twitter.com/search?q=%23MerciMacron) | N/A |
-| 6 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
-| 7 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 8 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 9 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 10 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 11 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
-| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 13 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 14 | [Hellfest](http://twitter.com/search?q=Hellfest) | N/A |
+| 4 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 5 | [#mercimacron](http://twitter.com/search?q=%23mercimacron) | N/A |
+| 6 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 7 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 8 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
+| 9 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
+| 10 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 11 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 12 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 14 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
 | 15 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
-| 16 | [Kev Adams](http://twitter.com/search?q=Kev+Adams) | N/A |
-| 17 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 18 | [La Moldavie](http://twitter.com/search?q=La+Moldavie) | N/A |
-| 19 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 20 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 21 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
-| 22 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 23 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 24 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 25 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 26 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 27 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 28 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 29 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
-| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 31 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 32 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
-| 33 | [chassaigne](http://twitter.com/search?q=chassaigne) | N/A |
-| 34 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 35 | [#Oberhof2023](http://twitter.com/search?q=%23Oberhof2023) | N/A |
-| 36 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 37 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 38 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 39 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
-| 40 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 41 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 42 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
-| 43 | [#chomage](http://twitter.com/search?q=%23chomage) | N/A |
-| 44 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
-| 45 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 16 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 17 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 18 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 19 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 20 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
+| 21 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 22 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 23 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
+| 24 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 25 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 26 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 27 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 28 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 29 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
+| 30 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 31 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 32 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 33 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
+| 34 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 35 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
+| 36 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 37 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
+| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 39 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
 
 
 

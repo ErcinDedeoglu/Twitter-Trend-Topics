@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-14 15:16:32 UTC`
+📆 Last Updated: `2023-02-14 16:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 2 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
-| 3 | [YOONGI LIVE](http://twitter.com/search?q=YOONGI+LIVE) | N/A |
-| 4 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 5 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
-| 6 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
-| 7 | [3 Hari](http://twitter.com/search?q=3+Hari) | N/A |
-| 8 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 9 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 10 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
-| 11 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 12 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
-| 13 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
-| 14 | [Sword](http://twitter.com/search?q=Sword) | N/A |
-| 15 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
-| 16 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 17 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 18 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 19 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 21 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 1 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 2 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 3 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 4 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
+| 5 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
+| 6 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 7 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
+| 8 | [YOONGI MARRY ME](http://twitter.com/search?q=YOONGI+MARRY+ME) | N/A |
+| 9 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 10 | [YOONGI LIVE](http://twitter.com/search?q=YOONGI+LIVE) | N/A |
+| 11 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 12 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 13 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
+| 14 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
+| 15 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
+| 16 | [Sword](http://twitter.com/search?q=Sword) | N/A |
+| 17 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 18 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 19 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 20 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 22 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 23 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
-| 24 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 25 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 26 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
-| 27 | [Doneeee](http://twitter.com/search?q=Doneeee) | N/A |
-| 28 | [Coklat](http://twitter.com/search?q=Coklat) | N/A |
-| 29 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
-| 30 | [Indomaret](http://twitter.com/search?q=Indomaret) | N/A |
-| 31 | [Fiersa Besari](http://twitter.com/search?q=Fiersa+Besari) | N/A |
-| 32 | [Budaya](http://twitter.com/search?q=Budaya) | N/A |
-| 33 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 34 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
-| 35 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 36 | [Wibu](http://twitter.com/search?q=Wibu) | N/A |
-| 37 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
-| 38 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 39 | [ricky rizal](http://twitter.com/search?q=ricky+rizal) | N/A |
-| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 41 | [Rata](http://twitter.com/search?q=Rata) | N/A |
-| 42 | [Fahri](http://twitter.com/search?q=Fahri) | N/A |
-| 43 | [Bongkar](http://twitter.com/search?q=Bongkar) | N/A |
-| 44 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 45 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
-| 46 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
-| 47 | [#LANEIGExNanonNamtanJan](http://twitter.com/search?q=%23LANEIGExNanonNamtanJan) | N/A |
-| 48 | [#TheWhaleTookMe](http://twitter.com/search?q=%23TheWhaleTookMe) | N/A |
-| 49 | [#TheSummerBibleMetBuild](http://twitter.com/search?q=%23TheSummerBibleMetBuild) | N/A |
-| 50 | [#HAPPY_CARAT_DAY](http://twitter.com/search?q=%23HAPPY_CARAT_DAY) | N/A |
+| 23 | [Doneeee](http://twitter.com/search?q=Doneeee) | N/A |
+| 24 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 25 | [Mandat Desa](http://twitter.com/search?q=Mandat+Desa) | N/A |
+| 26 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 27 | [Indomaret](http://twitter.com/search?q=Indomaret) | N/A |
+| 28 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
+| 29 | [Wibu](http://twitter.com/search?q=Wibu) | N/A |
+| 30 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 31 | [Hari Valentine](http://twitter.com/search?q=Hari+Valentine) | N/A |
+| 32 | [#HAPPYKDJDAY2023](http://twitter.com/search?q=%23HAPPYKDJDAY2023) | N/A |
+| 33 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
+| 34 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
+| 35 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 36 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
+| 37 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
+| 38 | [#LANEIGExNanonNamtanJan](http://twitter.com/search?q=%23LANEIGExNanonNamtanJan) | N/A |
+| 39 | [#PinkRabbitLens](http://twitter.com/search?q=%23PinkRabbitLens) | N/A |
+| 40 | [#PRoudLens](http://twitter.com/search?q=%23PRoudLens) | N/A |
+| 41 | [#HAPPY_CARAT_DAY](http://twitter.com/search?q=%23HAPPY_CARAT_DAY) | N/A |
+| 42 | [#CARATDAY](http://twitter.com/search?q=%23CARATDAY) | N/A |
 
 
 
