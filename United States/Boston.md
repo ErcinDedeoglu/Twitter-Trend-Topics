@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-14 13:22:38 UTC`
+📆 Last Updated: `2023-02-14 14:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
 | 2 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
 | 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 5 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
-| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 7 | [#msustrong](http://twitter.com/search?q=%23msustrong) | N/A |
-| 8 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 9 | [#TheSummerBibleMetBuild](http://twitter.com/search?q=%23TheSummerBibleMetBuild) | N/A |
-| 10 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 11 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 12 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
-| 13 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 15 | [Methodius](http://twitter.com/search?q=Methodius) | N/A |
-| 16 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 17 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 18 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 19 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 20 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
-| 21 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 22 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 23 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 24 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 25 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 26 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 27 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 28 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 30 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 31 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 32 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
-| 33 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
-| 34 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 35 | [James Clapper](http://twitter.com/search?q=James+Clapper) | N/A |
-| 36 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
-| 37 | [Hallmark](http://twitter.com/search?q=Hallmark) | N/A |
-| 38 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 39 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 41 | [Secretary of Transportation](http://twitter.com/search?q=Secretary+of+Transportation) | The Secretary of Transportation is a Cabinet-level position in the United States government responsible for overseeing the nation's transportation systems. The Secretary is responsible for developing and implementing policies related to all modes of transportation, including air, rail, road, and water. The Secretary also works to ensure that the nation's transportation infrastructure is safe and efficient. |
-| 42 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 43 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 44 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 45 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 46 | [Emi Jones](http://twitter.com/search?q=Emi+Jones) | N/A |
-| 47 | [prayers for msu](http://twitter.com/search?q=prayers+for+msu) | N/A |
-| 48 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 49 | [Sabotage](http://twitter.com/search?q=Sabotage) | N/A |
-| 50 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
+| 4 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 5 | [#MSUStrong](http://twitter.com/search?q=%23MSUStrong) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 8 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 9 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 10 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 11 | [#SpartanStrong](http://twitter.com/search?q=%23SpartanStrong) | N/A |
+| 12 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
+| 13 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
+| 14 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 15 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 16 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 17 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 18 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 19 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 20 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 21 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 22 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 23 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 24 | [Methodius](http://twitter.com/search?q=Methodius) | N/A |
+| 25 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
+| 26 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 27 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 28 | [January CPI](http://twitter.com/search?q=January+CPI) | N/A |
+| 29 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 30 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 31 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 32 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 33 | [Scorpios](http://twitter.com/search?q=Scorpios) | N/A |
+| 34 | [James Clapper](http://twitter.com/search?q=James+Clapper) | N/A |
+| 35 | [Hallmark](http://twitter.com/search?q=Hallmark) | N/A |
+| 36 | [Lansing](http://twitter.com/search?q=Lansing) | N/A |
+| 37 | [Gretchen Whitmer](http://twitter.com/search?q=Gretchen+Whitmer) | N/A |
+| 38 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 41 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
+| 42 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 43 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 44 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 45 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 46 | [Leading](http://twitter.com/search?q=Leading) | Leading is a term used to describe the process of guiding or directing a group of people or an organization. It involves setting goals, providing direction, and motivating others to achieve those goals. Leading can also refer to the position of authority within an organization, such as a leader or manager. |
+| 47 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 48 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 49 | [billy baker](http://twitter.com/search?q=billy+baker) | N/A |
+| 50 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-14 13:22:37 UTC`
+📆 Last Updated: `2023-02-14 14:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 9 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 10 | [Epsom](http://twitter.com/search?q=Epsom) | N/A |
-| 11 | [North Island](http://twitter.com/search?q=North+Island) | N/A |
+| 11 | [north island](http://twitter.com/search?q=north+island) | N/A |
 | 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 13 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 14 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
 | 15 | [Gisborne](http://twitter.com/search?q=Gisborne) | N/A |
-| 16 | [seymour](http://twitter.com/search?q=seymour) | N/A |
-| 17 | [Wairoa](http://twitter.com/search?q=Wairoa) | N/A |
+| 16 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 17 | [wairoa](http://twitter.com/search?q=wairoa) | N/A |
 | 18 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 19 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
 | 20 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 26 | [tolaga bay](http://twitter.com/search?q=tolaga+bay) | N/A |
 | 27 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
 | 28 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 29 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
+| 29 | [rawiri](http://twitter.com/search?q=rawiri) | N/A |
 | 30 | [Civil Defence](http://twitter.com/search?q=Civil+Defence) | N/A |
 | 31 | [tairāwhiti](http://twitter.com/search?q=tair%c4%81whiti) | N/A |
 | 32 | [Bay of Plenty](http://twitter.com/search?q=Bay+of+Plenty) | N/A |
@@ -53,17 +53,17 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 36 | [kieran mcanulty](http://twitter.com/search?q=kieran+mcanulty) | N/A |
 | 37 | [Phew](http://twitter.com/search?q=Phew) | N/A |
 | 38 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
-| 39 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 39 | [#fentybowl](http://twitter.com/search?q=%23fentybowl) | N/A |
 | 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 42 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
+| 42 | [newshub](http://twitter.com/search?q=newshub) | N/A |
 | 43 | [Nema](http://twitter.com/search?q=Nema) | N/A |
 | 44 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 45 | [Willis](http://twitter.com/search?q=Willis) | N/A |
 | 46 | [east cape](http://twitter.com/search?q=east+cape) | N/A |
 | 47 | [whangarei](http://twitter.com/search?q=whangarei) | N/A |
-| 48 | [Piha](http://twitter.com/search?q=Piha) | N/A |
-| 49 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
+| 48 | [piha](http://twitter.com/search?q=piha) | N/A |
+| 49 | [#VTuberEN](http://twitter.com/search?q=%23VTuberEN) | N/A |
 | 50 | [Fark](http://twitter.com/search?q=Fark) | N/A |
 
 

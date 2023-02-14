@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-14 13:22:52 UTC`
+📆 Last Updated: `2023-02-14 14:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for South Africa
 | 9 | [Don Design](http://twitter.com/search?q=Don+Design) | N/A |
 | 10 | [Lerato Kganyago](http://twitter.com/search?q=Lerato+Kganyago) | N/A |
 | 11 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 13 | [thabana](http://twitter.com/search?q=thabana) | N/A |
-| 14 | [Nanette](http://twitter.com/search?q=Nanette) | N/A |
-| 15 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
+| 12 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 13 | [Michael Loftman](http://twitter.com/search?q=Michael+Loftman) | N/A |
+| 14 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
+| 15 | [Tony Forbes](http://twitter.com/search?q=Tony+Forbes) | N/A |
 | 16 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
 | 17 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 18 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
-| 19 | [Happy Mashiane](http://twitter.com/search?q=Happy+Mashiane) | N/A |
-| 20 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
-| 21 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 22 | [block 11](http://twitter.com/search?q=block+11) | N/A |
-| 23 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 24 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 25 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 26 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 27 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 29 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
-| 30 | [eWaa](http://twitter.com/search?q=eWaa) | N/A |
-| 31 | [I CAN](http://twitter.com/search?q=I+CAN) | N/A |
-| 32 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
-| 33 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 34 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 35 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 36 | [Juiovla](http://twitter.com/search?q=Juiovla) | N/A |
+| 19 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
+| 20 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 21 | [block 11](http://twitter.com/search?q=block+11) | N/A |
+| 22 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
+| 23 | [Happy Mashiane](http://twitter.com/search?q=Happy+Mashiane) | N/A |
+| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 25 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
+| 26 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 27 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 28 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 29 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 30 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 31 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 32 | [eWaa](http://twitter.com/search?q=eWaa) | N/A |
+| 33 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 34 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 35 | [I CAN](http://twitter.com/search?q=I+CAN) | N/A |
+| 36 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 | 37 | [Reeva Steenkamp](http://twitter.com/search?q=Reeva+Steenkamp) | N/A |
-| 38 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 39 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 40 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 41 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 38 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 39 | [Juiovla](http://twitter.com/search?q=Juiovla) | N/A |
+| 40 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 42 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 43 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 44 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 45 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 46 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 47 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 48 | [Phumulani Mall](http://twitter.com/search?q=Phumulani+Mall) | N/A |
-| 49 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
-| 50 | [John Steenhuisen](http://twitter.com/search?q=John+Steenhuisen) | N/A |
+| 43 | [Phumulani Mall](http://twitter.com/search?q=Phumulani+Mall) | N/A |
+| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 45 | [Nanette](http://twitter.com/search?q=Nanette) | N/A |
+| 46 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
+| 47 | [Extreme - More Than Words](http://twitter.com/search?q=Extreme+-+More+Than+Words) | N/A |
+| 48 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 49 | [Thembeka](http://twitter.com/search?q=Thembeka) | N/A |
+| 50 | [Mamelodi Sundowns](http://twitter.com/search?q=Mamelodi+Sundowns) | N/A |
 
 
 

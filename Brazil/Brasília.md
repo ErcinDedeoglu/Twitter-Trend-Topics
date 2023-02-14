@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-14 13:22:07 UTC`
+📆 Last Updated: `2023-02-14 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 2 | [dudu](http://twitter.com/search?q=dudu) | N/A |
 | 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 5 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 8 | [Juan e Sávio](http://twitter.com/search?q=Juan+e+S%c3%a1vio) | N/A |
-| 9 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 10 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
-| 11 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
-| 12 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
-| 13 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 14 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 15 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
-| 16 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 17 | [Minha Casa Minha Vida](http://twitter.com/search?q=Minha+Casa+Minha+Vida) | N/A |
-| 18 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 19 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
-| 20 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 21 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 22 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 23 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 24 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 25 | [Mais Procurados](http://twitter.com/search?q=Mais+Procurados) | N/A |
-| 26 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 27 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 28 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 29 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
-| 30 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 31 | [Júlio César](http://twitter.com/search?q=J%c3%balio+C%c3%a9sar) | N/A |
-| 32 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
-| 33 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 34 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 35 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
-| 36 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 37 | [Lara Resende](http://twitter.com/search?q=Lara+Resende) | N/A |
-| 38 | [Dahmer](http://twitter.com/search?q=Dahmer) | N/A |
-| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 40 | [Léo Índio](http://twitter.com/search?q=L%c3%a9o+%c3%8dndio) | N/A |
-| 41 | [grimes](http://twitter.com/search?q=grimes) | N/A |
-| 42 | [Bebeto](http://twitter.com/search?q=Bebeto) | N/A |
-| 43 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 44 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 45 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 46 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 47 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 48 | [Alien](http://twitter.com/search?q=Alien) | N/A |
-| 49 | [JÁ FEZ NA ESCOLA](http://twitter.com/search?q=J%c3%81+FEZ+NA+ESCOLA) | N/A |
-| 50 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 4 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 7 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 8 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 9 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 10 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 11 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
+| 12 | [Rebouças](http://twitter.com/search?q=Rebou%c3%a7as) | N/A |
+| 13 | [caroline](http://twitter.com/search?q=caroline) | N/A |
+| 14 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
+| 15 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 17 | [Paola Carosella](http://twitter.com/search?q=Paola+Carosella) | N/A |
+| 18 | [Minha Casa Minha Vida](http://twitter.com/search?q=Minha+Casa+Minha+Vida) | N/A |
+| 19 | [Sapiosexual](http://twitter.com/search?q=Sapiosexual) | N/A |
+| 20 | [SF-23](http://twitter.com/search?q=SF-23) | N/A |
+| 21 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
+| 22 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 23 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
+| 24 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 25 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 26 | [Julio Cesar](http://twitter.com/search?q=Julio+Cesar) | N/A |
+| 27 | [Trapalhões](http://twitter.com/search?q=Trapalh%c3%b5es) | N/A |
+| 28 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 29 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 30 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 31 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 32 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
+| 33 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 34 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
+| 35 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
+| 36 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 37 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
+| 38 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
+| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 40 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 41 | [Lara Resende](http://twitter.com/search?q=Lara+Resende) | N/A |
+| 42 | [Lagoinha](http://twitter.com/search?q=Lagoinha) | N/A |
+| 43 | [Dahmer](http://twitter.com/search?q=Dahmer) | N/A |
+| 44 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 46 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 47 | [Léo Índio](http://twitter.com/search?q=L%c3%a9o+%c3%8dndio) | N/A |
+| 48 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 49 | [Bebeto](http://twitter.com/search?q=Bebeto) | N/A |
+| 50 | [Pastel](http://twitter.com/search?q=Pastel) | N/A |
 
 
 

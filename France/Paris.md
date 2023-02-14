@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-14 13:22:12 UTC`
+📆 Last Updated: `2023-02-14 14:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,46 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 1 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
 | 2 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 4 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 5 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
-| 6 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 7 | [Hellfest](http://twitter.com/search?q=Hellfest) | N/A |
-| 8 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
-| 9 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
-| 10 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 11 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 12 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 13 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 14 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
-| 15 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
-| 16 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
-| 17 | [Ignatius Ganago](http://twitter.com/search?q=Ignatius+Ganago) | N/A |
-| 18 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 19 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 20 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 21 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 3 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 5 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
+| 6 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 7 | [#MerciMacron](http://twitter.com/search?q=%23MerciMacron) | N/A |
+| 8 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 9 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 10 | [#CoeurAvecLesDoigts](http://twitter.com/search?q=%23CoeurAvecLesDoigts) | N/A |
+| 11 | [Hellfest](http://twitter.com/search?q=Hellfest) | N/A |
+| 12 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
+| 13 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 14 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 15 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
+| 16 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 17 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 18 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 19 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 20 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 21 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 | 22 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
-| 23 | [Buttes-Chaumont](http://twitter.com/search?q=Buttes-Chaumont) | N/A |
-| 24 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 25 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 26 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 27 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 28 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 29 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 30 | [#chomage](http://twitter.com/search?q=%23chomage) | N/A |
-| 31 | [#ReformedesRetraite](http://twitter.com/search?q=%23ReformedesRetraite) | N/A |
-| 32 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 33 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 34 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 35 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
+| 23 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 24 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
+| 25 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 26 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 27 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
+| 28 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 29 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 30 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 32 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 33 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 34 | [#InfirmiersPasTroufions](http://twitter.com/search?q=%23InfirmiersPasTroufions) | N/A |
+| 35 | [#chômage](http://twitter.com/search?q=%23ch%c3%b4mage) | N/A |
+| 36 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 37 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 39 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 40 | [#pollution](http://twitter.com/search?q=%23pollution) | N/A |
 
 
 

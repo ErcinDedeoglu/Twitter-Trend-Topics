@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-14 13:22:16 UTC`
+📆 Last Updated: `2023-02-14 14:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [Spain](</Spain>)
 | 7 | [#HazMatchConXiaomi](http://twitter.com/search?q=%23HazMatchConXiaomi) | N/A |
 | 8 | [#realme10mejorQueMiEx](http://twitter.com/search?q=%23realme10mejorQueMiEx) | N/A |
 | 9 | [#JugonesDeBarra](http://twitter.com/search?q=%23JugonesDeBarra) | N/A |
-| 10 | [#conVodafone](http://twitter.com/search?q=%23conVodafone) | N/A |
-| 11 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
+| 10 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
+| 11 | [#conVodafone](http://twitter.com/search?q=%23conVodafone) | N/A |
 | 12 | [Vicente Moreno](http://twitter.com/search?q=Vicente+Moreno) | N/A |
-| 13 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 14 | [Carlos Sainz](http://twitter.com/search?q=Carlos+Sainz) | N/A |
-| 15 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 17 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 18 | [Parla](http://twitter.com/search?q=Parla) | N/A |
-| 19 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
-| 20 | [Día Europeo de la Salud Sexual](http://twitter.com/search?q=D%c3%ada+Europeo+de+la+Salud+Sexual) | N/A |
-| 21 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Cardiopatías Congénitas](http://twitter.com/search?q=Cardiopat%c3%adas+Cong%c3%a9nitas) | N/A |
-| 24 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
-| 25 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
-| 26 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 27 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
-| 28 | [Mario Vaquerizo](http://twitter.com/search?q=Mario+Vaquerizo) | Mario Vaquerizo is a Spanish singer, actor, and television presenter. He is best known for his work on the television show La Movida and his collaborations with his wife Alaska. The name Mario Vaquerizo roughly translates to "Mario the Cowboy" in English. |
-| 29 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 30 | [Corte Inglés](http://twitter.com/search?q=Corte+Ingl%c3%a9s) | N/A |
-| 31 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 32 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 33 | [Miércoles 15](http://twitter.com/search?q=Mi%c3%a9rcoles+15) | N/A |
-| 34 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 13 | [Valencia CF](http://twitter.com/search?q=Valencia+CF) | N/A |
+| 14 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
+| 15 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 16 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 18 | [Cordón](http://twitter.com/search?q=Cord%c3%b3n) | N/A |
+| 19 | [Carlos Sainz](http://twitter.com/search?q=Carlos+Sainz) | N/A |
+| 20 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 23 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
+| 24 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
+| 25 | [Cardiopatías Congénitas](http://twitter.com/search?q=Cardiopat%c3%adas+Cong%c3%a9nitas) | N/A |
+| 26 | [Ana Pastor](http://twitter.com/search?q=Ana+Pastor) | N/A |
+| 27 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 28 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 29 | [Grasias](http://twitter.com/search?q=Grasias) | N/A |
+| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 31 | [Corte Inglés](http://twitter.com/search?q=Corte+Ingl%c3%a9s) | N/A |
+| 32 | [Vaquerizo](http://twitter.com/search?q=Vaquerizo) | N/A |
+| 33 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 34 | [Serra](http://twitter.com/search?q=Serra) | N/A |
 | 35 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
-| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [Carlos Alsina](http://twitter.com/search?q=Carlos+Alsina) | N/A |
-| 38 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 39 | [Pablo Neruda](http://twitter.com/search?q=Pablo+Neruda) | N/A |
-| 40 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
-| 41 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 42 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
-| 43 | [#CrushWantedDeadConGAME](http://twitter.com/search?q=%23CrushWantedDeadConGAME) | N/A |
-| 44 | [#DíaMundialdelaEnergía](http://twitter.com/search?q=%23D%c3%adaMundialdelaEnerg%c3%ada) | N/A |
-| 45 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 36 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 37 | [Miércoles 15](http://twitter.com/search?q=Mi%c3%a9rcoles+15) | N/A |
+| 38 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
+| 39 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 40 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 42 | [San Solterín](http://twitter.com/search?q=San+Solter%c3%adn) | N/A |
+| 43 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
+| 44 | [#SF23](http://twitter.com/search?q=%23SF23) | N/A |
+| 45 | [#CrushWantedDeadConGAME](http://twitter.com/search?q=%23CrushWantedDeadConGAME) | N/A |
 | 46 | [#Gianmarco14F](http://twitter.com/search?q=%23Gianmarco14F) | N/A |
 | 47 | [#APOYOROCIO14F](http://twitter.com/search?q=%23APOYOROCIO14F) | N/A |
-| 48 | [#Barómetro3Sector](http://twitter.com/search?q=%23Bar%c3%b3metro3Sector) | N/A |
+| 48 | [#DíaMundialDeLaEnergía](http://twitter.com/search?q=%23D%c3%adaMundialDeLaEnerg%c3%ada) | N/A |
 | 49 | [#DiaDelAmorYLaAmistad](http://twitter.com/search?q=%23DiaDelAmorYLaAmistad) | N/A |
 
 

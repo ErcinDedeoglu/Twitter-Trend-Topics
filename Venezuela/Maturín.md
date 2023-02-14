@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-02-14 13:22:10 UTC`
+📆 Last Updated: `2023-02-14 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 5 | [#JuventudIntegraciónYPaz](http://twitter.com/search?q=%23JuventudIntegraci%c3%b3nYPaz) | N/A |
-| 6 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 9 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 11 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 12 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
-| 13 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 7 | [OVNIs](http://twitter.com/search?q=OVNIs) | N/A |
+| 8 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
+| 9 | [día mundial de la radio](http://twitter.com/search?q=d%c3%ada+mundial+de+la+radio) | N/A |
+| 10 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 11 | [Gran Sabana](http://twitter.com/search?q=Gran+Sabana) | N/A |
+| 12 | [Los Roques](http://twitter.com/search?q=Los+Roques) | N/A |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 15 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 16 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
-| 17 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
-| 18 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 16 | [Coliflor](http://twitter.com/search?q=Coliflor) | N/A |
+| 17 | [Servicio Penitenciario](http://twitter.com/search?q=Servicio+Penitenciario) | N/A |
+| 18 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
 | 19 | [Misión Venezuela Bella](http://twitter.com/search?q=Misi%c3%b3n+Venezuela+Bella) | N/A |
 | 20 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 21 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 22 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
-| 23 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 24 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 25 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
-| 26 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
-| 27 | [batalla de la victoria](http://twitter.com/search?q=batalla+de+la+victoria) | N/A |
-| 28 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
-| 29 | [Dimitri Vegas](http://twitter.com/search?q=Dimitri+Vegas) | N/A |
-| 30 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 31 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
-| 32 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
-| 33 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 34 | [josé félix ribas](http://twitter.com/search?q=jos%c3%a9+f%c3%a9lix+ribas) | N/A |
-| 35 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
-| 36 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
-| 37 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 38 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
-| 39 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 40 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 41 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 42 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 43 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 44 | [Zulia](http://twitter.com/search?q=Zulia) | N/A |
-| 45 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 46 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 47 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 48 | [like mike](http://twitter.com/search?q=like+mike) | N/A |
-| 49 | [pedro navaja](http://twitter.com/search?q=pedro+navaja) | N/A |
-| 50 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
+| 21 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 22 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 23 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 24 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 25 | [La Lupe](http://twitter.com/search?q=La+Lupe) | N/A |
+| 26 | [Morrocoy](http://twitter.com/search?q=Morrocoy) | N/A |
+| 27 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 28 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 29 | [día nacional del guardaparques](http://twitter.com/search?q=d%c3%ada+nacional+del+guardaparques) | N/A |
+| 30 | [dimitri vegas](http://twitter.com/search?q=dimitri+vegas) | N/A |
+| 31 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 32 | [Celsa Bautista](http://twitter.com/search?q=Celsa+Bautista) | N/A |
+| 33 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
+| 34 | [parque nacional henri pittier](http://twitter.com/search?q=parque+nacional+henri+pittier) | N/A |
+| 35 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 36 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 37 | [rancho grande](http://twitter.com/search?q=rancho+grande) | N/A |
+| 38 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 39 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 40 | [Zulia](http://twitter.com/search?q=Zulia) | N/A |
+| 41 | [like mike](http://twitter.com/search?q=like+mike) | N/A |
+| 42 | [Batalla de la Victoria](http://twitter.com/search?q=Batalla+de+la+Victoria) | N/A |
+| 43 | [Pedro Navaja](http://twitter.com/search?q=Pedro+Navaja) | N/A |
+| 44 | [La Tipa](http://twitter.com/search?q=La+Tipa) | N/A |
+| 45 | [COPEI](http://twitter.com/search?q=COPEI) | N/A |
+| 46 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 47 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 48 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 49 | [Benjamin Rausseo](http://twitter.com/search?q=Benjamin+Rausseo) | N/A |
+| 50 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-14 13:22:26 UTC`
+📆 Last Updated: `2023-02-14 14:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheSummerBibleMetBuild](http://twitter.com/search?q=%23TheSummerBibleMetBuild) | N/A |
+| 1 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
 | 2 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
 | 3 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 4 | [#4thYearWithBounPrem](http://twitter.com/search?q=%234thYearWithBounPrem) | N/A |
+| 4 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
 | 5 | [#14กุมภาฮันนี่ขอกุมใจไบเบิ้ล](http://twitter.com/search?q=%2314%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%82%e0%b8%ad%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5) | N/A |
-| 6 | [#Huobi](http://twitter.com/search?q=%23Huobi) | N/A |
+| 6 | [#4thYearWithBounPrem](http://twitter.com/search?q=%234thYearWithBounPrem) | N/A |
 | 7 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 8 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
-| 9 | [seojins world star v](http://twitter.com/search?q=seojins+world+star+v) | N/A |
+| 9 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 10 | [SEOJINS MAKNAE V](http://twitter.com/search?q=SEOJINS+MAKNAE+V) | N/A |
 | 11 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
 | 12 | [WITH LOVE KANAWUT](http://twitter.com/search?q=WITH+LOVE+KANAWUT) | N/A |
@@ -54,17 +54,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 37 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 38 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
 | 39 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 40 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 41 | [StarkNet](http://twitter.com/search?q=StarkNet) | N/A |
-| 42 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 43 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
-| 46 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 47 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
-| 48 | [tình](http://twitter.com/search?q=t%c3%acnh) | N/A |
-| 49 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 50 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
+| 40 | [StarkNet](http://twitter.com/search?q=StarkNet) | N/A |
+| 41 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 42 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 43 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 44 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
+| 47 | [5 $apt](http://twitter.com/search?q=5+%24apt) | N/A |
+| 48 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
 
 
 
