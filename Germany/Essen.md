@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-14 17:17:06 UTC`
+📆 Last Updated: `2023-02-14 18:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,41 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 2 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 3 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
-| 4 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 5 | [#ransb57](http://twitter.com/search?q=%23ransb57) | N/A |
-| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 7 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 8 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 9 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 10 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 11 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
-| 12 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 13 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
-| 14 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 15 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 16 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 17 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
-| 18 | [Varwick](http://twitter.com/search?q=Varwick) | N/A |
-| 19 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 20 | [Politik gegen das Auto](http://twitter.com/search?q=Politik+gegen+das+Auto) | N/A |
-| 21 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 22 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 23 | [Panne in Berlin](http://twitter.com/search?q=Panne+in+Berlin) | N/A |
-| 24 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 25 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 26 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 27 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 28 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 29 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 30 | [Direktmandat](http://twitter.com/search?q=Direktmandat) | N/A |
-| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 32 | [Interesse der Menschen](http://twitter.com/search?q=Interesse+der+Menschen) | N/A |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 35 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 36 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
-| 37 | [Wählerwille](http://twitter.com/search?q=W%c3%a4hlerwille) | N/A |
-| 38 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 39 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 40 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 41 | [Wahlbriefe](http://twitter.com/search?q=Wahlbriefe) | N/A |
-| 42 | [Tag der Liebe](http://twitter.com/search?q=Tag+der+Liebe) | N/A |
-| 43 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 44 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 45 | [Liberalismus](http://twitter.com/search?q=Liberalismus) | N/A |
-| 46 | ['Gegensätze'](http://twitter.com/search?q=%27Gegens%c3%a4tze%27) | N/A |
-| 47 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 48 | [Akademiker](http://twitter.com/search?q=Akademiker) | N/A |
-| 49 | [Promi](http://twitter.com/search?q=Promi) | N/A |
-| 50 | [Kneipchen](http://twitter.com/search?q=Kneipchen) | N/A |
+| 1 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 2 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 3 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 4 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 5 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 7 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 8 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 13 | [#AteezinBerlin](http://twitter.com/search?q=%23AteezinBerlin) | N/A |
+| 14 | [Briefwahlstimmen](http://twitter.com/search?q=Briefwahlstimmen) | N/A |
+| 15 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 16 | [#Sixtus](http://twitter.com/search?q=%23Sixtus) | N/A |
+| 17 | [Panne in Berlin](http://twitter.com/search?q=Panne+in+Berlin) | N/A |
+| 18 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 19 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
+| 20 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 21 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 22 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 23 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 24 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
+| 25 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 26 | [Akademiker](http://twitter.com/search?q=Akademiker) | N/A |
+| 27 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 28 | [Varwick](http://twitter.com/search?q=Varwick) | N/A |
+| 29 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 30 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 31 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 32 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
+| 33 | [#Ohio](http://twitter.com/search?q=%23Ohio) | N/A |
+| 34 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
+| 35 | [#FDPmachtkrankundarm](http://twitter.com/search?q=%23FDPmachtkrankundarm) | N/A |
 
 
 

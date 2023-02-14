@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-14 17:16:53 UTC`
+📆 Last Updated: `2023-02-14 18:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 2 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 3 | [#BakeryFilmsOrSongs](http://twitter.com/search?q=%23BakeryFilmsOrSongs) | N/A |
-| 4 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 3 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
+| 4 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
 | 5 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 6 | [Koh-i-Noor](http://twitter.com/search?q=Koh-i-Noor) | N/A |
-| 7 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 8 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
-| 9 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 10 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 11 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 12 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 13 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
-| 16 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
-| 17 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 21 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 22 | [Margate](http://twitter.com/search?q=Margate) | N/A |
-| 23 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 24 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
-| 25 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 26 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 27 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 28 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 29 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 30 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 31 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 32 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 33 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 34 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 35 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 36 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 37 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 38 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 39 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 40 | [#nufcballot](http://twitter.com/search?q=%23nufcballot) | N/A |
-| 41 | [#LoveAO](http://twitter.com/search?q=%23LoveAO) | N/A |
-| 42 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 43 | [#Banksy](http://twitter.com/search?q=%23Banksy) | N/A |
-| 44 | [#countdown](http://twitter.com/search?q=%23countdown) | N/A |
-| 45 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 46 | [#SweetTreats](http://twitter.com/search?q=%23SweetTreats) | N/A |
-| 47 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 48 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
-| 49 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 6 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 7 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 8 | [Koh-i-Noor](http://twitter.com/search?q=Koh-i-Noor) | N/A |
+| 9 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
+| 10 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 11 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
+| 12 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 13 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 14 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 15 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
+| 16 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
+| 17 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 18 | [Alfie Mawson](http://twitter.com/search?q=Alfie+Mawson) | N/A |
+| 19 | [Welsh Government](http://twitter.com/search?q=Welsh+Government) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 23 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 24 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 25 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 26 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
+| 27 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 28 | [Queen Mary](http://twitter.com/search?q=Queen+Mary) | N/A |
+| 29 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 30 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 31 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 32 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 33 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 34 | [Margate](http://twitter.com/search?q=Margate) | N/A |
+| 35 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 36 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
+| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 38 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 39 | [Romance](http://twitter.com/search?q=Romance) | Romance is a feeling of excitement and mystery associated with love. It is often described as a strong emotional attraction between two people, characterized by intimacy, passion, and commitment. In English, it is often used to refer to a romantic relationship between two people. |
+| 40 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 41 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
+| 42 | [Caroline Polachek](http://twitter.com/search?q=Caroline+Polachek) | N/A |
+| 43 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 44 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 45 | [Brixton](http://twitter.com/search?q=Brixton) | N/A |
+| 46 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 47 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 48 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 49 | [#BakeryFilmsOrSongs](http://twitter.com/search?q=%23BakeryFilmsOrSongs) | N/A |
 
 
 

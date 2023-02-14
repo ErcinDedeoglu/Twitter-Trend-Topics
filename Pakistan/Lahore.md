@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-14 17:17:30 UTC`
+📆 Last Updated: `2023-02-14 18:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,32 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
-| 2 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
+| 1 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 2 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
 | 3 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
-| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [#PZvsKK](http://twitter.com/search?q=%23PZvsKK) | N/A |
-| 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 7 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
-| 8 | [Cadmore](http://twitter.com/search?q=Cadmore) | N/A |
-| 9 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 10 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
-| 11 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 12 | [sharjeel](http://twitter.com/search?q=sharjeel) | N/A |
-| 13 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 14 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 15 | [Fitch](http://twitter.com/search?q=Fitch) | N/A |
-| 16 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 17 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 18 | [muavia founder of navel](http://twitter.com/search?q=muavia+founder+of+navel) | N/A |
-| 19 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 20 | [Wahab Riaz](http://twitter.com/search?q=Wahab+Riaz) | Wahab Riaz is a Pakistani cricketer who plays for the Pakistan national cricket team. His name is derived from the Arabic word "wahab", which means "giver". The name Riaz is derived from the Persian word "riaz", which means "honor". |
-| 21 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 22 | [Cover Drive](http://twitter.com/search?q=Cover+Drive) | N/A |
-| 23 | [Qasim](http://twitter.com/search?q=Qasim) | N/A |
-| 24 | [Ali Muavia Bhai Bhai](http://twitter.com/search?q=Ali+Muavia+Bhai+Bhai) | N/A |
-| 25 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 26 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 27 | [Imran Tahir](http://twitter.com/search?q=Imran+Tahir) | N/A |
-| 28 | [Virgin Atlantic](http://twitter.com/search?q=Virgin+Atlantic) | N/A |
-| 29 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
-| 30 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 31 | [Haider](http://twitter.com/search?q=Haider) | N/A |
-| 32 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 33 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
-| 34 | [National Stadium](http://twitter.com/search?q=National+Stadium) | N/A |
-| 35 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
-| 36 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 37 | [Road](http://twitter.com/search?q=Road) | N/A |
-| 38 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 39 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 40 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 43 | [Classic](http://twitter.com/search?q=Classic) | N/A |
-| 44 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 45 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 46 | [#msvlq](http://twitter.com/search?q=%23msvlq) | N/A |
-| 47 | [#WelcomeAliWazir](http://twitter.com/search?q=%23WelcomeAliWazir) | N/A |
-| 48 | [#lqvms](http://twitter.com/search?q=%23lqvms) | N/A |
-| 49 | [#ZiaMohyeddin](http://twitter.com/search?q=%23ZiaMohyeddin) | N/A |
-| 50 | [#ہماراملک_فیصلہ_بھی_ہمارا](http://twitter.com/search?q=%23%db%81%d9%85%d8%a7%d8%b1%d8%a7%d9%85%d9%84%da%a9_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%a8%da%be%db%8c_%db%81%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 4 | [#PZvsKK](http://twitter.com/search?q=%23PZvsKK) | N/A |
+| 5 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 6 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 7 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 8 | [Tom Kohler](http://twitter.com/search?q=Tom+Kohler) | N/A |
+| 9 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 10 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 11 | [Cadmore](http://twitter.com/search?q=Cadmore) | N/A |
+| 12 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 13 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 14 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 15 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 16 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 17 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 18 | [#fixer](http://twitter.com/search?q=%23fixer) | N/A |
+| 19 | [#PeshawarZalmi](http://twitter.com/search?q=%23PeshawarZalmi) | N/A |
+| 20 | [#HBLPSL2023](http://twitter.com/search?q=%23HBLPSL2023) | N/A |
+| 21 | [#WelcomeAliWazir](http://twitter.com/search?q=%23WelcomeAliWazir) | N/A |
+| 22 | [#YellowStorm](http://twitter.com/search?q=%23YellowStorm) | N/A |
+| 23 | [#ہماراملک_فیصلہ_بھی_ہمارا](http://twitter.com/search?q=%23%db%81%d9%85%d8%a7%d8%b1%d8%a7%d9%85%d9%84%da%a9_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%a8%da%be%db%8c_%db%81%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 24 | [#عادل_راجا_MI6کاباجا](http://twitter.com/search?q=%23%d8%b9%d8%a7%d8%af%d9%84_%d8%b1%d8%a7%d8%ac%d8%a7_MI6%da%a9%d8%a7%d8%a8%d8%a7%d8%ac%d8%a7) | N/A |
+| 25 | [#بلیک_میلنگ_نہیں_چلےگی](http://twitter.com/search?q=%23%d8%a8%d9%84%db%8c%da%a9_%d9%85%db%8c%d9%84%d9%86%da%af_%d9%86%db%81%db%8c%da%ba_%da%86%d9%84%db%92%da%af%db%8c) | N/A |
+| 26 | [#پیکر_علم_و_امن](http://twitter.com/search?q=%23%d9%be%db%8c%da%a9%d8%b1_%d8%b9%d9%84%d9%85_%d9%88_%d8%a7%d9%85%d9%86) | N/A |
 
 
 

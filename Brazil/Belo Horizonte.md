@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-14 17:17:00 UTC`
+📆 Last Updated: `2023-02-14 18:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
-| 2 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 3 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 4 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 5 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 8 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 9 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 10 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 11 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 12 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 13 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 14 | [Cadê o Brasil](http://twitter.com/search?q=Cad%c3%aa+o+Brasil) | N/A |
-| 15 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 16 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 17 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 18 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 19 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 20 | [ELE CORTOU O CABELO](http://twitter.com/search?q=ELE+CORTOU+O+CABELO) | N/A |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
-| 23 | [Badosa](http://twitter.com/search?q=Badosa) | N/A |
-| 24 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 25 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
-| 26 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 27 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 28 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 29 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 30 | [Mel Maia](http://twitter.com/search?q=Mel+Maia) | N/A |
-| 31 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 32 | [Garena](http://twitter.com/search?q=Garena) | N/A |
-| 33 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
-| 34 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 35 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 36 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 37 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
-| 38 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 39 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Football Club](http://twitter.com/search?q=Football+Club) | N/A |
-| 42 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
-| 43 | [Vênus](http://twitter.com/search?q=V%c3%aanus) | N/A |
-| 44 | [O Rei Leão](http://twitter.com/search?q=O+Rei+Le%c3%a3o) | N/A |
-| 45 | [Minha Casa](http://twitter.com/search?q=Minha+Casa) | N/A |
-| 46 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
-| 47 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 48 | [Emma Corrin](http://twitter.com/search?q=Emma+Corrin) | N/A |
-| 49 | [Cassandra Clare](http://twitter.com/search?q=Cassandra+Clare) | N/A |
-| 50 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 1 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 2 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 3 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 5 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 6 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 7 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 8 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 9 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 12 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 13 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 14 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
+| 15 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 17 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 18 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 19 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 20 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 21 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 22 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 23 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 24 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 26 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 27 | [jack antonoff](http://twitter.com/search?q=jack+antonoff) | Jack Antonoff is an American singer, songwriter, and record producer. He is best known as the lead singer of the indie rock band Bleachers and as a member of the band Fun. He has also produced albums for Taylor Swift, Lorde, St. Vincent, and Lana Del Rey. |
+| 28 | [A&W OUT NOW](http://twitter.com/search?q=A%26W+OUT+NOW) | N/A |
+| 29 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 30 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 31 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 32 | [CADÊ O BRASIL](http://twitter.com/search?q=CAD%c3%8a+O+BRASIL) | N/A |
+| 33 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
+| 34 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 35 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
+| 36 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 37 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 38 | [Badosa](http://twitter.com/search?q=Badosa) | N/A |
+| 39 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 40 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
+| 41 | [Vênus](http://twitter.com/search?q=V%c3%aanus) | N/A |
+| 42 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 43 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 44 | [André Valadão](http://twitter.com/search?q=Andr%c3%a9+Valad%c3%a3o) | N/A |
+| 45 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 46 | [Garena](http://twitter.com/search?q=Garena) | N/A |
+| 47 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 48 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 49 | [Rainha Charlotte](http://twitter.com/search?q=Rainha+Charlotte) | N/A |
+| 50 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
 
 
 

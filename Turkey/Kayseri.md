@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-14 17:17:35 UTC`
+📆 Last Updated: `2023-02-14 18:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
-| 2 | [#ÖLDÜ](http://twitter.com/search?q=%23%c3%96LD%c3%9c) | N/A |
-| 3 | [#TUPRS](http://twitter.com/search?q=%23TUPRS) | N/A |
-| 4 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 5 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
-| 6 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
-| 7 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
-| 8 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 9 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
-| 10 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
-| 11 | [İlker Başbuğ](http://twitter.com/search?q=%c4%b0lker+Ba%c5%9fbu%c4%9f) | N/A |
-| 12 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 13 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
-| 14 | [Kürtçü](http://twitter.com/search?q=K%c3%bcrt%c3%a7%c3%bc) | N/A |
-| 15 | [Cenazede](http://twitter.com/search?q=Cenazede) | N/A |
-| 16 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 17 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
-| 18 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
-| 19 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 20 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
-| 21 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
-| 22 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
-| 23 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
-| 24 | [Ekber](http://twitter.com/search?q=Ekber) | N/A |
-| 25 | [Seçimi](http://twitter.com/search?q=Se%c3%a7imi) | N/A |
-| 26 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 27 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
-| 28 | [Dedem](http://twitter.com/search?q=Dedem) | N/A |
-| 29 | [Osmaniye'ye](http://twitter.com/search?q=Osmaniye%27ye) | N/A |
-| 30 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 31 | [Haluk Bey](http://twitter.com/search?q=Haluk+Bey) | N/A |
-| 32 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 33 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
-| 34 | [#borsadasonikigueniptaledilsin](http://twitter.com/search?q=%23borsadasonikigueniptaledilsin) | N/A |
-| 35 | [#volkandemirel](http://twitter.com/search?q=%23volkandemirel) | N/A |
-| 36 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 37 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 38 | [#EstDepremzedeyle](http://twitter.com/search?q=%23EstDepremzedeyle) | N/A |
-| 39 | [#14Subat](http://twitter.com/search?q=%2314Subat) | N/A |
-| 40 | [#YAPMAYIN](http://twitter.com/search?q=%23YAPMAYIN) | N/A |
-| 41 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
-| 42 | [#uzaktanegitimistemiyorum](http://twitter.com/search?q=%23uzaktanegitimistemiyorum) | N/A |
-| 43 | [#Erdoğan](http://twitter.com/search?q=%23Erdo%c4%9fan) | N/A |
-| 44 | [#Borsa20SubataKadarKapatılsın](http://twitter.com/search?q=%23Borsa20SubataKadarKapat%c4%b1ls%c4%b1n) | N/A |
-| 45 | [#Hamstercoin](http://twitter.com/search?q=%23Hamstercoin) | N/A |
-| 46 | [#sevgililergunu](http://twitter.com/search?q=%23sevgililergunu) | N/A |
-| 47 | [#universitelerkapatılmasın](http://twitter.com/search?q=%23universitelerkapat%c4%b1lmas%c4%b1n) | N/A |
-| 48 | [#EYTliZordaYasayıBekletmeyin](http://twitter.com/search?q=%23EYTliZordaYasay%c4%b1Bekletmeyin) | N/A |
-| 49 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
+| 1 | [Destan Yazıyor](http://twitter.com/search?q=Destan+Yaz%c4%b1yor) | N/A |
+| 2 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 3 | [#uzaktanegitimistemiyorum](http://twitter.com/search?q=%23uzaktanegitimistemiyorum) | N/A |
+| 4 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
+| 5 | [#kykyurtlarıçözümdeğil](http://twitter.com/search?q=%23kykyurtlar%c4%b1%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
+| 6 | [#ÖLDÜ](http://twitter.com/search?q=%23%c3%96LD%c3%9c) | N/A |
+| 7 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 8 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 9 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
+| 10 | [Prompter](http://twitter.com/search?q=Prompter) | N/A |
+| 11 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
+| 12 | [Sağlık](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k) | N/A |
+| 13 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 14 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 15 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
+| 16 | [Erden](http://twitter.com/search?q=Erden) | N/A |
+| 17 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
+| 18 | [Cenazede](http://twitter.com/search?q=Cenazede) | N/A |
+| 19 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
+| 20 | [Romanya](http://twitter.com/search?q=Romanya) | N/A |
+| 21 | [Kürtçü](http://twitter.com/search?q=K%c3%bcrt%c3%a7%c3%bc) | N/A |
+| 22 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
+| 23 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
+| 24 | [İlker Başbuğ](http://twitter.com/search?q=%c4%b0lker+Ba%c5%9fbu%c4%9f) | N/A |
+| 25 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
+| 26 | [Baykal](http://twitter.com/search?q=Baykal) | N/A |
+| 27 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
+| 28 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 29 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 30 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
+| 31 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 32 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
+| 33 | [Türk'ün Türk'ten](http://twitter.com/search?q=T%c3%bcrk%27%c3%bcn+T%c3%bcrk%27ten) | N/A |
+| 34 | [Haluk Bey](http://twitter.com/search?q=Haluk+Bey) | N/A |
+| 35 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 36 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
+| 37 | [Lütfü](http://twitter.com/search?q=L%c3%bctf%c3%bc) | N/A |
+| 38 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 39 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
+| 40 | [#yüzyüzeeğitim](http://twitter.com/search?q=%23y%c3%bczy%c3%bczee%c4%9fitim) | N/A |
+| 41 | [#kabinetoplantısı](http://twitter.com/search?q=%23kabinetoplant%c4%b1s%c4%b1) | N/A |
+| 42 | [#TUPRS](http://twitter.com/search?q=%23TUPRS) | N/A |
+| 43 | [#otkar](http://twitter.com/search?q=%23otkar) | N/A |
+| 44 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 45 | [#YAPMAYIN](http://twitter.com/search?q=%23YAPMAYIN) | N/A |
+| 46 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
+| 47 | [#borsadasonikigueniptaledilsin](http://twitter.com/search?q=%23borsadasonikigueniptaledilsin) | N/A |
+| 48 | [#14Subat](http://twitter.com/search?q=%2314Subat) | N/A |
+| 49 | [#volkandemirel](http://twitter.com/search?q=%23volkandemirel) | N/A |
 
 
 

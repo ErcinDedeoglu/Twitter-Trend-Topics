@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-14 17:17:13 UTC`
+📆 Last Updated: `2023-02-14 18:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indomaret](http://twitter.com/search?q=Indomaret) | N/A |
-| 2 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 1 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 2 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
 | 3 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 4 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
-| 5 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 4 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 5 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
 | 6 | [3 HARI](http://twitter.com/search?q=3+HARI) | 3 HARI is a Malay phrase meaning "three days". It is often used to refer to a period of three days, such as when someone says they will do something in three days. |
-| 7 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 8 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 7 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 8 | [Amnesia](http://twitter.com/search?q=Amnesia) | N/A |
 | 9 | [Mana 3](http://twitter.com/search?q=Mana+3) | N/A |
 | 10 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
-| 11 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 11 | [Jakarta 3](http://twitter.com/search?q=Jakarta+3) | N/A |
 | 12 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 13 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
-| 14 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
-| 15 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
-| 16 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 17 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 20 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 21 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 22 | [Sword](http://twitter.com/search?q=Sword) | N/A |
-| 23 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 24 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 25 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
-| 26 | [Wibu](http://twitter.com/search?q=Wibu) | N/A |
-| 27 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
-| 28 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
+| 13 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 14 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 15 | [DEMI APA](http://twitter.com/search?q=DEMI+APA) | N/A |
+| 16 | [Tabung](http://twitter.com/search?q=Tabung) | N/A |
+| 17 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 18 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
+| 19 | [Cindo](http://twitter.com/search?q=Cindo) | N/A |
+| 20 | [Gelas](http://twitter.com/search?q=Gelas) | N/A |
+| 21 | [The Beatles](http://twitter.com/search?q=The+Beatles) | N/A |
+| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 23 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 24 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 25 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 26 | [Sword](http://twitter.com/search?q=Sword) | N/A |
+| 27 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 28 | [Teddy Bear](http://twitter.com/search?q=Teddy+Bear) | N/A |
 | 29 | [#HAPPYKDJDAY2023](http://twitter.com/search?q=%23HAPPYKDJDAY2023) | N/A |
-| 30 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 31 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
-| 32 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 33 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
-| 34 | [#LANEIGExNanonNamtanJan](http://twitter.com/search?q=%23LANEIGExNanonNamtanJan) | N/A |
-| 35 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
+| 30 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
+| 31 | [#OaseaFirstLove](http://twitter.com/search?q=%23OaseaFirstLove) | N/A |
+| 32 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 33 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
+| 34 | [#AshelLnyaLove](http://twitter.com/search?q=%23AshelLnyaLove) | N/A |
+| 35 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
+| 36 | [#SouriXVelatopopupstore](http://twitter.com/search?q=%23SouriXVelatopopupstore) | N/A |
+| 37 | [#HAPPY_CARAT_DAY](http://twitter.com/search?q=%23HAPPY_CARAT_DAY) | N/A |
+| 38 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
 
 
 

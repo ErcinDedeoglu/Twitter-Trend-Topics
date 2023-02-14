@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-14 17:17:12 UTC`
+📆 Last Updated: `2023-02-14 18:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 2 | [Ribbenvik](http://twitter.com/search?q=Ribbenvik) | N/A |
 | 3 | [#allahjärtansdag](http://twitter.com/search?q=%23allahj%c3%a4rtansdag) | N/A |
-| 4 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 5 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 7 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
-| 8 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
-| 9 | [Akelius](http://twitter.com/search?q=Akelius) | N/A |
-| 10 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
-| 11 | [#EU2023SE](http://twitter.com/search?q=%23EU2023SE) | N/A |
-| 12 | [landskrona](http://twitter.com/search?q=landskrona) | N/A |
-| 13 | [Anna Borg](http://twitter.com/search?q=Anna+Borg) | N/A |
-| 14 | [Vasa](http://twitter.com/search?q=Vasa) | N/A |
-| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 17 | [Alimamy Cole](http://twitter.com/search?q=Alimamy+Cole) | N/A |
-| 18 | [Castellum](http://twitter.com/search?q=Castellum) | N/A |
-| 19 | [Dan Eliasson](http://twitter.com/search?q=Dan+Eliasson) | N/A |
-| 20 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 21 | [Ygeman](http://twitter.com/search?q=Ygeman) | N/A |
-| 22 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 23 | [Lotta Edholm](http://twitter.com/search?q=Lotta+Edholm) | N/A |
-| 24 | [me or the ps5](http://twitter.com/search?q=me+or+the+ps5) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 4 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 5 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 6 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
+| 7 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 8 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
+| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 10 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 11 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 12 | [Akelius](http://twitter.com/search?q=Akelius) | N/A |
+| 13 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 14 | [anna borg](http://twitter.com/search?q=anna+borg) | N/A |
+| 15 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
+| 16 | [Dan Eliasson](http://twitter.com/search?q=Dan+Eliasson) | N/A |
+| 17 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 18 | [alimamy cole](http://twitter.com/search?q=alimamy+cole) | N/A |
+| 19 | [Ygeman](http://twitter.com/search?q=Ygeman) | N/A |
+| 20 | [Lotta Edholm](http://twitter.com/search?q=Lotta+Edholm) | N/A |
+| 21 | [Märsta](http://twitter.com/search?q=M%c3%a4rsta) | N/A |
+| 22 | [Castellum](http://twitter.com/search?q=Castellum) | N/A |
+| 23 | [Vasa](http://twitter.com/search?q=Vasa) | N/A |
+| 24 | [Begler](http://twitter.com/search?q=Begler) | N/A |
+| 25 | [me or the ps5](http://twitter.com/search?q=me+or+the+ps5) | N/A |
+| 26 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
 | 27 | [htff](http://twitter.com/search?q=htff) | N/A |
-| 28 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 29 | [Märsta](http://twitter.com/search?q=M%c3%a4rsta) | N/A |
-| 30 | [sålde](http://twitter.com/search?q=s%c3%a5lde) | N/A |
-| 31 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 32 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 33 | [Begler](http://twitter.com/search?q=Begler) | N/A |
-| 34 | [Craft](http://twitter.com/search?q=Craft) | N/A |
-| 35 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 36 | [Moldavien](http://twitter.com/search?q=Moldavien) | N/A |
-| 37 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
-| 38 | [sosseriet](http://twitter.com/search?q=sosseriet) | N/A |
-| 39 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 40 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 41 | [Göran](http://twitter.com/search?q=G%c3%b6ran) | N/A |
-| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 43 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 44 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
-| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 46 | [budgeten](http://twitter.com/search?q=budgeten) | N/A |
-| 47 | [Remove](http://twitter.com/search?q=Remove) | N/A |
-| 48 | [Kärlek](http://twitter.com/search?q=K%c3%a4rlek) | N/A |
+| 28 | [Moldavien](http://twitter.com/search?q=Moldavien) | N/A |
+| 29 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 30 | [Högsta](http://twitter.com/search?q=H%c3%b6gsta) | N/A |
+| 31 | [Craft](http://twitter.com/search?q=Craft) | N/A |
+| 32 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 33 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 34 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 35 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 36 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 37 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
+| 38 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 39 | [budgeten](http://twitter.com/search?q=budgeten) | N/A |
+| 40 | [Remove](http://twitter.com/search?q=Remove) | N/A |
+| 41 | [Sålde](http://twitter.com/search?q=S%c3%a5lde) | N/A |
+| 42 | [Göran](http://twitter.com/search?q=G%c3%b6ran) | N/A |
+| 43 | [Löfvens](http://twitter.com/search?q=L%c3%b6fvens) | N/A |
+| 44 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 46 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 47 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 48 | [EU-Kommissionens](http://twitter.com/search?q=EU-Kommissionens) | N/A |
 
 
 
