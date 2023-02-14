@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-14 04:17:38 UTC`
+📆 Last Updated: `2023-02-14 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Brazil
 | 6 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
 | 7 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
 | 8 | [dudu](http://twitter.com/search?q=dudu) | N/A |
-| 9 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 10 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 9 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 10 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
 | 11 | [manu](http://twitter.com/search?q=manu) | N/A |
-| 12 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 12 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
 | 13 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
 | 14 | [#bbb33](http://twitter.com/search?q=%23bbb33) | N/A |
 | 15 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
 | 16 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 17 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 17 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
 | 18 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 19 | [O Black](http://twitter.com/search?q=O+Black) | N/A |
-| 20 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 21 | [BDAY GABEPEIXE](http://twitter.com/search?q=BDAY+GABEPEIXE) | N/A |
-| 22 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 23 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
-| 24 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
-| 25 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 27 | [Tiago Abravanel](http://twitter.com/search?q=Tiago+Abravanel) | N/A |
-| 28 | [O Sapato](http://twitter.com/search?q=O+Sapato) | N/A |
-| 29 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 30 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
-| 31 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 32 | [Blacklover](http://twitter.com/search?q=Blacklover) | N/A |
-| 33 | [caroline](http://twitter.com/search?q=caroline) | N/A |
-| 34 | [Vai Larissa](http://twitter.com/search?q=Vai+Larissa) | N/A |
-| 35 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 36 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 19 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 20 | [O Black](http://twitter.com/search?q=O+Black) | N/A |
+| 21 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 22 | [caroline](http://twitter.com/search?q=caroline) | N/A |
+| 23 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 25 | [GUSKEY PROTAGONISTAS](http://twitter.com/search?q=GUSKEY+PROTAGONISTAS) | N/A |
+| 26 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 27 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 28 | [Tiago Abravanel](http://twitter.com/search?q=Tiago+Abravanel) | N/A |
+| 29 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 30 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 31 | [Blacklover](http://twitter.com/search?q=Blacklover) | N/A |
+| 32 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
+| 33 | [Vai Larissa](http://twitter.com/search?q=Vai+Larissa) | N/A |
+| 34 | [O Sapato](http://twitter.com/search?q=O+Sapato) | N/A |
+| 35 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 36 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
 | 37 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 38 | [São Gonçalo](http://twitter.com/search?q=S%c3%a3o+Gon%c3%a7alo) | N/A |
-| 39 | [flashback](http://twitter.com/search?q=flashback) | N/A |
-| 40 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
+| 38 | [Desequilibrado](http://twitter.com/search?q=Desequilibrado) | N/A |
+| 39 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 40 | [Roberto Campos Neto](http://twitter.com/search?q=Roberto+Campos+Neto) | N/A |
 | 41 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 42 | [DESEQUILIBRADO](http://twitter.com/search?q=DESEQUILIBRADO) | N/A |
-| 43 | [PODE MAS NÃO MENTE](http://twitter.com/search?q=PODE+MAS+N%c3%83O+MENTE) | N/A |
-| 44 | [Roberto Campos Neto](http://twitter.com/search?q=Roberto+Campos+Neto) | N/A |
-| 45 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 46 | [Walisson](http://twitter.com/search?q=Walisson) | N/A |
-| 47 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 48 | [Habla Larissa](http://twitter.com/search?q=Habla+Larissa) | N/A |
-| 49 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 50 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
+| 42 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 43 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 44 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
+| 45 | [Habla Larissa](http://twitter.com/search?q=Habla+Larissa) | N/A |
+| 46 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 49 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 50 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
 
 
 

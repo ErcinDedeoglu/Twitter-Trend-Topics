@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-02-14 04:17:23 UTC`
+📆 Last Updated: `2023-02-14 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
 | 2 | [#PulwamaAttack](http://twitter.com/search?q=%23PulwamaAttack) | N/A |
 | 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 4 | [#BlackDay](http://twitter.com/search?q=%23BlackDay) | N/A |
-| 5 | [#बोधदिवस_पर_विश्व_को_न्यौता](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%8c%e0%a4%a4%e0%a4%be) | N/A |
-| 6 | [3 Days Left For Bodh Diwas](http://twitter.com/search?q=3+Days+Left+For+Bodh+Diwas) | N/A |
-| 7 | [#sushmaswaraj](http://twitter.com/search?q=%23sushmaswaraj) | N/A |
-| 8 | [Travel With EaseMyTrip](http://twitter.com/search?q=Travel+With+EaseMyTrip) | N/A |
-| 9 | [सुषमा स्वराज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a4%ae%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 10 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
-| 11 | [Jai Hind](http://twitter.com/search?q=Jai+Hind) | Jai Hind is a Hindi phrase meaning “Victory to India” or “Long live India”. It is commonly used as a patriotic slogan to express support for India and its people. |
+| 4 | [#बोधदिवस_पर_विश्व_को_न्यौता](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%8c%e0%a4%a4%e0%a4%be) | N/A |
+| 5 | [#पुलवामा](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
+| 6 | [#sushmaswaraj](http://twitter.com/search?q=%23sushmaswaraj) | N/A |
+| 7 | [3 Days Left For Bodh Diwas](http://twitter.com/search?q=3+Days+Left+For+Bodh+Diwas) | N/A |
+| 8 | [सुषमा स्वराज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a4%ae%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 9 | [Jai Hind](http://twitter.com/search?q=Jai+Hind) | Jai Hind is a Hindi phrase meaning “Victory to India” or “Long live India”. It is commonly used as a patriotic slogan to express support for India and its people. |
+| 10 | [Travel With EaseMyTrip](http://twitter.com/search?q=Travel+With+EaseMyTrip) | N/A |
+| 11 | [पूर्व विदेश मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 12 | [Never Forgive](http://twitter.com/search?q=Never+Forgive) | N/A |
-| 13 | [Sachhe Prem Ki Anubhuti](http://twitter.com/search?q=Sachhe+Prem+Ki+Anubhuti) | N/A |
-| 14 | [पूर्व विदेश मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 15 | [CBIDelay Injustice 2Sushant](http://twitter.com/search?q=CBIDelay+Injustice+2Sushant) | N/A |
-| 16 | [Digital Fasting](http://twitter.com/search?q=Digital+Fasting) | N/A |
-| 17 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 13 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
+| 14 | [CBIDelay Injustice 2Sushant](http://twitter.com/search?q=CBIDelay+Injustice+2Sushant) | N/A |
+| 15 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
+| 16 | [Sachhe Prem Ki Anubhuti](http://twitter.com/search?q=Sachhe+Prem+Ki+Anubhuti) | N/A |
+| 17 | [अमर दीप](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%a6%e0%a5%80%e0%a4%aa) | N/A |
 | 18 | [अमर वीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 19 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 20 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 21 | [अमर वाणी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 22 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
-| 23 | [अमर दीप](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%a6%e0%a5%80%e0%a4%aa) | N/A |
-| 24 | [भारतीय राजनीति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
-| 25 | [The Nation](http://twitter.com/search?q=The+Nation) | N/A |
-| 26 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 27 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
-| 28 | [प्रेम गीत](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%ae+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
-| 29 | [पप्पू यादव](http://twitter.com/search?q=%e0%a4%aa%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 30 | [Bravehearts](http://twitter.com/search?q=Bravehearts) | N/A |
-| 31 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 32 | [ब्राह्मण परिवार](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 33 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 34 | [कोटि प्रणाम](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a3%e0%a4%be%e0%a4%ae) | N/A |
-| 35 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 36 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 37 | [#पुलवामा](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
-| 38 | [#DigitalDetox](http://twitter.com/search?q=%23DigitalDetox) | N/A |
-| 39 | [#IndianArmy](http://twitter.com/search?q=%23IndianArmy) | N/A |
-| 40 | [#HappyParentsWorshipDay](http://twitter.com/search?q=%23HappyParentsWorshipDay) | N/A |
-| 41 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 42 | [#CRPF](http://twitter.com/search?q=%23CRPF) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#जय_श्री_हनुमान](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 45 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 46 | [#जयहिंद](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6) | N/A |
-| 47 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
-| 48 | [#Kanpur](http://twitter.com/search?q=%23Kanpur) | N/A |
-| 49 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 50 | [#LoversDay](http://twitter.com/search?q=%23LoversDay) | N/A |
+| 19 | [भारतीय राजनीति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
+| 20 | [The Nation](http://twitter.com/search?q=The+Nation) | N/A |
+| 21 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 22 | [अमर वाणी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 23 | [Digital Fasting](http://twitter.com/search?q=Digital+Fasting) | N/A |
+| 24 | [Bravehearts](http://twitter.com/search?q=Bravehearts) | N/A |
+| 25 | [Supreme Sacrifice](http://twitter.com/search?q=Supreme+Sacrifice) | N/A |
+| 26 | [Jawans](http://twitter.com/search?q=Jawans) | N/A |
+| 27 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 28 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 29 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
+| 30 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 31 | [प्रेम गीत](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%ae+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
+| 32 | [गरीब ब्राह्मण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3) | N/A |
+| 33 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 34 | [CheQ](http://twitter.com/search?q=CheQ) | N/A |
+| 35 | [जानकी जयंती](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%95%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 36 | [परम धर्म](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 37 | [ब्राह्मण परिवार](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 38 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
+| 39 | [पप्पू यादव](http://twitter.com/search?q=%e0%a4%aa%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 40 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 41 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 42 | [Naman](http://twitter.com/search?q=Naman) | N/A |
+| 43 | [कोटि प्रणाम](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a3%e0%a4%be%e0%a4%ae) | N/A |
+| 44 | [Remove](http://twitter.com/search?q=Remove) | N/A |
+| 45 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 46 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 47 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 48 | [#DreamGirl2](http://twitter.com/search?q=%23DreamGirl2) | N/A |
+| 49 | [#DigitalDetox](http://twitter.com/search?q=%23DigitalDetox) | N/A |
+| 50 | [#IndianArmy](http://twitter.com/search?q=%23IndianArmy) | N/A |
 
 
 

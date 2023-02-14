@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-14 04:17:06 UTC`
+📆 Last Updated: `2023-02-14 05:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 4 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
-| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 6 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
-| 7 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 10 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 11 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 12 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 15 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 16 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 17 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 5 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 6 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
+| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 8 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 10 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 11 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
+| 12 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 13 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 14 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 17 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 18 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 19 | [Apology](http://twitter.com/search?q=Apology) | N/A |
-| 20 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
-| 21 | [Sport Integrity Australia](http://twitter.com/search?q=Sport+Integrity+Australia) | N/A |
-| 22 | [Paige](http://twitter.com/search?q=Paige) | N/A |
-| 23 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 19 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 20 | [John Laws](http://twitter.com/search?q=John+Laws) | N/A |
+| 21 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 22 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 23 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
 | 24 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 25 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 26 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 25 | [Paige](http://twitter.com/search?q=Paige) | N/A |
+| 26 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
 | 27 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 28 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 29 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 30 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 28 | [Apology](http://twitter.com/search?q=Apology) | N/A |
+| 29 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 30 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 31 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 32 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 33 | [Stolen Generations](http://twitter.com/search?q=Stolen+Generations) | N/A |
-| 34 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 35 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 36 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 37 | [Rudd](http://twitter.com/search?q=Rudd) | N/A |
-| 38 | [Ash Gardner](http://twitter.com/search?q=Ash+Gardner) | N/A |
-| 39 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 42 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 43 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 44 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 45 | [daily quordle 386](http://twitter.com/search?q=daily+quordle+386) | N/A |
+| 32 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
+| 33 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 34 | [Stolen Generations](http://twitter.com/search?q=Stolen+Generations) | N/A |
+| 35 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
+| 36 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 37 | [Ash Gardner](http://twitter.com/search?q=Ash+Gardner) | N/A |
+| 38 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 39 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 40 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 41 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 42 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 43 | [Rudd](http://twitter.com/search?q=Rudd) | N/A |
+| 44 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 45 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 46 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 47 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 47 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
 | 48 | [Bridget](http://twitter.com/search?q=Bridget) | N/A |
-| 49 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
-| 50 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 49 | [Daily Quordle 386](http://twitter.com/search?q=Daily+Quordle+386) | N/A |
+| 50 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
 
 
 

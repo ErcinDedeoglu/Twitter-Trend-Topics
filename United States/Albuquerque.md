@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-14 04:17:27 UTC`
+📆 Last Updated: `2023-02-14 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nmwx](http://twitter.com/search?q=%23nmwx) | N/A |
+| 1 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 3 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
 | 4 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 5 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 6 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 7 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 8 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 10 | [#ActiveShooter](http://twitter.com/search?q=%23ActiveShooter) | N/A |
-| 11 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 13 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 5 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 6 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
+| 7 | [#ActiveShooter](http://twitter.com/search?q=%23ActiveShooter) | N/A |
+| 8 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 9 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 10 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 11 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 12 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 13 | [Suspect](http://twitter.com/search?q=Suspect) | N/A |
 | 14 | [Praying for MSU](http://twitter.com/search?q=Praying+for+MSU) | N/A |
-| 15 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 16 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 16 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
 | 17 | [Prayers for MSU](http://twitter.com/search?q=Prayers+for+MSU) | N/A |
-| 18 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 18 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
 | 19 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 20 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 21 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
-| 22 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 23 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 25 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 26 | [Pray for MSU](http://twitter.com/search?q=Pray+for+MSU) | N/A |
-| 27 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 28 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 29 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 30 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 31 | [IM East](http://twitter.com/search?q=IM+East) | N/A |
-| 32 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
-| 33 | [maddox](http://twitter.com/search?q=maddox) | N/A |
-| 34 | [Ant and Jaden](http://twitter.com/search?q=Ant+and+Jaden) | N/A |
-| 35 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
-| 36 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
-| 37 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
-| 38 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 39 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 40 | [Sparrow Hospital](http://twitter.com/search?q=Sparrow+Hospital) | N/A |
-| 41 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
-| 42 | [Strus](http://twitter.com/search?q=Strus) | N/A |
-| 43 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 44 | [Jongho](http://twitter.com/search?q=Jongho) | N/A |
-| 45 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
-| 46 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
-| 47 | [Ryan Drummond](http://twitter.com/search?q=Ryan+Drummond) | N/A |
+| 20 | [MSU Police](http://twitter.com/search?q=MSU+Police) | N/A |
+| 21 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 22 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 23 | [Berkey Hall](http://twitter.com/search?q=Berkey+Hall) | N/A |
+| 24 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 25 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 26 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
+| 27 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 28 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 29 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
+| 30 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 31 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 32 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 33 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 34 | [Beanpot](http://twitter.com/search?q=Beanpot) | N/A |
+| 35 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 36 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 37 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 38 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 39 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
+| 40 | [Brock Cunningham](http://twitter.com/search?q=Brock+Cunningham) | N/A |
+| 41 | [maddox](http://twitter.com/search?q=maddox) | N/A |
+| 42 | [Sparrow Hospital](http://twitter.com/search?q=Sparrow+Hospital) | N/A |
+| 43 | [Wyvern King](http://twitter.com/search?q=Wyvern+King) | N/A |
+| 44 | [Billy Baker](http://twitter.com/search?q=Billy+Baker) | N/A |
+| 45 | [IM East](http://twitter.com/search?q=IM+East) | N/A |
+| 46 | [Okposo](http://twitter.com/search?q=Okposo) | N/A |
+| 47 | [David Cassidy](http://twitter.com/search?q=David+Cassidy) | N/A |
 
 
 

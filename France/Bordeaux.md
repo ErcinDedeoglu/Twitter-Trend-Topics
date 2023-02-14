@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-14 04:16:55 UTC`
+📆 Last Updated: `2023-02-14 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,46 @@ This is top 50 for [France](</France>)
 | 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
 | 8 | [#PatronIncognito](http://twitter.com/search?q=%23PatronIncognito) | N/A |
 | 9 | [#olrcl](http://twitter.com/search?q=%23olrcl) | N/A |
-| 10 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 11 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 12 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 13 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 14 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 10 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 11 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 12 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 14 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 15 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 16 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 17 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 18 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 19 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 20 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
-| 21 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 22 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 23 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 16 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 17 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 18 | [CHSCT](http://twitter.com/search?q=CHSCT) | N/A |
+| 19 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 21 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 22 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 23 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 24 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 26 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 27 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 28 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 29 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 30 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
-| 31 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 32 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 33 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 31 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 32 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 33 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 34 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
 | 35 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 36 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 37 | [Karl Olive](http://twitter.com/search?q=Karl+Olive) | N/A |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [buttes-chaumont](http://twitter.com/search?q=buttes-chaumont) | N/A |
-| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 41 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
-| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 43 | [king of fields 95](http://twitter.com/search?q=king+of+fields+95) | N/A |
-| 44 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
-| 45 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 46 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 47 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 48 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
-| 49 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 50 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 37 | [buttes-chaumont](http://twitter.com/search?q=buttes-chaumont) | N/A |
+| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 39 | [king of fields 95](http://twitter.com/search?q=king+of+fields+95) | N/A |
+| 40 | [Chassaigne](http://twitter.com/search?q=Chassaigne) | N/A |
+| 41 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 42 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
+| 43 | [Karl Olive](http://twitter.com/search?q=Karl+Olive) | N/A |
+| 44 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 45 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 46 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 47 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 48 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 49 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
 
 
 
