@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-14 19:17:03 UTC`
+📆 Last Updated: `2023-02-14 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Ecuador
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 3 | [#ElGranInforme](http://twitter.com/search?q=%23ElGranInforme) | N/A |
-| 4 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
+| 3 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
+| 4 | [#ElGranInforme](http://twitter.com/search?q=%23ElGranInforme) | N/A |
 | 5 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 6 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
 | 7 | [#ElGranPadrino](http://twitter.com/search?q=%23ElGranPadrino) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Ecuador
 | 9 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
 | 10 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
 | 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 12 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 13 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 12 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 13 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 14 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 15 | [Narco](http://twitter.com/search?q=Narco) | N/A |
-| 16 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 15 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 18 | [Ética](http://twitter.com/search?q=%c3%89tica) | N/A |
+| 18 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
 | 19 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 20 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
-| 21 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 22 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
-| 23 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 24 | [Mundial de Indonesia](http://twitter.com/search?q=Mundial+de+Indonesia) | N/A |
-| 25 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 26 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 27 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 28 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
-| 29 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
-| 30 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 31 | [Monge](http://twitter.com/search?q=Monge) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Beccacece](http://twitter.com/search?q=Beccacece) | N/A |
-| 34 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 35 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 36 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 37 | [Bran](http://twitter.com/search?q=Bran) | N/A |
-| 38 | [Dinapen](http://twitter.com/search?q=Dinapen) | N/A |
-| 39 | [Germán Cáceres](http://twitter.com/search?q=Germ%c3%a1n+C%c3%a1ceres) | N/A |
-| 40 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
-| 41 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
-| 42 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 43 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 44 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 45 | [Baldor Bermeo](http://twitter.com/search?q=Baldor+Bermeo) | N/A |
-| 46 | [Gral](http://twitter.com/search?q=Gral) | N/A |
-| 47 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 48 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 49 | [Wilman Terán](http://twitter.com/search?q=Wilman+Ter%c3%a1n) | N/A |
-| 50 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 20 | [Monge](http://twitter.com/search?q=Monge) | N/A |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [quinsaloma](http://twitter.com/search?q=quinsaloma) | N/A |
+| 24 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 25 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 26 | [Mundial de Indonesia](http://twitter.com/search?q=Mundial+de+Indonesia) | N/A |
+| 27 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
+| 28 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 29 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 30 | [Bran](http://twitter.com/search?q=Bran) | N/A |
+| 31 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 32 | [Germán Cáceres](http://twitter.com/search?q=Germ%c3%a1n+C%c3%a1ceres) | N/A |
+| 33 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
+| 34 | [Ética](http://twitter.com/search?q=%c3%89tica) | N/A |
+| 35 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
+| 36 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
+| 37 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 38 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 39 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 40 | [Dinapen](http://twitter.com/search?q=Dinapen) | N/A |
+| 41 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
+| 42 | [baldor bermeo](http://twitter.com/search?q=baldor+bermeo) | N/A |
+| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 44 | [Gral](http://twitter.com/search?q=Gral) | N/A |
+| 45 | [Beccacece](http://twitter.com/search?q=Beccacece) | N/A |
+| 46 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 47 | [Banco de Guayaquil](http://twitter.com/search?q=Banco+de+Guayaquil) | N/A |
+| 48 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 49 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 50 | [Almada](http://twitter.com/search?q=Almada) | N/A |
 
 
 

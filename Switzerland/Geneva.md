@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-14 19:16:34 UTC`
+📆 Last Updated: `2023-02-14 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 5 | [#Bundeshaus](http://twitter.com/search?q=%23Bundeshaus) | N/A |
-| 6 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
-| 7 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 2 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 3 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 4 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 5 | [#SampdoriaInter](http://twitter.com/search?q=%23SampdoriaInter) | N/A |
+| 6 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 8 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 11 | [Berlusconi](http://twitter.com/search?q=Berlusconi) | N/A |
-| 12 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
-| 13 | [kantonsrat](http://twitter.com/search?q=kantonsrat) | N/A |
-| 14 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 15 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 16 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 17 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 18 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 19 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 20 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
-| 21 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 22 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
-| 23 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 25 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 26 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
-| 27 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 28 | [eritreer](http://twitter.com/search?q=eritreer) | N/A |
-| 29 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 30 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 31 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 32 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 33 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 34 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 35 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 36 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 37 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 38 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 39 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 40 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 41 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 42 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 43 | [Les USA](http://twitter.com/search?q=Les+USA) | N/A |
-| 44 | [Gebäude](http://twitter.com/search?q=Geb%c3%a4ude) | N/A |
-| 45 | [Wege](http://twitter.com/search?q=Wege) | N/A |
-| 46 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 47 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 13 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 14 | [kantonsrat](http://twitter.com/search?q=kantonsrat) | N/A |
+| 15 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 16 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 19 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 21 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 22 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
+| 23 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
+| 24 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 25 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 26 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 27 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 29 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 30 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 31 | [eritreer](http://twitter.com/search?q=eritreer) | N/A |
+| 32 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 33 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 34 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 35 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 36 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 37 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 38 | [Wege](http://twitter.com/search?q=Wege) | N/A |
+| 39 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 40 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 41 | [Les USA](http://twitter.com/search?q=Les+USA) | N/A |
+| 42 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 43 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 44 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 45 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 46 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 47 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 48 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
 
 
 

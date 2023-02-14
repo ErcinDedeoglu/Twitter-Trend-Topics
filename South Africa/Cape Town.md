@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-02-14 19:16:45 UTC`
+📆 Last Updated: `2023-02-14 20:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [#SONADebate](http://twitter.com/search?q=%23SONADebate) | N/A |
-| 3 | [#RIPakaworldwide](http://twitter.com/search?q=%23RIPakaworldwide) | N/A |
+| 2 | [#AfterTears](http://twitter.com/search?q=%23AfterTears) | N/A |
+| 3 | [#SONADebate](http://twitter.com/search?q=%23SONADebate) | N/A |
 | 4 | [#HitOrMissDatingShow](http://twitter.com/search?q=%23HitOrMissDatingShow) | N/A |
-| 5 | [#LoveWithCapitec](http://twitter.com/search?q=%23LoveWithCapitec) | N/A |
-| 6 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 5 | [#RIPakaworldwide](http://twitter.com/search?q=%23RIPakaworldwide) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 7 | [Lerato Kganyago](http://twitter.com/search?q=Lerato+Kganyago) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 10 | [Don Design](http://twitter.com/search?q=Don+Design) | N/A |
-| 11 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 11 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 12 | [Don Design](http://twitter.com/search?q=Don+Design) | N/A |
 | 13 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
 | 14 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 15 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 16 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
-| 17 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
-| 18 | [Lehasa](http://twitter.com/search?q=Lehasa) | N/A |
-| 19 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
-| 20 | [happy mashiane](http://twitter.com/search?q=happy+mashiane) | N/A |
-| 21 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 22 | [Tony Forbes](http://twitter.com/search?q=Tony+Forbes) | N/A |
-| 23 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
+| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 16 | [Vote Khosicle](http://twitter.com/search?q=Vote+Khosicle) | N/A |
+| 17 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 18 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
+| 19 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
+| 20 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
+| 21 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
+| 22 | [Fire Sale 2023](http://twitter.com/search?q=Fire+Sale+2023) | N/A |
+| 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
 | 24 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 25 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 26 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 27 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 28 | [ewaa](http://twitter.com/search?q=ewaa) | N/A |
-| 29 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
-| 30 | [Chippa United](http://twitter.com/search?q=Chippa+United) | N/A |
+| 25 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 26 | [Happy Mashiane](http://twitter.com/search?q=Happy+Mashiane) | N/A |
+| 27 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
+| 28 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
+| 29 | [Tony Forbes](http://twitter.com/search?q=Tony+Forbes) | N/A |
+| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 31 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 32 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 33 | [Fire Sale 2023](http://twitter.com/search?q=Fire+Sale+2023) | N/A |
-| 34 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 35 | [Reeva Steenkamp](http://twitter.com/search?q=Reeva+Steenkamp) | N/A |
-| 36 | [Nanette](http://twitter.com/search?q=Nanette) | N/A |
-| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 39 | [Polokwane City](http://twitter.com/search?q=Polokwane+City) | N/A |
-| 40 | [Bloated](http://twitter.com/search?q=Bloated) | N/A |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 43 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 44 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 45 | [Michael Loftman](http://twitter.com/search?q=Michael+Loftman) | N/A |
-| 46 | [Phumulani Mall](http://twitter.com/search?q=Phumulani+Mall) | N/A |
-| 47 | [Juiovla](http://twitter.com/search?q=Juiovla) | N/A |
-| 48 | [Khwezi](http://twitter.com/search?q=Khwezi) | N/A |
-| 49 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 50 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 32 | [Polokwane City](http://twitter.com/search?q=Polokwane+City) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 35 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 36 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
+| 37 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 38 | [Reeva Steenkamp](http://twitter.com/search?q=Reeva+Steenkamp) | N/A |
+| 39 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 40 | [Chippa United](http://twitter.com/search?q=Chippa+United) | N/A |
+| 41 | [Compact](http://twitter.com/search?q=Compact) | N/A |
+| 42 | [Michael Loftman](http://twitter.com/search?q=Michael+Loftman) | N/A |
+| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 44 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 45 | [Phumulani Mall](http://twitter.com/search?q=Phumulani+Mall) | N/A |
+| 46 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 48 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 49 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 50 | [Juiovla](http://twitter.com/search?q=Juiovla) | N/A |
 
 
 

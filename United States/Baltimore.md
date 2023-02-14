@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-02-14 19:16:54 UTC`
+📆 Last Updated: `2023-02-14 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RavensFlock](http://twitter.com/search?q=%23RavensFlock) | N/A |
-| 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 4 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
 | 5 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
-| 6 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
-| 7 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 8 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 9 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 6 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 7 | [Dianne Feinstein](http://twitter.com/search?q=Dianne+Feinstein) | N/A |
+| 8 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 9 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 11 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 12 | [Monken](http://twitter.com/search?q=Monken) | N/A |
-| 13 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 14 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 15 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 16 | [Dianne Feinstein](http://twitter.com/search?q=Dianne+Feinstein) | N/A |
-| 17 | [Mike Bobo](http://twitter.com/search?q=Mike+Bobo) | N/A |
-| 18 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 19 | [OC and DC](http://twitter.com/search?q=OC+and+DC) | N/A |
-| 20 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
-| 21 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 22 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 23 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 25 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 26 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 27 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 28 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 29 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
-| 30 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
-| 31 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 32 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 33 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
-| 34 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 35 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
-| 36 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
-| 39 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 40 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 41 | [Brian Fraser](http://twitter.com/search?q=Brian+Fraser) | N/A |
-| 42 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 43 | [Adam Frisch](http://twitter.com/search?q=Adam+Frisch) | N/A |
-| 44 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
-| 45 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 46 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 47 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 48 | [Yellowcard](http://twitter.com/search?q=Yellowcard) | N/A |
-| 49 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 50 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 12 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 15 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 16 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
+| 17 | [Monken](http://twitter.com/search?q=Monken) | N/A |
+| 18 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 19 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 20 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 21 | [OC and DC](http://twitter.com/search?q=OC+and+DC) | N/A |
+| 22 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 23 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 24 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
+| 25 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
+| 26 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 27 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 28 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 30 | [Catapult](http://twitter.com/search?q=Catapult) | N/A |
+| 31 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 32 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 33 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 34 | [MF DOOM](http://twitter.com/search?q=MF+DOOM) | N/A |
+| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 36 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 37 | [Team Snapchat](http://twitter.com/search?q=Team+Snapchat) | N/A |
+| 38 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 39 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 40 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
+| 41 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 42 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 43 | [Love Day](http://twitter.com/search?q=Love+Day) | N/A |
+| 44 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 45 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 46 | [MC Ride](http://twitter.com/search?q=MC+Ride) | N/A |
+| 47 | [OC & DC](http://twitter.com/search?q=OC+%26+DC) | N/A |
+| 48 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 49 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 50 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
 
 
 

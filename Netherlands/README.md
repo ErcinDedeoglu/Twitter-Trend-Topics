@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-14 19:17:06 UTC`
+📆 Last Updated: `2023-02-14 20:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 3 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 4 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 5 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
+| 2 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 3 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 4 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 5 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 7 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 8 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 10 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 11 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 12 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 13 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 14 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
-| 15 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 16 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
-| 17 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
-| 18 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 19 | [Annabel](http://twitter.com/search?q=Annabel) | N/A |
-| 20 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
-| 21 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
-| 22 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 23 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
-| 24 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 25 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 26 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 27 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
-| 28 | [krezip](http://twitter.com/search?q=krezip) | N/A |
-| 29 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
-| 30 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
-| 31 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 32 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 33 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 34 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 36 | [KMar](http://twitter.com/search?q=KMar) | N/A |
-| 37 | [Dag 14](http://twitter.com/search?q=Dag+14) | N/A |
-| 38 | [Intravacc](http://twitter.com/search?q=Intravacc) | N/A |
-| 39 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 40 | [Akai](http://twitter.com/search?q=Akai) | N/A |
-| 41 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 42 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 43 | [Multipla](http://twitter.com/search?q=Multipla) | N/A |
-| 44 | [Succes Willem](http://twitter.com/search?q=Succes+Willem) | N/A |
-| 45 | [umcg](http://twitter.com/search?q=umcg) | N/A |
-| 46 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 47 | [Nieuw-Zeeland](http://twitter.com/search?q=Nieuw-Zeeland) | N/A |
-| 48 | [Ranst](http://twitter.com/search?q=Ranst) | N/A |
-| 49 | [Aalscholver](http://twitter.com/search?q=Aalscholver) | N/A |
-| 50 | [Schindler](http://twitter.com/search?q=Schindler) | N/A |
+| 7 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 9 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 10 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 11 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 13 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
+| 14 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 15 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 16 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 17 | [Irma](http://twitter.com/search?q=Irma) | N/A |
+| 18 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 19 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Annabel](http://twitter.com/search?q=Annabel) | N/A |
+| 22 | [Mei Li Vos](http://twitter.com/search?q=Mei+Li+Vos) | N/A |
+| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 24 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 25 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
+| 26 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
+| 27 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 28 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 29 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 30 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
+| 31 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 32 | [krezip](http://twitter.com/search?q=krezip) | N/A |
+| 33 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 34 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 35 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 36 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
+| 39 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 41 | [Dag 14](http://twitter.com/search?q=Dag+14) | N/A |
+| 42 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 43 | [KMAR](http://twitter.com/search?q=KMAR) | N/A |
+| 44 | [Intravacc](http://twitter.com/search?q=Intravacc) | N/A |
+| 45 | [Marechaussee](http://twitter.com/search?q=Marechaussee) | N/A |
+| 46 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 47 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
+| 48 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 49 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 50 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-14 19:16:29 UTC`
+📆 Last Updated: `2023-02-14 20:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 2 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 4 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
-| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 6 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
-| 7 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 9 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 10 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 11 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 12 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 13 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 14 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 15 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 16 | [Warren Zaïre](http://twitter.com/search?q=Warren+Za%c3%afre) | N/A |
-| 17 | [Shin](http://twitter.com/search?q=Shin) | N/A |
-| 18 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 19 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
-| 20 | [Scream](http://twitter.com/search?q=Scream) | N/A |
-| 21 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 22 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 23 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
-| 24 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 25 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 26 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 27 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 28 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
-| 29 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 30 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 31 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
-| 32 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 33 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 34 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 35 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 36 | [Mensonges](http://twitter.com/search?q=Mensonges) | N/A |
-| 37 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
-| 38 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 39 | [#RallumerLesEtoiles](http://twitter.com/search?q=%23RallumerLesEtoiles) | N/A |
-| 40 | [#mylenefarmer](http://twitter.com/search?q=%23mylenefarmer) | N/A |
-| 41 | [#Facealinfo](http://twitter.com/search?q=%23Facealinfo) | N/A |
-| 42 | [#kingdom748](http://twitter.com/search?q=%23kingdom748) | N/A |
-| 43 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 44 | [#chainsawman120](http://twitter.com/search?q=%23chainsawman120) | N/A |
-| 45 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 46 | [#chomage](http://twitter.com/search?q=%23chomage) | N/A |
-| 47 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 48 | [#MerciMacron](http://twitter.com/search?q=%23MerciMacron) | N/A |
-| 49 | [#Ohio](http://twitter.com/search?q=%23Ohio) | N/A |
-| 50 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 1 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 2 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 3 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 4 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 5 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 6 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 7 | [Le Tifo](http://twitter.com/search?q=Le+Tifo) | N/A |
+| 8 | [Shin](http://twitter.com/search?q=Shin) | N/A |
+| 9 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 10 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 11 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 12 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 13 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 14 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 15 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 16 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 17 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
+| 18 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 19 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 20 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
+| 21 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 22 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 23 | [Auteuil](http://twitter.com/search?q=Auteuil) | N/A |
+| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 25 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 26 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 27 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 28 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 29 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 30 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 31 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 32 | [Objectif](http://twitter.com/search?q=Objectif) | N/A |
+| 33 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 34 | [Valo](http://twitter.com/search?q=Valo) | N/A |
+| 35 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 36 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 37 | [L'amour](http://twitter.com/search?q=L%27amour) | N/A |
+| 38 | [Pôle Emploi](http://twitter.com/search?q=P%c3%b4le+Emploi) | N/A |
+| 39 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 40 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 41 | [14 Février](http://twitter.com/search?q=14+F%c3%a9vrier) | N/A |
+| 42 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
+| 43 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 44 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 45 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 46 | [#AgustDTourInEurope](http://twitter.com/search?q=%23AgustDTourInEurope) | N/A |
+| 47 | [#FuchsLaHonte](http://twitter.com/search?q=%23FuchsLaHonte) | N/A |
+| 48 | [#Facealinfo](http://twitter.com/search?q=%23Facealinfo) | N/A |
+| 49 | [#RallumerLesEtoiles](http://twitter.com/search?q=%23RallumerLesEtoiles) | N/A |
+| 50 | [#mylenefarmer](http://twitter.com/search?q=%23mylenefarmer) | N/A |
 
 
 

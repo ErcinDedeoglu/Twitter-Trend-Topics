@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-14 19:16:52 UTC`
+📆 Last Updated: `2023-02-14 20:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Destan Yazıyor](http://twitter.com/search?q=Destan+Yaz%c4%b1yor) | N/A |
-| 2 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
-| 3 | [#uzaktanegitimistemiyorum](http://twitter.com/search?q=%23uzaktanegitimistemiyorum) | N/A |
-| 4 | [#ElazığAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9fAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
-| 5 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 6 | [Kenan İmirzalıoğlu](http://twitter.com/search?q=Kenan+%c4%b0mirzal%c4%b1o%c4%9flu) | N/A |
-| 7 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
-| 8 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 9 | [Oktay Kaynarca](http://twitter.com/search?q=Oktay+Kaynarca) | N/A |
-| 10 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 11 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 12 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 13 | [Sağlık](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k) | N/A |
-| 14 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 15 | [Prompter](http://twitter.com/search?q=Prompter) | N/A |
-| 16 | [Hdpli](http://twitter.com/search?q=Hdpli) | N/A |
-| 17 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 18 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 19 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
-| 20 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
-| 21 | [Tipinden](http://twitter.com/search?q=Tipinden) | N/A |
-| 22 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
-| 23 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
-| 24 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
-| 25 | [Cenazede](http://twitter.com/search?q=Cenazede) | N/A |
-| 26 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 27 | [Kürtçü](http://twitter.com/search?q=K%c3%bcrt%c3%a7%c3%bc) | N/A |
-| 28 | [Allahü Ekber](http://twitter.com/search?q=Allah%c3%bc+Ekber) | N/A |
-| 29 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
-| 30 | [Haluk Bey](http://twitter.com/search?q=Haluk+Bey) | N/A |
-| 31 | [İlker Başbuğ](http://twitter.com/search?q=%c4%b0lker+Ba%c5%9fbu%c4%9f) | N/A |
-| 32 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 33 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 34 | [Türk'ün Türk'ten](http://twitter.com/search?q=T%c3%bcrk%27%c3%bcn+T%c3%bcrk%27ten) | N/A |
-| 35 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
-| 36 | [Baykal](http://twitter.com/search?q=Baykal) | N/A |
-| 37 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 38 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
-| 39 | [Depremin 9](http://twitter.com/search?q=Depremin+9) | N/A |
-| 40 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
-| 41 | [Seçimi](http://twitter.com/search?q=Se%c3%a7imi) | N/A |
-| 42 | [Gelmiş](http://twitter.com/search?q=Gelmi%c5%9f) | N/A |
-| 43 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
-| 44 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
-| 45 | [#kykyurtlarıçözümdeğil](http://twitter.com/search?q=%23kykyurtlar%c4%b1%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
-| 46 | [#ÖLDÜ](http://twitter.com/search?q=%23%c3%96LD%c3%9c) | N/A |
-| 47 | [#kabinetoplantısı](http://twitter.com/search?q=%23kabinetoplant%c4%b1s%c4%b1) | N/A |
-| 48 | [#thyao](http://twitter.com/search?q=%23thyao) | N/A |
+| 1 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 2 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 3 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
+| 4 | [Oktay Kaynarca](http://twitter.com/search?q=Oktay+Kaynarca) | N/A |
+| 5 | [Kenan İmirzalıoğlu](http://twitter.com/search?q=Kenan+%c4%b0mirzal%c4%b1o%c4%9flu) | N/A |
+| 6 | [#ElazığAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9fAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 7 | [#uzaktanegitimistemiyorum](http://twitter.com/search?q=%23uzaktanegitimistemiyorum) | N/A |
+| 8 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 9 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 10 | [#YAPMAYİN](http://twitter.com/search?q=%23YAPMAY%c4%b0N) | N/A |
+| 11 | [Destan Yazıyor](http://twitter.com/search?q=Destan+Yaz%c4%b1yor) | N/A |
+| 12 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 13 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 14 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 15 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
+| 16 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 17 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 18 | [Sağlık](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k) | N/A |
+| 19 | [Prompter](http://twitter.com/search?q=Prompter) | N/A |
+| 20 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Hdpli](http://twitter.com/search?q=Hdpli) | N/A |
+| 23 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
+| 24 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
+| 25 | [Yanınızdayız](http://twitter.com/search?q=Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
+| 26 | [Prof. Dr. Naci Görür](http://twitter.com/search?q=Prof.+Dr.+Naci+G%c3%b6r%c3%bcr) | N/A |
+| 27 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 28 | [Depremin 9](http://twitter.com/search?q=Depremin+9) | N/A |
+| 29 | [Cenazede](http://twitter.com/search?q=Cenazede) | N/A |
+| 30 | [Baykal](http://twitter.com/search?q=Baykal) | N/A |
+| 31 | [Garo](http://twitter.com/search?q=Garo) | N/A |
+| 32 | [Tipinden](http://twitter.com/search?q=Tipinden) | N/A |
+| 33 | [Türk'ün Türk'ten](http://twitter.com/search?q=T%c3%bcrk%27%c3%bcn+T%c3%bcrk%27ten) | N/A |
+| 34 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
+| 35 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
+| 36 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
+| 37 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 38 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
+| 39 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
+| 40 | [Haluk Bey](http://twitter.com/search?q=Haluk+Bey) | N/A |
+| 41 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 42 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
+| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 44 | [Sağdaki](http://twitter.com/search?q=Sa%c4%9fdaki) | N/A |
+| 45 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 46 | [Gelmiş](http://twitter.com/search?q=Gelmi%c5%9f) | N/A |
+| 47 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
+| 48 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
 
 
 

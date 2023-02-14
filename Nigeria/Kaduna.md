@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-02-14 19:16:44 UTC`
+📆 Last Updated: `2023-02-14 20:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 2 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 3 | [#BawaMustGo](http://twitter.com/search?q=%23BawaMustGo) | N/A |
-| 4 | [#FlutterwavexBBTitans](http://twitter.com/search?q=%23FlutterwavexBBTitans) | N/A |
-| 5 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 6 | [#RecoverEnuguWithAtiku](http://twitter.com/search?q=%23RecoverEnuguWithAtiku) | N/A |
-| 7 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
+| 4 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 5 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
+| 6 | [#ShoppersWarehouse](http://twitter.com/search?q=%23ShoppersWarehouse) | N/A |
+| 7 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
 | 8 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
 | 9 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
 | 10 | [So MTN](http://twitter.com/search?q=So+MTN) | N/A |
-| 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 12 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 13 | [Dj Gaba](http://twitter.com/search?q=Dj+Gaba) | N/A |
-| 14 | [MTN network](http://twitter.com/search?q=MTN+network) | N/A |
-| 15 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 16 | [VALENTINE WITH PHYNA](http://twitter.com/search?q=VALENTINE+WITH+PHYNA) | N/A |
-| 17 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
-| 18 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 19 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 20 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 21 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 22 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
-| 23 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
-| 24 | [Ladipo](http://twitter.com/search?q=Ladipo) | N/A |
-| 25 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
-| 26 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 27 | [The Central Bank of Nigeria](http://twitter.com/search?q=The+Central+Bank+of+Nigeria) | N/A |
-| 28 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 29 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 11 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 12 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
+| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 14 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
+| 15 | [Dj Gaba](http://twitter.com/search?q=Dj+Gaba) | N/A |
+| 16 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 19 | [LOVE LETTER TO PHYNA](http://twitter.com/search?q=LOVE+LETTER+TO+PHYNA) | N/A |
+| 20 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
+| 21 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 22 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 23 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
+| 24 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
+| 25 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
+| 26 | [Ladipo](http://twitter.com/search?q=Ladipo) | N/A |
+| 27 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 28 | [The Central Bank of Nigeria](http://twitter.com/search?q=The+Central+Bank+of+Nigeria) | N/A |
+| 29 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 30 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
-| 31 | [Na MTN](http://twitter.com/search?q=Na+MTN) | N/A |
-| 32 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 33 | [SPREAD LOVE WITH YVONNE](http://twitter.com/search?q=SPREAD+LOVE+WITH+YVONNE) | N/A |
+| 31 | [SPREAD LOVE WITH YVONNE](http://twitter.com/search?q=SPREAD+LOVE+WITH+YVONNE) | N/A |
+| 32 | [MTN network](http://twitter.com/search?q=MTN+network) | N/A |
+| 33 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
 | 34 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 35 | [nasboi lover boy](http://twitter.com/search?q=nasboi+lover+boy) | N/A |
-| 36 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
-| 37 | [Saskay](http://twitter.com/search?q=Saskay) | N/A |
-| 38 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 39 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
-| 40 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [VOTE YELISA](http://twitter.com/search?q=VOTE+YELISA) | N/A |
+| 35 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 36 | [nasboi lover boy](http://twitter.com/search?q=nasboi+lover+boy) | N/A |
+| 37 | [unusual phyna](http://twitter.com/search?q=unusual+phyna) | N/A |
+| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 39 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 40 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 41 | [VOTE YELISA](http://twitter.com/search?q=VOTE+YELISA) | N/A |
+| 42 | [Saskay](http://twitter.com/search?q=Saskay) | N/A |
 | 43 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 44 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 45 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
-| 46 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 47 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
-| 48 | [THE LORD HAS HELPED ME](http://twitter.com/search?q=THE+LORD+HAS+HELPED+ME) | "THE LORD HAS HELPED ME" is a phrase from the Bible (Psalm 118:13) and it means that God has provided assistance or guidance to the speaker. |
-| 49 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 44 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
+| 45 | [ASAP Rocky](http://twitter.com/search?q=ASAP+Rocky) | N/A |
+| 46 | [THE LORD HAS HELPED ME](http://twitter.com/search?q=THE+LORD+HAS+HELPED+ME) | "THE LORD HAS HELPED ME" is a phrase from the Bible (Psalm 118:13) and it means that God has provided assistance or guidance to the speaker. |
+| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 48 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 49 | [Gbaja](http://twitter.com/search?q=Gbaja) | N/A |
 
 
 

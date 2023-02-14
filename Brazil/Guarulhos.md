@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-14 19:16:27 UTC`
+📆 Last Updated: `2023-02-14 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 2 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 4 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 5 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 6 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 1 | [#JurosBaixosJa](http://twitter.com/search?q=%23JurosBaixosJa) | N/A |
+| 2 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 3 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 4 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 5 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 6 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 9 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 10 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 13 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 14 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 15 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 16 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 17 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 18 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 21 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 22 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 23 | [Garena](http://twitter.com/search?q=Garena) | N/A |
-| 24 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
-| 25 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 26 | [Halls](http://twitter.com/search?q=Halls) | N/A |
-| 27 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 28 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 29 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 30 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 31 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 32 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 33 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 34 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
-| 35 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
-| 36 | [André Valadão](http://twitter.com/search?q=Andr%c3%a9+Valad%c3%a3o) | N/A |
-| 37 | [jack antonoff](http://twitter.com/search?q=jack+antonoff) | Jack Antonoff is an American singer, songwriter, and record producer. He is best known as the lead singer of the indie rock band Bleachers and as a member of the band Fun. He has also produced albums for Taylor Swift, Lorde, St. Vincent, and Lana Del Rey. |
-| 38 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 39 | [A&W OUT NOW](http://twitter.com/search?q=A%26W+OUT+NOW) | N/A |
-| 40 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 41 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
-| 42 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
-| 43 | [PEGOU A VISÃO](http://twitter.com/search?q=PEGOU+A+VIS%c3%83O) | N/A |
-| 44 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
-| 45 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 46 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 47 | [Vênus](http://twitter.com/search?q=V%c3%aanus) | N/A |
-| 48 | [Yelena](http://twitter.com/search?q=Yelena) | N/A |
-| 49 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
+| 8 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 9 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 12 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 13 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 16 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
+| 17 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 18 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 19 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 20 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 21 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
+| 22 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 23 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 24 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 25 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 26 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
+| 27 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 28 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 29 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 30 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 31 | [Cofre](http://twitter.com/search?q=Cofre) | N/A |
+| 32 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 33 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 34 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
+| 35 | [Furo](http://twitter.com/search?q=Furo) | N/A |
+| 36 | [Garena](http://twitter.com/search?q=Garena) | N/A |
+| 37 | [André Valadão](http://twitter.com/search?q=Andr%c3%a9+Valad%c3%a3o) | N/A |
+| 38 | [Botão](http://twitter.com/search?q=Bot%c3%a3o) | N/A |
+| 39 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 40 | [Halls](http://twitter.com/search?q=Halls) | N/A |
+| 41 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
+| 42 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 43 | [TE AMO GATINHO ESQUISITO](http://twitter.com/search?q=TE+AMO+GATINHO+ESQUISITO) | N/A |
+| 44 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 45 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 47 | [Metaforando](http://twitter.com/search?q=Metaforando) | N/A |
+| 48 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 49 | [Infinity Pool](http://twitter.com/search?q=Infinity+Pool) | N/A |
 
 
 
