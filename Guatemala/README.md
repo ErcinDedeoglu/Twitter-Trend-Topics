@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-15 04:17:52 UTC`
+📆 Last Updated: `2023-02-15 05:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Guatemala
 | 6 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 7 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
 | 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 9 | [Amistad](http://twitter.com/search?q=Amistad) | N/A |
-| 10 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 11 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 12 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 13 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 14 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 15 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 16 | [torre del reformador](http://twitter.com/search?q=torre+del+reformador) | N/A |
-| 17 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 23 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
-| 24 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 25 | [Brahim Díaz](http://twitter.com/search?q=Brahim+D%c3%adaz) | N/A |
-| 26 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 28 | [Patsy](http://twitter.com/search?q=Patsy) | N/A |
-| 29 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
+| 9 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 10 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 11 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 12 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 14 | [torre del reformador](http://twitter.com/search?q=torre+del+reformador) | N/A |
+| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 16 | [Amistad](http://twitter.com/search?q=Amistad) | N/A |
+| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 18 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 19 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 22 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 23 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 24 | [Brahim Díaz](http://twitter.com/search?q=Brahim+D%c3%adaz) | N/A |
+| 25 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
+| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 27 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 28 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 29 | [Patsy](http://twitter.com/search?q=Patsy) | N/A |
 | 30 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
 | 31 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 32 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
 | 33 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 34 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 35 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 35 | [Sandra Torres](http://twitter.com/search?q=Sandra+Torres) | N/A |
 | 36 | [Eddy Gómez](http://twitter.com/search?q=Eddy+G%c3%b3mez) | N/A |
-| 37 | [Sandra Torres](http://twitter.com/search?q=Sandra+Torres) | N/A |
-| 38 | [calzada atanasio tzul](http://twitter.com/search?q=calzada+atanasio+tzul) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 41 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 42 | [Correcto](http://twitter.com/search?q=Correcto) | N/A |
-| 43 | [Asado](http://twitter.com/search?q=Asado) | N/A |
-| 44 | [El TSE](http://twitter.com/search?q=El+TSE) | N/A |
-| 45 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 46 | [san juan alotenango](http://twitter.com/search?q=san+juan+alotenango) | N/A |
-| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 48 | [Baldizón](http://twitter.com/search?q=Baldiz%c3%b3n) | N/A |
-| 49 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 50 | [Villa Canales](http://twitter.com/search?q=Villa+Canales) | N/A |
+| 37 | [calzada atanasio tzul](http://twitter.com/search?q=calzada+atanasio+tzul) | N/A |
+| 38 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 39 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 40 | [Correcto](http://twitter.com/search?q=Correcto) | N/A |
+| 41 | [Asado](http://twitter.com/search?q=Asado) | N/A |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [El TSE](http://twitter.com/search?q=El+TSE) | N/A |
+| 44 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 45 | [san juan alotenango](http://twitter.com/search?q=san+juan+alotenango) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Baldizón](http://twitter.com/search?q=Baldiz%c3%b3n) | N/A |
+| 48 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 49 | [villa canales](http://twitter.com/search?q=villa+canales) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

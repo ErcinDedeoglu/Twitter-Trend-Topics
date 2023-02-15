@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-15 04:17:14 UTC`
+📆 Last Updated: `2023-02-15 05:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,19 +21,19 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 5 | [#allahjärtansdag](http://twitter.com/search?q=%23allahj%c3%a4rtansdag) | N/A |
 | 6 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 7 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 8 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
-| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 10 | [detsamma](http://twitter.com/search?q=detsamma) | N/A |
-| 11 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
-| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 13 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
-| 14 | [Begler](http://twitter.com/search?q=Begler) | N/A |
+| 7 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 8 | [vattenfall](http://twitter.com/search?q=vattenfall) | N/A |
+| 9 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
+| 10 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 11 | [detsamma](http://twitter.com/search?q=detsamma) | N/A |
+| 12 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
+| 13 | [begler](http://twitter.com/search?q=begler) | N/A |
+| 14 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
 | 15 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 16 | [fantenberg](http://twitter.com/search?q=fantenberg) | N/A |
-| 17 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 18 | [ortio](http://twitter.com/search?q=ortio) | N/A |
-| 19 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
+| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 18 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 19 | [ortio](http://twitter.com/search?q=ortio) | N/A |
 | 20 | [Dan Eliasson](http://twitter.com/search?q=Dan+Eliasson) | N/A |
 | 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 22 | [alimamy cole](http://twitter.com/search?q=alimamy+cole) | N/A |
@@ -41,10 +41,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 24 | [Mips](http://twitter.com/search?q=Mips) | N/A |
 | 25 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
 | 26 | [anna borg](http://twitter.com/search?q=anna+borg) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [märsta](http://twitter.com/search?q=m%c3%a4rsta) | N/A |
-| 29 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 30 | [me or the ps5](http://twitter.com/search?q=me+or+the+ps5) | N/A |
+| 27 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [märsta](http://twitter.com/search?q=m%c3%a4rsta) | N/A |
+| 30 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
 | 31 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 32 | [timashov](http://twitter.com/search?q=timashov) | N/A |
 | 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
@@ -54,7 +54,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 38 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 39 | [frölunda](http://twitter.com/search?q=fr%c3%b6lunda) | N/A |
-| 40 | [Vasa](http://twitter.com/search?q=Vasa) | N/A |
+| 40 | [vasa](http://twitter.com/search?q=vasa) | N/A |
 | 41 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
 | 42 | [simon hjalmarsson](http://twitter.com/search?q=simon+hjalmarsson) | N/A |
 | 43 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |

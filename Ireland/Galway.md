@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-15 04:17:06 UTC`
+📆 Last Updated: `2023-02-15 05:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 13 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [Adrian](http://twitter.com/search?q=Adrian) | N/A |
-| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 17 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 14 | [Adrian](http://twitter.com/search?q=Adrian) | N/A |
+| 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 16 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 18 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 20 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
 | 35 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 36 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 37 | [Deirdre Purcell](http://twitter.com/search?q=Deirdre+Purcell) | N/A |
+| 37 | [deirdre purcell](http://twitter.com/search?q=deirdre+purcell) | N/A |
 | 38 | [junior infants](http://twitter.com/search?q=junior+infants) | N/A |
 | 39 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
 | 40 | [Layla](http://twitter.com/search?q=Layla) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-15 04:17:50 UTC`
+📆 Last Updated: `2023-02-15 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,12 +26,12 @@ This is top 50 for Belgium
 | 9 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 10 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 11 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [Links](http://twitter.com/search?q=Links) | N/A |
 | 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 14 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
-| 15 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 16 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 17 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 15 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 16 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 18 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
 | 19 | [#eplenary](http://twitter.com/search?q=%23eplenary) | N/A |
 | 20 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Belgium
 | 34 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 35 | [Vlaams Parlement](http://twitter.com/search?q=Vlaams+Parlement) | N/A |
 | 36 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 37 | [jean marie](http://twitter.com/search?q=jean+marie) | N/A |
+| 37 | [Jean Marie](http://twitter.com/search?q=Jean+Marie) | N/A |
 | 38 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 39 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 41 | [zeebrugge](http://twitter.com/search?q=zeebrugge) | N/A |
-| 42 | [maaike](http://twitter.com/search?q=maaike) | N/A |
-| 43 | [Egbert](http://twitter.com/search?q=Egbert) | N/A |
+| 42 | [Maaike](http://twitter.com/search?q=Maaike) | N/A |
+| 43 | [egbert](http://twitter.com/search?q=egbert) | N/A |
 | 44 | [peter renkens](http://twitter.com/search?q=peter+renkens) | N/A |
-| 45 | [Le Parlement](http://twitter.com/search?q=Le+Parlement) | N/A |
-| 46 | [michel de herde](http://twitter.com/search?q=michel+de+herde) | N/A |
-| 47 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
-| 48 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
+| 45 | [michel de herde](http://twitter.com/search?q=michel+de+herde) | N/A |
+| 46 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
+| 47 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
+| 48 | [Lachaert](http://twitter.com/search?q=Lachaert) | N/A |
 | 49 | [Chayron](http://twitter.com/search?q=Chayron) | N/A |
-| 50 | [Lachaert](http://twitter.com/search?q=Lachaert) | N/A |
+| 50 | [dedecker](http://twitter.com/search?q=dedecker) | N/A |
 
 
 

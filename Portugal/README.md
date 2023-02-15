@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-15 04:17:56 UTC`
+📆 Last Updated: `2023-02-15 05:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for Portugal
 | 1 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 3 | [São Valentim](http://twitter.com/search?q=S%c3%a3o+Valentim) | N/A |
-| 4 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 5 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 5 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 6 | [Igreja](http://twitter.com/search?q=Igreja) | N/A |
 | 7 | [Namorados](http://twitter.com/search?q=Namorados) | N/A |
 | 8 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 9 | [#championseleven](http://twitter.com/search?q=%23championseleven) | N/A |
-| 10 | [Galp](http://twitter.com/search?q=Galp) | N/A |
+| 10 | [Catarina Martins](http://twitter.com/search?q=Catarina+Martins) | N/A |
 | 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Catarina Martins](http://twitter.com/search?q=Catarina+Martins) | N/A |
+| 12 | [GALP](http://twitter.com/search?q=GALP) | N/A |
 | 13 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 14 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
 | 15 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
@@ -47,13 +47,13 @@ This is top 50 for Portugal
 | 30 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 | 31 | [gaga](http://twitter.com/search?q=gaga) | N/A |
 | 32 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 33 | [Bloco](http://twitter.com/search?q=Bloco) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 36 | [#apostanoamor](http://twitter.com/search?q=%23apostanoamor) | N/A |
-| 37 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 38 | [Paulo Pedroso](http://twitter.com/search?q=Paulo+Pedroso) | N/A |
-| 39 | [Dia de Benfica](http://twitter.com/search?q=Dia+de+Benfica) | N/A |
+| 33 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 35 | [#apostanoamor](http://twitter.com/search?q=%23apostanoamor) | N/A |
+| 36 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 37 | [Paulo Pedroso](http://twitter.com/search?q=Paulo+Pedroso) | N/A |
+| 38 | [dia de benfica](http://twitter.com/search?q=dia+de+benfica) | N/A |
+| 39 | [Bloco](http://twitter.com/search?q=Bloco) | N/A |
 | 40 | [#NBAnaSPORTTV](http://twitter.com/search?q=%23NBAnaSPORTTV) | N/A |
 | 41 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 42 | [14 de Fevereiro](http://twitter.com/search?q=14+de+Fevereiro) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-15 04:16:59 UTC`
+📆 Last Updated: `2023-02-15 05:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
-| 2 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 2 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
 | 3 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 4 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 5 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 6 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
-| 7 | [#LeandroDiaz](http://twitter.com/search?q=%23LeandroDiaz) | N/A |
-| 8 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 9 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 10 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 11 | [#ESPNF90Colombia](http://twitter.com/search?q=%23ESPNF90Colombia) | N/A |
-| 12 | [#LaTeleLetal](http://twitter.com/search?q=%23LaTeleLetal) | N/A |
-| 13 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
-| 14 | [Millán](http://twitter.com/search?q=Mill%c3%a1n) | N/A |
-| 15 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 16 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 5 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
+| 6 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 7 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
+| 8 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 9 | [#14FPorLaSalud](http://twitter.com/search?q=%2314FPorLaSalud) | N/A |
+| 10 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 13 | [#LeandroDiaz](http://twitter.com/search?q=%23LeandroDiaz) | N/A |
+| 14 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 15 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
+| 16 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
 | 17 | [plaza de Bolívar](http://twitter.com/search?q=plaza+de+Bol%c3%advar) | N/A |
-| 18 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 19 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 20 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 21 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 22 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 23 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
-| 24 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 25 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 26 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 27 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 29 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
-| 30 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 31 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
-| 32 | [Payaso](http://twitter.com/search?q=Payaso) | N/A |
-| 33 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 34 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 37 | [Puros](http://twitter.com/search?q=Puros) | N/A |
-| 38 | [Llore](http://twitter.com/search?q=Llore) | N/A |
-| 39 | [Presidente Gustavo Petro](http://twitter.com/search?q=Presidente+Gustavo+Petro) | N/A |
-| 40 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 41 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
-| 42 | [#ColombiaALaCalle15](http://twitter.com/search?q=%23ColombiaALaCalle15) | N/A |
-| 43 | [#marchas](http://twitter.com/search?q=%23marchas) | N/A |
-| 44 | [#14FPorLaSalud](http://twitter.com/search?q=%2314FPorLaSalud) | N/A |
-| 45 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
+| 18 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 20 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
+| 21 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 22 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 23 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 24 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 25 | [Millán](http://twitter.com/search?q=Mill%c3%a1n) | N/A |
+| 26 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 27 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 28 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 29 | [Viafara](http://twitter.com/search?q=Viafara) | N/A |
+| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 31 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 32 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 33 | [Día Mundial de la Radio](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Radio) | N/A |
+| 34 | [Billy Arce](http://twitter.com/search?q=Billy+Arce) | N/A |
+| 35 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
+| 36 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
+| 37 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
+| 38 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
+| 39 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 40 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 41 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 44 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 45 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 46 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 47 | [San Ignacio](http://twitter.com/search?q=San+Ignacio) | N/A |
+| 48 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 49 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 50 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
 
 
 

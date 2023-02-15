@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-02-15 04:17:43 UTC`
+📆 Last Updated: `2023-02-15 05:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#azwx](http://twitter.com/search?q=%23azwx) | N/A |
-| 2 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
-| 3 | [I-10](http://twitter.com/search?q=I-10) | N/A |
-| 4 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 5 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 8 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 9 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 10 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 13 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 14 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 15 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 16 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 17 | [#LoveCampingWorld](http://twitter.com/search?q=%23LoveCampingWorld) | N/A |
-| 18 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 19 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 20 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 21 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 22 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
-| 23 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 24 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 25 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 26 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 27 | [Juwan Howard](http://twitter.com/search?q=Juwan+Howard) | Juwan Howard is an American professional basketball coach and former player. He is currently the head coach of the University of Michigan men's basketball team. The name Juwan is derived from the Hebrew name Yehochanan, which means "God is gracious". |
+| 1 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 2 | [#azwx](http://twitter.com/search?q=%23azwx) | N/A |
+| 3 | [Deandre Ayton](http://twitter.com/search?q=Deandre+Ayton) | N/A |
+| 4 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 5 | [I-10](http://twitter.com/search?q=I-10) | N/A |
+| 6 | [#WeAreTheValley](http://twitter.com/search?q=%23WeAreTheValley) | N/A |
+| 7 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 8 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
+| 9 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 10 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 13 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 15 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 16 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
+| 17 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 18 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 19 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 20 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 21 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 22 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 24 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 25 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 26 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 27 | [Floki](http://twitter.com/search?q=Floki) | N/A |
 | 28 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 29 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 30 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 31 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 32 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 33 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 34 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 35 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 36 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 37 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 38 | [Bryce Thompson](http://twitter.com/search?q=Bryce+Thompson) | N/A |
-| 39 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 40 | [No Tatum](http://twitter.com/search?q=No+Tatum) | N/A |
-| 41 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 42 | [Floki](http://twitter.com/search?q=Floki) | N/A |
-| 43 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 44 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 45 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 29 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 30 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 31 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 32 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 33 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 34 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 35 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 36 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 37 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 38 | [Vasy](http://twitter.com/search?q=Vasy) | N/A |
+| 39 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 41 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
+| 42 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 43 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 44 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 45 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
 | 46 | [Kohl Center](http://twitter.com/search?q=Kohl+Center) | N/A |
-| 47 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 48 | [Ryan Graves](http://twitter.com/search?q=Ryan+Graves) | N/A |
-| 49 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
-| 50 | [Jinder](http://twitter.com/search?q=Jinder) | N/A |
+| 47 | [Pastrnak](http://twitter.com/search?q=Pastrnak) | N/A |
+| 48 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 49 | [Bryce Thompson](http://twitter.com/search?q=Bryce+Thompson) | N/A |
+| 50 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-15 04:17:55 UTC`
+📆 Last Updated: `2023-02-15 05:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,16 +39,16 @@ This is top 50 for Norway
 | 22 | [Nora](http://twitter.com/search?q=Nora) | N/A |
 | 23 | [viken](http://twitter.com/search?q=viken) | N/A |
 | 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [sovjet](http://twitter.com/search?q=sovjet) | N/A |
+| 25 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
 | 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 27 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 30 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 31 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 32 | [lågendeltaet](http://twitter.com/search?q=l%c3%a5gendeltaet) | N/A |
-| 33 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 30 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 31 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 32 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 33 | [lågendeltaet](http://twitter.com/search?q=l%c3%a5gendeltaet) | N/A |
+| 34 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
 | 35 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 36 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
 | 37 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-15 04:17:56 UTC`
+📆 Last Updated: `2023-02-15 05:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Qatar
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#اليوم_الرياضي_قطر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a_%d9%82%d8%b7%d8%b1) | N/A |
+| 1 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
 | 2 | [#الخيار_لك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1_%d9%84%d9%83) | N/A |
-| 3 | [#الرياضه_حياه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87_%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
-| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 3 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 4 | [#الرياضه_حياه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87_%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
 | 5 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 6 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
 | 7 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 8 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 9 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 10 | [السمو الشيخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%87) | N/A |
+| 8 | [#qnsd2023](http://twitter.com/search?q=%23qnsd2023) | N/A |
+| 9 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 10 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 11 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 13 | [بنت ناصر](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
@@ -40,22 +40,22 @@ This is top 50 for Qatar
 | 23 | [الفعاليات الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
 | 24 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 25 | [وزير الرياضه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87) | N/A |
-| 26 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 27 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 28 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 29 | [ابراهيم نور الدين](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 30 | [oxygen park](http://twitter.com/search?q=oxygen+park) | N/A |
-| 31 | [حمد بن خليفه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
+| 26 | [السمو الشيخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%87) | N/A |
+| 27 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 28 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 29 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 30 | [ابراهيم نور الدين](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 31 | [oxygen park](http://twitter.com/search?q=oxygen+park) | N/A |
 | 32 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
 | 33 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 34 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 35 | [الجسم السليم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b3%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85) | N/A |
 | 36 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 37 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 38 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 39 | [تميم بن حمد آل ثاني](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84+%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 40 | [اللجنه الاولمبيه القطريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%85%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
-| 41 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 37 | [حمد بن خليفه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
+| 38 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 39 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 40 | [تميم بن حمد آل ثاني](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84+%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 41 | [اللجنه الاولمبيه القطريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%85%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
 | 42 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
 | 43 | [الهويه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
 | 44 | [وميسي](http://twitter.com/search?q=%d9%88%d9%85%d9%8a%d8%b3%d9%8a) | N/A |

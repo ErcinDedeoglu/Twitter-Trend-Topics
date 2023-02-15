@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-15 04:17:49 UTC`
+📆 Last Updated: `2023-02-15 05:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 2 | [#kocher](http://twitter.com/search?q=%23kocher) | N/A |
-| 3 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 4 | [vollzeit](http://twitter.com/search?q=vollzeit) | N/A |
+| 2 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 3 | [#Kocher](http://twitter.com/search?q=%23Kocher) | N/A |
+| 4 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
 | 5 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 6 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 6 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
 | 7 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 8 | [Kipferl](http://twitter.com/search?q=Kipferl) | N/A |
 | 9 | [Stau](http://twitter.com/search?q=Stau) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Austria
 | 20 | [Budget](http://twitter.com/search?q=Budget) | N/A |
 | 21 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
 | 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 25 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 26 | [sozialstaat](http://twitter.com/search?q=sozialstaat) | N/A |
+| 23 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 25 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 26 | [Handel](http://twitter.com/search?q=Handel) | N/A |
 | 27 | [Kleben](http://twitter.com/search?q=Kleben) | N/A |
 | 28 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 29 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 30 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 31 | [Schokolade](http://twitter.com/search?q=Schokolade) | N/A |
-| 32 | [mütter](http://twitter.com/search?q=m%c3%bctter) | N/A |
-| 33 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 34 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 35 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
-| 36 | [angehörige](http://twitter.com/search?q=angeh%c3%b6rige) | N/A |
-| 37 | [mindestsicherung](http://twitter.com/search?q=mindestsicherung) | N/A |
-| 38 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 39 | [hängematte](http://twitter.com/search?q=h%c3%a4ngematte) | N/A |
-| 40 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 41 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
-| 42 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 30 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 31 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 32 | [Schokolade](http://twitter.com/search?q=Schokolade) | N/A |
+| 33 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 34 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 35 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 36 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
+| 37 | [angehörige](http://twitter.com/search?q=angeh%c3%b6rige) | N/A |
+| 38 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 39 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 40 | [hängematte](http://twitter.com/search?q=h%c3%a4ngematte) | N/A |
+| 41 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 42 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
 | 43 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 44 | [staatssekretärin](http://twitter.com/search?q=staatssekret%c3%a4rin) | N/A |
 | 45 | [kurier](http://twitter.com/search?q=kurier) | N/A |
 | 46 | [gehalt](http://twitter.com/search?q=gehalt) | N/A |
-| 47 | [wirtschaft](http://twitter.com/search?q=wirtschaft) | N/A |
-| 48 | [christian posch](http://twitter.com/search?q=christian+posch) | N/A |
-| 49 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 50 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 47 | [christian posch](http://twitter.com/search?q=christian+posch) | N/A |
+| 48 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 49 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 50 | [Griff](http://twitter.com/search?q=Griff) | N/A |
 
 
 
