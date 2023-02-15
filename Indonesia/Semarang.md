@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-15 18:16:48 UTC`
+📆 Last Updated: `2023-02-15 19:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
 | 5 | [indonesia maju sejahtera](http://twitter.com/search?q=indonesia+maju+sejahtera) | N/A |
 | 6 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 7 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 8 | [#TheOnlyOneHPS](http://twitter.com/search?q=%23TheOnlyOneHPS) | N/A |
+| 7 | [#TheOnlyOneHPS](http://twitter.com/search?q=%23TheOnlyOneHPS) | N/A |
+| 8 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
 | 9 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
 | 10 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
 | 11 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 12 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 13 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 12 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 13 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
 | 14 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 15 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 16 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 17 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
-| 18 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 19 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 20 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 21 | [ceo bumn](http://twitter.com/search?q=ceo+bumn) | N/A |
-| 22 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 23 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 24 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 25 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 26 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 15 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 16 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
+| 17 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 18 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 19 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 20 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 21 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
+| 22 | [ceo bumn](http://twitter.com/search?q=ceo+bumn) | N/A |
+| 23 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
+| 24 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 25 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 26 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
 | 27 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
 | 28 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
-| 29 | [DUIT MANA DUIT](http://twitter.com/search?q=DUIT+MANA+DUIT) | N/A |
-| 30 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
-| 31 | [Icad](http://twitter.com/search?q=Icad) | N/A |
-| 32 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 33 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 34 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
-| 35 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
-| 36 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
-| 37 | [kita umat yang satu](http://twitter.com/search?q=kita+umat+yang+satu) | N/A |
-| 38 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
-| 39 | [Tuhan](http://twitter.com/search?q=Tuhan) | N/A |
-| 40 | [1 Tahun 6 Bulan](http://twitter.com/search?q=1+Tahun+6+Bulan) | N/A |
-| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 42 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 43 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 44 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 45 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
-| 46 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
-| 47 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 48 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
-| 49 | [Sooyoung](http://twitter.com/search?q=Sooyoung) | N/A |
+| 29 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 30 | [DUIT MANA DUIT](http://twitter.com/search?q=DUIT+MANA+DUIT) | N/A |
+| 31 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
+| 32 | [Icad](http://twitter.com/search?q=Icad) | N/A |
+| 33 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 34 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
+| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 36 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 37 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
+| 38 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 39 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
+| 40 | [kita umat yang satu](http://twitter.com/search?q=kita+umat+yang+satu) | N/A |
+| 41 | [Tuhan](http://twitter.com/search?q=Tuhan) | N/A |
+| 42 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
+| 43 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 44 | [1 Tahun 6 Bulan](http://twitter.com/search?q=1+Tahun+6+Bulan) | N/A |
+| 45 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 46 | [Riani](http://twitter.com/search?q=Riani) | N/A |
+| 47 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 48 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
+| 49 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
 
 
 

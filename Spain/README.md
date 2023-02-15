@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-15 18:17:21 UTC`
+📆 Last Updated: `2023-02-15 19:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 2 | [Mi PC Custom](http://twitter.com/search?q=Mi+PC+Custom) | N/A |
-| 3 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 4 | [#HepBeraber](http://twitter.com/search?q=%23HepBeraber) | N/A |
+| 3 | [#HepBeraber](http://twitter.com/search?q=%23HepBeraber) | N/A |
+| 4 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 5 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
-| 6 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 7 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 8 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
-| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 10 | [#TierraAmarga15Feb](http://twitter.com/search?q=%23TierraAmarga15Feb) | N/A |
-| 11 | [#KirbyConAmigos](http://twitter.com/search?q=%23KirbyConAmigos) | N/A |
-| 12 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 13 | [Enrique de Castro](http://twitter.com/search?q=Enrique+de+Castro) | N/A |
-| 14 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 15 | [Enríquez Negreira](http://twitter.com/search?q=Enr%c3%adquez+Negreira) | N/A |
-| 16 | [The Legend of Dragoon](http://twitter.com/search?q=The+Legend+of+Dragoon) | N/A |
-| 17 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 18 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 19 | [Comité de Árbitros](http://twitter.com/search?q=Comit%c3%a9+de+%c3%81rbitros) | N/A |
-| 20 | [Villarato](http://twitter.com/search?q=Villarato) | N/A |
-| 21 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 22 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 23 | [#APOYOROCIO15F](http://twitter.com/search?q=%23APOYOROCIO15F) | N/A |
-| 24 | [P A T I O](http://twitter.com/search?q=P+A+T+I+O) | N/A |
-| 25 | [Desde 2003](http://twitter.com/search?q=Desde+2003) | N/A |
-| 26 | [Eva González](http://twitter.com/search?q=Eva+Gonz%c3%a1lez) | N/A |
-| 27 | [Ligas](http://twitter.com/search?q=Ligas) | N/A |
-| 28 | [Abidal](http://twitter.com/search?q=Abidal) | N/A |
-| 29 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 30 | [Agencia Tributaria](http://twitter.com/search?q=Agencia+Tributaria) | N/A |
-| 31 | [Palancas](http://twitter.com/search?q=Palancas) | N/A |
-| 32 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 33 | [En Italia](http://twitter.com/search?q=En+Italia) | N/A |
-| 34 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 35 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 36 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 37 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
-| 38 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 39 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 40 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 41 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 42 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
-| 43 | [Neptuno](http://twitter.com/search?q=Neptuno) | N/A |
-| 44 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
-| 45 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
-| 46 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 47 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 48 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 49 | [Vicepresidente](http://twitter.com/search?q=Vicepresidente) | N/A |
-| 50 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 6 | [#ElCazador661](http://twitter.com/search?q=%23ElCazador661) | N/A |
+| 7 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 8 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 9 | [#TocaEcharAlBorbón](http://twitter.com/search?q=%23TocaEcharAlBorb%c3%b3n) | N/A |
+| 10 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
+| 11 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 14 | [#KirbyConAmigos](http://twitter.com/search?q=%23KirbyConAmigos) | N/A |
+| 15 | [Enrique de Castro](http://twitter.com/search?q=Enrique+de+Castro) | N/A |
+| 16 | [Manuel Pablo](http://twitter.com/search?q=Manuel+Pablo) | N/A |
+| 17 | [Enríquez Negreira](http://twitter.com/search?q=Enr%c3%adquez+Negreira) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 20 | [The Legend of Dragoon](http://twitter.com/search?q=The+Legend+of+Dragoon) | N/A |
+| 21 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 22 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
+| 23 | [Roures](http://twitter.com/search?q=Roures) | N/A |
+| 24 | [Villarato](http://twitter.com/search?q=Villarato) | N/A |
+| 25 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 26 | [José Mourinho](http://twitter.com/search?q=Jos%c3%a9+Mourinho) | N/A |
+| 27 | [Comité de Árbitros](http://twitter.com/search?q=Comit%c3%a9+de+%c3%81rbitros) | N/A |
+| 28 | [P A T I O](http://twitter.com/search?q=P+A+T+I+O) | N/A |
+| 29 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 30 | [Ligas](http://twitter.com/search?q=Ligas) | N/A |
+| 31 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 32 | [Palancas](http://twitter.com/search?q=Palancas) | N/A |
+| 33 | [Desde 2003](http://twitter.com/search?q=Desde+2003) | N/A |
+| 34 | [Escándalo](http://twitter.com/search?q=Esc%c3%a1ndalo) | N/A |
+| 35 | [Eva González](http://twitter.com/search?q=Eva+Gonz%c3%a1lez) | N/A |
+| 36 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
+| 37 | [Comité Técnico de Árbitros](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+%c3%81rbitros) | N/A |
+| 38 | [Abidal](http://twitter.com/search?q=Abidal) | N/A |
+| 39 | [En Italia](http://twitter.com/search?q=En+Italia) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 42 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
+| 43 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 44 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 45 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 47 | [Agencia Tributaria](http://twitter.com/search?q=Agencia+Tributaria) | N/A |
+| 48 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 49 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
+| 50 | [Neptuno](http://twitter.com/search?q=Neptuno) | N/A |
 
 
 

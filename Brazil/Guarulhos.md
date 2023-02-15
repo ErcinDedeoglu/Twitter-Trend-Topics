@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-15 18:16:39 UTC`
+📆 Last Updated: `2023-02-15 19:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 2 | [Governador](http://twitter.com/search?q=Governador) | N/A |
-| 3 | [Arnaldo](http://twitter.com/search?q=Arnaldo) | N/A |
+| 1 | [Governador](http://twitter.com/search?q=Governador) | N/A |
+| 2 | [Arnaldo](http://twitter.com/search?q=Arnaldo) | N/A |
+| 3 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
 | 4 | [Carluxo](http://twitter.com/search?q=Carluxo) | N/A |
-| 5 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 6 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | Anhangabaú is a neighborhood in the city of São Paulo, Brazil. The name Anhangabaú comes from the Tupi language and means "place of the anhangá (a type of bird)". In English, it can be translated as "Anhangá Place". |
-| 7 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 8 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 9 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 10 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 11 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
-| 12 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 13 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 14 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
-| 15 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
-| 16 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
+| 5 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | Anhangabaú is a neighborhood in the city of São Paulo, Brazil. The name Anhangabaú comes from the Tupi language and means "place of the anhangá (a type of bird)". In English, it can be translated as "Anhangá Place". |
+| 6 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 7 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
+| 10 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 11 | [Baby Fenty](http://twitter.com/search?q=Baby+Fenty) | N/A |
+| 12 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
+| 13 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
+| 14 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 15 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 16 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
 | 17 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 18 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
-| 19 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 20 | [Baby Fenty](http://twitter.com/search?q=Baby+Fenty) | N/A |
-| 21 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 22 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
-| 23 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 24 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
-| 25 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 18 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
+| 19 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
+| 20 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 21 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 22 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 23 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 24 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
+| 25 | [Giromba](http://twitter.com/search?q=Giromba) | N/A |
 | 26 | [Maite](http://twitter.com/search?q=Maite) | Maite is a Spanish name derived from the Latin word "maitus" meaning beloved. It is often used as a term of endearment, similar to "sweetheart" or "darling". |
-| 27 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
-| 28 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 29 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
-| 30 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
-| 31 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 32 | [Victoria Pedretti](http://twitter.com/search?q=Victoria+Pedretti) | N/A |
+| 27 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
+| 28 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
+| 29 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 30 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 31 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 32 | [Halle](http://twitter.com/search?q=Halle) | N/A |
 | 33 | [Busca Implacável](http://twitter.com/search?q=Busca+Implac%c3%a1vel) | N/A |
-| 34 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 35 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 36 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 37 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 38 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
-| 39 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
-| 40 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 41 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 42 | [Honeycomb](http://twitter.com/search?q=Honeycomb) | N/A |
-| 43 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
-| 44 | [Arsenal x City](http://twitter.com/search?q=Arsenal+x+City) | N/A |
-| 45 | [Vetou](http://twitter.com/search?q=Vetou) | N/A |
-| 46 | [Daria Kasatkina](http://twitter.com/search?q=Daria+Kasatkina) | N/A |
-| 47 | [Sylas](http://twitter.com/search?q=Sylas) | N/A |
-| 48 | [Resident Evil 7](http://twitter.com/search?q=Resident+Evil+7) | N/A |
+| 34 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
+| 35 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
+| 36 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 37 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
+| 38 | [Victoria Pedretti](http://twitter.com/search?q=Victoria+Pedretti) | N/A |
+| 39 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
+| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 41 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
+| 42 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
+| 43 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
+| 44 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 45 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 46 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
+| 47 | [Honeycomb](http://twitter.com/search?q=Honeycomb) | N/A |
+| 48 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
 
 
 

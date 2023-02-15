@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-15 18:16:42 UTC`
+📆 Last Updated: `2023-02-15 19:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 2 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 2 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 3 | [#Lufthansa](http://twitter.com/search?q=%23Lufthansa) | N/A |
-| 4 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 5 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
-| 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 5 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 6 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
 | 7 | [Jess](http://twitter.com/search?q=Jess) | N/A |
 | 8 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 9 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
 | 10 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 11 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 12 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 13 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 14 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 15 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
-| 16 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 17 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 18 | [NIALLS](http://twitter.com/search?q=NIALLS) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [Briefwahlstimmen](http://twitter.com/search?q=Briefwahlstimmen) | N/A |
-| 21 | [Nationalpazifismus](http://twitter.com/search?q=Nationalpazifismus) | N/A |
-| 22 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 23 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 24 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 25 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 26 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 27 | [Masala](http://twitter.com/search?q=Masala) | N/A |
-| 28 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 29 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 30 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 31 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 32 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
-| 33 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 34 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 35 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
-| 36 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
-| 37 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
-| 38 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 39 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 40 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 11 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 12 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 13 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 14 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
+| 15 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 16 | [briefwahlstimmen](http://twitter.com/search?q=briefwahlstimmen) | N/A |
+| 17 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 18 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 19 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 20 | [Nationalpazifismus](http://twitter.com/search?q=Nationalpazifismus) | N/A |
+| 21 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Benni](http://twitter.com/search?q=Benni) | N/A |
+| 24 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 25 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 26 | [Masala](http://twitter.com/search?q=Masala) | N/A |
+| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 28 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 29 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 30 | [NIALLS](http://twitter.com/search?q=NIALLS) | N/A |
+| 31 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 32 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 33 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 34 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
+| 35 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 36 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 37 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 38 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
+| 39 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
+| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 41 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 43 | [Klöckner](http://twitter.com/search?q=Kl%c3%b6ckner) | N/A |
-| 44 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
-| 45 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 46 | [Lichtenberg](http://twitter.com/search?q=Lichtenberg) | N/A |
-| 47 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 48 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 49 | [Bagger](http://twitter.com/search?q=Bagger) | N/A |
+| 42 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 43 | [Bagger](http://twitter.com/search?q=Bagger) | N/A |
+| 44 | [Lichtenberg](http://twitter.com/search?q=Lichtenberg) | N/A |
+| 45 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
+| 46 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 47 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 49 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
 
 
 

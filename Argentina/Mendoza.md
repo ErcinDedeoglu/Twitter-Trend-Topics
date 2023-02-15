@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-15 18:16:35 UTC`
+📆 Last Updated: `2023-02-15 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 1 | [#AlDisciplinaConSedal](http://twitter.com/search?q=%23AlDisciplinaConSedal) | N/A |
 | 2 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 3 | [Taser](http://twitter.com/search?q=Taser) | N/A |
-| 4 | [Globant](http://twitter.com/search?q=Globant) | N/A |
-| 5 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 6 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 7 | [#AlDisciplinaConSedal](http://twitter.com/search?q=%23AlDisciplinaConSedal) | N/A |
-| 8 | [#FaltaMenos](http://twitter.com/search?q=%23FaltaMenos) | N/A |
-| 9 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
-| 10 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 11 | [Dellepiane](http://twitter.com/search?q=Dellepiane) | N/A |
-| 12 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 13 | [Natuti](http://twitter.com/search?q=Natuti) | N/A |
-| 14 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 15 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 16 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
-| 17 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
-| 18 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 22 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 23 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 24 | [Donda](http://twitter.com/search?q=Donda) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 27 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 28 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 29 | [Momi](http://twitter.com/search?q=Momi) | N/A |
-| 30 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 31 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 32 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
-| 33 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 34 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 35 | [nati jota](http://twitter.com/search?q=nati+jota) | N/A |
-| 36 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 38 | [Vidrio](http://twitter.com/search?q=Vidrio) | N/A |
-| 39 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 40 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 41 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 42 | [Feliz Día](http://twitter.com/search?q=Feliz+D%c3%ada) | N/A |
-| 43 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 46 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 47 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 48 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 49 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 50 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 3 | [#FaltaMenos](http://twitter.com/search?q=%23FaltaMenos) | N/A |
+| 4 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
+| 5 | [Globant](http://twitter.com/search?q=Globant) | N/A |
+| 6 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 7 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 8 | [Dellepiane](http://twitter.com/search?q=Dellepiane) | N/A |
+| 9 | [#VivirSinLuzNiAgua](http://twitter.com/search?q=%23VivirSinLuzNiAgua) | N/A |
+| 10 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 11 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 12 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 13 | [La Mosca](http://twitter.com/search?q=La+Mosca) | N/A |
+| 14 | [Natuti](http://twitter.com/search?q=Natuti) | N/A |
+| 15 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 16 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 18 | [Vidrio](http://twitter.com/search?q=Vidrio) | N/A |
+| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 20 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 23 | [Tolosa Paz](http://twitter.com/search?q=Tolosa+Paz) | N/A |
+| 24 | [Momi](http://twitter.com/search?q=Momi) | N/A |
+| 25 | [RRHH](http://twitter.com/search?q=RRHH) | N/A |
+| 26 | [Aduana](http://twitter.com/search?q=Aduana) | N/A |
+| 27 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 28 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 29 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 30 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 31 | [Potenciar Trabajo](http://twitter.com/search?q=Potenciar+Trabajo) | N/A |
+| 32 | [nati jota](http://twitter.com/search?q=nati+jota) | N/A |
+| 33 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 34 | [Selección Argentina](http://twitter.com/search?q=Selecci%c3%b3n+Argentina) | N/A |
+| 35 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
+| 36 | [Ciudad de Buenos Aires](http://twitter.com/search?q=Ciudad+de+Buenos+Aires) | N/A |
+| 37 | [Alemán](http://twitter.com/search?q=Alem%c3%a1n) | N/A |
+| 38 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 39 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 40 | [#GarecaAVelez](http://twitter.com/search?q=%23GarecaAVelez) | N/A |
+| 41 | [#CABA](http://twitter.com/search?q=%23CABA) | N/A |
 
 
 

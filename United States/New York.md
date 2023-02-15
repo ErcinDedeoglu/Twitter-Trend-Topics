@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-15 18:17:11 UTC`
+📆 Last Updated: `2023-02-15 19:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tops](http://twitter.com/search?q=Tops) | N/A |
-| 2 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 3 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
-| 4 | [Times](http://twitter.com/search?q=Times) | N/A |
-| 5 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 6 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 7 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 8 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 9 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 10 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 1 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 4 | [Tops](http://twitter.com/search?q=Tops) | N/A |
+| 5 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 6 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 7 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
+| 8 | [Times](http://twitter.com/search?q=Times) | N/A |
+| 9 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 10 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 11 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
 | 12 | [Montas](http://twitter.com/search?q=Montas) | N/A |
-| 13 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
-| 14 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 15 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 16 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 17 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 18 | [Eye of the Tiger](http://twitter.com/search?q=Eye+of+the+Tiger) | N/A |
-| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 20 | [British Vogue](http://twitter.com/search?q=British+Vogue) | N/A |
-| 21 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
-| 22 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 23 | [Hagee](http://twitter.com/search?q=Hagee) | N/A |
-| 24 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 25 | [Size 11](http://twitter.com/search?q=Size+11) | N/A |
-| 26 | [10 Black](http://twitter.com/search?q=10+Black) | N/A |
-| 27 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 28 | [Melissa McCarthy](http://twitter.com/search?q=Melissa+McCarthy) | N/A |
-| 29 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 30 | [VILLA Y CORTE](http://twitter.com/search?q=VILLA+Y+CORTE) | N/A |
-| 31 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 32 | [Beaky](http://twitter.com/search?q=Beaky) | N/A |
-| 33 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 34 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
-| 35 | [Bally](http://twitter.com/search?q=Bally) | N/A |
-| 36 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
-| 37 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 38 | [Aaron Boone](http://twitter.com/search?q=Aaron+Boone) | N/A |
-| 39 | [Warzone Ranked](http://twitter.com/search?q=Warzone+Ranked) | N/A |
-| 40 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
-| 41 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
-| 42 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 43 | [LaSalle](http://twitter.com/search?q=LaSalle) | N/A |
-| 44 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 13 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 14 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 15 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 16 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 17 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 18 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 19 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 20 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
+| 21 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 22 | [British Vogue](http://twitter.com/search?q=British+Vogue) | N/A |
+| 23 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 24 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 25 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 26 | [Rep. Matt Gaetz](http://twitter.com/search?q=Rep.+Matt+Gaetz) | N/A |
+| 27 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 28 | [VILLA Y CORTE](http://twitter.com/search?q=VILLA+Y+CORTE) | N/A |
+| 29 | [Greenberg](http://twitter.com/search?q=Greenberg) | N/A |
+| 30 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 31 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
+| 32 | [Hagee](http://twitter.com/search?q=Hagee) | N/A |
+| 33 | [Size 11](http://twitter.com/search?q=Size+11) | N/A |
+| 34 | [John Mitchell](http://twitter.com/search?q=John+Mitchell) | N/A |
+| 35 | [Eye of the Tiger](http://twitter.com/search?q=Eye+of+the+Tiger) | N/A |
+| 36 | [LaSalle](http://twitter.com/search?q=LaSalle) | N/A |
+| 37 | [Melissa McCarthy](http://twitter.com/search?q=Melissa+McCarthy) | N/A |
+| 38 | [Mikey Anderson](http://twitter.com/search?q=Mikey+Anderson) | N/A |
+| 39 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 40 | [Joe Morgan](http://twitter.com/search?q=Joe+Morgan) | N/A |
+| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 42 | [Aaron Boone](http://twitter.com/search?q=Aaron+Boone) | N/A |
+| 43 | [Bally](http://twitter.com/search?q=Bally) | N/A |
+| 44 | [SROs](http://twitter.com/search?q=SROs) | N/A |
 | 45 | [Rachel Maddow](http://twitter.com/search?q=Rachel+Maddow) | N/A |
-| 46 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
-| 47 | [Prince Eric](http://twitter.com/search?q=Prince+Eric) | N/A |
-| 48 | [NIALLS](http://twitter.com/search?q=NIALLS) | N/A |
-| 49 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 50 | [Scott Adkins](http://twitter.com/search?q=Scott+Adkins) | N/A |
+| 46 | [10 Black](http://twitter.com/search?q=10+Black) | N/A |
+| 47 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 48 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 49 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 50 | [I Am Legend](http://twitter.com/search?q=I+Am+Legend) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-15 18:16:35 UTC`
+📆 Last Updated: `2023-02-15 19:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Chile](</Chile>)
 | 3 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
 | 4 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 5 | [#DíaDelBrigadista](http://twitter.com/search?q=%23D%c3%adaDelBrigadista) | N/A |
-| 6 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 6 | [#BettyEnEl13](http://twitter.com/search?q=%23BettyEnEl13) | N/A |
 | 7 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 8 | [Mat14s](http://twitter.com/search?q=Mat14s) | N/A |
-| 9 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 10 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 11 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 12 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 13 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 14 | [Mauricio Correa](http://twitter.com/search?q=Mauricio+Correa) | N/A |
-| 15 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 16 | [#BettyEnEl13](http://twitter.com/search?q=%23BettyEnEl13) | N/A |
-| 17 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 18 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
+| 8 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 9 | [Mat14s](http://twitter.com/search?q=Mat14s) | N/A |
+| 10 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 11 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
+| 12 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 13 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 14 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 15 | [Mauricio Correa](http://twitter.com/search?q=Mauricio+Correa) | N/A |
+| 16 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
+| 17 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 18 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 19 | [TRANSITORIA](http://twitter.com/search?q=TRANSITORIA) | N/A |
 | 20 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
 | 21 | [Pepe Rojas](http://twitter.com/search?q=Pepe+Rojas) | N/A |
 | 22 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 24 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 25 | [CHILE ES REBELDE](http://twitter.com/search?q=CHILE+ES+REBELDE) | N/A |
-| 26 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
+| 23 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
+| 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 25 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 26 | [CHILE ES REBELDE](http://twitter.com/search?q=CHILE+ES+REBELDE) | N/A |
 | 27 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 28 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 29 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 30 | [Virginia Palma](http://twitter.com/search?q=Virginia+Palma) | N/A |
-| 31 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 28 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
+| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 31 | [Virginia Palma](http://twitter.com/search?q=Virginia+Palma) | N/A |
 | 32 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
-| 33 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 34 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 35 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
-| 36 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Zalaquett](http://twitter.com/search?q=Zalaquett) | N/A |
-| 39 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 40 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 41 | [EMERGENCIA](http://twitter.com/search?q=EMERGENCIA) | N/A |
+| 33 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 34 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
+| 35 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 38 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 40 | [Javiera](http://twitter.com/search?q=Javiera) | N/A |
+| 41 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
 | 42 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
-| 43 | [Todes](http://twitter.com/search?q=Todes) | N/A |
-| 44 | [Tiltil](http://twitter.com/search?q=Tiltil) | N/A |
-| 45 | [Chupete](http://twitter.com/search?q=Chupete) | N/A |
-| 46 | [Notario](http://twitter.com/search?q=Notario) | N/A |
-| 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 48 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 49 | [Prat](http://twitter.com/search?q=Prat) | N/A |
-| 50 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 43 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 44 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 45 | [Zalaquett](http://twitter.com/search?q=Zalaquett) | N/A |
+| 46 | [EMERGENCIA](http://twitter.com/search?q=EMERGENCIA) | N/A |
+| 47 | [Notario](http://twitter.com/search?q=Notario) | N/A |
+| 48 | [Prat](http://twitter.com/search?q=Prat) | N/A |
+| 49 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 50 | [Tiltil](http://twitter.com/search?q=Tiltil) | N/A |
 
 
 

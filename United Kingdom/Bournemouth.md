@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-15 18:16:30 UTC`
+📆 Last Updated: `2023-02-15 19:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 2 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 3 | [FTSE](http://twitter.com/search?q=FTSE) | N/A |
-| 4 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
-| 5 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 6 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 7 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
-| 8 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 9 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 10 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 11 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 12 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 13 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 14 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 15 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 16 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 17 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 18 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 19 | [NIALLS](http://twitter.com/search?q=NIALLS) | N/A |
-| 20 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
-| 21 | [Selles](http://twitter.com/search?q=Selles) | N/A |
-| 22 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 23 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 24 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 25 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 26 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 27 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 28 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
-| 29 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 30 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 31 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 32 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 33 | [Cherry](http://twitter.com/search?q=Cherry) | N/A |
-| 34 | [Brush](http://twitter.com/search?q=Brush) | N/A |
-| 35 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 36 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 37 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
-| 38 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 39 | [Arsenal v Man City](http://twitter.com/search?q=Arsenal+v+Man+City) | N/A |
-| 40 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 41 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 42 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 43 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
-| 44 | [Peston](http://twitter.com/search?q=Peston) | N/A |
-| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 46 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 47 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
-| 48 | [Crete](http://twitter.com/search?q=Crete) | N/A |
+| 2 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 3 | [#MovieCharactersInFilmOrSong](http://twitter.com/search?q=%23MovieCharactersInFilmOrSong) | N/A |
+| 4 | [Amazon Prime](http://twitter.com/search?q=Amazon+Prime) | N/A |
+| 5 | [#WomenWontWeesht](http://twitter.com/search?q=%23WomenWontWeesht) | N/A |
+| 6 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
+| 7 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 8 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 9 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 10 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 12 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 13 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 14 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 15 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 16 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 17 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 18 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 19 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 20 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
+| 21 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 22 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
+| 23 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 24 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 25 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 26 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 27 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 28 | [NIALLS](http://twitter.com/search?q=NIALLS) | N/A |
+| 29 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 30 | [Arsenal vs Man City](http://twitter.com/search?q=Arsenal+vs+Man+City) | N/A |
+| 31 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 32 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 33 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
+| 34 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 36 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 37 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 38 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 39 | [Scots](http://twitter.com/search?q=Scots) | N/A |
+| 40 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 41 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 42 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 43 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 44 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 45 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 46 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 47 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
+| 48 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
 
 
 

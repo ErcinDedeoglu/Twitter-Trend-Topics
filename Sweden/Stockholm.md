@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-15 18:16:47 UTC`
+📆 Last Updated: `2023-02-15 19:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 2 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 3 | [Linn Persson](http://twitter.com/search?q=Linn+Persson) | N/A |
-| 4 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
-| 5 | [Hanna Öberg](http://twitter.com/search?q=Hanna+%c3%96berg) | N/A |
+| 3 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
+| 4 | [Linn Persson](http://twitter.com/search?q=Linn+Persson) | N/A |
+| 5 | [Strand](http://twitter.com/search?q=Strand) | N/A |
 | 6 | [Martin Melin](http://twitter.com/search?q=Martin+Melin) | N/A |
-| 7 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 8 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
-| 9 | [#allahjärtansdag](http://twitter.com/search?q=%23allahj%c3%a4rtansdag) | N/A |
-| 10 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 11 | [Ribbenvik](http://twitter.com/search?q=Ribbenvik) | N/A |
-| 12 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 13 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 14 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 15 | [Begler](http://twitter.com/search?q=Begler) | N/A |
+| 7 | [Hanna Öberg](http://twitter.com/search?q=Hanna+%c3%96berg) | N/A |
+| 8 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 9 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 10 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
+| 11 | [#allahjärtansdag](http://twitter.com/search?q=%23allahj%c3%a4rtansdag) | N/A |
+| 12 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 13 | [Ribbenvik](http://twitter.com/search?q=Ribbenvik) | N/A |
+| 14 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
+| 15 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 16 | [Ann Linde](http://twitter.com/search?q=Ann+Linde) | N/A |
-| 17 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 18 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 19 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 20 | [Palme](http://twitter.com/search?q=Palme) | N/A |
-| 21 | [Morgan Johansson](http://twitter.com/search?q=Morgan+Johansson) | N/A |
-| 22 | [eklind](http://twitter.com/search?q=eklind) | N/A |
-| 23 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
-| 24 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
-| 25 | [Kiruna](http://twitter.com/search?q=Kiruna) | N/A |
-| 26 | [Mips](http://twitter.com/search?q=Mips) | N/A |
-| 27 | [allmänna idrottsklubben](http://twitter.com/search?q=allm%c3%a4nna+idrottsklubben) | N/A |
-| 28 | [Rödin](http://twitter.com/search?q=R%c3%b6din) | N/A |
-| 29 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 31 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 19 | [Begler](http://twitter.com/search?q=Begler) | N/A |
+| 20 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 21 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 22 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 23 | [Morgan Johansson](http://twitter.com/search?q=Morgan+Johansson) | N/A |
+| 24 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 25 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
+| 26 | [eklind](http://twitter.com/search?q=eklind) | N/A |
+| 27 | [Palme](http://twitter.com/search?q=Palme) | N/A |
+| 28 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
+| 29 | [allmänna idrottsklubben](http://twitter.com/search?q=allm%c3%a4nna+idrottsklubben) | N/A |
+| 30 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
+| 31 | [Mips](http://twitter.com/search?q=Mips) | N/A |
 | 32 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [#utrikesdeklarationen](http://twitter.com/search?q=%23utrikesdeklarationen) | N/A |
+| 33 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 34 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 35 | [Dan Eliasson](http://twitter.com/search?q=Dan+Eliasson) | N/A |
 | 36 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
 | 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 38 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
 | 39 | [Sveg](http://twitter.com/search?q=Sveg) | N/A |
-| 40 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
-| 41 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 42 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 43 | [simon hjalmarsson](http://twitter.com/search?q=simon+hjalmarsson) | N/A |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 42 | [Kiruna](http://twitter.com/search?q=Kiruna) | N/A |
+| 43 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
 | 44 | [Lasu](http://twitter.com/search?q=Lasu) | N/A |
 | 45 | [fantenberg](http://twitter.com/search?q=fantenberg) | N/A |
-| 46 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 47 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 49 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 50 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 46 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
+| 47 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 48 | [Anna Borg](http://twitter.com/search?q=Anna+Borg) | N/A |
+| 49 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 50 | [Opolitiska](http://twitter.com/search?q=Opolitiska) | N/A |
 
 
 

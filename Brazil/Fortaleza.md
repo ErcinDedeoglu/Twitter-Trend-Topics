@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-15 18:16:38 UTC`
+📆 Last Updated: `2023-02-15 19:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 2 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 3 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 1 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 2 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 4 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
 | 5 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 6 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 6 | [Baby Fenty](http://twitter.com/search?q=Baby+Fenty) | N/A |
 | 7 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
-| 8 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
-| 9 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
-| 10 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 11 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
-| 12 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 13 | [Baby Fenty](http://twitter.com/search?q=Baby+Fenty) | N/A |
-| 14 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 15 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
-| 16 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 17 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
-| 18 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
-| 19 | [Maite](http://twitter.com/search?q=Maite) | Maite is a Spanish name derived from the Latin word "maitus" meaning beloved. It is often used as a term of endearment, similar to "sweetheart" or "darling". |
-| 20 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
-| 21 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 22 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
-| 23 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
-| 24 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 25 | [Victoria Pedretti](http://twitter.com/search?q=Victoria+Pedretti) | N/A |
-| 26 | [Busca Implacável](http://twitter.com/search?q=Busca+Implac%c3%a1vel) | N/A |
-| 27 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
-| 28 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 8 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
+| 9 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 10 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 11 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 12 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 13 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
+| 14 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
+| 15 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 16 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 17 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 18 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 19 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
+| 20 | [Giromba](http://twitter.com/search?q=Giromba) | N/A |
+| 21 | [Maite](http://twitter.com/search?q=Maite) | Maite is a Spanish name derived from the Latin word "maitus" meaning beloved. It is often used as a term of endearment, similar to "sweetheart" or "darling". |
+| 22 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
+| 23 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
+| 24 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 25 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 26 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 27 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 28 | [Busca Implacável](http://twitter.com/search?q=Busca+Implac%c3%a1vel) | N/A |
 | 29 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 30 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 30 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
 | 31 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 32 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
-| 33 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
-| 34 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 35 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 36 | [Honeycomb](http://twitter.com/search?q=Honeycomb) | N/A |
-| 37 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
-| 38 | [Arsenal x City](http://twitter.com/search?q=Arsenal+x+City) | N/A |
-| 39 | [Vetou](http://twitter.com/search?q=Vetou) | N/A |
-| 40 | [Daria Kasatkina](http://twitter.com/search?q=Daria+Kasatkina) | N/A |
-| 41 | [Sylas](http://twitter.com/search?q=Sylas) | N/A |
-| 42 | [Resident Evil 7](http://twitter.com/search?q=Resident+Evil+7) | N/A |
-| 43 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
-| 44 | [PS Plus](http://twitter.com/search?q=PS+Plus) | N/A |
-| 45 | [Scarlet Nexus](http://twitter.com/search?q=Scarlet+Nexus) | N/A |
-| 46 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
-| 47 | [Lulinha](http://twitter.com/search?q=Lulinha) | Lulinha is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. The name is derived from his first name, Luiz, and the suffix -inha, which is a diminutive form in Portuguese. In English, it can be translated to mean "Little Lula". |
-| 48 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 32 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 33 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
+| 34 | [Victoria Pedretti](http://twitter.com/search?q=Victoria+Pedretti) | N/A |
+| 35 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
+| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 37 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
+| 38 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
+| 39 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 40 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 41 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
+| 42 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
+| 43 | [Honeycomb](http://twitter.com/search?q=Honeycomb) | N/A |
+| 44 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 45 | [Daria Kasatkina](http://twitter.com/search?q=Daria+Kasatkina) | N/A |
+| 46 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
+| 47 | [Sylas](http://twitter.com/search?q=Sylas) | N/A |
 
 
 

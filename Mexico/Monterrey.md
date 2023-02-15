@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-15 18:16:34 UTC`
+📆 Last Updated: `2023-02-15 19:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 2 | [#TelediarioMatutino](http://twitter.com/search?q=%23TelediarioMatutino) | N/A |
-| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [#Aeromar](http://twitter.com/search?q=%23Aeromar) | N/A |
+| 1 | [#TelediarioMatutino](http://twitter.com/search?q=%23TelediarioMatutino) | N/A |
+| 2 | [#Aeromar](http://twitter.com/search?q=%23Aeromar) | N/A |
+| 3 | [#SuzukiCincoAñosJuntos](http://twitter.com/search?q=%23SuzukiCincoA%c3%b1osJuntos) | N/A |
+| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 5 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 6 | [#DíaDeLaMujerMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaMujerMexicana) | N/A |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 8 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
-| 9 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 10 | [#PoderosoSinControl](http://twitter.com/search?q=%23PoderosoSinControl) | N/A |
+| 6 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
+| 7 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
+| 8 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 10 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
 | 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 13 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
-| 14 | [Hoy 15](http://twitter.com/search?q=Hoy+15) | N/A |
-| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 16 | [Maruxa Vilalta](http://twitter.com/search?q=Maruxa+Vilalta) | N/A |
-| 17 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 20 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 21 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
-| 22 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 23 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 24 | [CHASPM](http://twitter.com/search?q=CHASPM) | N/A |
-| 25 | [#ChingueASuMadreLopezObrador](http://twitter.com/search?q=%23ChingueASuMadreLopezObrador) | N/A |
-| 26 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
-| 27 | [#KornoSacaLaReta](http://twitter.com/search?q=%23KornoSacaLaReta) | N/A |
-| 28 | [#15defebrero](http://twitter.com/search?q=%2315defebrero) | N/A |
-| 29 | [#NYFWdahyun](http://twitter.com/search?q=%23NYFWdahyun) | N/A |
-| 30 | [#AICM](http://twitter.com/search?q=%23AICM) | N/A |
-| 31 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 32 | [#AMLOElReyDelCash](http://twitter.com/search?q=%23AMLOElReyDelCash) | N/A |
-| 33 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
-| 34 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 35 | [#SuperJuniorEnMexico](http://twitter.com/search?q=%23SuperJuniorEnMexico) | N/A |
-| 36 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
-| 37 | [#SS9inMexicoDay1](http://twitter.com/search?q=%23SS9inMexicoDay1) | N/A |
-| 38 | [#SuperShow9inMexico](http://twitter.com/search?q=%23SuperShow9inMexico) | N/A |
-| 39 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 12 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
+| 13 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 15 | [Hoy 15](http://twitter.com/search?q=Hoy+15) | N/A |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 19 | [Día Internacional de la Lucha](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Lucha) | N/A |
+| 20 | [Maruxa Vilalta](http://twitter.com/search?q=Maruxa+Vilalta) | N/A |
+| 21 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
+| 22 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 24 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 25 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 26 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
+| 27 | [CHASM](http://twitter.com/search?q=CHASM) | N/A |
+| 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 29 | [#DíaDeLaMujerMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaMujerMexicana) | N/A |
+| 30 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
+| 31 | [#ChingueASuMadreLopezObrador](http://twitter.com/search?q=%23ChingueASuMadreLopezObrador) | N/A |
+| 32 | [#PoderosoSinControl](http://twitter.com/search?q=%23PoderosoSinControl) | N/A |
+| 33 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
+| 34 | [#15defebrero](http://twitter.com/search?q=%2315defebrero) | N/A |
+| 35 | [#NYFWdahyun](http://twitter.com/search?q=%23NYFWdahyun) | N/A |
+| 36 | [#AICM](http://twitter.com/search?q=%23AICM) | N/A |
+| 37 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 38 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 39 | [#AMLOElReyDelCash](http://twitter.com/search?q=%23AMLOElReyDelCash) | N/A |
+| 40 | [#GarcíaLuna](http://twitter.com/search?q=%23Garc%c3%adaLuna) | N/A |
+| 41 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 42 | [#Irapuato](http://twitter.com/search?q=%23Irapuato) | N/A |
+| 43 | [#SuperJuniorEnMexico](http://twitter.com/search?q=%23SuperJuniorEnMexico) | N/A |
+| 44 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 45 | [#SuperShow9inMexico](http://twitter.com/search?q=%23SuperShow9inMexico) | N/A |
+| 46 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 47 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 
 
 
