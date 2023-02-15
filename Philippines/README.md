@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-15 16:17:12 UTC`
+📆 Last Updated: `2023-02-15 17:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
-| 2 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
-| 3 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
-| 4 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
-| 5 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 6 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
-| 7 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 8 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 9 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
-| 10 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 1 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
+| 2 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
+| 3 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
+| 4 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 5 | [#JonaxxACTYAKab48](http://twitter.com/search?q=%23JonaxxACTYAKab48) | N/A |
+| 6 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 7 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 8 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
+| 9 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 10 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
 | 11 | [Park Jeongwoo](http://twitter.com/search?q=Park+Jeongwoo) | N/A |
-| 12 | [tiya isabel](http://twitter.com/search?q=tiya+isabel) | N/A |
-| 13 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 14 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
-| 15 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
-| 16 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 17 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 18 | [David](http://twitter.com/search?q=David) | N/A |
-| 19 | [#DLMysteriousWoman](http://twitter.com/search?q=%23DLMysteriousWoman) | N/A |
-| 20 | [#HORI7ONonPIE](http://twitter.com/search?q=%23HORI7ONonPIE) | N/A |
-| 21 | [#MCIAmaNamin](http://twitter.com/search?q=%23MCIAmaNamin) | N/A |
-| 22 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 23 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 24 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
-| 25 | [#TenLittleMistresses](http://twitter.com/search?q=%23TenLittleMistresses) | N/A |
-| 26 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 27 | [#CONQuest2023](http://twitter.com/search?q=%23CONQuest2023) | N/A |
-| 28 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 29 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 30 | [#FPJBQBuhayQuiapo](http://twitter.com/search?q=%23FPJBQBuhayQuiapo) | N/A |
-| 31 | [#G22_AnnivCB](http://twitter.com/search?q=%23G22_AnnivCB) | N/A |
-| 32 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
-| 33 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
-| 34 | [#HORI7ON_KIM](http://twitter.com/search?q=%23HORI7ON_KIM) | N/A |
-| 35 | [#BOYCOTTEBxGMA707](http://twitter.com/search?q=%23BOYCOTTEBxGMA707) | N/A |
-| 36 | [#HORI7ON_JEROMY](http://twitter.com/search?q=%23HORI7ON_JEROMY) | N/A |
-| 37 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 38 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
-| 39 | [#MNL48](http://twitter.com/search?q=%23MNL48) | N/A |
+| 12 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 13 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 14 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
+| 15 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
+| 16 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
+| 17 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 18 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
+| 19 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 20 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
+| 21 | [Hearts Day](http://twitter.com/search?q=Hearts+Day) | N/A |
+| 22 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 23 | [Chiquita](http://twitter.com/search?q=Chiquita) | N/A |
+| 24 | [SA SUSUNOD NA LANG](http://twitter.com/search?q=SA+SUSUNOD+NA+LANG) | N/A |
+| 25 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 26 | [FRANSETH OurChiaraAndNico](http://twitter.com/search?q=FRANSETH+OurChiaraAndNico) | N/A |
+| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 28 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 29 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
+| 30 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 31 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 32 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
+| 33 | [tiya isabel](http://twitter.com/search?q=tiya+isabel) | N/A |
+| 34 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
+| 35 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 36 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 37 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 38 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
+| 39 | [g22 anniversary comeback](http://twitter.com/search?q=g22+anniversary+comeback) | N/A |
+| 40 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 41 | [Ant-Man and the Wasp](http://twitter.com/search?q=Ant-Man+and+the+Wasp) | N/A |
+| 42 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 43 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 44 | [manila please](http://twitter.com/search?q=manila+please) | N/A |
+| 45 | [UPCAT](http://twitter.com/search?q=UPCAT) | N/A |
+| 46 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 47 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 48 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [pienalo ka marcus](http://twitter.com/search?q=pienalo+ka+marcus) | N/A |
 
 
 

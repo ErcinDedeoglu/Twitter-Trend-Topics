@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-15 16:17:00 UTC`
+📆 Last Updated: `2023-02-15 17:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
 | 2 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
 | 3 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 6 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [Warzone Ranked](http://twitter.com/search?q=Warzone+Ranked) | N/A |
-| 9 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
-| 10 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
-| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 12 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 13 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
-| 14 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 15 | [#PokemonTogether](http://twitter.com/search?q=%23PokemonTogether) | N/A |
-| 16 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 17 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 18 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 19 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
-| 20 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 21 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 23 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
-| 24 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 25 | [To Save Money](http://twitter.com/search?q=To+Save+Money) | N/A |
-| 26 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 27 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 28 | [Tops](http://twitter.com/search?q=Tops) | N/A |
-| 29 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 30 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 31 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 32 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
-| 33 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 34 | [John Brennan](http://twitter.com/search?q=John+Brennan) | N/A |
-| 35 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 36 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
-| 37 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 38 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 39 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 40 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
-| 41 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
-| 42 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
-| 43 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 44 | [Rachel Maddow](http://twitter.com/search?q=Rachel+Maddow) | N/A |
-| 45 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
-| 46 | [Amy Poehler](http://twitter.com/search?q=Amy+Poehler) | N/A |
-| 47 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
-| 48 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 49 | [Alex Ovechkin](http://twitter.com/search?q=Alex+Ovechkin) | N/A |
+| 4 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 5 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
+| 6 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [Eye of the Tiger](http://twitter.com/search?q=Eye+of+the+Tiger) | N/A |
+| 9 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 10 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
+| 11 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
+| 12 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 13 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 14 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 15 | [10 Black](http://twitter.com/search?q=10+Black) | N/A |
+| 16 | [Hagee](http://twitter.com/search?q=Hagee) | N/A |
+| 17 | [Warzone Ranked](http://twitter.com/search?q=Warzone+Ranked) | N/A |
+| 18 | [Jacob deGrom](http://twitter.com/search?q=Jacob+deGrom) | N/A |
+| 19 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 20 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 21 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 22 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 23 | [Size 11](http://twitter.com/search?q=Size+11) | N/A |
+| 24 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 25 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 26 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
+| 27 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 28 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 29 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
+| 30 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 31 | [Scott Adkins](http://twitter.com/search?q=Scott+Adkins) | N/A |
+| 32 | [Tops](http://twitter.com/search?q=Tops) | N/A |
+| 33 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 34 | [Forbidden West](http://twitter.com/search?q=Forbidden+West) | N/A |
+| 35 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 36 | [Amy Poehler](http://twitter.com/search?q=Amy+Poehler) | N/A |
+| 37 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 38 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 39 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
+| 40 | [To Save Money](http://twitter.com/search?q=To+Save+Money) | N/A |
+| 41 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 42 | [Scarlet Nexus](http://twitter.com/search?q=Scarlet+Nexus) | N/A |
+| 43 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 44 | [Spencer Cronk](http://twitter.com/search?q=Spencer+Cronk) | N/A |
+| 45 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 46 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 47 | [Rachel Maddow](http://twitter.com/search?q=Rachel+Maddow) | N/A |
+| 48 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 49 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
 
 
 

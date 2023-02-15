@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-15 16:16:48 UTC`
+📆 Last Updated: `2023-02-15 17:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BawaMustBowOut](http://twitter.com/search?q=%23BawaMustBowOut) | N/A |
+| 1 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 2 | [#BiggWings](http://twitter.com/search?q=%23BiggWings) | N/A |
-| 3 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
+| 3 | [#BawaMustBowOut](http://twitter.com/search?q=%23BawaMustBowOut) | N/A |
 | 4 | [#fearwomen](http://twitter.com/search?q=%23fearwomen) | N/A |
-| 5 | [Tingo Foods](http://twitter.com/search?q=Tingo+Foods) | N/A |
-| 6 | [#itelAndAirtel](http://twitter.com/search?q=%23itelAndAirtel) | N/A |
-| 7 | [Benin](http://twitter.com/search?q=Benin) | N/A |
-| 8 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 5 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
+| 6 | [Benin](http://twitter.com/search?q=Benin) | N/A |
+| 7 | [#NairaScarcity](http://twitter.com/search?q=%23NairaScarcity) | N/A |
+| 8 | [Tingo Foods](http://twitter.com/search?q=Tingo+Foods) | N/A |
 | 9 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 10 | [CBN and FG](http://twitter.com/search?q=CBN+and+FG) | N/A |
 | 11 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
-| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 13 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 14 | [Warri](http://twitter.com/search?q=Warri) | N/A |
-| 15 | [Ibadan](http://twitter.com/search?q=Ibadan) | N/A |
-| 16 | [Delta](http://twitter.com/search?q=Delta) | N/A |
-| 17 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 18 | [PHYNA IS A GEM](http://twitter.com/search?q=PHYNA+IS+A+GEM) | N/A |
-| 19 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 20 | [Tunde](http://twitter.com/search?q=Tunde) | N/A |
-| 21 | [Crayfish](http://twitter.com/search?q=Crayfish) | N/A |
-| 22 | [FG and CBN](http://twitter.com/search?q=FG+and+CBN) | N/A |
-| 23 | [Jigawa](http://twitter.com/search?q=Jigawa) | N/A |
-| 24 | [STREAM HONEST DECISION](http://twitter.com/search?q=STREAM+HONEST+DECISION) | N/A |
-| 25 | [Central Bank of Nigeria](http://twitter.com/search?q=Central+Bank+of+Nigeria) | N/A |
-| 26 | [Rivers State](http://twitter.com/search?q=Rivers+State) | N/A |
-| 27 | [APC Governors](http://twitter.com/search?q=APC+Governors) | N/A |
-| 28 | [YOUR FAVORITE PICTURE OF PHYNA](http://twitter.com/search?q=YOUR+FAVORITE+PICTURE+OF+PHYNA) | N/A |
-| 29 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 30 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
-| 31 | [Mile 12](http://twitter.com/search?q=Mile+12) | N/A |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 36 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
-| 37 | [Msport](http://twitter.com/search?q=Msport) | N/A |
-| 38 | [keke](http://twitter.com/search?q=keke) | N/A |
-| 39 | [Meffy](http://twitter.com/search?q=Meffy) | N/A |
-| 40 | [#LJLAcademy](http://twitter.com/search?q=%23LJLAcademy) | N/A |
+| 12 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 13 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 14 | [Iyabo Ojo](http://twitter.com/search?q=Iyabo+Ojo) | N/A |
+| 15 | [Arsenal 1](http://twitter.com/search?q=Arsenal+1) | N/A |
+| 16 | [Jigawa](http://twitter.com/search?q=Jigawa) | N/A |
+| 17 | [Delta](http://twitter.com/search?q=Delta) | N/A |
+| 18 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 19 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 20 | [Ekpoma](http://twitter.com/search?q=Ekpoma) | N/A |
+| 21 | [APC Governors](http://twitter.com/search?q=APC+Governors) | N/A |
+| 22 | [Tunde](http://twitter.com/search?q=Tunde) | N/A |
+| 23 | [Crayfish](http://twitter.com/search?q=Crayfish) | N/A |
+| 24 | [Edo State](http://twitter.com/search?q=Edo+State) | N/A |
+| 25 | [Warri](http://twitter.com/search?q=Warri) | N/A |
+| 26 | [Ibadan](http://twitter.com/search?q=Ibadan) | N/A |
+| 27 | [PHYNA IS A GEM](http://twitter.com/search?q=PHYNA+IS+A+GEM) | N/A |
+| 28 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 29 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 30 | [YOUR FAVORITE PICTURE OF PHYNA](http://twitter.com/search?q=YOUR+FAVORITE+PICTURE+OF+PHYNA) | N/A |
+| 31 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 32 | [Central Bank of Nigeria](http://twitter.com/search?q=Central+Bank+of+Nigeria) | N/A |
+| 33 | [FG and CBN](http://twitter.com/search?q=FG+and+CBN) | N/A |
+| 34 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 35 | [STREAM HONEST DECISION](http://twitter.com/search?q=STREAM+HONEST+DECISION) | N/A |
+| 36 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 38 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 39 | [#LJLAcademy](http://twitter.com/search?q=%23LJLAcademy) | N/A |
+| 40 | [#WhoisYMK](http://twitter.com/search?q=%23WhoisYMK) | N/A |
 | 41 | [#Oshodi](http://twitter.com/search?q=%23Oshodi) | N/A |
-| 42 | [#WhoisYMK](http://twitter.com/search?q=%23WhoisYMK) | N/A |
-| 43 | [#AntManAndTheWaspID](http://twitter.com/search?q=%23AntManAndTheWaspID) | N/A |
-| 44 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 45 | [#TinubuInRivers](http://twitter.com/search?q=%23TinubuInRivers) | N/A |
+| 42 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 43 | [#itelAndAirtel](http://twitter.com/search?q=%23itelAndAirtel) | N/A |
+| 44 | [#CBNGovernor](http://twitter.com/search?q=%23CBNGovernor) | N/A |
+| 45 | [#AntManAndTheWaspID](http://twitter.com/search?q=%23AntManAndTheWaspID) | N/A |
 | 46 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 47 | [#BryannHonestDecision](http://twitter.com/search?q=%23BryannHonestDecision) | N/A |
-| 48 | [#CBNGovernor](http://twitter.com/search?q=%23CBNGovernor) | N/A |
-| 49 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
-| 50 | [#TspykesSomethingSomething](http://twitter.com/search?q=%23TspykesSomethingSomething) | N/A |
+| 47 | [#Joker2](http://twitter.com/search?q=%23Joker2) | N/A |
+| 48 | [#BryannHonestDecision](http://twitter.com/search?q=%23BryannHonestDecision) | N/A |
+| 49 | [#TspykesSomethingSomething](http://twitter.com/search?q=%23TspykesSomethingSomething) | N/A |
 
 
 

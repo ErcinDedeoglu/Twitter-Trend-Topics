@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-15 16:16:28 UTC`
+📆 Last Updated: `2023-02-15 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 2 | [#ElBalconDePetroEs](http://twitter.com/search?q=%23ElBalconDePetroEs) | N/A |
-| 3 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
-| 4 | [Eticket](http://twitter.com/search?q=Eticket) | N/A |
-| 5 | [#LeMarchoA](http://twitter.com/search?q=%23LeMarchoA) | N/A |
-| 6 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 7 | [#RBDCOLOMBIA](http://twitter.com/search?q=%23RBDCOLOMBIA) | N/A |
+| 3 | [#LeMarchoA](http://twitter.com/search?q=%23LeMarchoA) | N/A |
+| 4 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
+| 5 | [Eticket](http://twitter.com/search?q=Eticket) | N/A |
+| 6 | [#marcha15f](http://twitter.com/search?q=%23marcha15f) | N/A |
+| 7 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
 | 8 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 9 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
 | 10 | [Limpias](http://twitter.com/search?q=Limpias) | N/A |
 | 11 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
 | 12 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 13 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 14 | [plaza de Bolívar](http://twitter.com/search?q=plaza+de+Bol%c3%advar) | N/A |
+| 13 | [Plaza de Bolívar](http://twitter.com/search?q=Plaza+de+Bol%c3%advar) | N/A |
+| 14 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
 | 15 | [Adres](http://twitter.com/search?q=Adres) | N/A |
-| 16 | [Elecciones](http://twitter.com/search?q=Elecciones) | N/A |
-| 17 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 18 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 19 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
-| 20 | [Metaverso](http://twitter.com/search?q=Metaverso) | N/A |
-| 21 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
-| 22 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
+| 16 | [Metaverso](http://twitter.com/search?q=Metaverso) | N/A |
+| 17 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 18 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
+| 19 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
+| 20 | [San Ignacio](http://twitter.com/search?q=San+Ignacio) | N/A |
+| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
 | 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [San Ignacio](http://twitter.com/search?q=San+Ignacio) | N/A |
-| 25 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 27 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
-| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 29 | [Santiago Buitrago](http://twitter.com/search?q=Santiago+Buitrago) | N/A |
-| 30 | [HOY 14](http://twitter.com/search?q=HOY+14) | N/A |
-| 31 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 32 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 33 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 34 | [Partido Conservador](http://twitter.com/search?q=Partido+Conservador) | N/A |
-| 35 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 36 | [Efraín Cepeda](http://twitter.com/search?q=Efra%c3%adn+Cepeda) | N/A |
-| 37 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
-| 38 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
-| 39 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 40 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 41 | [Diomar García](http://twitter.com/search?q=Diomar+Garc%c3%ada) | N/A |
-| 42 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 43 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 44 | [Temístocles Ortega](http://twitter.com/search?q=Tem%c3%adstocles+Ortega) | N/A |
-| 45 | [Ley Estatutaria](http://twitter.com/search?q=Ley+Estatutaria) | N/A |
-| 46 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 47 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 24 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 25 | [HOY 14](http://twitter.com/search?q=HOY+14) | N/A |
+| 26 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 27 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 28 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 29 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
+| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 31 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 32 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
+| 33 | [Elecciones](http://twitter.com/search?q=Elecciones) | N/A |
+| 34 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 35 | [Diomar García](http://twitter.com/search?q=Diomar+Garc%c3%ada) | N/A |
+| 36 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 37 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
+| 38 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 39 | [Ley Estatutaria](http://twitter.com/search?q=Ley+Estatutaria) | N/A |
+| 40 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 41 | [Santiago Buitrago](http://twitter.com/search?q=Santiago+Buitrago) | N/A |
+| 42 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 43 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 44 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 45 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 46 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
+| 47 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
 | 48 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
-| 49 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 49 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
 | 50 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
 
 

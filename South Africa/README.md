@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-15 16:17:13 UTC`
+📆 Last Updated: `2023-02-15 17:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for South Africa
 | 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 3 | [#ICanWithAbsa](http://twitter.com/search?q=%23ICanWithAbsa) | N/A |
 | 4 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 5 | [#HUAWEIMate50Pro](http://twitter.com/search?q=%23HUAWEIMate50Pro) | N/A |
-| 6 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 6 | [#SONADebate](http://twitter.com/search?q=%23SONADebate) | N/A |
 | 7 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
 | 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 9 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 10 | [Dischem](http://twitter.com/search?q=Dischem) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 13 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 14 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 15 | [Darnell](http://twitter.com/search?q=Darnell) | N/A |
-| 16 | [Unthinkable](http://twitter.com/search?q=Unthinkable) | N/A |
-| 17 | [Easy Zero](http://twitter.com/search?q=Easy+Zero) | N/A |
-| 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 19 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 20 | [King Pie](http://twitter.com/search?q=King+Pie) | N/A |
-| 21 | [Dawn Park Shopping Centre](http://twitter.com/search?q=Dawn+Park+Shopping+Centre) | N/A |
+| 9 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 11 | [Casric Stars](http://twitter.com/search?q=Casric+Stars) | N/A |
+| 12 | [Dischem](http://twitter.com/search?q=Dischem) | N/A |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 15 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 16 | [Floyd Shivambu](http://twitter.com/search?q=Floyd+Shivambu) | N/A |
+| 17 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
+| 18 | [Darnell](http://twitter.com/search?q=Darnell) | N/A |
+| 19 | [easy zero](http://twitter.com/search?q=easy+zero) | N/A |
+| 20 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 21 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
 | 22 | [UNBEATABLE THABANG](http://twitter.com/search?q=UNBEATABLE+THABANG) | N/A |
-| 23 | [Lerato Kganyago](http://twitter.com/search?q=Lerato+Kganyago) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 24 | [congratulations thabana](http://twitter.com/search?q=congratulations+thabana) | N/A |
-| 25 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 26 | [Woodford Car Hire](http://twitter.com/search?q=Woodford+Car+Hire) | N/A |
-| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 28 | [XMAGE Camera with 10](http://twitter.com/search?q=XMAGE+Camera+with+10) | N/A |
-| 29 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 30 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 31 | [Reasonable Doubt](http://twitter.com/search?q=Reasonable+Doubt) | N/A |
+| 25 | [Lerato Kganyago](http://twitter.com/search?q=Lerato+Kganyago) | N/A |
+| 26 | [Dawn Park Shopping Centre](http://twitter.com/search?q=Dawn+Park+Shopping+Centre) | N/A |
+| 27 | [King Pie](http://twitter.com/search?q=King+Pie) | N/A |
+| 28 | [Woodford Car Hire](http://twitter.com/search?q=Woodford+Car+Hire) | N/A |
+| 29 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 30 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 31 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
 | 32 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
-| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 34 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
-| 35 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 36 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 37 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
-| 38 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
-| 39 | [Tony Forbes](http://twitter.com/search?q=Tony+Forbes) | N/A |
-| 40 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 42 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 43 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 44 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 45 | [Speckled Eggs](http://twitter.com/search?q=Speckled+Eggs) | N/A |
-| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 48 | [Malaika](http://twitter.com/search?q=Malaika) | N/A |
-| 49 | [Celine Dion](http://twitter.com/search?q=Celine+Dion) | Celine Dion is a Canadian singer, songwriter, and businesswoman. She is one of the best-selling music artists of all time, having sold more than 200 million records worldwide. Her music has spanned a range of styles, from pop and rock to gospel and classical. She is known for her powerful vocal range and emotional ballads. |
-| 50 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Unthinkable](http://twitter.com/search?q=Unthinkable) | N/A |
+| 35 | [Reasonable Doubt](http://twitter.com/search?q=Reasonable+Doubt) | N/A |
+| 36 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 37 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
+| 38 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 39 | [McFlurry](http://twitter.com/search?q=McFlurry) | N/A |
+| 40 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 41 | [Dondol](http://twitter.com/search?q=Dondol) | N/A |
+| 42 | [Venda Football Academy](http://twitter.com/search?q=Venda+Football+Academy) | N/A |
+| 43 | [Last 16](http://twitter.com/search?q=Last+16) | N/A |
+| 44 | [Speckled Eggs](http://twitter.com/search?q=Speckled+Eggs) | N/A |
+| 45 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 46 | [Tony Forbes](http://twitter.com/search?q=Tony+Forbes) | N/A |
+| 47 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 50 | [XMAGE Camera with 10](http://twitter.com/search?q=XMAGE+Camera+with+10) | N/A |
 
 
 

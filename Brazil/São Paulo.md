@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-15 16:16:30 UTC`
+📆 Last Updated: `2023-02-15 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Parabéns Governador](http://twitter.com/search?q=Parab%c3%a9ns+Governador) | N/A |
+| 1 | [Governador](http://twitter.com/search?q=Governador) | N/A |
 | 2 | [Arnaldo](http://twitter.com/search?q=Arnaldo) | N/A |
-| 3 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 4 | [Carluxo](http://twitter.com/search?q=Carluxo) | N/A |
-| 5 | [Bandido](http://twitter.com/search?q=Bandido) | Bandido is a Spanish word meaning "bandit" or "outlaw". It is often used to refer to a person who lives outside the law, or someone who commits criminal acts. |
-| 6 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
-| 7 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 8 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 9 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
-| 10 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
-| 11 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
-| 12 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 13 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
-| 14 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
-| 15 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
-| 16 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
-| 17 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 18 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 19 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 20 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
-| 21 | [macris](http://twitter.com/search?q=macris) | N/A |
-| 22 | [Busca Implacável](http://twitter.com/search?q=Busca+Implac%c3%a1vel) | N/A |
-| 23 | [sylas](http://twitter.com/search?q=sylas) | N/A |
-| 24 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
-| 25 | [Vetou](http://twitter.com/search?q=Vetou) | N/A |
-| 26 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 27 | [Lulinha](http://twitter.com/search?q=Lulinha) | Lulinha is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. The name is derived from his first name, Luiz, and the suffix -inha, which is a diminutive form in Portuguese. In English, it can be translated to mean "Little Lula". |
-| 28 | [Victoria Pedretti](http://twitter.com/search?q=Victoria+Pedretti) | N/A |
-| 29 | [Luly](http://twitter.com/search?q=Luly) | N/A |
-| 30 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 31 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 32 | [Ferroviária](http://twitter.com/search?q=Ferrovi%c3%a1ria) | N/A |
-| 33 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
-| 34 | [jennie kim](http://twitter.com/search?q=jennie+kim) | N/A |
-| 35 | [Arsenal x City](http://twitter.com/search?q=Arsenal+x+City) | N/A |
-| 36 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 37 | [ghostface](http://twitter.com/search?q=ghostface) | N/A |
+| 3 | [Alesp](http://twitter.com/search?q=Alesp) | N/A |
+| 4 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 5 | [Carluxo](http://twitter.com/search?q=Carluxo) | N/A |
+| 6 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 7 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 8 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
+| 9 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 10 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
+| 11 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 12 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
+| 13 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 14 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
+| 15 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
+| 16 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
+| 17 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
+| 18 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
+| 19 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 20 | [Maite](http://twitter.com/search?q=Maite) | Maite is a Spanish name derived from the Latin word "maitus" meaning beloved. It is often used as a term of endearment, similar to "sweetheart" or "darling". |
+| 21 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
+| 22 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 23 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
+| 24 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 25 | [Busca Implacável](http://twitter.com/search?q=Busca+Implac%c3%a1vel) | N/A |
+| 26 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
+| 27 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 28 | [victoria pedretti](http://twitter.com/search?q=victoria+pedretti) | N/A |
+| 29 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
+| 30 | [Scarlet Nexus](http://twitter.com/search?q=Scarlet+Nexus) | N/A |
+| 31 | [Vetou](http://twitter.com/search?q=Vetou) | N/A |
+| 32 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
+| 33 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
+| 34 | [Resident Evil 7](http://twitter.com/search?q=Resident+Evil+7) | N/A |
+| 35 | [Sylas](http://twitter.com/search?q=Sylas) | N/A |
+| 36 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 37 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
 | 38 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 39 | [Nunu](http://twitter.com/search?q=Nunu) | N/A |
-| 40 | [jadoca](http://twitter.com/search?q=jadoca) | N/A |
-| 41 | [shawn mendes](http://twitter.com/search?q=shawn+mendes) | Shawn Mendes is a Canadian singer and songwriter. He is best known for his hit singles "Stitches", "Treat You Better", and "In My Blood". He has released three studio albums, Handwritten (2015), Illuminate (2016), and Shawn Mendes (2018). His music has been described as pop, pop rock, and folk-pop. |
-| 42 | [Scarlet Nexus](http://twitter.com/search?q=Scarlet+Nexus) | N/A |
-| 43 | [Alesp](http://twitter.com/search?q=Alesp) | N/A |
-| 44 | [Quaquá](http://twitter.com/search?q=Quaqu%c3%a1) | N/A |
-| 45 | [BR-101](http://twitter.com/search?q=BR-101) | N/A |
-| 46 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 47 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 39 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 40 | [Lulinha](http://twitter.com/search?q=Lulinha) | Lulinha is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. The name is derived from his first name, Luiz, and the suffix -inha, which is a diminutive form in Portuguese. In English, it can be translated to mean "Little Lula". |
+| 41 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 42 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
+| 43 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 44 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 45 | [Ferroviária](http://twitter.com/search?q=Ferrovi%c3%a1ria) | N/A |
+| 46 | [ghostface](http://twitter.com/search?q=ghostface) | N/A |
+| 47 | [PS Plus](http://twitter.com/search?q=PS+Plus) | N/A |
 | 48 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 49 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 50 | [Tarcisio](http://twitter.com/search?q=Tarcisio) | N/A |
+| 49 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 50 | [Quaquá](http://twitter.com/search?q=Quaqu%c3%a1) | N/A |
 
 
 

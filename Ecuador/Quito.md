@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-15 16:16:28 UTC`
+📆 Last Updated: `2023-02-15 17:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 2 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
 | 3 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 4 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 5 | [#MingaCarnavalera](http://twitter.com/search?q=%23MingaCarnavalera) | N/A |
+| 5 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
 | 6 | [#ElGranInforme](http://twitter.com/search?q=%23ElGranInforme) | N/A |
-| 7 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 8 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
+| 7 | [#MingaCarnavalera](http://twitter.com/search?q=%23MingaCarnavalera) | N/A |
+| 8 | [Francisco Egas](http://twitter.com/search?q=Francisco+Egas) | N/A |
 | 9 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 10 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 10 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
 | 11 | [#ElGranPadrino](http://twitter.com/search?q=%23ElGranPadrino) | N/A |
-| 12 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 13 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 12 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 13 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
 | 14 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 15 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 16 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 17 | [Bernardo Manzano](http://twitter.com/search?q=Bernardo+Manzano) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 20 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 21 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 22 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
-| 23 | [cevallos](http://twitter.com/search?q=cevallos) | N/A |
-| 24 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 25 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
-| 26 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 27 | [Mae Montaño](http://twitter.com/search?q=Mae+Monta%c3%b1o) | N/A |
-| 28 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 29 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 30 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 31 | [Agricultura](http://twitter.com/search?q=Agricultura) | N/A |
-| 32 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 33 | [Monge](http://twitter.com/search?q=Monge) | N/A |
-| 34 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 35 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 36 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 37 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 38 | [kendry páez](http://twitter.com/search?q=kendry+p%c3%a1ez) | N/A |
-| 39 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 40 | [Con 102](http://twitter.com/search?q=Con+102) | N/A |
-| 41 | [Teresita](http://twitter.com/search?q=Teresita) | N/A |
-| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 43 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 44 | [albaneses](http://twitter.com/search?q=albaneses) | N/A |
-| 45 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
-| 46 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 47 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 48 | [Ley de Comunicación](http://twitter.com/search?q=Ley+de+Comunicaci%c3%b3n) | N/A |
-| 49 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 50 | [Octavio Zambrano](http://twitter.com/search?q=Octavio+Zambrano) | N/A |
+| 15 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 16 | [Atahualpa](http://twitter.com/search?q=Atahualpa) | N/A |
+| 17 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 18 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 19 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
+| 20 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 21 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 22 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 23 | [Bernardo Manzano](http://twitter.com/search?q=Bernardo+Manzano) | N/A |
+| 24 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 27 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 28 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 29 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
+| 30 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 31 | [Mae Montaño](http://twitter.com/search?q=Mae+Monta%c3%b1o) | N/A |
+| 32 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 33 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
+| 34 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
+| 35 | [Agricultura](http://twitter.com/search?q=Agricultura) | N/A |
+| 36 | [Monge](http://twitter.com/search?q=Monge) | N/A |
+| 37 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 38 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
+| 39 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 40 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
+| 41 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 42 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 43 | [kendry páez](http://twitter.com/search?q=kendry+p%c3%a1ez) | N/A |
+| 44 | [Con 102](http://twitter.com/search?q=Con+102) | N/A |
+| 45 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
+| 46 | [Teresita](http://twitter.com/search?q=Teresita) | N/A |
+| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 48 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 49 | [Ley de Comunicación](http://twitter.com/search?q=Ley+de+Comunicaci%c3%b3n) | N/A |
+| 50 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 
 
 
