@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-15 09:16:52 UTC`
+📆 Last Updated: `2023-02-15 10:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Kenan İmirzalıoğlu](http://twitter.com/search?q=Kenan+%c4%b0mirzal%c4%b1o%c4%9flu) | N/A |
 | 2 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 3 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
-| 4 | [#AllahuEkber](http://twitter.com/search?q=%23AllahuEkber) | N/A |
-| 5 | [Sağlık](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k) | N/A |
-| 6 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 7 | [NTVBoykot](http://twitter.com/search?q=NTVBoykot) | N/A |
-| 8 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
-| 9 | [Dayanışma Destanı](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Destan%c4%b1) | N/A |
-| 10 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 11 | [Melike İmamoğlu](http://twitter.com/search?q=Melike+%c4%b0mamo%c4%9flu) | N/A |
-| 12 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
-| 13 | [Filiz](http://twitter.com/search?q=Filiz) | N/A |
+| 3 | [#AllahuEkber](http://twitter.com/search?q=%23AllahuEkber) | N/A |
+| 4 | [Sağlık](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k) | N/A |
+| 5 | [NTVBoykot](http://twitter.com/search?q=NTVBoykot) | N/A |
+| 6 | [Dayanışma Destanı](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Destan%c4%b1) | N/A |
+| 7 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
+| 8 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
+| 9 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 10 | [Filiz](http://twitter.com/search?q=Filiz) | N/A |
+| 11 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
+| 12 | [Melike İmamoğlu](http://twitter.com/search?q=Melike+%c4%b0mamo%c4%9flu) | N/A |
+| 13 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
 | 14 | [Onur Ethem Çolak](http://twitter.com/search?q=Onur+Ethem+%c3%87olak) | N/A |
-| 15 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 16 | [#Floki](http://twitter.com/search?q=%23Floki) | N/A |
-| 17 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
+| 15 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
+| 16 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
+| 17 | [#Floki](http://twitter.com/search?q=%23Floki) | N/A |
 | 18 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 19 | [Sırrı](http://twitter.com/search?q=S%c4%b1rr%c4%b1) | N/A |
+| 19 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
 | 20 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 21 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 21 | [Sırrı](http://twitter.com/search?q=S%c4%b1rr%c4%b1) | N/A |
 | 22 | [Dursun Çolak](http://twitter.com/search?q=Dursun+%c3%87olak) | N/A |
 | 23 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
-| 24 | [Dayım](http://twitter.com/search?q=Day%c4%b1m) | N/A |
-| 25 | [Depremin 10](http://twitter.com/search?q=Depremin+10) | N/A |
-| 26 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 27 | [Oktay Kaynarca](http://twitter.com/search?q=Oktay+Kaynarca) | N/A |
+| 24 | [Depremin 10](http://twitter.com/search?q=Depremin+10) | N/A |
+| 25 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 26 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 27 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
 | 28 | [Kolon](http://twitter.com/search?q=Kolon) | N/A |
-| 29 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 30 | [Fatma Güngör](http://twitter.com/search?q=Fatma+G%c3%bcng%c3%b6r) | N/A |
-| 31 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
-| 32 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 33 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
-| 34 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 35 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 36 | [Meyve](http://twitter.com/search?q=Meyve) | N/A |
-| 37 | [#MACKO](http://twitter.com/search?q=%23MACKO) | N/A |
-| 38 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
-| 39 | [#ADIYAMANASESOL](http://twitter.com/search?q=%23ADIYAMANASESOL) | N/A |
-| 40 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 41 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 42 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
-| 43 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 44 | [#thyao](http://twitter.com/search?q=%23thyao) | N/A |
-| 45 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
-| 46 | [#EYTliZordaYasayıBekletmeyin](http://twitter.com/search?q=%23EYTliZordaYasay%c4%b1Bekletmeyin) | N/A |
+| 29 | [Dayım](http://twitter.com/search?q=Day%c4%b1m) | N/A |
+| 30 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 31 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
+| 32 | [Oktay Kaynarca](http://twitter.com/search?q=Oktay+Kaynarca) | N/A |
+| 33 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 34 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
+| 35 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
+| 36 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 37 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
+| 38 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 39 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 40 | [Meyve](http://twitter.com/search?q=Meyve) | N/A |
+| 41 | [#MACKO](http://twitter.com/search?q=%23MACKO) | N/A |
+| 42 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
+| 43 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 44 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 45 | [#ADIYAMANASESOL](http://twitter.com/search?q=%23ADIYAMANASESOL) | N/A |
+| 46 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 47 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 48 | [#thyao](http://twitter.com/search?q=%23thyao) | N/A |
+| 49 | [#Hamstercoin](http://twitter.com/search?q=%23Hamstercoin) | N/A |
+| 50 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
 
 
 

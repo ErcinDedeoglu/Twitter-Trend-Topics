@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-15 09:16:59 UTC`
+📆 Last Updated: `2023-02-15 10:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
 | 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 3 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
-| 4 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 5 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 4 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 5 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
 | 6 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
-| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 7 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
 | 8 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 9 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 10 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
-| 11 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
-| 12 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 13 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 14 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 15 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 16 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 17 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 9 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 13 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 14 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 16 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 17 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
 | 18 | [All American](http://twitter.com/search?q=All+American) | N/A |
 | 19 | [Hori](http://twitter.com/search?q=Hori) | N/A |
 | 20 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 21 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 22 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 23 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 24 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 25 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 26 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
-| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 28 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 29 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
-| 30 | [Floki](http://twitter.com/search?q=Floki) | N/A |
-| 31 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 32 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 33 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 34 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 35 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
-| 36 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 37 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 38 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 39 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 40 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 41 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 42 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 43 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 44 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 45 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 46 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 47 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 48 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 49 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
-| 50 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 21 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 22 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
+| 23 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
+| 24 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 25 | [Floki](http://twitter.com/search?q=Floki) | N/A |
+| 26 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 28 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 29 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 30 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 31 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 32 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 33 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 34 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 35 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 36 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 37 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 38 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 39 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 40 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 41 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 42 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 43 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 44 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
+| 45 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 46 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 47 | [Eternals](http://twitter.com/search?q=Eternals) | N/A |
+| 48 | [Enforce](http://twitter.com/search?q=Enforce) | N/A |
+| 49 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 50 | [I-10](http://twitter.com/search?q=I-10) | N/A |
 
 
 

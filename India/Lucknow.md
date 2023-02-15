@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-15 09:16:49 UTC`
+📆 Last Updated: `2023-02-15 10:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
 | 2 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 3 | [#ELECRAMA_2023](http://twitter.com/search?q=%23ELECRAMA_2023) | N/A |
+| 3 | [#RishtaAapSeHaiSirfAppSeNahi](http://twitter.com/search?q=%23RishtaAapSeHaiSirfAppSeNahi) | N/A |
 | 4 | [#realme10ProSeries5G](http://twitter.com/search?q=%23realme10ProSeries5G) | N/A |
-| 5 | [#GurmeetAsMaharanaPratap](http://twitter.com/search?q=%23GurmeetAsMaharanaPratap) | N/A |
+| 5 | [#ELECRAMA_2023](http://twitter.com/search?q=%23ELECRAMA_2023) | N/A |
 | 6 | [#StartYourStory](http://twitter.com/search?q=%23StartYourStory) | N/A |
-| 7 | [#RishtaAapSeHaiSirfAppSeNahi](http://twitter.com/search?q=%23RishtaAapSeHaiSirfAppSeNahi) | N/A |
-| 8 | [Best Travel App EaseMyTrip](http://twitter.com/search?q=Best+Travel+App+EaseMyTrip) | N/A |
-| 9 | [HBD GULSHAN KUMAR](http://twitter.com/search?q=HBD+GULSHAN+KUMAR) | N/A |
-| 10 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 11 | [सुभद्रा कुमारी चौहान](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 12 | [Sidharth Shukla](http://twitter.com/search?q=Sidharth+Shukla) | N/A |
-| 13 | [MERA JAAN MERA DIL SHIBDU](http://twitter.com/search?q=MERA+JAAN+MERA+DIL+SHIBDU) | N/A |
-| 14 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
-| 15 | [Sahil Gehlot](http://twitter.com/search?q=Sahil+Gehlot) | N/A |
-| 16 | [निक्की यादव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 17 | [Kotla](http://twitter.com/search?q=Kotla) | N/A |
-| 18 | [साहिल गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 19 | [SSRcase Exposed Justice System](http://twitter.com/search?q=SSRcase+Exposed+Justice+System) | N/A |
-| 20 | [Vande Bharat Express](http://twitter.com/search?q=Vande+Bharat+Express) | N/A |
-| 21 | [रघुवीर समर्थ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%98%e0%a5%81%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5) | N/A |
-| 22 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
-| 23 | [राष्ट्रीय चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
-| 24 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 7 | [#GurmeetAsMaharanaPratap](http://twitter.com/search?q=%23GurmeetAsMaharanaPratap) | N/A |
+| 8 | [कृष्णा गौतम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be+%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae) | N/A |
+| 9 | [साहिल गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 10 | [निक्की यादव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 11 | [Sahil Gehlot](http://twitter.com/search?q=Sahil+Gehlot) | N/A |
+| 12 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
+| 13 | [सुभद्रा कुमारी चौहान](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 14 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 15 | [SSRcase Exposed Justice System](http://twitter.com/search?q=SSRcase+Exposed+Justice+System) | N/A |
+| 16 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
+| 17 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
+| 18 | [रघुवीर समर्थ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%98%e0%a5%81%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5) | N/A |
+| 19 | [MERA JAAN MERA DIL SHIBDU](http://twitter.com/search?q=MERA+JAAN+MERA+DIL+SHIBDU) | N/A |
+| 20 | [Kotla](http://twitter.com/search?q=Kotla) | N/A |
+| 21 | [Vande Bharat Express](http://twitter.com/search?q=Vande+Bharat+Express) | N/A |
+| 22 | [राष्ट्रीय चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
+| 23 | [केंद्रीय मंत्री श्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 24 | [Arnab](http://twitter.com/search?q=Arnab) | N/A |
 | 25 | [Prachi](http://twitter.com/search?q=Prachi) | N/A |
-| 26 | [Arnab](http://twitter.com/search?q=Arnab) | N/A |
-| 27 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 28 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 29 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 30 | [चेतन शर्मा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 26 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 27 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 28 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 29 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 30 | [गरीब ब्राह्मण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3) | N/A |
 | 31 | [विधान परिषद](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 32 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 33 | [गरीब ब्राह्मण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3) | N/A |
-| 34 | [Know The Reality](http://twitter.com/search?q=Know+The+Reality) | N/A |
-| 35 | [Real Facts](http://twitter.com/search?q=Real+Facts) | N/A |
-| 36 | [केंद्रीय मंत्री श्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 37 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 39 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 40 | [एयर इंडिया](http://twitter.com/search?q=%e0%a4%8f%e0%a4%af%e0%a4%b0+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 41 | [The Romantics](http://twitter.com/search?q=The+Romantics) | N/A |
-| 42 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 43 | [#CurvedDisplayNewVision](http://twitter.com/search?q=%23CurvedDisplayNewVision) | N/A |
-| 44 | [#Modi4Meghalaya](http://twitter.com/search?q=%23Modi4Meghalaya) | N/A |
-| 45 | [#SaniaMirza](http://twitter.com/search?q=%23SaniaMirza) | N/A |
-| 46 | [#AmritKaalBudgetHaryana23](http://twitter.com/search?q=%23AmritKaalBudgetHaryana23) | N/A |
-| 47 | [#RC16](http://twitter.com/search?q=%23RC16) | N/A |
+| 32 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
+| 33 | [चेतन शर्मा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 34 | [एयर इंडिया](http://twitter.com/search?q=%e0%a4%8f%e0%a4%af%e0%a4%b0+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 35 | [Know The Reality](http://twitter.com/search?q=Know+The+Reality) | N/A |
+| 36 | [Real Facts](http://twitter.com/search?q=Real+Facts) | N/A |
+| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 38 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 39 | [The Romantics](http://twitter.com/search?q=The+Romantics) | N/A |
+| 40 | [#CurvedDisplayNewVision](http://twitter.com/search?q=%23CurvedDisplayNewVision) | N/A |
+| 41 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
+| 42 | [#SidharthShukla](http://twitter.com/search?q=%23SidharthShukla) | N/A |
+| 43 | [#HaqMaguchiOdisha](http://twitter.com/search?q=%23HaqMaguchiOdisha) | N/A |
+| 44 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
+| 45 | [#KanpurDehatAccident](http://twitter.com/search?q=%23KanpurDehatAccident) | N/A |
+| 46 | [#NikkiYadav](http://twitter.com/search?q=%23NikkiYadav) | N/A |
+| 47 | [#SaniaMirza](http://twitter.com/search?q=%23SaniaMirza) | N/A |
 | 48 | [#NewZealand](http://twitter.com/search?q=%23NewZealand) | N/A |
-| 49 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
-| 50 | [#HaqMaguchiOdisha](http://twitter.com/search?q=%23HaqMaguchiOdisha) | N/A |
+| 49 | [#ChetanSharmaSting](http://twitter.com/search?q=%23ChetanSharmaSting) | N/A |
+| 50 | [#RC16](http://twitter.com/search?q=%23RC16) | N/A |
 
 
 

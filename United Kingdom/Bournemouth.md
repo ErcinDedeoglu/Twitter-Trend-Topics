@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-15 09:16:13 UTC`
+📆 Last Updated: `2023-02-15 10:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 2 | [#stfc](http://twitter.com/search?q=%23stfc) | N/A |
-| 3 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
-| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 5 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 6 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 7 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 8 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 9 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
-| 10 | [Margaret Hodge](http://twitter.com/search?q=Margaret+Hodge) | N/A |
-| 11 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 12 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 13 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 18 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 19 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 22 | [10.5% in December](http://twitter.com/search?q=10.5%25+in+December) | N/A |
-| 23 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 25 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 29 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 30 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 31 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 32 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 33 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 34 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 35 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 36 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 37 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 38 | [Brian Haw](http://twitter.com/search?q=Brian+Haw) | N/A |
-| 39 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 40 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 41 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
-| 42 | [Angel of the North](http://twitter.com/search?q=Angel+of+the+North) | N/A |
-| 43 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 44 | [UK CPI](http://twitter.com/search?q=UK+CPI) | N/A |
-| 45 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
-| 46 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 47 | [sanam](http://twitter.com/search?q=sanam) | N/A |
-| 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 1 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 2 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 3 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 4 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 5 | [#stfc](http://twitter.com/search?q=%23stfc) | N/A |
+| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 8 | [Jeremy Corbyn](http://twitter.com/search?q=Jeremy+Corbyn) | N/A |
+| 9 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 10 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
+| 11 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 12 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 13 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 14 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 15 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 16 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 17 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
+| 18 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 19 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 20 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
+| 21 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 22 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 23 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 24 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 25 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
+| 26 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
+| 27 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 28 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 29 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 30 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 31 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 32 | [#itfc](http://twitter.com/search?q=%23itfc) | N/A |
+| 33 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
+| 34 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
+| 35 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 36 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 37 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 38 | [#mercedesf1](http://twitter.com/search?q=%23mercedesf1) | N/A |
+| 39 | [#ASongOrMovieForAnythingBig](http://twitter.com/search?q=%23ASongOrMovieForAnythingBig) | N/A |
+| 40 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
+| 41 | [#YotoCarnegies23](http://twitter.com/search?q=%23YotoCarnegies23) | N/A |
+| 42 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
+| 43 | [#CLON](http://twitter.com/search?q=%23CLON) | N/A |
+| 44 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 45 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 46 | [#BrexitWasALie](http://twitter.com/search?q=%23BrexitWasALie) | N/A |
+| 47 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
 
 
 
