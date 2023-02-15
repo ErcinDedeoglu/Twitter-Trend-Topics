@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-15 22:16:34 UTC`
+📆 Last Updated: `2023-02-15 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
-| 2 | [#bvbcfc](http://twitter.com/search?q=%23bvbcfc) | N/A |
-| 3 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 8 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 9 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 10 | [Choreo](http://twitter.com/search?q=Choreo) | N/A |
-| 11 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 12 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 13 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 15 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 16 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 2 | [#maischberger](http://twitter.com/search?q=%23maischberger) | N/A |
+| 3 | [#bvbcfc](http://twitter.com/search?q=%23bvbcfc) | N/A |
+| 4 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 5 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 6 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 9 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 10 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 11 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 12 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 14 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 15 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 19 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
-| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 21 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 24 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 25 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 26 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
-| 27 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 28 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 29 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 30 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 31 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 32 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 20 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 21 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 22 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 23 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 25 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 26 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 27 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 28 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
+| 29 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 30 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 31 | [Choreo](http://twitter.com/search?q=Choreo) | N/A |
+| 32 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
 | 33 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 34 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 35 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 36 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 38 | [Nationalpazifismus](http://twitter.com/search?q=Nationalpazifismus) | N/A |
-| 39 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 40 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 41 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 42 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 45 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 46 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 47 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
-| 48 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 34 | [Franz Alt](http://twitter.com/search?q=Franz+Alt) | N/A |
+| 35 | [Nationalpazifismus](http://twitter.com/search?q=Nationalpazifismus) | N/A |
+| 36 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 37 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 38 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
+| 39 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 40 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 41 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 42 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 43 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 44 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 45 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
+| 46 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 47 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 48 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
 
 
 
