@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-14 23:17:19 UTC`
+📆 Last Updated: `2023-02-15 00:29:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 2 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
 | 3 | [Paige](http://twitter.com/search?q=Paige) | N/A |
-| 4 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
-| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 7 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 8 | [tommy](http://twitter.com/search?q=tommy) | N/A |
-| 9 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 5 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 6 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 7 | [MADDY](http://twitter.com/search?q=MADDY) | N/A |
+| 8 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 9 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 10 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 11 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 12 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 13 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 14 | [Crows Nest](http://twitter.com/search?q=Crows+Nest) | N/A |
-| 15 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 16 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
-| 17 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 22 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 23 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [John Laws](http://twitter.com/search?q=John+Laws) | N/A |
-| 26 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
-| 27 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
-| 28 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 29 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 30 | [Senate Estimates](http://twitter.com/search?q=Senate+Estimates) | N/A |
-| 31 | [stolen generations](http://twitter.com/search?q=stolen+generations) | N/A |
-| 32 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
-| 33 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 34 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
-| 35 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 36 | [Macedonian Jesus](http://twitter.com/search?q=Macedonian+Jesus) | N/A |
-| 37 | [Ash Gardner](http://twitter.com/search?q=Ash+Gardner) | N/A |
-| 38 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 39 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
-| 40 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 41 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 42 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 43 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
-| 44 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 46 | [Bridget](http://twitter.com/search?q=Bridget) | N/A |
-| 47 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 49 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
-| 50 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 11 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 12 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 13 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
+| 17 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 19 | [Crosby Textor](http://twitter.com/search?q=Crosby+Textor) | N/A |
+| 20 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 21 | [Senate Estimates](http://twitter.com/search?q=Senate+Estimates) | N/A |
+| 22 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 23 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 24 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
+| 25 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 26 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 27 | [stolen generations](http://twitter.com/search?q=stolen+generations) | N/A |
+| 28 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 29 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
+| 30 | [ash gardner](http://twitter.com/search?q=ash+gardner) | N/A |
+| 31 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 32 | [macedonian jesus](http://twitter.com/search?q=macedonian+jesus) | N/A |
+| 33 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 34 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 35 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
+| 36 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 37 | [John Laws](http://twitter.com/search?q=John+Laws) | N/A |
+| 38 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 39 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
+| 40 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
+| 41 | [Bridget](http://twitter.com/search?q=Bridget) | N/A |
+| 42 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 43 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 44 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 45 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 46 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
+| 47 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 48 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 49 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 50 | [ASIO](http://twitter.com/search?q=ASIO) | N/A |
 
 
 

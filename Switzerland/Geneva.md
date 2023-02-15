@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-14 23:16:50 UTC`
+📆 Last Updated: `2023-02-15 00:29:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 8 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 9 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 13 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 14 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 15 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
-| 16 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 17 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 12 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 13 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 14 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 15 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 16 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 17 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
 | 18 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 19 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 20 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 19 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 20 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 | 21 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
-| 22 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 23 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 24 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
+| 22 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 23 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 24 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
 | 25 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 26 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 27 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
-| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 29 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 30 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 31 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 26 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
+| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 30 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 31 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
 | 32 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 33 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 34 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
-| 35 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 38 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 39 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 40 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 41 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 42 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
-| 43 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 44 | [Les USA](http://twitter.com/search?q=Les+USA) | N/A |
-| 45 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 46 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 47 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 33 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 34 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 35 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 36 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 37 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 38 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 39 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 40 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 41 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
+| 42 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 43 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 44 | [Gebäude](http://twitter.com/search?q=Geb%c3%a4ude) | N/A |
+| 45 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 46 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 47 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 48 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 
 
 

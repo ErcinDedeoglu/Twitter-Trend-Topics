@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-14 23:17:20 UTC`
+📆 Last Updated: `2023-02-15 00:29:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,36 @@ This is top 50 for Canada
 | ------- | ------------ | ------------ |
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 2 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 6 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 8 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 9 | [#IJustNeedThisLoveSpiral](http://twitter.com/search?q=%23IJustNeedThisLoveSpiral) | N/A |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 4 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 8 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 10 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 11 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 12 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 13 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 14 | [RRSP](http://twitter.com/search?q=RRSP) | N/A |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 17 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 18 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 19 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 20 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 21 | [Hazel McCallion](http://twitter.com/search?q=Hazel+McCallion) | Hazel McCallion is the former mayor of Mississauga, Ontario, Canada. She served as mayor from 1978 to 2014, making her the longest-serving mayor in Canadian history. Her name has become synonymous with strong leadership and a commitment to public service. |
-| 22 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 23 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
-| 24 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 25 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 26 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 27 | [Stanley Park](http://twitter.com/search?q=Stanley+Park) | N/A |
+| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 13 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 14 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 15 | [RRSP](http://twitter.com/search?q=RRSP) | N/A |
+| 16 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
+| 19 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 20 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 21 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 22 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
+| 23 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 24 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 25 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 26 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 27 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
 | 28 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 29 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
-| 30 | [#Apex4nniversary](http://twitter.com/search?q=%23Apex4nniversary) | N/A |
-| 31 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
-| 32 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 33 | [#CFLFA](http://twitter.com/search?q=%23CFLFA) | N/A |
-| 34 | [#MMIWG2S](http://twitter.com/search?q=%23MMIWG2S) | N/A |
-| 35 | [#HaveAHeartDay](http://twitter.com/search?q=%23HaveAHeartDay) | N/A |
-| 36 | [#Riders](http://twitter.com/search?q=%23Riders) | N/A |
-| 37 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 38 | [#vanpoli](http://twitter.com/search?q=%23vanpoli) | N/A |
+| 29 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 30 | [#MMIWG2S](http://twitter.com/search?q=%23MMIWG2S) | N/A |
+| 31 | [#CFLFA](http://twitter.com/search?q=%23CFLFA) | N/A |
+| 32 | [#OhioTrainDisaster](http://twitter.com/search?q=%23OhioTrainDisaster) | N/A |
 
 
 

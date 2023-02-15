@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-14 23:16:43 UTC`
+📆 Last Updated: `2023-02-15 00:29:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 4 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 5 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 6 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 7 | [NAVIO DO LUAN](http://twitter.com/search?q=NAVIO+DO+LUAN) | N/A |
-| 8 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 9 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 10 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 11 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
-| 12 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
-| 13 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 16 | [FLOWERS OUT NOW](http://twitter.com/search?q=FLOWERS+OUT+NOW) | N/A |
-| 17 | [#NoahsFlowers](http://twitter.com/search?q=%23NoahsFlowers) | N/A |
-| 18 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 19 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 20 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 21 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 22 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 23 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 24 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
-| 25 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 26 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 2 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 5 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 6 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 7 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
+| 8 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 9 | [NAVIO DO LUAN](http://twitter.com/search?q=NAVIO+DO+LUAN) | N/A |
+| 10 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 11 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 12 | [#HOPEWEEKD3](http://twitter.com/search?q=%23HOPEWEEKD3) | N/A |
+| 13 | [STREAM BRAZIL HOPE](http://twitter.com/search?q=STREAM+BRAZIL+HOPE) | N/A |
+| 14 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 15 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 16 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 17 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 18 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 20 | [FLOWERS OUT NOW](http://twitter.com/search?q=FLOWERS+OUT+NOW) | N/A |
+| 21 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
+| 22 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 23 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 24 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 25 | [Brasileirão 2023](http://twitter.com/search?q=Brasileir%c3%a3o+2023) | N/A |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 27 | [Esse PSG](http://twitter.com/search?q=Esse+PSG) | N/A |
-| 28 | [Brasileirão 2023](http://twitter.com/search?q=Brasileir%c3%a3o+2023) | N/A |
-| 29 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 30 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 31 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 32 | [CUPIDO OUT NOW](http://twitter.com/search?q=CUPIDO+OUT+NOW) | N/A |
-| 33 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 34 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 35 | [#TresVezesAna012](http://twitter.com/search?q=%23TresVezesAna012) | N/A |
-| 36 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 37 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 38 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 29 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 30 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 31 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 32 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 34 | [OUCA CARINHA DE BEBE](http://twitter.com/search?q=OUCA+CARINHA+DE+BEBE) | N/A |
+| 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 36 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
+| 37 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 38 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
 | 39 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 40 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 41 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 42 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 43 | [Danilo Pereira](http://twitter.com/search?q=Danilo+Pereira) | N/A |
-| 44 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 45 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 46 | [Botafogo x São Paulo](http://twitter.com/search?q=Botafogo+x+S%c3%a3o+Paulo) | N/A |
-| 47 | [Candoca](http://twitter.com/search?q=Candoca) | N/A |
-| 48 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 40 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 41 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 42 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 43 | [Rego](http://twitter.com/search?q=Rego) | N/A |
+| 44 | [Corro](http://twitter.com/search?q=Corro) | N/A |
+| 45 | [CUPIDO OUT NOW](http://twitter.com/search?q=CUPIDO+OUT+NOW) | N/A |
+| 46 | [Botão](http://twitter.com/search?q=Bot%c3%a3o) | N/A |
+| 47 | [Cofre](http://twitter.com/search?q=Cofre) | N/A |
 
 
 
