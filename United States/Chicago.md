@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-15 14:16:57 UTC`
+📆 Last Updated: `2023-02-15 15:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 5 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
 | 9 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 10 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 11 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
-| 12 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 14 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 15 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 16 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
-| 17 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 18 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 19 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 11 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 12 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 13 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 14 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 15 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 16 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 17 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 18 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 19 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
 | 20 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
 | 21 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 22 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 23 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 24 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 25 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 26 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 27 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 28 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 30 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 31 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 32 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 33 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 34 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 35 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 36 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 37 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 38 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 39 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 40 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 41 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 42 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 43 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 44 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 45 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 46 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
-| 47 | [#FullSwing](http://twitter.com/search?q=%23FullSwing) | N/A |
-| 48 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 49 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
-| 50 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
+| 22 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 23 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 24 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 25 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 26 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 27 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 28 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
+| 29 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 30 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 31 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
+| 32 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
+| 33 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 34 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 35 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 36 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 37 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
+| 38 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 39 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
+| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 41 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 42 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
+| 43 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 44 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 45 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 46 | [Cousin Eddie](http://twitter.com/search?q=Cousin+Eddie) | N/A |
+| 47 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 48 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
 
 
 

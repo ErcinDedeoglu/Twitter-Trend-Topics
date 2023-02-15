@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-15 14:16:29 UTC`
+📆 Last Updated: `2023-02-15 15:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 2 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 3 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 1 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 2 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 4 | [#Lufthansa](http://twitter.com/search?q=%23Lufthansa) | N/A |
 | 5 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
 | 6 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 7 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 8 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 9 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 8 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 9 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
 | 10 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
 | 11 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 12 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 13 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 14 | [Nationalpazifismus](http://twitter.com/search?q=Nationalpazifismus) | N/A |
-| 15 | [Bagger](http://twitter.com/search?q=Bagger) | N/A |
-| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 17 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 18 | [Briefwahlstimmen](http://twitter.com/search?q=Briefwahlstimmen) | N/A |
-| 19 | [e-autos](http://twitter.com/search?q=e-autos) | N/A |
-| 20 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
-| 21 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
-| 22 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 24 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 25 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 26 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 27 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
-| 28 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 14 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 15 | ["Nationalpazifismus"](http://twitter.com/search?q=%22Nationalpazifismus%22) | N/A |
+| 16 | [Kabel](http://twitter.com/search?q=Kabel) | N/A |
+| 17 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
+| 18 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 19 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 20 | [Briefwahlstimmen](http://twitter.com/search?q=Briefwahlstimmen) | N/A |
+| 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 22 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 23 | [Beton](http://twitter.com/search?q=Beton) | N/A |
+| 24 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 25 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 26 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 27 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 28 | [Baggerfahrer](http://twitter.com/search?q=Baggerfahrer) | N/A |
 | 29 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
-| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 31 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 32 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 33 | [Masala](http://twitter.com/search?q=Masala) | N/A |
-| 34 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
-| 35 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 30 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 31 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 32 | [Masala](http://twitter.com/search?q=Masala) | N/A |
+| 33 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 34 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 35 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
 | 36 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
-| 37 | [Beton](http://twitter.com/search?q=Beton) | N/A |
-| 38 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 39 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 40 | [Redundanz](http://twitter.com/search?q=Redundanz) | N/A |
-| 41 | [Lichtenberg](http://twitter.com/search?q=Lichtenberg) | N/A |
-| 42 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 43 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 44 | [die deutsche bahn](http://twitter.com/search?q=die+deutsche+bahn) | N/A |
-| 45 | [Umdeutung](http://twitter.com/search?q=Umdeutung) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
-| 48 | [Autobauer](http://twitter.com/search?q=Autobauer) | N/A |
+| 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 38 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 39 | [Redundanz](http://twitter.com/search?q=Redundanz) | N/A |
+| 40 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
+| 41 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 42 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 43 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
+| 44 | [Lichtenberg](http://twitter.com/search?q=Lichtenberg) | N/A |
+| 45 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 46 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 47 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-02-15 14:17:02 UTC`
+📆 Last Updated: `2023-02-15 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [United States](</United States>)
 | 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 5 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
 | 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 8 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 9 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 7 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 8 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
 | 10 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 13 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
-| 14 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 15 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 16 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 17 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 18 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 11 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 12 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 13 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 14 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 15 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 16 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 17 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 18 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
 | 19 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 20 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 21 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 22 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 23 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 24 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 25 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 26 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 27 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 28 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 29 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 30 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 31 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 20 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 21 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 22 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 23 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 24 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 25 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 26 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 27 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
+| 28 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 29 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 30 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
+| 31 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
 | 32 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 33 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 34 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 35 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 36 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 37 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 38 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 39 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 40 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 41 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 42 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 43 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 44 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
-| 45 | [#FullSwing](http://twitter.com/search?q=%23FullSwing) | N/A |
-| 46 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 47 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
-| 48 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
+| 33 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 34 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 35 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
+| 36 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 37 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
+| 38 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 39 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 40 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
+| 41 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
+| 42 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 43 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 44 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 45 | [Cousin Eddie](http://twitter.com/search?q=Cousin+Eddie) | N/A |
+| 46 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 47 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
+| 48 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
 
 
 

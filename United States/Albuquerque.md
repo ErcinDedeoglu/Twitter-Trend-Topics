@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-15 14:16:55 UTC`
+📆 Last Updated: `2023-02-15 15:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 3 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
 | 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 5 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 6 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 7 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 5 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 6 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
 | 8 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 11 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
-| 12 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 13 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 14 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 15 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 16 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 9 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 10 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 11 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 14 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 15 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 16 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
 | 17 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 18 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 19 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 20 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 21 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 22 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 23 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 26 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 27 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 28 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 29 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 30 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 31 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 32 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 33 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 34 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 35 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 36 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 37 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 38 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 39 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 40 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 41 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 42 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
-| 43 | [#FullSwing](http://twitter.com/search?q=%23FullSwing) | N/A |
-| 44 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 45 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
-| 46 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
-| 47 | [#Floki](http://twitter.com/search?q=%23Floki) | N/A |
-| 48 | [#WuTangonHulu](http://twitter.com/search?q=%23WuTangonHulu) | N/A |
-| 49 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 18 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 19 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 20 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 21 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 22 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 23 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 24 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 25 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
+| 26 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 27 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 28 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
+| 29 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
+| 30 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 31 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 32 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 33 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 34 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
+| 35 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 36 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
+| 37 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 38 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
+| 39 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 40 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 41 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 42 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 43 | [Cousin Eddie](http://twitter.com/search?q=Cousin+Eddie) | N/A |
+| 44 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 45 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
+| 46 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 47 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 48 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 49 | [Klondike](http://twitter.com/search?q=Klondike) | N/A |
 
 
 

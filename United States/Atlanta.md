@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-15 14:16:56 UTC`
+📆 Last Updated: `2023-02-15 15:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
-| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 3 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 4 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
-| 5 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 8 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 9 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 10 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 11 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 12 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 2 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 3 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
+| 4 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 5 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 7 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 8 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 9 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 10 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 12 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
 | 13 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 14 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 15 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
-| 16 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 19 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 20 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
-| 21 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 22 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 23 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 15 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 16 | [#blockelon](http://twitter.com/search?q=%23blockelon) | N/A |
+| 17 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 18 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 19 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 20 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 21 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 22 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 23 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
 | 24 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
 | 25 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 26 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 27 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 28 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 29 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 30 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 31 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 32 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 33 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 34 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 37 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 26 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 27 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 28 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 29 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 30 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 31 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 32 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
+| 33 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 34 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 35 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
+| 36 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
+| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
 | 38 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 39 | [rolling stone](http://twitter.com/search?q=rolling+stone) | N/A |
-| 40 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 41 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 42 | [Epstein Island](http://twitter.com/search?q=Epstein+Island) | N/A |
-| 43 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 44 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 45 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 46 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 47 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 48 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 49 | [#FullSwing](http://twitter.com/search?q=%23FullSwing) | N/A |
-| 50 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 39 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 40 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 41 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
+| 42 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 43 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
+| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 45 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 46 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
+| 47 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 48 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 49 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
 
 
 

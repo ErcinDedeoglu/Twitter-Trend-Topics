@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-15 14:16:43 UTC`
+📆 Last Updated: `2023-02-15 15:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
-| 2 | [#JAEHYUNforPradaSS23](http://twitter.com/search?q=%23JAEHYUNforPradaSS23) | N/A |
-| 3 | [#NANON_UNIDWDPressTour](http://twitter.com/search?q=%23NANON_UNIDWDPressTour) | N/A |
-| 4 | [#4NOLOGUE](http://twitter.com/search?q=%234NOLOGUE) | N/A |
-| 5 | [#หวยรัฐบาล](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90%e0%b8%9a%e0%b8%b2%e0%b8%a5) | N/A |
-| 6 | [bright](http://twitter.com/search?q=bright) | N/A |
-| 7 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
-| 8 | [#HappyPinkiizday2023](http://twitter.com/search?q=%23HappyPinkiizday2023) | N/A |
-| 9 | [#บิวเป็นพีทที่สมบูรณ์แบบ](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b8%97%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%a1%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9a) | N/A |
-| 10 | [#พีพีมาไลฟ์IG](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b9%84%e0%b8%a5%e0%b8%9f%e0%b9%8cIG) | N/A |
-| 11 | [#KristMeValentine](http://twitter.com/search?q=%23KristMeValentine) | N/A |
-| 12 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 13 | [#28thHappyENGFADAY](http://twitter.com/search?q=%2328thHappyENGFADAY) | N/A |
-| 14 | [#AIS5GxBamBam](http://twitter.com/search?q=%23AIS5GxBamBam) | N/A |
-| 15 | [#ZeeNunewMySweetHeart](http://twitter.com/search?q=%23ZeeNunewMySweetHeart) | N/A |
-| 16 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
-| 17 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
-| 18 | [#WeTVawards2022](http://twitter.com/search?q=%23WeTVawards2022) | N/A |
-| 19 | [#ผิวไบรท์แบบNextGenกับBillkin](http://twitter.com/search?q=%23%e0%b8%9c%e0%b8%b4%e0%b8%a7%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9aNextGen%e0%b8%81%e0%b8%b1%e0%b8%9aBillkin) | N/A |
-| 20 | [#KAZZTalKxFREEN](http://twitter.com/search?q=%23KAZZTalKxFREEN) | N/A |
-| 21 | [#LoveAtFirstSitexTaratiwat](http://twitter.com/search?q=%23LoveAtFirstSitexTaratiwat) | N/A |
-| 22 | [#เพราะรักEP7](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%b0%e0%b8%a3%e0%b8%b1%e0%b8%81EP7) | N/A |
-| 23 | [#นางนาคสะใภ้พระโขนงEP15](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87EP15) | N/A |
-| 24 | [#ATLASแกล้งลืม_Teaser2](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1_Teaser2) | N/A |
-| 25 | [#คิดถึงตอนต้นเป็นเชฟ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%80%e0%b8%8a%e0%b8%9f) | N/A |
-| 26 | [#กลรักรุ่นพี่](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b9%88) | N/A |
-| 27 | [#น้องดอม](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%ad%e0%b8%a1) | N/A |
-| 28 | [#4NOMENON](http://twitter.com/search?q=%234NOMENON) | N/A |
-| 29 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 30 | [#ProudOfMOSwith100K](http://twitter.com/search?q=%23ProudOfMOSwith100K) | N/A |
-| 31 | [#DVIDebutStage](http://twitter.com/search?q=%23DVIDebutStage) | N/A |
-| 32 | [#Punkspyfitting](http://twitter.com/search?q=%23Punkspyfitting) | N/A |
-| 33 | [#ประชุมสภา](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
-| 34 | [#adidasBrandCenterxATLAS](http://twitter.com/search?q=%23adidasBrandCenterxATLAS) | N/A |
-| 35 | [#อยู่กับเอไอเอสดีที่สุด](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b9%84%e0%b8%ad%e0%b9%80%e0%b8%ad%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94) | N/A |
-| 36 | [#13หมูป่า](http://twitter.com/search?q=%2313%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%9b%e0%b9%88%e0%b8%b2) | N/A |
-| 37 | [#KonnecThai](http://twitter.com/search?q=%23KonnecThai) | N/A |
-| 38 | [#Sertist_Vlog02](http://twitter.com/search?q=%23Sertist_Vlog02) | N/A |
-| 39 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 40 | [#KohPeckMyDarling](http://twitter.com/search?q=%23KohPeckMyDarling) | N/A |
-| 41 | [#adidasthailand](http://twitter.com/search?q=%23adidasthailand) | N/A |
-| 42 | [#โฟร์โนมินอล](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%99%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%ad%e0%b8%a5) | N/A |
-| 43 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 44 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 45 | [#Flex1045xNANON](http://twitter.com/search?q=%23Flex1045xNANON) | N/A |
-| 46 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 47 | [#TANSANSU](http://twitter.com/search?q=%23TANSANSU) | N/A |
-| 48 | [#TRINITY_TNT](http://twitter.com/search?q=%23TRINITY_TNT) | N/A |
-| 49 | [#WeTVth](http://twitter.com/search?q=%23WeTVth) | N/A |
-| 50 | [#หวยงวดนี้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%a7%e0%b8%94%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
+| 2 | [#28thHappyENGFADAY](http://twitter.com/search?q=%2328thHappyENGFADAY) | N/A |
+| 3 | [#KristMeValentine](http://twitter.com/search?q=%23KristMeValentine) | N/A |
+| 4 | [#CutiePieUncutxiQIYI](http://twitter.com/search?q=%23CutiePieUncutxiQIYI) | N/A |
+| 5 | [#พีพีมาไลฟ์IG](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b9%84%e0%b8%a5%e0%b8%9f%e0%b9%8cIG) | N/A |
+| 6 | [Bright](http://twitter.com/search?q=Bright) | N/A |
+| 7 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 8 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
+| 9 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
+| 10 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
+| 11 | [#AIS5GxBamBam](http://twitter.com/search?q=%23AIS5GxBamBam) | N/A |
+| 12 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
+| 13 | [#ZeeNunewMySweetHeart](http://twitter.com/search?q=%23ZeeNunewMySweetHeart) | N/A |
+| 14 | [#เพราะรักEP7](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%b0%e0%b8%a3%e0%b8%b1%e0%b8%81EP7) | N/A |
+| 15 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
+| 16 | [#WeTVAwards2022](http://twitter.com/search?q=%23WeTVAwards2022) | N/A |
+| 17 | [#พระนคร๒๔๑๐Ep3](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b9%92%e0%b9%94%e0%b9%91%e0%b9%90Ep3) | N/A |
+| 18 | [#KAZZTalKxFREEN](http://twitter.com/search?q=%23KAZZTalKxFREEN) | N/A |
+| 19 | [#นางนาคสะใภ้พระโขนงep15](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87ep15) | N/A |
+| 20 | [#adidasBrandCenterxATLAS](http://twitter.com/search?q=%23adidasBrandCenterxATLAS) | N/A |
+| 21 | [#ATLASแกล้งลืม_teaser2](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1_teaser2) | N/A |
+| 22 | [#น้องดอม](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%ad%e0%b8%a1) | N/A |
+| 23 | [#เชียงหมี่กับพี่แปด](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%ab%e0%b8%a1%e0%b8%b5%e0%b9%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9b%e0%b8%94) | N/A |
+| 24 | [#LoveAtFirstSitexTaratiwat](http://twitter.com/search?q=%23LoveAtFirstSitexTaratiwat) | N/A |
+| 25 | [#ผิวไบรท์แบบNextGenกับBillkin](http://twitter.com/search?q=%23%e0%b8%9c%e0%b8%b4%e0%b8%a7%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9aNextGen%e0%b8%81%e0%b8%b1%e0%b8%9aBillkin) | N/A |
+| 26 | [#JimmyChoox4EVE](http://twitter.com/search?q=%23JimmyChoox4EVE) | N/A |
+| 27 | [#PrettyGuardianSailorMoon](http://twitter.com/search?q=%23PrettyGuardianSailorMoon) | N/A |
+| 28 | [#ประชุมสภา](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
+| 29 | [#กลรักรุ่นพี่](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b9%88) | N/A |
+| 30 | [#คิดถึงตอนต้นเป็นเชฟ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%80%e0%b8%8a%e0%b8%9f) | N/A |
+| 31 | [#ProudOfMOSwith100K](http://twitter.com/search?q=%23ProudOfMOSwith100K) | N/A |
+| 32 | [#4NOMENON](http://twitter.com/search?q=%234NOMENON) | N/A |
+| 33 | [#DVIDebutStage](http://twitter.com/search?q=%23DVIDebutStage) | N/A |
+| 34 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 35 | [#adidasthailand](http://twitter.com/search?q=%23adidasthailand) | N/A |
+| 36 | [#KonnecThai](http://twitter.com/search?q=%23KonnecThai) | N/A |
+| 37 | [#KohPeckMyDarling](http://twitter.com/search?q=%23KohPeckMyDarling) | N/A |
+| 38 | [#13หมูป่า](http://twitter.com/search?q=%2313%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%9b%e0%b9%88%e0%b8%b2) | N/A |
+| 39 | [#อยู่กับเอไอเอสดีที่สุด](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b9%84%e0%b8%ad%e0%b9%80%e0%b8%ad%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94) | N/A |
+| 40 | [#Punkspyfitting](http://twitter.com/search?q=%23Punkspyfitting) | N/A |
+| 41 | [#Sertist_Vlog02](http://twitter.com/search?q=%23Sertist_Vlog02) | N/A |
+| 42 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 43 | [#TANSANSU](http://twitter.com/search?q=%23TANSANSU) | N/A |
+| 44 | [#หวยงวดนี้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%a7%e0%b8%94%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
+| 45 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 46 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 47 | [#โฟร์โนมินอล](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%99%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%ad%e0%b8%a5) | N/A |
+| 48 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 49 | [#TANจัดให้](http://twitter.com/search?q=%23TAN%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b9%83%e0%b8%ab%e0%b9%89) | N/A |
+| 50 | [#ประยุทธ์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b9%8c) | N/A |
 
 
 
