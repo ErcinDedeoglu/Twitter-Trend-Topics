@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-15 11:18:25 UTC`
+📆 Last Updated: `2023-02-15 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for United Kingdom
 | 1 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
 | 2 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
 | 3 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 4 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 4 | [Independence](http://twitter.com/search?q=Independence) | N/A |
 | 5 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
 | 6 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 7 | [Independence](http://twitter.com/search?q=Independence) | N/A |
-| 8 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
-| 9 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 10 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 11 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
-| 12 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 13 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
-| 14 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 15 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 16 | [Jimmy Krankie](http://twitter.com/search?q=Jimmy+Krankie) | N/A |
-| 17 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 18 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 19 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 20 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 21 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 22 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 7 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 8 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 9 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 10 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 11 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 12 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 13 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 14 | [Jimmy Krankie](http://twitter.com/search?q=Jimmy+Krankie) | N/A |
+| 15 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 16 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
+| 17 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 18 | [#SaveVAULT](http://twitter.com/search?q=%23SaveVAULT) | N/A |
+| 19 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
+| 20 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 21 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
+| 22 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
 | 23 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 24 | [#IndyRef2](http://twitter.com/search?q=%23IndyRef2) | N/A |
-| 25 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 26 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
-| 27 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 28 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 29 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 30 | [Margaret Hodge](http://twitter.com/search?q=Margaret+Hodge) | N/A |
-| 31 | [Nippy](http://twitter.com/search?q=Nippy) | N/A |
-| 32 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
-| 33 | [George Square](http://twitter.com/search?q=George+Square) | N/A |
-| 34 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
-| 35 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 24 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 25 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 26 | [Nippy](http://twitter.com/search?q=Nippy) | N/A |
+| 27 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 28 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 29 | [Ian Blackford](http://twitter.com/search?q=Ian+Blackford) | N/A |
+| 30 | [#mercedesf1](http://twitter.com/search?q=%23mercedesf1) | N/A |
+| 31 | [Good Riddance](http://twitter.com/search?q=Good+Riddance) | N/A |
+| 32 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 33 | [Drakeford](http://twitter.com/search?q=Drakeford) | N/A |
+| 34 | [Jahm Najafi](http://twitter.com/search?q=Jahm+Najafi) | N/A |
+| 35 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
 | 36 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 37 | [Debbie](http://twitter.com/search?q=Debbie) | N/A |
-| 38 | [Drakeford](http://twitter.com/search?q=Drakeford) | N/A |
-| 39 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
-| 40 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 41 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 42 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 43 | [Angel of the North](http://twitter.com/search?q=Angel+of+the+North) | N/A |
-| 44 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 45 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 46 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
-| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 48 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 49 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 50 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
+| 37 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
+| 38 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 39 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 40 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 41 | [Debbie](http://twitter.com/search?q=Debbie) | N/A |
+| 42 | [George Square](http://twitter.com/search?q=George+Square) | N/A |
+| 43 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 44 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
+| 45 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
+| 46 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 47 | [angel of the north](http://twitter.com/search?q=angel+of+the+north) | N/A |
+| 48 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 49 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
+| 50 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
 
 
 

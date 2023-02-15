@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-15 11:17:25 UTC`
+📆 Last Updated: `2023-02-15 12:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Peru](</Peru>)
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 3 | [Sport Huancayo](http://twitter.com/search?q=Sport+Huancayo) | N/A |
-| 4 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 5 | [Apruebo](http://twitter.com/search?q=Apruebo) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 8 | [#122AñosDeGloria](http://twitter.com/search?q=%23122A%c3%b1osDeGloria) | N/A |
-| 9 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 10 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
-| 11 | [Ezequías](http://twitter.com/search?q=Ezequ%c3%adas) | N/A |
-| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 13 | [Felices 122](http://twitter.com/search?q=Felices+122) | N/A |
-| 14 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 15 | [Nacional de Paraguay](http://twitter.com/search?q=Nacional+de+Paraguay) | N/A |
-| 16 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 17 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
-| 18 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 19 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 21 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 22 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
-| 23 | [VRAEM](http://twitter.com/search?q=VRAEM) | N/A |
-| 24 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 25 | [Millán](http://twitter.com/search?q=Mill%c3%a1n) | N/A |
-| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 27 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 28 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 30 | [Yaneth Navarro](http://twitter.com/search?q=Yaneth+Navarro) | N/A |
-| 31 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 32 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 33 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 34 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 35 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 37 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
-| 38 | [Aprobado](http://twitter.com/search?q=Aprobado) | N/A |
-| 39 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 40 | [techito](http://twitter.com/search?q=techito) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 43 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 44 | [Barbaran](http://twitter.com/search?q=Barbaran) | N/A |
-| 45 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 46 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 47 | [Cacas](http://twitter.com/search?q=Cacas) | N/A |
-| 48 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 49 | [Príncipes](http://twitter.com/search?q=Pr%c3%adncipes) | N/A |
-| 50 | [salado](http://twitter.com/search?q=salado) | N/A |
+| 3 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 4 | [Sport Huancayo](http://twitter.com/search?q=Sport+Huancayo) | N/A |
+| 5 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 6 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
+| 7 | [Feliz 122](http://twitter.com/search?q=Feliz+122) | N/A |
+| 8 | [Judá](http://twitter.com/search?q=Jud%c3%a1) | N/A |
+| 9 | [Apruebo](http://twitter.com/search?q=Apruebo) | N/A |
+| 10 | [Ezequías](http://twitter.com/search?q=Ezequ%c3%adas) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [#122AñosDeGloria](http://twitter.com/search?q=%23122A%c3%b1osDeGloria) | N/A |
+| 13 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
+| 14 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 15 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 16 | [Felices 122](http://twitter.com/search?q=Felices+122) | N/A |
+| 17 | [Feliz Aniversario](http://twitter.com/search?q=Feliz+Aniversario) | N/A |
+| 18 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 19 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 20 | [nacional de paraguay](http://twitter.com/search?q=nacional+de+paraguay) | N/A |
+| 21 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 23 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 24 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 25 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 26 | [Millán](http://twitter.com/search?q=Mill%c3%a1n) | N/A |
+| 27 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
+| 28 | [VRAEM](http://twitter.com/search?q=VRAEM) | N/A |
+| 29 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 32 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 33 | [Jehová](http://twitter.com/search?q=Jehov%c3%a1) | N/A |
+| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 35 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
+| 36 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 37 | [Yaneth Navarro](http://twitter.com/search?q=Yaneth+Navarro) | N/A |
+| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 39 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 40 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 41 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 42 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 43 | [Aprobado](http://twitter.com/search?q=Aprobado) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 46 | [CACAS](http://twitter.com/search?q=CACAS) | N/A |
+| 47 | [Techito](http://twitter.com/search?q=Techito) | N/A |
+| 48 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 49 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 50 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
 
 
 

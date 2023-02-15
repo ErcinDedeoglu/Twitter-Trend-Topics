@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-15 11:17:20 UTC`
+📆 Last Updated: `2023-02-15 12:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 4 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 4 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
 | 5 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
 | 6 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 7 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 10 | [Alfredo Olivas](http://twitter.com/search?q=Alfredo+Olivas) | N/A |
-| 11 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 7 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 8 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 11 | [Alfredo Olivas](http://twitter.com/search?q=Alfredo+Olivas) | N/A |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 13 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
 | 14 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
 | 15 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 16 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 17 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
-| 18 | [reimers](http://twitter.com/search?q=reimers) | N/A |
+| 17 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 18 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
 | 19 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
 | 20 | [Layun](http://twitter.com/search?q=Layun) | N/A |
 | 21 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 22 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 23 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
-| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 25 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
-| 26 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 27 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 28 | [Martha Bárcena](http://twitter.com/search?q=Martha+B%c3%a1rcena) | N/A |
-| 29 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 30 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 22 | [hoy 14](http://twitter.com/search?q=hoy+14) | N/A |
+| 23 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
+| 24 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
+| 25 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
+| 26 | [DIEGO VALDÉS](http://twitter.com/search?q=DIEGO+VALD%c3%89S) | N/A |
+| 27 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 29 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 30 | [Martha Bárcena](http://twitter.com/search?q=Martha+B%c3%a1rcena) | N/A |
 | 31 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
 | 32 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
-| 33 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 34 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 33 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 34 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 35 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
 | 36 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 37 | [Vicente Guerrero](http://twitter.com/search?q=Vicente+Guerrero) | N/A |
+| 37 | [vicente guerrero](http://twitter.com/search?q=vicente+guerrero) | N/A |
 | 38 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
 | 39 | [Primer 14](http://twitter.com/search?q=Primer+14) | N/A |
 | 40 | [Es 14](http://twitter.com/search?q=Es+14) | N/A |
 | 41 | [WE LOVE YOU MAVELYN](http://twitter.com/search?q=WE+LOVE+YOU+MAVELYN) | N/A |
 | 42 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 44 | [Feliz Cumple Gloria Trevi](http://twitter.com/search?q=Feliz+Cumple+Gloria+Trevi) | N/A |
-| 45 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 46 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 47 | [Que 14](http://twitter.com/search?q=Que+14) | N/A |
-| 48 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 49 | [CHASPM](http://twitter.com/search?q=CHASPM) | N/A |
+| 43 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 45 | [feliz cumple gloria trevi](http://twitter.com/search?q=feliz+cumple+gloria+trevi) | N/A |
+| 46 | [Yahvéh](http://twitter.com/search?q=Yahv%c3%a9h) | N/A |
+| 47 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 48 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 49 | [LIBRO SEGUNDO DE SAMUEL](http://twitter.com/search?q=LIBRO+SEGUNDO+DE+SAMUEL) | N/A |
 
 
 

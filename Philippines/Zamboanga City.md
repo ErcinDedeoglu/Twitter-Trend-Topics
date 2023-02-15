@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-15 11:17:49 UTC`
+📆 Last Updated: `2023-02-15 12:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 2 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 3 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 4 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
-| 5 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 6 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
-| 7 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
-| 8 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
-| 9 | [MODESS PAREVEAL NANANA](http://twitter.com/search?q=MODESS+PAREVEAL+NANANA) | N/A |
-| 10 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 11 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
-| 12 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
-| 13 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
-| 14 | [CONGRATS BOOSEOKSOON](http://twitter.com/search?q=CONGRATS+BOOSEOKSOON) | N/A |
-| 15 | [CONGRATS BSS](http://twitter.com/search?q=CONGRATS+BSS) | N/A |
-| 16 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 17 | [BSS FIRST WIN](http://twitter.com/search?q=BSS+FIRST+WIN) | N/A |
-| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 19 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 20 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 21 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
-| 22 | [cmft](http://twitter.com/search?q=cmft) | N/A |
-| 23 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
-| 24 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 25 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
-| 26 | [Happy Carat](http://twitter.com/search?q=Happy+Carat) | N/A |
-| 27 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
-| 28 | [franseth pumafebibig](http://twitter.com/search?q=franseth+pumafebibig) | N/A |
-| 29 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
-| 30 | [Jaehyun](http://twitter.com/search?q=Jaehyun) | N/A |
-| 31 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 32 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 33 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
-| 34 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 35 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 36 | [WHO WANT SOME SWEET JUICE](http://twitter.com/search?q=WHO+WANT+SOME+SWEET+JUICE) | N/A |
-| 37 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 38 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 39 | [PHP BALARAW](http://twitter.com/search?q=PHP+BALARAW) | N/A |
-| 40 | [MANILA](http://twitter.com/search?q=MANILA) | N/A |
-| 41 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 42 | [TNX FIRST COMEBACK](http://twitter.com/search?q=TNX+FIRST+COMEBACK) | N/A |
-| 43 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 44 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
-| 45 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 46 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 47 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 48 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 49 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 1 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
+| 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 3 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 4 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 5 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
+| 6 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 7 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 8 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
+| 9 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
+| 10 | [MODESS PAREVEAL NANANA](http://twitter.com/search?q=MODESS+PAREVEAL+NANANA) | N/A |
+| 11 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
+| 12 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 13 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
+| 14 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 15 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 16 | [Conquest](http://twitter.com/search?q=Conquest) | N/A |
+| 17 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 18 | [CONGRATULATIONS BOOSEOKSOON](http://twitter.com/search?q=CONGRATULATIONS+BOOSEOKSOON) | N/A |
+| 19 | [CONGRATS BOOSEOKSOON](http://twitter.com/search?q=CONGRATS+BOOSEOKSOON) | N/A |
+| 20 | [BSS FIRST WIN](http://twitter.com/search?q=BSS+FIRST+WIN) | N/A |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 22 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 23 | [PIE DATE WITH VINCI](http://twitter.com/search?q=PIE+DATE+WITH+VINCI) | N/A |
+| 24 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 25 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
+| 26 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
+| 27 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 28 | [CONGRATS BSS](http://twitter.com/search?q=CONGRATS+BSS) | N/A |
+| 29 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
+| 30 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
+| 31 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 32 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
+| 33 | [ANTONY CHEN](http://twitter.com/search?q=ANTONY+CHEN) | N/A |
+| 34 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
+| 35 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
+| 36 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 37 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 38 | [Show Champion](http://twitter.com/search?q=Show+Champion) | N/A |
+| 39 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 40 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
+| 41 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
+| 42 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 43 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 44 | [franseth pumafebibig](http://twitter.com/search?q=franseth+pumafebibig) | N/A |
+| 45 | [UPCAT](http://twitter.com/search?q=UPCAT) | N/A |
+| 46 | [NorthPort](http://twitter.com/search?q=NorthPort) | N/A |
+| 47 | [WHO WANT SOME SWEET JUICE](http://twitter.com/search?q=WHO+WANT+SOME+SWEET+JUICE) | N/A |
+| 48 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 49 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
 
 
 

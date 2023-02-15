@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-15 11:17:29 UTC`
+📆 Last Updated: `2023-02-15 12:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [#Kocher](http://twitter.com/search?q=%23Kocher) | N/A |
 | 3 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
 | 4 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 5 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
 | 6 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 7 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
+| 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
 | 8 | [Kipferl](http://twitter.com/search?q=Kipferl) | N/A |
-| 9 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 10 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 11 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 12 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 13 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 9 | [#opernball](http://twitter.com/search?q=%23opernball) | N/A |
+| 10 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 11 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 12 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 13 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 15 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 15 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
 | 16 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
-| 17 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 17 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
 | 18 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
 | 19 | [hans krankl](http://twitter.com/search?q=hans+krankl) | N/A |
-| 20 | [Branchen](http://twitter.com/search?q=Branchen) | N/A |
-| 21 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
-| 22 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 23 | [Familienbeihilfe](http://twitter.com/search?q=Familienbeihilfe) | N/A |
-| 24 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 25 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 26 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
-| 27 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 29 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
-| 30 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 31 | [Freiwilligkeit](http://twitter.com/search?q=Freiwilligkeit) | N/A |
-| 32 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 33 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 34 | [Quatsch](http://twitter.com/search?q=Quatsch) | N/A |
-| 35 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 36 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 39 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 40 | [Engagement](http://twitter.com/search?q=Engagement) | N/A |
-| 41 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 42 | [Staatssekretärin](http://twitter.com/search?q=Staatssekret%c3%a4rin) | N/A |
-| 43 | [Neuseeland](http://twitter.com/search?q=Neuseeland) | N/A |
-| 44 | [Ausbau](http://twitter.com/search?q=Ausbau) | N/A |
-| 45 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
-| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 47 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 48 | [Altersarmut](http://twitter.com/search?q=Altersarmut) | N/A |
-| 49 | [öffis](http://twitter.com/search?q=%c3%b6ffis) | N/A |
-| 50 | [Schokolade](http://twitter.com/search?q=Schokolade) | N/A |
+| 20 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
+| 21 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 22 | [Familienbeihilfe](http://twitter.com/search?q=Familienbeihilfe) | N/A |
+| 23 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 24 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 25 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 26 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
+| 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 28 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
+| 29 | [Freiwilligkeit](http://twitter.com/search?q=Freiwilligkeit) | N/A |
+| 30 | [Engagement](http://twitter.com/search?q=Engagement) | N/A |
+| 31 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 32 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 33 | [Angehörige](http://twitter.com/search?q=Angeh%c3%b6rige) | N/A |
+| 34 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 35 | [quatsch](http://twitter.com/search?q=quatsch) | N/A |
+| 36 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
+| 37 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 38 | [Handel](http://twitter.com/search?q=Handel) | N/A |
+| 39 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 40 | [Anreiz](http://twitter.com/search?q=Anreiz) | N/A |
+| 41 | [Branchen](http://twitter.com/search?q=Branchen) | N/A |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 44 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 45 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 46 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
+| 47 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 48 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 49 | [Hören Sie](http://twitter.com/search?q=H%c3%b6ren+Sie) | N/A |
+| 50 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
 
 
 
