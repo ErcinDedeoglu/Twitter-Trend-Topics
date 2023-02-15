@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-15 20:17:23 UTC`
+📆 Last Updated: `2023-02-15 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Giro555](http://twitter.com/search?q=%23Giro555) | N/A |
-| 2 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 3 | [#DORCHE](http://twitter.com/search?q=%23DORCHE) | N/A |
-| 4 | [Evert](http://twitter.com/search?q=Evert) | N/A |
+| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 2 | [#Giro555](http://twitter.com/search?q=%23Giro555) | N/A |
+| 3 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 4 | [#DORCHE](http://twitter.com/search?q=%23DORCHE) | N/A |
 | 5 | [Napel](http://twitter.com/search?q=Napel) | N/A |
-| 6 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 7 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 8 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
-| 9 | [Tonnie](http://twitter.com/search?q=Tonnie) | N/A |
-| 10 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Bertus](http://twitter.com/search?q=Bertus) | N/A |
+| 6 | [Evert](http://twitter.com/search?q=Evert) | N/A |
+| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 10 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
+| 11 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 12 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
 | 13 | [Marnix](http://twitter.com/search?q=Marnix) | N/A |
-| 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 16 | [Elzelien](http://twitter.com/search?q=Elzelien) | N/A |
-| 17 | [Maxim Februari](http://twitter.com/search?q=Maxim+Februari) | N/A |
-| 18 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 19 | [Budel](http://twitter.com/search?q=Budel) | N/A |
-| 20 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 21 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
-| 22 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 24 | [Van Lienden](http://twitter.com/search?q=Van+Lienden) | N/A |
-| 25 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 26 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 27 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
-| 28 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 29 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
-| 30 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 31 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 32 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 33 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
-| 34 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 35 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 37 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 38 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 39 | [Dave Vos](http://twitter.com/search?q=Dave+Vos) | N/A |
-| 40 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 41 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 42 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 43 | [Martijn](http://twitter.com/search?q=Martijn) | N/A |
-| 44 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
-| 45 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 46 | [Dag 15](http://twitter.com/search?q=Dag+15) | N/A |
-| 47 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 48 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 15 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 17 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 19 | [Tonnie](http://twitter.com/search?q=Tonnie) | N/A |
+| 20 | [Elzelien](http://twitter.com/search?q=Elzelien) | N/A |
+| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 22 | [Maxim Februari](http://twitter.com/search?q=Maxim+Februari) | N/A |
+| 23 | [Budel](http://twitter.com/search?q=Budel) | N/A |
+| 24 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 25 | [Van Lienden](http://twitter.com/search?q=Van+Lienden) | N/A |
+| 26 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 27 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
+| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 29 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 30 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 31 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 32 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 33 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
+| 34 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 35 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 36 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
+| 37 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 38 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 39 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 40 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 41 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 42 | [Bertus](http://twitter.com/search?q=Bertus) | N/A |
+| 43 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
+| 44 | [Dave Vos](http://twitter.com/search?q=Dave+Vos) | N/A |
+| 45 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
+| 46 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 47 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 48 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 49 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
 
 
 

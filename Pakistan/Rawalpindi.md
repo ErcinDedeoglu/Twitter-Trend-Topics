@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-15 20:17:45 UTC`
+📆 Last Updated: `2023-02-15 21:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#IshaqDar](http://twitter.com/search?q=%23IshaqDar) | N/A |
 | 4 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
 | 5 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
-| 6 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
-| 7 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 8 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 10 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [muhammad aurangzeb](http://twitter.com/search?q=muhammad+aurangzeb) | N/A |
-| 13 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
+| 8 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 9 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 10 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 11 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 13 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
 | 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 15 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 16 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 17 | [neesham](http://twitter.com/search?q=neesham) | N/A |
-| 18 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 19 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 20 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
-| 21 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 22 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
-| 23 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 24 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
-| 25 | [pakistan stock exchange](http://twitter.com/search?q=pakistan+stock+exchange) | N/A |
-| 26 | [Pakistan Markazi Muslim League](http://twitter.com/search?q=Pakistan+Markazi+Muslim+League) | N/A |
-| 27 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
-| 28 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 29 | [THE MEERASIM ERA](http://twitter.com/search?q=THE+MEERASIM+ERA) | N/A |
-| 30 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 31 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 32 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 33 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 34 | [Apki](http://twitter.com/search?q=Apki) | N/A |
-| 35 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 36 | [Pashto](http://twitter.com/search?q=Pashto) | N/A |
-| 37 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 38 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 39 | [Rehman](http://twitter.com/search?q=Rehman) | N/A |
-| 40 | [Impressive](http://twitter.com/search?q=Impressive) | N/A |
-| 41 | [Just HMU](http://twitter.com/search?q=Just+HMU) | N/A |
+| 15 | [muhammad aurangzeb](http://twitter.com/search?q=muhammad+aurangzeb) | N/A |
+| 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 17 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 18 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 19 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 20 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 21 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
+| 22 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
+| 23 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
+| 26 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 27 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 28 | [THE MEERASIM ERA](http://twitter.com/search?q=THE+MEERASIM+ERA) | N/A |
+| 29 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 31 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 32 | [wahab](http://twitter.com/search?q=wahab) | N/A |
+| 33 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 37 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 38 | [Pashto](http://twitter.com/search?q=Pashto) | N/A |
+| 39 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 40 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 41 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 42 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
 | 44 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 45 | [Yahan](http://twitter.com/search?q=Yahan) | N/A |
-| 46 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 47 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 48 | [Thnx](http://twitter.com/search?q=Thnx) | N/A |
-| 49 | [#MSvQG](http://twitter.com/search?q=%23MSvQG) | N/A |
-| 50 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 45 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 46 | [Impressive](http://twitter.com/search?q=Impressive) | N/A |
+| 47 | [Rehman](http://twitter.com/search?q=Rehman) | N/A |
+| 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 49 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 50 | [Kahan](http://twitter.com/search?q=Kahan) | N/A |
 
 
 

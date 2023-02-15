@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-02-15 20:17:56 UTC`
+📆 Last Updated: `2023-02-15 21:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 2 | [I-10](http://twitter.com/search?q=I-10) | N/A |
+| 1 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 3 | [#hamstercoin](http://twitter.com/search?q=%23hamstercoin) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 4 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 5 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 6 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 7 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 8 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 9 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 10 | [Montas](http://twitter.com/search?q=Montas) | N/A |
-| 11 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 12 | [#chiefsparade](http://twitter.com/search?q=%23chiefsparade) | N/A |
-| 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 14 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 15 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 16 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 18 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 19 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 20 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 21 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 22 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 23 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 24 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 26 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
-| 27 | [Greenberg](http://twitter.com/search?q=Greenberg) | N/A |
-| 28 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 29 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 30 | [I Am Legend](http://twitter.com/search?q=I+Am+Legend) | N/A |
-| 31 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 32 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 33 | [Rick Hahn](http://twitter.com/search?q=Rick+Hahn) | N/A |
-| 34 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 35 | [British Vogue](http://twitter.com/search?q=British+Vogue) | N/A |
-| 36 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 37 | [VILLA Y CORTE](http://twitter.com/search?q=VILLA+Y+CORTE) | N/A |
-| 38 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 39 | [Larry Kramer](http://twitter.com/search?q=Larry+Kramer) | N/A |
-| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 41 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
-| 42 | [LaSalle](http://twitter.com/search?q=LaSalle) | N/A |
-| 43 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 44 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 45 | [Hagee](http://twitter.com/search?q=Hagee) | N/A |
-| 46 | [Fantastic Voyage](http://twitter.com/search?q=Fantastic+Voyage) | N/A |
-| 47 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 48 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 10 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 11 | [#chiefsparade](http://twitter.com/search?q=%23chiefsparade) | N/A |
+| 12 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 14 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 15 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 16 | [Fantastic Voyage](http://twitter.com/search?q=Fantastic+Voyage) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 20 | [Montas](http://twitter.com/search?q=Montas) | N/A |
+| 21 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [One Million Years B.C.](http://twitter.com/search?q=One+Million+Years+B.C.) | N/A |
+| 24 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 25 | [LaSalle](http://twitter.com/search?q=LaSalle) | N/A |
+| 26 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 27 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 28 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 29 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 31 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 32 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 33 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 34 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 35 | [Hochul](http://twitter.com/search?q=Hochul) | N/A |
+| 36 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
+| 37 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 38 | [Greenberg](http://twitter.com/search?q=Greenberg) | N/A |
+| 39 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 40 | [The DOJ](http://twitter.com/search?q=The+DOJ) | N/A |
+| 41 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 42 | [I Am Legend](http://twitter.com/search?q=I+Am+Legend) | N/A |
+| 43 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 44 | [Andy Dufresne](http://twitter.com/search?q=Andy+Dufresne) | N/A |
+| 45 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
+| 46 | [Myra Breckinridge](http://twitter.com/search?q=Myra+Breckinridge) | N/A |
+| 47 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 48 | [Kansas City Bomber](http://twitter.com/search?q=Kansas+City+Bomber) | N/A |
+| 49 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-15 20:17:36 UTC`
+📆 Last Updated: `2023-02-15 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
 | 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 3 | [#JonaxxACTYAKab48](http://twitter.com/search?q=%23JonaxxACTYAKab48) | N/A |
-| 4 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
-| 5 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 6 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 3 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
+| 4 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 5 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 6 | [#MCIAmaNamin](http://twitter.com/search?q=%23MCIAmaNamin) | N/A |
 | 7 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
 | 8 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
 | 9 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
-| 10 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
+| 10 | [park jeongwoo](http://twitter.com/search?q=park+jeongwoo) | N/A |
 | 11 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 12 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 12 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
 | 13 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
-| 14 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
-| 15 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
-| 16 | [jongup](http://twitter.com/search?q=jongup) | N/A |
-| 17 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
+| 14 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
+| 15 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
+| 16 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 17 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
 | 18 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 19 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
-| 20 | [best time 1m views](http://twitter.com/search?q=best+time+1m+views) | N/A |
-| 21 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 22 | [Hearts Day](http://twitter.com/search?q=Hearts+Day) | N/A |
-| 23 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 24 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 25 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
-| 26 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
-| 27 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 28 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 29 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
-| 30 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 31 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
-| 32 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 33 | [withoutyou now showing](http://twitter.com/search?q=withoutyou+now+showing) | N/A |
-| 34 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 35 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 36 | [franseth pumafebibig](http://twitter.com/search?q=franseth+pumafebibig) | N/A |
-| 37 | [Tiya Isabel](http://twitter.com/search?q=Tiya+Isabel) | N/A |
-| 38 | [upcat](http://twitter.com/search?q=upcat) | N/A |
-| 39 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 19 | [best time 1m views](http://twitter.com/search?q=best+time+1m+views) | N/A |
+| 20 | [Hearts Day](http://twitter.com/search?q=Hearts+Day) | N/A |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 22 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 23 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 24 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 25 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
+| 26 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
+| 27 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 28 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
+| 29 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 30 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 31 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 32 | [withoutyou now showing](http://twitter.com/search?q=withoutyou+now+showing) | N/A |
+| 33 | [g22 anniversary comeback](http://twitter.com/search?q=g22+anniversary+comeback) | N/A |
+| 34 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 35 | [Tiya Isabel](http://twitter.com/search?q=Tiya+Isabel) | N/A |
+| 36 | [upcat](http://twitter.com/search?q=upcat) | N/A |
+| 37 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 38 | [Lizzie](http://twitter.com/search?q=Lizzie) | N/A |
+| 39 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
 | 40 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 41 | [pienalo ka marcus](http://twitter.com/search?q=pienalo+ka+marcus) | N/A |
-| 42 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 43 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 44 | [franseth ourchiaraandnico](http://twitter.com/search?q=franseth+ourchiaraandnico) | N/A |
-| 45 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 48 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 49 | [momoland](http://twitter.com/search?q=momoland) | N/A |
-| 50 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
+| 41 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 42 | [franseth ourchiaraandnico](http://twitter.com/search?q=franseth+ourchiaraandnico) | N/A |
+| 43 | [pienalo ka marcus](http://twitter.com/search?q=pienalo+ka+marcus) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 46 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 47 | [jongup](http://twitter.com/search?q=jongup) | N/A |
+| 48 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
+| 49 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 50 | [day6](http://twitter.com/search?q=day6) | N/A |
 
 
 

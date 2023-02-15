@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-02-15 20:17:34 UTC`
+📆 Last Updated: `2023-02-15 21:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 2 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 3 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 4 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 7 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 8 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 9 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 10 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 11 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 12 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 13 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 14 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 15 | [jongup](http://twitter.com/search?q=jongup) | N/A |
-| 16 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 17 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
-| 18 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
-| 19 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 20 | [TNX FIRST COMEBACK](http://twitter.com/search?q=TNX+FIRST+COMEBACK) | N/A |
-| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 22 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 23 | [Petronas](http://twitter.com/search?q=Petronas) | N/A |
-| 24 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 25 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 26 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 27 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 28 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 29 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 30 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
-| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 32 | [Shindong](http://twitter.com/search?q=Shindong) | N/A |
-| 33 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 34 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
-| 35 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 37 | [rafizi](http://twitter.com/search?q=rafizi) | N/A |
-| 38 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 39 | [suho](http://twitter.com/search?q=suho) | Suho is a Korean name, derived from the Chinese characters meaning "guardian" or "protector". It is a unisex name, commonly used for both boys and girls. |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 42 | [HCWs](http://twitter.com/search?q=HCWs) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 45 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 46 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 47 | [Maxis](http://twitter.com/search?q=Maxis) | N/A |
-| 48 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
-| 49 | [Dolla](http://twitter.com/search?q=Dolla) | N/A |
+| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 2 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 5 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 6 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 7 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 8 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 10 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 11 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 12 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 13 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
+| 14 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 15 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 18 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 19 | [jongup](http://twitter.com/search?q=jongup) | N/A |
+| 20 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 25 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
+| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 27 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
+| 28 | [TNX FIRST COMEBACK](http://twitter.com/search?q=TNX+FIRST+COMEBACK) | N/A |
+| 29 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Petronas](http://twitter.com/search?q=Petronas) | N/A |
+| 33 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 34 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 35 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 36 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 39 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 40 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
+| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 42 | [Shindong](http://twitter.com/search?q=Shindong) | N/A |
+| 43 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 44 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 45 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 46 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
+| 47 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 48 | [Rafizi](http://twitter.com/search?q=Rafizi) | N/A |
+| 49 | [suho](http://twitter.com/search?q=suho) | Suho is a Korean name, derived from the Chinese characters meaning "guardian" or "protector". It is a unisex name, commonly used for both boys and girls. |
 
 
 
