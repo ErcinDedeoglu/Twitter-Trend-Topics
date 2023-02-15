@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-15 06:17:48 UTC`
+📆 Last Updated: `2023-02-15 07:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,11 +44,11 @@ This is top 50 for Dominican Republic
 | 27 | [circunvalación de azua](http://twitter.com/search?q=circunvalaci%c3%b3n+de+azua) | N/A |
 | 28 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 29 | [#tamoenamorreal](http://twitter.com/search?q=%23tamoenamorreal) | N/A |
-| 30 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
-| 31 | [Jairo González](http://twitter.com/search?q=Jairo+Gonz%c3%a1lez) | N/A |
-| 32 | [Ricardo Aponte](http://twitter.com/search?q=Ricardo+Aponte) | N/A |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
+| 30 | [jairo gonzález](http://twitter.com/search?q=jairo+gonz%c3%a1lez) | N/A |
+| 31 | [Ricardo Aponte](http://twitter.com/search?q=Ricardo+Aponte) | N/A |
+| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 33 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
+| 34 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
 | 35 | [Torni](http://twitter.com/search?q=Torni) | N/A |
 | 36 | [Consuelo](http://twitter.com/search?q=Consuelo) | N/A |
 | 37 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
@@ -60,10 +60,10 @@ This is top 50 for Dominican Republic
 | 43 | [elías piña](http://twitter.com/search?q=el%c3%adas+pi%c3%b1a) | N/A |
 | 44 | [las carreras](http://twitter.com/search?q=las+carreras) | N/A |
 | 45 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 46 | [Rochy RD](http://twitter.com/search?q=Rochy+RD) | N/A |
+| 46 | [rochy rd](http://twitter.com/search?q=rochy+rd) | N/A |
 | 47 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
 | 48 | [Pedro Martínez](http://twitter.com/search?q=Pedro+Mart%c3%adnez) | N/A |
-| 49 | [miao](http://twitter.com/search?q=miao) | N/A |
+| 49 | [Miao](http://twitter.com/search?q=Miao) | N/A |
 | 50 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 
 

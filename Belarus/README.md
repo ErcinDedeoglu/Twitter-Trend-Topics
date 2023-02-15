@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-15 06:17:47 UTC`
+📆 Last Updated: `2023-02-15 07:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,23 +15,23 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 2 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 3 | [#Dota2](http://twitter.com/search?q=%23Dota2) | N/A |
-| 4 | [республики беларусь](http://twitter.com/search?q=%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 5 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 6 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
-| 7 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
-| 8 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 4 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 5 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 6 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
+| 7 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 8 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 9 | [Рианны](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b0%d0%bd%d0%bd%d1%8b) | N/A |
 | 10 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
-| 11 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 11 | [#TSLA](http://twitter.com/search?q=%23TSLA) | N/A |
 | 12 | [калі](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d1%96) | N/A |
-| 13 | [#TSLA](http://twitter.com/search?q=%23TSLA) | N/A |
-| 14 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 15 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 16 | [вось](http://twitter.com/search?q=%d0%b2%d0%be%d1%81%d1%8c) | N/A |
-| 17 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 13 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
+| 14 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 15 | [вось](http://twitter.com/search?q=%d0%b2%d0%be%d1%81%d1%8c) | N/A |
+| 16 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 17 | [Республики Беларусь](http://twitter.com/search?q=%d0%a0%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 18 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 19 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
 | 20 | [красивое](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for Belarus
 | 24 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 25 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 26 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
-| 27 | [#supportarmiehammer](http://twitter.com/search?q=%23supportarmiehammer) | N/A |
+| 27 | [#supportArmieHammer](http://twitter.com/search?q=%23supportArmieHammer) | N/A |
 | 28 | [#Футбол](http://twitter.com/search?q=%23%d0%a4%d1%83%d1%82%d0%b1%d0%be%d0%bb) | N/A |
 | 29 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
 

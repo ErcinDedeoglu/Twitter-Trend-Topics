@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-15 06:17:20 UTC`
+📆 Last Updated: `2023-02-15 07:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 2 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
-| 3 | [#TheOnlyOneHPS](http://twitter.com/search?q=%23TheOnlyOneHPS) | N/A |
-| 4 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 5 | [#GerakBarengGanjar](http://twitter.com/search?q=%23GerakBarengGanjar) | N/A |
-| 6 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 7 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 8 | [#tebakskorbarcastuff](http://twitter.com/search?q=%23tebakskorbarcastuff) | N/A |
-| 9 | [Kejujuran](http://twitter.com/search?q=Kejujuran) | N/A |
-| 10 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 11 | [#AntManAndTheWaspID](http://twitter.com/search?q=%23AntManAndTheWaspID) | N/A |
-| 12 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 13 | [Icad](http://twitter.com/search?q=Icad) | N/A |
-| 14 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
-| 15 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 16 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 17 | [Debut](http://twitter.com/search?q=Debut) | N/A |
-| 18 | [Albedo](http://twitter.com/search?q=Albedo) | N/A |
-| 19 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
-| 20 | [Freeport](http://twitter.com/search?q=Freeport) | N/A |
-| 21 | [Banjar](http://twitter.com/search?q=Banjar) | N/A |
-| 22 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
-| 23 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
-| 24 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
-| 25 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 26 | [Merinding](http://twitter.com/search?q=Merinding) | N/A |
-| 27 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 28 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 29 | [DUIT MANA DUIT](http://twitter.com/search?q=DUIT+MANA+DUIT) | N/A |
-| 30 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 31 | [Partai](http://twitter.com/search?q=Partai) | N/A |
-| 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 33 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 34 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 35 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 36 | [#SS9inMexico](http://twitter.com/search?q=%23SS9inMexico) | N/A |
-| 37 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 38 | [#JOHNNYforTHOMBROWNE](http://twitter.com/search?q=%23JOHNNYforTHOMBROWNE) | N/A |
-| 39 | [#NYFW](http://twitter.com/search?q=%23NYFW) | N/A |
-| 40 | [#KuisIndiHomeCare](http://twitter.com/search?q=%23KuisIndiHomeCare) | N/A |
-| 41 | [#thombrownefw23](http://twitter.com/search?q=%23thombrownefw23) | N/A |
-| 42 | [#수호_데뷔11주년_축하해](http://twitter.com/search?q=%23%ec%88%98%ed%98%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 43 | [#11yearsWithSUHO](http://twitter.com/search?q=%2311yearsWithSUHO) | N/A |
-| 44 | [#Percakapan14Februari](http://twitter.com/search?q=%23Percakapan14Februari) | N/A |
+| 1 | [Mending Prabowo Aja](http://twitter.com/search?q=Mending+Prabowo+Aja) | N/A |
+| 2 | [Indonesia Maju Sejahtera](http://twitter.com/search?q=Indonesia+Maju+Sejahtera) | N/A |
+| 3 | [Dekade 08](http://twitter.com/search?q=Dekade+08) | N/A |
+| 4 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
+| 5 | [#CiamisUntukGanjar](http://twitter.com/search?q=%23CiamisUntukGanjar) | N/A |
+| 6 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 7 | [#TheOnlyOneHPS](http://twitter.com/search?q=%23TheOnlyOneHPS) | N/A |
+| 8 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
+| 9 | [1 Tahun 6 Bulan](http://twitter.com/search?q=1+Tahun+6+Bulan) | N/A |
+| 10 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
+| 11 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 12 | [#tebakskorbarcastuff](http://twitter.com/search?q=%23tebakskorbarcastuff) | N/A |
+| 13 | [#GerakBarengGanjar](http://twitter.com/search?q=%23GerakBarengGanjar) | N/A |
+| 14 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
+| 15 | [Kejujuran](http://twitter.com/search?q=Kejujuran) | N/A |
+| 16 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
+| 17 | [Icad](http://twitter.com/search?q=Icad) | N/A |
+| 18 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 19 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 20 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
+| 21 | [Brigadir J](http://twitter.com/search?q=Brigadir+J) | N/A |
+| 22 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
+| 23 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
+| 24 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 25 | [Albedo](http://twitter.com/search?q=Albedo) | N/A |
+| 26 | [DUIT MANA DUIT](http://twitter.com/search?q=DUIT+MANA+DUIT) | N/A |
+| 27 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 28 | [Debut](http://twitter.com/search?q=Debut) | N/A |
+| 29 | [Banjar](http://twitter.com/search?q=Banjar) | N/A |
+| 30 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 31 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 32 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 33 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 34 | [Ricky Rizal](http://twitter.com/search?q=Ricky+Rizal) | N/A |
+| 35 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 36 | [Vonis](http://twitter.com/search?q=Vonis) | N/A |
+| 37 | [Merinding](http://twitter.com/search?q=Merinding) | N/A |
+| 38 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 39 | [Partai](http://twitter.com/search?q=Partai) | N/A |
+| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 41 | [#AntManAndTheWaspID](http://twitter.com/search?q=%23AntManAndTheWaspID) | N/A |
+| 42 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 43 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 44 | [#หวานใจมิวกลัฟ](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b9%83%e0%b8%88%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | N/A |
+| 45 | [#SS9inMexico](http://twitter.com/search?q=%23SS9inMexico) | N/A |
+| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 47 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 48 | [#KuisIndiHomeCare](http://twitter.com/search?q=%23KuisIndiHomeCare) | N/A |
+| 49 | [#수호_데뷔11주년_축하해](http://twitter.com/search?q=%23%ec%88%98%ed%98%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 
 
 

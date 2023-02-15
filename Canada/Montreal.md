@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-15 06:17:00 UTC`
+📆 Last Updated: `2023-02-15 07:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
 | 4 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [Jakob Poeltl](http://twitter.com/search?q=Jakob+Poeltl) | N/A |
-| 7 | [Mandolese](http://twitter.com/search?q=Mandolese) | N/A |
-| 8 | [#itsbudtime](http://twitter.com/search?q=%23itsbudtime) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 11 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 12 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [#CFLFA](http://twitter.com/search?q=%23CFLFA) | N/A |
-| 16 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 17 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 18 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 19 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 20 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 21 | [Hazel McCallion](http://twitter.com/search?q=Hazel+McCallion) | Hazel McCallion is the former mayor of Mississauga, Ontario, Canada. She served as mayor from 1978 to 2014, making her the longest-serving mayor in Canadian history. Her name has become synonymous with strong leadership and a commitment to public service. |
-| 22 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 23 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 24 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 25 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 28 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 29 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 30 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 31 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 32 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 33 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
-| 34 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 35 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 36 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 37 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 38 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 39 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 40 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 41 | [Armia](http://twitter.com/search?q=Armia) | N/A |
-| 42 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 43 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 44 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 45 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 6 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 7 | [#itsbudtime](http://twitter.com/search?q=%23itsbudtime) | N/A |
+| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 9 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 10 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [#CFLFA](http://twitter.com/search?q=%23CFLFA) | N/A |
+| 13 | [Kevin Mandolese](http://twitter.com/search?q=Kevin+Mandolese) | N/A |
+| 14 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 15 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 16 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 17 | [Hazel McCallion](http://twitter.com/search?q=Hazel+McCallion) | Hazel McCallion is the former mayor of Mississauga, Ontario, Canada. She served as mayor from 1978 to 2014, making her the longest-serving mayor in Canadian history. Her name has become synonymous with strong leadership and a commitment to public service. |
+| 18 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 19 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 20 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 21 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 22 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 23 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 24 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 25 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 26 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 27 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 28 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 29 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 30 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 32 | [Armia](http://twitter.com/search?q=Armia) | N/A |
+| 33 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 34 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 35 | [Dean](http://twitter.com/search?q=Dean) | N/A |
+| 36 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 37 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 38 | [Stanley Park](http://twitter.com/search?q=Stanley+Park) | N/A |
+| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 40 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 41 | [David Savard](http://twitter.com/search?q=David+Savard) | N/A |
+| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 43 | [Justin Barron](http://twitter.com/search?q=Justin+Barron) | N/A |
+| 44 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 45 | [Alphonso Davies](http://twitter.com/search?q=Alphonso+Davies) | N/A |
 | 46 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 48 | [David Savard](http://twitter.com/search?q=David+Savard) | N/A |
-| 49 | [Stanley Park](http://twitter.com/search?q=Stanley+Park) | N/A |
-| 50 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 47 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 48 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 49 | [Bol Bol](http://twitter.com/search?q=Bol+Bol) | Bol Bol is an expression used in Urdu and Hindi to express surprise or excitement. It is similar to the English phrase "Wow!" or "Oh my!" |
+| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

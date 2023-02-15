@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-15 06:17:44 UTC`
+📆 Last Updated: `2023-02-15 07:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
 | 5 | [#LetsGoCanes](http://twitter.com/search?q=%23LetsGoCanes) | N/A |
 | 6 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 8 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 9 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 10 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 7 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 8 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 9 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 13 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
+| 12 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
+| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 14 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 15 | [SAM HAUSER](http://twitter.com/search?q=SAM+HAUSER) | N/A |
-| 16 | [#MHASpoilers](http://twitter.com/search?q=%23MHASpoilers) | N/A |
-| 17 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 18 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 19 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 20 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 15 | [#pursuit](http://twitter.com/search?q=%23pursuit) | N/A |
+| 16 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 17 | [HAUSER](http://twitter.com/search?q=HAUSER) | N/A |
+| 18 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 19 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 20 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
 | 21 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 22 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 22 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
 | 23 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 24 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 25 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 27 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 25 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 26 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
 | 28 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
 | 29 | [Floki](http://twitter.com/search?q=Floki) | N/A |
-| 30 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 31 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 32 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 33 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 34 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 35 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 30 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 31 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 32 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 33 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 34 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 35 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
 | 36 | [Hori](http://twitter.com/search?q=Hori) | N/A |
-| 37 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 38 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 39 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 41 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 37 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 38 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 39 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 40 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 41 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
 | 42 | [Vasy](http://twitter.com/search?q=Vasy) | N/A |
-| 43 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 43 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 44 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
 | 45 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 46 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 47 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
-| 48 | [Pastrnak](http://twitter.com/search?q=Pastrnak) | N/A |
-| 49 | [Camie](http://twitter.com/search?q=Camie) | N/A |
-| 50 | [Kyle Kuzma](http://twitter.com/search?q=Kyle+Kuzma) | N/A |
+| 46 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 47 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
+| 48 | [Kyle Kuzma](http://twitter.com/search?q=Kyle+Kuzma) | N/A |
+| 49 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 50 | [Camie](http://twitter.com/search?q=Camie) | N/A |
 
 
 
