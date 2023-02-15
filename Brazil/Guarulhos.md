@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-15 19:16:22 UTC`
+📆 Last Updated: `2023-02-15 20:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Governador](http://twitter.com/search?q=Governador) | N/A |
-| 2 | [Arnaldo](http://twitter.com/search?q=Arnaldo) | N/A |
-| 3 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 4 | [Carluxo](http://twitter.com/search?q=Carluxo) | N/A |
-| 5 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | Anhangabaú is a neighborhood in the city of São Paulo, Brazil. The name Anhangabaú comes from the Tupi language and means "place of the anhangá (a type of bird)". In English, it can be translated as "Anhangá Place". |
-| 6 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 7 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
-| 10 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 11 | [Baby Fenty](http://twitter.com/search?q=Baby+Fenty) | N/A |
-| 12 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
-| 13 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
-| 14 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 15 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 16 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 17 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 18 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
-| 19 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
-| 20 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 21 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
-| 22 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
-| 23 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 24 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
-| 25 | [Giromba](http://twitter.com/search?q=Giromba) | N/A |
-| 26 | [Maite](http://twitter.com/search?q=Maite) | Maite is a Spanish name derived from the Latin word "maitus" meaning beloved. It is often used as a term of endearment, similar to "sweetheart" or "darling". |
-| 27 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
-| 28 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
-| 29 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 30 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 31 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 32 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 33 | [Busca Implacável](http://twitter.com/search?q=Busca+Implac%c3%a1vel) | N/A |
-| 34 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 35 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 36 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 37 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
-| 38 | [Victoria Pedretti](http://twitter.com/search?q=Victoria+Pedretti) | N/A |
-| 39 | [TEAM LARI SANTOS](http://twitter.com/search?q=TEAM+LARI+SANTOS) | N/A |
-| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 41 | [GLITTER CAROL BIAZIN](http://twitter.com/search?q=GLITTER+CAROL+BIAZIN) | N/A |
-| 42 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
-| 43 | [Liam Neeson](http://twitter.com/search?q=Liam+Neeson) | N/A |
-| 44 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 45 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 46 | [Dona Florinda](http://twitter.com/search?q=Dona+Florinda) | N/A |
-| 47 | [Honeycomb](http://twitter.com/search?q=Honeycomb) | N/A |
-| 48 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 2 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 3 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 4 | [Arnaldo](http://twitter.com/search?q=Arnaldo) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 7 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [#hamstercoin](http://twitter.com/search?q=%23hamstercoin) | N/A |
+| 10 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 11 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 12 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 13 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 14 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 15 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 16 | [MIBR](http://twitter.com/search?q=MIBR) | N/A |
+| 17 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 18 | [#SAADDAY](http://twitter.com/search?q=%23SAADDAY) | N/A |
+| 19 | [Baby Fenty](http://twitter.com/search?q=Baby+Fenty) | N/A |
+| 20 | [#COTASPARATRANS](http://twitter.com/search?q=%23COTASPARATRANS) | N/A |
+| 21 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 22 | [Love Quinn](http://twitter.com/search?q=Love+Quinn) | N/A |
+| 23 | [UM MILHÃO DO SAPATO](http://twitter.com/search?q=UM+MILH%c3%83O+DO+SAPATO) | N/A |
+| 24 | [Giromba](http://twitter.com/search?q=Giromba) | N/A |
+| 25 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 26 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 27 | [borrusia](http://twitter.com/search?q=borrusia) | N/A |
+| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 29 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 30 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 31 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
+| 32 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 33 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 34 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 35 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
+| 36 | [Maite](http://twitter.com/search?q=Maite) | Maite is a Spanish name derived from the Latin word "maitus" meaning beloved. It is often used as a term of endearment, similar to "sweetheart" or "darling". |
+| 37 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 38 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 39 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 40 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
+| 41 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
+| 42 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 43 | [STILL ALIVE](http://twitter.com/search?q=STILL+ALIVE) | N/A |
+| 44 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 45 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 46 | [henrique de ferraz](http://twitter.com/search?q=henrique+de+ferraz) | N/A |
+| 47 | [victoria pedretti](http://twitter.com/search?q=victoria+pedretti) | N/A |
+| 48 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
 
 
 

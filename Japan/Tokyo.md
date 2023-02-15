@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-15 19:16:37 UTC`
+📆 Last Updated: `2023-02-15 20:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pavement](http://twitter.com/search?q=Pavement) | N/A |
-| 2 | [#SHOCKINGNUTSTOUR](http://twitter.com/search?q=%23SHOCKINGNUTSTOUR) | N/A |
+| 1 | [#暴れん坊将軍](http://twitter.com/search?q=%23%e6%9a%b4%e3%82%8c%e3%82%93%e5%9d%8a%e5%b0%86%e8%bb%8d) | N/A |
+| 2 | [STAY GOLD](http://twitter.com/search?q=STAY+GOLD) | N/A |
 | 3 | [新ビジュ](http://twitter.com/search?q=%e6%96%b0%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
-| 4 | [Hi-STANDARD](http://twitter.com/search?q=Hi-STANDARD) | N/A |
-| 5 | [#さとっちゃんの味方だよ](http://twitter.com/search?q=%23%e3%81%95%e3%81%a8%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e5%91%b3%e6%96%b9%e3%81%a0%e3%82%88) | N/A |
-| 6 | [#BPLS2](http://twitter.com/search?q=%23BPLS2) | #BPLS2 stands for "Be Positive, Live Stronger, Smile More". It is a hashtag used to encourage people to stay positive and live life to the fullest. |
-| 7 | [櫻井孝宏](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e5%ad%9d%e5%ae%8f) | 櫻井孝宏 is the name of a Japanese singer, actor, and television personality. In English, his name translates to Takahiro Sakurai. |
-| 8 | [コウくん](http://twitter.com/search?q=%e3%82%b3%e3%82%a6%e3%81%8f%e3%82%93) | N/A |
-| 9 | [PC版NIKKE](http://twitter.com/search?q=PC%e7%89%88NIKKE) | N/A |
-| 10 | [#ホロポケカップ](http://twitter.com/search?q=%23%e3%83%9b%e3%83%ad%e3%83%9d%e3%82%b1%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 11 | [#執念の大黒ミサツアーFinal](http://twitter.com/search?q=%23%e5%9f%b7%e5%bf%b5%e3%81%ae%e5%a4%a7%e9%bb%92%e3%83%9f%e3%82%b5%e3%83%84%e3%82%a2%e3%83%bcFinal) | N/A |
-| 12 | [ストフリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%95%e3%83%aa) | ストフリ (stofuri) is a Japanese word that means "to be in a state of stupor or trance". It is often used to describe someone who is in a trance-like state, either due to drugs, alcohol, or some other form of intoxication. In English, it could be translated as "being out of it" or "being in a daze". |
-| 13 | [こよちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 14 | [櫻井さん](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e3%81%95%e3%82%93) | 櫻井さん is a Japanese honorific used to refer to someone with the surname Sakurai. It is similar to the English honorific "Mr. Sakurai". |
-| 15 | [ランクマッチ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%82%af%e3%83%9e%e3%83%83%e3%83%81) | N/A |
-| 16 | [河村くん](http://twitter.com/search?q=%e6%b2%b3%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 17 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 18 | [冨安スタメン](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 19 | [ジョルジーニョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%ab%e3%82%b8%e3%83%bc%e3%83%8b%e3%83%a7) | ジョルジーニョ is a type of Italian pasta dish. It is made with spaghetti, garlic, olive oil, and anchovies. The name comes from the Italian word for "George", and it is believed to have been named after an Italian chef who created the dish. In English, it translates to "George's Pasta". |
-| 20 | [新キラー](http://twitter.com/search?q=%e6%96%b0%e3%82%ad%e3%83%a9%e3%83%bc) | N/A |
-| 21 | [サバ缶ショック](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e7%bc%b6%e3%82%b7%e3%83%a7%e3%83%83%e3%82%af) | N/A |
-| 22 | [ルーキー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%ad%e3%83%bc) | N/A |
-| 23 | [カントボーイ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
-| 24 | [陰の実力者](http://twitter.com/search?q=%e9%99%b0%e3%81%ae%e5%ae%9f%e5%8a%9b%e8%80%85) | N/A |
-| 25 | [第391回](http://twitter.com/search?q=%e7%ac%ac391%e5%9b%9e) | N/A |
-| 26 | [シンフォニア](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%83%8b%e3%82%a2) | N/A |
-| 27 | [シアトリズム](http://twitter.com/search?q=%e3%82%b7%e3%82%a2%e3%83%88%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 28 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
-| 29 | [めめ誕生日](http://twitter.com/search?q=%e3%82%81%e3%82%81%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 30 | [成田闘争](http://twitter.com/search?q=%e6%88%90%e7%94%b0%e9%97%98%e4%ba%89) | N/A |
-| 31 | [ハイスタ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%b9%e3%82%bf) | N/A |
-| 32 | [大国男児](http://twitter.com/search?q=%e5%a4%a7%e5%9b%bd%e7%94%b7%e5%85%90) | N/A |
-| 33 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
-| 34 | [バースデー動画](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc%e5%8b%95%e7%94%bb) | N/A |
-| 35 | [トーマス怪我](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%9e%e3%82%b9%e6%80%aa%e6%88%91) | トーマス怪我 is a Japanese phrase that literally translates to "Thomas Injury". It is used to refer to an injury caused by overuse of the shoulder or elbow joint, usually due to repetitive motions such as typing or playing sports. |
-| 36 | [めめ26歳](http://twitter.com/search?q=%e3%82%81%e3%82%8126%e6%ad%b3) | N/A |
-| 37 | [次元断層](http://twitter.com/search?q=%e6%ac%a1%e5%85%83%e6%96%ad%e5%b1%a4) | N/A |
-| 38 | [Keloqz](http://twitter.com/search?q=Keloqz) | N/A |
-| 39 | [ヒョウモンダコ](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%82%a6%e3%83%a2%e3%83%b3%e3%83%80%e3%82%b3) | N/A |
-| 40 | [血の騒ぎ](http://twitter.com/search?q=%e8%a1%80%e3%81%ae%e9%a8%92%e3%81%8e) | N/A |
-| 41 | [ピークタイム](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%af%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
-| 42 | [強制執行](http://twitter.com/search?q=%e5%bc%b7%e5%88%b6%e5%9f%b7%e8%a1%8c) | N/A |
-| 43 | [失業給付](http://twitter.com/search?q=%e5%a4%b1%e6%a5%ad%e7%b5%a6%e4%bb%98) | N/A |
-| 44 | [チームデスマッチ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e3%83%87%e3%82%b9%e3%83%9e%e3%83%83%e3%83%81) | N/A |
-| 45 | [成田空港](http://twitter.com/search?q=%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af) | N/A |
-| 46 | [クロちゃん](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | クロちゃん is a nickname for the Japanese character Kuroko, a black cat from the manga series "Kuroko no Basuke". The English translation of クロちゃん is "Kuro-chan". |
-| 47 | [Wordle 607](http://twitter.com/search?q=Wordle+607) | N/A |
-| 48 | [スカルマーチャント](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%ab%e3%83%9e%e3%83%bc%e3%83%81%e3%83%a3%e3%83%b3%e3%83%88) | N/A |
-| 49 | [イワシ缶](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e7%bc%b6) | N/A |
-| 50 | [イズキちゃん](http://twitter.com/search?q=%e3%82%a4%e3%82%ba%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 4 | [#SHOCKINGNUTSTOUR](http://twitter.com/search?q=%23SHOCKINGNUTSTOUR) | N/A |
+| 5 | [ジェットエネルギー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%88%e3%82%a8%e3%83%8d%e3%83%ab%e3%82%ae%e3%83%bc) | N/A |
+| 6 | [Pavement](http://twitter.com/search?q=Pavement) | N/A |
+| 7 | [アルルカン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%ab%e3%82%ab%e3%83%b3) | N/A |
+| 8 | [ナイトマーケット](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 9 | [射撃訓練場](http://twitter.com/search?q=%e5%b0%84%e6%92%83%e8%a8%93%e7%b7%b4%e5%a0%b4) | N/A |
+| 10 | [櫻井孝宏](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e5%ad%9d%e5%ae%8f) | 櫻井孝宏 is the name of a Japanese singer, actor, and television personality. In English, his name translates to Takahiro Sakurai. |
+| 11 | [APEXマッチ](http://twitter.com/search?q=APEX%e3%83%9e%e3%83%83%e3%83%81) | N/A |
+| 12 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
+| 13 | [#藤井風LAAT](http://twitter.com/search?q=%23%e8%97%a4%e4%ba%95%e9%a2%a8LAAT) | N/A |
+| 14 | [PC版NIKKE](http://twitter.com/search?q=PC%e7%89%88NIKKE) | N/A |
+| 15 | [こよちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 16 | [ストフリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%95%e3%83%aa) | ストフリ (stofuri) is a Japanese word that means "to be in a state of stupor or trance". It is often used to describe someone who is in a trance-like state, either due to drugs, alcohol, or some other form of intoxication. In English, it could be translated as "being out of it" or "being in a daze". |
+| 17 | [都内某所](http://twitter.com/search?q=%e9%83%bd%e5%86%85%e6%9f%90%e6%89%80) | 都内某所 is a Japanese phrase meaning "somewhere in the Tokyo metropolitan area". It is used to refer to a specific place without specifying its exact location. |
+| 18 | [ランクマッチ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%82%af%e3%83%9e%e3%83%83%e3%83%81) | N/A |
+| 19 | [#ハイスタンダード](http://twitter.com/search?q=%23%e3%83%8f%e3%82%a4%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%80%e3%83%bc%e3%83%89) | N/A |
+| 20 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 21 | [#レジェンドになれ](http://twitter.com/search?q=%23%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89%e3%81%ab%e3%81%aa%e3%82%8c) | N/A |
+| 22 | [ジョルジーニョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%ab%e3%82%b8%e3%83%bc%e3%83%8b%e3%83%a7) | ジョルジーニョ is a type of Italian pasta dish. It is made with spaghetti, garlic, olive oil, and anchovies. The name comes from the Italian word for "George", and it is believed to have been named after an Italian chef who created the dish. In English, it translates to "George's Pasta". |
+| 23 | [デブライネ](http://twitter.com/search?q=%e3%83%87%e3%83%96%e3%83%a9%e3%82%a4%e3%83%8d) | デブライネ is a type of Japanese folk song. It is usually sung in a slow, gentle tempo and often accompanied by shamisen or other traditional instruments. The lyrics typically tell stories of love, loss, and longing. In English, the term translates to "lonely night". |
+| 24 | [冨安スタメン](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 25 | [エデルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%87%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
+| 26 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 27 | [これPK](http://twitter.com/search?q=%e3%81%93%e3%82%8cPK) | N/A |
+| 28 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
+| 29 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
+| 30 | [エンケティア](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b1%e3%83%86%e3%82%a3%e3%82%a2) | エンケティア is a Japanese word that means "encounter" or "meeting". It is often used to refer to a chance meeting between two people. |
+| 31 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
+| 32 | [冨安のミス](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%81%ae%e3%83%9f%e3%82%b9) | N/A |
+| 33 | [ベルナルド](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%8a%e3%83%ab%e3%83%89) | N/A |
+| 34 | [新キラー](http://twitter.com/search?q=%e6%96%b0%e3%82%ad%e3%83%a9%e3%83%bc) | N/A |
+| 35 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
+| 36 | [グリーリッシュ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5) | グリーリッシュ (Guriirisshu) is a Japanese word that means "gleeful" or "joyful". It is often used to describe someone who is feeling happy and excited. |
+| 37 | [トミースタメン](http://twitter.com/search?q=%e3%83%88%e3%83%9f%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 38 | [シティ先制](http://twitter.com/search?q=%e3%82%b7%e3%83%86%e3%82%a3%e5%85%88%e5%88%b6) | N/A |
+| 39 | [サバ缶ショック](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e7%bc%b6%e3%82%b7%e3%83%a7%e3%83%83%e3%82%af) | N/A |
+| 40 | [トーマス怪我](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%9e%e3%82%b9%e6%80%aa%e6%88%91) | トーマス怪我 is a Japanese phrase that literally translates to "Thomas Injury". It is used to refer to an injury caused by overuse of the shoulder or elbow joint, usually due to repetitive motions such as typing or playing sports. |
+| 41 | [冨安先発](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e5%85%88%e7%99%ba) | N/A |
+| 42 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
+| 43 | [バックパス](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%af%e3%83%91%e3%82%b9) | バックパス is a Japanese term that refers to a shortcut or back route. It can also refer to a way of bypassing certain obstacles or challenges in order to reach a goal more quickly. In English, it is sometimes referred to as a “backdoor” or “back alley” route. |
+| 44 | [冨安さん](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%81%95%e3%82%93) | N/A |
+| 45 | [陰の実力者](http://twitter.com/search?q=%e9%99%b0%e3%81%ae%e5%ae%9f%e5%8a%9b%e8%80%85) | N/A |
+| 46 | [遅延行為](http://twitter.com/search?q=%e9%81%85%e5%bb%b6%e8%a1%8c%e7%82%ba) | N/A |
+| 47 | [カントボーイ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 48 | [ルーキー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%ad%e3%83%bc) | N/A |
+| 49 | [シアトリズム](http://twitter.com/search?q=%e3%82%b7%e3%82%a2%e3%83%88%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 50 | [第391回](http://twitter.com/search?q=%e7%ac%ac391%e5%9b%9e) | N/A |
 
 
 

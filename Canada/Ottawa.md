@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-15 19:16:09 UTC`
+📆 Last Updated: `2023-02-15 20:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 1 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
 | 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 3 | [#CdnAgDay](http://twitter.com/search?q=%23CdnAgDay) | N/A |
-| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 5 | [#FlagDay](http://twitter.com/search?q=%23FlagDay) | N/A |
-| 6 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 7 | [Mikey Anderson](http://twitter.com/search?q=Mikey+Anderson) | N/A |
-| 8 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 9 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 10 | [#CanadianFlag](http://twitter.com/search?q=%23CanadianFlag) | N/A |
-| 11 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 12 | [Weegar](http://twitter.com/search?q=Weegar) | N/A |
-| 13 | [Zachary L'Heureux](http://twitter.com/search?q=Zachary+L%27Heureux) | N/A |
-| 14 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 15 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 7 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 8 | [#FlagDay](http://twitter.com/search?q=%23FlagDay) | N/A |
+| 9 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 10 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 11 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 15 | [Weegar](http://twitter.com/search?q=Weegar) | N/A |
 | 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 17 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 18 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 19 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [National Flag of Canada Day](http://twitter.com/search?q=National+Flag+of+Canada+Day) | N/A |
-| 22 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 23 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 17 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 18 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 19 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 20 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 21 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 22 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 23 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 24 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 25 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 26 | [Magna](http://twitter.com/search?q=Magna) | N/A |
-| 27 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 28 | [Fords](http://twitter.com/search?q=Fords) | N/A |
-| 29 | [Kevin Mandolese](http://twitter.com/search?q=Kevin+Mandolese) | N/A |
+| 25 | [National Flag of Canada Day](http://twitter.com/search?q=National+Flag+of+Canada+Day) | N/A |
+| 26 | [Nunziata](http://twitter.com/search?q=Nunziata) | N/A |
+| 27 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 28 | [Mikey Anderson](http://twitter.com/search?q=Mikey+Anderson) | N/A |
+| 29 | [Family Health Teams](http://twitter.com/search?q=Family+Health+Teams) | N/A |
 | 30 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 31 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 32 | [Legend of Dragoon](http://twitter.com/search?q=Legend+of+Dragoon) | N/A |
-| 33 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 34 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 35 | [Nunziata](http://twitter.com/search?q=Nunziata) | N/A |
+| 31 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 32 | [Doug Ford](http://twitter.com/search?q=Doug+Ford) | N/A |
+| 33 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 34 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 35 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 36 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 37 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 38 | [Parliament Hill](http://twitter.com/search?q=Parliament+Hill) | N/A |
-| 39 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 40 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
-| 41 | [Hamilton Centre](http://twitter.com/search?q=Hamilton+Centre) | N/A |
-| 42 | [Sean Monahan](http://twitter.com/search?q=Sean+Monahan) | N/A |
-| 43 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 44 | [Ethics](http://twitter.com/search?q=Ethics) | N/A |
-| 45 | [Ocean Ranger](http://twitter.com/search?q=Ocean+Ranger) | N/A |
-| 46 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 48 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 49 | [justin barron](http://twitter.com/search?q=justin+barron) | N/A |
-| 50 | [Returnal](http://twitter.com/search?q=Returnal) | N/A |
+| 37 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 38 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
+| 39 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 40 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 41 | [Zachary L'Heureux](http://twitter.com/search?q=Zachary+L%27Heureux) | N/A |
+| 42 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 43 | [Chris Sky](http://twitter.com/search?q=Chris+Sky) | N/A |
+| 44 | [Parliament Hill](http://twitter.com/search?q=Parliament+Hill) | N/A |
+| 45 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 46 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 47 | [Magna](http://twitter.com/search?q=Magna) | N/A |
+| 48 | [Sean Monahan](http://twitter.com/search?q=Sean+Monahan) | N/A |
+| 49 | [Ethics](http://twitter.com/search?q=Ethics) | N/A |
+| 50 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 

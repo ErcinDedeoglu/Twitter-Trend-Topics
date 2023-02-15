@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-15 19:16:26 UTC`
+📆 Last Updated: `2023-02-15 20:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 2 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 4 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 5 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 6 | [#amidicestmehdi](http://twitter.com/search?q=%23amidicestmehdi) | N/A |
-| 7 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 8 | [#TheatrhythmMicromania](http://twitter.com/search?q=%23TheatrhythmMicromania) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 11 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 13 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 14 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 15 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 16 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 17 | [MEDEF](http://twitter.com/search?q=MEDEF) | N/A |
-| 18 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 20 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
-| 21 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 22 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
-| 23 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 26 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 27 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 28 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 29 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
-| 30 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
-| 31 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 32 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 33 | [Haru](http://twitter.com/search?q=Haru) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 36 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 37 | [Panier](http://twitter.com/search?q=Panier) | N/A |
-| 38 | [L'article 2](http://twitter.com/search?q=L%27article+2) | N/A |
-| 39 | [Jacques Martin](http://twitter.com/search?q=Jacques+Martin) | N/A |
-| 40 | [Xavier Niel](http://twitter.com/search?q=Xavier+Niel) | N/A |
-| 41 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 42 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 43 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 45 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
-| 46 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
-| 47 | [L'index](http://twitter.com/search?q=L%27index) | N/A |
-| 48 | [Arsenal City](http://twitter.com/search?q=Arsenal+City) | N/A |
-| 49 | [Le Graët](http://twitter.com/search?q=Le+Gra%c3%abt) | N/A |
-| 50 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 2 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 3 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 4 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 6 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
+| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 8 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 9 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 10 | [Verdez](http://twitter.com/search?q=Verdez) | Verdez is a French word that means "green". It is used to describe something that is green in color. |
+| 11 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 13 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 14 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 15 | [Haru](http://twitter.com/search?q=Haru) | N/A |
+| 16 | [Romane](http://twitter.com/search?q=Romane) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 19 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
+| 20 | [San Marina](http://twitter.com/search?q=San+Marina) | N/A |
+| 21 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 22 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 23 | [MEDEF](http://twitter.com/search?q=MEDEF) | N/A |
+| 24 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 25 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 26 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 27 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 28 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 29 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 30 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 31 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 32 | [Panier](http://twitter.com/search?q=Panier) | N/A |
+| 33 | [Xavier Niel](http://twitter.com/search?q=Xavier+Niel) | N/A |
+| 34 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
+| 35 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 36 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
+| 37 | [#TheatrhythmMicromania](http://twitter.com/search?q=%23TheatrhythmMicromania) | N/A |
+| 38 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 39 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
+| 40 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 41 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 42 | [#MetsDuChNordDansUnTitre](http://twitter.com/search?q=%23MetsDuChNordDansUnTitre) | N/A |
+| 43 | [#asianfood](http://twitter.com/search?q=%23asianfood) | N/A |
+| 44 | [#LesApprentisAventuriers](http://twitter.com/search?q=%23LesApprentisAventuriers) | N/A |
+| 45 | [#Warzone2](http://twitter.com/search?q=%23Warzone2) | N/A |
 
 
 

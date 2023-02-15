@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Takamatsu
 
-📆 Last Updated: `2023-02-15 19:16:37 UTC`
+📆 Last Updated: `2023-02-15 20:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#目黒蓮誕生祭](http://twitter.com/search?q=%23%e7%9b%ae%e9%bb%92%e8%93%ae%e8%aa%95%e7%94%9f%e7%a5%ad) | N/A |
-| 2 | [冨安スタメン](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 3 | [ジョルジーニョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%ab%e3%82%b8%e3%83%bc%e3%83%8b%e3%83%a7) | ジョルジーニョ is a type of Italian pasta dish. It is made with spaghetti, garlic, olive oil, and anchovies. The name comes from the Italian word for "George", and it is believed to have been named after an Italian chef who created the dish. In English, it translates to "George's Pasta". |
-| 4 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 5 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
-| 6 | [新キラー](http://twitter.com/search?q=%e6%96%b0%e3%82%ad%e3%83%a9%e3%83%bc) | N/A |
-| 7 | [#佐久間宣行ANN0](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%ae%a3%e8%a1%8cANN0) | N/A |
-| 8 | [サバ缶ショック](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e7%bc%b6%e3%82%b7%e3%83%a7%e3%83%83%e3%82%af) | N/A |
-| 9 | [ルーキー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%ad%e3%83%bc) | N/A |
-| 10 | [カントボーイ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
-| 11 | [陰の実力者](http://twitter.com/search?q=%e9%99%b0%e3%81%ae%e5%ae%9f%e5%8a%9b%e8%80%85) | N/A |
-| 12 | [第391回](http://twitter.com/search?q=%e7%ac%ac391%e5%9b%9e) | N/A |
-| 13 | [シンフォニア](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%83%8b%e3%82%a2) | N/A |
-| 14 | [シアトリズム](http://twitter.com/search?q=%e3%82%b7%e3%82%a2%e3%83%88%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 15 | [#リバーサルオーケストラ](http://twitter.com/search?q=%23%e3%83%aa%e3%83%90%e3%83%bc%e3%82%b5%e3%83%ab%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9) | #リバーサルオーケストラ is a Japanese hashtag that translates to "Reverse Orchestra". It is used to refer to a type of music that combines traditional orchestral instruments with modern electronic elements. |
-| 16 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
-| 17 | [めめ誕生日](http://twitter.com/search?q=%e3%82%81%e3%82%81%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 18 | [成田闘争](http://twitter.com/search?q=%e6%88%90%e7%94%b0%e9%97%98%e4%ba%89) | N/A |
-| 19 | [ハイスタ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%b9%e3%82%bf) | N/A |
-| 20 | [大国男児](http://twitter.com/search?q=%e5%a4%a7%e5%9b%bd%e7%94%b7%e5%85%90) | N/A |
+| 1 | [ジョルジーニョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%ab%e3%82%b8%e3%83%bc%e3%83%8b%e3%83%a7) | ジョルジーニョ is a type of Italian pasta dish. It is made with spaghetti, garlic, olive oil, and anchovies. The name comes from the Italian word for "George", and it is believed to have been named after an Italian chef who created the dish. In English, it translates to "George's Pasta". |
+| 2 | [デブライネ](http://twitter.com/search?q=%e3%83%87%e3%83%96%e3%83%a9%e3%82%a4%e3%83%8d) | デブライネ is a type of Japanese folk song. It is usually sung in a slow, gentle tempo and often accompanied by shamisen or other traditional instruments. The lyrics typically tell stories of love, loss, and longing. In English, the term translates to "lonely night". |
+| 3 | [冨安スタメン](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 4 | [#目黒蓮誕生祭](http://twitter.com/search?q=%23%e7%9b%ae%e9%bb%92%e8%93%ae%e8%aa%95%e7%94%9f%e7%a5%ad) | N/A |
+| 5 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 6 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 7 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
+| 8 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
+| 9 | [エンケティア](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b1%e3%83%86%e3%82%a3%e3%82%a2) | エンケティア is a Japanese word that means "encounter" or "meeting". It is often used to refer to a chance meeting between two people. |
+| 10 | [冨安のミス](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%81%ae%e3%83%9f%e3%82%b9) | N/A |
+| 11 | [エデルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%87%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
+| 12 | [ベルナルド](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%8a%e3%83%ab%e3%83%89) | N/A |
+| 13 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
+| 14 | [#佐久間宣行ANN0](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%ae%a3%e8%a1%8cANN0) | N/A |
+| 15 | [新キラー](http://twitter.com/search?q=%e6%96%b0%e3%82%ad%e3%83%a9%e3%83%bc) | N/A |
+| 16 | [グリーリッシュ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5) | グリーリッシュ (Guriirisshu) is a Japanese word that means "gleeful" or "joyful". It is often used to describe someone who is feeling happy and excited. |
+| 17 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
+| 18 | [トミースタメン](http://twitter.com/search?q=%e3%83%88%e3%83%9f%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 19 | [シティ先制](http://twitter.com/search?q=%e3%82%b7%e3%83%86%e3%82%a3%e5%85%88%e5%88%b6) | N/A |
+| 20 | [サバ缶ショック](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e7%bc%b6%e3%82%b7%e3%83%a7%e3%83%83%e3%82%af) | N/A |
 | 21 | [トーマス怪我](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%9e%e3%82%b9%e6%80%aa%e6%88%91) | トーマス怪我 is a Japanese phrase that literally translates to "Thomas Injury". It is used to refer to an injury caused by overuse of the shoulder or elbow joint, usually due to repetitive motions such as typing or playing sports. |
-| 22 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
-| 23 | [バースデー動画](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc%e5%8b%95%e7%94%bb) | N/A |
-| 24 | [めめ26歳](http://twitter.com/search?q=%e3%82%81%e3%82%8126%e6%ad%b3) | N/A |
-| 25 | [次元断層](http://twitter.com/search?q=%e6%ac%a1%e5%85%83%e6%96%ad%e5%b1%a4) | N/A |
-| 26 | [Keloqz](http://twitter.com/search?q=Keloqz) | N/A |
-| 27 | [ヒョウモンダコ](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%82%a6%e3%83%a2%e3%83%b3%e3%83%80%e3%82%b3) | N/A |
-| 28 | [血の騒ぎ](http://twitter.com/search?q=%e8%a1%80%e3%81%ae%e9%a8%92%e3%81%8e) | N/A |
-| 29 | [ピークタイム](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%af%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
-| 30 | [強制執行](http://twitter.com/search?q=%e5%bc%b7%e5%88%b6%e5%9f%b7%e8%a1%8c) | N/A |
-| 31 | [失業給付](http://twitter.com/search?q=%e5%a4%b1%e6%a5%ad%e7%b5%a6%e4%bb%98) | N/A |
-| 32 | [チームデスマッチ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e3%83%87%e3%82%b9%e3%83%9e%e3%83%83%e3%83%81) | N/A |
-| 33 | [成田空港](http://twitter.com/search?q=%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af) | N/A |
-| 34 | [Wordle 607](http://twitter.com/search?q=Wordle+607) | N/A |
-| 35 | [クロちゃん](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | クロちゃん is a nickname for the Japanese character Kuroko, a black cat from the manga series "Kuroko no Basuke". The English translation of クロちゃん is "Kuro-chan". |
-| 36 | [スカルマーチャント](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%ab%e3%83%9e%e3%83%bc%e3%83%81%e3%83%a3%e3%83%b3%e3%83%88) | N/A |
-| 37 | [イワシ缶](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e7%bc%b6) | N/A |
-| 38 | [イズキちゃん](http://twitter.com/search?q=%e3%82%a4%e3%82%ba%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [三里塚闘争](http://twitter.com/search?q=%e4%b8%89%e9%87%8c%e5%a1%9a%e9%97%98%e4%ba%89) | N/A |
-| 40 | [出荷停止](http://twitter.com/search?q=%e5%87%ba%e8%8d%b7%e5%81%9c%e6%ad%a2) | N/A |
-| 41 | [いっき団結](http://twitter.com/search?q=%e3%81%84%e3%81%a3%e3%81%8d%e5%9b%a3%e7%b5%90) | N/A |
-| 42 | [ハンギョル](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%ae%e3%83%a7%e3%83%ab) | N/A |
-| 43 | [ブロンズ](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%83%b3%e3%82%ba) | N/A |
-| 44 | [APEXマッチ](http://twitter.com/search?q=APEX%e3%83%9e%e3%83%83%e3%83%81) | N/A |
-| 45 | [誕生日動画](http://twitter.com/search?q=%e8%aa%95%e7%94%9f%e6%97%a5%e5%8b%95%e7%94%bb) | N/A |
-| 46 | [Your Eyes](http://twitter.com/search?q=Your+Eyes) | N/A |
-| 47 | [クロニエール体操](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8b%e3%82%a8%e3%83%bc%e3%83%ab%e4%bd%93%e6%93%8d) | N/A |
-| 48 | [プリウス](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%a6%e3%82%b9) | N/A |
+| 22 | [冨安先発](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e5%85%88%e7%99%ba) | N/A |
+| 23 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
+| 24 | [バックパス](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%af%e3%83%91%e3%82%b9) | バックパス is a Japanese term that refers to a shortcut or back route. It can also refer to a way of bypassing certain obstacles or challenges in order to reach a goal more quickly. In English, it is sometimes referred to as a “backdoor” or “back alley” route. |
+| 25 | [冨安さん](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e3%81%95%e3%82%93) | N/A |
+| 26 | [陰の実力者](http://twitter.com/search?q=%e9%99%b0%e3%81%ae%e5%ae%9f%e5%8a%9b%e8%80%85) | N/A |
+| 27 | [カントボーイ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 28 | [シアトリズム](http://twitter.com/search?q=%e3%82%b7%e3%82%a2%e3%83%88%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 29 | [ルーキー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%ad%e3%83%bc) | N/A |
+| 30 | [第391回](http://twitter.com/search?q=%e7%ac%ac391%e5%9b%9e) | N/A |
+| 31 | [遅延行為](http://twitter.com/search?q=%e9%81%85%e5%bb%b6%e8%a1%8c%e7%82%ba) | N/A |
+| 32 | [シンフォニア](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%83%8b%e3%82%a2) | N/A |
+| 33 | [ドルトムント](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
+| 34 | [シティ相手](http://twitter.com/search?q=%e3%82%b7%e3%83%86%e3%82%a3%e7%9b%b8%e6%89%8b) | N/A |
+| 35 | [めめ誕生日](http://twitter.com/search?q=%e3%82%81%e3%82%81%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 36 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
+| 37 | [成田闘争](http://twitter.com/search?q=%e6%88%90%e7%94%b0%e9%97%98%e4%ba%89) | N/A |
+| 38 | [トーマス不在](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%9e%e3%82%b9%e4%b8%8d%e5%9c%a8) | N/A |
+| 39 | [エミレーツ](http://twitter.com/search?q=%e3%82%a8%e3%83%9f%e3%83%ac%e3%83%bc%e3%83%84) | N/A |
+| 40 | [大国男児](http://twitter.com/search?q=%e5%a4%a7%e5%9b%bd%e7%94%b7%e5%85%90) | N/A |
+| 41 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
+| 42 | [次元断層](http://twitter.com/search?q=%e6%ac%a1%e5%85%83%e6%96%ad%e5%b1%a4) | N/A |
+| 43 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 44 | [バースデー動画](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc%e5%8b%95%e7%94%bb) | N/A |
+| 45 | [めめ26歳](http://twitter.com/search?q=%e3%82%81%e3%82%8126%e6%ad%b3) | N/A |
+| 46 | [マンチェスターシティ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
+| 47 | [Wordle 607](http://twitter.com/search?q=Wordle+607) | N/A |
+| 48 | [失業給付](http://twitter.com/search?q=%e5%a4%b1%e6%a5%ad%e7%b5%a6%e4%bb%98) | N/A |
 
 
 

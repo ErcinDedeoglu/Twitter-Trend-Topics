@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-15 19:16:18 UTC`
+📆 Last Updated: `2023-02-15 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
 | 2 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 3 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 4 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 5 | [#DíaDelBrigadista](http://twitter.com/search?q=%23D%c3%adaDelBrigadista) | N/A |
-| 6 | [#BettyEnEl13](http://twitter.com/search?q=%23BettyEnEl13) | N/A |
-| 7 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 8 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 9 | [Mat14s](http://twitter.com/search?q=Mat14s) | N/A |
-| 10 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
-| 11 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 12 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 13 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 14 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 15 | [Mauricio Correa](http://twitter.com/search?q=Mauricio+Correa) | N/A |
-| 16 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 17 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 18 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 19 | [TRANSITORIA](http://twitter.com/search?q=TRANSITORIA) | N/A |
-| 20 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 21 | [Pepe Rojas](http://twitter.com/search?q=Pepe+Rojas) | N/A |
-| 22 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 23 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
-| 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 25 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 26 | [CHILE ES REBELDE](http://twitter.com/search?q=CHILE+ES+REBELDE) | N/A |
-| 27 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 28 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
-| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 6 | [#DíaDelBrigadista](http://twitter.com/search?q=%23D%c3%adaDelBrigadista) | N/A |
+| 7 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 8 | [#BettyEnEl13](http://twitter.com/search?q=%23BettyEnEl13) | N/A |
+| 9 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
+| 10 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 11 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 12 | [Mat14s](http://twitter.com/search?q=Mat14s) | N/A |
+| 13 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 14 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
+| 15 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 16 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 17 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
+| 18 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 19 | [Mauricio Correa](http://twitter.com/search?q=Mauricio+Correa) | N/A |
+| 20 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 21 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 22 | [Transitoria](http://twitter.com/search?q=Transitoria) | N/A |
+| 23 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 24 | [Pepe Rojas](http://twitter.com/search?q=Pepe+Rojas) | N/A |
+| 25 | [CHILE ES REBELDE](http://twitter.com/search?q=CHILE+ES+REBELDE) | N/A |
+| 26 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 27 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 28 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
+| 29 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
 | 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 31 | [Virginia Palma](http://twitter.com/search?q=Virginia+Palma) | N/A |
-| 32 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
-| 33 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 34 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
-| 35 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 38 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 41 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
-| 42 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 43 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 44 | [Zalaquett](http://twitter.com/search?q=Zalaquett) | N/A |
-| 45 | [EMERGENCIA](http://twitter.com/search?q=EMERGENCIA) | N/A |
-| 46 | [Notario](http://twitter.com/search?q=Notario) | N/A |
-| 47 | [Prat](http://twitter.com/search?q=Prat) | N/A |
-| 48 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 49 | [Tiltil](http://twitter.com/search?q=Tiltil) | N/A |
-| 50 | [La DC](http://twitter.com/search?q=La+DC) | N/A |
+| 31 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 32 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 33 | [Virginia Palma](http://twitter.com/search?q=Virginia+Palma) | N/A |
+| 34 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
+| 35 | [Javiera](http://twitter.com/search?q=Javiera) | N/A |
+| 36 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
+| 37 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 38 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 39 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 40 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 42 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 43 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 44 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
+| 45 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 46 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 47 | [Zalaquett](http://twitter.com/search?q=Zalaquett) | N/A |
+| 48 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 49 | [EMERGENCIA](http://twitter.com/search?q=EMERGENCIA) | N/A |
 
 
 
