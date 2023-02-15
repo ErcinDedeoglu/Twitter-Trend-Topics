@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-15 05:17:07 UTC`
+📆 Last Updated: `2023-02-15 06:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Oman
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#منظومه_الحمايه_الاجتماعيه](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b8%d9%88%d9%85%d9%87_%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 3 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 2 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 3 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 4 | [#معرض_الوظايف](http://twitter.com/search?q=%23%d9%85%d8%b9%d8%b1%d8%b6_%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d9%8a%d9%81) | N/A |
-| 5 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 6 | [#عيد_الفلنتاين](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d9%84%d9%86%d8%aa%d8%a7%d9%8a%d9%86) | N/A |
+| 5 | [#مدجزر_صحم_المركب_الميمون](http://twitter.com/search?q=%23%d9%85%d8%af%d8%ac%d8%b2%d8%b1_%d8%b5%d8%ad%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8_%d8%a7%d9%84%d9%85%d9%8a%d9%85%d9%88%d9%86) | N/A |
+| 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 7 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 8 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 9 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
@@ -30,41 +30,41 @@ This is top 50 for Oman
 | 13 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
 | 14 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
 | 15 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 16 | [السعاده الدايمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%af%d8%a7%d9%8a%d9%85%d9%87) | N/A |
-| 17 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 18 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
-| 19 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 20 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 21 | [فالي عمان](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%8a+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 22 | [البركه العامر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%b1) | N/A |
-| 23 | [الاسر الاقل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
-| 24 | [الشرقية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9) | N/A |
-| 25 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
-| 26 | [وزير الصحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
-| 27 | [الجوانب الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%86%d8%a8+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 28 | [حافظ علي](http://twitter.com/search?q=%d8%ad%d8%a7%d9%81%d8%b8+%d8%b9%d9%84%d9%8a) | N/A |
-| 29 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 30 | [المشروبات الكحوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%ad%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 31 | [المقيمين الراغبين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%ba%d8%a8%d9%8a%d9%86) | N/A |
-| 32 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 33 | [نفط عمان](http://twitter.com/search?q=%d9%86%d9%81%d8%b7+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 34 | [عمل الشيطان](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86) | N/A |
-| 35 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 36 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
-| 37 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 38 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | N/A |
-| 39 | [الاهتمام السامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 40 | [جنوب الباطنه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d9%87) | N/A |
-| 41 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 42 | [جمال النوفلي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%86%d9%88%d9%81%d9%84%d9%8a) | N/A |
-| 43 | [الدخل المحدود](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d8%af%d9%88%d8%af) | N/A |
-| 44 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 45 | [فتح التسجيل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84) | N/A |
-| 46 | [وزارة العمل](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 47 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 48 | [النظام الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 49 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 50 | [21 فبراير](http://twitter.com/search?q=21+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 16 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 17 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
+| 18 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 19 | [البركه العامر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%b1) | N/A |
+| 20 | [الاسر الاقل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
+| 21 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 22 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
+| 23 | [الجوانب الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%86%d8%a8+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 24 | [وزير الصحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
+| 25 | [المقيمين الراغبين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%ba%d8%a8%d9%8a%d9%86) | N/A |
+| 26 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 27 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 28 | [المشروبات الكحوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%ad%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 29 | [نفط عمان](http://twitter.com/search?q=%d9%86%d9%81%d8%b7+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 30 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 31 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 32 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | N/A |
+| 33 | [الاهتمام السامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
+| 34 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 35 | [جمال النوفلي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%86%d9%88%d9%81%d9%84%d9%8a) | N/A |
+| 36 | [الدخل المحدود](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%ae%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d8%af%d9%88%d8%af) | N/A |
+| 37 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 38 | [فتح التسجيل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84) | N/A |
+| 39 | [وزارة العمل](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 40 | [النظام الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
+| 41 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 42 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 43 | [21 فبراير](http://twitter.com/search?q=21+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 44 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 45 | [المجتمع العماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 46 | [الكلمه الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 47 | [عمل الشيطان](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86) | N/A |
+| 48 | [عبدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 49 | [علي الرابط التالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 50 | [فيات المجتمع](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-15 05:16:26 UTC`
+📆 Last Updated: `2023-02-15 06:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,20 +43,20 @@ This is top 50 for [Ireland](</Ireland>)
 | 26 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 27 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
 | 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 29 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 29 | [kulu](http://twitter.com/search?q=kulu) | N/A |
 | 30 | [pancake tuesday](http://twitter.com/search?q=pancake+tuesday) | N/A |
 | 31 | [Andy Robertson](http://twitter.com/search?q=Andy+Robertson) | N/A |
 | 32 | [denis naughten](http://twitter.com/search?q=denis+naughten) | N/A |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
-| 35 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 36 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 37 | [deirdre purcell](http://twitter.com/search?q=deirdre+purcell) | N/A |
-| 38 | [junior infants](http://twitter.com/search?q=junior+infants) | N/A |
-| 39 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
-| 40 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 41 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 42 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
+| 33 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
+| 34 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 35 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 36 | [deirdre purcell](http://twitter.com/search?q=deirdre+purcell) | N/A |
+| 37 | [junior infants](http://twitter.com/search?q=junior+infants) | N/A |
+| 38 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
+| 39 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 40 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 41 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
+| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 44 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 45 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |

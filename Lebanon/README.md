@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-15 05:17:07 UTC`
+📆 Last Updated: `2023-02-15 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,28 +15,28 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#رفيق_الحريري](http://twitter.com/search?q=%23%d8%b1%d9%81%d9%8a%d9%82_%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 2 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 3 | [#مروان_نجار](http://twitter.com/search?q=%23%d9%85%d8%b1%d9%88%d8%a7%d9%86_%d9%86%d8%ac%d8%a7%d8%b1) | N/A |
-| 4 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 1 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 2 | [#رفيق_الحريري](http://twitter.com/search?q=%23%d8%b1%d9%81%d9%8a%d9%82_%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 3 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 4 | [#مروان_نجار](http://twitter.com/search?q=%23%d9%85%d8%b1%d9%88%d8%a7%d9%86_%d9%86%d8%ac%d8%a7%d8%b1) | N/A |
 | 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 6 | [١٤ شباط](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 7 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 8 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 9 | [وسام الحسن](http://twitter.com/search?q=%d9%88%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 10 | [عماد مغنية](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d9%85%d8%ba%d9%86%d9%8a%d8%a9) | N/A |
-| 11 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 12 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 13 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 14 | [حدا اكبر](http://twitter.com/search?q=%d8%ad%d8%af%d8%a7+%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 15 | [كيلو البصل](http://twitter.com/search?q=%d9%83%d9%8a%d9%84%d9%88+%d8%a7%d9%84%d8%a8%d8%b5%d9%84) | N/A |
-| 16 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 17 | [سليم عياش](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85+%d8%b9%d9%8a%d8%a7%d8%b4) | N/A |
-| 18 | [الطايفه السنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%87) | N/A |
+| 7 | [وسام الحسن](http://twitter.com/search?q=%d9%88%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 8 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 9 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 10 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 11 | [حدا اكبر](http://twitter.com/search?q=%d8%ad%d8%af%d8%a7+%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 12 | [كيلو البصل](http://twitter.com/search?q=%d9%83%d9%8a%d9%84%d9%88+%d8%a7%d9%84%d8%a8%d8%b5%d9%84) | N/A |
+| 13 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 14 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 15 | [التحكم المروري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a) | N/A |
+| 16 | [سليم عياش](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85+%d8%b9%d9%8a%d8%a7%d8%b4) | N/A |
+| 17 | [تيار المستقبل](http://twitter.com/search?q=%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
+| 18 | [رشيد كرامي](http://twitter.com/search?q=%d8%b1%d8%b4%d9%8a%d8%af+%d9%83%d8%b1%d8%a7%d9%85%d9%8a) | N/A |
 | 19 | [الدراما اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d8%a7+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [رشيد كرامي](http://twitter.com/search?q=%d8%b1%d8%b4%d9%8a%d8%af+%d9%83%d8%b1%d8%a7%d9%85%d9%8a) | N/A |
-| 21 | [عيد العشاق](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d8%b4%d8%a7%d9%82) | N/A |
-| 22 | [تيار المستقبل](http://twitter.com/search?q=%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
+| 20 | [الطايفه السنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%87) | N/A |
+| 21 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 22 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
 | 23 | [رجل دوله](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%88%d9%84%d9%87) | N/A |
 | 24 | [جمعية المصارف](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81) | N/A |
 | 25 | [النايب السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Lebanon
 | 34 | [علي الفرد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d8%af) | N/A |
 | 35 | [وسط بيروت](http://twitter.com/search?q=%d9%88%d8%b3%d8%b7+%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
 | 36 | [عين التينه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%aa%d9%8a%d9%86%d9%87) | N/A |
-| 37 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
+| 37 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
 | 38 | [هابي فالنتاين](http://twitter.com/search?q=%d9%87%d8%a7%d8%a8%d9%8a+%d9%81%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d9%8a%d9%86) | N/A |
 | 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [تيمور جنبلاط](http://twitter.com/search?q=%d8%aa%d9%8a%d9%85%d9%88%d8%b1+%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
-| 41 | [شهيد الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 42 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 43 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
-| 44 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 45 | [ابو بهاء](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%87%d8%a7%d8%a1) | N/A |
-| 46 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 47 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 48 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 49 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 50 | [ميشال عون](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d8%b9%d9%88%d9%86) | N/A |
+| 40 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
+| 41 | [تيمور جنبلاط](http://twitter.com/search?q=%d8%aa%d9%8a%d9%85%d9%88%d8%b1+%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 42 | [شهيد الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 43 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 44 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 45 | [الامام الكاظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 46 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
+| 47 | [ميشال عون](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d8%b9%d9%88%d9%86) | N/A |
+| 48 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 49 | [ابو بهاء](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%87%d8%a7%d8%a1) | N/A |
+| 50 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 
 
 

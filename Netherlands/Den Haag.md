@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-15 05:16:30 UTC`
+📆 Last Updated: `2023-02-15 06:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,30 +16,30 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
-| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 4 | [negerzoen](http://twitter.com/search?q=negerzoen) | N/A |
-| 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 7 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 10 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 13 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
-| 14 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 15 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 16 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
-| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 18 | [kuipers](http://twitter.com/search?q=kuipers) | N/A |
-| 19 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
-| 20 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 21 | [jan zwartendijk](http://twitter.com/search?q=jan+zwartendijk) | N/A |
-| 22 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 2 | [#Roze](http://twitter.com/search?q=%23Roze) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 6 | [negerzoen](http://twitter.com/search?q=negerzoen) | N/A |
+| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 8 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 9 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 10 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 11 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
+| 12 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 13 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 14 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 15 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
+| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 17 | [kuipers](http://twitter.com/search?q=kuipers) | N/A |
+| 18 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
+| 19 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 20 | [jan zwartendijk](http://twitter.com/search?q=jan+zwartendijk) | N/A |
+| 21 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 22 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
 | 23 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 24 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 25 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
+| 24 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
+| 25 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
 | 26 | [krezip](http://twitter.com/search?q=krezip) | N/A |
 | 27 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
 | 28 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
@@ -48,22 +48,22 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 31 | [intravacc](http://twitter.com/search?q=intravacc) | N/A |
 | 32 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
 | 33 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 34 | [geert dales](http://twitter.com/search?q=geert+dales) | N/A |
-| 35 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [multipla](http://twitter.com/search?q=multipla) | N/A |
-| 38 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 39 | [KMar](http://twitter.com/search?q=KMar) | N/A |
-| 40 | [marechaussee](http://twitter.com/search?q=marechaussee) | N/A |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 43 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 44 | [succes willem](http://twitter.com/search?q=succes+willem) | N/A |
-| 45 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 46 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 47 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 48 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 49 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 35 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 36 | [KMar](http://twitter.com/search?q=KMar) | N/A |
+| 37 | [marechaussee](http://twitter.com/search?q=marechaussee) | N/A |
+| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 39 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 40 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 41 | [succes willem](http://twitter.com/search?q=succes+willem) | N/A |
+| 42 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 43 | [geert dales](http://twitter.com/search?q=geert+dales) | N/A |
+| 44 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
+| 45 | [Multipla](http://twitter.com/search?q=Multipla) | N/A |
+| 46 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 47 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 48 | [dag 14](http://twitter.com/search?q=dag+14) | N/A |
+| 49 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
 
 
 

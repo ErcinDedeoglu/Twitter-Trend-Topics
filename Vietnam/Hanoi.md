@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-15 05:16:42 UTC`
+📆 Last Updated: `2023-02-15 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
-| 2 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 1 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 2 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
 | 3 | [#บิวเป็นพีทที่สมบูรณ์แบบ](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b8%97%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%a1%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9a) | N/A |
 | 4 | [#14กุมภาฮันนี่ขอกุมใจไบเบิ้ล](http://twitter.com/search?q=%2314%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%82%e0%b8%ad%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5) | N/A |
 | 5 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
 | 6 | [#HBDEngfaWaraha](http://twitter.com/search?q=%23HBDEngfaWaraha) | N/A |
-| 7 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 7 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
 | 8 | [C3 Waitlist](http://twitter.com/search?q=C3+Waitlist) | N/A |
 | 9 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 10 | [5 xcapx](http://twitter.com/search?q=5+xcapx) | N/A |
 | 11 | [P'Fa](http://twitter.com/search?q=P%27Fa) | N/A |
 | 12 | [Palm](http://twitter.com/search?q=Palm) | N/A |
 | 13 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 14 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 15 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 16 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 14 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 16 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 17 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 18 | [kols](http://twitter.com/search?q=kols) | N/A |
+| 18 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
 | 19 | [AAVE](http://twitter.com/search?q=AAVE) | N/A |
 | 20 | [$nfty](http://twitter.com/search?q=%24nfty) | N/A |
-| 21 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 22 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 23 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 26 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 27 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 28 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 30 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
-| 31 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 34 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 35 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 21 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 22 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 23 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 26 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 28 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 29 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 30 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 31 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
+| 32 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 33 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 34 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 35 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 36 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 37 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 38 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 39 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 38 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 39 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
 | 40 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 43 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 44 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 45 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 46 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
+| 41 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 42 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 43 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
+| 46 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 47 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
 | 48 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 49 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 50 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 49 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 50 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
 
 
 

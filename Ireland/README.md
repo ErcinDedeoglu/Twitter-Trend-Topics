@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-15 05:17:05 UTC`
+📆 Last Updated: `2023-02-15 06:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,16 +47,16 @@ This is top 50 for Ireland
 | 30 | [pancake tuesday](http://twitter.com/search?q=pancake+tuesday) | N/A |
 | 31 | [Andy Robertson](http://twitter.com/search?q=Andy+Robertson) | N/A |
 | 32 | [denis naughten](http://twitter.com/search?q=denis+naughten) | N/A |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
-| 35 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 36 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 37 | [deirdre purcell](http://twitter.com/search?q=deirdre+purcell) | N/A |
-| 38 | [junior infants](http://twitter.com/search?q=junior+infants) | N/A |
-| 39 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
-| 40 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 41 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 42 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
+| 33 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
+| 34 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 35 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 36 | [deirdre purcell](http://twitter.com/search?q=deirdre+purcell) | N/A |
+| 37 | [junior infants](http://twitter.com/search?q=junior+infants) | N/A |
+| 38 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
+| 39 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 40 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 41 | [Saint Valentine](http://twitter.com/search?q=Saint+Valentine) | N/A |
+| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 44 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 45 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
