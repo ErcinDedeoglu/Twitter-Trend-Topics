@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-15 12:18:37 UTC`
+📆 Last Updated: `2023-02-15 13:21:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
-| 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 3 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 4 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 5 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
-| 6 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 7 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 8 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
+| 2 | [#MCIAmaNamin](http://twitter.com/search?q=%23MCIAmaNamin) | N/A |
+| 3 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 4 | [#HORI7ONonPIE](http://twitter.com/search?q=%23HORI7ONonPIE) | N/A |
+| 5 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 6 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 7 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
+| 8 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
 | 9 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
-| 10 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
-| 11 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
-| 12 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 13 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 14 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
-| 15 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
-| 16 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
-| 17 | [Conquest](http://twitter.com/search?q=Conquest) | N/A |
-| 18 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 19 | [CONGRATULATIONS BOOSEOKSOON](http://twitter.com/search?q=CONGRATULATIONS+BOOSEOKSOON) | N/A |
-| 20 | [CONGRATS BOOSEOKSOON](http://twitter.com/search?q=CONGRATS+BOOSEOKSOON) | N/A |
-| 21 | [BSS FIRST WIN](http://twitter.com/search?q=BSS+FIRST+WIN) | N/A |
-| 22 | [PIE DATE WITH VINCI](http://twitter.com/search?q=PIE+DATE+WITH+VINCI) | N/A |
-| 23 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 24 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 25 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 26 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
-| 27 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 28 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
-| 29 | [CONGRATS BSS](http://twitter.com/search?q=CONGRATS+BSS) | N/A |
-| 30 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
-| 31 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
-| 32 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 33 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
-| 34 | [ANTONY CHEN](http://twitter.com/search?q=ANTONY+CHEN) | N/A |
+| 10 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 11 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
+| 12 | [Tiya Isabel](http://twitter.com/search?q=Tiya+Isabel) | N/A |
+| 13 | [MODESS PAREVEAL NANANA](http://twitter.com/search?q=MODESS+PAREVEAL+NANANA) | N/A |
+| 14 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
+| 15 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 16 | [PIE DATE WITH VINCI](http://twitter.com/search?q=PIE+DATE+WITH+VINCI) | N/A |
+| 17 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 18 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
+| 19 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
+| 20 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 21 | [Padre Damaso](http://twitter.com/search?q=Padre+Damaso) | N/A |
+| 22 | [PIE KIM](http://twitter.com/search?q=PIE+KIM) | N/A |
+| 23 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
+| 24 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 25 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 26 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
+| 27 | [Donghyuk](http://twitter.com/search?q=Donghyuk) | N/A |
+| 28 | [Happy Carat](http://twitter.com/search?q=Happy+Carat) | N/A |
+| 29 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
+| 30 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
+| 31 | [atsu](http://twitter.com/search?q=atsu) | N/A |
+| 32 | [PIENALO KA MARCUS](http://twitter.com/search?q=PIENALO+KA+MARCUS) | N/A |
+| 33 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
+| 34 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
 | 35 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 36 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
-| 37 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
-| 38 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 39 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 40 | [Show Champion](http://twitter.com/search?q=Show+Champion) | N/A |
-| 41 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 42 | [Jaehyun](http://twitter.com/search?q=Jaehyun) | N/A |
-| 43 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 44 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 46 | [franseth pumafebibig](http://twitter.com/search?q=franseth+pumafebibig) | N/A |
-| 47 | [UPCAT](http://twitter.com/search?q=UPCAT) | N/A |
-| 48 | [NorthPort](http://twitter.com/search?q=NorthPort) | N/A |
-| 49 | [WHO WANT SOME SWEET JUICE](http://twitter.com/search?q=WHO+WANT+SOME+SWEET+JUICE) | N/A |
-| 50 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 36 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 37 | [CONGRATULATIONS BOOSEOKSOON](http://twitter.com/search?q=CONGRATULATIONS+BOOSEOKSOON) | N/A |
+| 38 | [up cutie](http://twitter.com/search?q=up+cutie) | N/A |
+| 39 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
+| 40 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 41 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 42 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 43 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 44 | [Isagani](http://twitter.com/search?q=Isagani) | N/A |
+| 45 | [ANTONY CHEN](http://twitter.com/search?q=ANTONY+CHEN) | N/A |
+| 46 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 47 | [Isn't She Lovely](http://twitter.com/search?q=Isn%27t+She+Lovely) | N/A |
+| 48 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
+| 49 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 50 | [upcat](http://twitter.com/search?q=upcat) | N/A |
 
 
 

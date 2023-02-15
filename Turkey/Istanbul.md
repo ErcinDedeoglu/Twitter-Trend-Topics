@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-15 12:18:49 UTC`
+📆 Last Updated: `2023-02-15 13:21:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Oktay Kaynarca](http://twitter.com/search?q=Oktay+Kaynarca) | N/A |
-| 2 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 3 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 4 | [ShellRecai BüyükDestek](http://twitter.com/search?q=ShellRecai+B%c3%bcy%c3%bckDestek) | N/A |
-| 5 | [Ekşisözlük Kapatılsın](http://twitter.com/search?q=Ek%c5%9fis%c3%b6zl%c3%bck+Kapat%c4%b1ls%c4%b1n) | N/A |
-| 6 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
-| 7 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
-| 8 | [#ATVboykot](http://twitter.com/search?q=%23ATVboykot) | N/A |
-| 9 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 10 | [#yuzyuze](http://twitter.com/search?q=%23yuzyuze) | N/A |
+| 2 | [Kenan İmirzalıoğlu](http://twitter.com/search?q=Kenan+%c4%b0mirzal%c4%b1o%c4%9flu) | N/A |
+| 3 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 4 | [Tayyip Erdoğan](http://twitter.com/search?q=Tayyip+Erdo%c4%9fan) | N/A |
+| 5 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 6 | [shellrecai büyükdestek](http://twitter.com/search?q=shellrecai+b%c3%bcy%c3%bckdestek) | N/A |
+| 7 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
+| 8 | [Ekşisözlük Kapatılsın](http://twitter.com/search?q=Ek%c5%9fis%c3%b6zl%c3%bck+Kapat%c4%b1ls%c4%b1n) | N/A |
+| 9 | [#YuzYuze](http://twitter.com/search?q=%23YuzYuze) | N/A |
+| 10 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
 | 11 | [Vural Savaş](http://twitter.com/search?q=Vural+Sava%c5%9f) | N/A |
-| 12 | [Vitaminsiz Goebbels](http://twitter.com/search?q=Vitaminsiz+Goebbels) | N/A |
+| 12 | [#AllahuEkber](http://twitter.com/search?q=%23AllahuEkber) | N/A |
 | 13 | [#Maestro](http://twitter.com/search?q=%23Maestro) | N/A |
-| 14 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 15 | [Dayanışma Destanı](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Destan%c4%b1) | N/A |
-| 16 | [Filiz](http://twitter.com/search?q=Filiz) | N/A |
-| 17 | [Orhan Tatar](http://twitter.com/search?q=Orhan+Tatar) | N/A |
-| 18 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 19 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 20 | [Metin Doruklu](http://twitter.com/search?q=Metin+Doruklu) | N/A |
-| 21 | [Kahramanmaraş'ta 222](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+222) | N/A |
-| 22 | [Melike İmamoğlu](http://twitter.com/search?q=Melike+%c4%b0mamo%c4%9flu) | N/A |
-| 23 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 24 | [Ezgi](http://twitter.com/search?q=Ezgi) | N/A |
-| 25 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
-| 26 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
-| 27 | [Onur Ethem Çolak](http://twitter.com/search?q=Onur+Ethem+%c3%87olak) | N/A |
-| 28 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
-| 29 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 30 | [Sırrı](http://twitter.com/search?q=S%c4%b1rr%c4%b1) | N/A |
-| 31 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
-| 32 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 14 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
+| 15 | [Vitaminsiz Goebbels](http://twitter.com/search?q=Vitaminsiz+Goebbels) | N/A |
+| 16 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 17 | [Filiz](http://twitter.com/search?q=Filiz) | N/A |
+| 18 | [Cemile Kekeç](http://twitter.com/search?q=Cemile+Keke%c3%a7) | N/A |
+| 19 | [Mehmet Muş](http://twitter.com/search?q=Mehmet+Mu%c5%9f) | N/A |
+| 20 | [Dayanışma Destanı](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Destan%c4%b1) | N/A |
+| 21 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 22 | [Metin Doruklu](http://twitter.com/search?q=Metin+Doruklu) | N/A |
+| 23 | [Orhan Tatar](http://twitter.com/search?q=Orhan+Tatar) | N/A |
+| 24 | [kürk](http://twitter.com/search?q=k%c3%bcrk) | N/A |
+| 25 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 26 | [Kahramanmaraş'ta 222](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+222) | N/A |
+| 27 | [Ezgi](http://twitter.com/search?q=Ezgi) | N/A |
+| 28 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
+| 29 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
+| 30 | [Melike İmamoğlu](http://twitter.com/search?q=Melike+%c4%b0mamo%c4%9flu) | N/A |
+| 31 | [Sırrı](http://twitter.com/search?q=S%c4%b1rr%c4%b1) | N/A |
+| 32 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
 | 33 | [Arkadan](http://twitter.com/search?q=Arkadan) | N/A |
-| 34 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 35 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
+| 34 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
+| 35 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
 | 36 | [Depremin 10](http://twitter.com/search?q=Depremin+10) | N/A |
-| 37 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 38 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 37 | [Onur Ethem Çolak](http://twitter.com/search?q=Onur+Ethem+%c3%87olak) | N/A |
+| 38 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
 | 39 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
-| 40 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 41 | [Atatürkçü](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bc) | N/A |
-| 42 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
-| 43 | [Kolon](http://twitter.com/search?q=Kolon) | N/A |
-| 44 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 45 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
+| 40 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 41 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 42 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 43 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
+| 44 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 45 | [Atatürkçü](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bc) | N/A |
 | 46 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 47 | [Cenaze](http://twitter.com/search?q=Cenaze) | N/A |
-| 48 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
-| 49 | [Baban](http://twitter.com/search?q=Baban) | N/A |
-| 50 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
+| 47 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
+| 48 | [Kolon](http://twitter.com/search?q=Kolon) | N/A |
+| 49 | [Cenaze](http://twitter.com/search?q=Cenaze) | N/A |
+| 50 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-15 12:18:58 UTC`
+📆 Last Updated: `2023-02-15 13:21:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 1 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
 | 2 | [#BBCOffice](http://twitter.com/search?q=%23BBCOffice) | N/A |
-| 3 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 3 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
 | 4 | [#MartinTeaserOnFeb23rd](http://twitter.com/search?q=%23MartinTeaserOnFeb23rd) | N/A |
 | 5 | [#SelfieeTrailer2](http://twitter.com/search?q=%23SelfieeTrailer2) | N/A |
 | 6 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 7 | [#ELECRAMA_2023](http://twitter.com/search?q=%23ELECRAMA_2023) | N/A |
-| 8 | [#MeghalayaWithBJP](http://twitter.com/search?q=%23MeghalayaWithBJP) | N/A |
-| 9 | [अब्दुल्ला आजम](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%a6%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%9c%e0%a4%ae) | N/A |
-| 10 | [कृष्णा गौतम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be+%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae) | N/A |
-| 11 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 12 | [निक्की यादव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 13 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 14 | [No.1](http://twitter.com/search?q=No.1) | N/A |
-| 15 | [भारत हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
-| 16 | [Federal Bank](http://twitter.com/search?q=Federal+Bank) | N/A |
-| 17 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
-| 18 | [साहिल गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 7 | [#SceneAhSceneAh](http://twitter.com/search?q=%23SceneAhSceneAh) | N/A |
+| 8 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
+| 9 | [bjp with meghalaya](http://twitter.com/search?q=bjp+with+meghalaya) | N/A |
+| 10 | [HEARTTHROB GAURAV KHANNA](http://twitter.com/search?q=HEARTTHROB+GAURAV+KHANNA) | N/A |
+| 11 | [अब्दुल्ला आजम](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%a6%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%9c%e0%a4%ae) | N/A |
+| 12 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 13 | [Vibrant Villages Programme](http://twitter.com/search?q=Vibrant+Villages+Programme) | N/A |
+| 14 | [कृष्णा गौतम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be+%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae) | N/A |
+| 15 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 16 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 17 | [निक्की यादव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 18 | [No.1](http://twitter.com/search?q=No.1) | N/A |
 | 19 | [प्रतिभा शुक्ला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%bf%e0%a4%ad%e0%a4%be+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 20 | [Prachi](http://twitter.com/search?q=Prachi) | N/A |
-| 21 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 22 | [SSRcase Exposed Justice System](http://twitter.com/search?q=SSRcase+Exposed+Justice+System) | N/A |
-| 23 | [Kotla](http://twitter.com/search?q=Kotla) | N/A |
-| 24 | [MERA JAAN MERA DIL SHIBDU](http://twitter.com/search?q=MERA+JAAN+MERA+DIL+SHIBDU) | N/A |
+| 20 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
+| 21 | [भारत हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 22 | [साहिल गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 23 | [Prachi](http://twitter.com/search?q=Prachi) | N/A |
+| 24 | [SSRcase Exposed Justice System](http://twitter.com/search?q=SSRcase+Exposed+Justice+System) | N/A |
 | 25 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
-| 26 | [Arnab](http://twitter.com/search?q=Arnab) | N/A |
-| 27 | [चेतन शर्मा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 28 | [केंद्रीय मंत्री श्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 29 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 30 | [रघुवीर समर्थ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%98%e0%a5%81%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5) | N/A |
-| 31 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 26 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 27 | [MERA JAAN MERA DIL SHIBDU](http://twitter.com/search?q=MERA+JAAN+MERA+DIL+SHIBDU) | N/A |
+| 28 | [Arnab](http://twitter.com/search?q=Arnab) | N/A |
+| 29 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 30 | [केंद्रीय मंत्री श्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 31 | [रघुवीर समर्थ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%98%e0%a5%81%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5) | N/A |
 | 32 | [सुभद्रा कुमारी चौहान](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 33 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 34 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 35 | [Tatas](http://twitter.com/search?q=Tatas) | N/A |
-| 36 | [एयर इंडिया](http://twitter.com/search?q=%e0%a4%8f%e0%a4%af%e0%a4%b0+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 37 | [राष्ट्रीय चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
+| 33 | [चेतन शर्मा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 34 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 35 | [एयर इंडिया](http://twitter.com/search?q=%e0%a4%8f%e0%a4%af%e0%a4%b0+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 36 | [#ELECRAMA_2023](http://twitter.com/search?q=%23ELECRAMA_2023) | N/A |
+| 37 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
 | 38 | [#RishtaAapSeHaiSirfAppSeNahi](http://twitter.com/search?q=%23RishtaAapSeHaiSirfAppSeNahi) | N/A |
-| 39 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
-| 40 | [#realme10ProSeries5G](http://twitter.com/search?q=%23realme10ProSeries5G) | N/A |
-| 41 | [#CabinetDecisions](http://twitter.com/search?q=%23CabinetDecisions) | N/A |
-| 42 | [#KanpurDehatAccident](http://twitter.com/search?q=%23KanpurDehatAccident) | N/A |
-| 43 | [#NikkiYadav](http://twitter.com/search?q=%23NikkiYadav) | N/A |
+| 39 | [#KanpurDehatAccident](http://twitter.com/search?q=%23KanpurDehatAccident) | N/A |
+| 40 | [#INDvWI](http://twitter.com/search?q=%23INDvWI) | N/A |
+| 41 | [#NikkiYadav](http://twitter.com/search?q=%23NikkiYadav) | N/A |
+| 42 | [#CabinetDecisions](http://twitter.com/search?q=%23CabinetDecisions) | N/A |
+| 43 | [#SidharthShukla](http://twitter.com/search?q=%23SidharthShukla) | N/A |
 | 44 | [#HaqMaguchiOdisha](http://twitter.com/search?q=%23HaqMaguchiOdisha) | N/A |
-| 45 | [#SidharthShukla](http://twitter.com/search?q=%23SidharthShukla) | N/A |
-| 46 | [#GurmeetAsMaharanaPratap](http://twitter.com/search?q=%23GurmeetAsMaharanaPratap) | N/A |
-| 47 | [#StartYourStory](http://twitter.com/search?q=%23StartYourStory) | N/A |
-| 48 | [#IndianCricketTeam](http://twitter.com/search?q=%23IndianCricketTeam) | N/A |
-| 49 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
-| 50 | [#SahilGehlot](http://twitter.com/search?q=%23SahilGehlot) | N/A |
+| 45 | [#ShehzadaAaRahaHai](http://twitter.com/search?q=%23ShehzadaAaRahaHai) | N/A |
+| 46 | [#Lufthansa](http://twitter.com/search?q=%23Lufthansa) | N/A |
+| 47 | [#GurmeetAsMaharanaPratap](http://twitter.com/search?q=%23GurmeetAsMaharanaPratap) | N/A |
+| 48 | [#realme10ProSeries5G](http://twitter.com/search?q=%23realme10ProSeries5G) | N/A |
+| 49 | [#SahilGehlot](http://twitter.com/search?q=%23SahilGehlot) | N/A |
+| 50 | [#indiancricket](http://twitter.com/search?q=%23indiancricket) | N/A |
 
 
 
