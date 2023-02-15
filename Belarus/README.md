@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-15 17:17:33 UTC`
+📆 Last Updated: `2023-02-15 18:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,26 +21,24 @@ This is top 50 for Belarus
 | 4 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
 | 5 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
 | 6 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
-| 7 | [рианны](http://twitter.com/search?q=%d1%80%d0%b8%d0%b0%d0%bd%d0%bd%d1%8b) | N/A |
-| 8 | [#dota2](http://twitter.com/search?q=%23dota2) | N/A |
-| 9 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 10 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 11 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 12 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 13 | [Республики Беларусь](http://twitter.com/search?q=%d0%a0%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 14 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
-| 15 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 16 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 17 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 18 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 19 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 20 | [#TSLA](http://twitter.com/search?q=%23TSLA) | N/A |
-| 21 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 22 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 23 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
-| 24 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 25 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
-| 26 | [#supportarmiehammer](http://twitter.com/search?q=%23supportarmiehammer) | N/A |
+| 7 | [Рианны](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b0%d0%bd%d0%bd%d1%8b) | N/A |
+| 8 | [Беларусь](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 9 | [#dota2](http://twitter.com/search?q=%23dota2) | N/A |
+| 10 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 11 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 12 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 13 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
+| 14 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 15 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 16 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 17 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | N/A |
+| 18 | [#TSLA](http://twitter.com/search?q=%23TSLA) | N/A |
+| 19 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 20 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 21 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
+| 22 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 23 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 24 | [#supportarmiehammer](http://twitter.com/search?q=%23supportarmiehammer) | N/A |
 
 
 

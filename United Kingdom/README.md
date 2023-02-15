@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-15 17:17:41 UTC`
+📆 Last Updated: `2023-02-15 18:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 2 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 3 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 4 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 5 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 6 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 7 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 8 | [#RedDwarf35](http://twitter.com/search?q=%23RedDwarf35) | N/A |
-| 9 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 10 | [#MovieCharactersInFilmOrSong](http://twitter.com/search?q=%23MovieCharactersInFilmOrSong) | N/A |
-| 11 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 12 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 13 | [#Goalscorer365](http://twitter.com/search?q=%23Goalscorer365) | N/A |
-| 14 | [Selles](http://twitter.com/search?q=Selles) | N/A |
-| 15 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 16 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 17 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 18 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 19 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 20 | [FTSE](http://twitter.com/search?q=FTSE) | N/A |
-| 21 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 3 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 4 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 5 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 6 | [#RedDwarf35](http://twitter.com/search?q=%23RedDwarf35) | N/A |
+| 7 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 9 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 10 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 12 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 13 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 14 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 15 | [#Goalscorer365](http://twitter.com/search?q=%23Goalscorer365) | N/A |
+| 16 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 17 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 18 | [NIALLS](http://twitter.com/search?q=NIALLS) | N/A |
+| 19 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 21 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
 | 22 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 23 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 24 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 25 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 26 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 27 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 28 | [Brush](http://twitter.com/search?q=Brush) | N/A |
-| 29 | [Ncuti](http://twitter.com/search?q=Ncuti) | N/A |
-| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 31 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 32 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 33 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 34 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 35 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 36 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 37 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 38 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 39 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 40 | [Peston](http://twitter.com/search?q=Peston) | N/A |
-| 41 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 42 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
-| 43 | [Ian Blackford](http://twitter.com/search?q=Ian+Blackford) | N/A |
-| 44 | [Nippy](http://twitter.com/search?q=Nippy) | N/A |
+| 23 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 24 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 25 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 26 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 27 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 28 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 29 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 30 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
+| 31 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 32 | [Cherry](http://twitter.com/search?q=Cherry) | N/A |
+| 33 | [Brush](http://twitter.com/search?q=Brush) | N/A |
+| 34 | [Arsenal v Man City](http://twitter.com/search?q=Arsenal+v+Man+City) | N/A |
+| 35 | [FTSE](http://twitter.com/search?q=FTSE) | N/A |
+| 36 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 37 | [Horizon Forbidden West](http://twitter.com/search?q=Horizon+Forbidden+West) | N/A |
+| 38 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 39 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 40 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 41 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 42 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
+| 43 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
+| 44 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
 | 45 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
-| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 47 | [Sarwar](http://twitter.com/search?q=Sarwar) | N/A |
-| 48 | [Glenn Campbell](http://twitter.com/search?q=Glenn+Campbell) | N/A |
-| 49 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
-| 50 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 46 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
+| 47 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 48 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 49 | [Crete](http://twitter.com/search?q=Crete) | N/A |
+| 50 | [Peston](http://twitter.com/search?q=Peston) | N/A |
 
 
 

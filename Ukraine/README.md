@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-15 17:17:41 UTC`
+📆 Last Updated: `2023-02-15 18:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ukraine
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay2023](http://twitter.com/search?q=%23ValentinesDay2023) | N/A |
-| 2 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
-| 3 | [#connected2023](http://twitter.com/search?q=%23connected2023) | N/A |
-| 4 | [Pokrovsk](http://twitter.com/search?q=Pokrovsk) | N/A |
-| 5 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 6 | [10 $APT](http://twitter.com/search?q=10+%24APT) | N/A |
-| 7 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 8 | [святого валентина](http://twitter.com/search?q=%d1%81%d0%b2%d1%8f%d1%82%d0%be%d0%b3%d0%be+%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 9 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 10 | [чикатило](http://twitter.com/search?q=%d1%87%d0%b8%d0%ba%d0%b0%d1%82%d0%b8%d0%bb%d0%be) | N/A |
-| 11 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 12 | [#войнасукраиной](http://twitter.com/search?q=%23%d0%b2%d0%be%d0%b9%d0%bd%d0%b0%d1%81%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
-| 13 | [#Ramstein](http://twitter.com/search?q=%23Ramstein) | N/A |
-| 14 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 15 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 16 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 2 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 3 | [Pokrovsk](http://twitter.com/search?q=Pokrovsk) | N/A |
+| 4 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 5 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
+| 6 | [#connected2023](http://twitter.com/search?q=%23connected2023) | N/A |
+| 7 | [10 $APT](http://twitter.com/search?q=10+%24APT) | N/A |
+| 8 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 9 | [святого валентина](http://twitter.com/search?q=%d1%81%d0%b2%d1%8f%d1%82%d0%be%d0%b3%d0%be+%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 10 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 11 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 12 | [чикатило](http://twitter.com/search?q=%d1%87%d0%b8%d0%ba%d0%b0%d1%82%d0%b8%d0%bb%d0%be) | N/A |
+| 13 | [#BoycottRussianSport](http://twitter.com/search?q=%23BoycottRussianSport) | N/A |
+| 14 | [#войнасукраиной](http://twitter.com/search?q=%23%d0%b2%d0%be%d0%b9%d0%bd%d0%b0%d1%81%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
+| 15 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 16 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
 | 17 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 19 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
-| 20 | [Походу](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b4%d1%83) | N/A |
-| 21 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 22 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
-| 23 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 24 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 25 | [Фейк](http://twitter.com/search?q=%d0%a4%d0%b5%d0%b9%d0%ba) | N/A |
+| 18 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 19 | [Фейк](http://twitter.com/search?q=%d0%a4%d0%b5%d0%b9%d0%ba) | N/A |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 21 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
+| 22 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 23 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
+| 24 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 25 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 26 | [мордор](http://twitter.com/search?q=%d0%bc%d0%be%d1%80%d0%b4%d0%be%d1%80) | N/A |
-| 27 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 28 | [Soviet Union](http://twitter.com/search?q=Soviet+Union) | N/A |
-| 29 | [ВС РФ](http://twitter.com/search?q=%d0%92%d0%a1+%d0%a0%d0%a4) | N/A |
-| 30 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 31 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 32 | [Киля](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bb%d1%8f) | N/A |
-| 33 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 27 | [Походу](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b4%d1%83) | N/A |
+| 28 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 29 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 30 | [Soviet Union](http://twitter.com/search?q=Soviet+Union) | N/A |
+| 31 | [ВС РФ](http://twitter.com/search?q=%d0%92%d0%a1+%d0%a0%d0%a4) | N/A |
+| 32 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 33 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
 | 34 | [Рамштайн](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bc%d1%88%d1%82%d0%b0%d0%b9%d0%bd) | N/A |
-| 35 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 36 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | N/A |
-| 37 | [Заздрю](http://twitter.com/search?q=%d0%97%d0%b0%d0%b7%d0%b4%d1%80%d1%8e) | N/A |
-| 38 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
-| 39 | [яшин](http://twitter.com/search?q=%d1%8f%d1%88%d0%b8%d0%bd) | N/A |
-| 40 | [В Москве](http://twitter.com/search?q=%d0%92+%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 41 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 42 | [Donetsk Oblast](http://twitter.com/search?q=Donetsk+Oblast) | N/A |
-| 43 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 44 | [Америки](http://twitter.com/search?q=%d0%90%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b8) | N/A |
-| 45 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 46 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 47 | [Вагнера](http://twitter.com/search?q=%d0%92%d0%b0%d0%b3%d0%bd%d0%b5%d1%80%d0%b0) | N/A |
-| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 49 | [Одессы](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%8b) | N/A |
-| 50 | [Буче](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d0%b5) | N/A |
+| 35 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 36 | [Киля](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bb%d1%8f) | N/A |
+| 37 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 38 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | N/A |
+| 39 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 40 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 41 | [Заздрю](http://twitter.com/search?q=%d0%97%d0%b0%d0%b7%d0%b4%d1%80%d1%8e) | N/A |
+| 42 | [яшин](http://twitter.com/search?q=%d1%8f%d1%88%d0%b8%d0%bd) | N/A |
+| 43 | [В Москве](http://twitter.com/search?q=%d0%92+%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 44 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 45 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 46 | [Donetsk Oblast](http://twitter.com/search?q=Donetsk+Oblast) | N/A |
+| 47 | [Америки](http://twitter.com/search?q=%d0%90%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b8) | N/A |
+| 48 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 49 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 50 | [Одессы](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%8b) | N/A |
 
 
 

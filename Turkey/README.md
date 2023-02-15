@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-15 17:17:41 UTC`
+📆 Last Updated: `2023-02-15 18:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Turkey
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
-| 2 | [#AllahuEkber](http://twitter.com/search?q=%23AllahuEkber) | N/A |
-| 3 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 4 | [İş Bankası](http://twitter.com/search?q=%c4%b0%c5%9f+Bankas%c4%b1) | N/A |
-| 5 | [#İyileşmekiçinyüzyüzeeğitim](http://twitter.com/search?q=%23%c4%b0yile%c5%9fmeki%c3%a7iny%c3%bczy%c3%bczee%c4%9fitim) | N/A |
-| 6 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 7 | [#ortakyayın](http://twitter.com/search?q=%23ortakyay%c4%b1n) | N/A |
-| 8 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 9 | [#EgitimSinifta](http://twitter.com/search?q=%23EgitimSinifta) | N/A |
-| 10 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
-| 11 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 12 | [Vural Savaş](http://twitter.com/search?q=Vural+Sava%c5%9f) | N/A |
-| 13 | [Dayanışma Destanı](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Destan%c4%b1) | N/A |
-| 14 | [10 Milyar](http://twitter.com/search?q=10+Milyar) | N/A |
-| 15 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
-| 16 | [Haydi Türkiye](http://twitter.com/search?q=Haydi+T%c3%bcrkiye) | N/A |
-| 17 | [Hayat](http://twitter.com/search?q=Hayat) | N/A |
-| 18 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
-| 19 | [İlhan Mansız](http://twitter.com/search?q=%c4%b0lhan+Mans%c4%b1z) | N/A |
-| 20 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 21 | [Kampanyası](http://twitter.com/search?q=Kampanyas%c4%b1) | N/A |
-| 22 | [AFAD'a 1](http://twitter.com/search?q=AFAD%27a+1) | N/A |
-| 23 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 24 | [Ölenlerin](http://twitter.com/search?q=%c3%96lenlerin) | N/A |
-| 25 | [Erciyes Dağı](http://twitter.com/search?q=Erciyes+Da%c4%9f%c4%b1) | N/A |
-| 26 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
-| 27 | [Gebermiş](http://twitter.com/search?q=Gebermi%c5%9f) | N/A |
-| 28 | [Borç](http://twitter.com/search?q=Bor%c3%a7) | N/A |
-| 29 | [Vitaminsiz Goebbels](http://twitter.com/search?q=Vitaminsiz+Goebbels) | N/A |
-| 30 | [Rize](http://twitter.com/search?q=Rize) | N/A |
-| 31 | [Bireysel](http://twitter.com/search?q=Bireysel) | N/A |
-| 32 | [Ankara Büyükşehir Belediyesi](http://twitter.com/search?q=Ankara+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
-| 33 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
-| 34 | [Filiz](http://twitter.com/search?q=Filiz) | N/A |
-| 35 | [Doğa](http://twitter.com/search?q=Do%c4%9fa) | N/A |
-| 36 | [Cemile Kekeç](http://twitter.com/search?q=Cemile+Keke%c3%a7) | N/A |
-| 37 | [Metin Doruklu](http://twitter.com/search?q=Metin+Doruklu) | N/A |
-| 38 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
-| 39 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 40 | [Babası](http://twitter.com/search?q=Babas%c4%b1) | N/A |
-| 41 | [Depremin 10](http://twitter.com/search?q=Depremin+10) | N/A |
-| 42 | [Ezgi](http://twitter.com/search?q=Ezgi) | N/A |
-| 43 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
-| 44 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 45 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 46 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
-| 47 | [Josef de Souza](http://twitter.com/search?q=Josef+de+Souza) | N/A |
-| 48 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 49 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 50 | [#üniversitedenvazgeçmiyoruz](http://twitter.com/search?q=%23%c3%bcniversitedenvazge%c3%a7miyoruz) | N/A |
+| 2 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 3 | [#ortakyayın](http://twitter.com/search?q=%23ortakyay%c4%b1n) | N/A |
+| 4 | [Murat Yıldırım](http://twitter.com/search?q=Murat+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 5 | [YapıkayıtYasası Düzenlemesi](http://twitter.com/search?q=Yap%c4%b1kay%c4%b1tYasas%c4%b1+D%c3%bczenlemesi) | N/A |
+| 6 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
+| 7 | [Vakıfbank 12](http://twitter.com/search?q=Vak%c4%b1fbank+12) | N/A |
+| 8 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
+| 9 | [Haydi Türkiye](http://twitter.com/search?q=Haydi+T%c3%bcrkiye) | N/A |
+| 10 | [Pelin Çift](http://twitter.com/search?q=Pelin+%c3%87ift) | N/A |
+| 11 | [Ziraat Bankası](http://twitter.com/search?q=Ziraat+Bankas%c4%b1) | N/A |
+| 12 | [#İyileşmekiçinyüzyüzeeğitim](http://twitter.com/search?q=%23%c4%b0yile%c5%9fmeki%c3%a7iny%c3%bczy%c3%bczee%c4%9fitim) | N/A |
+| 13 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
+| 14 | [Halkbank 7](http://twitter.com/search?q=Halkbank+7) | N/A |
+| 15 | [#AllahuEkber](http://twitter.com/search?q=%23AllahuEkber) | N/A |
+| 16 | [Zorlu](http://twitter.com/search?q=Zorlu) | N/A |
+| 17 | [Turkcell 3.5](http://twitter.com/search?q=Turkcell+3.5) | N/A |
+| 18 | [Esra Erol](http://twitter.com/search?q=Esra+Erol) | N/A |
+| 19 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 20 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 21 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
+| 22 | [TMSF 2](http://twitter.com/search?q=TMSF+2) | N/A |
+| 23 | [Silinen](http://twitter.com/search?q=Silinen) | N/A |
+| 24 | [Bağış](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 25 | [Unutmayalım](http://twitter.com/search?q=Unutmayal%c4%b1m) | N/A |
+| 26 | [Borsa İstanbul 2](http://twitter.com/search?q=Borsa+%c4%b0stanbul+2) | N/A |
+| 27 | [Burak Özçivit](http://twitter.com/search?q=Burak+%c3%96z%c3%a7ivit) | N/A |
+| 28 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 29 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
+| 30 | [10 Milyon](http://twitter.com/search?q=10+Milyon) | N/A |
+| 31 | [Alperen Ocakları](http://twitter.com/search?q=Alperen+Ocaklar%c4%b1) | N/A |
+| 32 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
+| 33 | [Dayanışma Destanı](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Destan%c4%b1) | N/A |
+| 34 | [Vural Savaş](http://twitter.com/search?q=Vural+Sava%c5%9f) | N/A |
+| 35 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
+| 36 | [AFAD'a 1](http://twitter.com/search?q=AFAD%27a+1) | N/A |
+| 37 | [İlhan Mansız](http://twitter.com/search?q=%c4%b0lhan+Mans%c4%b1z) | N/A |
+| 38 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
+| 39 | [Hayat](http://twitter.com/search?q=Hayat) | N/A |
+| 40 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 41 | [Kampanyası](http://twitter.com/search?q=Kampanyas%c4%b1) | N/A |
+| 42 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
+| 43 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
+| 44 | [Ölenlerin](http://twitter.com/search?q=%c3%96lenlerin) | N/A |
+| 45 | [Borç](http://twitter.com/search?q=Bor%c3%a7) | N/A |
+| 46 | [Kürk](http://twitter.com/search?q=K%c3%bcrk) | N/A |
+| 47 | [Gebermiş](http://twitter.com/search?q=Gebermi%c5%9f) | N/A |
+| 48 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
+| 49 | [Rize](http://twitter.com/search?q=Rize) | N/A |
+| 50 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
 
 
 

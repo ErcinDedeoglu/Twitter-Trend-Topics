@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-15 17:16:50 UTC`
+📆 Last Updated: `2023-02-15 18:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [France](</France>)
 | 9 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 13 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 15 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 16 | [MEDEF](http://twitter.com/search?q=MEDEF) | N/A |
-| 17 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
-| 18 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 19 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 20 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 21 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 22 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 23 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
-| 24 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 13 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 14 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 15 | [THE SHOW](http://twitter.com/search?q=THE+SHOW) | N/A |
+| 16 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
+| 17 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 18 | [MEDEF](http://twitter.com/search?q=MEDEF) | N/A |
+| 19 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
+| 20 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
+| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 22 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 23 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 24 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
 | 25 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 26 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
 | 27 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
 | 28 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 29 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 30 | [L'article 2](http://twitter.com/search?q=L%27article+2) | N/A |
-| 31 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 32 | [Panier](http://twitter.com/search?q=Panier) | N/A |
-| 33 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 34 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 35 | [Jacques Martin](http://twitter.com/search?q=Jacques+Martin) | N/A |
-| 36 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 37 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 29 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 30 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [The Quarry](http://twitter.com/search?q=The+Quarry) | N/A |
+| 33 | [L'article 2](http://twitter.com/search?q=L%27article+2) | N/A |
+| 34 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
+| 35 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 36 | [Panier](http://twitter.com/search?q=Panier) | N/A |
+| 37 | [Jacques Martin](http://twitter.com/search?q=Jacques+Martin) | N/A |
 | 38 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 39 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 40 | [Xavier Niel](http://twitter.com/search?q=Xavier+Niel) | N/A |
+| 39 | [Xavier Niel](http://twitter.com/search?q=Xavier+Niel) | N/A |
+| 40 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
 | 41 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 42 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 42 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 43 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
-| 44 | [L'ISF](http://twitter.com/search?q=L%27ISF) | N/A |
-| 45 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
-| 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 47 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
-| 48 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 49 | [L'index](http://twitter.com/search?q=L%27index) | N/A |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
+| 46 | [L'index](http://twitter.com/search?q=L%27index) | N/A |
+| 47 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 48 | [L'ISF](http://twitter.com/search?q=L%27ISF) | N/A |
+| 49 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
 
 
 

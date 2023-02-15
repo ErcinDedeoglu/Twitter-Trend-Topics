@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-15 17:17:00 UTC`
+📆 Last Updated: `2023-02-15 18:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Australia](</Australia>)
 | 10 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
 | 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 12 | [Ablett](http://twitter.com/search?q=Ablett) | N/A |
-| 13 | [Paige](http://twitter.com/search?q=Paige) | N/A |
-| 14 | [jane hume](http://twitter.com/search?q=jane+hume) | N/A |
-| 15 | [Cousins](http://twitter.com/search?q=Cousins) | N/A |
-| 16 | [goodes](http://twitter.com/search?q=goodes) | N/A |
-| 17 | [#Estimates](http://twitter.com/search?q=%23Estimates) | N/A |
-| 18 | [#TheDrum](http://twitter.com/search?q=%23TheDrum) | N/A |
-| 19 | [Poulos](http://twitter.com/search?q=Poulos) | N/A |
-| 20 | [hird](http://twitter.com/search?q=hird) | N/A |
-| 21 | [peter bol](http://twitter.com/search?q=peter+bol) | N/A |
-| 22 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 23 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 24 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 25 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
+| 13 | [jane hume](http://twitter.com/search?q=jane+hume) | N/A |
+| 14 | [Cousins](http://twitter.com/search?q=Cousins) | N/A |
+| 15 | [goodes](http://twitter.com/search?q=goodes) | N/A |
+| 16 | [#Estimates](http://twitter.com/search?q=%23Estimates) | N/A |
+| 17 | [#TheDrum](http://twitter.com/search?q=%23TheDrum) | N/A |
+| 18 | [Poulos](http://twitter.com/search?q=Poulos) | N/A |
+| 19 | [hird](http://twitter.com/search?q=hird) | N/A |
+| 20 | [peter bol](http://twitter.com/search?q=peter+bol) | N/A |
+| 21 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 22 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 23 | [Paige](http://twitter.com/search?q=Paige) | N/A |
+| 24 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
+| 25 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 26 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 27 | [Buckley](http://twitter.com/search?q=Buckley) | N/A |
-| 28 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
-| 29 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 30 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 31 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
-| 32 | [toby greene](http://twitter.com/search?q=toby+greene) | N/A |
-| 33 | [crosby textor](http://twitter.com/search?q=crosby+textor) | N/A |
+| 27 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
+| 28 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
+| 31 | [toby greene](http://twitter.com/search?q=toby+greene) | N/A |
+| 32 | [crosby textor](http://twitter.com/search?q=crosby+textor) | N/A |
+| 33 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 34 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 35 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 36 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
-| 37 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 38 | [RBA Governor](http://twitter.com/search?q=RBA+Governor) | N/A |
-| 39 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 40 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 41 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 42 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 37 | [Buckley](http://twitter.com/search?q=Buckley) | N/A |
+| 38 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 39 | [RBA Governor](http://twitter.com/search?q=RBA+Governor) | N/A |
+| 40 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 41 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 42 | [Greens](http://twitter.com/search?q=Greens) | N/A |
 | 43 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 44 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
 | 45 | [canavan](http://twitter.com/search?q=canavan) | N/A |
-| 46 | [john laws](http://twitter.com/search?q=john+laws) | N/A |
-| 47 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 48 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 49 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 50 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 46 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 47 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 48 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 49 | [commonwealth bank](http://twitter.com/search?q=commonwealth+bank) | N/A |
+| 50 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
 
 
 

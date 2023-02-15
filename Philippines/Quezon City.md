@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-15 17:17:07 UTC`
+📆 Last Updated: `2023-02-15 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
-| 2 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
-| 3 | [#JonaxxACTYAKab48](http://twitter.com/search?q=%23JonaxxACTYAKab48) | N/A |
-| 4 | [Listen To JoshCullen](http://twitter.com/search?q=Listen+To+JoshCullen) | N/A |
-| 5 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 6 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
-| 7 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 8 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 9 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
-| 10 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
-| 11 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 12 | [Park Jeongwoo](http://twitter.com/search?q=Park+Jeongwoo) | N/A |
-| 13 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
-| 14 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 15 | [David](http://twitter.com/search?q=David) | N/A |
-| 16 | [#RORA](http://twitter.com/search?q=%23RORA) | N/A |
-| 17 | [#HORI7ONonPIE](http://twitter.com/search?q=%23HORI7ONonPIE) | N/A |
-| 18 | [#DLMysteriousWoman](http://twitter.com/search?q=%23DLMysteriousWoman) | N/A |
-| 19 | [#TenLittleMistresses](http://twitter.com/search?q=%23TenLittleMistresses) | N/A |
-| 20 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 21 | [#MCIAmaNamin](http://twitter.com/search?q=%23MCIAmaNamin) | N/A |
-| 22 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 23 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
-| 24 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 25 | [#NadineLustreYT](http://twitter.com/search?q=%23NadineLustreYT) | N/A |
-| 26 | [#conquest2023](http://twitter.com/search?q=%23conquest2023) | N/A |
-| 27 | [#FPJBQBuhayQuiapo](http://twitter.com/search?q=%23FPJBQBuhayQuiapo) | N/A |
-| 28 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 29 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 30 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
-| 31 | [#BOYCOTTEBxGMA707](http://twitter.com/search?q=%23BOYCOTTEBxGMA707) | N/A |
-| 32 | [#HORI7ON_JEROMY](http://twitter.com/search?q=%23HORI7ON_JEROMY) | N/A |
-| 33 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 34 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
-| 35 | [#MNL48](http://twitter.com/search?q=%23MNL48) | N/A |
+| 1 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
+| 2 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
+| 3 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 4 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
+| 5 | [#JonaxxACTYAKab48](http://twitter.com/search?q=%23JonaxxACTYAKab48) | N/A |
+| 6 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
+| 7 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 8 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
+| 9 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 10 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
+| 11 | [Park Jeongwoo](http://twitter.com/search?q=Park+Jeongwoo) | N/A |
+| 12 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 13 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 14 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
+| 15 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 16 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
+| 17 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 18 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
+| 19 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 20 | [best time 1m views](http://twitter.com/search?q=best+time+1m+views) | N/A |
+| 21 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 22 | [Hearts Day](http://twitter.com/search?q=Hearts+Day) | N/A |
+| 23 | [Chiquita](http://twitter.com/search?q=Chiquita) | N/A |
+| 24 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 25 | [SA SUSUNOD NA LANG](http://twitter.com/search?q=SA+SUSUNOD+NA+LANG) | N/A |
+| 26 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 28 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 29 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
+| 30 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 31 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
+| 32 | [tiya isabel](http://twitter.com/search?q=tiya+isabel) | N/A |
+| 33 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
+| 34 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 35 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 36 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 37 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 38 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
+| 39 | [g22 anniversary comeback](http://twitter.com/search?q=g22+anniversary+comeback) | N/A |
+| 40 | [Ant-Man and the Wasp](http://twitter.com/search?q=Ant-Man+and+the+Wasp) | N/A |
+| 41 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 42 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 43 | [UPCAT](http://twitter.com/search?q=UPCAT) | N/A |
+| 44 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 45 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 46 | [FRANSETH OurChiaraAndNico](http://twitter.com/search?q=FRANSETH+OurChiaraAndNico) | N/A |
+| 47 | [pienalo ka marcus](http://twitter.com/search?q=pienalo+ka+marcus) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 50 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
 
 
 

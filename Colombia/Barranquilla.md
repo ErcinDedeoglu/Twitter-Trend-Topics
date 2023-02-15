@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-15 17:16:44 UTC`
+📆 Last Updated: `2023-02-15 18:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [#ElBalconDePetroEs](http://twitter.com/search?q=%23ElBalconDePetroEs) | N/A |
-| 3 | [#LeMarchoA](http://twitter.com/search?q=%23LeMarchoA) | N/A |
-| 4 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
-| 5 | [Eticket](http://twitter.com/search?q=Eticket) | N/A |
-| 6 | [#marcha15f](http://twitter.com/search?q=%23marcha15f) | N/A |
-| 7 | [#ReformarLaSaludEs](http://twitter.com/search?q=%23ReformarLaSaludEs) | N/A |
-| 8 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 9 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 10 | [Limpias](http://twitter.com/search?q=Limpias) | N/A |
-| 11 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 12 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 13 | [Plaza de Bolívar](http://twitter.com/search?q=Plaza+de+Bol%c3%advar) | N/A |
-| 14 | [Adres](http://twitter.com/search?q=Adres) | N/A |
-| 15 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 16 | [Metaverso](http://twitter.com/search?q=Metaverso) | N/A |
-| 17 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 18 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
-| 19 | [San Ignacio](http://twitter.com/search?q=San+Ignacio) | N/A |
-| 20 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
-| 23 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [HOY 14](http://twitter.com/search?q=HOY+14) | N/A |
-| 26 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 27 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 28 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 29 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 30 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 31 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
-| 32 | [Elecciones](http://twitter.com/search?q=Elecciones) | N/A |
-| 33 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 34 | [Diomar García](http://twitter.com/search?q=Diomar+Garc%c3%ada) | N/A |
-| 35 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 36 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
-| 37 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
-| 38 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 39 | [Ley Estatutaria](http://twitter.com/search?q=Ley+Estatutaria) | N/A |
-| 40 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 41 | [Santiago Buitrago](http://twitter.com/search?q=Santiago+Buitrago) | N/A |
-| 42 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 43 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 44 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 45 | [Nueva EPS](http://twitter.com/search?q=Nueva+EPS) | N/A |
-| 46 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
-| 47 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
-| 48 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 49 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 50 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 1 | [#marcha15f](http://twitter.com/search?q=%23marcha15f) | N/A |
+| 2 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 3 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
+| 4 | [Eticket](http://twitter.com/search?q=Eticket) | N/A |
+| 5 | [#ElBalconDePetroEs](http://twitter.com/search?q=%23ElBalconDePetroEs) | N/A |
+| 6 | [Fuera Petro](http://twitter.com/search?q=Fuera+Petro) | N/A |
+| 7 | [#ProtestoPor](http://twitter.com/search?q=%23ProtestoPor) | N/A |
+| 8 | [#15FebParoNal](http://twitter.com/search?q=%2315FebParoNal) | N/A |
+| 9 | [Limpias](http://twitter.com/search?q=Limpias) | N/A |
+| 10 | [Elecciones](http://twitter.com/search?q=Elecciones) | N/A |
+| 11 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 12 | [Plaza de Bolívar](http://twitter.com/search?q=Plaza+de+Bol%c3%advar) | N/A |
+| 13 | [Trabajen](http://twitter.com/search?q=Trabajen) | N/A |
+| 14 | [Metaverso](http://twitter.com/search?q=Metaverso) | N/A |
+| 15 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
+| 16 | [Diomar García](http://twitter.com/search?q=Diomar+Garc%c3%ada) | N/A |
+| 17 | [El Uribismo](http://twitter.com/search?q=El+Uribismo) | N/A |
+| 18 | [Dimayor](http://twitter.com/search?q=Dimayor) | N/A |
+| 19 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 20 | [Partido Conservador](http://twitter.com/search?q=Partido+Conservador) | N/A |
+| 21 | [Puros](http://twitter.com/search?q=Puros) | N/A |
+| 22 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 23 | [San Ignacio](http://twitter.com/search?q=San+Ignacio) | N/A |
+| 24 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
+| 25 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 26 | [Aval](http://twitter.com/search?q=Aval) | N/A |
+| 27 | [Firme](http://twitter.com/search?q=Firme) | N/A |
+| 28 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 29 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 30 | [#NoMasPetro](http://twitter.com/search?q=%23NoMasPetro) | N/A |
+| 31 | [#RBDenMedellin](http://twitter.com/search?q=%23RBDenMedellin) | N/A |
+| 32 | [#YoMarchoEl15F](http://twitter.com/search?q=%23YoMarchoEl15F) | N/A |
+| 33 | [#15Febrero](http://twitter.com/search?q=%2315Febrero) | N/A |
+| 34 | [#15FPorLaLibertad](http://twitter.com/search?q=%2315FPorLaLibertad) | N/A |
+| 35 | [#LeMarchoA](http://twitter.com/search?q=%23LeMarchoA) | N/A |
+| 36 | [#yonoparoyoproduzco](http://twitter.com/search?q=%23yonoparoyoproduzco) | N/A |
+| 37 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 38 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 39 | [#PetroDictador](http://twitter.com/search?q=%23PetroDictador) | N/A |
+| 40 | [#rebelde](http://twitter.com/search?q=%23rebelde) | N/A |
+| 41 | [#RBDCOLOMBIA](http://twitter.com/search?q=%23RBDCOLOMBIA) | N/A |
+| 42 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 43 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
+| 44 | [#NoALaReformaALaSalud](http://twitter.com/search?q=%23NoALaReformaALaSalud) | N/A |
 
 
 

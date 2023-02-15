@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-15 17:16:59 UTC`
+📆 Last Updated: `2023-02-15 18:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
-| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 3 | [#CutiePieUncutxiQIYI](http://twitter.com/search?q=%23CutiePieUncutxiQIYI) | N/A |
-| 4 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
-| 5 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
-| 6 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
-| 7 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 8 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
-| 9 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
-| 10 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 11 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [PEAK TIME](http://twitter.com/search?q=PEAK+TIME) | N/A |
-| 14 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
+| 1 | [#SuperHoldingBUMN](http://twitter.com/search?q=%23SuperHoldingBUMN) | N/A |
+| 2 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
+| 3 | [mending prabowo aja](http://twitter.com/search?q=mending+prabowo+aja) | N/A |
+| 4 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
+| 5 | [indonesia maju sejahtera](http://twitter.com/search?q=indonesia+maju+sejahtera) | N/A |
+| 6 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 7 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
+| 8 | [#TheOnlyOneHPS](http://twitter.com/search?q=%23TheOnlyOneHPS) | N/A |
+| 9 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 10 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
+| 11 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 12 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 13 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 14 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
 | 15 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 16 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
-| 17 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 18 | [Wahyu](http://twitter.com/search?q=Wahyu) | N/A |
-| 19 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 20 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
-| 21 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 22 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
-| 23 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 24 | [Pilot](http://twitter.com/search?q=Pilot) | N/A |
-| 25 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 26 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 27 | [Balikin](http://twitter.com/search?q=Balikin) | N/A |
-| 28 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 29 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 30 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 31 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
-| 32 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 33 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 34 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 35 | [#SuperHoldingBUMN](http://twitter.com/search?q=%23SuperHoldingBUMN) | N/A |
-| 36 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 37 | [#NYFWdahyun](http://twitter.com/search?q=%23NYFWdahyun) | N/A |
-| 38 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 39 | [#BNIxNCT127](http://twitter.com/search?q=%23BNIxNCT127) | N/A |
-| 40 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 41 | [#O_D19](http://twitter.com/search?q=%23O_D19) | N/A |
-| 42 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
-| 43 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
-| 44 | [#KristMeValentine](http://twitter.com/search?q=%23KristMeValentine) | N/A |
-| 45 | [#KimSooHyun](http://twitter.com/search?q=%23KimSooHyun) | N/A |
-| 46 | [#카이버블](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%b2%84%eb%b8%94) | N/A |
-| 47 | [#OPPOPortraitofLoveXLazada](http://twitter.com/search?q=%23OPPOPortraitofLoveXLazada) | N/A |
-| 48 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 49 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 16 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 17 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 18 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 19 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 20 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
+| 21 | [ceo bumn](http://twitter.com/search?q=ceo+bumn) | N/A |
+| 22 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
+| 23 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 24 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 25 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
+| 26 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 27 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
+| 28 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
+| 29 | [DUIT MANA DUIT](http://twitter.com/search?q=DUIT+MANA+DUIT) | N/A |
+| 30 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
+| 31 | [Icad](http://twitter.com/search?q=Icad) | N/A |
+| 32 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 33 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 34 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
+| 35 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 36 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
+| 37 | [kita umat yang satu](http://twitter.com/search?q=kita+umat+yang+satu) | N/A |
+| 38 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
+| 39 | [Tuhan](http://twitter.com/search?q=Tuhan) | N/A |
+| 40 | [1 Tahun 6 Bulan](http://twitter.com/search?q=1+Tahun+6+Bulan) | N/A |
+| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 42 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 43 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 44 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 45 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 46 | [Yosua](http://twitter.com/search?q=Yosua) | N/A |
+| 47 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 48 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 49 | [Sooyoung](http://twitter.com/search?q=Sooyoung) | N/A |
 
 
 

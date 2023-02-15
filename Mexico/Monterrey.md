@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-15 17:16:41 UTC`
+📆 Last Updated: `2023-02-15 18:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,44 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 2 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 3 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 4 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 6 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 7 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 8 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [#TelediarioMatutino](http://twitter.com/search?q=%23TelediarioMatutino) | N/A |
+| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 4 | [#Aeromar](http://twitter.com/search?q=%23Aeromar) | N/A |
+| 5 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 6 | [#DíaDeLaMujerMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaMujerMexicana) | N/A |
+| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 8 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
+| 9 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
 | 10 | [#PoderosoSinControl](http://twitter.com/search?q=%23PoderosoSinControl) | N/A |
-| 11 | [#SS9inMexicoDay1](http://twitter.com/search?q=%23SS9inMexicoDay1) | N/A |
-| 12 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 13 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
-| 14 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 16 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 17 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 18 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
-| 19 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 20 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 21 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
-| 22 | [ALFREDO OLIVAS](http://twitter.com/search?q=ALFREDO+OLIVAS) | N/A |
-| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 26 | [HOY 14](http://twitter.com/search?q=HOY+14) | N/A |
-| 27 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 28 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
-| 29 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 30 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
-| 31 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 32 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 33 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
-| 34 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 35 | [Martha Bárcena](http://twitter.com/search?q=Martha+B%c3%a1rcena) | N/A |
-| 36 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 37 | [Maruxa Vilalta](http://twitter.com/search?q=Maruxa+Vilalta) | N/A |
-| 38 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 39 | [ZZ Top](http://twitter.com/search?q=ZZ+Top) | N/A |
-| 40 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 41 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
-| 42 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 43 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
-| 44 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
-| 45 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 46 | [Economía Moral](http://twitter.com/search?q=Econom%c3%ada+Moral) | N/A |
-| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 48 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 49 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 50 | [Galileo Galilei](http://twitter.com/search?q=Galileo+Galilei) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 13 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
+| 14 | [Hoy 15](http://twitter.com/search?q=Hoy+15) | N/A |
+| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 16 | [Maruxa Vilalta](http://twitter.com/search?q=Maruxa+Vilalta) | N/A |
+| 17 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 20 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 21 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
+| 22 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 23 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 24 | [CHASPM](http://twitter.com/search?q=CHASPM) | N/A |
+| 25 | [#ChingueASuMadreLopezObrador](http://twitter.com/search?q=%23ChingueASuMadreLopezObrador) | N/A |
+| 26 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
+| 27 | [#KornoSacaLaReta](http://twitter.com/search?q=%23KornoSacaLaReta) | N/A |
+| 28 | [#15defebrero](http://twitter.com/search?q=%2315defebrero) | N/A |
+| 29 | [#NYFWdahyun](http://twitter.com/search?q=%23NYFWdahyun) | N/A |
+| 30 | [#AICM](http://twitter.com/search?q=%23AICM) | N/A |
+| 31 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 32 | [#AMLOElReyDelCash](http://twitter.com/search?q=%23AMLOElReyDelCash) | N/A |
+| 33 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 34 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 35 | [#SuperJuniorEnMexico](http://twitter.com/search?q=%23SuperJuniorEnMexico) | N/A |
+| 36 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 37 | [#SS9inMexicoDay1](http://twitter.com/search?q=%23SS9inMexicoDay1) | N/A |
+| 38 | [#SuperShow9inMexico](http://twitter.com/search?q=%23SuperShow9inMexico) | N/A |
+| 39 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-02-15 17:17:06 UTC`
+📆 Last Updated: `2023-02-15 18:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 5 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 6 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
 | 7 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 8 | [#O_D19](http://twitter.com/search?q=%23O_D19) | N/A |
-| 9 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
-| 10 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
-| 11 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 12 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
-| 13 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 14 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 15 | [#THEDREAMSHOW2_in_KL](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KL) | N/A |
-| 16 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 8 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 9 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 10 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 11 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 12 | [#MICHAELKORSxDAHYUN](http://twitter.com/search?q=%23MICHAELKORSxDAHYUN) | N/A |
+| 13 | [#THEDREAMSHOW2_in_KL](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KL) | N/A |
+| 14 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 15 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
+| 16 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
 | 17 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
 | 18 | [TNX FIRST COMEBACK](http://twitter.com/search?q=TNX+FIRST+COMEBACK) | N/A |
 | 19 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
-| 20 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 22 | [Petronas](http://twitter.com/search?q=Petronas) | N/A |
-| 23 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 24 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 25 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 26 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 27 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 28 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 29 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 31 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 32 | [Shindong](http://twitter.com/search?q=Shindong) | N/A |
-| 33 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 34 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 35 | [ptptn](http://twitter.com/search?q=ptptn) | N/A |
-| 36 | [KWSP](http://twitter.com/search?q=KWSP) | N/A |
-| 37 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 38 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 39 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
-| 40 | [Rafizi](http://twitter.com/search?q=Rafizi) | N/A |
-| 41 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 42 | [SUHO](http://twitter.com/search?q=SUHO) | N/A |
-| 43 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 44 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 45 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 20 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 21 | [Petronas](http://twitter.com/search?q=Petronas) | N/A |
+| 22 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 23 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 24 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 25 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 26 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 27 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 28 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 29 | [SUHO](http://twitter.com/search?q=SUHO) | N/A |
+| 30 | [tony montana](http://twitter.com/search?q=tony+montana) | N/A |
+| 31 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
+| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 33 | [Shindong](http://twitter.com/search?q=Shindong) | N/A |
+| 34 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 35 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 36 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
+| 37 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 38 | [Rafizi](http://twitter.com/search?q=Rafizi) | N/A |
+| 39 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 40 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 41 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 42 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 43 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 44 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 45 | [Maxis](http://twitter.com/search?q=Maxis) | N/A |
 | 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 47 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 48 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 49 | [Maxis](http://twitter.com/search?q=Maxis) | N/A |
-| 50 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 47 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
+| 48 | [HCWs](http://twitter.com/search?q=HCWs) | N/A |
+| 49 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 50 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
 
 
 
