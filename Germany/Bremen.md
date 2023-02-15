@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-15 00:29:21 UTC`
+📆 Last Updated: `2023-02-15 01:44:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 2 | [#maischberger](http://twitter.com/search?q=%23maischberger) | N/A |
-| 3 | [#AteezinBerlin](http://twitter.com/search?q=%23AteezinBerlin) | N/A |
-| 4 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 5 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 6 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 8 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 11 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 12 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 13 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 16 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
-| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 18 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 19 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 20 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 21 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 22 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 25 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 26 | [Arbeitsplätze](http://twitter.com/search?q=Arbeitspl%c3%a4tze) | N/A |
-| 27 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
-| 28 | [Klimakatastrophe](http://twitter.com/search?q=Klimakatastrophe) | N/A |
-| 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 30 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 31 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 32 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 33 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 34 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
-| 35 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 36 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
-| 37 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 38 | [#Zukunftszentrum](http://twitter.com/search?q=%23Zukunftszentrum) | N/A |
-| 39 | [#PARBAY](http://twitter.com/search?q=%23PARBAY) | N/A |
-| 40 | [#HerzanBord](http://twitter.com/search?q=%23HerzanBord) | N/A |
-| 41 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
-| 42 | [#ATEEZinEUROPE](http://twitter.com/search?q=%23ATEEZinEUROPE) | N/A |
-| 43 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 44 | [#einmalzahlung](http://twitter.com/search?q=%23einmalzahlung) | N/A |
-| 45 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
+| 1 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 2 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 3 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
+| 4 | [#maischberger](http://twitter.com/search?q=%23maischberger) | N/A |
+| 5 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 7 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 8 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 9 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 10 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 11 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 12 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 13 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 14 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 18 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 19 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 20 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 21 | [yunho](http://twitter.com/search?q=yunho) | N/A |
+| 22 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 23 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 25 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
+| 26 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 27 | [Varwick](http://twitter.com/search?q=Varwick) | N/A |
+| 28 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 29 | [panne in berlin](http://twitter.com/search?q=panne+in+berlin) | N/A |
+| 30 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 31 | [politik gegen das auto](http://twitter.com/search?q=politik+gegen+das+auto) | N/A |
+| 32 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 33 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 34 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 35 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 36 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
+| 37 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
+| 38 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 39 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 40 | [Elster-Zertifikat](http://twitter.com/search?q=Elster-Zertifikat) | N/A |
+| 41 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 42 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 43 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 44 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 45 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 46 | [Interesse der Menschen](http://twitter.com/search?q=Interesse+der+Menschen) | N/A |
+| 47 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 48 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
 
 
 

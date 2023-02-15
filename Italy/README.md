@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-15 00:29:59 UTC`
+📆 Last Updated: `2023-02-15 01:45:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 1 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
 | 2 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
-| 3 | [#boomerissima](http://twitter.com/search?q=%23boomerissima) | N/A |
-| 4 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 5 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 8 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 9 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 10 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 11 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 12 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
-| 13 | [Massi](http://twitter.com/search?q=Massi) | N/A |
-| 14 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 15 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 16 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
-| 17 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 18 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 19 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 20 | [Rosso](http://twitter.com/search?q=Rosso) | N/A |
-| 21 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 22 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 23 | [Nel 2035](http://twitter.com/search?q=Nel+2035) | N/A |
-| 24 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 25 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 26 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 27 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 28 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 29 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 30 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 31 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
-| 32 | [#portaaporta](http://twitter.com/search?q=%23portaaporta) | N/A |
-| 33 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
-| 34 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
-| 35 | [#psgbayern](http://twitter.com/search?q=%23psgbayern) | N/A |
-| 36 | [#iostoconahbap](http://twitter.com/search?q=%23iostoconahbap) | N/A |
-| 37 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 38 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 39 | [#DeKetelaere](http://twitter.com/search?q=%23DeKetelaere) | N/A |
-| 40 | [#Bersani](http://twitter.com/search?q=%23Bersani) | N/A |
-| 41 | [#voglioPoter](http://twitter.com/search?q=%23voglioPoter) | N/A |
-| 42 | [#Tonali](http://twitter.com/search?q=%23Tonali) | N/A |
-| 43 | [#ACMTOT](http://twitter.com/search?q=%23ACMTOT) | N/A |
-| 44 | [#InternetExplorer](http://twitter.com/search?q=%23InternetExplorer) | N/A |
-| 45 | [#SanValentino2023](http://twitter.com/search?q=%23SanValentino2023) | N/A |
-| 46 | [#Calenda](http://twitter.com/search?q=%23Calenda) | N/A |
-| 47 | [#Gravina](http://twitter.com/search?q=%23Gravina) | N/A |
-| 48 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 3 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 4 | [#14febbraio](http://twitter.com/search?q=%2314febbraio) | N/A |
+| 5 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
+| 6 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 7 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
+| 8 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 9 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 10 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 13 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 14 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 15 | [Massi](http://twitter.com/search?q=Massi) | N/A |
+| 16 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 17 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 20 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 22 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 23 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 25 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 26 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 27 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 28 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 29 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 30 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 31 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
+| 32 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 33 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 34 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 35 | [Nel 2035](http://twitter.com/search?q=Nel+2035) | N/A |
+| 36 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 37 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
+| 38 | [Raffaella](http://twitter.com/search?q=Raffaella) | N/A |
+| 39 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 40 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 41 | [Minchiotti](http://twitter.com/search?q=Minchiotti) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 44 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 45 | [Andonio](http://twitter.com/search?q=Andonio) | N/A |
+| 46 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 47 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 48 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 50 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 
 
 

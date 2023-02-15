@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-15 00:29:34 UTC`
+📆 Last Updated: `2023-02-15 01:44:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 2 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
-| 3 | [#11yearsWithSUHO](http://twitter.com/search?q=%2311yearsWithSUHO) | N/A |
+| 3 | [MANILA](http://twitter.com/search?q=MANILA) | N/A |
 | 4 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
-| 5 | [MANILA](http://twitter.com/search?q=MANILA) | N/A |
+| 5 | [#11yearsWithSUHO](http://twitter.com/search?q=%2311yearsWithSUHO) | N/A |
 | 6 | [#세븐틴이_빛내준_캐럿생일](http://twitter.com/search?q=%23%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%b4_%eb%b9%9b%eb%82%b4%ec%a4%80_%ec%ba%90%eb%9f%bf%ec%83%9d%ec%9d%bc) | N/A |
-| 7 | [2 DAYS](http://twitter.com/search?q=2+DAYS) | N/A |
+| 7 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
 | 8 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 9 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 10 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
-| 11 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 12 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 13 | [WIL 700MILLION VIEWS](http://twitter.com/search?q=WIL+700MILLION+VIEWS) | N/A |
-| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 15 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 16 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
+| 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 10 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 11 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
+| 12 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 13 | [2 DAYS](http://twitter.com/search?q=2+DAYS) | N/A |
+| 14 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 16 | [LET'S BURN WITH J-HOPE](http://twitter.com/search?q=LET%27S+BURN+WITH+J-HOPE) | N/A |
 | 17 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 18 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 19 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 20 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 18 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 19 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 20 | [WIL 700MILLION VIEWS](http://twitter.com/search?q=WIL+700MILLION+VIEWS) | N/A |
 | 21 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 22 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 22 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
 | 23 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 24 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 25 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 26 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 27 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 28 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 29 | [maligayang araw](http://twitter.com/search?q=maligayang+araw) | N/A |
-| 30 | [FRANSETH PumaFebIbig](http://twitter.com/search?q=FRANSETH+PumaFebIbig) | N/A |
-| 31 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
+| 24 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
+| 25 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
+| 26 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 27 | [FRANSETH PumaFebIbig](http://twitter.com/search?q=FRANSETH+PumaFebIbig) | N/A |
+| 28 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
+| 29 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
+| 30 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 31 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 32 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
-| 33 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
-| 34 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 33 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 34 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
 | 35 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
 | 36 | [Miles Ocampo](http://twitter.com/search?q=Miles+Ocampo) | N/A |
-| 37 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 38 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 39 | [raagas](http://twitter.com/search?q=raagas) | N/A |
+| 37 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 38 | [So Far Away](http://twitter.com/search?q=So+Far+Away) | N/A |
+| 39 | [Maligayang Araw](http://twitter.com/search?q=Maligayang+Araw) | N/A |
 | 40 | [HAPPY BALENTAYMS](http://twitter.com/search?q=HAPPY+BALENTAYMS) | N/A |
-| 41 | [Ayungin Shoal](http://twitter.com/search?q=Ayungin+Shoal) | N/A |
-| 42 | [Rocksta](http://twitter.com/search?q=Rocksta) | N/A |
-| 43 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 41 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 42 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 43 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 45 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 46 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 47 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 48 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
+| 45 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 46 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 47 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 48 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
 
 
 

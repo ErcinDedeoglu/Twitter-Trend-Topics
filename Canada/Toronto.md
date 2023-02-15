@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-15 00:29:06 UTC`
+📆 Last Updated: `2023-02-15 01:44:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 2 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 10 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 11 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 12 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 13 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 14 | [RRSP](http://twitter.com/search?q=RRSP) | N/A |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 17 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 19 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
-| 20 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 21 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
-| 22 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 23 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 24 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 25 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 26 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 27 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 28 | [#MMIWG2S](http://twitter.com/search?q=%23MMIWG2S) | N/A |
-| 29 | [#CFLFA](http://twitter.com/search?q=%23CFLFA) | N/A |
-| 30 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 31 | [#Riders](http://twitter.com/search?q=%23Riders) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 4 | [Justin Barron](http://twitter.com/search?q=Justin+Barron) | N/A |
+| 5 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 6 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 10 | [lexie](http://twitter.com/search?q=lexie) | N/A |
+| 11 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 12 | [#CFLFA](http://twitter.com/search?q=%23CFLFA) | N/A |
+| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 14 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 15 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
+| 16 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 17 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 18 | [Hazel McCallion](http://twitter.com/search?q=Hazel+McCallion) | Hazel McCallion is the former mayor of Mississauga, Ontario, Canada. She served as mayor from 1978 to 2014, making her the longest-serving mayor in Canadian history. Her name has become synonymous with strong leadership and a commitment to public service. |
+| 19 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 20 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 21 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 22 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 23 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 24 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
+| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 26 | [Josh Anderson](http://twitter.com/search?q=Josh+Anderson) | N/A |
+| 27 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
+| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 29 | [Dean](http://twitter.com/search?q=Dean) | N/A |
+| 30 | [Stanley Park](http://twitter.com/search?q=Stanley+Park) | N/A |
+| 31 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 32 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 33 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 34 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 35 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 36 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 39 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 41 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 42 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 43 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 44 | [Happy Love](http://twitter.com/search?q=Happy+Love) | N/A |
+| 45 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 46 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 47 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 48 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 49 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 50 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-15 00:29:16 UTC`
+📆 Last Updated: `2023-02-15 01:44:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Contagem](http://twitter.com/search?q=Contagem) | N/A |
-| 2 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 3 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 4 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 5 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 8 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 10 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 11 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
-| 12 | [NAVIO DO LUAN](http://twitter.com/search?q=NAVIO+DO+LUAN) | N/A |
-| 13 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 14 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 15 | [#HOPEWEEKD3](http://twitter.com/search?q=%23HOPEWEEKD3) | N/A |
-| 16 | [STREAM BRAZIL HOPE](http://twitter.com/search?q=STREAM+BRAZIL+HOPE) | N/A |
-| 17 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 18 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
-| 19 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 20 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 21 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 22 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
-| 23 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 24 | [FLOWERS OUT NOW](http://twitter.com/search?q=FLOWERS+OUT+NOW) | N/A |
-| 25 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 26 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 27 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 28 | [Brasileirão 2023](http://twitter.com/search?q=Brasileir%c3%a3o+2023) | N/A |
-| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 30 | [Esse PSG](http://twitter.com/search?q=Esse+PSG) | N/A |
-| 31 | [#NoahsFlowers](http://twitter.com/search?q=%23NoahsFlowers) | N/A |
-| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 33 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 34 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 35 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 36 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 37 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 38 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 40 | [OUCA CARINHA DE BEBE](http://twitter.com/search?q=OUCA+CARINHA+DE+BEBE) | N/A |
-| 41 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 42 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 43 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 44 | [CUPIDO OUT NOW](http://twitter.com/search?q=CUPIDO+OUT+NOW) | N/A |
-| 45 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 46 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 47 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 48 | [Rego](http://twitter.com/search?q=Rego) | N/A |
-| 49 | [Corro](http://twitter.com/search?q=Corro) | N/A |
-| 50 | [Botão](http://twitter.com/search?q=Bot%c3%a3o) | N/A |
+| 1 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 2 | [Contagem](http://twitter.com/search?q=Contagem) | N/A |
+| 3 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 4 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 5 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 6 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
+| 7 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
+| 8 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 9 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 10 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 11 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 12 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
+| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 14 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 15 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 16 | [CURTINDO BBB COM ZÉ](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89) | N/A |
+| 17 | [ZÉ AMANDA](http://twitter.com/search?q=Z%c3%89+AMANDA) | N/A |
+| 18 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
+| 19 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [#HOPEWEEKD3](http://twitter.com/search?q=%23HOPEWEEKD3) | N/A |
+| 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 23 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 24 | [STREAM BRAZIL HOPE](http://twitter.com/search?q=STREAM+BRAZIL+HOPE) | N/A |
+| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 26 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 27 | [NAVIO DO LUAN](http://twitter.com/search?q=NAVIO+DO+LUAN) | N/A |
+| 28 | [MAMACITA REMIX](http://twitter.com/search?q=MAMACITA+REMIX) | N/A |
+| 29 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 30 | [Diego Rosa](http://twitter.com/search?q=Diego+Rosa) | N/A |
+| 31 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 33 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 34 | [Fonte Nova](http://twitter.com/search?q=Fonte+Nova) | N/A |
+| 35 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 36 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 37 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 38 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 39 | [Raul Gustavo](http://twitter.com/search?q=Raul+Gustavo) | N/A |
+| 40 | [FAZENDEIRA](http://twitter.com/search?q=FAZENDEIRA) | N/A |
+| 41 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
+| 42 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 43 | [GOLPISTA MERECE PRISÃO](http://twitter.com/search?q=GOLPISTA+MERECE+PRIS%c3%83O) | N/A |
+| 44 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 45 | [Brasileirão 2023](http://twitter.com/search?q=Brasileir%c3%a3o+2023) | N/A |
+| 46 | [Marcos Felipe](http://twitter.com/search?q=Marcos+Felipe) | N/A |
+| 47 | [OUCA CARINHA DE BEBE](http://twitter.com/search?q=OUCA+CARINHA+DE+BEBE) | N/A |
+| 48 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 49 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
+| 50 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 
 
 

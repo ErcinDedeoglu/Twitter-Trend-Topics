@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-15 00:30:03 UTC`
+📆 Last Updated: `2023-02-15 01:45:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Spain
 | 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 11 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 12 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 12 | [Tino](http://twitter.com/search?q=Tino) | N/A |
 | 13 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 14 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 14 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 15 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
-| 16 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 17 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
 | 18 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 19 | [Emel](http://twitter.com/search?q=Emel) | N/A |
-| 20 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 23 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 24 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 25 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 26 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
-| 27 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
-| 28 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
-| 29 | [Múnich](http://twitter.com/search?q=M%c3%banich) | N/A |
-| 30 | [Parque de los Príncipes](http://twitter.com/search?q=Parque+de+los+Pr%c3%adncipes) | N/A |
-| 31 | [Carlos Soler](http://twitter.com/search?q=Carlos+Soler) | N/A |
-| 32 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 33 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 35 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 37 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 38 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 39 | [Selu](http://twitter.com/search?q=Selu) | N/A |
-| 40 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 41 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 42 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 43 | [Banco de España](http://twitter.com/search?q=Banco+de+Espa%c3%b1a) | N/A |
-| 44 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
-| 45 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
-| 46 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 47 | [Mi San Valentín](http://twitter.com/search?q=Mi+San+Valent%c3%adn) | N/A |
-| 48 | [Twingo](http://twitter.com/search?q=Twingo) | Twingo is a small city car produced by the French automaker Renault. The name Twingo is derived from the combination of the words "twist", "swing" and "tango". In English, it can be interpreted as a combination of movement and fun. |
-| 49 | [Mr Bean](http://twitter.com/search?q=Mr+Bean) | N/A |
-| 50 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 20 | [Emel](http://twitter.com/search?q=Emel) | N/A |
+| 21 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 22 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
+| 23 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 24 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 25 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 27 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 28 | [Parque de los Príncipes](http://twitter.com/search?q=Parque+de+los+Pr%c3%adncipes) | N/A |
+| 29 | [Carlos Soler](http://twitter.com/search?q=Carlos+Soler) | N/A |
+| 30 | [Múnich](http://twitter.com/search?q=M%c3%banich) | N/A |
+| 31 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 32 | [Selu](http://twitter.com/search?q=Selu) | N/A |
+| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 34 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 36 | [Banco de España](http://twitter.com/search?q=Banco+de+Espa%c3%b1a) | N/A |
+| 37 | [Twingo](http://twitter.com/search?q=Twingo) | Twingo is a small city car produced by the French automaker Renault. The name Twingo is derived from the combination of the words "twist", "swing" and "tango". In English, it can be interpreted as a combination of movement and fun. |
+| 38 | [Tagliatella](http://twitter.com/search?q=Tagliatella) | N/A |
+| 39 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 40 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 41 | [Mi San Valentín](http://twitter.com/search?q=Mi+San+Valent%c3%adn) | N/A |
+| 42 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 43 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 44 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 45 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 46 | [Garsias](http://twitter.com/search?q=Garsias) | N/A |
+| 47 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
+| 48 | [#BlancaPalomaEH](http://twitter.com/search?q=%23BlancaPalomaEH) | N/A |
+| 49 | [#ChesterBárbaraRey](http://twitter.com/search?q=%23ChesterB%c3%a1rbaraRey) | N/A |
+| 50 | [#ViajandoConChester](http://twitter.com/search?q=%23ViajandoConChester) | N/A |
 
 
 

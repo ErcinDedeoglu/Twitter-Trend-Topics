@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-15 00:29:49 UTC`
+📆 Last Updated: `2023-02-15 01:45:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MoneyHeist](http://twitter.com/search?q=%23MoneyHeist) | N/A |
-| 2 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
-| 3 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 4 | [Mattress Mack](http://twitter.com/search?q=Mattress+Mack) | Mattress Mack is the nickname of Jim McIngvale, an American businessman and philanthropist from Houston, Texas. He is the owner of Gallery Furniture, a furniture store chain in the Houston area. He is known for his philanthropic efforts and his unique marketing campaigns, such as offering customers free mattresses if they purchase furniture from his store. |
-| 5 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 6 | [Harris County](http://twitter.com/search?q=Harris+County) | N/A |
-| 7 | [#SellZSJLtoNetflix](http://twitter.com/search?q=%23SellZSJLtoNetflix) | N/A |
-| 8 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
-| 9 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 10 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 11 | [Scorpio](http://twitter.com/search?q=Scorpio) | N/A |
-| 12 | [#OhioTrainDisaster](http://twitter.com/search?q=%23OhioTrainDisaster) | N/A |
-| 13 | [#RespawnGiveaway](http://twitter.com/search?q=%23RespawnGiveaway) | N/A |
-| 14 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 15 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 2 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 3 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
+| 4 | [#MoneyHeist](http://twitter.com/search?q=%23MoneyHeist) | N/A |
+| 5 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 6 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
+| 7 | [Harris County](http://twitter.com/search?q=Harris+County) | N/A |
+| 8 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 9 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 10 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [#LoveCampingWorld](http://twitter.com/search?q=%23LoveCampingWorld) | N/A |
+| 13 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 14 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 15 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
 | 16 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
-| 17 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 21 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 22 | [Nitric Acid](http://twitter.com/search?q=Nitric+Acid) | N/A |
-| 23 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 24 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Jerry Jarrett](http://twitter.com/search?q=Jerry+Jarrett) | N/A |
-| 27 | [I-10](http://twitter.com/search?q=I-10) | N/A |
-| 28 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 29 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 30 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 31 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 32 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 33 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 34 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 35 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 36 | [Bolles](http://twitter.com/search?q=Bolles) | N/A |
-| 37 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 38 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
-| 39 | [Clevinger](http://twitter.com/search?q=Clevinger) | Clevinger is a surname of English origin. It is derived from the Old English words cleve, meaning "cliff," and ing, meaning "meadow." The name was originally given to someone who lived near a cliff or in a meadow. |
-| 40 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 41 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 42 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 43 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 44 | [Tik Tok Boy](http://twitter.com/search?q=Tik+Tok+Boy) | N/A |
-| 45 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 46 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 47 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
-| 48 | [Eternals](http://twitter.com/search?q=Eternals) | N/A |
-| 49 | [Silver Springs](http://twitter.com/search?q=Silver+Springs) | N/A |
-| 50 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
+| 17 | [lexie](http://twitter.com/search?q=lexie) | N/A |
+| 18 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 19 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 20 | [Nitric Acid](http://twitter.com/search?q=Nitric+Acid) | N/A |
+| 21 | [Dane Goodwin](http://twitter.com/search?q=Dane+Goodwin) | N/A |
+| 22 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 23 | [I-10](http://twitter.com/search?q=I-10) | N/A |
+| 24 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 25 | [Junnie](http://twitter.com/search?q=Junnie) | N/A |
+| 26 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 27 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
+| 28 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 29 | [Hospital Celtics](http://twitter.com/search?q=Hospital+Celtics) | N/A |
+| 30 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 31 | [Jacy Jayne](http://twitter.com/search?q=Jacy+Jayne) | N/A |
+| 32 | [Jerry Jarrett](http://twitter.com/search?q=Jerry+Jarrett) | N/A |
+| 33 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 34 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
+| 35 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 36 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 37 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 38 | [Joe Snively](http://twitter.com/search?q=Joe+Snively) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 41 | [Grayson Waller](http://twitter.com/search?q=Grayson+Waller) | N/A |
+| 42 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 43 | [Tik Tok Boy](http://twitter.com/search?q=Tik+Tok+Boy) | N/A |
+| 44 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 45 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 46 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 47 | [Robert Williams](http://twitter.com/search?q=Robert+Williams) | N/A |
+| 48 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 49 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
+| 50 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 
 
 
