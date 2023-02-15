@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-02-15 07:16:36 UTC`
+📆 Last Updated: `2023-02-15 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 5 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
 | 6 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
-| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 8 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 9 | [#pursuit](http://twitter.com/search?q=%23pursuit) | N/A |
-| 10 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
-| 11 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 12 | [HAUSER](http://twitter.com/search?q=HAUSER) | N/A |
-| 13 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 7 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
+| 8 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
+| 9 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 10 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 11 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 12 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 13 | [HAUSER](http://twitter.com/search?q=HAUSER) | N/A |
 | 14 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 15 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 16 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 17 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 18 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 19 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 20 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 21 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 23 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 15 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 16 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 17 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 18 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 19 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 20 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 21 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 22 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 23 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
 | 24 | [Floki](http://twitter.com/search?q=Floki) | N/A |
-| 25 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 26 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 27 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 28 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 29 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 31 | [Hori](http://twitter.com/search?q=Hori) | N/A |
-| 32 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 33 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 34 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 35 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 36 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 37 | [Vasy](http://twitter.com/search?q=Vasy) | N/A |
-| 38 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 39 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 40 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 41 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 42 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
-| 43 | [Kyle Kuzma](http://twitter.com/search?q=Kyle+Kuzma) | N/A |
-| 44 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 45 | [Camie](http://twitter.com/search?q=Camie) | N/A |
-| 46 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 47 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
-| 48 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 49 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 50 | [Kohl Center](http://twitter.com/search?q=Kohl+Center) | N/A |
+| 25 | [Hori](http://twitter.com/search?q=Hori) | N/A |
+| 26 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 28 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 29 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 30 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
+| 31 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 32 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 33 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 34 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 35 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
+| 36 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 37 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
+| 38 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 39 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 40 | [Kyle Kuzma](http://twitter.com/search?q=Kyle+Kuzma) | N/A |
+| 41 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 42 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 43 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
+| 44 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 45 | [Jinder](http://twitter.com/search?q=Jinder) | N/A |
+| 46 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 47 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 48 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 49 | [Kaguya](http://twitter.com/search?q=Kaguya) | N/A |
+| 50 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
 
 
 

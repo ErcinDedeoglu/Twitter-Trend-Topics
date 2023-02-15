@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-02-15 07:16:19 UTC`
+📆 Last Updated: `2023-02-15 08:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 2 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 3 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 2 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 3 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
 | 4 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
 | 5 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 6 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
 | 7 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 8 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
 | 9 | [#YUNOwhoseDAYitis](http://twitter.com/search?q=%23YUNOwhoseDAYitis) | N/A |
-| 10 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 10 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
 | 11 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
-| 12 | [#ValentinewithBuild](http://twitter.com/search?q=%23ValentinewithBuild) | N/A |
+| 12 | [#valentinewithbuild](http://twitter.com/search?q=%23valentinewithbuild) | N/A |
 | 13 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 14 | [#หวานใจมิวกลัฟ](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b9%83%e0%b8%88%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | N/A |
-| 15 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 14 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
+| 15 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 17 | [#AJL37](http://twitter.com/search?q=%23AJL37) | N/A |
-| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 19 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
-| 20 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 21 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 17 | [BLUE LOVE FOR BUILD](http://twitter.com/search?q=BLUE+LOVE+FOR+BUILD) | N/A |
+| 18 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 19 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 20 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 21 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
 | 22 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 23 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 24 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 25 | [HAPPY BIRTHDAY JAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+JAEHYUN) | N/A |
-| 26 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 27 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 28 | [Petronas](http://twitter.com/search?q=Petronas) | N/A |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 23 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 24 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
+| 25 | [Petronas](http://twitter.com/search?q=Petronas) | N/A |
+| 26 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 27 | [Jongho](http://twitter.com/search?q=Jongho) | N/A |
+| 28 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 29 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
 | 30 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 31 | [Jongho](http://twitter.com/search?q=Jongho) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 32 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 33 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 34 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 35 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 36 | [Shindong](http://twitter.com/search?q=Shindong) | N/A |
-| 37 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 40 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
-| 41 | [ptptn](http://twitter.com/search?q=ptptn) | N/A |
-| 42 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
-| 43 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 33 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 34 | [Shindong](http://twitter.com/search?q=Shindong) | N/A |
+| 35 | [Kuching](http://twitter.com/search?q=Kuching) | N/A |
+| 36 | [Johor](http://twitter.com/search?q=Johor) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 39 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 40 | [Kim Dokja](http://twitter.com/search?q=Kim+Dokja) | N/A |
+| 41 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 42 | [ptptn](http://twitter.com/search?q=ptptn) | N/A |
+| 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 45 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
-| 46 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 47 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 48 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 49 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 50 | [Daim](http://twitter.com/search?q=Daim) | N/A |
+| 45 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 46 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 47 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 48 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 49 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 50 | [Maddox](http://twitter.com/search?q=Maddox) | Maddox is a unisex given name of Welsh origin, derived from Madoc, which means "fortunate". It is also used as a surname. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-15 07:16:40 UTC`
+📆 Last Updated: `2023-02-15 08:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 2 | [Voss](http://twitter.com/search?q=Voss) | N/A |
+| 2 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
 | 3 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 4 | [Hird](http://twitter.com/search?q=Hird) | N/A |
-| 5 | [Ablett](http://twitter.com/search?q=Ablett) | N/A |
-| 6 | [Cousins](http://twitter.com/search?q=Cousins) | N/A |
+| 4 | [Voss](http://twitter.com/search?q=Voss) | N/A |
+| 5 | [#TheDrum](http://twitter.com/search?q=%23TheDrum) | N/A |
+| 6 | [Ablett](http://twitter.com/search?q=Ablett) | N/A |
 | 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 8 | [Paige](http://twitter.com/search?q=Paige) | N/A |
-| 9 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
-| 10 | [#SenateEstimates](http://twitter.com/search?q=%23SenateEstimates) | N/A |
-| 11 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 12 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
-| 13 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 14 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 15 | [Goodes](http://twitter.com/search?q=Goodes) | N/A |
+| 8 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
+| 9 | [Cousins](http://twitter.com/search?q=Cousins) | N/A |
+| 10 | [Hird](http://twitter.com/search?q=Hird) | N/A |
+| 11 | [Paige](http://twitter.com/search?q=Paige) | N/A |
+| 12 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 13 | [#SenateEstimates](http://twitter.com/search?q=%23SenateEstimates) | N/A |
+| 14 | [Buckley](http://twitter.com/search?q=Buckley) | N/A |
+| 15 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
 | 16 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 17 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 18 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
-| 19 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 20 | [Buckley](http://twitter.com/search?q=Buckley) | N/A |
-| 21 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 22 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 17 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 18 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
+| 19 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 20 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
+| 21 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 22 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
 | 23 | [#KeyToStressManagement](http://twitter.com/search?q=%23KeyToStressManagement) | N/A |
-| 24 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 25 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
-| 26 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 24 | [Goodes](http://twitter.com/search?q=Goodes) | N/A |
+| 25 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 26 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
 | 27 | [Peter Poulos](http://twitter.com/search?q=Peter+Poulos) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [#ClimateIntegrity](http://twitter.com/search?q=%23ClimateIntegrity) | N/A |
-| 30 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
-| 31 | [RBA Governor](http://twitter.com/search?q=RBA+Governor) | N/A |
-| 32 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 33 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
-| 34 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 28 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 29 | [RBA Governor](http://twitter.com/search?q=RBA+Governor) | N/A |
+| 30 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
+| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 32 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 33 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 34 | [Crosby Textor](http://twitter.com/search?q=Crosby+Textor) | N/A |
 | 35 | [Toby Greene](http://twitter.com/search?q=Toby+Greene) | N/A |
-| 36 | [Crosby Textor](http://twitter.com/search?q=Crosby+Textor) | N/A |
-| 37 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 38 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 39 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 40 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 36 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 37 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 38 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 39 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 40 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
 | 41 | [Canavan](http://twitter.com/search?q=Canavan) | N/A |
 | 42 | [Commonwealth Bank](http://twitter.com/search?q=Commonwealth+Bank) | N/A |
-| 43 | [Services Australia](http://twitter.com/search?q=Services+Australia) | N/A |
-| 44 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 45 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 44 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
+| 45 | [services australia](http://twitter.com/search?q=services+australia) | N/A |
 | 46 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
-| 47 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 48 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 49 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 50 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
+| 47 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 48 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 49 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 50 | [Joker](http://twitter.com/search?q=Joker) | N/A |
 
 
 

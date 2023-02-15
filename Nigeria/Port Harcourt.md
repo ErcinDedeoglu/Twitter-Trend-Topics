@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-15 07:16:22 UTC`
+📆 Last Updated: `2023-02-15 08:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
-| 5 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
-| 6 | [Arthur Eze](http://twitter.com/search?q=Arthur+Eze) | N/A |
-| 7 | [#Feb14](http://twitter.com/search?q=%23Feb14) | N/A |
-| 8 | [#HypoToiletCleanerValentine](http://twitter.com/search?q=%23HypoToiletCleanerValentine) | N/A |
-| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 10 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 11 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 13 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 14 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
-| 15 | [dj gaba](http://twitter.com/search?q=dj+gaba) | N/A |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 17 | [valentine with phyna](http://twitter.com/search?q=valentine+with+phyna) | N/A |
-| 18 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 19 | [love letter to phyna](http://twitter.com/search?q=love+letter+to+phyna) | N/A |
-| 20 | [my mtn](http://twitter.com/search?q=my+mtn) | N/A |
-| 21 | [khaid](http://twitter.com/search?q=khaid) | N/A |
-| 22 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 23 | [Vote KANIVA](http://twitter.com/search?q=Vote+KANIVA) | N/A |
-| 24 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 25 | [so mtn](http://twitter.com/search?q=so+mtn) | N/A |
-| 26 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
-| 27 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
-| 28 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 29 | [nasboi lover boy](http://twitter.com/search?q=nasboi+lover+boy) | N/A |
-| 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 31 | [spread love with yvonne](http://twitter.com/search?q=spread+love+with+yvonne) | N/A |
-| 32 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 33 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 34 | [Ogun](http://twitter.com/search?q=Ogun) | N/A |
-| 35 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 36 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
-| 37 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 38 | [unusual phyna](http://twitter.com/search?q=unusual+phyna) | N/A |
-| 39 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
-| 40 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
-| 41 | [MTN network](http://twitter.com/search?q=MTN+network) | N/A |
-| 42 | [Governors](http://twitter.com/search?q=Governors) | N/A |
-| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 44 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 45 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 46 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 47 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 48 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 49 | [So CBN](http://twitter.com/search?q=So+CBN) | N/A |
-| 50 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
+| 2 | [#PastorChrisOnTheIsland](http://twitter.com/search?q=%23PastorChrisOnTheIsland) | N/A |
+| 3 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 4 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 7 | [#HypoToiletCleanerValentine](http://twitter.com/search?q=%23HypoToiletCleanerValentine) | N/A |
+| 8 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
+| 9 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 10 | [Arthur Eze](http://twitter.com/search?q=Arthur+Eze) | N/A |
+| 11 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 14 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
+| 17 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 18 | [dj gaba](http://twitter.com/search?q=dj+gaba) | N/A |
+| 19 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 20 | [valentine with phyna](http://twitter.com/search?q=valentine+with+phyna) | N/A |
+| 21 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 22 | [Khaid](http://twitter.com/search?q=Khaid) | N/A |
+| 23 | [love letter to phyna](http://twitter.com/search?q=love+letter+to+phyna) | N/A |
+| 24 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 25 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 26 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 27 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 28 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 29 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 30 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 31 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 32 | [Siyama](http://twitter.com/search?q=Siyama) | N/A |
+| 33 | [My MTN](http://twitter.com/search?q=My+MTN) | N/A |
+| 34 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
+| 35 | [SPREAD LOVE WITH YVONNE](http://twitter.com/search?q=SPREAD+LOVE+WITH+YVONNE) | N/A |
+| 36 | [nasboi lover boy](http://twitter.com/search?q=nasboi+lover+boy) | N/A |
+| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 38 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 39 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
+| 40 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 41 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 42 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
+| 43 | [MTN network](http://twitter.com/search?q=MTN+network) | N/A |
+| 44 | [Eleyi](http://twitter.com/search?q=Eleyi) | N/A |
+| 45 | [So MTN](http://twitter.com/search?q=So+MTN) | N/A |
+| 46 | [Hardcopy](http://twitter.com/search?q=Hardcopy) | N/A |
+| 47 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 48 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 49 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 50 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
 
 
 

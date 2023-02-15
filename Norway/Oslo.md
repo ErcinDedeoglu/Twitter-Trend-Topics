@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-15 07:16:12 UTC`
+📆 Last Updated: `2023-02-15 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 2 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 2 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 3 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
 | 4 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 6 | [Giske](http://twitter.com/search?q=Giske) | N/A |
-| 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Giske](http://twitter.com/search?q=Giske) | N/A |
+| 6 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 9 | [Nidaros](http://twitter.com/search?q=Nidaros) | N/A |
 | 10 | [Kjær](http://twitter.com/search?q=Kj%c3%a6r) | N/A |
 | 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 12 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 13 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 14 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 16 | [bjørgvin](http://twitter.com/search?q=bj%c3%b8rgvin) | N/A |
-| 17 | [espen teigen](http://twitter.com/search?q=espen+teigen) | N/A |
-| 18 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 19 | [arne treholt](http://twitter.com/search?q=arne+treholt) | N/A |
-| 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 21 | [lofoten](http://twitter.com/search?q=lofoten) | N/A |
-| 22 | [Nora Haukland](http://twitter.com/search?q=Nora+Haukland) | N/A |
-| 23 | [viken](http://twitter.com/search?q=viken) | N/A |
-| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 25 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
-| 28 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 14 | [bjørgvin](http://twitter.com/search?q=bj%c3%b8rgvin) | N/A |
+| 15 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 16 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 17 | [Espen Teigen](http://twitter.com/search?q=Espen+Teigen) | N/A |
+| 18 | [arne treholt](http://twitter.com/search?q=arne+treholt) | N/A |
+| 19 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 21 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 22 | [lofoten](http://twitter.com/search?q=lofoten) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 25 | [nora haukland](http://twitter.com/search?q=nora+haukland) | N/A |
+| 26 | [viken](http://twitter.com/search?q=viken) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 30 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
 | 31 | [Marius](http://twitter.com/search?q=Marius) | N/A |
-| 32 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 33 | [lågendeltaet](http://twitter.com/search?q=l%c3%a5gendeltaet) | N/A |
-| 34 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 35 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 36 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 37 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
-| 38 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 40 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 33 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
+| 34 | [lågendeltaet](http://twitter.com/search?q=l%c3%a5gendeltaet) | N/A |
+| 35 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 36 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 39 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 40 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
 | 41 | [Klart](http://twitter.com/search?q=Klart) | N/A |
-| 42 | [Jens](http://twitter.com/search?q=Jens) | N/A |
-| 43 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 44 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 45 | [Synd](http://twitter.com/search?q=Synd) | N/A |
-| 46 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 48 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 49 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 42 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 43 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 44 | [Jens](http://twitter.com/search?q=Jens) | N/A |
+| 45 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 46 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 47 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 48 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 49 | [Synd](http://twitter.com/search?q=Synd) | N/A |
+| 50 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 
 
 

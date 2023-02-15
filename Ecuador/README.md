@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-15 07:16:42 UTC`
+📆 Last Updated: `2023-02-15 08:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Ecuador
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 3 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
 | 4 | [#ElGranInforme](http://twitter.com/search?q=%23ElGranInforme) | N/A |
-| 5 | [#MasterchefEcuador](http://twitter.com/search?q=%23MasterchefEcuador) | N/A |
-| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 7 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 8 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
+| 7 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
+| 8 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
 | 9 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
 | 10 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
 | 11 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for Ecuador
 | 13 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
 | 14 | [Bernardo Manzano](http://twitter.com/search?q=Bernardo+Manzano) | N/A |
 | 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 16 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 17 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 18 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 19 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
-| 20 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 21 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 22 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
-| 25 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
+| 16 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 17 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 18 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
+| 19 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 20 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 21 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
+| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 23 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
+| 24 | [quinsaloma](http://twitter.com/search?q=quinsaloma) | N/A |
+| 25 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 26 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 27 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 28 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
 | 29 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 30 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 31 | [Dona](http://twitter.com/search?q=Dona) | N/A |
-| 32 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 33 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 34 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 35 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 36 | [ministro de agricultura](http://twitter.com/search?q=ministro+de+agricultura) | N/A |
-| 37 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 39 | [Monge](http://twitter.com/search?q=Monge) | N/A |
-| 40 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 30 | [Dona](http://twitter.com/search?q=Dona) | N/A |
+| 31 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 32 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 33 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 34 | [los choneros](http://twitter.com/search?q=los+choneros) | N/A |
+| 35 | [ministro de agricultura](http://twitter.com/search?q=ministro+de+agricultura) | N/A |
+| 36 | [Monge](http://twitter.com/search?q=Monge) | N/A |
+| 37 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 38 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 39 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 41 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
 | 42 | [con 102](http://twitter.com/search?q=con+102) | N/A |
-| 43 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 44 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 45 | [Albaneses](http://twitter.com/search?q=Albaneses) | N/A |
-| 46 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 47 | [Christian Benítez](http://twitter.com/search?q=Christian+Ben%c3%adtez) | N/A |
-| 48 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 49 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 50 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 43 | [maría belén bernal](http://twitter.com/search?q=mar%c3%ada+bel%c3%a9n+bernal) | N/A |
+| 44 | [Christian Benítez](http://twitter.com/search?q=Christian+Ben%c3%adtez) | N/A |
+| 45 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 46 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 47 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 48 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 49 | [Teresita](http://twitter.com/search?q=Teresita) | N/A |
+| 50 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 
 
 

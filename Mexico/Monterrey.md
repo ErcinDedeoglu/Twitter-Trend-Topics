@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-15 07:15:59 UTC`
+📆 Last Updated: `2023-02-15 08:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 2 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 3 | [#SS9inMexicoDay1](http://twitter.com/search?q=%23SS9inMexicoDay1) | N/A |
-| 4 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 5 | [#MedallasAllStar](http://twitter.com/search?q=%23MedallasAllStar) | N/A |
-| 6 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 7 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 8 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
-| 9 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 10 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 11 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
-| 12 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
-| 13 | [Metrobús](http://twitter.com/search?q=Metrob%c3%bas) | N/A |
-| 14 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
-| 15 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 16 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 17 | [WE LOVE YOU MAVELYN](http://twitter.com/search?q=WE+LOVE+YOU+MAVELYN) | N/A |
-| 18 | [LA BOMBA](http://twitter.com/search?q=LA+BOMBA) | N/A |
-| 19 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 20 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
-| 21 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 22 | [Paseo de la Reforma](http://twitter.com/search?q=Paseo+de+la+Reforma) | N/A |
-| 23 | [Avenida Hidalgo](http://twitter.com/search?q=Avenida+Hidalgo) | N/A |
-| 24 | [Juarez](http://twitter.com/search?q=Juarez) | N/A |
-| 25 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
-| 26 | [CHASPM](http://twitter.com/search?q=CHASPM) | N/A |
-| 27 | [Primer 14](http://twitter.com/search?q=Primer+14) | N/A |
-| 28 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 29 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
-| 30 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 31 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 32 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 33 | [Que 14](http://twitter.com/search?q=Que+14) | N/A |
-| 34 | [Limochima](http://twitter.com/search?q=Limochima) | N/A |
-| 35 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 36 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 37 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 38 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 39 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
-| 40 | [Anabel Hernández](http://twitter.com/search?q=Anabel+Hern%c3%a1ndez) | N/A |
-| 41 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
-| 42 | [#SuperShow9inMexico](http://twitter.com/search?q=%23SuperShow9inMexico) | N/A |
-| 43 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
-| 44 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
-| 45 | [#MHASpoilers](http://twitter.com/search?q=%23MHASpoilers) | N/A |
-| 46 | [#SemanaDelDesamorXWiplash](http://twitter.com/search?q=%23SemanaDelDesamorXWiplash) | N/A |
-| 47 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 48 | [#JoaquinPhoenix](http://twitter.com/search?q=%23JoaquinPhoenix) | N/A |
-| 49 | [#VamosAmerica](http://twitter.com/search?q=%23VamosAmerica) | N/A |
-| 50 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
+| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 4 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 5 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 6 | [#SS9inMexicoDay1](http://twitter.com/search?q=%23SS9inMexicoDay1) | N/A |
+| 7 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 8 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 11 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
+| 12 | [Alfredo Olivas](http://twitter.com/search?q=Alfredo+Olivas) | N/A |
+| 13 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 17 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
+| 18 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 19 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 20 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 21 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 22 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 23 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 24 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
+| 25 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
+| 26 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
+| 27 | [Otro 14](http://twitter.com/search?q=Otro+14) | N/A |
+| 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 29 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 30 | [Martha Bárcena](http://twitter.com/search?q=Martha+B%c3%a1rcena) | N/A |
+| 31 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 32 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 33 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 34 | [Vicente Guerrero](http://twitter.com/search?q=Vicente+Guerrero) | N/A |
+| 35 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 36 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 37 | [Draculaura](http://twitter.com/search?q=Draculaura) | N/A |
+| 38 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 39 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 40 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 41 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 42 | [Primer 14](http://twitter.com/search?q=Primer+14) | N/A |
+| 43 | [WE LOVE YOU MAVELYN](http://twitter.com/search?q=WE+LOVE+YOU+MAVELYN) | N/A |
+| 44 | [Es 14](http://twitter.com/search?q=Es+14) | N/A |
+| 45 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 46 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 48 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 49 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 50 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
 
 
 

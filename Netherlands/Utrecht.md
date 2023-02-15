@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-15 07:16:10 UTC`
+📆 Last Updated: `2023-02-15 08:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 2 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
 | 3 | [#Roze](http://twitter.com/search?q=%23Roze) | N/A |
-| 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 5 | [Zoetermeer](http://twitter.com/search?q=Zoetermeer) | N/A |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 5 | [Dag 15](http://twitter.com/search?q=Dag+15) | N/A |
 | 6 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
-| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 7 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 8 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 9 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 10 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 11 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 12 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 13 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
+| 9 | [Adrie](http://twitter.com/search?q=Adrie) | N/A |
+| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 11 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
+| 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 13 | [Huub](http://twitter.com/search?q=Huub) | N/A |
 | 14 | [Tjark](http://twitter.com/search?q=Tjark) | N/A |
-| 15 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 16 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 17 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 19 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 20 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 21 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 22 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 23 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 24 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
-| 25 | [krezip](http://twitter.com/search?q=krezip) | N/A |
-| 26 | [mei li](http://twitter.com/search?q=mei+li) | N/A |
-| 27 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
-| 28 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
+| 15 | [Krankzinnig](http://twitter.com/search?q=Krankzinnig) | N/A |
+| 16 | [Zoetermeer](http://twitter.com/search?q=Zoetermeer) | N/A |
+| 17 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 18 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 19 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 20 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 21 | [Jenneke](http://twitter.com/search?q=Jenneke) | N/A |
+| 22 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 23 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 24 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 25 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 26 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 27 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 28 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
 | 29 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
-| 30 | [intravacc](http://twitter.com/search?q=intravacc) | N/A |
+| 30 | [mei li](http://twitter.com/search?q=mei+li) | N/A |
 | 31 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
-| 32 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 33 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 34 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 35 | [KMar](http://twitter.com/search?q=KMar) | N/A |
-| 36 | [Corry](http://twitter.com/search?q=Corry) | N/A |
-| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 38 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 39 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 40 | [succes willem](http://twitter.com/search?q=succes+willem) | N/A |
-| 41 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
-| 42 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 43 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
-| 46 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 47 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 48 | [Multipla](http://twitter.com/search?q=Multipla) | N/A |
+| 32 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
+| 33 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
+| 34 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 35 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 36 | [intravacc](http://twitter.com/search?q=intravacc) | N/A |
+| 37 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 38 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 39 | [KMar](http://twitter.com/search?q=KMar) | N/A |
+| 40 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 41 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 42 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 43 | [Zuid-Holland](http://twitter.com/search?q=Zuid-Holland) | N/A |
+| 44 | [succes willem](http://twitter.com/search?q=succes+willem) | N/A |
+| 45 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 46 | [Zwitserland](http://twitter.com/search?q=Zwitserland) | N/A |
+| 47 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
 
 
 
