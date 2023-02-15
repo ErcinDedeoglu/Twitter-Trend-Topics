@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-15 15:17:34 UTC`
+📆 Last Updated: `2023-02-15 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuperHoldingBUMN](http://twitter.com/search?q=%23SuperHoldingBUMN) | N/A |
-| 2 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
+| 1 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
+| 2 | [#SuperHoldingBUMN](http://twitter.com/search?q=%23SuperHoldingBUMN) | N/A |
 | 3 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
-| 4 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 5 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 6 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
-| 7 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 8 | [#O_D19](http://twitter.com/search?q=%23O_D19) | N/A |
+| 4 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
+| 5 | [#AntManAndTheWaspID](http://twitter.com/search?q=%23AntManAndTheWaspID) | N/A |
+| 6 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
+| 7 | [#CutiePieUncutxiQIYI](http://twitter.com/search?q=%23CutiePieUncutxiQIYI) | N/A |
+| 8 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
 | 9 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
-| 10 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 11 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 10 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
+| 11 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
 | 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 14 | [PEAK TIME](http://twitter.com/search?q=PEAK+TIME) | N/A |
-| 15 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
-| 16 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
-| 17 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 18 | [Pilot](http://twitter.com/search?q=Pilot) | N/A |
-| 19 | [Balikin](http://twitter.com/search?q=Balikin) | N/A |
-| 20 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 21 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 22 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 23 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 24 | [Wahyu](http://twitter.com/search?q=Wahyu) | N/A |
-| 25 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 26 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
-| 27 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 28 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 29 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
-| 30 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 31 | [got7](http://twitter.com/search?q=got7) | N/A |
-| 32 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 33 | [Gus Muhaimin](http://twitter.com/search?q=Gus+Muhaimin) | Gus Muhaimin is an Indonesian name. It is derived from the Arabic words "Gus" (meaning "noble") and "Muhaimin" (meaning "protector"). In English, it can be translated to mean "noble protector". |
-| 34 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 35 | [Pede](http://twitter.com/search?q=Pede) | N/A |
-| 36 | [Alfamart](http://twitter.com/search?q=Alfamart) | N/A |
-| 37 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 13 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
+| 14 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 15 | [PEAK TIME](http://twitter.com/search?q=PEAK+TIME) | N/A |
+| 16 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 17 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
+| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 19 | [Male](http://twitter.com/search?q=Male) | N/A |
+| 20 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
+| 21 | [Wahyu](http://twitter.com/search?q=Wahyu) | N/A |
+| 22 | [raji'un](http://twitter.com/search?q=raji%27un) | N/A |
+| 23 | [Pilot](http://twitter.com/search?q=Pilot) | N/A |
+| 24 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 25 | [Balikin](http://twitter.com/search?q=Balikin) | N/A |
+| 26 | [Turut](http://twitter.com/search?q=Turut) | N/A |
+| 27 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
+| 28 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 29 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 30 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 31 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
+| 32 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 33 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 34 | [Gus Muhaimin](http://twitter.com/search?q=Gus+Muhaimin) | Gus Muhaimin is an Indonesian name. It is derived from the Arabic words "Gus" (meaning "noble") and "Muhaimin" (meaning "protector"). In English, it can be translated to mean "noble protector". |
+| 35 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 36 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 37 | [Alfamart](http://twitter.com/search?q=Alfamart) | N/A |
 | 38 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 39 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
+| 39 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
 | 40 | [#BNIxNCT127](http://twitter.com/search?q=%23BNIxNCT127) | N/A |
-| 41 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 42 | [#KristMeValentine](http://twitter.com/search?q=%23KristMeValentine) | N/A |
-| 43 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 44 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
-| 45 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 46 | [#OPPOPortraitofLoveXLazada](http://twitter.com/search?q=%23OPPOPortraitofLoveXLazada) | N/A |
-| 47 | [#StageMasterBAE173](http://twitter.com/search?q=%23StageMasterBAE173) | N/A |
-| 48 | [#greply](http://twitter.com/search?q=%23greply) | N/A |
-| 49 | [#TaklukkanUtbk](http://twitter.com/search?q=%23TaklukkanUtbk) | N/A |
-| 50 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
+| 41 | [#NYFWdahyun](http://twitter.com/search?q=%23NYFWdahyun) | N/A |
+| 42 | [#MICHAELKORSxDAHYUN](http://twitter.com/search?q=%23MICHAELKORSxDAHYUN) | N/A |
+| 43 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 44 | [#O_D19](http://twitter.com/search?q=%23O_D19) | N/A |
+| 45 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
+| 46 | [#KristMeValentine](http://twitter.com/search?q=%23KristMeValentine) | N/A |
+| 47 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
+| 48 | [#KimSooHyun](http://twitter.com/search?q=%23KimSooHyun) | N/A |
+| 49 | [#카이버블](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%b2%84%eb%b8%94) | N/A |
+| 50 | [#OPPOPortraitofLoveXLazada](http://twitter.com/search?q=%23OPPOPortraitofLoveXLazada) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-15 15:17:37 UTC`
+📆 Last Updated: `2023-02-15 16:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [Feliz 122](http://twitter.com/search?q=Feliz+122) | N/A |
-| 3 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 4 | [#122AñosDeGloria](http://twitter.com/search?q=%23122A%c3%b1osDeGloria) | N/A |
-| 5 | [Sport Huancayo](http://twitter.com/search?q=Sport+Huancayo) | N/A |
-| 6 | [María Elena Moyano](http://twitter.com/search?q=Mar%c3%ada+Elena+Moyano) | N/A |
-| 7 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 8 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 9 | [Apruebo](http://twitter.com/search?q=Apruebo) | N/A |
-| 10 | [Felices 122](http://twitter.com/search?q=Felices+122) | N/A |
+| 2 | [#122AñosDeGloria](http://twitter.com/search?q=%23122A%c3%b1osDeGloria) | N/A |
+| 3 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
+| 4 | [Feliz 122](http://twitter.com/search?q=Feliz+122) | N/A |
+| 5 | [María Elena Moyano](http://twitter.com/search?q=Mar%c3%ada+Elena+Moyano) | N/A |
+| 6 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 7 | [Sport Huancayo](http://twitter.com/search?q=Sport+Huancayo) | N/A |
+| 8 | [Felices 122](http://twitter.com/search?q=Felices+122) | N/A |
+| 9 | [Augusto Menéndez](http://twitter.com/search?q=Augusto+Men%c3%a9ndez) | N/A |
+| 10 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
 | 11 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 14 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 15 | [Sunedu](http://twitter.com/search?q=Sunedu) | N/A |
-| 16 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 17 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 12 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 13 | [Apruebo](http://twitter.com/search?q=Apruebo) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
+| 16 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 17 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 18 | [Feliz Aniversario](http://twitter.com/search?q=Feliz+Aniversario) | N/A |
-| 19 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 20 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 21 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 22 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 23 | [Yaneth Navarro](http://twitter.com/search?q=Yaneth+Navarro) | N/A |
-| 24 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 25 | [Nacional de Paraguay](http://twitter.com/search?q=Nacional+de+Paraguay) | N/A |
-| 26 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 28 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 29 | [VRAEM](http://twitter.com/search?q=VRAEM) | N/A |
-| 30 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 31 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 32 | [Millán](http://twitter.com/search?q=Mill%c3%a1n) | N/A |
-| 33 | [Malcricarmen](http://twitter.com/search?q=Malcricarmen) | N/A |
-| 34 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 35 | [Cacas](http://twitter.com/search?q=Cacas) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [donnarumma](http://twitter.com/search?q=donnarumma) | N/A |
-| 38 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
-| 39 | [Centro Histórico de Lima](http://twitter.com/search?q=Centro+Hist%c3%b3rico+de+Lima) | N/A |
-| 40 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 41 | [aliancista](http://twitter.com/search?q=aliancista) | N/A |
-| 42 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
-| 43 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 44 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 45 | [techito](http://twitter.com/search?q=techito) | N/A |
-| 46 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 48 | [Aprobado](http://twitter.com/search?q=Aprobado) | N/A |
-| 49 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 50 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 19 | [SUNEDU](http://twitter.com/search?q=SUNEDU) | N/A |
+| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 21 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 22 | [Cacas](http://twitter.com/search?q=Cacas) | N/A |
+| 23 | [YANETH NAVARRO](http://twitter.com/search?q=YANETH+NAVARRO) | N/A |
+| 24 | [Malcricarmen](http://twitter.com/search?q=Malcricarmen) | N/A |
+| 25 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 26 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 27 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 28 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 29 | [Millán](http://twitter.com/search?q=Mill%c3%a1n) | N/A |
+| 30 | [VRAEM](http://twitter.com/search?q=VRAEM) | N/A |
+| 31 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 32 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 33 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 34 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 35 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 36 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
+| 37 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
+| 38 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 41 | [Alva](http://twitter.com/search?q=Alva) | N/A |
+| 42 | [Aprobado](http://twitter.com/search?q=Aprobado) | N/A |
+| 43 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 44 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 45 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 46 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 47 | [Cirilo Jara](http://twitter.com/search?q=Cirilo+Jara) | N/A |
+| 48 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 49 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 50 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
 
 
 

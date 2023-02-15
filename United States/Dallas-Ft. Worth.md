@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-15 15:17:22 UTC`
+📆 Last Updated: `2023-02-15 16:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [#texashockey](http://twitter.com/search?q=%23texashockey) | N/A |
+| 2 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
 | 3 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 4 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 5 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 6 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 10 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
-| 11 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 13 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 14 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 15 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 16 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 17 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 18 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
-| 19 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 20 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 21 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 22 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 23 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
-| 24 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 25 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 26 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 5 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 6 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Warzone Ranked](http://twitter.com/search?q=Warzone+Ranked) | N/A |
+| 9 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 10 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 12 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 13 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
+| 14 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 15 | [#PokemonTogether](http://twitter.com/search?q=%23PokemonTogether) | N/A |
+| 16 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 17 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 18 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 19 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
+| 20 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 21 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 23 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
+| 24 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 25 | [To Save Money](http://twitter.com/search?q=To+Save+Money) | N/A |
+| 26 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
 | 27 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 28 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
-| 29 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
-| 30 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 31 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 32 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
-| 33 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 34 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 35 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
-| 36 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 37 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 38 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 39 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
-| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 41 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
-| 42 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 28 | [Tops](http://twitter.com/search?q=Tops) | N/A |
+| 29 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 30 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 31 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 32 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 33 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 34 | [John Brennan](http://twitter.com/search?q=John+Brennan) | N/A |
+| 35 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 36 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 37 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 38 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 39 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 40 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 41 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
+| 42 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
 | 43 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 44 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 45 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 46 | [Cousin Eddie](http://twitter.com/search?q=Cousin+Eddie) | N/A |
-| 47 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 48 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
-| 49 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 44 | [Rachel Maddow](http://twitter.com/search?q=Rachel+Maddow) | N/A |
+| 45 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 46 | [Amy Poehler](http://twitter.com/search?q=Amy+Poehler) | N/A |
+| 47 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 48 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 49 | [Alex Ovechkin](http://twitter.com/search?q=Alex+Ovechkin) | N/A |
 
 
 

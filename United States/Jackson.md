@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-15 15:17:24 UTC`
+📆 Last Updated: `2023-02-15 16:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 2 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 4 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
-| 5 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 6 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 7 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 8 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 9 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
-| 10 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 12 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 13 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
-| 14 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 15 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 16 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 17 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 18 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
-| 19 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 20 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 21 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 22 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 23 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
-| 24 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
-| 25 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 26 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
-| 27 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 28 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 29 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
-| 30 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 31 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 32 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 33 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
-| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 35 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 36 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 37 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
-| 38 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 39 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 40 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 41 | [Cousin Eddie](http://twitter.com/search?q=Cousin+Eddie) | N/A |
-| 42 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 43 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
-| 44 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 45 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 46 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 47 | [Klondike](http://twitter.com/search?q=Klondike) | N/A |
+| 3 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 5 | [Warzone Ranked](http://twitter.com/search?q=Warzone+Ranked) | N/A |
+| 6 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 7 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 10 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
+| 11 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 12 | [#PokemonTogether](http://twitter.com/search?q=%23PokemonTogether) | N/A |
+| 13 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 14 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 15 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 16 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
+| 17 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 18 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 19 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 20 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
+| 21 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 22 | [To Save Money](http://twitter.com/search?q=To+Save+Money) | N/A |
+| 23 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 24 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 25 | [Tops](http://twitter.com/search?q=Tops) | N/A |
+| 26 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 27 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 28 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 29 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 30 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 31 | [John Brennan](http://twitter.com/search?q=John+Brennan) | N/A |
+| 32 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 33 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 34 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 35 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 36 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 37 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 38 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
+| 39 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
+| 40 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 41 | [Rachel Maddow](http://twitter.com/search?q=Rachel+Maddow) | N/A |
+| 42 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 43 | [Amy Poehler](http://twitter.com/search?q=Amy+Poehler) | N/A |
+| 44 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 45 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 46 | [Alex Ovechkin](http://twitter.com/search?q=Alex+Ovechkin) | N/A |
+| 47 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
 
 
 

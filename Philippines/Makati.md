@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-15 15:17:04 UTC`
+📆 Last Updated: `2023-02-15 16:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,44 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
 | 2 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
-| 3 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
-| 4 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 5 | [#HORI7ONonPIE](http://twitter.com/search?q=%23HORI7ONonPIE) | N/A |
-| 6 | [#MCIAmaNamin](http://twitter.com/search?q=%23MCIAmaNamin) | N/A |
+| 3 | [#MICHAELKORSFW23xDAHYUN](http://twitter.com/search?q=%23MICHAELKORSFW23xDAHYUN) | N/A |
+| 4 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 5 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 6 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
 | 7 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
 | 8 | [NADINE INTRO](http://twitter.com/search?q=NADINE+INTRO) | N/A |
-| 9 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
-| 10 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 11 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
-| 12 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
-| 13 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
-| 14 | [O MOOD TEASER](http://twitter.com/search?q=O+MOOD+TEASER) | N/A |
-| 15 | [FRANSETH OurChiaraAndNico](http://twitter.com/search?q=FRANSETH+OurChiaraAndNico) | N/A |
-| 16 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
-| 17 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
-| 18 | [Padre Damaso](http://twitter.com/search?q=Padre+Damaso) | N/A |
-| 19 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
-| 20 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 21 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 22 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 23 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 24 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
-| 25 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 26 | [Hearts Day](http://twitter.com/search?q=Hearts+Day) | N/A |
-| 27 | [UPCAT](http://twitter.com/search?q=UPCAT) | N/A |
-| 28 | [Tiya Isabel](http://twitter.com/search?q=Tiya+Isabel) | N/A |
-| 29 | [WE ARE ONE KIANOS](http://twitter.com/search?q=WE+ARE+ONE+KIANOS) | N/A |
-| 30 | [PIE DATE WITH VINCI](http://twitter.com/search?q=PIE+DATE+WITH+VINCI) | N/A |
-| 31 | [PIENALO KA MARCUS](http://twitter.com/search?q=PIENALO+KA+MARCUS) | N/A |
-| 32 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 33 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
-| 34 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 35 | [MANILA](http://twitter.com/search?q=MANILA) | N/A |
-| 36 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 37 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
-| 38 | [PIE KIM](http://twitter.com/search?q=PIE+KIM) | N/A |
-| 39 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 40 | [Fuslie](http://twitter.com/search?q=Fuslie) | N/A |
-| 41 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
-| 42 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 43 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 44 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 45 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
-| 46 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 47 | [FRANSETH PumaFebIbig](http://twitter.com/search?q=FRANSETH+PumaFebIbig) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 50 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 9 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 10 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 11 | [Park Jeongwoo](http://twitter.com/search?q=Park+Jeongwoo) | N/A |
+| 12 | [tiya isabel](http://twitter.com/search?q=tiya+isabel) | N/A |
+| 13 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 14 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
+| 15 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
+| 16 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 17 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
+| 18 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 19 | [David](http://twitter.com/search?q=David) | N/A |
+| 20 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 21 | [#dlmysteriouswoman](http://twitter.com/search?q=%23dlmysteriouswoman) | N/A |
+| 22 | [#HORI7ONonPIE](http://twitter.com/search?q=%23HORI7ONonPIE) | N/A |
+| 23 | [#MCIAmaNamin](http://twitter.com/search?q=%23MCIAmaNamin) | N/A |
+| 24 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 25 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
+| 26 | [#TenLittleMistresses](http://twitter.com/search?q=%23TenLittleMistresses) | N/A |
+| 27 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
+| 28 | [#CONQuest2023](http://twitter.com/search?q=%23CONQuest2023) | N/A |
+| 29 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 30 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 31 | [#FPJBQBuhayQuiapo](http://twitter.com/search?q=%23FPJBQBuhayQuiapo) | N/A |
+| 32 | [#G22_AnnivCB](http://twitter.com/search?q=%23G22_AnnivCB) | N/A |
+| 33 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
+| 34 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
+| 35 | [#HORI7ON_KIM](http://twitter.com/search?q=%23HORI7ON_KIM) | N/A |
+| 36 | [#BOYCOTTEBxGMA707](http://twitter.com/search?q=%23BOYCOTTEBxGMA707) | N/A |
+| 37 | [#HORI7ON_JEROMY](http://twitter.com/search?q=%23HORI7ON_JEROMY) | N/A |
+| 38 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
+| 39 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
+| 40 | [#MNL48](http://twitter.com/search?q=%23MNL48) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-02-15 15:16:50 UTC`
+📆 Last Updated: `2023-02-15 16:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 2 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 2 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 3 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
 | 4 | [#Lufthansa](http://twitter.com/search?q=%23Lufthansa) | N/A |
 | 5 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
 | 6 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 7 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 8 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 9 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 10 | [#Zukunftszentrum](http://twitter.com/search?q=%23Zukunftszentrum) | N/A |
+| 7 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 8 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 9 | [#Zukunftszentrum](http://twitter.com/search?q=%23Zukunftszentrum) | N/A |
+| 10 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
 | 11 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 12 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 13 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 14 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 15 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 17 | ["Nationalpazifismus"](http://twitter.com/search?q=%22Nationalpazifismus%22) | N/A |
-| 18 | [Kabel](http://twitter.com/search?q=Kabel) | N/A |
-| 19 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
-| 20 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 21 | [Briefwahlstimmen](http://twitter.com/search?q=Briefwahlstimmen) | N/A |
+| 12 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 13 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 14 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 15 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 17 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
+| 18 | [nationalpazifismus](http://twitter.com/search?q=nationalpazifismus) | N/A |
+| 19 | [Briefwahlstimmen](http://twitter.com/search?q=Briefwahlstimmen) | N/A |
+| 20 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 21 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
 | 22 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
 | 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 24 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 25 | [Beton](http://twitter.com/search?q=Beton) | N/A |
-| 26 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 27 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 28 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 29 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 30 | [Baggerfahrer](http://twitter.com/search?q=Baggerfahrer) | N/A |
-| 31 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
-| 32 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
-| 33 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 34 | [Masala](http://twitter.com/search?q=Masala) | N/A |
-| 35 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 36 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 37 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
-| 40 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 41 | [Redundanz](http://twitter.com/search?q=Redundanz) | N/A |
-| 42 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 43 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 44 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 45 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
-| 46 | [Lichtenberg](http://twitter.com/search?q=Lichtenberg) | N/A |
-| 47 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 48 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 49 | [Klöckner](http://twitter.com/search?q=Kl%c3%b6ckner) | N/A |
-| 50 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 24 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 25 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 26 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 27 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 28 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 29 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 30 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 31 | [Masala](http://twitter.com/search?q=Masala) | N/A |
+| 32 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 33 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 34 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 35 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
+| 36 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 37 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
+| 38 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 40 | [Beton](http://twitter.com/search?q=Beton) | N/A |
+| 41 | [Julia Klöckner](http://twitter.com/search?q=Julia+Kl%c3%b6ckner) | N/A |
+| 42 | [lichtenberg](http://twitter.com/search?q=lichtenberg) | N/A |
+| 43 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 44 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
+| 45 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
+| 46 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 47 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 48 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 49 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 50 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
 
 
 

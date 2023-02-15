@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-15 15:17:20 UTC`
+📆 Last Updated: `2023-02-15 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Babyface](http://twitter.com/search?q=Babyface) | N/A |
-| 2 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 3 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
-| 4 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 5 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 7 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 8 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 9 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 10 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 12 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
-| 13 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 15 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 16 | [#blockelon](http://twitter.com/search?q=%23blockelon) | N/A |
-| 17 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 2 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
+| 3 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 4 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 5 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 8 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 9 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
+| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 11 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 12 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 13 | [#PokemonTogether](http://twitter.com/search?q=%23PokemonTogether) | N/A |
+| 14 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 15 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 16 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 17 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
 | 18 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 19 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 20 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 21 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
-| 22 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 23 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
+| 19 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 20 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 21 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 22 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
+| 23 | [To Save Money](http://twitter.com/search?q=To+Save+Money) | N/A |
 | 24 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 25 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 26 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 27 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
-| 28 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 29 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 30 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 31 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 32 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
-| 33 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
-| 34 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 35 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 36 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
-| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 38 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 39 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
-| 40 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 41 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 42 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 43 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
-| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 45 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 46 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
-| 47 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 48 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 49 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 25 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 26 | [Tops](http://twitter.com/search?q=Tops) | N/A |
+| 27 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 28 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 29 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 30 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 31 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 32 | [John Brennan](http://twitter.com/search?q=John+Brennan) | N/A |
+| 33 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 34 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 35 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 36 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 37 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 38 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
+| 39 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 40 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
+| 41 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 42 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
+| 43 | [Rachel Maddow](http://twitter.com/search?q=Rachel+Maddow) | N/A |
+| 44 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
+| 45 | [Amy Poehler](http://twitter.com/search?q=Amy+Poehler) | N/A |
+| 46 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 47 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 48 | [Alex Ovechkin](http://twitter.com/search?q=Alex+Ovechkin) | N/A |
+| 49 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
 
 
 

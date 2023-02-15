@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-02-15 15:17:23 UTC`
+📆 Last Updated: `2023-02-15 16:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,49 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 2 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 4 | [Cuse](http://twitter.com/search?q=Cuse) | N/A |
 | 5 | [Bert Smith](http://twitter.com/search?q=Bert+Smith) | N/A |
 | 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 7 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 8 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 9 | [#LetsGoCanes](http://twitter.com/search?q=%23LetsGoCanes) | N/A |
-| 10 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 11 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 12 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 13 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
-| 14 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 16 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 17 | [#blockelon](http://twitter.com/search?q=%23blockelon) | N/A |
-| 18 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 19 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 20 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 21 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 22 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
-| 23 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 24 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 25 | [SROs](http://twitter.com/search?q=SROs) | N/A |
-| 26 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 27 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
-| 28 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 29 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
-| 30 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 31 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 32 | [$UPST](http://twitter.com/search?q=%24UPST) | N/A |
-| 33 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
-| 34 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 35 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
-| 36 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
-| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 38 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 39 | [McPherson Square](http://twitter.com/search?q=McPherson+Square) | N/A |
-| 40 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 41 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
-| 42 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 43 | [Union Station](http://twitter.com/search?q=Union+Station) | N/A |
-| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 45 | [CEO of Twitter](http://twitter.com/search?q=CEO+of+Twitter) | N/A |
-| 46 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 47 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 9 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 10 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 11 | [Warzone Ranked](http://twitter.com/search?q=Warzone+Ranked) | N/A |
+| 12 | [3% in January](http://twitter.com/search?q=3%25+in+January) | N/A |
+| 13 | [Bally Sports](http://twitter.com/search?q=Bally+Sports) | N/A |
+| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 15 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 16 | [Payton Gendron](http://twitter.com/search?q=Payton+Gendron) | N/A |
+| 17 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 18 | [#PokemonTogether](http://twitter.com/search?q=%23PokemonTogether) | N/A |
+| 19 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 20 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 21 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 22 | [Team 2](http://twitter.com/search?q=Team+2) | N/A |
+| 23 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 24 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 25 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 26 | [Vince Russo](http://twitter.com/search?q=Vince+Russo) | N/A |
+| 27 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 28 | [To Save Money](http://twitter.com/search?q=To+Save+Money) | N/A |
+| 29 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 30 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 31 | [Tops](http://twitter.com/search?q=Tops) | N/A |
+| 32 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 33 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 34 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 35 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 36 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 37 | [John Brennan](http://twitter.com/search?q=John+Brennan) | N/A |
+| 38 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 39 | [Susan B. Anthony](http://twitter.com/search?q=Susan+B.+Anthony) | N/A |
+| 40 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 41 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 42 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 43 | [O'Hare](http://twitter.com/search?q=O%27Hare) | N/A |
+| 44 | [Tina Fey](http://twitter.com/search?q=Tina+Fey) | N/A |
 
 
 
