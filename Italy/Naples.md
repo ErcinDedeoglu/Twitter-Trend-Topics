@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-15 13:21:21 UTC`
+📆 Last Updated: `2023-02-15 14:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 2 | [#RubyTer](http://twitter.com/search?q=%23RubyTer) | N/A |
-| 3 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 2 | [#MilanTottenham](http://twitter.com/search?q=%23MilanTottenham) | N/A |
+| 3 | [#RubyTer](http://twitter.com/search?q=%23RubyTer) | N/A |
 | 4 | [#15febbraio](http://twitter.com/search?q=%2315febbraio) | N/A |
 | 5 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 6 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 7 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
 | 8 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
 | 9 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 10 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
-| 11 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 10 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 11 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 | 12 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
 | 13 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 14 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 14 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
 | 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 17 | [Bonzi](http://twitter.com/search?q=Bonzi) | N/A |
-| 18 | [Libero](http://twitter.com/search?q=Libero) | N/A |
-| 19 | [Nel 2035](http://twitter.com/search?q=Nel+2035) | N/A |
-| 20 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 21 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 22 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 23 | [kane](http://twitter.com/search?q=kane) | N/A |
-| 24 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 25 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 16 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 17 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 18 | [Nel 2035](http://twitter.com/search?q=Nel+2035) | N/A |
+| 19 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 20 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 21 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 23 | [Libero](http://twitter.com/search?q=Libero) | N/A |
+| 24 | [Silvio Berlusconi](http://twitter.com/search?q=Silvio+Berlusconi) | N/A |
+| 25 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
 | 26 | [Letta](http://twitter.com/search?q=Letta) | N/A |
 | 27 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 28 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 29 | [Floris](http://twitter.com/search?q=Floris) | N/A |
-| 30 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 31 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
-| 32 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 33 | [Silvio Berlusconi](http://twitter.com/search?q=Silvio+Berlusconi) | N/A |
-| 34 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 35 | [Dal 2035](http://twitter.com/search?q=Dal+2035) | N/A |
-| 36 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 37 | [Baltico](http://twitter.com/search?q=Baltico) | N/A |
-| 38 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 39 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
-| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 41 | [minchiotti](http://twitter.com/search?q=minchiotti) | N/A |
-| 42 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 43 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
-| 44 | [Franz Kafka](http://twitter.com/search?q=Franz+Kafka) | N/A |
-| 45 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 46 | [massi](http://twitter.com/search?q=massi) | N/A |
-| 47 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 48 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 49 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 50 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 28 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 29 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 30 | [Floris](http://twitter.com/search?q=Floris) | N/A |
+| 31 | [borgonovo](http://twitter.com/search?q=borgonovo) | N/A |
+| 32 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 33 | [Dal 2035](http://twitter.com/search?q=Dal+2035) | N/A |
+| 34 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 35 | [Baltico](http://twitter.com/search?q=Baltico) | N/A |
+| 36 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
+| 37 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 38 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 39 | [bonzi](http://twitter.com/search?q=bonzi) | N/A |
+| 40 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 41 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 42 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 43 | [Franz Kafka](http://twitter.com/search?q=Franz+Kafka) | N/A |
+| 44 | [Il 60%](http://twitter.com/search?q=Il+60%25) | N/A |
+| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 46 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 47 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 48 | [Massi](http://twitter.com/search?q=Massi) | N/A |
+| 49 | [Innaro](http://twitter.com/search?q=Innaro) | N/A |
+| 50 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
 
 
 

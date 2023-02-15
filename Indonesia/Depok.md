@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-15 13:21:25 UTC`
+📆 Last Updated: `2023-02-15 14:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
 | 3 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
 | 4 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 5 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 6 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
-| 7 | [CEO BUMN](http://twitter.com/search?q=CEO+BUMN) | N/A |
-| 8 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
+| 5 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
+| 6 | [CEO BUMN](http://twitter.com/search?q=CEO+BUMN) | N/A |
+| 7 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 8 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
 | 9 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 10 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
-| 11 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 12 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
-| 13 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 14 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 15 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 16 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
-| 17 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 18 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 19 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 20 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 21 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 10 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 11 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
+| 12 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 13 | [Pilot](http://twitter.com/search?q=Pilot) | N/A |
+| 14 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 15 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
+| 16 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
+| 17 | [Turut](http://twitter.com/search?q=Turut) | N/A |
+| 18 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 19 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 20 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
+| 21 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
 | 22 | [Balikin](http://twitter.com/search?q=Balikin) | N/A |
-| 23 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 24 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 25 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 26 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 27 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
-| 28 | [Pede](http://twitter.com/search?q=Pede) | N/A |
-| 29 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 30 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 31 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 32 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
-| 33 | [DEBUT](http://twitter.com/search?q=DEBUT) | N/A |
-| 34 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
-| 35 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 36 | [#StageMasterBAE173](http://twitter.com/search?q=%23StageMasterBAE173) | N/A |
-| 37 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 38 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
-| 39 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 40 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 41 | [#taklukkanutbk](http://twitter.com/search?q=%23taklukkanutbk) | N/A |
-| 42 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
-| 43 | [#TNX_LoveOrDieMV](http://twitter.com/search?q=%23TNX_LoveOrDieMV) | N/A |
-| 44 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
-| 45 | [#LoveNeverDiesWithTNX](http://twitter.com/search?q=%23LoveNeverDiesWithTNX) | N/A |
-| 46 | [#PradaSS23](http://twitter.com/search?q=%23PradaSS23) | N/A |
-| 47 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
-| 48 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
+| 23 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 24 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 25 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 26 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
+| 27 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 28 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 29 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 30 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 31 | [Pede](http://twitter.com/search?q=Pede) | N/A |
+| 32 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 33 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
+| 34 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
+| 35 | [Debut](http://twitter.com/search?q=Debut) | N/A |
+| 36 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
+| 37 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 38 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 39 | [#StageMasterBAE173](http://twitter.com/search?q=%23StageMasterBAE173) | N/A |
+| 40 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
+| 41 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 42 | [#BNIxNCT127](http://twitter.com/search?q=%23BNIxNCT127) | N/A |
+| 43 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 44 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 45 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
+| 46 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 47 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 48 | [#TNX_LoveOrDieMV](http://twitter.com/search?q=%23TNX_LoveOrDieMV) | N/A |
 
 
 

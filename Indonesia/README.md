@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-15 13:22:01 UTC`
+📆 Last Updated: `2023-02-15 14:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,50 @@ This is top 50 for Indonesia
 | 4 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
 | 5 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
 | 6 | [CEO BUMN](http://twitter.com/search?q=CEO+BUMN) | N/A |
-| 7 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
-| 8 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
-| 9 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
-| 10 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 11 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
-| 12 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 13 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
-| 14 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 15 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 16 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 17 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
-| 18 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 19 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 20 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 21 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 22 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 7 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
+| 8 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 9 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
+| 10 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 11 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 12 | [Overtaking](http://twitter.com/search?q=Overtaking) | N/A |
+| 13 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 14 | [Pilot](http://twitter.com/search?q=Pilot) | N/A |
+| 15 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 16 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
+| 17 | [mandat daerah untuk indonesia](http://twitter.com/search?q=mandat+daerah+untuk+indonesia) | N/A |
+| 18 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 19 | [Turut](http://twitter.com/search?q=Turut) | N/A |
+| 20 | [Duduk](http://twitter.com/search?q=Duduk) | N/A |
+| 21 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 22 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
 | 23 | [Balikin](http://twitter.com/search?q=Balikin) | N/A |
-| 24 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 25 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 26 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 27 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 28 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
-| 29 | [Pede](http://twitter.com/search?q=Pede) | N/A |
-| 30 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 31 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 32 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 33 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
-| 34 | [DEBUT](http://twitter.com/search?q=DEBUT) | N/A |
-| 35 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
-| 36 | [#StageMasterBAE173](http://twitter.com/search?q=%23StageMasterBAE173) | N/A |
-| 37 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
-| 38 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 24 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 25 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 26 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 27 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 28 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 29 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 30 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 31 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 32 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 33 | [Pede](http://twitter.com/search?q=Pede) | N/A |
+| 34 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 35 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
+| 36 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
+| 37 | [Debut](http://twitter.com/search?q=Debut) | N/A |
+| 38 | [Jaksa](http://twitter.com/search?q=Jaksa) | N/A |
 | 39 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 40 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 41 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 42 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
-| 43 | [#TNX_LoveOrDieMV](http://twitter.com/search?q=%23TNX_LoveOrDieMV) | N/A |
-| 44 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
-| 45 | [#LoveNeverDiesWithTNX](http://twitter.com/search?q=%23LoveNeverDiesWithTNX) | N/A |
-| 46 | [#PradaSS23](http://twitter.com/search?q=%23PradaSS23) | N/A |
-| 47 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
-| 48 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
-| 49 | [#tebakskorbarcastuff](http://twitter.com/search?q=%23tebakskorbarcastuff) | N/A |
+| 40 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 41 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
+| 42 | [#BNIxNCT127](http://twitter.com/search?q=%23BNIxNCT127) | N/A |
+| 43 | [#StageMasterBAE173](http://twitter.com/search?q=%23StageMasterBAE173) | N/A |
+| 44 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 45 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 46 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
+| 47 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 48 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 49 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
+| 50 | [#LoveNeverDiesWithTNX](http://twitter.com/search?q=%23LoveNeverDiesWithTNX) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-02-15 13:21:55 UTC`
+📆 Last Updated: `2023-02-15 14:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ripcity](http://twitter.com/search?q=%23ripcity) | N/A |
-| 2 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 5 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 8 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 9 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 10 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 11 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 13 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 14 | [Michigan State University](http://twitter.com/search?q=Michigan+State+University) | N/A |
-| 15 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 17 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 18 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 20 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 21 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 22 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 23 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 24 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 26 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 27 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 28 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 29 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 30 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 31 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 32 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 33 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 34 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 35 | [Barney](http://twitter.com/search?q=Barney) | N/A |
-| 36 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 37 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 40 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 41 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 42 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 43 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 44 | [Monken](http://twitter.com/search?q=Monken) | N/A |
-| 45 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 46 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 47 | [happy love](http://twitter.com/search?q=happy+love) | N/A |
-| 48 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 49 | [East Lansing](http://twitter.com/search?q=East+Lansing) | N/A |
-| 50 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 1 | [#RipCity](http://twitter.com/search?q=%23RipCity) | N/A |
+| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 3 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 5 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 8 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 9 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 10 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 14 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 15 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 16 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 17 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 18 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 19 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 20 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 21 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
+| 22 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 23 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
+| 24 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 26 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 27 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 28 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 29 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 30 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 31 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 32 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 33 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 34 | [Term](http://twitter.com/search?q=Term) | N/A |
+| 35 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 36 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 37 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 38 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 39 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 40 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 41 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
+| 42 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
+| 43 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 44 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
+| 45 | [#FullSwing](http://twitter.com/search?q=%23FullSwing) | N/A |
+| 46 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 47 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
+| 48 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
+| 49 | [#Floki](http://twitter.com/search?q=%23Floki) | N/A |
+| 50 | [#WuTangonHulu](http://twitter.com/search?q=%23WuTangonHulu) | N/A |
 
 
 

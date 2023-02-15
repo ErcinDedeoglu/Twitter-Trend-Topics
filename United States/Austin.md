@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-15 13:21:49 UTC`
+📆 Last Updated: `2023-02-15 14:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 2 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 3 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 2 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 3 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 4 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 7 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 9 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 10 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
-| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 12 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 14 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
-| 15 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 16 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 17 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 18 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 19 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 20 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
-| 21 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 22 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
-| 23 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 24 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 25 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 26 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 27 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 28 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 29 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 30 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 31 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 32 | [Epstein Island](http://twitter.com/search?q=Epstein+Island) | N/A |
-| 33 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
-| 34 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 35 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
-| 36 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 37 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
-| 38 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 39 | [#Floki](http://twitter.com/search?q=%23Floki) | N/A |
-| 40 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
-| 41 | [#EastPalestineOH](http://twitter.com/search?q=%23EastPalestineOH) | N/A |
-| 42 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
-| 43 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 44 | [#NikkiHaley](http://twitter.com/search?q=%23NikkiHaley) | N/A |
-| 45 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
-| 46 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
-| 47 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 48 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
-| 49 | [#LoveCampingWorld](http://twitter.com/search?q=%23LoveCampingWorld) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 9 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 10 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 11 | [0.0 GPA](http://twitter.com/search?q=0.0+GPA) | N/A |
+| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 13 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 14 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 15 | [Pitchers](http://twitter.com/search?q=Pitchers) | N/A |
+| 16 | [School Resource Officers](http://twitter.com/search?q=School+Resource+Officers) | N/A |
+| 17 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 18 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 19 | [SROs](http://twitter.com/search?q=SROs) | N/A |
+| 20 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 21 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 22 | [Jean-Pierre](http://twitter.com/search?q=Jean-Pierre) | N/A |
+| 23 | [Chelsea Handler](http://twitter.com/search?q=Chelsea+Handler) | N/A |
+| 24 | [Say Her Name](http://twitter.com/search?q=Say+Her+Name) | N/A |
+| 25 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 26 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 28 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 29 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 30 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 31 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 32 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 33 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 34 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 35 | [Term](http://twitter.com/search?q=Term) | N/A |
+| 36 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 37 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 38 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 39 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 40 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 41 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 42 | [#Wordle606](http://twitter.com/search?q=%23Wordle606) | N/A |
+| 43 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
+| 44 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 45 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
+| 46 | [#FullSwing](http://twitter.com/search?q=%23FullSwing) | N/A |
+| 47 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 48 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
+| 49 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
+| 50 | [#Floki](http://twitter.com/search?q=%23Floki) | N/A |
 
 
 

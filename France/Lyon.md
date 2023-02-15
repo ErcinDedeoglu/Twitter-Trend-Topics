@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-02-15 13:21:18 UTC`
+📆 Last Updated: `2023-02-15 14:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 2 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 2 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 3 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 4 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
 | 5 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 6 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 7 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 8 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 9 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 8 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 9 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 12 | [#NeyDay](http://twitter.com/search?q=%23NeyDay) | N/A |
 | 13 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 14 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 15 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 16 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 18 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 14 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
+| 15 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 16 | [Jacques Martin](http://twitter.com/search?q=Jacques+Martin) | N/A |
+| 17 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 18 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
 | 19 | [Oussama Ammar](http://twitter.com/search?q=Oussama+Ammar) | N/A |
-| 20 | [MEDEF](http://twitter.com/search?q=MEDEF) | N/A |
-| 21 | [Jacques Martin](http://twitter.com/search?q=Jacques+Martin) | N/A |
-| 22 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 20 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 21 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
+| 22 | [MEDEF](http://twitter.com/search?q=MEDEF) | N/A |
 | 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 24 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
-| 25 | [Gildas](http://twitter.com/search?q=Gildas) | N/A |
-| 26 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 27 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 29 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 30 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 31 | [L'article 2](http://twitter.com/search?q=L%27article+2) | N/A |
-| 32 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
-| 33 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 34 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 35 | [Patrick Roy](http://twitter.com/search?q=Patrick+Roy) | N/A |
-| 36 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 37 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 38 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 39 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 40 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 41 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 42 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
-| 45 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 46 | [Panier](http://twitter.com/search?q=Panier) | N/A |
-| 47 | [Tifo](http://twitter.com/search?q=Tifo) | N/A |
-| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 49 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
-| 50 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 24 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 25 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 27 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
+| 28 | [Gildas](http://twitter.com/search?q=Gildas) | N/A |
+| 29 | [L'article 2](http://twitter.com/search?q=L%27article+2) | N/A |
+| 30 | [Patrick Roy](http://twitter.com/search?q=Patrick+Roy) | N/A |
+| 31 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 32 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 34 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 35 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 36 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 37 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 38 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 39 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 40 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 41 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 42 | [Panier](http://twitter.com/search?q=Panier) | N/A |
+| 43 | [Tifo](http://twitter.com/search?q=Tifo) | N/A |
+| 44 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 45 | [Pharrell Williams](http://twitter.com/search?q=Pharrell+Williams) | N/A |
+| 46 | [Shin](http://twitter.com/search?q=Shin) | N/A |
+| 47 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 48 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
+| 49 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 50 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
 
 
 

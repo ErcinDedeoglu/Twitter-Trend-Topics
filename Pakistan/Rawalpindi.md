@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-15 13:21:43 UTC`
+📆 Last Updated: `2023-02-15 14:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
-| 2 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
+| 1 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
+| 2 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
 | 3 | [#PZvsKK](http://twitter.com/search?q=%23PZvsKK) | N/A |
-| 4 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
-| 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [#QGvMS](http://twitter.com/search?q=%23QGvMS) | N/A |
+| 5 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
 | 6 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 7 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 7 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
 | 8 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
-| 9 | [wahab](http://twitter.com/search?q=wahab) | N/A |
-| 10 | [Muhammad Aurangzeb](http://twitter.com/search?q=Muhammad+Aurangzeb) | N/A |
-| 11 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 12 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 13 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 15 | [neesham](http://twitter.com/search?q=neesham) | N/A |
-| 16 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
-| 17 | [CEO & Managing Director](http://twitter.com/search?q=CEO+%26+Managing+Director) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 20 | [tom kohler](http://twitter.com/search?q=tom+kohler) | N/A |
-| 21 | [prepare for disruption](http://twitter.com/search?q=prepare+for+disruption) | N/A |
-| 22 | [Khurram](http://twitter.com/search?q=Khurram) | N/A |
-| 23 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
-| 24 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 25 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 26 | [Shahnawaz Dahani](http://twitter.com/search?q=Shahnawaz+Dahani) | N/A |
-| 27 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
-| 28 | [Courts](http://twitter.com/search?q=Courts) | N/A |
-| 29 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 30 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 31 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 32 | [Election Commission](http://twitter.com/search?q=Election+Commission) | N/A |
-| 33 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
-| 34 | [Jemima](http://twitter.com/search?q=Jemima) | N/A |
-| 35 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 36 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 9 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 10 | [wahab](http://twitter.com/search?q=wahab) | N/A |
+| 11 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 12 | [muhammad aurangzeb](http://twitter.com/search?q=muhammad+aurangzeb) | N/A |
+| 13 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 14 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
+| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 16 | [neesham](http://twitter.com/search?q=neesham) | N/A |
+| 17 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
+| 18 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 19 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 20 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
+| 21 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 24 | [iaea](http://twitter.com/search?q=iaea) | N/A |
+| 25 | [prepare for disruption](http://twitter.com/search?q=prepare+for+disruption) | N/A |
+| 26 | [Khurram](http://twitter.com/search?q=Khurram) | N/A |
+| 27 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
+| 28 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 29 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 30 | [kohler](http://twitter.com/search?q=kohler) | N/A |
+| 31 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 32 | [Shahnawaz Dahani](http://twitter.com/search?q=Shahnawaz+Dahani) | N/A |
+| 33 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 34 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 35 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 36 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 38 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
 | 39 | [Weldon](http://twitter.com/search?q=Weldon) | N/A |
-| 40 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
-| 41 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 42 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 45 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 46 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 47 | [Everytime](http://twitter.com/search?q=Everytime) | N/A |
-| 48 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
-| 49 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 50 | [Fully Funded](http://twitter.com/search?q=Fully+Funded) | N/A |
+| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 41 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 42 | [Umar](http://twitter.com/search?q=Umar) | Umar is an Arabic name that means "life" or "long-lived". It is also the name of the second Caliph of Islam, Umar ibn al-Khattab. |
+| 43 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 44 | [Courts](http://twitter.com/search?q=Courts) | N/A |
+| 45 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 46 | [Best of Luck](http://twitter.com/search?q=Best+of+Luck) | N/A |
+| 47 | [Haina](http://twitter.com/search?q=Haina) | N/A |
+| 48 | [Typical](http://twitter.com/search?q=Typical) | N/A |
+| 49 | [mjhy](http://twitter.com/search?q=mjhy) | N/A |
+| 50 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
 
 
 
