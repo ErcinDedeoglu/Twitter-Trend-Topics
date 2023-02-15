@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-15 10:17:54 UTC`
+📆 Last Updated: `2023-02-15 11:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#4NOMENON](http://twitter.com/search?q=%234NOMENON) | N/A |
-| 2 | [#PPKritลังเล_MV](http://twitter.com/search?q=%23PPKrit%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5_MV) | N/A |
-| 3 | [#DMDValentinesLoveLive](http://twitter.com/search?q=%23DMDValentinesLoveLive) | N/A |
-| 4 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 5 | [#AIS5GxBamBam](http://twitter.com/search?q=%23AIS5GxBamBam) | N/A |
-| 6 | [Happy Valentine's Day](http://twitter.com/search?q=Happy+Valentine%27s+Day) | N/A |
-| 7 | [mileapo be my valentine](http://twitter.com/search?q=mileapo+be+my+valentine) | N/A |
-| 8 | [Love or Die](http://twitter.com/search?q=Love+or+Die) | N/A |
-| 9 | [hbd engfa in tsq newyork](http://twitter.com/search?q=hbd+engfa+in+tsq+newyork) | N/A |
-| 10 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
-| 11 | [mew x lakorn rakrai](http://twitter.com/search?q=mew+x+lakorn+rakrai) | N/A |
-| 12 | [ARMY MEMBERSHIP](http://twitter.com/search?q=ARMY+MEMBERSHIP) | N/A |
-| 13 | [hvd paipai](http://twitter.com/search?q=hvd+paipai) | N/A |
-| 14 | [gemini hook 2m](http://twitter.com/search?q=gemini+hook+2m) | N/A |
-| 15 | [Queerbaiting](http://twitter.com/search?q=Queerbaiting) | N/A |
-| 16 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 17 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
-| 18 | [Tpop](http://twitter.com/search?q=Tpop) | N/A |
-| 19 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 20 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 21 | [England](http://twitter.com/search?q=England) | N/A |
-| 22 | [Chiang Mai](http://twitter.com/search?q=Chiang+Mai) | N/A |
-| 23 | [No.1](http://twitter.com/search?q=No.1) | N/A |
-| 24 | [#HBDEngfaWaraha](http://twitter.com/search?q=%23HBDEngfaWaraha) | N/A |
-| 25 | [#โฟร์โนมินอล](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%99%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%ad%e0%b8%a5) | N/A |
-| 26 | [#RespectTENLEE](http://twitter.com/search?q=%23RespectTENLEE) | N/A |
-| 27 | [#LoveAtFirstSitexTaratiwat](http://twitter.com/search?q=%23LoveAtFirstSitexTaratiwat) | N/A |
-| 28 | [#Punkspyfitting](http://twitter.com/search?q=%23Punkspyfitting) | N/A |
-| 29 | [#สามล้านสี่รักซีที่สุด](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%8b%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94) | N/A |
-| 30 | [#ฝนตก](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%99%e0%b8%95%e0%b8%81) | N/A |
-| 31 | [#13หมูป่า](http://twitter.com/search?q=%2313%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%9b%e0%b9%88%e0%b8%b2) | N/A |
-| 32 | [#olulove](http://twitter.com/search?q=%23olulove) | N/A |
-| 33 | [#ENGFA_BD_LEDWorldWide](http://twitter.com/search?q=%23ENGFA_BD_LEDWorldWide) | N/A |
-| 34 | [#ตะลุยมิติควอนตัมXGF](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b0%e0%b8%a5%e0%b8%b8%e0%b8%a2%e0%b8%a1%e0%b8%b4%e0%b8%95%e0%b8%b4%e0%b8%84%e0%b8%a7%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b8%b1%e0%b8%a1XGF) | N/A |
-| 35 | [#NeverLetMeGoSeriesEP10](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP10) | N/A |
-| 36 | [#JAEHYUNforPradaSS23](http://twitter.com/search?q=%23JAEHYUNforPradaSS23) | N/A |
-| 37 | [#TRINITY_TNT](http://twitter.com/search?q=%23TRINITY_TNT) | N/A |
-| 38 | [#vlnwithfatischarlotte](http://twitter.com/search?q=%23vlnwithfatischarlotte) | N/A |
-| 39 | [#น้องดอม](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%ad%e0%b8%a1) | N/A |
-| 40 | [#Flex1045xNANON](http://twitter.com/search?q=%23Flex1045xNANON) | N/A |
-| 41 | [#HappyPinkiizDay2023](http://twitter.com/search?q=%23HappyPinkiizDay2023) | N/A |
-| 42 | [#3mmileapogrowuptgt](http://twitter.com/search?q=%233mmileapogrowuptgt) | N/A |
-| 43 | [#บิวเป็นพีทที่สมบูรณ์แบบ](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b8%97%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%a1%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9a) | N/A |
-| 44 | [#สงสัยโลกอยากให้เรารักกันMV](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b8%a2%e0%b9%82%e0%b8%a5%e0%b8%81%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%99MV) | N/A |
-| 45 | [#ประชุมสภา](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
-| 46 | [#วาเลนไทน์เทใจให้นุนิว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b8%99%e0%b9%84%e0%b8%97%e0%b8%99%e0%b9%8c%e0%b9%80%e0%b8%97%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 47 | [#ParkJinYoungInBKK2023](http://twitter.com/search?q=%23ParkJinYoungInBKK2023) | #ParkJinYoungInBKK2023 is a hashtag used to promote a potential concert by South Korean singer and songwriter Park Jin Young in Bangkok, Thailand in 2023. The hashtag is used to encourage fans to show their support for the potential event. |
-| 48 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 49 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
-| 50 | [#JOHNNYforTHOMBROWNE](http://twitter.com/search?q=%23JOHNNYforTHOMBROWNE) | N/A |
+| 1 | [#MoonlightChickenEP3](http://twitter.com/search?q=%23MoonlightChickenEP3) | N/A |
+| 2 | [#AIS5GxBamBam](http://twitter.com/search?q=%23AIS5GxBamBam) | N/A |
+| 3 | [#4NOMENON](http://twitter.com/search?q=%234NOMENON) | N/A |
+| 4 | [#adidascentralworld](http://twitter.com/search?q=%23adidascentralworld) | N/A |
+| 5 | [Bright](http://twitter.com/search?q=Bright) | N/A |
+| 6 | [#ผิวไบรท์แบบNextGenกับBillkin](http://twitter.com/search?q=%23%e0%b8%9c%e0%b8%b4%e0%b8%a7%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9aNextGen%e0%b8%81%e0%b8%b1%e0%b8%9aBillkin) | N/A |
+| 7 | [PP Krit](http://twitter.com/search?q=PP+Krit) | N/A |
+| 8 | [#Punkspyfitting](http://twitter.com/search?q=%23Punkspyfitting) | N/A |
+| 9 | [#LoveAtFirstSitexTaratiwat](http://twitter.com/search?q=%23LoveAtFirstSitexTaratiwat) | N/A |
+| 10 | [#โฟร์โนมินอล](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%99%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%ad%e0%b8%a5) | N/A |
+| 11 | [#13หมูป่า](http://twitter.com/search?q=%2313%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%9b%e0%b9%88%e0%b8%b2) | N/A |
+| 12 | [#TRINITY_TNT](http://twitter.com/search?q=%23TRINITY_TNT) | N/A |
+| 13 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 14 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 15 | [#JAEHYUNforPradaSS23](http://twitter.com/search?q=%23JAEHYUNforPradaSS23) | N/A |
+| 16 | [#น้องดอม](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%ad%e0%b8%a1) | N/A |
+| 17 | [#AIS5Gที่1ตัวจริง](http://twitter.com/search?q=%23AIS5G%e0%b8%97%e0%b8%b5%e0%b9%881%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%87) | N/A |
+| 18 | [#ประชุมสภา](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
+| 19 | [#Flex1045xNANON](http://twitter.com/search?q=%23Flex1045xNANON) | N/A |
+| 20 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 21 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
+| 22 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 23 | [#NANON_UNIDWDPressTour](http://twitter.com/search?q=%23NANON_UNIDWDPressTour) | N/A |
+| 24 | [#4NOLOGUE](http://twitter.com/search?q=%234NOLOGUE) | N/A |
+| 25 | [#JeffSaturLiveOnSaturn](http://twitter.com/search?q=%23JeffSaturLiveOnSaturn) | N/A |
+| 26 | [#SFxGeminiFourth](http://twitter.com/search?q=%23SFxGeminiFourth) | N/A |
+| 27 | [#QueerFanTHasia](http://twitter.com/search?q=%23QueerFanTHasia) | N/A |
+| 28 | [#StarTarotxYinWar](http://twitter.com/search?q=%23StarTarotxYinWar) | N/A |
+| 29 | [#ตะลุยมิติควอนตัมXGF](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b0%e0%b8%a5%e0%b8%b8%e0%b8%a2%e0%b8%a1%e0%b8%b4%e0%b8%95%e0%b8%b4%e0%b8%84%e0%b8%a7%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b8%b1%e0%b8%a1XGF) | N/A |
+| 30 | [#TANSANSU](http://twitter.com/search?q=%23TANSANSU) | N/A |
+| 31 | [#จิราพรสินธุไพร](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b4%e0%b8%a3%e0%b8%b2%e0%b8%9e%e0%b8%a3%e0%b8%aa%e0%b8%b4%e0%b8%99%e0%b8%98%e0%b8%b8%e0%b9%84%e0%b8%9e%e0%b8%a3) | N/A |
+| 32 | [#scbล่ม](http://twitter.com/search?q=%23scb%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 33 | [#TANจัดให้](http://twitter.com/search?q=%23TAN%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b9%83%e0%b8%ab%e0%b9%89) | N/A |
+| 34 | [#หวานใจมิวกลัฟ](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b9%83%e0%b8%88%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | N/A |
+| 35 | [#RespectTENLEE](http://twitter.com/search?q=%23RespectTENLEE) | N/A |
+| 36 | [#อภิปราย152](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a0%e0%b8%b4%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%a2152) | N/A |
+| 37 | [#HappyPinkiizDay2023](http://twitter.com/search?q=%23HappyPinkiizDay2023) | N/A |
+| 38 | [#ฝนตก](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%99%e0%b8%95%e0%b8%81) | N/A |
+| 39 | [#บิวเป็นพีทที่สมบูรณ์แบบ](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b8%97%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%a1%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c%e0%b9%81%e0%b8%9a%e0%b8%9a) | N/A |
+| 40 | [#Saturdayss](http://twitter.com/search?q=%23Saturdayss) | N/A |
+| 41 | [#น้ําท่วม](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%97%e0%b9%88%e0%b8%a7%e0%b8%a1) | N/A |
+| 42 | [#70MriBBonBamBam](http://twitter.com/search?q=%2370MriBBonBamBam) | N/A |
+| 43 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 44 | [#เบนซ์เดม่อน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%99%e0%b8%8b%e0%b9%8c%e0%b9%80%e0%b8%94%e0%b8%a1%e0%b9%88%e0%b8%ad%e0%b8%99) | N/A |
+| 45 | [#BamBam_riBBon](http://twitter.com/search?q=%23BamBam_riBBon) | N/A |
+| 46 | [#ATLASแกล้งลืม](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1) | N/A |
+| 47 | [#ชมพูเวียงพิงค์](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%9e%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
+| 48 | [#อมอดวคตมน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%94%e0%b8%a7%e0%b8%84%e0%b8%95%e0%b8%a1%e0%b8%99) | N/A |
 
 
 

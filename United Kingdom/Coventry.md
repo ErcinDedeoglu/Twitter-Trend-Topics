@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-15 10:16:58 UTC`
+📆 Last Updated: `2023-02-15 11:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
-| 2 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 3 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 4 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
-| 5 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 8 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 9 | [#pvfc](http://twitter.com/search?q=%23pvfc) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 13 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 17 | [Jeremy Corbyn](http://twitter.com/search?q=Jeremy+Corbyn) | N/A |
-| 18 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
-| 19 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 1 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
+| 2 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 3 | [#ucuRising](http://twitter.com/search?q=%23ucuRising) | N/A |
+| 4 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 5 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 6 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
+| 7 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 9 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 10 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 11 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 12 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 13 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 14 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 15 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 16 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 17 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
+| 18 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 19 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 20 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 21 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 21 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
 | 22 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 23 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 24 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 25 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 26 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 27 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
-| 28 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 29 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 30 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
-| 31 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 32 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 33 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 34 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 35 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
-| 36 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
-| 37 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 38 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 39 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 40 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 41 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 42 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 43 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 44 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 45 | [#mercedesf1](http://twitter.com/search?q=%23mercedesf1) | N/A |
-| 46 | [#ASongOrMovieForAnythingBig](http://twitter.com/search?q=%23ASongOrMovieForAnythingBig) | N/A |
-| 47 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 48 | [#YotoCarnegies23](http://twitter.com/search?q=%23YotoCarnegies23) | N/A |
-| 49 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 50 | [#CLON](http://twitter.com/search?q=%23CLON) | N/A |
+| 23 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 24 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 25 | [Jimmy Krankie](http://twitter.com/search?q=Jimmy+Krankie) | N/A |
+| 26 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 27 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 28 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
+| 29 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 30 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 31 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 32 | [Margaret Hodge](http://twitter.com/search?q=Margaret+Hodge) | N/A |
+| 33 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 34 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
+| 35 | [Nippy](http://twitter.com/search?q=Nippy) | N/A |
+| 36 | [George Square](http://twitter.com/search?q=George+Square) | N/A |
+| 37 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
+| 38 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 39 | [Debbie](http://twitter.com/search?q=Debbie) | N/A |
+| 40 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 41 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 42 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 43 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
+| 44 | [Angel of the North](http://twitter.com/search?q=Angel+of+the+North) | N/A |
+| 45 | [Drakeford](http://twitter.com/search?q=Drakeford) | N/A |
+| 46 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 47 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 48 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
+| 49 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 50 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
 
 
 

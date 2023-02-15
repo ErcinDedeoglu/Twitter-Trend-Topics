@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-15 10:17:55 UTC`
+📆 Last Updated: `2023-02-15 11:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,43 @@ This is top 50 for Vietnam
 | 10 | [C3 Waitlist](http://twitter.com/search?q=C3+Waitlist) | N/A |
 | 11 | [Floki](http://twitter.com/search?q=Floki) | N/A |
 | 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 13 | [P'fa](http://twitter.com/search?q=P%27fa) | N/A |
-| 14 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
-| 15 | [englot](http://twitter.com/search?q=englot) | N/A |
+| 13 | [Paxos](http://twitter.com/search?q=Paxos) | N/A |
+| 14 | [P'fa](http://twitter.com/search?q=P%27fa) | N/A |
+| 15 | [Englot](http://twitter.com/search?q=Englot) | N/A |
 | 16 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
 | 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 19 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 18 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 19 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
 | 20 | [AAVE](http://twitter.com/search?q=AAVE) | N/A |
 | 21 | [Tphcm](http://twitter.com/search?q=Tphcm) | N/A |
-| 22 | [Palm](http://twitter.com/search?q=Palm) | N/A |
-| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 22 | [$NFTY](http://twitter.com/search?q=%24NFTY) | N/A |
+| 23 | [Palm](http://twitter.com/search?q=Palm) | N/A |
 | 24 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 25 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 26 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 25 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
+| 26 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 27 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 28 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 29 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 30 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 31 | [$NFTY](http://twitter.com/search?q=%24NFTY) | N/A |
-| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 33 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 34 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 36 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 38 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 39 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
-| 40 | [Quai](http://twitter.com/search?q=Quai) | N/A |
-| 41 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 42 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
-| 43 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
-| 44 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 45 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
+| 28 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 32 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 33 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 34 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 35 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 37 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 38 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
+| 39 | [Quai](http://twitter.com/search?q=Quai) | N/A |
+| 40 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 41 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
+| 42 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 43 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 44 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 45 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 46 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
 | 47 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
-| 48 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 49 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 50 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 48 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
+| 49 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
 
 
 

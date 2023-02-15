@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-15 10:17:24 UTC`
+📆 Last Updated: `2023-02-15 11:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 2 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 3 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
-| 4 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
-| 5 | [MODESS PAREVEAL NANANA](http://twitter.com/search?q=MODESS+PAREVEAL+NANANA) | N/A |
-| 6 | [#JoshCullenReadyOrNot](http://twitter.com/search?q=%23JoshCullenReadyOrNot) | N/A |
-| 7 | [#Shining_CARAT_Day](http://twitter.com/search?q=%23Shining_CARAT_Day) | N/A |
+| 1 | [#Fighting1stWin](http://twitter.com/search?q=%23Fighting1stWin) | N/A |
+| 2 | [#BSS1stWin](http://twitter.com/search?q=%23BSS1stWin) | N/A |
+| 3 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 4 | [#UnkabogableDay](http://twitter.com/search?q=%23UnkabogableDay) | N/A |
+| 5 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 6 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
+| 7 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
 | 8 | [SHAIBEN HINAHANAP KA PREMIERE](http://twitter.com/search?q=SHAIBEN+HINAHANAP+KA+PREMIERE) | N/A |
-| 9 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
-| 10 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
-| 11 | [Vday](http://twitter.com/search?q=Vday) | N/A |
-| 12 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 13 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
-| 14 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
-| 15 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
-| 16 | [cmft](http://twitter.com/search?q=cmft) | N/A |
-| 17 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 18 | [Jaehyun](http://twitter.com/search?q=Jaehyun) | N/A |
-| 19 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
-| 20 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 21 | [happy carat](http://twitter.com/search?q=happy+carat) | N/A |
-| 22 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
-| 23 | [franseth pumafebibig](http://twitter.com/search?q=franseth+pumafebibig) | N/A |
-| 24 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
-| 25 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 26 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 27 | [TNX FIRST COMEBACK](http://twitter.com/search?q=TNX+FIRST+COMEBACK) | N/A |
-| 28 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 29 | [hapie prince day](http://twitter.com/search?q=hapie+prince+day) | N/A |
-| 30 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
-| 31 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 32 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 33 | [Blackwater](http://twitter.com/search?q=Blackwater) | N/A |
-| 34 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 35 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 38 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 39 | [creamline](http://twitter.com/search?q=creamline) | N/A |
-| 40 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
-| 41 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
-| 42 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 43 | [teddy bear out now](http://twitter.com/search?q=teddy+bear+out+now) | N/A |
-| 44 | [Puso](http://twitter.com/search?q=Puso) | N/A |
-| 45 | [JUNGWON MULLET](http://twitter.com/search?q=JUNGWON+MULLET) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Philippine Coast Guard](http://twitter.com/search?q=Philippine+Coast+Guard) | N/A |
-| 48 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
-| 49 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
+| 9 | [MODESS PAREVEAL NANANA](http://twitter.com/search?q=MODESS+PAREVEAL+NANANA) | N/A |
+| 10 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 11 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
+| 12 | [happy balentymes donbelle](http://twitter.com/search?q=happy+balentymes+donbelle) | N/A |
+| 13 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 14 | [CONGRATS BOOSEOKSOON](http://twitter.com/search?q=CONGRATS+BOOSEOKSOON) | N/A |
+| 15 | [CONGRATS BSS](http://twitter.com/search?q=CONGRATS+BSS) | N/A |
+| 16 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 17 | [BSS FIRST WIN](http://twitter.com/search?q=BSS+FIRST+WIN) | N/A |
+| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 19 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 20 | [Happy Hearts](http://twitter.com/search?q=Happy+Hearts) | N/A |
+| 21 | [WithoutYou Now Showing](http://twitter.com/search?q=WithoutYou+Now+Showing) | N/A |
+| 22 | [cmft](http://twitter.com/search?q=cmft) | N/A |
+| 23 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
+| 24 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 25 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
+| 26 | [Happy Carat](http://twitter.com/search?q=Happy+Carat) | N/A |
+| 27 | [janella salvador for olay](http://twitter.com/search?q=janella+salvador+for+olay) | N/A |
+| 28 | [franseth pumafebibig](http://twitter.com/search?q=franseth+pumafebibig) | N/A |
+| 29 | [lovetakesbravery with eian](http://twitter.com/search?q=lovetakesbravery+with+eian) | N/A |
+| 30 | [Jaehyun](http://twitter.com/search?q=Jaehyun) | N/A |
+| 31 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 32 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 33 | [BEST TIME 1M VIEWS](http://twitter.com/search?q=BEST+TIME+1M+VIEWS) | N/A |
+| 34 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 35 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 36 | [WHO WANT SOME SWEET JUICE](http://twitter.com/search?q=WHO+WANT+SOME+SWEET+JUICE) | N/A |
+| 37 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 38 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 39 | [PHP BALARAW](http://twitter.com/search?q=PHP+BALARAW) | N/A |
+| 40 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 41 | [My Valentine](http://twitter.com/search?q=My+Valentine) | N/A |
+| 42 | [TNX FIRST COMEBACK](http://twitter.com/search?q=TNX+FIRST+COMEBACK) | N/A |
+| 43 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Momoland](http://twitter.com/search?q=Momoland) | N/A |
+| 46 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 47 | [Puso](http://twitter.com/search?q=Puso) | N/A |
+| 48 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 49 | [ALAMAT IKALAWANG TAON](http://twitter.com/search?q=ALAMAT+IKALAWANG+TAON) | N/A |
 
 
 

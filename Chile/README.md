@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-15 10:17:48 UTC`
+📆 Last Updated: `2023-02-15 11:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Chile
 | 5 | [#vamoscolocolo](http://twitter.com/search?q=%23vamoscolocolo) | N/A |
 | 6 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
 | 7 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 8 | [mat14s](http://twitter.com/search?q=mat14s) | N/A |
-| 9 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
+| 8 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
+| 9 | [mat14s](http://twitter.com/search?q=mat14s) | N/A |
 | 10 | [chile es rebelde](http://twitter.com/search?q=chile+es+rebelde) | N/A |
 | 11 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
 | 12 | [edo caroe](http://twitter.com/search?q=edo+caroe) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Chile
 | 17 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
 | 18 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [pepe rojas](http://twitter.com/search?q=pepe+rojas) | N/A |
-| 21 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 22 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 23 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 24 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 25 | [ofencivo](http://twitter.com/search?q=ofencivo) | N/A |
-| 26 | [benegas](http://twitter.com/search?q=benegas) | N/A |
-| 27 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 28 | [Jona](http://twitter.com/search?q=Jona) | N/A |
-| 29 | [ramiro gonzalez](http://twitter.com/search?q=ramiro+gonzalez) | N/A |
-| 30 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 32 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 20 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 21 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 22 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 23 | [Pepe Rojas](http://twitter.com/search?q=Pepe+Rojas) | N/A |
+| 24 | [ofencivo](http://twitter.com/search?q=ofencivo) | N/A |
+| 25 | [benegas](http://twitter.com/search?q=benegas) | N/A |
+| 26 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 27 | [torrealba](http://twitter.com/search?q=torrealba) | N/A |
+| 28 | [ramiro gonzalez](http://twitter.com/search?q=ramiro+gonzalez) | N/A |
+| 29 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 31 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 32 | [Principios](http://twitter.com/search?q=Principios) | N/A |
 | 33 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 34 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 36 | [daniel alcaino](http://twitter.com/search?q=daniel+alcaino) | N/A |
-| 37 | [pato rubio](http://twitter.com/search?q=pato+rubio) | N/A |
+| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 35 | [pato rubio](http://twitter.com/search?q=pato+rubio) | N/A |
+| 36 | [Iraci](http://twitter.com/search?q=Iraci) | N/A |
+| 37 | [CADEM](http://twitter.com/search?q=CADEM) | N/A |
 | 38 | [wiemberg](http://twitter.com/search?q=wiemberg) | N/A |
 | 39 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 40 | [Transitoria](http://twitter.com/search?q=Transitoria) | N/A |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 43 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
-| 44 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 45 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 46 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
-| 47 | [Prat](http://twitter.com/search?q=Prat) | N/A |
-| 48 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 49 | [Avello](http://twitter.com/search?q=Avello) | N/A |
-| 50 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 41 | [Daniel Alcaino](http://twitter.com/search?q=Daniel+Alcaino) | N/A |
+| 42 | [Transitoria](http://twitter.com/search?q=Transitoria) | N/A |
+| 43 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 44 | [Este 14](http://twitter.com/search?q=Este+14) | N/A |
+| 45 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 46 | [jona](http://twitter.com/search?q=jona) | N/A |
+| 47 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 48 | [Avello](http://twitter.com/search?q=Avello) | N/A |
+| 49 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 50 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
 
 
 

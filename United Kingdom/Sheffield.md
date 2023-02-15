@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-15 10:17:00 UTC`
+📆 Last Updated: `2023-02-15 11:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
-| 2 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 3 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 4 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
-| 5 | [#hcafc](http://twitter.com/search?q=%23hcafc) | N/A |
-| 6 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 7 | [Jeremy Corbyn](http://twitter.com/search?q=Jeremy+Corbyn) | N/A |
-| 8 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 9 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 10 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 11 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 12 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 13 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 14 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 15 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 16 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
-| 17 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 18 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 19 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
-| 20 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 21 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 22 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 23 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 24 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
-| 25 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
-| 26 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 27 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 28 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 29 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 30 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 31 | [#MercedesAMGF1](http://twitter.com/search?q=%23MercedesAMGF1) | N/A |
-| 32 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 33 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 34 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 35 | [#mercedesf1](http://twitter.com/search?q=%23mercedesf1) | N/A |
-| 36 | [#ASongOrMovieForAnythingBig](http://twitter.com/search?q=%23ASongOrMovieForAnythingBig) | N/A |
-| 37 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 38 | [#YotoCarnegies23](http://twitter.com/search?q=%23YotoCarnegies23) | N/A |
-| 39 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 40 | [#CLON](http://twitter.com/search?q=%23CLON) | N/A |
-| 41 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 42 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 43 | [#BrexitWasALie](http://twitter.com/search?q=%23BrexitWasALie) | N/A |
-| 44 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 45 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 46 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 47 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 48 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 49 | [#connection](http://twitter.com/search?q=%23connection) | N/A |
+| 1 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 2 | [#ucuRising](http://twitter.com/search?q=%23ucuRising) | N/A |
+| 3 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 5 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
+| 6 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 9 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 10 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 11 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 12 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 13 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 14 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 15 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 16 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
+| 17 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 18 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 19 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
+| 20 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 21 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 22 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 23 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 24 | [Jimmy Krankie](http://twitter.com/search?q=Jimmy+Krankie) | N/A |
+| 25 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 26 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 27 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
+| 28 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 29 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 30 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 31 | [Margaret Hodge](http://twitter.com/search?q=Margaret+Hodge) | N/A |
+| 32 | [The W14](http://twitter.com/search?q=The+W14) | N/A |
+| 33 | [Nippy](http://twitter.com/search?q=Nippy) | N/A |
+| 34 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 35 | [George Square](http://twitter.com/search?q=George+Square) | N/A |
+| 36 | [Hezza](http://twitter.com/search?q=Hezza) | N/A |
+| 37 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 38 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 39 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 40 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 41 | [Angel of the North](http://twitter.com/search?q=Angel+of+the+North) | N/A |
+| 42 | [Drakeford](http://twitter.com/search?q=Drakeford) | N/A |
+| 43 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 44 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 45 | [Antisemitism](http://twitter.com/search?q=Antisemitism) | N/A |
+| 46 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 47 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 48 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 49 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
 
 
 
