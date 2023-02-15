@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-02-15 03:21:27 UTC`
+📆 Last Updated: `2023-02-15 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 2 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 3 | [マキマさんのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
-| 4 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
-| 5 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
-| 6 | [ゲームさんぽ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%95%e3%82%93%e3%81%bd) | N/A |
-| 7 | [小春ちゃん](http://twitter.com/search?q=%e5%b0%8f%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 8 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 9 | [PLUTO](http://twitter.com/search?q=PLUTO) | N/A |
-| 10 | [Jアラート](http://twitter.com/search?q=J%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%88) | N/A |
-| 11 | [チェンソーマンコラボ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 12 | [げんしけん](http://twitter.com/search?q=%e3%81%92%e3%82%93%e3%81%97%e3%81%91%e3%82%93) | N/A |
-| 13 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
-| 14 | [NIKKE](http://twitter.com/search?q=NIKKE) | N/A |
-| 15 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
-| 16 | [#国会中継](http://twitter.com/search?q=%23%e5%9b%bd%e4%bc%9a%e4%b8%ad%e7%b6%99) | N/A |
-| 17 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 18 | [フラウロス](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%a6%e3%83%ad%e3%82%b9) | N/A |
-| 19 | [アートブック](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%88%e3%83%96%e3%83%83%e3%82%af) | N/A |
-| 20 | [デンジのケツ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
-| 21 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
-| 22 | [校長怒鳴り机](http://twitter.com/search?q=%e6%a0%a1%e9%95%b7%e6%80%92%e9%b3%b4%e3%82%8a%e6%9c%ba) | N/A |
-| 23 | [#でんじろう引退](http://twitter.com/search?q=%23%e3%81%a7%e3%82%93%e3%81%98%e3%82%8d%e3%81%86%e5%bc%95%e9%80%80) | N/A |
-| 24 | [U149](http://twitter.com/search?q=U149) | N/A |
-| 25 | [分限免職](http://twitter.com/search?q=%e5%88%86%e9%99%90%e5%85%8d%e8%81%b7) | N/A |
-| 26 | [マスク巡り医師](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e5%b7%a1%e3%82%8a%e5%8c%bb%e5%b8%ab) | N/A |
-| 27 | [ROF-MAO](http://twitter.com/search?q=ROF-MAO) | N/A |
-| 28 | [プルートゥ](http://twitter.com/search?q=%e3%83%97%e3%83%ab%e3%83%bc%e3%83%88%e3%82%a5) | N/A |
-| 29 | [ひらがなあくたーずりーぐ](http://twitter.com/search?q=%e3%81%b2%e3%82%89%e3%81%8c%e3%81%aa%e3%81%82%e3%81%8f%e3%81%9f%e3%83%bc%e3%81%9a%e3%82%8a%e3%83%bc%e3%81%90) | N/A |
-| 30 | [メトロック](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 31 | [年金支給日](http://twitter.com/search?q=%e5%b9%b4%e9%87%91%e6%94%af%e7%b5%a6%e6%97%a5) | N/A |
-| 32 | [ゲキカラドウ](http://twitter.com/search?q=%e3%82%b2%e3%82%ad%e3%82%ab%e3%83%a9%e3%83%89%e3%82%a6) | N/A |
-| 33 | [マキマのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
-| 34 | [トワツガイ](http://twitter.com/search?q=%e3%83%88%e3%83%af%e3%83%84%e3%82%ac%e3%82%a4) | N/A |
-| 35 | [#はま寿司のどぐろ祭り](http://twitter.com/search?q=%23%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8%e3%81%ae%e3%81%a9%e3%81%90%e3%82%8d%e7%a5%ad%e3%82%8a) | N/A |
-| 36 | [極秘結婚](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e7%b5%90%e5%a9%9a) | N/A |
-| 37 | [枝野さん](http://twitter.com/search?q=%e6%9e%9d%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 38 | [ミルメーク](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a1%e3%83%bc%e3%82%af) | N/A |
-| 39 | [浦沢直樹](http://twitter.com/search?q=%e6%b5%a6%e6%b2%a2%e7%9b%b4%e6%a8%b9) | N/A |
-| 40 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 41 | [スパレジェ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%ac%e3%82%b8%e3%82%a7) | N/A |
-| 42 | [ヘッドライナー](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
-| 43 | [竹MOD](http://twitter.com/search?q=%e7%ab%b9MOD) | N/A |
-| 44 | [enish](http://twitter.com/search?q=enish) | N/A |
-| 45 | [ホリエモン](http://twitter.com/search?q=%e3%83%9b%e3%83%aa%e3%82%a8%e3%83%a2%e3%83%b3) | N/A |
-| 46 | [ピンクの木材](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%81%ae%e6%9c%a8%e6%9d%90) | N/A |
-| 47 | [さくらソイラテ](http://twitter.com/search?q=%e3%81%95%e3%81%8f%e3%82%89%e3%82%bd%e3%82%a4%e3%83%a9%e3%83%86) | N/A |
-| 48 | [防災無線](http://twitter.com/search?q=%e9%98%b2%e7%81%bd%e7%84%a1%e7%b7%9a) | N/A |
-| 49 | [スタバの桜](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%a1%9c) | N/A |
+| 1 | [#キスライ](http://twitter.com/search?q=%23%e3%82%ad%e3%82%b9%e3%83%a9%e3%82%a4) | N/A |
+| 2 | [#松村北斗入所14周年](http://twitter.com/search?q=%23%e6%9d%be%e6%9d%91%e5%8c%97%e6%96%97%e5%85%a5%e6%89%8014%e5%91%a8%e5%b9%b4) | N/A |
+| 3 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 4 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 5 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
+| 6 | [ダンベル](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%99%e3%83%ab) | N/A |
+| 7 | [マキマさんのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 8 | [アートブック](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%88%e3%83%96%e3%83%83%e3%82%af) | N/A |
+| 9 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
+| 10 | [メトロック](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 11 | [ショッピングバッグ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0%e3%83%90%e3%83%83%e3%82%b0) | N/A |
+| 12 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
+| 13 | [JAPAN JAM](http://twitter.com/search?q=JAPAN+JAM) | Japan Jam is an annual music festival held in Japan. It features a variety of genres, including rock, hip-hop, and electronic music. The name "Japan Jam" is derived from the phrase "jam session," which refers to a musical performance by multiple musicians playing together without any pre-arranged material. The festival is known for its relaxed atmosphere and for bringing together some of the best Japanese and international artists. |
+| 14 | [小春ちゃん](http://twitter.com/search?q=%e5%b0%8f%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
+| 16 | [ゲームさんぽ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%95%e3%82%93%e3%81%bd) | N/A |
+| 17 | [チェンソーマンコラボ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 18 | [PLUTO](http://twitter.com/search?q=PLUTO) | N/A |
+| 19 | [げんしけん](http://twitter.com/search?q=%e3%81%92%e3%82%93%e3%81%97%e3%81%91%e3%82%93) | N/A |
+| 20 | [ヨッシャーツ](http://twitter.com/search?q=%e3%83%a8%e3%83%83%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%84) | N/A |
+| 21 | [グッズ名](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%90%8d) | N/A |
+| 22 | [アクターズリーグ](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%bf%e3%83%bc%e3%82%ba%e3%83%aa%e3%83%bc%e3%82%b0) | N/A |
+| 23 | [WEST](http://twitter.com/search?q=WEST) | N/A |
+| 24 | [スンマホン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%83%9e%e3%83%9b%e3%83%b3) | N/A |
+| 25 | [竹MOD](http://twitter.com/search?q=%e7%ab%b9MOD) | N/A |
+| 26 | [春フェス](http://twitter.com/search?q=%e6%98%a5%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 27 | [NIKKE](http://twitter.com/search?q=NIKKE) | N/A |
+| 28 | [#毎日更新チャレンジ8](http://twitter.com/search?q=%23%e6%af%8e%e6%97%a5%e6%9b%b4%e6%96%b0%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b88) | N/A |
+| 29 | [Jアラート](http://twitter.com/search?q=J%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%88) | N/A |
+| 30 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 31 | [チャージ3回](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b83%e5%9b%9e) | N/A |
+| 32 | [デンジのケツ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 33 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
+| 34 | [セノ復刻](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e5%be%a9%e5%88%bb) | N/A |
+| 35 | [フラウロス](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%a6%e3%83%ad%e3%82%b9) | N/A |
+| 36 | [U149](http://twitter.com/search?q=U149) | N/A |
+| 37 | [フリーエントリー](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
+| 38 | [ひらがなあくたーずりーぐ](http://twitter.com/search?q=%e3%81%b2%e3%82%89%e3%81%8c%e3%81%aa%e3%81%82%e3%81%8f%e3%81%9f%e3%83%bc%e3%81%9a%e3%82%8a%e3%83%bc%e3%81%90) | N/A |
+| 39 | [マキマのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 40 | [ノーオプションバトル](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%90%e3%83%88%e3%83%ab) | N/A |
+| 41 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
+| 42 | [トワツガイ](http://twitter.com/search?q=%e3%83%88%e3%83%af%e3%83%84%e3%82%ac%e3%82%a4) | N/A |
+| 43 | [ジャパンジャム](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a0) | N/A |
+| 44 | [ストッキング](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 45 | [ヘッドライナー](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
+| 46 | [enish](http://twitter.com/search?q=enish) | N/A |
+| 47 | [JAM4](http://twitter.com/search?q=JAM4) | N/A |
+| 48 | [小堺さん](http://twitter.com/search?q=%e5%b0%8f%e5%a0%ba%e3%81%95%e3%82%93) | N/A |
+| 49 | [グッズの名前](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
 
 
 

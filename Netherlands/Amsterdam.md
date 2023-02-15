@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-15 03:21:18 UTC`
+📆 Last Updated: `2023-02-15 04:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Valentijnsdag](http://twitter.com/search?q=%23Valentijnsdag) | N/A |
-| 2 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
 | 3 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
 | 4 | [Negerzoen](http://twitter.com/search?q=Negerzoen) | N/A |
 | 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
@@ -33,20 +33,20 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 16 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
 | 17 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
 | 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 19 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 19 | [kuipers](http://twitter.com/search?q=kuipers) | N/A |
 | 20 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
 | 21 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 22 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
+| 22 | [kamermeerderheid](http://twitter.com/search?q=kamermeerderheid) | N/A |
 | 23 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
 | 24 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
 | 25 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 26 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
 | 27 | [krezip](http://twitter.com/search?q=krezip) | N/A |
-| 28 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 29 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
+| 28 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
+| 29 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
 | 30 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
 | 31 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 32 | [kmar](http://twitter.com/search?q=kmar) | N/A |
+| 32 | [Kmar](http://twitter.com/search?q=Kmar) | N/A |
 | 33 | [intravacc](http://twitter.com/search?q=intravacc) | N/A |
 | 34 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
 | 35 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 45 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 46 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 47 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 48 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 49 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 50 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 48 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
+| 49 | [Akai](http://twitter.com/search?q=Akai) | N/A |
+| 50 | [dag 14](http://twitter.com/search?q=dag+14) | N/A |
 
 
 

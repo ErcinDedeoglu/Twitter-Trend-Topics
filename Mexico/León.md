@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-15 03:21:04 UTC`
+📆 Last Updated: `2023-02-15 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [#MedallasAllStar](http://twitter.com/search?q=%23MedallasAllStar) | N/A |
-| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 4 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 5 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
-| 6 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
-| 7 | [WE LOVE YOU MAVELYN](http://twitter.com/search?q=WE+LOVE+YOU+MAVELYN) | N/A |
-| 8 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 9 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 10 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 11 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
-| 12 | [Juarez](http://twitter.com/search?q=Juarez) | N/A |
-| 13 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 14 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 15 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 16 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 17 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 18 | [Limochima](http://twitter.com/search?q=Limochima) | N/A |
-| 19 | [Santiago Amoltepec](http://twitter.com/search?q=Santiago+Amoltepec) | N/A |
-| 20 | [Que 14](http://twitter.com/search?q=Que+14) | N/A |
-| 21 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 24 | [Regino](http://twitter.com/search?q=Regino) | N/A |
-| 25 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
-| 26 | [CHSPM](http://twitter.com/search?q=CHSPM) | N/A |
-| 27 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
-| 30 | [Anabel Hernández](http://twitter.com/search?q=Anabel+Hern%c3%a1ndez) | N/A |
-| 31 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 32 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 33 | [El Sol](http://twitter.com/search?q=El+Sol) | N/A |
-| 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 35 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 36 | [Es 14](http://twitter.com/search?q=Es+14) | N/A |
-| 37 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Cher](http://twitter.com/search?q=Cher) | N/A |
-| 40 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
-| 41 | [Gibran](http://twitter.com/search?q=Gibran) | N/A |
-| 42 | [Ricardo Monreal](http://twitter.com/search?q=Ricardo+Monreal) | N/A |
-| 43 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 45 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 46 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 47 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 1 | [#MedallasAllStar](http://twitter.com/search?q=%23MedallasAllStar) | N/A |
+| 2 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 3 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
+| 4 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 5 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 6 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 7 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
+| 8 | [WE LOVE YOU MAVELYN](http://twitter.com/search?q=WE+LOVE+YOU+MAVELYN) | N/A |
+| 9 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
+| 10 | [Metrobús](http://twitter.com/search?q=Metrob%c3%bas) | N/A |
+| 11 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 12 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 13 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 14 | [Avenida Hidalgo](http://twitter.com/search?q=Avenida+Hidalgo) | N/A |
+| 15 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
+| 16 | [Paseo de la Reforma](http://twitter.com/search?q=Paseo+de+la+Reforma) | N/A |
+| 17 | [Juarez](http://twitter.com/search?q=Juarez) | N/A |
+| 18 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 19 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 20 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 21 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 22 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 23 | [Av. Hidalgo](http://twitter.com/search?q=Av.+Hidalgo) | N/A |
+| 24 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 25 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 26 | [Limochima](http://twitter.com/search?q=Limochima) | N/A |
+| 27 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 28 | [Larcamón](http://twitter.com/search?q=Larcam%c3%b3n) | N/A |
+| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 30 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 31 | [Que 14](http://twitter.com/search?q=Que+14) | N/A |
+| 32 | [Ojitos Lindos](http://twitter.com/search?q=Ojitos+Lindos) | N/A |
+| 33 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 34 | [CHSPM](http://twitter.com/search?q=CHSPM) | N/A |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Un 14](http://twitter.com/search?q=Un+14) | N/A |
+| 37 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [Regino](http://twitter.com/search?q=Regino) | N/A |
+| 40 | [Primer 14](http://twitter.com/search?q=Primer+14) | N/A |
+| 41 | [Anabel Hernández](http://twitter.com/search?q=Anabel+Hern%c3%a1ndez) | N/A |
+| 42 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
+| 43 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 44 | [Es 14](http://twitter.com/search?q=Es+14) | N/A |
+| 45 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 46 | [Cher](http://twitter.com/search?q=Cher) | N/A |
+| 47 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-15 03:21:02 UTC`
+📆 Last Updated: `2023-02-15 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
 | 2 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 3 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 4 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 5 | [#insideourautisticminds](http://twitter.com/search?q=%23insideourautisticminds) | N/A |
-| 6 | [lexie](http://twitter.com/search?q=lexie) | N/A |
-| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
-| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 10 | [#itfc](http://twitter.com/search?q=%23itfc) | N/A |
-| 11 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 12 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 13 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 16 | [#RegularRecap](http://twitter.com/search?q=%23RegularRecap) | N/A |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 20 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 21 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 24 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 25 | [Notting Hill](http://twitter.com/search?q=Notting+Hill) | N/A |
-| 26 | [ELEANOR NEALE](http://twitter.com/search?q=ELEANOR+NEALE) | N/A |
-| 27 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 28 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 29 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
-| 30 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 31 | [Critchley](http://twitter.com/search?q=Critchley) | N/A |
-| 32 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 33 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
-| 34 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 35 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 36 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 37 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 38 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 39 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 40 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 41 | [Muric](http://twitter.com/search?q=Muric) | N/A |
-| 42 | [Woking](http://twitter.com/search?q=Woking) | N/A |
-| 43 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 44 | [Chris Packham](http://twitter.com/search?q=Chris+Packham) | N/A |
-| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 46 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 47 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 48 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 5 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 6 | [Lilt](http://twitter.com/search?q=Lilt) | N/A |
+| 7 | [#LIVEVE](http://twitter.com/search?q=%23LIVEVE) | N/A |
+| 8 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 11 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [#insideourautisticminds](http://twitter.com/search?q=%23insideourautisticminds) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 17 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 19 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 21 | [lexie](http://twitter.com/search?q=lexie) | N/A |
+| 22 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 23 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
+| 26 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 27 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 28 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 29 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 30 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 31 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 32 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 34 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 35 | [JACK MANIFOLD](http://twitter.com/search?q=JACK+MANIFOLD) | N/A |
+| 36 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 37 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 38 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 39 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 40 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 41 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 44 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 45 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 46 | [ELEANOR NEALE](http://twitter.com/search?q=ELEANOR+NEALE) | N/A |
+| 47 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 48 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 49 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 50 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 
 
 

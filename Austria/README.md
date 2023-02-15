@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-15 03:21:57 UTC`
+📆 Last Updated: `2023-02-15 04:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,21 +16,21 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 2 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 3 | [#Kocher](http://twitter.com/search?q=%23Kocher) | N/A |
-| 4 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 5 | [vollzeit](http://twitter.com/search?q=vollzeit) | N/A |
-| 6 | [kipferl](http://twitter.com/search?q=kipferl) | N/A |
-| 7 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 8 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
-| 9 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 10 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 2 | [#kocher](http://twitter.com/search?q=%23kocher) | N/A |
+| 3 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 4 | [vollzeit](http://twitter.com/search?q=vollzeit) | N/A |
+| 5 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 6 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 7 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
+| 8 | [Kipferl](http://twitter.com/search?q=Kipferl) | N/A |
+| 9 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 10 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
 | 11 | [Arbeitsminister](http://twitter.com/search?q=Arbeitsminister) | N/A |
 | 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 13 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 14 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 15 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 16 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 14 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 15 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 18 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
 | 19 | [hans krankl](http://twitter.com/search?q=hans+krankl) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Austria
 | 29 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
 | 30 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 31 | [Schokolade](http://twitter.com/search?q=Schokolade) | N/A |
-| 32 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 32 | [mütter](http://twitter.com/search?q=m%c3%bctter) | N/A |
 | 33 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 34 | [Pension](http://twitter.com/search?q=Pension) | N/A |
-| 35 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 36 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
-| 37 | [Angehörige](http://twitter.com/search?q=Angeh%c3%b6rige) | N/A |
-| 38 | [mindestsicherung](http://twitter.com/search?q=mindestsicherung) | N/A |
-| 39 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 40 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 41 | [Hängematte](http://twitter.com/search?q=H%c3%a4ngematte) | N/A |
-| 42 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 43 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
-| 44 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 45 | [staatssekretärin](http://twitter.com/search?q=staatssekret%c3%a4rin) | N/A |
-| 46 | [kurier](http://twitter.com/search?q=kurier) | N/A |
-| 47 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 48 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
-| 49 | [christian posch](http://twitter.com/search?q=christian+posch) | N/A |
-| 50 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 34 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 35 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
+| 36 | [angehörige](http://twitter.com/search?q=angeh%c3%b6rige) | N/A |
+| 37 | [mindestsicherung](http://twitter.com/search?q=mindestsicherung) | N/A |
+| 38 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 39 | [hängematte](http://twitter.com/search?q=h%c3%a4ngematte) | N/A |
+| 40 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 41 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
+| 42 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 43 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 44 | [staatssekretärin](http://twitter.com/search?q=staatssekret%c3%a4rin) | N/A |
+| 45 | [kurier](http://twitter.com/search?q=kurier) | N/A |
+| 46 | [gehalt](http://twitter.com/search?q=gehalt) | N/A |
+| 47 | [wirtschaft](http://twitter.com/search?q=wirtschaft) | N/A |
+| 48 | [christian posch](http://twitter.com/search?q=christian+posch) | N/A |
+| 49 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 50 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 
 
 

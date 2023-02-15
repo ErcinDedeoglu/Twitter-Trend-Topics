@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-02-15 03:21:22 UTC`
+📆 Last Updated: `2023-02-15 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Greece](</Greece>)
 | 12 | [εμμανουηλ](http://twitter.com/search?q=%ce%b5%ce%bc%ce%bc%ce%b1%ce%bd%ce%bf%cf%85%ce%b7%ce%bb) | N/A |
 | 13 | [Σροιτερ](http://twitter.com/search?q=%ce%a3%cf%81%ce%bf%ce%b9%cf%84%ce%b5%cf%81) | N/A |
 | 14 | [Κεφαλα](http://twitter.com/search?q=%ce%9a%ce%b5%cf%86%ce%b1%ce%bb%ce%b1) | N/A |
-| 15 | [Γερασιμος](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%83%ce%b9%ce%bc%ce%bf%cf%82) | N/A |
+| 15 | [γερασιμος](http://twitter.com/search?q=%ce%b3%ce%b5%cf%81%ce%b1%cf%83%ce%b9%ce%bc%ce%bf%cf%82) | N/A |
 | 16 | [Κρις](http://twitter.com/search?q=%ce%9a%cf%81%ce%b9%cf%82) | N/A |
 | 17 | [Μπαρτζη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%ce%b7) | N/A |
-| 18 | [Ο Σταθης](http://twitter.com/search?q=%ce%9f+%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
-| 19 | [αλεξια](http://twitter.com/search?q=%ce%b1%ce%bb%ce%b5%ce%be%ce%b9%ce%b1) | N/A |
-| 20 | [Κοζανη](http://twitter.com/search?q=%ce%9a%ce%bf%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
-| 21 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
+| 18 | [ο σταθης](http://twitter.com/search?q=%ce%bf+%cf%83%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
+| 19 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 20 | [αλεξια](http://twitter.com/search?q=%ce%b1%ce%bb%ce%b5%ce%be%ce%b9%ce%b1) | N/A |
+| 21 | [τσικνοπεμπτη](http://twitter.com/search?q=%cf%84%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
 | 22 | [14 φλεβαρη](http://twitter.com/search?q=14+%cf%86%ce%bb%ce%b5%ce%b2%ce%b1%cf%81%ce%b7) | N/A |
-| 23 | [Ασημακοπουλος](http://twitter.com/search?q=%ce%91%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
-| 24 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
-| 25 | [Ραδιο Καψουρα](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b4%ce%b9%ce%bf+%ce%9a%ce%b1%cf%88%ce%bf%cf%85%cf%81%ce%b1) | N/A |
-| 26 | [Παρι](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b9) | N/A |
-| 27 | [Νικητας](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%b7%cf%84%ce%b1%cf%82) | N/A |
-| 28 | [14 φεβρουαριου](http://twitter.com/search?q=14+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 29 | [ερωτα](http://twitter.com/search?q=%ce%b5%cf%81%cf%89%cf%84%ce%b1) | N/A |
-| 30 | [αγγελο](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%bf) | N/A |
-| 31 | [χριστιανα](http://twitter.com/search?q=%cf%87%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
-| 32 | [ατρομητος](http://twitter.com/search?q=%ce%b1%cf%84%cf%81%ce%bf%ce%bc%ce%b7%cf%84%ce%bf%cf%82) | N/A |
-| 33 | [η μαριαλενα](http://twitter.com/search?q=%ce%b7+%ce%bc%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
-| 34 | [νεκταριος σαντορινιος](http://twitter.com/search?q=%ce%bd%ce%b5%ce%ba%cf%84%ce%b1%cf%81%ce%b9%ce%bf%cf%82+%cf%83%ce%b1%ce%bd%cf%84%ce%bf%cf%81%ce%b9%ce%bd%ce%b9%ce%bf%cf%82) | N/A |
-| 35 | [πτολεμαιδα](http://twitter.com/search?q=%cf%80%cf%84%ce%bf%ce%bb%ce%b5%ce%bc%ce%b1%ce%b9%ce%b4%ce%b1) | N/A |
-| 36 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 37 | [Λαφαζανη](http://twitter.com/search?q=%ce%9b%ce%b1%cf%86%ce%b1%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
-| 38 | [Νικος](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%cf%82) | N/A |
-| 39 | [γρεβενα](http://twitter.com/search?q=%ce%b3%cf%81%ce%b5%ce%b2%ce%b5%ce%bd%ce%b1) | N/A |
-| 40 | [βαλνερ](http://twitter.com/search?q=%ce%b2%ce%b1%ce%bb%ce%bd%ce%b5%cf%81) | N/A |
-| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 42 | [κυρα](http://twitter.com/search?q=%ce%ba%cf%85%cf%81%ce%b1) | N/A |
-| 43 | [πολυξενη](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%ce%be%ce%b5%ce%bd%ce%b7) | N/A |
-| 44 | [τσανακλιδου](http://twitter.com/search?q=%cf%84%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 45 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
-| 46 | [σταυρου](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%85) | N/A |
-| 47 | [καλλιοπη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bb%ce%b9%ce%bf%cf%80%ce%b7) | N/A |
-| 48 | [τζενη](http://twitter.com/search?q=%cf%84%ce%b6%ce%b5%ce%bd%ce%b7) | N/A |
-| 49 | [κωβαιος](http://twitter.com/search?q=%ce%ba%cf%89%ce%b2%ce%b1%ce%b9%ce%bf%cf%82) | N/A |
-| 50 | [δυτικη μακεδονια](http://twitter.com/search?q=%ce%b4%cf%85%cf%84%ce%b9%ce%ba%ce%b7+%ce%bc%ce%b1%ce%ba%ce%b5%ce%b4%ce%bf%ce%bd%ce%b9%ce%b1) | N/A |
+| 23 | [ασημακοπουλος](http://twitter.com/search?q=%ce%b1%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
+| 24 | [Κοζανη](http://twitter.com/search?q=%ce%9a%ce%bf%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
+| 25 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
+| 26 | [Ραδιο Καψουρα](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b4%ce%b9%ce%bf+%ce%9a%ce%b1%cf%88%ce%bf%cf%85%cf%81%ce%b1) | N/A |
+| 27 | [παρι](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b9) | N/A |
+| 28 | [νικητας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%b7%cf%84%ce%b1%cf%82) | N/A |
+| 29 | [14 φεβρουαριου](http://twitter.com/search?q=14+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 30 | [ερωτα](http://twitter.com/search?q=%ce%b5%cf%81%cf%89%cf%84%ce%b1) | N/A |
+| 31 | [αγγελο](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%bf) | N/A |
+| 32 | [χριστιανα](http://twitter.com/search?q=%cf%87%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
+| 33 | [ατρομητος](http://twitter.com/search?q=%ce%b1%cf%84%cf%81%ce%bf%ce%bc%ce%b7%cf%84%ce%bf%cf%82) | N/A |
+| 34 | [η μαριαλενα](http://twitter.com/search?q=%ce%b7+%ce%bc%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
+| 35 | [νεκταριος σαντορινιος](http://twitter.com/search?q=%ce%bd%ce%b5%ce%ba%cf%84%ce%b1%cf%81%ce%b9%ce%bf%cf%82+%cf%83%ce%b1%ce%bd%cf%84%ce%bf%cf%81%ce%b9%ce%bd%ce%b9%ce%bf%cf%82) | N/A |
+| 36 | [πτολεμαιδα](http://twitter.com/search?q=%cf%80%cf%84%ce%bf%ce%bb%ce%b5%ce%bc%ce%b1%ce%b9%ce%b4%ce%b1) | N/A |
+| 37 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 38 | [λαφαζανη](http://twitter.com/search?q=%ce%bb%ce%b1%cf%86%ce%b1%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
+| 39 | [νικος](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82) | N/A |
+| 40 | [γρεβενα](http://twitter.com/search?q=%ce%b3%cf%81%ce%b5%ce%b2%ce%b5%ce%bd%ce%b1) | N/A |
+| 41 | [βαλνερ](http://twitter.com/search?q=%ce%b2%ce%b1%ce%bb%ce%bd%ce%b5%cf%81) | N/A |
+| 42 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 43 | [κυρα](http://twitter.com/search?q=%ce%ba%cf%85%cf%81%ce%b1) | N/A |
+| 44 | [πολυξενη](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%ce%be%ce%b5%ce%bd%ce%b7) | N/A |
+| 45 | [τσανακλιδου](http://twitter.com/search?q=%cf%84%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
+| 46 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
+| 47 | [σταυρου](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%85) | N/A |
+| 48 | [καλλιοπη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bb%ce%b9%ce%bf%cf%80%ce%b7) | N/A |
+| 49 | [τζενη](http://twitter.com/search?q=%cf%84%ce%b6%ce%b5%ce%bd%ce%b7) | N/A |
+| 50 | [κωβαιος](http://twitter.com/search?q=%ce%ba%cf%89%ce%b2%ce%b1%ce%b9%ce%bf%cf%82) | N/A |
 
 
 

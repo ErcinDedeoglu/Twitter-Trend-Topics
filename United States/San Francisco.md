@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-15 03:21:55 UTC`
+📆 Last Updated: `2023-02-15 04:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Porter](http://twitter.com/search?q=Porter) | N/A |
-| 2 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 3 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 4 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
-| 5 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 6 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 7 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 10 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 11 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 12 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 13 | [Scorpio](http://twitter.com/search?q=Scorpio) | N/A |
-| 14 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 15 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 16 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 17 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 18 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 19 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 20 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 21 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 22 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 23 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 24 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 1 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 2 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
+| 3 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 4 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 5 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 7 | [Porter](http://twitter.com/search?q=Porter) | N/A |
+| 8 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 9 | [#14february](http://twitter.com/search?q=%2314february) | N/A |
+| 10 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 11 | [Scorpio](http://twitter.com/search?q=Scorpio) | N/A |
+| 12 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 13 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 14 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 15 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 16 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 17 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 18 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 19 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 22 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 23 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 24 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 25 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 26 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 27 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 28 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 26 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 27 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 28 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
 | 29 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 30 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 31 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
-| 32 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 33 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 34 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 35 | [Bryce Thompson](http://twitter.com/search?q=Bryce+Thompson) | N/A |
-| 36 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 37 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 38 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 39 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 40 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 41 | [Devin Carter](http://twitter.com/search?q=Devin+Carter) | N/A |
-| 42 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 43 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 45 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 46 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 47 | [Ryan Graves](http://twitter.com/search?q=Ryan+Graves) | N/A |
-| 48 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 49 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
-| 50 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 30 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 31 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 32 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 33 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 34 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 35 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
+| 36 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 37 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 38 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 39 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 40 | [Juwan Howard](http://twitter.com/search?q=Juwan+Howard) | Juwan Howard is an American professional basketball coach and former player. He is currently the head coach of the University of Michigan men's basketball team. The name Juwan is derived from the Hebrew name Yehochanan, which means "God is gracious". |
+| 41 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 42 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 43 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 44 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 45 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 46 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 47 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 48 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 49 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 50 | [Bryce Thompson](http://twitter.com/search?q=Bryce+Thompson) | N/A |
 
 
 

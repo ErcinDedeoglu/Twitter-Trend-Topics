@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-02-15 03:21:37 UTC`
+📆 Last Updated: `2023-02-15 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Jordan](</Jordan>)
 | 2 | [الاكلات الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
 | 3 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
 | 4 | [احمد القيسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%8a%d8%b3%d9%8a) | N/A |
-| 5 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 6 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 5 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 6 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 7 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 8 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
 | 9 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
@@ -61,9 +61,9 @@ This is top 50 for [Jordan](</Jordan>)
 | 44 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
 | 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 46 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 47 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
-| 48 | [علي التيليجرام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%8a%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
-| 49 | [الاشي الوحيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 47 | [الاشي الوحيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 48 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
+| 49 | [علي التيليجرام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%8a%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
 | 50 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-15 03:22:02 UTC`
+📆 Last Updated: `2023-02-15 04:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,10 +40,10 @@ This is top 50 for Lebanon
 | 23 | [٧ ايار](http://twitter.com/search?q=%d9%a7+%d8%a7%d9%8a%d8%a7%d8%b1) | N/A |
 | 24 | [جمعية المصارف](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81) | N/A |
 | 25 | [النايب السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 26 | [المنتج اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 28 | [ديما صادق](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
-| 29 | [شيخ سعد](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%b3%d8%b9%d8%af) | N/A |
+| 26 | [شيخ سعد](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%b3%d8%b9%d8%af) | N/A |
+| 27 | [المنتج اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 29 | [ديما صادق](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
 | 30 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 31 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
 | 32 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Lebanon
 | 38 | [هابي فالنتاين](http://twitter.com/search?q=%d9%87%d8%a7%d8%a8%d9%8a+%d9%81%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d9%8a%d9%86) | N/A |
 | 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 40 | [تيمور جنبلاط](http://twitter.com/search?q=%d8%aa%d9%8a%d9%85%d9%88%d8%b1+%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
-| 41 | [حدا علي مطرح](http://twitter.com/search?q=%d8%ad%d8%af%d8%a7+%d8%b9%d9%84%d9%8a+%d9%85%d8%b7%d8%b1%d8%ad) | N/A |
-| 42 | [شهيد الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 43 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 44 | [ميشال عون](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d8%b9%d9%88%d9%86) | N/A |
-| 45 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
-| 46 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 47 | [ابو بهاء](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%87%d8%a7%d8%a1) | N/A |
-| 48 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 49 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 50 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 41 | [شهيد الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 42 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 43 | [ميشال عون](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d8%b9%d9%88%d9%86) | N/A |
+| 44 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
+| 45 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 46 | [ابو بهاء](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%87%d8%a7%d8%a1) | N/A |
+| 47 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 48 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 49 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 50 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
 
 
 

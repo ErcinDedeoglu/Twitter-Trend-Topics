@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-15 03:21:21 UTC`
+📆 Last Updated: `2023-02-15 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [valentīndienā](http://twitter.com/search?q=valent%c4%abndien%c4%81) | N/A |
+| 2 | [Valentīndienā](http://twitter.com/search?q=Valent%c4%abndien%c4%81) | N/A |
 | 3 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 4 | [Levita](http://twitter.com/search?q=Levita) | N/A |
-| 5 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 5 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 6 | [eiropas parlamenta](http://twitter.com/search?q=eiropas+parlamenta) | N/A |
 | 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 18 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 19 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
 | 20 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
-| 21 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 21 | [tavu](http://twitter.com/search?q=tavu) | N/A |
 | 22 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
 | 23 | [#лигачемпионов](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
 | 24 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
@@ -50,17 +50,17 @@ This is top 50 for [Latvia](</Latvia>)
 | 33 | [европе](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 34 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 35 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |
-| 36 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 37 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 38 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 39 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 40 | [reizēm](http://twitter.com/search?q=reiz%c4%93m) | N/A |
-| 41 | [krievu](http://twitter.com/search?q=krievu) | N/A |
-| 42 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 43 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 44 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 45 | [vajadzētu](http://twitter.com/search?q=vajadz%c4%93tu) | N/A |
-| 46 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 37 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 38 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 39 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 40 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 41 | [reizēm](http://twitter.com/search?q=reiz%c4%93m) | N/A |
+| 42 | [krievu](http://twitter.com/search?q=krievu) | N/A |
+| 43 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 44 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 45 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 46 | [vajadzētu](http://twitter.com/search?q=vajadz%c4%93tu) | N/A |
 | 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 48 | [skatos](http://twitter.com/search?q=skatos) | N/A |
 | 49 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
