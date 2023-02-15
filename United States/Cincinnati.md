@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-02-15 02:42:30 UTC`
+📆 Last Updated: `2023-02-15 03:21:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 2 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 3 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 4 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 5 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 6 | [#LoveCampingWorld](http://twitter.com/search?q=%23LoveCampingWorld) | N/A |
-| 7 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 8 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
-| 9 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 10 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 11 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
-| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 13 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 14 | [Bryce Thompson](http://twitter.com/search?q=Bryce+Thompson) | N/A |
-| 15 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 2 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 3 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 4 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 5 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 8 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 9 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 10 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 13 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 14 | [#LoveCampingWorld](http://twitter.com/search?q=%23LoveCampingWorld) | N/A |
+| 15 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
 | 16 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 17 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
-| 18 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 19 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 20 | [Devin Carter](http://twitter.com/search?q=Devin+Carter) | N/A |
-| 21 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 22 | [Cuse](http://twitter.com/search?q=Cuse) | N/A |
-| 23 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
-| 24 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
-| 25 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 26 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 27 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 28 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 29 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 30 | [Hospital Celtics](http://twitter.com/search?q=Hospital+Celtics) | N/A |
-| 31 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 32 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
-| 33 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
-| 34 | [Bert Smith](http://twitter.com/search?q=Bert+Smith) | N/A |
-| 35 | [Jinder](http://twitter.com/search?q=Jinder) | N/A |
-| 36 | [Nitric Acid](http://twitter.com/search?q=Nitric+Acid) | N/A |
-| 37 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
-| 38 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
-| 39 | [lexie](http://twitter.com/search?q=lexie) | N/A |
-| 40 | [Dane Goodwin](http://twitter.com/search?q=Dane+Goodwin) | N/A |
-| 41 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 42 | [Leah Hextall](http://twitter.com/search?q=Leah+Hextall) | N/A |
-| 43 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 44 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 45 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 46 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
-| 47 | [I-10](http://twitter.com/search?q=I-10) | N/A |
-| 48 | [Friars](http://twitter.com/search?q=Friars) | N/A |
-| 49 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 50 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 17 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
+| 18 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 19 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
+| 20 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 21 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 22 | [Bryce Thompson](http://twitter.com/search?q=Bryce+Thompson) | N/A |
+| 23 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 24 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 25 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 26 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 27 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 28 | [Devin Carter](http://twitter.com/search?q=Devin+Carter) | N/A |
+| 29 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 30 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 31 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 32 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 33 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 34 | [Ryan Graves](http://twitter.com/search?q=Ryan+Graves) | N/A |
+| 35 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 36 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 37 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 38 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 39 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 40 | [Jinder](http://twitter.com/search?q=Jinder) | N/A |
+| 41 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 42 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 43 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
+| 44 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 45 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
+| 46 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
+| 47 | [Bert Smith](http://twitter.com/search?q=Bert+Smith) | N/A |
+| 48 | [Joe Ingles](http://twitter.com/search?q=Joe+Ingles) | N/A |
+| 49 | [V-Day](http://twitter.com/search?q=V-Day) | N/A |
+| 50 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-02-15 02:42:20 UTC`
+📆 Last Updated: `2023-02-15 03:21:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,10 +30,10 @@ This is top 50 for [Jordan](</Jordan>)
 | 13 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 | 14 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 15 | [مخيم الفارعه](http://twitter.com/search?q=%d9%85%d8%ae%d9%8a%d9%85+%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%b9%d9%87) | N/A |
-| 16 | [الفاصوليا البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b5%d9%88%d9%84%d9%8a%d8%a7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
-| 17 | [الطواري المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
-| 18 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 19 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 16 | [الطواري المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
+| 17 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 19 | [الفاصوليا البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b5%d9%88%d9%84%d9%8a%d8%a7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
 | 20 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 21 | [باسم عوض](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%b9%d9%88%d8%b6) | N/A |
 | 22 | [#زلزال_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for [Jordan](</Jordan>)
 | 41 | [عيد العمال](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 42 | [فخر الاردن](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
 | 43 | [سعد الحريري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 44 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 45 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
-| 46 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 49 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
-| 50 | [علي التيليجرام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%8a%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
+| 44 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 47 | [الرييس الشهيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
+| 48 | [علي التيليجرام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%8a%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
+| 49 | [الاشي الوحيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 50 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
 
 
 

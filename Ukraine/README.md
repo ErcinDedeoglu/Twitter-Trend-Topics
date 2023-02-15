@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-15 02:42:45 UTC`
+📆 Last Updated: `2023-02-15 03:22:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Ukraine
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 2 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 2 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 3 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 4 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
 | 5 | [яшин](http://twitter.com/search?q=%d1%8f%d1%88%d0%b8%d0%bd) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Ukraine
 | 44 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 45 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
 | 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 47 | [Новости Украины](http://twitter.com/search?q=%d0%9d%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 47 | [новости украины](http://twitter.com/search?q=%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 49 | [вс рф](http://twitter.com/search?q=%d0%b2%d1%81+%d1%80%d1%84) | N/A |
 | 50 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-15 02:41:58 UTC`
+📆 Last Updated: `2023-02-15 03:21:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
 | 2 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
 | 3 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
-| 4 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 5 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 6 | [Leão](http://twitter.com/search?q=Le%c3%a3o) | N/A |
-| 7 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 8 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 9 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 10 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
-| 11 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 12 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 13 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 14 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 15 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 16 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 18 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 19 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
-| 20 | [Pedro Rocha](http://twitter.com/search?q=Pedro+Rocha) | N/A |
-| 21 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 22 | [Coringa 2](http://twitter.com/search?q=Coringa+2) | N/A |
-| 23 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
+| 4 | [#DueloDeTricolores](http://twitter.com/search?q=%23DueloDeTricolores) | N/A |
+| 5 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 6 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 7 | [Leão](http://twitter.com/search?q=Le%c3%a3o) | N/A |
+| 8 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 9 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 10 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 11 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 12 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 13 | [Cactos](http://twitter.com/search?q=Cactos) | N/A |
+| 14 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 15 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 16 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 17 | [Valentine’s Day](http://twitter.com/search?q=Valentine%e2%80%99s+Day) | N/A |
+| 18 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 19 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 21 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 22 | [Caralho 72%](http://twitter.com/search?q=Caralho+72%25) | N/A |
+| 23 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
 | 24 | [Karen Bachini](http://twitter.com/search?q=Karen+Bachini) | N/A |
-| 25 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 28 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
-| 29 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
-| 30 | [ZÉ AMANDA](http://twitter.com/search?q=Z%c3%89+AMANDA) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 33 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 36 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 37 | [Deux](http://twitter.com/search?q=Deux) | N/A |
-| 38 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 39 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
-| 40 | [CURTINDO BBB COM ZÉ](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89) | N/A |
-| 41 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 42 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
-| 43 | [MAMACITA REMIX](http://twitter.com/search?q=MAMACITA+REMIX) | N/A |
-| 44 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
-| 45 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
-| 46 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 47 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 48 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 49 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
-| 50 | [João Igor](http://twitter.com/search?q=Jo%c3%a3o+Igor) | N/A |
+| 25 | [Coringa 2](http://twitter.com/search?q=Coringa+2) | N/A |
+| 26 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 28 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 29 | [#joker2](http://twitter.com/search?q=%23joker2) | N/A |
+| 30 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 31 | [Paulinha](http://twitter.com/search?q=Paulinha) | N/A |
+| 32 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
+| 33 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 34 | [QUÁDRUPLO](http://twitter.com/search?q=QU%c3%81DRUPLO) | N/A |
+| 35 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
+| 36 | [Mexeu](http://twitter.com/search?q=Mexeu) | N/A |
+| 37 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
+| 38 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
+| 39 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 40 | [Pedro Rocha](http://twitter.com/search?q=Pedro+Rocha) | N/A |
+| 41 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 42 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
+| 43 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 46 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 47 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
+| 48 | [Deux](http://twitter.com/search?q=Deux) | N/A |
+| 49 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
+| 50 | [CURTINDO BBB COM ZÉ](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-15 02:42:00 UTC`
+📆 Last Updated: `2023-02-15 03:21:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,23 +25,23 @@ This is top 50 for [Poland](</Poland>)
 | 8 | [ncbir](http://twitter.com/search?q=ncbir) | N/A |
 | 9 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 10 | [liga mistrzów](http://twitter.com/search?q=liga+mistrz%c3%b3w) | N/A |
-| 11 | [Związku Walki Zbrojnej](http://twitter.com/search?q=Zwi%c4%85zku+Walki+Zbrojnej) | N/A |
+| 11 | [związku walki zbrojnej](http://twitter.com/search?q=zwi%c4%85zku+walki+zbrojnej) | N/A |
 | 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 13 | [Putinem](http://twitter.com/search?q=Putinem) | N/A |
 | 14 | [łącki](http://twitter.com/search?q=%c5%82%c4%85cki) | N/A |
 | 15 | [Kurdej-Szatan](http://twitter.com/search?q=Kurdej-Szatan) | N/A |
-| 16 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 16 | [yoongiego](http://twitter.com/search?q=yoongiego) | N/A |
 | 17 | [orp mewa](http://twitter.com/search?q=orp+mewa) | N/A |
 | 18 | [bohaterom](http://twitter.com/search?q=bohaterom) | N/A |
 | 19 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 20 | [polski pkb](http://twitter.com/search?q=polski+pkb) | N/A |
-| 21 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
-| 22 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 23 | [Korupcja](http://twitter.com/search?q=Korupcja) | N/A |
-| 24 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 21 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 22 | [Korupcja](http://twitter.com/search?q=Korupcja) | N/A |
+| 23 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 24 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
 | 25 | [CUPIDO OUT NOW](http://twitter.com/search?q=CUPIDO+OUT+NOW) | N/A |
 | 26 | [Marry](http://twitter.com/search?q=Marry) | N/A |
-| 27 | [Szczerba](http://twitter.com/search?q=Szczerba) | N/A |
+| 27 | [szczerba](http://twitter.com/search?q=szczerba) | N/A |
 | 28 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
 | 29 | [rozwoju](http://twitter.com/search?q=rozwoju) | N/A |
 | 30 | [władysława sikorskiego](http://twitter.com/search?q=w%c5%82adys%c5%82awa+sikorskiego) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Poland](</Poland>)
 | 45 | [Komuna](http://twitter.com/search?q=Komuna) | N/A |
 | 46 | [Paczkomat](http://twitter.com/search?q=Paczkomat) | N/A |
 | 47 | [ulmów](http://twitter.com/search?q=ulm%c3%b3w) | N/A |
-| 48 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | N/A |
+| 48 | [ozdoba](http://twitter.com/search?q=ozdoba) | N/A |
 | 49 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 50 | [Yellowstone](http://twitter.com/search?q=Yellowstone) | N/A |
 

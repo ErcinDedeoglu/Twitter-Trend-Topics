@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-15 02:42:05 UTC`
+📆 Last Updated: `2023-02-15 03:21:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 13 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
-| 14 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 15 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 16 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 17 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
-| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 19 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
-| 20 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 23 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
-| 24 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
-| 25 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 26 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 27 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
-| 28 | [krezip](http://twitter.com/search?q=krezip) | N/A |
-| 29 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 30 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
-| 31 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
-| 32 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 33 | [kmar](http://twitter.com/search?q=kmar) | N/A |
-| 34 | [intravacc](http://twitter.com/search?q=intravacc) | N/A |
-| 35 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 36 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 37 | [Geert Dales](http://twitter.com/search?q=Geert+Dales) | N/A |
-| 38 | [multipla](http://twitter.com/search?q=multipla) | N/A |
-| 39 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 40 | [marechaussee](http://twitter.com/search?q=marechaussee) | N/A |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 14 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 15 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 16 | [gratis ov](http://twitter.com/search?q=gratis+ov) | N/A |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 19 | [mei li vos](http://twitter.com/search?q=mei+li+vos) | N/A |
+| 20 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 21 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
+| 22 | [Jan Zwartendijk](http://twitter.com/search?q=Jan+Zwartendijk) | N/A |
+| 23 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 24 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 25 | [Cody Gakpo](http://twitter.com/search?q=Cody+Gakpo) | N/A |
+| 26 | [krezip](http://twitter.com/search?q=krezip) | N/A |
+| 27 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 28 | [Von der Leyen](http://twitter.com/search?q=Von+der+Leyen) | N/A |
+| 29 | [zorgen in tweede kamer](http://twitter.com/search?q=zorgen+in+tweede+kamer) | N/A |
+| 30 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 31 | [kmar](http://twitter.com/search?q=kmar) | N/A |
+| 32 | [intravacc](http://twitter.com/search?q=intravacc) | N/A |
+| 33 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 34 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 35 | [geert dales](http://twitter.com/search?q=geert+dales) | N/A |
+| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 37 | [multipla](http://twitter.com/search?q=multipla) | N/A |
+| 38 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 39 | [marechaussee](http://twitter.com/search?q=marechaussee) | N/A |
+| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 41 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 42 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
 | 43 | [succes willem](http://twitter.com/search?q=succes+willem) | N/A |
 | 44 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 45 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 46 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
 | 47 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 48 | [Deloitte](http://twitter.com/search?q=Deloitte) | N/A |
-| 49 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 49 | [Akai](http://twitter.com/search?q=Akai) | N/A |
 
 
 

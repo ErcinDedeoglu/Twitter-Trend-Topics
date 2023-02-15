@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-15 02:42:07 UTC`
+📆 Last Updated: `2023-02-15 03:21:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for [Norway](</Norway>)
 | 20 | [Marius](http://twitter.com/search?q=Marius) | N/A |
 | 21 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 22 | [lofoten](http://twitter.com/search?q=lofoten) | N/A |
-| 23 | [Viken](http://twitter.com/search?q=Viken) | N/A |
+| 23 | [viken](http://twitter.com/search?q=viken) | N/A |
 | 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 25 | [sovjet](http://twitter.com/search?q=sovjet) | N/A |
 | 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
@@ -60,7 +60,7 @@ This is top 50 for [Norway](</Norway>)
 | 43 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 44 | [durek](http://twitter.com/search?q=durek) | N/A |
 | 45 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 46 | [Synd](http://twitter.com/search?q=Synd) | N/A |
+| 46 | [synd](http://twitter.com/search?q=synd) | N/A |
 | 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 48 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
 | 49 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |

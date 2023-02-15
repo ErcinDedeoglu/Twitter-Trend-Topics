@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Japan
 
-📆 Last Updated: `2023-02-15 02:42:41 UTC`
+📆 Last Updated: `2023-02-15 03:22:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Japan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [マキマさんのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
-| 2 | [ゲームさんぽ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%95%e3%82%93%e3%81%bd) | N/A |
+| 1 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
+| 2 | [マキマさんのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
 | 3 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
-| 4 | [Jアラート](http://twitter.com/search?q=J%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%88) | N/A |
-| 5 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 6 | [小春ちゃん](http://twitter.com/search?q=%e5%b0%8f%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 4 | [小春ちゃん](http://twitter.com/search?q=%e5%b0%8f%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 5 | [ゲームさんぽ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%95%e3%82%93%e3%81%bd) | N/A |
+| 6 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
 | 7 | [PLUTO](http://twitter.com/search?q=PLUTO) | N/A |
 | 8 | [チェンソーマンコラボ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 9 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 10 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
-| 11 | [げんしけん](http://twitter.com/search?q=%e3%81%92%e3%82%93%e3%81%97%e3%81%91%e3%82%93) | N/A |
-| 12 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
-| 13 | [#国会中継](http://twitter.com/search?q=%23%e5%9b%bd%e4%bc%9a%e4%b8%ad%e7%b6%99) | N/A |
-| 14 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
-| 15 | [#でんじろう引退](http://twitter.com/search?q=%23%e3%81%a7%e3%82%93%e3%81%98%e3%82%8d%e3%81%86%e5%bc%95%e9%80%80) | N/A |
-| 16 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
-| 17 | [校長怒鳴り机](http://twitter.com/search?q=%e6%a0%a1%e9%95%b7%e6%80%92%e9%b3%b4%e3%82%8a%e6%9c%ba) | N/A |
-| 18 | [ゲキカラドウ](http://twitter.com/search?q=%e3%82%b2%e3%82%ad%e3%82%ab%e3%83%a9%e3%83%89%e3%82%a6) | N/A |
-| 19 | [分限免職](http://twitter.com/search?q=%e5%88%86%e9%99%90%e5%85%8d%e8%81%b7) | N/A |
-| 20 | [マスク巡り医師](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e5%b7%a1%e3%82%8a%e5%8c%bb%e5%b8%ab) | N/A |
-| 21 | [プルートゥ](http://twitter.com/search?q=%e3%83%97%e3%83%ab%e3%83%bc%e3%83%88%e3%82%a5) | N/A |
-| 22 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 23 | [U149](http://twitter.com/search?q=U149) | N/A |
-| 24 | [フラウロス](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%a6%e3%83%ad%e3%82%b9) | N/A |
-| 25 | [ROF-MAO](http://twitter.com/search?q=ROF-MAO) | N/A |
-| 26 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
-| 27 | [ミルメーク](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a1%e3%83%bc%e3%82%af) | N/A |
-| 28 | [年金支給日](http://twitter.com/search?q=%e5%b9%b4%e9%87%91%e6%94%af%e7%b5%a6%e6%97%a5) | N/A |
-| 29 | [#ZIP](http://twitter.com/search?q=%23ZIP) | N/A |
-| 30 | [貴司くん](http://twitter.com/search?q=%e8%b2%b4%e5%8f%b8%e3%81%8f%e3%82%93) | 貴司くん is a Japanese term of endearment used to refer to someone who is respected or admired. It can be translated to English as "dear sir" or "esteemed sir". |
-| 31 | [極秘結婚](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e7%b5%90%e5%a9%9a) | N/A |
-| 32 | [防災無線](http://twitter.com/search?q=%e9%98%b2%e7%81%bd%e7%84%a1%e7%b7%9a) | N/A |
-| 33 | [浦沢直樹](http://twitter.com/search?q=%e6%b5%a6%e6%b2%a2%e7%9b%b4%e6%a8%b9) | N/A |
-| 34 | [スパレジェ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%ac%e3%82%b8%e3%82%a7) | N/A |
-| 35 | [ファレル](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ac%e3%83%ab) | N/A |
-| 36 | [ホリエモン](http://twitter.com/search?q=%e3%83%9b%e3%83%aa%e3%82%a8%e3%83%a2%e3%83%b3) | N/A |
-| 37 | [enish](http://twitter.com/search?q=enish) | N/A |
-| 38 | [ピンクの木材](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%81%ae%e6%9c%a8%e6%9d%90) | N/A |
-| 39 | [ライブドア](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%96%e3%83%89%e3%82%a2) | N/A |
-| 40 | [デンジのケツ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
-| 41 | [枝野さん](http://twitter.com/search?q=%e6%9e%9d%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 42 | [登録解除](http://twitter.com/search?q=%e7%99%bb%e9%8c%b2%e8%a7%a3%e9%99%a4) | N/A |
-| 43 | [高齢者の集団自殺](http://twitter.com/search?q=%e9%ab%98%e9%bd%a2%e8%80%85%e3%81%ae%e9%9b%86%e5%9b%a3%e8%87%aa%e6%ae%ba) | N/A |
-| 44 | [さくらソイラテ](http://twitter.com/search?q=%e3%81%95%e3%81%8f%e3%82%89%e3%82%bd%e3%82%a4%e3%83%a9%e3%83%86) | N/A |
-| 45 | [Xeppaa](http://twitter.com/search?q=Xeppaa) | N/A |
-| 46 | [東京都医師会](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e9%83%bd%e5%8c%bb%e5%b8%ab%e4%bc%9a) | N/A |
-| 47 | [チームデスマッチ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e3%83%87%e3%82%b9%e3%83%9e%e3%83%83%e3%83%81) | N/A |
-| 48 | [グリフォ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a9) | N/A |
-| 49 | [大晴くん](http://twitter.com/search?q=%e5%a4%a7%e6%99%b4%e3%81%8f%e3%82%93) | N/A |
-| 50 | [スタバの桜](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%a1%9c) | N/A |
+| 9 | [Jアラート](http://twitter.com/search?q=J%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%88) | N/A |
+| 10 | [げんしけん](http://twitter.com/search?q=%e3%81%92%e3%82%93%e3%81%97%e3%81%91%e3%82%93) | N/A |
+| 11 | [アートブック](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%88%e3%83%96%e3%83%83%e3%82%af) | N/A |
+| 12 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
+| 13 | [ショッピングバッグ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0%e3%83%90%e3%83%83%e3%82%b0) | N/A |
+| 14 | [NIKKE](http://twitter.com/search?q=NIKKE) | N/A |
+| 15 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
+| 16 | [フラウロス](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%a6%e3%83%ad%e3%82%b9) | N/A |
+| 17 | [#国会中継](http://twitter.com/search?q=%23%e5%9b%bd%e4%bc%9a%e4%b8%ad%e7%b6%99) | N/A |
+| 18 | [メトロック](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 19 | [デンジのケツ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 20 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 21 | [U149](http://twitter.com/search?q=U149) | N/A |
+| 22 | [ひらがなあくたーずりーぐ](http://twitter.com/search?q=%e3%81%b2%e3%82%89%e3%81%8c%e3%81%aa%e3%81%82%e3%81%8f%e3%81%9f%e3%83%bc%e3%81%9a%e3%82%8a%e3%83%bc%e3%81%90) | N/A |
+| 23 | [校長怒鳴り机](http://twitter.com/search?q=%e6%a0%a1%e9%95%b7%e6%80%92%e9%b3%b4%e3%82%8a%e6%9c%ba) | N/A |
+| 24 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
+| 25 | [分限免職](http://twitter.com/search?q=%e5%88%86%e9%99%90%e5%85%8d%e8%81%b7) | N/A |
+| 26 | [マスク巡り医師](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e5%b7%a1%e3%82%8a%e5%8c%bb%e5%b8%ab) | N/A |
+| 27 | [トワツガイ](http://twitter.com/search?q=%e3%83%88%e3%83%af%e3%83%84%e3%82%ac%e3%82%a4) | N/A |
+| 28 | [#でんじろう引退](http://twitter.com/search?q=%23%e3%81%a7%e3%82%93%e3%81%98%e3%82%8d%e3%81%86%e5%bc%95%e9%80%80) | N/A |
+| 29 | [マキマのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 30 | [アクターズリーグ](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%bf%e3%83%bc%e3%82%ba%e3%83%aa%e3%83%bc%e3%82%b0) | N/A |
+| 31 | [年金支給日](http://twitter.com/search?q=%e5%b9%b4%e9%87%91%e6%94%af%e7%b5%a6%e6%97%a5) | N/A |
+| 32 | [竹MOD](http://twitter.com/search?q=%e7%ab%b9MOD) | N/A |
+| 33 | [ROF-MAO](http://twitter.com/search?q=ROF-MAO) | N/A |
+| 34 | [プルートゥ](http://twitter.com/search?q=%e3%83%97%e3%83%ab%e3%83%bc%e3%83%88%e3%82%a5) | N/A |
+| 35 | [グッズ名](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%90%8d) | N/A |
+| 36 | [ヨッシャーツ](http://twitter.com/search?q=%e3%83%a8%e3%83%83%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%84) | N/A |
+| 37 | [ゲキカラドウ](http://twitter.com/search?q=%e3%82%b2%e3%82%ad%e3%82%ab%e3%83%a9%e3%83%89%e3%82%a6) | N/A |
+| 38 | [スンマホン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%83%9e%e3%83%9b%e3%83%b3) | N/A |
+| 39 | [極秘結婚](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e7%b5%90%e5%a9%9a) | N/A |
+| 40 | [#はま寿司のどぐろ祭り](http://twitter.com/search?q=%23%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8%e3%81%ae%e3%81%a9%e3%81%90%e3%82%8d%e7%a5%ad%e3%82%8a) | N/A |
+| 41 | [#キンプリミリオンおめでとう](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | "#キンプリミリオンおめでとう" is a hashtag used to congratulate King & Prince, a Japanese boy band, on their success. In English, it translates to "Congratulations King & Prince!" |
+| 42 | [ヘッドライナー](http://twitter.com/search?q=%e3%83%98%e3%83%83%e3%83%89%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
+| 43 | [WESTのグッズ](http://twitter.com/search?q=WEST%e3%81%ae%e3%82%b0%e3%83%83%e3%82%ba) | N/A |
+| 44 | [浦沢直樹](http://twitter.com/search?q=%e6%b5%a6%e6%b2%a2%e7%9b%b4%e6%a8%b9) | N/A |
+| 45 | [枝野さん](http://twitter.com/search?q=%e6%9e%9d%e9%87%8e%e3%81%95%e3%82%93) | N/A |
+| 46 | [ミルメーク](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a1%e3%83%bc%e3%82%af) | N/A |
+| 47 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
+| 48 | [スパレジェ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%ac%e3%82%b8%e3%82%a7) | N/A |
+| 49 | [小堺さん](http://twitter.com/search?q=%e5%b0%8f%e5%a0%ba%e3%81%95%e3%82%93) | N/A |
+| 50 | [ピンクの木材](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%81%ae%e6%9c%a8%e6%9d%90) | N/A |
 
 
 

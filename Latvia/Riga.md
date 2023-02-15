@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-15 02:42:07 UTC`
+📆 Last Updated: `2023-02-15 03:21:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 2 | [valentīndienā](http://twitter.com/search?q=valent%c4%abndien%c4%81) | N/A |
 | 3 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 4 | [Levita](http://twitter.com/search?q=Levita) | N/A |
-| 5 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 5 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 6 | [eiropas parlamenta](http://twitter.com/search?q=eiropas+parlamenta) | N/A |
 | 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
@@ -41,12 +41,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 24 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
 | 25 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 26 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 27 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 28 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
-| 29 | [nesaprotu](http://twitter.com/search?q=nesaprotu) | N/A |
-| 30 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 31 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
-| 32 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 27 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 28 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 29 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
+| 30 | [nesaprotu](http://twitter.com/search?q=nesaprotu) | N/A |
+| 31 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 32 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
 | 33 | [европе](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 34 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 35 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |

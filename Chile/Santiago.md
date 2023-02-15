@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-15 02:41:55 UTC`
+📆 Last Updated: `2023-02-15 03:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,15 +19,15 @@ This is top 50 for [Chile](</Chile>)
 | 2 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 3 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
 | 4 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 5 | [CHILE ES REBELDE](http://twitter.com/search?q=CHILE+ES+REBELDE) | N/A |
-| 6 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 7 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 8 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 5 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 6 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 7 | [CHILE ES REBELDE](http://twitter.com/search?q=CHILE+ES+REBELDE) | N/A |
+| 8 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
 | 9 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 10 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 11 | [#DiaDeLosEnamorados](http://twitter.com/search?q=%23DiaDeLosEnamorados) | N/A |
-| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [#YoSoyChv](http://twitter.com/search?q=%23YoSoyChv) | N/A |
+| 11 | [#HizirDetenido](http://twitter.com/search?q=%23HizirDetenido) | N/A |
+| 12 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
+| 13 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 14 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
 | 15 | [Yerko Puchento](http://twitter.com/search?q=Yerko+Puchento) | N/A |
 | 16 | [Milei](http://twitter.com/search?q=Milei) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Chile](</Chile>)
 | 19 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
 | 20 | [Chupete Suazo](http://twitter.com/search?q=Chupete+Suazo) | N/A |
 | 21 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 22 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 23 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 22 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 23 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 24 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 25 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 26 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 27 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 25 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 26 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 27 | [Ofencivo](http://twitter.com/search?q=Ofencivo) | N/A |
 | 28 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 29 | [Ofencivo](http://twitter.com/search?q=Ofencivo) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 32 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [Daniel Alcaino](http://twitter.com/search?q=Daniel+Alcaino) | N/A |
-| 35 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
-| 36 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 37 | [Crack](http://twitter.com/search?q=Crack) | N/A |
-| 38 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 39 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 40 | [LEZCANO](http://twitter.com/search?q=LEZCANO) | N/A |
-| 41 | [Jona](http://twitter.com/search?q=Jona) | N/A |
-| 42 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 43 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
-| 44 | [Ramiro gonzalez](http://twitter.com/search?q=Ramiro+gonzalez) | N/A |
-| 45 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 46 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 48 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
-| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 50 | [La DC](http://twitter.com/search?q=La+DC) | N/A |
+| 29 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 30 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 33 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
+| 34 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 35 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 36 | [Daniel Alcaino](http://twitter.com/search?q=Daniel+Alcaino) | N/A |
+| 37 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 38 | [Crack](http://twitter.com/search?q=Crack) | N/A |
+| 39 | [Jona](http://twitter.com/search?q=Jona) | N/A |
+| 40 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 41 | [Ramiro gonzalez](http://twitter.com/search?q=Ramiro+gonzalez) | N/A |
+| 42 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 43 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 44 | [LEZCANO](http://twitter.com/search?q=LEZCANO) | N/A |
+| 45 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 47 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
+| 48 | [La DC](http://twitter.com/search?q=La+DC) | N/A |
+| 49 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
+| 50 | [Wiemberg](http://twitter.com/search?q=Wiemberg) | N/A |
 
 
 

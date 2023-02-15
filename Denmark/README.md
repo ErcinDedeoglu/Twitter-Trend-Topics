@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-15 02:42:39 UTC`
+📆 Last Updated: `2023-02-15 03:21:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 2 | [Greve](http://twitter.com/search?q=Greve) | N/A |
 | 3 | [slimane](http://twitter.com/search?q=slimane) | N/A |
 | 4 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
-| 5 | [Anmeldt](http://twitter.com/search?q=Anmeldt) | N/A |
-| 6 | [Anis](http://twitter.com/search?q=Anis) | N/A |
-| 7 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 8 | [kim fournais](http://twitter.com/search?q=kim+fournais) | N/A |
-| 9 | [#lfcdk](http://twitter.com/search?q=%23lfcdk) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Anis](http://twitter.com/search?q=Anis) | N/A |
+| 6 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 7 | [kim fournais](http://twitter.com/search?q=kim+fournais) | N/A |
+| 8 | [#lfcdk](http://twitter.com/search?q=%23lfcdk) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Anmeldt](http://twitter.com/search?q=Anmeldt) | N/A |
 | 11 | [#eudk](http://twitter.com/search?q=%23eudk) | N/A |
 | 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 13 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |

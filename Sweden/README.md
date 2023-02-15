@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-15 02:42:45 UTC`
+📆 Last Updated: `2023-02-15 03:22:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,18 +25,18 @@ This is top 50 for Sweden
 | 8 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
 | 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 10 | [detsamma](http://twitter.com/search?q=detsamma) | N/A |
-| 11 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 11 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
 | 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 13 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
 | 14 | [Begler](http://twitter.com/search?q=Begler) | N/A |
 | 15 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 16 | [Fantenberg](http://twitter.com/search?q=Fantenberg) | N/A |
 | 17 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 18 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
+| 18 | [ortio](http://twitter.com/search?q=ortio) | N/A |
 | 19 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
 | 20 | [Dan Eliasson](http://twitter.com/search?q=Dan+Eliasson) | N/A |
 | 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 22 | [#Brynäs](http://twitter.com/search?q=%23Bryn%c3%a4s) | N/A |
+| 22 | [#brynäs](http://twitter.com/search?q=%23bryn%c3%a4s) | N/A |
 | 23 | [#eu2023se](http://twitter.com/search?q=%23eu2023se) | N/A |
 | 24 | [alimamy cole](http://twitter.com/search?q=alimamy+cole) | N/A |
 | 25 | [eklind](http://twitter.com/search?q=eklind) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Sweden
 | 41 | [frölunda](http://twitter.com/search?q=fr%c3%b6lunda) | N/A |
 | 42 | [Vasa](http://twitter.com/search?q=Vasa) | N/A |
 | 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [moldavien](http://twitter.com/search?q=moldavien) | N/A |
-| 45 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 46 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 47 | [simon hjalmarsson](http://twitter.com/search?q=simon+hjalmarsson) | N/A |
-| 48 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 49 | [lotta edholm](http://twitter.com/search?q=lotta+edholm) | N/A |
-| 50 | [omark](http://twitter.com/search?q=omark) | N/A |
+| 44 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 45 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 46 | [simon hjalmarsson](http://twitter.com/search?q=simon+hjalmarsson) | N/A |
+| 47 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 48 | [lotta edholm](http://twitter.com/search?q=lotta+edholm) | N/A |
+| 49 | [omark](http://twitter.com/search?q=omark) | N/A |
+| 50 | [tingsryd](http://twitter.com/search?q=tingsryd) | N/A |
 
 
 

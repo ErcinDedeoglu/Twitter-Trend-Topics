@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-15 02:42:38 UTC`
+📆 Last Updated: `2023-02-15 03:21:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,25 +33,25 @@ This is top 50 for Algeria
 | 16 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 17 | [مطار حلب](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%ad%d9%84%d8%a8) | N/A |
 | 18 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 19 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 20 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 21 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 22 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 23 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 24 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
-| 25 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 26 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
-| 27 | [البلدين الشقيقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%8a%d9%86) | N/A |
-| 28 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 29 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 30 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 31 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 32 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 33 | [التفجيرات النوويه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%81%d8%ac%d9%8a%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%88%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
-| 34 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 35 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 37 | [14 فيفري 2023](http://twitter.com/search?q=14+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
+| 19 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 21 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 22 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 23 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 24 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
+| 25 | [البلدين الشقيقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%8a%d9%86) | N/A |
+| 26 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
+| 27 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 28 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 29 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 30 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 31 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 32 | [التفجيرات النوويه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%81%d8%ac%d9%8a%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%88%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 33 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 34 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 36 | [14 فيفري 2023](http://twitter.com/search?q=14+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
+| 37 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 38 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 39 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 40 | [القضاء البلجيكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d9%8a) | N/A |

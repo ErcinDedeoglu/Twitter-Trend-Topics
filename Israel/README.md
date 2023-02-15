@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-15 02:42:41 UTC`
+📆 Last Updated: `2023-02-15 03:22:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Israel
 | 14 | [חג אהבה שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%90%d7%94%d7%91%d7%94+%d7%a9%d7%9e%d7%97) | N/A |
 | 15 | [עם רולקס](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a8%d7%95%d7%9c%d7%a7%d7%a1) | N/A |
 | 16 | [אלון בן דוד](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%91%d7%9f+%d7%93%d7%95%d7%93) | N/A |
-| 17 | [דמעות תנין](http://twitter.com/search?q=%d7%93%d7%9e%d7%a2%d7%95%d7%aa+%d7%aa%d7%a0%d7%99%d7%9f) | N/A |
-| 18 | [טובה עד](http://twitter.com/search?q=%d7%98%d7%95%d7%91%d7%94+%d7%a2%d7%93) | N/A |
-| 19 | [של חולדאי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%95%d7%9c%d7%93%d7%90%d7%99) | N/A |
-| 20 | [איש אמיץ](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%90%d7%9e%d7%99%d7%a5) | N/A |
-| 21 | [רון חולדאי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%97%d7%95%d7%9c%d7%93%d7%90%d7%99) | N/A |
-| 22 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
-| 23 | [איזה אומץ](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%90%d7%95%d7%9e%d7%a5) | N/A |
-| 24 | [#רפורמה_עכשיו](http://twitter.com/search?q=%23%d7%a8%d7%a4%d7%95%d7%a8%d7%9e%d7%94_%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
-| 25 | [של אולמרט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98) | N/A |
-| 26 | [עם גבר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%92%d7%91%d7%a8) | N/A |
-| 27 | [רק טוב](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%98%d7%95%d7%91) | N/A |
-| 28 | [המון אהבה](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%9f+%d7%90%d7%94%d7%91%d7%94) | N/A |
-| 29 | [בן זוג](http://twitter.com/search?q=%d7%91%d7%9f+%d7%96%d7%95%d7%92) | N/A |
-| 30 | [דוד אמסלם](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
-| 31 | [של לוחם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%97%d7%9d) | N/A |
-| 32 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 33 | [טלי גוטליב](http://twitter.com/search?q=%d7%98%d7%9c%d7%99+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
-| 34 | [ימי מחבוש](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%97%d7%91%d7%95%d7%a9) | N/A |
-| 35 | [של אהבה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%94%d7%91%d7%94) | N/A |
-| 36 | [יורק טיימס](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%a7+%d7%98%d7%99%d7%99%d7%9e%d7%a1) | N/A |
-| 37 | [אהרון ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%a8%d7%95%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
-| 38 | [בלי תנאים](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%aa%d7%a0%d7%90%d7%99%d7%9d) | N/A |
-| 39 | [שר חינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 40 | [איזה מלך](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%9e%d7%9c%d7%9a) | N/A |
-| 41 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 42 | [שעון ב](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%91) | N/A |
-| 43 | [של נתניה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94) | N/A |
-| 44 | [שעון של](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%a9%d7%9c) | N/A |
-| 45 | [מר אמסלם](http://twitter.com/search?q=%d7%9e%d7%a8+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
-| 46 | [מיליון ש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%a9) | N/A |
-| 47 | [נועם יעקב](http://twitter.com/search?q=%d7%a0%d7%95%d7%a2%d7%9d+%d7%99%d7%a2%d7%a7%d7%91) | N/A |
-| 48 | [אסיר ציון](http://twitter.com/search?q=%d7%90%d7%a1%d7%99%d7%a8+%d7%a6%d7%99%d7%95%d7%9f) | N/A |
+| 17 | [טובה עד](http://twitter.com/search?q=%d7%98%d7%95%d7%91%d7%94+%d7%a2%d7%93) | N/A |
+| 18 | [של חולדאי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%95%d7%9c%d7%93%d7%90%d7%99) | N/A |
+| 19 | [איש אמיץ](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%90%d7%9e%d7%99%d7%a5) | N/A |
+| 20 | [רון חולדאי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%97%d7%95%d7%9c%d7%93%d7%90%d7%99) | N/A |
+| 21 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 22 | [איזה אומץ](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%90%d7%95%d7%9e%d7%a5) | N/A |
+| 23 | [של אולמרט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98) | N/A |
+| 24 | [עם גבר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%92%d7%91%d7%a8) | N/A |
+| 25 | [המון אהבה](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%9f+%d7%90%d7%94%d7%91%d7%94) | N/A |
+| 26 | [#רפורמה_עכשיו](http://twitter.com/search?q=%23%d7%a8%d7%a4%d7%95%d7%a8%d7%9e%d7%94_%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
+| 27 | [בן זוג](http://twitter.com/search?q=%d7%91%d7%9f+%d7%96%d7%95%d7%92) | N/A |
+| 28 | [דוד אמסלם](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
+| 29 | [של לוחם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%97%d7%9d) | N/A |
+| 30 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 31 | [טלי גוטליב](http://twitter.com/search?q=%d7%98%d7%9c%d7%99+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 32 | [רק טוב](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%98%d7%95%d7%91) | N/A |
+| 33 | [ימי מחבוש](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%97%d7%91%d7%95%d7%a9) | N/A |
+| 34 | [של אהבה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%94%d7%91%d7%94) | N/A |
+| 35 | [יורק טיימס](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%a7+%d7%98%d7%99%d7%99%d7%9e%d7%a1) | N/A |
+| 36 | [אהרון ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%a8%d7%95%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
+| 37 | [בלי תנאים](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%aa%d7%a0%d7%90%d7%99%d7%9d) | N/A |
+| 38 | [שר חינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 39 | [איזה מלך](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%9e%d7%9c%d7%9a) | N/A |
+| 40 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 41 | [שעון ב](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%91) | N/A |
+| 42 | [של נתניה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94) | N/A |
+| 43 | [שעון של](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%a9%d7%9c) | N/A |
+| 44 | [מר אמסלם](http://twitter.com/search?q=%d7%9e%d7%a8+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
+| 45 | [מיליון ש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%a9) | N/A |
+| 46 | [נועם יעקב](http://twitter.com/search?q=%d7%a0%d7%95%d7%a2%d7%9d+%d7%99%d7%a2%d7%a7%d7%91) | N/A |
+| 47 | [אסיר ציון](http://twitter.com/search?q=%d7%90%d7%a1%d7%99%d7%a8+%d7%a6%d7%99%d7%95%d7%9f) | N/A |
+| 48 | [מיש עתיד](http://twitter.com/search?q=%d7%9e%d7%99%d7%a9+%d7%a2%d7%aa%d7%99%d7%93) | N/A |
 | 49 | [זכויות אדם](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa+%d7%90%d7%93%d7%9d) | N/A |
-| 50 | [מיש עתיד](http://twitter.com/search?q=%d7%9e%d7%99%d7%a9+%d7%a2%d7%aa%d7%99%d7%93) | N/A |
+| 50 | [ו באב](http://twitter.com/search?q=%d7%95+%d7%91%d7%90%d7%91) | N/A |
 
 
 

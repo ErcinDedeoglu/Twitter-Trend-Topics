@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-02-15 02:42:19 UTC`
+📆 Last Updated: `2023-02-15 03:21:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 8 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
 | 9 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 10 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 11 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 12 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
+| 11 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
+| 12 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 13 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
 | 14 | [رييس الفيحاء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
 | 15 | [بنك الرياض](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 18 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
 | 19 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 21 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 22 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
-| 23 | [مينديز](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a%d8%b2) | N/A |
-| 24 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 25 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [مينديز](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a%d8%b2) | N/A |
+| 22 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 23 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 24 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 25 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
 | 26 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 27 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 27 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
 | 28 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
 | 29 | [اسيا](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
 | 30 | [سولير](http://twitter.com/search?q=%d8%b3%d9%88%d9%84%d9%8a%d8%b1) | N/A |
 | 31 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
 | 32 | [موبايلي باي](http://twitter.com/search?q=%d9%85%d9%88%d8%a8%d8%a7%d9%8a%d9%84%d9%8a+%d8%a8%d8%a7%d9%8a) | N/A |
-| 33 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 34 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
-| 35 | [القطاع الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 33 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 34 | [القطاع الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 35 | [تاجيل المباراه](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
 | 36 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 37 | [تاجيل المباراه](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
+| 37 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
 | 38 | [علي التاجيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d9%84) | N/A |
 | 39 | [رياض شراحيلي](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | N/A |
-| 40 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 41 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 42 | [ارون سالم](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 40 | [ارون سالم](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 41 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 42 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 43 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | N/A |
 | 44 | [بروج](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d8%ac) | N/A |
 | 45 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
 | 46 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
 | 47 | [باقي الاياب](http://twitter.com/search?q=%d8%a8%d8%a7%d9%82%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%a8) | N/A |
-| 48 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 49 | [الوعد الاياب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%a8) | N/A |
-| 50 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 48 | [علي الكايد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d8%af) | N/A |
+| 49 | [جامعه الطايف](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81) | N/A |
+| 50 | [علي الراحه النفسيه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%87+%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
 
 
 

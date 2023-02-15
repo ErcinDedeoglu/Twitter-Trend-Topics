@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-02-15 02:42:08 UTC`
+📆 Last Updated: `2023-02-15 03:21:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,19 +21,19 @@ This is top 50 for [Greece](</Greece>)
 | 4 | [Αγιου Βαλεντινου](http://twitter.com/search?q=%ce%91%ce%b3%ce%b9%ce%bf%cf%85+%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
 | 5 | [#shoppingstar](http://twitter.com/search?q=%23shoppingstar) | N/A |
 | 6 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
-| 7 | [Σταθης](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
-| 8 | [Ηλια Γκοτση](http://twitter.com/search?q=%ce%97%ce%bb%ce%b9%ce%b1+%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7) | N/A |
-| 9 | [Μαρτικα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%ba%ce%b1) | N/A |
-| 10 | [μοτο](http://twitter.com/search?q=%ce%bc%ce%bf%cf%84%ce%bf) | N/A |
-| 11 | [σταματης](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%bc%ce%b1%cf%84%ce%b7%cf%82) | N/A |
-| 12 | [#takaliteramasxronia](http://twitter.com/search?q=%23takaliteramasxronia) | N/A |
-| 13 | [Εμμανουηλ](http://twitter.com/search?q=%ce%95%ce%bc%ce%bc%ce%b1%ce%bd%ce%bf%cf%85%ce%b7%ce%bb) | N/A |
-| 14 | [Σροιτερ](http://twitter.com/search?q=%ce%a3%cf%81%ce%bf%ce%b9%cf%84%ce%b5%cf%81) | N/A |
-| 15 | [Κεφαλα](http://twitter.com/search?q=%ce%9a%ce%b5%cf%86%ce%b1%ce%bb%ce%b1) | N/A |
-| 16 | [Γερασιμος](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%83%ce%b9%ce%bc%ce%bf%cf%82) | N/A |
-| 17 | [Κρις](http://twitter.com/search?q=%ce%9a%cf%81%ce%b9%cf%82) | N/A |
-| 18 | [Μπαρτζη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%ce%b7) | N/A |
-| 19 | [Αλεξια](http://twitter.com/search?q=%ce%91%ce%bb%ce%b5%ce%be%ce%b9%ce%b1) | Αλεξια is a female Greek name, derived from the name Alexander. It is pronounced ah-LEH-ksi-ah. In English, it means "defender of mankind". |
+| 7 | [Ηλια Γκοτση](http://twitter.com/search?q=%ce%97%ce%bb%ce%b9%ce%b1+%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7) | N/A |
+| 8 | [Μαρτικα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%ba%ce%b1) | N/A |
+| 9 | [μοτο](http://twitter.com/search?q=%ce%bc%ce%bf%cf%84%ce%bf) | N/A |
+| 10 | [σταματης](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%bc%ce%b1%cf%84%ce%b7%cf%82) | N/A |
+| 11 | [#takaliteramasxronia](http://twitter.com/search?q=%23takaliteramasxronia) | N/A |
+| 12 | [εμμανουηλ](http://twitter.com/search?q=%ce%b5%ce%bc%ce%bc%ce%b1%ce%bd%ce%bf%cf%85%ce%b7%ce%bb) | N/A |
+| 13 | [Σροιτερ](http://twitter.com/search?q=%ce%a3%cf%81%ce%bf%ce%b9%cf%84%ce%b5%cf%81) | N/A |
+| 14 | [Κεφαλα](http://twitter.com/search?q=%ce%9a%ce%b5%cf%86%ce%b1%ce%bb%ce%b1) | N/A |
+| 15 | [Γερασιμος](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%83%ce%b9%ce%bc%ce%bf%cf%82) | N/A |
+| 16 | [Κρις](http://twitter.com/search?q=%ce%9a%cf%81%ce%b9%cf%82) | N/A |
+| 17 | [Μπαρτζη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%ce%b7) | N/A |
+| 18 | [Ο Σταθης](http://twitter.com/search?q=%ce%9f+%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
+| 19 | [αλεξια](http://twitter.com/search?q=%ce%b1%ce%bb%ce%b5%ce%be%ce%b9%ce%b1) | N/A |
 | 20 | [Κοζανη](http://twitter.com/search?q=%ce%9a%ce%bf%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
 | 21 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
 | 22 | [14 φλεβαρη](http://twitter.com/search?q=14+%cf%86%ce%bb%ce%b5%ce%b2%ce%b1%cf%81%ce%b7) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Greece](</Greece>)
 | 26 | [Παρι](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b9) | N/A |
 | 27 | [Νικητας](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%b7%cf%84%ce%b1%cf%82) | N/A |
 | 28 | [14 φεβρουαριου](http://twitter.com/search?q=14+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 29 | [Ερωτα](http://twitter.com/search?q=%ce%95%cf%81%cf%89%cf%84%ce%b1) | N/A |
+| 29 | [ερωτα](http://twitter.com/search?q=%ce%b5%cf%81%cf%89%cf%84%ce%b1) | N/A |
 | 30 | [αγγελο](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%bf) | N/A |
 | 31 | [χριστιανα](http://twitter.com/search?q=%cf%87%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
-| 32 | [καλημερα μαιρη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bc%ce%b1%ce%b9%cf%81%ce%b7) | N/A |
-| 33 | [Τακης](http://twitter.com/search?q=%ce%a4%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 34 | [Ατρομητος](http://twitter.com/search?q=%ce%91%cf%84%cf%81%ce%bf%ce%bc%ce%b7%cf%84%ce%bf%cf%82) | N/A |
-| 35 | [Η Μαριαλενα](http://twitter.com/search?q=%ce%97+%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
-| 36 | [Κωστα](http://twitter.com/search?q=%ce%9a%cf%89%cf%83%cf%84%ce%b1) | N/A |
-| 37 | [νεκταριος σαντορινιος](http://twitter.com/search?q=%ce%bd%ce%b5%ce%ba%cf%84%ce%b1%cf%81%ce%b9%ce%bf%cf%82+%cf%83%ce%b1%ce%bd%cf%84%ce%bf%cf%81%ce%b9%ce%bd%ce%b9%ce%bf%cf%82) | N/A |
-| 38 | [πτολεμαιδα](http://twitter.com/search?q=%cf%80%cf%84%ce%bf%ce%bb%ce%b5%ce%bc%ce%b1%ce%b9%ce%b4%ce%b1) | N/A |
-| 39 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 40 | [Λαφαζανη](http://twitter.com/search?q=%ce%9b%ce%b1%cf%86%ce%b1%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
-| 41 | [Νικος](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%cf%82) | N/A |
-| 42 | [γρεβενα](http://twitter.com/search?q=%ce%b3%cf%81%ce%b5%ce%b2%ce%b5%ce%bd%ce%b1) | N/A |
-| 43 | [Βαλνερ](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%bd%ce%b5%cf%81) | N/A |
-| 44 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 45 | [κυρα](http://twitter.com/search?q=%ce%ba%cf%85%cf%81%ce%b1) | N/A |
-| 46 | [πολυξενη](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%ce%be%ce%b5%ce%bd%ce%b7) | N/A |
-| 47 | [Τσανακλιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 48 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
-| 49 | [σταυρου](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%85) | N/A |
-| 50 | [Καλλιοπη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bb%ce%b9%ce%bf%cf%80%ce%b7) | N/A |
+| 32 | [ατρομητος](http://twitter.com/search?q=%ce%b1%cf%84%cf%81%ce%bf%ce%bc%ce%b7%cf%84%ce%bf%cf%82) | N/A |
+| 33 | [η μαριαλενα](http://twitter.com/search?q=%ce%b7+%ce%bc%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
+| 34 | [νεκταριος σαντορινιος](http://twitter.com/search?q=%ce%bd%ce%b5%ce%ba%cf%84%ce%b1%cf%81%ce%b9%ce%bf%cf%82+%cf%83%ce%b1%ce%bd%cf%84%ce%bf%cf%81%ce%b9%ce%bd%ce%b9%ce%bf%cf%82) | N/A |
+| 35 | [πτολεμαιδα](http://twitter.com/search?q=%cf%80%cf%84%ce%bf%ce%bb%ce%b5%ce%bc%ce%b1%ce%b9%ce%b4%ce%b1) | N/A |
+| 36 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 37 | [Λαφαζανη](http://twitter.com/search?q=%ce%9b%ce%b1%cf%86%ce%b1%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
+| 38 | [Νικος](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%cf%82) | N/A |
+| 39 | [γρεβενα](http://twitter.com/search?q=%ce%b3%cf%81%ce%b5%ce%b2%ce%b5%ce%bd%ce%b1) | N/A |
+| 40 | [βαλνερ](http://twitter.com/search?q=%ce%b2%ce%b1%ce%bb%ce%bd%ce%b5%cf%81) | N/A |
+| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 42 | [κυρα](http://twitter.com/search?q=%ce%ba%cf%85%cf%81%ce%b1) | N/A |
+| 43 | [πολυξενη](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%ce%be%ce%b5%ce%bd%ce%b7) | N/A |
+| 44 | [τσανακλιδου](http://twitter.com/search?q=%cf%84%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
+| 45 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
+| 46 | [σταυρου](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%85) | N/A |
+| 47 | [καλλιοπη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bb%ce%b9%ce%bf%cf%80%ce%b7) | N/A |
+| 48 | [τζενη](http://twitter.com/search?q=%cf%84%ce%b6%ce%b5%ce%bd%ce%b7) | N/A |
+| 49 | [κωβαιος](http://twitter.com/search?q=%ce%ba%cf%89%ce%b2%ce%b1%ce%b9%ce%bf%cf%82) | N/A |
+| 50 | [δυτικη μακεδονια](http://twitter.com/search?q=%ce%b4%cf%85%cf%84%ce%b9%ce%ba%ce%b7+%ce%bc%ce%b1%ce%ba%ce%b5%ce%b4%ce%bf%ce%bd%ce%b9%ce%b1) | N/A |
 
 
 

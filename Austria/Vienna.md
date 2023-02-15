@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-15 02:42:00 UTC`
+📆 Last Updated: `2023-02-15 03:21:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
 | 3 | [#Kocher](http://twitter.com/search?q=%23Kocher) | N/A |
 | 4 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 5 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
-| 6 | [Kipferl](http://twitter.com/search?q=Kipferl) | N/A |
+| 5 | [vollzeit](http://twitter.com/search?q=vollzeit) | N/A |
+| 6 | [kipferl](http://twitter.com/search?q=kipferl) | N/A |
 | 7 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
 | 8 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 9 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
@@ -30,27 +30,27 @@ This is top 50 for [Austria](</Austria>)
 | 13 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
 | 14 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 15 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 16 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 18 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
 | 19 | [hans krankl](http://twitter.com/search?q=hans+krankl) | N/A |
 | 20 | [Budget](http://twitter.com/search?q=Budget) | N/A |
 | 21 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
 | 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 24 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 25 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
-| 26 | [Kleben](http://twitter.com/search?q=Kleben) | N/A |
-| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 28 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 29 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 30 | [Schokolade](http://twitter.com/search?q=Schokolade) | N/A |
-| 31 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 32 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 33 | [Pension](http://twitter.com/search?q=Pension) | N/A |
-| 34 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 35 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
-| 36 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 25 | [Handel](http://twitter.com/search?q=Handel) | N/A |
+| 26 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 27 | [Kleben](http://twitter.com/search?q=Kleben) | N/A |
+| 28 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 29 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 30 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 31 | [Schokolade](http://twitter.com/search?q=Schokolade) | N/A |
+| 32 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 33 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 34 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 35 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 36 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
 | 37 | [Angehörige](http://twitter.com/search?q=Angeh%c3%b6rige) | N/A |
 | 38 | [mindestsicherung](http://twitter.com/search?q=mindestsicherung) | N/A |
 | 39 | [Klein](http://twitter.com/search?q=Klein) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Khabarovsk
 
-📆 Last Updated: `2023-02-15 02:42:21 UTC`
+📆 Last Updated: `2023-02-15 03:21:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 1 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 3 | [чикатило](http://twitter.com/search?q=%d1%87%d0%b8%d0%ba%d0%b0%d1%82%d0%b8%d0%bb%d0%be) | N/A |
 | 4 | [#Aptoss](http://twitter.com/search?q=%23Aptoss) | N/A |
@@ -26,11 +26,11 @@ This is top 50 for [Russia](</Russia>)
 | 9 | [Coins](http://twitter.com/search?q=Coins) | N/A |
 | 10 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
 | 11 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 12 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 12 | [честно](http://twitter.com/search?q=%d1%87%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
 | 13 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
-| 14 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
-| 15 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
-| 16 | [в турции](http://twitter.com/search?q=%d0%b2+%d1%82%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 14 | [мама](http://twitter.com/search?q=%d0%bc%d0%b0%d0%bc%d0%b0) | N/A |
+| 15 | [не могу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b3%d1%83) | N/A |
+| 16 | [В Турции](http://twitter.com/search?q=%d0%92+%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 17 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
 | 18 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
 | 19 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Russia](</Russia>)
 | 26 | [донбасс](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
 | 27 | [аминь](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
 | 28 | [вместо](http://twitter.com/search?q=%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be) | N/A |
-| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 30 | [максим](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc) | N/A |
-| 31 | [жиза](http://twitter.com/search?q=%d0%b6%d0%b8%d0%b7%d0%b0) | N/A |
-| 32 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 33 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 34 | [европы](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 35 | [причём](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
-| 36 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | N/A |
-| 37 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 38 | [пошли](http://twitter.com/search?q=%d0%bf%d0%be%d1%88%d0%bb%d0%b8) | N/A |
-| 39 | [звучит](http://twitter.com/search?q=%d0%b7%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 40 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 41 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 42 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 43 | [покажи](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 44 | [соловьёв live](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d1%91%d0%b2+live) | N/A |
-| 45 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 46 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 47 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
-| 48 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 49 | [хогвартс](http://twitter.com/search?q=%d1%85%d0%be%d0%b3%d0%b2%d0%b0%d1%80%d1%82%d1%81) | N/A |
-| 50 | [знаешь](http://twitter.com/search?q=%d0%b7%d0%bd%d0%b0%d0%b5%d1%88%d1%8c) | N/A |
+| 29 | [максим](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%81%d0%b8%d0%bc) | N/A |
+| 30 | [жиза](http://twitter.com/search?q=%d0%b6%d0%b8%d0%b7%d0%b0) | N/A |
+| 31 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 32 | [европы](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 33 | [причём](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
+| 34 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | N/A |
+| 35 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 36 | [пошли](http://twitter.com/search?q=%d0%bf%d0%be%d1%88%d0%bb%d0%b8) | N/A |
+| 37 | [звучит](http://twitter.com/search?q=%d0%b7%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 38 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 39 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
+| 40 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 41 | [покажи](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 42 | [соловьёв live](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d1%91%d0%b2+live) | N/A |
+| 43 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
+| 44 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 45 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
+| 46 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 47 | [хогвартс](http://twitter.com/search?q=%d1%85%d0%be%d0%b3%d0%b2%d0%b0%d1%80%d1%82%d1%81) | N/A |
+| 48 | [знаешь](http://twitter.com/search?q=%d0%b7%d0%bd%d0%b0%d0%b5%d1%88%d1%8c) | N/A |
+| 49 | [ясно](http://twitter.com/search?q=%d1%8f%d1%81%d0%bd%d0%be) | N/A |
+| 50 | [Здравствуйте](http://twitter.com/search?q=%d0%97%d0%b4%d1%80%d0%b0%d0%b2%d1%81%d1%82%d0%b2%d1%83%d0%b9%d1%82%d0%b5) | N/A |
 
 
 

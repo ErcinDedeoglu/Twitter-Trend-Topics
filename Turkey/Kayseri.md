@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-15 02:42:28 UTC`
+📆 Last Updated: `2023-02-15 03:21:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
-| 2 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
-| 3 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
-| 4 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
+| 2 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
+| 3 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
+| 4 | [#Borsadaislemlerİptaledilsin](http://twitter.com/search?q=%23Borsadaislemler%c4%b0ptaledilsin) | N/A |
 | 5 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 6 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
 | 7 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
@@ -37,19 +37,19 @@ This is top 50 for [Turkey](</Turkey>)
 | 20 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
 | 21 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
 | 22 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
-| 23 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 24 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 25 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
-| 26 | [beraberiz türkiye](http://twitter.com/search?q=beraberiz+t%c3%bcrkiye) | N/A |
-| 27 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 28 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 29 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 30 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
-| 31 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 32 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
-| 33 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 34 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
-| 35 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 23 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 24 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
+| 25 | [beraberiz türkiye](http://twitter.com/search?q=beraberiz+t%c3%bcrkiye) | N/A |
+| 26 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
+| 27 | [Akbaba](http://twitter.com/search?q=Akbaba) | N/A |
+| 28 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 29 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 30 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 31 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
+| 32 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 33 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
+| 34 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 35 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
 | 36 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
 | 37 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
 | 38 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
@@ -57,13 +57,13 @@ This is top 50 for [Turkey](</Turkey>)
 | 40 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
 | 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 42 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 43 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
-| 44 | [açik açik ped](http://twitter.com/search?q=a%c3%a7ik+a%c3%a7ik+ped) | N/A |
-| 45 | [Fatma Güngör](http://twitter.com/search?q=Fatma+G%c3%bcng%c3%b6r) | N/A |
-| 46 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 47 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 48 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
-| 49 | [Gece 3](http://twitter.com/search?q=Gece+3) | N/A |
+| 43 | [açik açik ped](http://twitter.com/search?q=a%c3%a7ik+a%c3%a7ik+ped) | N/A |
+| 44 | [Fatma Güngör](http://twitter.com/search?q=Fatma+G%c3%bcng%c3%b6r) | N/A |
+| 45 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 46 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
+| 47 | [Gece 3](http://twitter.com/search?q=Gece+3) | N/A |
+| 48 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 49 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
 | 50 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
 
 

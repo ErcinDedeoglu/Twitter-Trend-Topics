@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-15 02:42:07 UTC`
+📆 Last Updated: `2023-02-15 03:21:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,14 +25,14 @@ This is top 50 for [Sweden](</Sweden>)
 | 8 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
 | 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 10 | [detsamma](http://twitter.com/search?q=detsamma) | N/A |
-| 11 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 11 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
 | 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 13 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
 | 14 | [Begler](http://twitter.com/search?q=Begler) | N/A |
 | 15 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 16 | [Fantenberg](http://twitter.com/search?q=Fantenberg) | N/A |
 | 17 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 18 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
+| 18 | [ortio](http://twitter.com/search?q=ortio) | N/A |
 | 19 | [Migrationsverket](http://twitter.com/search?q=Migrationsverket) | N/A |
 | 20 | [Dan Eliasson](http://twitter.com/search?q=Dan+Eliasson) | N/A |
 | 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
@@ -56,13 +56,13 @@ This is top 50 for [Sweden](</Sweden>)
 | 39 | [frölunda](http://twitter.com/search?q=fr%c3%b6lunda) | N/A |
 | 40 | [Vasa](http://twitter.com/search?q=Vasa) | N/A |
 | 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [moldavien](http://twitter.com/search?q=moldavien) | N/A |
-| 43 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 44 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 45 | [simon hjalmarsson](http://twitter.com/search?q=simon+hjalmarsson) | N/A |
-| 46 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 47 | [lotta edholm](http://twitter.com/search?q=lotta+edholm) | N/A |
-| 48 | [omark](http://twitter.com/search?q=omark) | N/A |
+| 42 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 43 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 44 | [simon hjalmarsson](http://twitter.com/search?q=simon+hjalmarsson) | N/A |
+| 45 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 46 | [lotta edholm](http://twitter.com/search?q=lotta+edholm) | N/A |
+| 47 | [omark](http://twitter.com/search?q=omark) | N/A |
+| 48 | [tingsryd](http://twitter.com/search?q=tingsryd) | N/A |
 
 
 
