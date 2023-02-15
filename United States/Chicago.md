@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-15 08:17:57 UTC`
+📆 Last Updated: `2023-02-15 09:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 2 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
-| 3 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
-| 4 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 5 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 1 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
+| 2 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 3 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 4 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 5 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
 | 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 8 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
-| 9 | [#HappyBirthdayMegan](http://twitter.com/search?q=%23HappyBirthdayMegan) | N/A |
+| 8 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
+| 9 | [#mha380](http://twitter.com/search?q=%23mha380) | N/A |
 | 10 | [#WhyImSingle](http://twitter.com/search?q=%23WhyImSingle) | N/A |
-| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 11 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
 | 12 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 13 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 14 | [HAUSER](http://twitter.com/search?q=HAUSER) | N/A |
-| 15 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 14 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 15 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
 | 16 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 17 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 18 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 19 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 20 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 21 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 22 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 23 | [All American](http://twitter.com/search?q=All+American) | N/A |
-| 24 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 25 | [Floki](http://twitter.com/search?q=Floki) | N/A |
-| 26 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 27 | [Hori](http://twitter.com/search?q=Hori) | N/A |
-| 28 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 29 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 30 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 31 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 32 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 33 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 34 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 35 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 36 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
-| 37 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 38 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
-| 39 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 40 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
-| 41 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 42 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 43 | [Kyle Kuzma](http://twitter.com/search?q=Kyle+Kuzma) | N/A |
-| 44 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 45 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 46 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 47 | [Jinder](http://twitter.com/search?q=Jinder) | N/A |
-| 48 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 49 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 50 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 17 | [All American](http://twitter.com/search?q=All+American) | N/A |
+| 18 | [Hori](http://twitter.com/search?q=Hori) | N/A |
+| 19 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 20 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 21 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 22 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 23 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 24 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 25 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
+| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 27 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 28 | [Best Valentine's Day](http://twitter.com/search?q=Best+Valentine%27s+Day) | N/A |
+| 29 | [Floki](http://twitter.com/search?q=Floki) | N/A |
+| 30 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 31 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 32 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 34 | [Bill Watterson](http://twitter.com/search?q=Bill+Watterson) | N/A |
+| 35 | [Carly Simon](http://twitter.com/search?q=Carly+Simon) | N/A |
+| 36 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
+| 37 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 38 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 39 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
+| 40 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 41 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 42 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 43 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 44 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 45 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 46 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 47 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 48 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
+| 49 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 50 | [Klondike](http://twitter.com/search?q=Klondike) | N/A |
 
 
 

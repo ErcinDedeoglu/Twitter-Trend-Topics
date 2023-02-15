@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-02-15 08:17:35 UTC`
+📆 Last Updated: `2023-02-15 09:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#キスライ](http://twitter.com/search?q=%23%e3%82%ad%e3%82%b9%e3%83%a9%e3%82%a4) | N/A |
-| 2 | [#謎解きフェスティバル](http://twitter.com/search?q=%23%e8%ac%8e%e8%a7%a3%e3%81%8d%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab) | #謎解きフェスティバル is a hashtag used to promote events or activities related to solving puzzles or riddles. In English, it translates to "Puzzle Solving Festival". |
-| 3 | [解答時間](http://twitter.com/search?q=%e8%a7%a3%e7%ad%94%e6%99%82%e9%96%93) | 解答時間 (kaisatsu jikan) is a Japanese term that refers to the time allotted for answering questions or responding to requests. In English, it can be translated as "response time". |
-| 4 | [ホリエモン](http://twitter.com/search?q=%e3%83%9b%e3%83%aa%e3%82%a8%e3%83%a2%e3%83%b3) | N/A |
-| 5 | [ハイスタ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%b9%e3%82%bf) | N/A |
-| 6 | [#超PayPay祭開始しております](http://twitter.com/search?q=%23%e8%b6%85PayPay%e7%a5%ad%e9%96%8b%e5%a7%8b%e3%81%97%e3%81%a6%e3%81%8a%e3%82%8a%e3%81%be%e3%81%99) | N/A |
-| 7 | [アルベド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%99%e3%83%89) | N/A |
-| 8 | [アルハイゼン復刻](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3%e5%be%a9%e5%88%bb) | N/A |
+| 1 | [マキマさん](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93) | マキマさん is a character from the Japanese manga series, Kochikame. The character's name is Makima, and she is a police officer who works in the Ryōgoku Police Station. In English, her name can be translated to "Officer Makima". |
+| 2 | [ハイスタ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%b9%e3%82%bf) | N/A |
+| 3 | [#超PayPay祭開始しております](http://twitter.com/search?q=%23%e8%b6%85PayPay%e7%a5%ad%e9%96%8b%e5%a7%8b%e3%81%97%e3%81%a6%e3%81%8a%e3%82%8a%e3%81%be%e3%81%99) | N/A |
+| 4 | [アルハイゼン復刻](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3%e5%be%a9%e5%88%bb) | N/A |
+| 5 | [#ホロポケカップ](http://twitter.com/search?q=%23%e3%83%9b%e3%83%ad%e3%83%9d%e3%82%b1%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 6 | [#私の好きモス](http://twitter.com/search?q=%23%e7%a7%81%e3%81%ae%e5%a5%bd%e3%81%8d%e3%83%a2%e3%82%b9) | N/A |
+| 7 | [STAY GOLD](http://twitter.com/search?q=STAY+GOLD) | N/A |
+| 8 | [アルベド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%99%e3%83%89) | N/A |
 | 9 | [ネメシス](http://twitter.com/search?q=%e3%83%8d%e3%83%a1%e3%82%b7%e3%82%b9) | N/A |
 | 10 | [Hi-STANDARD](http://twitter.com/search?q=Hi-STANDARD) | N/A |
-| 11 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
-| 12 | [STAY GOLD](http://twitter.com/search?q=STAY+GOLD) | N/A |
-| 13 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 14 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
-| 15 | [謎解き成功](http://twitter.com/search?q=%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 16 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
-| 17 | [セノ復刻](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e5%be%a9%e5%88%bb) | N/A |
+| 11 | [トロピカルナイト](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%83%94%e3%82%ab%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 12 | [メンテバースト](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%86%e3%83%90%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 13 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
+| 14 | [#TROPICAL_NIGHT](http://twitter.com/search?q=%23TROPICAL_NIGHT) | N/A |
+| 15 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 16 | [謎解き成功](http://twitter.com/search?q=%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 17 | [ストッキング](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
 | 18 | [#キンプリミリオンおめでとう](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | "#キンプリミリオンおめでとう" is a hashtag used to congratulate King & Prince, a Japanese boy band, on their success. In English, it translates to "Congratulations King & Prince!" |
-| 19 | [竹MOD](http://twitter.com/search?q=%e7%ab%b9MOD) | N/A |
-| 20 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
-| 21 | [セノくん](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e3%81%8f%e3%82%93) | N/A |
-| 22 | [ストッキング](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 23 | [#国会中継](http://twitter.com/search?q=%23%e5%9b%bd%e4%bc%9a%e4%b8%ad%e7%b6%99) | N/A |
-| 24 | [ダンベル](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%99%e3%83%ab) | N/A |
-| 25 | [メトさん](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%81%95%e3%82%93) | N/A |
-| 26 | [メンテバースト](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%86%e3%83%90%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 27 | [トワツガイ](http://twitter.com/search?q=%e3%83%88%e3%83%af%e3%83%84%e3%82%ac%e3%82%a4) | N/A |
-| 28 | [差し歯のプリンス](http://twitter.com/search?q=%e5%b7%ae%e3%81%97%e6%ad%af%e3%81%ae%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b9) | N/A |
+| 19 | [薩摩ホグワーツ](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84) | N/A |
+| 20 | [竹MOD](http://twitter.com/search?q=%e7%ab%b9MOD) | N/A |
+| 21 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
+| 22 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
+| 23 | [メトさん](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%81%95%e3%82%93) | N/A |
+| 24 | [期限設定](http://twitter.com/search?q=%e6%9c%9f%e9%99%90%e8%a8%ad%e5%ae%9a) | N/A |
+| 25 | [コンテンダー](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%80%e3%83%bc) | コンテンダー (Kontendā) is a Japanese word that refers to a person who is responsible for organizing and managing events. In English, it can be translated as "event coordinator". |
+| 26 | [セノくん](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e3%81%8f%e3%82%93) | N/A |
+| 27 | [セノ復刻](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e5%be%a9%e5%88%bb) | N/A |
+| 28 | [ひみつスタジオ](http://twitter.com/search?q=%e3%81%b2%e3%81%bf%e3%81%a4%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%aa) | N/A |
 | 29 | [新シーズン](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
-| 30 | [アートブック](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%88%e3%83%96%e3%83%83%e3%82%af) | N/A |
-| 31 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 32 | [マキマのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
-| 33 | [NIKKE](http://twitter.com/search?q=NIKKE) | N/A |
-| 34 | [選択契約書](http://twitter.com/search?q=%e9%81%b8%e6%8a%9e%e5%a5%91%e7%b4%84%e6%9b%b8) | N/A |
-| 35 | [AIR JAM](http://twitter.com/search?q=AIR+JAM) | N/A |
-| 36 | [期限設定](http://twitter.com/search?q=%e6%9c%9f%e9%99%90%e8%a8%ad%e5%ae%9a) | N/A |
-| 37 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
-| 38 | [ソウルコン](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%83%ab%e3%82%b3%e3%83%b3) | N/A |
-| 39 | [ユングフラウ賞](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b0%e3%83%95%e3%83%a9%e3%82%a6%e8%b3%9e) | N/A |
-| 40 | [JAPAN JAM](http://twitter.com/search?q=JAPAN+JAM) | Japan Jam is an annual music festival held in Japan. It features a variety of genres, including rock, hip-hop, and electronic music. The name "Japan Jam" is derived from the phrase "jam session," which refers to a musical performance by multiple musicians playing together without any pre-arranged material. The festival is known for its relaxed atmosphere and for bringing together some of the best Japanese and international artists. |
-| 41 | [サーフズアップ](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%83%95%e3%82%ba%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 42 | [チャットモンチー](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%83%81%e3%83%bc) | N/A |
-| 43 | [チャージ3回](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b83%e5%9b%9e) | N/A |
-| 44 | [マキマさん](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93) | マキマさん is a character from the Japanese manga series, Kochikame. The character's name is Makima, and she is a police officer who works in the Ryōgoku Police Station. In English, her name can be translated to "Officer Makima". |
-| 45 | [スポーツ報知](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e5%a0%b1%e7%9f%a5) | N/A |
-| 46 | [フリーエントリー](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
-| 47 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
-| 48 | [チェンソーマンコラボ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 49 | [MAKING THE ROAD](http://twitter.com/search?q=MAKING+THE+ROAD) | N/A |
+| 30 | [プリウスミサイル](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%a6%e3%82%b9%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 31 | [トワツガイ](http://twitter.com/search?q=%e3%83%88%e3%83%af%e3%83%84%e3%82%ac%e3%82%a4) | N/A |
+| 32 | [差し歯のプリンス](http://twitter.com/search?q=%e5%b7%ae%e3%81%97%e6%ad%af%e3%81%ae%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b9) | N/A |
+| 33 | [JR京都線](http://twitter.com/search?q=JR%e4%ba%ac%e9%83%bd%e7%b7%9a) | JR京都線 is a railway line operated by Japan Railways (JR) in the Kansai region of Japan. It runs between Osaka and Kyoto, connecting major cities such as Nara, Shiga, and Mie. In English, it is known as the JR Kyoto Line. |
+| 34 | [ソウルコン](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%83%ab%e3%82%b3%e3%83%b3) | N/A |
+| 35 | [ダンベル](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%99%e3%83%ab) | N/A |
+| 36 | [ロクマチ](http://twitter.com/search?q=%e3%83%ad%e3%82%af%e3%83%9e%e3%83%81) | N/A |
+| 37 | [琵琶湖線](http://twitter.com/search?q=%e7%90%b5%e7%90%b6%e6%b9%96%e7%b7%9a) | N/A |
+| 38 | [夫婦別姓議論](http://twitter.com/search?q=%e5%a4%ab%e5%a9%a6%e5%88%a5%e5%a7%93%e8%ad%b0%e8%ab%96) | N/A |
+| 39 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
+| 40 | [しょせセンター](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%9b%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 41 | [次元断層](http://twitter.com/search?q=%e6%ac%a1%e5%85%83%e6%96%ad%e5%b1%a4) | N/A |
+| 42 | [メンバー愛](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%90%e3%83%bc%e6%84%9b) | N/A |
+| 43 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
+| 44 | [マキマのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 45 | [NIKKE](http://twitter.com/search?q=NIKKE) | N/A |
+| 46 | [AIR JAM](http://twitter.com/search?q=AIR+JAM) | N/A |
+| 47 | [MAKING THE ROAD](http://twitter.com/search?q=MAKING+THE+ROAD) | N/A |
+| 48 | [フラペチーノ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 49 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
 
 
 

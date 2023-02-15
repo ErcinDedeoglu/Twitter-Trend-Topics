@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-15 08:18:07 UTC`
+📆 Last Updated: `2023-02-15 09:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Austria
 | 9 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 10 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
 | 11 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 12 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 13 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 14 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 17 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 18 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 19 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
-| 20 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 21 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 22 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
-| 23 | [hans krankl](http://twitter.com/search?q=hans+krankl) | N/A |
-| 24 | [Pension](http://twitter.com/search?q=Pension) | N/A |
-| 25 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
-| 26 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
-| 27 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 28 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 12 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 15 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 16 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 17 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 18 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 19 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 21 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
+| 22 | [hans krankl](http://twitter.com/search?q=hans+krankl) | N/A |
+| 23 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 24 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 25 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
+| 26 | [Branchen](http://twitter.com/search?q=Branchen) | N/A |
+| 27 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
+| 28 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 29 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 30 | [Handel](http://twitter.com/search?q=Handel) | N/A |
 | 31 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 32 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
-| 33 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 34 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 35 | [Familienbeihilfe](http://twitter.com/search?q=Familienbeihilfe) | N/A |
-| 36 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 37 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 38 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 39 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 40 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 41 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
-| 42 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 44 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
-| 45 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 46 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 47 | [Hängematte](http://twitter.com/search?q=H%c3%a4ngematte) | N/A |
-| 48 | [Branchen](http://twitter.com/search?q=Branchen) | N/A |
-| 49 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
-| 50 | [Tasche](http://twitter.com/search?q=Tasche) | N/A |
+| 32 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 33 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 34 | [Familienbeihilfe](http://twitter.com/search?q=Familienbeihilfe) | N/A |
+| 35 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 36 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 37 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
+| 38 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 39 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 40 | [Rosen](http://twitter.com/search?q=Rosen) | N/A |
+| 41 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
+| 42 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 43 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 44 | [Tasche](http://twitter.com/search?q=Tasche) | N/A |
+| 45 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
+| 46 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 47 | [Staatssekretärin](http://twitter.com/search?q=Staatssekret%c3%a4rin) | N/A |
+| 48 | [Budget](http://twitter.com/search?q=Budget) | N/A |
+| 49 | [Quatsch](http://twitter.com/search?q=Quatsch) | N/A |
+| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 
 
 

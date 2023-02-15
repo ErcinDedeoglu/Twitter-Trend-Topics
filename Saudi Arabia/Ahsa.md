@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-02-15 08:18:16 UTC`
+📆 Last Updated: `2023-02-15 09:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#اليوم_العالمي_للحب](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%ad%d8%a8) | N/A |
-| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 1 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 2 | [#اليوم_العالمي_للحب](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%ad%d8%a8) | N/A |
 | 3 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 4 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
 | 5 | [#عيد_الحب](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 16 | [رييس الفيحاء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
 | 17 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 18 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 19 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 20 | [مينديز](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a%d8%b2) | N/A |
+| 19 | [مينديز](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a%d8%b2) | N/A |
+| 20 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
 | 21 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 22 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 23 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 24 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 25 | [موبايلي باي](http://twitter.com/search?q=%d9%85%d9%88%d8%a8%d8%a7%d9%8a%d9%84%d9%8a+%d8%a8%d8%a7%d9%8a) | N/A |
-| 26 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
-| 27 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 28 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 29 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 30 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 31 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 22 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 23 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 24 | [موبايلي باي](http://twitter.com/search?q=%d9%85%d9%88%d8%a8%d8%a7%d9%8a%d9%84%d9%8a+%d8%a8%d8%a7%d9%8a) | N/A |
+| 25 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 26 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 27 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 29 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 30 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 31 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
 | 32 | [سولير](http://twitter.com/search?q=%d8%b3%d9%88%d9%84%d9%8a%d8%b1) | N/A |
-| 33 | [الزويهري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d9%8a%d9%87%d8%b1%d9%8a) | N/A |
-| 34 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
-| 35 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 36 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
-| 37 | [رييس نادي الفيحاء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 38 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 39 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 40 | [تاجيل المباراه](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
+| 33 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 34 | [الزويهري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d9%8a%d9%87%d8%b1%d9%8a) | N/A |
+| 35 | [حبيب الروح](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d8%ad) | N/A |
+| 36 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 37 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 38 | [رييس نادي الفيحاء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 39 | [تاجيل المباراه](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
+| 40 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
 | 41 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 42 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 42 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
 | 43 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | N/A |
-| 44 | [بروج](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d8%ac) | N/A |
-| 45 | [القطاع الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 44 | [فهد بن خالد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a8%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 45 | [Visa Signature](http://twitter.com/search?q=Visa+Signature) | N/A |
 | 46 | [علي التاجيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d9%84) | N/A |
-| 47 | [Visa Signature](http://twitter.com/search?q=Visa+Signature) | N/A |
+| 47 | [رياض شراحيلي](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | N/A |
 | 48 | [قصر العوجا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d9%88%d8%ac%d8%a7) | N/A |
-| 49 | [رياض شراحيلي](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | N/A |
-| 50 | [رضا القلب](http://twitter.com/search?q=%d8%b1%d8%b6%d8%a7+%d8%a7%d9%84%d9%82%d9%84%d8%a8) | N/A |
+| 49 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 50 | [القطاع الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
 
 
 
