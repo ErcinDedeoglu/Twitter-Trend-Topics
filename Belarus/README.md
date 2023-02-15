@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-15 01:45:21 UTC`
+📆 Last Updated: `2023-02-15 02:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Belarus
 | 5 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 6 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
 | 7 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
-| 8 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 8 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
 | 9 | [рианны](http://twitter.com/search?q=%d1%80%d0%b8%d0%b0%d0%bd%d0%bd%d1%8b) | N/A |
 | 10 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
 | 11 | [#TSLA](http://twitter.com/search?q=%23TSLA) | N/A |
@@ -39,10 +39,10 @@ This is top 50 for Belarus
 | 22 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
 | 23 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
 | 24 | [офигеть](http://twitter.com/search?q=%d0%be%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
-| 25 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
+| 25 | [жесть](http://twitter.com/search?q=%d0%b6%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 26 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 27 | [#supportarmiehammer](http://twitter.com/search?q=%23supportarmiehammer) | N/A |
-| 28 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 27 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 28 | [#supportarmiehammer](http://twitter.com/search?q=%23supportarmiehammer) | N/A |
 | 29 | [#футбол](http://twitter.com/search?q=%23%d1%84%d1%83%d1%82%d0%b1%d0%be%d0%bb) | N/A |
 | 30 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
 

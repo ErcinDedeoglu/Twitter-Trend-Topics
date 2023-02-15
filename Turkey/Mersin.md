@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-15 01:45:09 UTC`
+📆 Last Updated: `2023-02-15 02:42:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#secimlerertelenemez](http://twitter.com/search?q=%23secimlerertelenemez) | N/A |
-| 2 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
-| 3 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
-| 4 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
+| 2 | [#EnkazKaldırmaDurmalı](http://twitter.com/search?q=%23EnkazKald%c4%b1rmaDurmal%c4%b1) | N/A |
+| 3 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
+| 4 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
 | 5 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 6 | [#isiaskatilleritutuklansın](http://twitter.com/search?q=%23isiaskatilleritutuklans%c4%b1n) | N/A |
-| 7 | [#AdıyamanaSesOl](http://twitter.com/search?q=%23Ad%c4%b1yamanaSesOl) | N/A |
-| 8 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 9 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 10 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 7 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 8 | [#AdıyamanaSesOl](http://twitter.com/search?q=%23Ad%c4%b1yamanaSesOl) | N/A |
+| 9 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 10 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 11 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
 | 12 | [haluklevent gururumuzsunabi](http://twitter.com/search?q=haluklevent+gururumuzsunabi) | N/A |
 | 13 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [Turkey](</Turkey>)
 | 15 | [Oktay Kaynarca](http://twitter.com/search?q=Oktay+Kaynarca) | N/A |
 | 16 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
 | 17 | [Kenan İmirzalıoğlu](http://twitter.com/search?q=Kenan+%c4%b0mirzal%c4%b1o%c4%9flu) | N/A |
-| 18 | [Destan Yazıyor](http://twitter.com/search?q=Destan+Yaz%c4%b1yor) | N/A |
-| 19 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 20 | [Didem](http://twitter.com/search?q=Didem) | N/A |
-| 21 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
-| 22 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 23 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 24 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
-| 25 | [beraberiz türkiye](http://twitter.com/search?q=beraberiz+t%c3%bcrkiye) | N/A |
-| 26 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 27 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 28 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 29 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
-| 30 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 31 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 32 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
-| 33 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 34 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
-| 35 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 36 | [canımız türkiye](http://twitter.com/search?q=can%c4%b1m%c4%b1z+t%c3%bcrkiye) | N/A |
-| 37 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
-| 38 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 39 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Fatma Güngör](http://twitter.com/search?q=Fatma+G%c3%bcng%c3%b6r) | N/A |
-| 42 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 43 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
-| 44 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 45 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
-| 46 | [açik açik ped](http://twitter.com/search?q=a%c3%a7ik+a%c3%a7ik+ped) | N/A |
-| 47 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 48 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 49 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 50 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
+| 18 | [destan yazıyor](http://twitter.com/search?q=destan+yaz%c4%b1yor) | N/A |
+| 19 | [Didem](http://twitter.com/search?q=Didem) | N/A |
+| 20 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 21 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 22 | [Şartsız](http://twitter.com/search?q=%c5%9earts%c4%b1z) | N/A |
+| 23 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 24 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 25 | [Ağustos](http://twitter.com/search?q=A%c4%9fustos) | N/A |
+| 26 | [beraberiz türkiye](http://twitter.com/search?q=beraberiz+t%c3%bcrkiye) | N/A |
+| 27 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
+| 28 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 29 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 30 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
+| 31 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 32 | [Garo Paylan](http://twitter.com/search?q=Garo+Paylan) | N/A |
+| 33 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 34 | [Ayşe Arman](http://twitter.com/search?q=Ay%c5%9fe+Arman) | N/A |
+| 35 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 36 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 37 | [Gargamel](http://twitter.com/search?q=Gargamel) | N/A |
+| 38 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 39 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 40 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
+| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 42 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 43 | [Darbe](http://twitter.com/search?q=Darbe) | N/A |
+| 44 | [açik açik ped](http://twitter.com/search?q=a%c3%a7ik+a%c3%a7ik+ped) | N/A |
+| 45 | [Fatma Güngör](http://twitter.com/search?q=Fatma+G%c3%bcng%c3%b6r) | N/A |
+| 46 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 47 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 48 | [Can Ataklı](http://twitter.com/search?q=Can+Atakl%c4%b1) | Can Ataklı is a Turkish phrase that translates to "bold and brave". It is often used to describe someone who is courageous and unafraid of taking risks. |
+| 49 | [Gece 3](http://twitter.com/search?q=Gece+3) | N/A |
+| 50 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
 
 
 

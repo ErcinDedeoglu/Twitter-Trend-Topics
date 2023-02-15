@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-15 01:45:21 UTC`
+📆 Last Updated: `2023-02-15 02:42:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,48 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 2 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 3 | [Plaza de Bolívar](http://twitter.com/search?q=Plaza+de+Bol%c3%advar) | N/A |
-| 4 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
-| 5 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 6 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 7 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
-| 8 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 9 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 10 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
-| 11 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 14 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 15 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 16 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 17 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 20 | [Payaso](http://twitter.com/search?q=Payaso) | N/A |
-| 21 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 22 | [#ColombiaALaCalle15](http://twitter.com/search?q=%23ColombiaALaCalle15) | N/A |
-| 23 | [#marchas](http://twitter.com/search?q=%23marchas) | N/A |
-| 24 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 25 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
-| 26 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 27 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 30 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
+| 1 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
+| 2 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 3 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 4 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 5 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 6 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 7 | [plaza de Bolívar](http://twitter.com/search?q=plaza+de+Bol%c3%advar) | N/A |
+| 8 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 9 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 10 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 11 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
+| 12 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 13 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
+| 14 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
+| 15 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 16 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
+| 17 | [Casa de Nariño](http://twitter.com/search?q=Casa+de+Nari%c3%b1o) | N/A |
+| 18 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 19 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 22 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 23 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 24 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 25 | [Payaso](http://twitter.com/search?q=Payaso) | N/A |
+| 26 | [#ColombiaALaCalle15](http://twitter.com/search?q=%23ColombiaALaCalle15) | N/A |
+| 27 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 28 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [#marchas](http://twitter.com/search?q=%23marchas) | N/A |
 | 31 | [#14FPorLaSalud](http://twitter.com/search?q=%2314FPorLaSalud) | N/A |
-| 32 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 33 | [Puros](http://twitter.com/search?q=Puros) | N/A |
-| 34 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
-| 35 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 36 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 37 | [Llore](http://twitter.com/search?q=Llore) | N/A |
-| 38 | [Reformas](http://twitter.com/search?q=Reformas) | N/A |
-| 39 | [#GobiernoDelCambio](http://twitter.com/search?q=%23GobiernoDelCambio) | N/A |
+| 32 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 33 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
+| 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 36 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 37 | [Puros](http://twitter.com/search?q=Puros) | N/A |
+| 38 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
+| 39 | [Llora](http://twitter.com/search?q=Llora) | N/A |
+| 40 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 41 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 42 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

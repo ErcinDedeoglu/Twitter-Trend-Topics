@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-15 01:44:53 UTC`
+📆 Last Updated: `2023-02-15 02:42:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 2 | [#SenateEstimates](http://twitter.com/search?q=%23SenateEstimates) | N/A |
-| 3 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 4 | [Paige](http://twitter.com/search?q=Paige) | N/A |
-| 5 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
-| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 7 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 8 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
-| 9 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 10 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 2 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 3 | [#SenateEstimates](http://twitter.com/search?q=%23SenateEstimates) | N/A |
+| 4 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 6 | [Paige](http://twitter.com/search?q=Paige) | N/A |
+| 7 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 8 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 9 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 10 | [Canavan](http://twitter.com/search?q=Canavan) | N/A |
 | 11 | [Roses](http://twitter.com/search?q=Roses) | N/A |
 | 12 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
 | 13 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 14 | [RBA Governor](http://twitter.com/search?q=RBA+Governor) | N/A |
-| 15 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
+| 14 | [#ClimateIntegrity](http://twitter.com/search?q=%23ClimateIntegrity) | N/A |
+| 15 | [RBA Governor](http://twitter.com/search?q=RBA+Governor) | N/A |
 | 16 | [MyGov](http://twitter.com/search?q=MyGov) | N/A |
-| 17 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [#ClimateIntegrity](http://twitter.com/search?q=%23ClimateIntegrity) | N/A |
-| 20 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 23 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
-| 24 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
-| 25 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 26 | [stolen generations](http://twitter.com/search?q=stolen+generations) | N/A |
-| 27 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
-| 28 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
-| 29 | [ash gardner](http://twitter.com/search?q=ash+gardner) | N/A |
-| 30 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 31 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
-| 32 | [macedonian jesus](http://twitter.com/search?q=macedonian+jesus) | N/A |
-| 33 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
-| 34 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 35 | [Crosby Textor](http://twitter.com/search?q=Crosby+Textor) | N/A |
-| 36 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
+| 17 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 18 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 19 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 22 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 23 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 24 | [Peter Poulos](http://twitter.com/search?q=Peter+Poulos) | N/A |
+| 25 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 26 | [Crosby Textor](http://twitter.com/search?q=Crosby+Textor) | N/A |
+| 27 | [Wordle 605 X](http://twitter.com/search?q=Wordle+605+X) | N/A |
+| 28 | [Sharni](http://twitter.com/search?q=Sharni) | N/A |
+| 29 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 30 | [stolen generations](http://twitter.com/search?q=stolen+generations) | N/A |
+| 31 | [ash gardner](http://twitter.com/search?q=ash+gardner) | N/A |
+| 32 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 33 | [V Day](http://twitter.com/search?q=V+Day) | N/A |
+| 34 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
+| 35 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
+| 36 | [Senators](http://twitter.com/search?q=Senators) | N/A |
 | 37 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 | 38 | [John Laws](http://twitter.com/search?q=John+Laws) | N/A |
-| 39 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 40 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 39 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 40 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 41 | [Daily Quordle 387](http://twitter.com/search?q=Daily+Quordle+387) | N/A |
-| 42 | [ASIO](http://twitter.com/search?q=ASIO) | N/A |
-| 43 | [Bridget](http://twitter.com/search?q=Bridget) | N/A |
-| 44 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 45 | [Commonwealth Bank](http://twitter.com/search?q=Commonwealth+Bank) | N/A |
-| 46 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 47 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 48 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 49 | [Crows Nest](http://twitter.com/search?q=Crows+Nest) | N/A |
-| 50 | [Captain Cook](http://twitter.com/search?q=Captain+Cook) | N/A |
+| 42 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 43 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 44 | [ASIO](http://twitter.com/search?q=ASIO) | N/A |
+| 45 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 46 | [Crows Nest](http://twitter.com/search?q=Crows+Nest) | N/A |
+| 47 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 48 | [Captain Cook](http://twitter.com/search?q=Captain+Cook) | N/A |
+| 49 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 50 | [Unprovoked](http://twitter.com/search?q=Unprovoked) | N/A |
 
 
 

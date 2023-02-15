@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-15 01:44:50 UTC`
+📆 Last Updated: `2023-02-15 02:42:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Norway](</Norway>)
 | 11 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
 | 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 13 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 14 | [Bjørgvin](http://twitter.com/search?q=Bj%c3%b8rgvin) | N/A |
+| 14 | [bjørgvin](http://twitter.com/search?q=bj%c3%b8rgvin) | N/A |
 | 15 | [espen teigen](http://twitter.com/search?q=espen+teigen) | N/A |
 | 16 | [nora haukland](http://twitter.com/search?q=nora+haukland) | N/A |
 | 17 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
@@ -46,11 +46,11 @@ This is top 50 for [Norway](</Norway>)
 | 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 30 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
 | 31 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 32 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
+| 32 | [lågendeltaet](http://twitter.com/search?q=l%c3%a5gendeltaet) | N/A |
 | 33 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
 | 34 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 35 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 36 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 35 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 36 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
 | 37 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 38 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
 | 39 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Norway](</Norway>)
 | 45 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
 | 46 | [Synd](http://twitter.com/search?q=Synd) | N/A |
 | 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 48 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 48 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
 
 
 

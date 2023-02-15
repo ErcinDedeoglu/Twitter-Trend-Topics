@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-15 01:45:21 UTC`
+📆 Last Updated: `2023-02-15 02:42:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for Denmark
 | 32 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
 | 33 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 34 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 35 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
+| 35 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
 | 36 | [USAs](http://twitter.com/search?q=USAs) | N/A |
 | 37 | [Casper](http://twitter.com/search?q=Casper) | N/A |
 | 38 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |

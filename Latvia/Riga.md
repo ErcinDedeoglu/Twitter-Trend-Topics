@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-15 01:44:50 UTC`
+📆 Last Updated: `2023-02-15 02:42:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 8 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 9 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 10 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 10 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 11 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 12 | [piesakos](http://twitter.com/search?q=piesakos) | N/A |
 | 13 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
@@ -58,8 +58,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 41 | [krievu](http://twitter.com/search?q=krievu) | N/A |
 | 42 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
 | 43 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 44 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
-| 45 | [Vajadzētu](http://twitter.com/search?q=Vajadz%c4%93tu) | N/A |
+| 44 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 45 | [vajadzētu](http://twitter.com/search?q=vajadz%c4%93tu) | N/A |
 | 46 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 48 | [skatos](http://twitter.com/search?q=skatos) | N/A |
