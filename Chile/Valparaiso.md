@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-16 21:16:05 UTC`
+📆 Last Updated: `2023-02-16 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
 | 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 3 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 4 | [Armada](http://twitter.com/search?q=Armada) | N/A |
+| 3 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 4 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
 | 5 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 6 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 9 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 10 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 11 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 12 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
-| 13 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 17 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
-| 18 | [Cochamó](http://twitter.com/search?q=Cocham%c3%b3) | N/A |
-| 19 | [Zapallar](http://twitter.com/search?q=Zapallar) | N/A |
-| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 21 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 22 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 23 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
-| 24 | [Sutil](http://twitter.com/search?q=Sutil) | N/A |
-| 25 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [ME-O](http://twitter.com/search?q=ME-O) | N/A |
-| 28 | [Felipe Bulnes](http://twitter.com/search?q=Felipe+Bulnes) | N/A |
-| 29 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 30 | [Primera Línea](http://twitter.com/search?q=Primera+L%c3%adnea) | N/A |
-| 31 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 32 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 6 | [Armada](http://twitter.com/search?q=Armada) | N/A |
+| 7 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
+| 8 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 9 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
+| 10 | [Cochamó](http://twitter.com/search?q=Cocham%c3%b3) | N/A |
+| 11 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 14 | [Zapallar](http://twitter.com/search?q=Zapallar) | N/A |
+| 15 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
+| 16 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 17 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 19 | [Sutil](http://twitter.com/search?q=Sutil) | N/A |
+| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 21 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 22 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 24 | [Felipe Bulnes](http://twitter.com/search?q=Felipe+Bulnes) | N/A |
+| 25 | [ME-O](http://twitter.com/search?q=ME-O) | N/A |
+| 26 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 28 | [Primera Línea](http://twitter.com/search?q=Primera+L%c3%adnea) | N/A |
+| 29 | [Koundé](http://twitter.com/search?q=Kound%c3%a9) | N/A |
+| 30 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 31 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 32 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 33 | [Joan Cruz](http://twitter.com/search?q=Joan+Cruz) | Joan Cruz is a Spanish name derived from the Latin name Iohannes, which means "God is gracious". It is a combination of the names Jo and Ann, and can be used as either a masculine or feminine name. |
-| 34 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
-| 35 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 36 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 43 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 44 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 45 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 46 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 47 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 34 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 35 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 38 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
+| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 40 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 42 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 43 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 44 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 45 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 46 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 47 | [Aníbal Palma](http://twitter.com/search?q=An%c3%adbal+Palma) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-16 21:16:37 UTC`
+📆 Last Updated: `2023-02-16 22:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Osman](http://twitter.com/search?q=Osman) | N/A |
-| 2 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 3 | [Aşkım](http://twitter.com/search?q=A%c5%9fk%c4%b1m) | N/A |
+| 1 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
+| 2 | [İyilik Vakti](http://twitter.com/search?q=%c4%b0yilik+Vakti) | N/A |
+| 3 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
 | 4 | [#YeniCamolukOtomotiv](http://twitter.com/search?q=%23YeniCamolukOtomotiv) | N/A |
-| 5 | [Mavi](http://twitter.com/search?q=Mavi) | Mavi is a Turkish word meaning "blue". |
-| 6 | [#CryptoAI](http://twitter.com/search?q=%23CryptoAI) | N/A |
-| 7 | [İyilik Vakti](http://twitter.com/search?q=%c4%b0yilik+Vakti) | N/A |
-| 8 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
-| 9 | [#TSvFCB](http://twitter.com/search?q=%23TSvFCB) | N/A |
-| 10 | [Hatay'da 5.1](http://twitter.com/search?q=Hatay%27da+5.1) | N/A |
-| 11 | [Neslihan Kılıç](http://twitter.com/search?q=Neslihan+K%c4%b1l%c4%b1%c3%a7) | N/A |
-| 12 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 5 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
+| 6 | [Osman](http://twitter.com/search?q=Osman) | N/A |
+| 7 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
+| 8 | [Hatay'da 5.1](http://twitter.com/search?q=Hatay%27da+5.1) | N/A |
+| 9 | [#HepBirlikteKazandık](http://twitter.com/search?q=%23HepBirlikteKazand%c4%b1k) | N/A |
+| 10 | [Hatay'da 10](http://twitter.com/search?q=Hatay%27da+10) | N/A |
+| 11 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 12 | [Neslihan Kılıç](http://twitter.com/search?q=Neslihan+K%c4%b1l%c4%b1%c3%a7) | N/A |
 | 13 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
-| 14 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 15 | [Hatay'da 10](http://twitter.com/search?q=Hatay%27da+10) | N/A |
-| 16 | [Maxi Gomez](http://twitter.com/search?q=Maxi+Gomez) | Maxi Gomez is a Spanish professional footballer who plays as a striker for Celta Vigo. His name translates to "Big Max" in English. |
-| 17 | [Aleyna Ölmez](http://twitter.com/search?q=Aleyna+%c3%96lmez) | N/A |
+| 14 | [Cumamız](http://twitter.com/search?q=Cumam%c4%b1z) | N/A |
+| 15 | [Maxi Gomez](http://twitter.com/search?q=Maxi+Gomez) | Maxi Gomez is a Spanish professional footballer who plays as a striker for Celta Vigo. His name translates to "Big Max" in English. |
+| 16 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
+| 17 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
 | 18 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 19 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 20 | [Hayırlı Kandiller](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Kandiller) | Hayırlı Kandiller is a Turkish phrase that translates to "Happy Holidays" or "Blessed Holidays". It is typically used to wish someone a happy holiday season, such as during Ramadan or other religious holidays. |
-| 21 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
-| 22 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 23 | [Uğurcan Çakır](http://twitter.com/search?q=U%c4%9furcan+%c3%87ak%c4%b1r) | N/A |
-| 24 | [Arsuz](http://twitter.com/search?q=Arsuz) | N/A |
-| 25 | [TV 8](http://twitter.com/search?q=TV+8) | N/A |
-| 26 | [Depremin 11](http://twitter.com/search?q=Depremin+11) | N/A |
-| 27 | [Orkun](http://twitter.com/search?q=Orkun) | N/A |
-| 28 | [Depremin 258](http://twitter.com/search?q=Depremin+258) | N/A |
-| 29 | [Yaralarımızı Saracağız](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z%c4%b1+Saraca%c4%9f%c4%b1z) | N/A |
-| 30 | [Where Are You](http://twitter.com/search?q=Where+Are+You) | N/A |
-| 31 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 32 | [NE MUTLU TÜRKÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%c3%9cM+D%c4%b0YENE) | N/A |
-| 33 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
-| 34 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 35 | [Halk TV'de](http://twitter.com/search?q=Halk+TV%27de) | N/A |
-| 36 | [Cem Seymen](http://twitter.com/search?q=Cem+Seymen) | N/A |
-| 37 | [İsa](http://twitter.com/search?q=%c4%b0sa) | N/A |
-| 38 | [Cumhurbaşkanlığı Külliyesinde](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1+K%c3%bclliyesinde) | N/A |
-| 39 | [Bircan](http://twitter.com/search?q=Bircan) | N/A |
-| 40 | [Okurken](http://twitter.com/search?q=Okurken) | N/A |
-| 41 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 42 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 43 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 45 | [Airplane](http://twitter.com/search?q=Airplane) | N/A |
-| 46 | [Sefer](http://twitter.com/search?q=Sefer) | N/A |
-| 47 | [İsimsiz Kahramanlarımız](http://twitter.com/search?q=%c4%b0simsiz+Kahramanlar%c4%b1m%c4%b1z) | N/A |
-| 48 | [Teşekkürler Türkiye](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+T%c3%bcrkiye) | N/A |
+| 19 | [Orkun](http://twitter.com/search?q=Orkun) | N/A |
+| 20 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 21 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 22 | [Aleyna Ölmez](http://twitter.com/search?q=Aleyna+%c3%96lmez) | N/A |
+| 23 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 24 | [Hoşgeldin](http://twitter.com/search?q=Ho%c5%9fgeldin) | N/A |
+| 25 | [Where Are You](http://twitter.com/search?q=Where+Are+You) | N/A |
+| 26 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 27 | [Depremin 258](http://twitter.com/search?q=Depremin+258) | N/A |
+| 28 | [Arsuz](http://twitter.com/search?q=Arsuz) | N/A |
+| 29 | [Uğurcan Çakır](http://twitter.com/search?q=U%c4%9furcan+%c3%87ak%c4%b1r) | N/A |
+| 30 | [TV 8](http://twitter.com/search?q=TV+8) | N/A |
+| 31 | [Cumhurbaşkanlığı Külliyesinde](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1+K%c3%bclliyesinde) | N/A |
+| 32 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
+| 33 | [Sam Adekugbe](http://twitter.com/search?q=Sam+Adekugbe) | N/A |
+| 34 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 35 | [Depremin 11](http://twitter.com/search?q=Depremin+11) | N/A |
+| 36 | [Yaralarımızı Saracağız](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z%c4%b1+Saraca%c4%9f%c4%b1z) | N/A |
+| 37 | [NE MUTLU TÜRKÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%c3%9cM+D%c4%b0YENE) | N/A |
+| 38 | [Okurken](http://twitter.com/search?q=Okurken) | N/A |
+| 39 | [Airplane](http://twitter.com/search?q=Airplane) | N/A |
+| 40 | [Aşkım](http://twitter.com/search?q=A%c5%9fk%c4%b1m) | N/A |
+| 41 | [Cem Seymen](http://twitter.com/search?q=Cem+Seymen) | N/A |
+| 42 | [Ali Erbaş](http://twitter.com/search?q=Ali+Erba%c5%9f) | N/A |
+| 43 | [Bircan](http://twitter.com/search?q=Bircan) | N/A |
+| 44 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [İsa](http://twitter.com/search?q=%c4%b0sa) | N/A |
+| 47 | [Halk TV'de](http://twitter.com/search?q=Halk+TV%27de) | N/A |
+| 48 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 49 | [Cengiz Holding'e](http://twitter.com/search?q=Cengiz+Holding%27e) | N/A |
-| 50 | [Ali Erbaş](http://twitter.com/search?q=Ali+Erba%c5%9f) | N/A |
+| 50 | [Sefer](http://twitter.com/search?q=Sefer) | N/A |
 
 
 

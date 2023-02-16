@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-16 21:16:14 UTC`
+📆 Last Updated: `2023-02-16 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASRoma](http://twitter.com/search?q=%23ASRoma) | N/A |
-| 2 | [#Blanco](http://twitter.com/search?q=%23Blanco) | N/A |
-| 3 | [#JuventusNantes](http://twitter.com/search?q=%23JuventusNantes) | N/A |
-| 4 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
-| 5 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 6 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 7 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 8 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 9 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 10 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 11 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 1 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 2 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 3 | [#ASRoma](http://twitter.com/search?q=%23ASRoma) | N/A |
+| 4 | [#Blanco](http://twitter.com/search?q=%23Blanco) | N/A |
+| 5 | [#JuventusNantes](http://twitter.com/search?q=%23JuventusNantes) | N/A |
+| 6 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 7 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
+| 8 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 9 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 10 | [Elia](http://twitter.com/search?q=Elia) | N/A |
+| 11 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
 | 12 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 13 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 14 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 15 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 16 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 17 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 18 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 19 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 20 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 21 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 22 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 23 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 24 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 25 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
-| 26 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 28 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 29 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 30 | [Succede](http://twitter.com/search?q=Succede) | N/A |
-| 31 | [De Siervo](http://twitter.com/search?q=De+Siervo) | N/A |
-| 32 | [Procura](http://twitter.com/search?q=Procura) | N/A |
-| 33 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 34 | [#superenalotto](http://twitter.com/search?q=%23superenalotto) | N/A |
-| 35 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 36 | [#SalisburgoRoma](http://twitter.com/search?q=%23SalisburgoRoma) | N/A |
-| 37 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 38 | [#LazioCluj](http://twitter.com/search?q=%23LazioCluj) | N/A |
-| 39 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
-| 40 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 41 | [#splendidacornice](http://twitter.com/search?q=%23splendidacornice) | N/A |
-| 42 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 43 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 44 | [#BragaFiorentina](http://twitter.com/search?q=%23BragaFiorentina) | N/A |
-| 45 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 46 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
-| 47 | [#miFannoSempre](http://twitter.com/search?q=%23miFannoSempre) | N/A |
-| 48 | [#atprotterdam](http://twitter.com/search?q=%23atprotterdam) | N/A |
-| 49 | [#SalzburgRoma](http://twitter.com/search?q=%23SalzburgRoma) | N/A |
-| 50 | [#Immobile](http://twitter.com/search?q=%23Immobile) | N/A |
+| 13 | [Traversa](http://twitter.com/search?q=Traversa) | N/A |
+| 14 | [Suor Costanza](http://twitter.com/search?q=Suor+Costanza) | N/A |
+| 15 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 16 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 17 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 18 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 19 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 20 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 21 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 22 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 23 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 24 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 25 | [Fallo](http://twitter.com/search?q=Fallo) | N/A |
+| 26 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 27 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 28 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 29 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 30 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 31 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 32 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 33 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 34 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 35 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 36 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 37 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 38 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 39 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 41 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 42 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 43 | [Succede](http://twitter.com/search?q=Succede) | N/A |
+| 44 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
+| 45 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 46 | [#uefamafia](http://twitter.com/search?q=%23uefamafia) | N/A |
+| 47 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
+| 48 | [#superenalotto](http://twitter.com/search?q=%23superenalotto) | N/A |
+| 49 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 50 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
 
 
 

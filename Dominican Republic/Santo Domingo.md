@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-16 21:16:02 UTC`
+📆 Last Updated: `2023-02-16 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,19 +17,19 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [Azua](http://twitter.com/search?q=Azua) | N/A |
 | 2 | [Esmeralda Richiez](http://twitter.com/search?q=Esmeralda+Richiez) | N/A |
-| 3 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
-| 4 | [Jorge Pineda](http://twitter.com/search?q=Jorge+Pineda) | N/A |
-| 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 6 | [Francisco Alberto Caamaño Deñó](http://twitter.com/search?q=Francisco+Alberto+Caama%c3%b1o+De%c3%b1%c3%b3) | N/A |
-| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 8 | [#hubrd](http://twitter.com/search?q=%23hubrd) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 3 | [Jorge Pineda](http://twitter.com/search?q=Jorge+Pineda) | N/A |
+| 4 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
+| 5 | [Francisco Alberto Caamaño Deñó](http://twitter.com/search?q=Francisco+Alberto+Caama%c3%b1o+De%c3%b1%c3%b3) | N/A |
+| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [#hubrd](http://twitter.com/search?q=%23hubrd) | N/A |
+| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 9 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 10 | [Vinicito](http://twitter.com/search?q=Vinicito) | N/A |
 | 11 | [Piantini](http://twitter.com/search?q=Piantini) | N/A |
-| 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 13 | [Vinicito](http://twitter.com/search?q=Vinicito) | N/A |
-| 14 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 15 | [#EstoEsCambio](http://twitter.com/search?q=%23EstoEsCambio) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
+| 14 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 15 | [#estoescambio](http://twitter.com/search?q=%23estoescambio) | N/A |
 | 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 17 | [Dejame](http://twitter.com/search?q=Dejame) | N/A |
 | 18 | [#SanValentin](http://twitter.com/search?q=%23SanValentin) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 21 | [Miércoles 15](http://twitter.com/search?q=Mi%c3%a9rcoles+15) | N/A |
 | 22 | [Igualito](http://twitter.com/search?q=Igualito) | N/A |
 | 23 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 24 | [El Ministerio Público](http://twitter.com/search?q=El+Ministerio+P%c3%bablico) | N/A |
-| 25 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 26 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
-| 27 | [Aborto](http://twitter.com/search?q=Aborto) | N/A |
-| 28 | [Manolo](http://twitter.com/search?q=Manolo) | N/A |
-| 29 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 30 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 31 | [Euric](http://twitter.com/search?q=Euric) | N/A |
-| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 33 | [Mija](http://twitter.com/search?q=Mija) | N/A |
-| 34 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 35 | [Noelia](http://twitter.com/search?q=Noelia) | N/A |
-| 36 | [Jersey](http://twitter.com/search?q=Jersey) | N/A |
-| 37 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 38 | [El Sur](http://twitter.com/search?q=El+Sur) | N/A |
-| 39 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 40 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
-| 41 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
-| 42 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 43 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 44 | [Trabajando](http://twitter.com/search?q=Trabajando) | N/A |
-| 45 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
-| 46 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
-| 47 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 48 | [Código Penal](http://twitter.com/search?q=C%c3%b3digo+Penal) | N/A |
-| 49 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 50 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
+| 24 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 25 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
+| 26 | [Aborto](http://twitter.com/search?q=Aborto) | N/A |
+| 27 | [Manolo](http://twitter.com/search?q=Manolo) | N/A |
+| 28 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 29 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 30 | [Euric](http://twitter.com/search?q=Euric) | N/A |
+| 31 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 32 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 33 | [Noelia](http://twitter.com/search?q=Noelia) | N/A |
+| 34 | [Jersey](http://twitter.com/search?q=Jersey) | N/A |
+| 35 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 36 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 37 | [El Sur](http://twitter.com/search?q=El+Sur) | N/A |
+| 38 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
+| 39 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 40 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
+| 41 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 42 | [Trabajando](http://twitter.com/search?q=Trabajando) | N/A |
+| 43 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
+| 44 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 45 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 46 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
+| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 48 | [Villa Corazón de Jesús](http://twitter.com/search?q=Villa+Coraz%c3%b3n+de+Jes%c3%bas) | N/A |
+| 49 | [Roberto Álvarez](http://twitter.com/search?q=Roberto+%c3%81lvarez) | N/A |
+| 50 | [Código Penal](http://twitter.com/search?q=C%c3%b3digo+Penal) | N/A |
 
 
 
