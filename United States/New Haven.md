@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-16 16:17:17 UTC`
+📆 Last Updated: `2023-02-16 17:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [caroline ducharme](http://twitter.com/search?q=caroline+ducharme) | N/A |
-| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 4 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 5 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 9 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 1 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 2 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 4 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 7 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 8 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 10 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
-| 11 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
-| 12 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 13 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 13 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
 | 14 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 15 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
-| 16 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
-| 17 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 18 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 19 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
-| 20 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
-| 21 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
-| 22 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 23 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
-| 24 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
-| 25 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 26 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
-| 27 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
-| 28 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 29 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 30 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 31 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
-| 32 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
-| 33 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 34 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
-| 35 | [Maurice Jones](http://twitter.com/search?q=Maurice+Jones) | N/A |
-| 36 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
-| 37 | [Edgerrin James](http://twitter.com/search?q=Edgerrin+James) | N/A |
-| 38 | [LaDainian Tomlinson](http://twitter.com/search?q=LaDainian+Tomlinson) | N/A |
-| 39 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
-| 40 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 41 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 42 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 43 | [Fred Taylor](http://twitter.com/search?q=Fred+Taylor) | N/A |
-| 44 | [Mester](http://twitter.com/search?q=Mester) | N/A |
-| 45 | [Eddie George](http://twitter.com/search?q=Eddie+George) | N/A |
-| 46 | [Frank Gore](http://twitter.com/search?q=Frank+Gore) | N/A |
-| 47 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 15 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
+| 16 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 17 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 18 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 19 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
+| 20 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 21 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 22 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
+| 23 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
+| 24 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
+| 25 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
+| 26 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 27 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
+| 28 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 29 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 30 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 31 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 32 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
+| 33 | [Edgerrin James](http://twitter.com/search?q=Edgerrin+James) | N/A |
+| 34 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
+| 35 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 36 | [Georgia 2020](http://twitter.com/search?q=Georgia+2020) | N/A |
+| 37 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 38 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
+| 39 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 40 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 41 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 42 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
+| 43 | [Taron Egerton](http://twitter.com/search?q=Taron+Egerton) | N/A |
+| 44 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 45 | [Emmitt Smith](http://twitter.com/search?q=Emmitt+Smith) | N/A |
 
 
 

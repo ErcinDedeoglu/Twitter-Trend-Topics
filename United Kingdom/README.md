@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-16 16:17:27 UTC`
+📆 Last Updated: `2023-02-16 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lingo](http://twitter.com/search?q=%23lingo) | N/A |
+| 1 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
 | 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 3 | [#NorthEastEnglandFilmsOrSongs](http://twitter.com/search?q=%23NorthEastEnglandFilmsOrSongs) | N/A |
-| 4 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 5 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 6 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 7 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 9 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
-| 10 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 4 | [#NorthEastEnglandFilmsOrSongs](http://twitter.com/search?q=%23NorthEastEnglandFilmsOrSongs) | N/A |
+| 5 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 8 | [#lingo](http://twitter.com/search?q=%23lingo) | N/A |
+| 9 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 10 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
 | 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 12 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 13 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 14 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 15 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 16 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
-| 17 | [Ian Holloway](http://twitter.com/search?q=Ian+Holloway) | N/A |
-| 18 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
-| 19 | [Download](http://twitter.com/search?q=Download) | N/A |
-| 20 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 21 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 22 | [Razzle](http://twitter.com/search?q=Razzle) | N/A |
-| 23 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 24 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 25 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
-| 26 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 27 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 28 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 29 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 30 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 31 | [ofgem](http://twitter.com/search?q=ofgem) | N/A |
-| 32 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 12 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 13 | [Download](http://twitter.com/search?q=Download) | N/A |
+| 14 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 15 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 16 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
+| 17 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 18 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 19 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 20 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 21 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 22 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 23 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 24 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 26 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
+| 27 | [National Service](http://twitter.com/search?q=National+Service) | N/A |
+| 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 29 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 30 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 31 | [Razzle](http://twitter.com/search?q=Razzle) | N/A |
+| 32 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
 | 33 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 34 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 35 | [#stormotto](http://twitter.com/search?q=%23stormotto) | N/A |
-| 36 | [#DisneyDreamlightValley](http://twitter.com/search?q=%23DisneyDreamlightValley) | N/A |
-| 37 | [#Menopause](http://twitter.com/search?q=%23Menopause) | N/A |
-| 38 | [#aplaceinthesun](http://twitter.com/search?q=%23aplaceinthesun) | N/A |
-| 39 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 40 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 41 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 42 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 43 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 44 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
-| 45 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 46 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 47 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 48 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 34 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 35 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 36 | [#Tetris](http://twitter.com/search?q=%23Tetris) | N/A |
+| 37 | [#WeAreStillHere](http://twitter.com/search?q=%23WeAreStillHere) | N/A |
+| 38 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 39 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 40 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 41 | [#StormOtto](http://twitter.com/search?q=%23StormOtto) | N/A |
+| 42 | [#DisneyDreamlightValley](http://twitter.com/search?q=%23DisneyDreamlightValley) | N/A |
+| 43 | [#Menopause](http://twitter.com/search?q=%23Menopause) | N/A |
+| 44 | [#APlaceintheSun](http://twitter.com/search?q=%23APlaceintheSun) | N/A |
+| 45 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 46 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 47 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 48 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 49 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
+| 50 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-16 16:17:26 UTC`
+📆 Last Updated: `2023-02-16 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
-| 2 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 3 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
-| 4 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 4 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
 | 5 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
 | 7 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 8 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 9 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 10 | [Tłustego Czwartku](http://twitter.com/search?q=T%c5%82ustego+Czwartku) | N/A |
-| 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 12 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 14 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
-| 15 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
-| 16 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 17 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 18 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
-| 19 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
-| 20 | [Słodkiego](http://twitter.com/search?q=S%c5%82odkiego) | N/A |
-| 21 | [Grzegorz Skrzecz](http://twitter.com/search?q=Grzegorz+Skrzecz) | N/A |
-| 22 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 23 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 9 | [Xaviego](http://twitter.com/search?q=Xaviego) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 11 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 12 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 13 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 14 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
+| 15 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
+| 16 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 17 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 18 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 19 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 20 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
+| 21 | [Słodkiego](http://twitter.com/search?q=S%c5%82odkiego) | N/A |
+| 22 | [Grzegorz Skrzecz](http://twitter.com/search?q=Grzegorz+Skrzecz) | N/A |
+| 23 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
 | 24 | [Gessler](http://twitter.com/search?q=Gessler) | N/A |
 | 25 | [Róża](http://twitter.com/search?q=R%c3%b3%c5%bca) | N/A |
-| 26 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 27 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 28 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 29 | [Danielle Collins](http://twitter.com/search?q=Danielle+Collins) | N/A |
-| 30 | [szmata](http://twitter.com/search?q=szmata) | N/A |
-| 31 | [Konstytucja](http://twitter.com/search?q=Konstytucja) | N/A |
+| 26 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 27 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 28 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 29 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 30 | [Danielle Collins](http://twitter.com/search?q=Danielle+Collins) | N/A |
+| 31 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
 | 32 | [Europie](http://twitter.com/search?q=Europie) | N/A |
-| 33 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 36 | [Unii](http://twitter.com/search?q=Unii) | N/A |
-| 37 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 33 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 34 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 35 | [Konstytucja](http://twitter.com/search?q=Konstytucja) | N/A |
+| 36 | [C40 Cities](http://twitter.com/search?q=C40+Cities) | N/A |
+| 37 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
 | 38 | [w lidlu](http://twitter.com/search?q=w+lidlu) | N/A |
 | 39 | [dortmundzie](http://twitter.com/search?q=dortmundzie) | N/A |
 | 40 | [Maryna Gąsienica-Daniel](http://twitter.com/search?q=Maryna+G%c4%85sienica-Daniel) | N/A |
 | 41 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 42 | [Paczków](http://twitter.com/search?q=Paczk%c3%b3w) | N/A |
-| 43 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 44 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
-| 45 | [Przyłębskiej](http://twitter.com/search?q=Przy%c5%82%c4%99bskiej) | N/A |
-| 46 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 47 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 48 | [Komuna](http://twitter.com/search?q=Komuna) | N/A |
-| 49 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 50 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 42 | [Unii](http://twitter.com/search?q=Unii) | N/A |
+| 43 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 44 | [Paczków](http://twitter.com/search?q=Paczk%c3%b3w) | N/A |
+| 45 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 46 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 47 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 48 | [Przyłębskiej](http://twitter.com/search?q=Przy%c5%82%c4%99bskiej) | N/A |
+| 49 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 50 | [Komuna](http://twitter.com/search?q=Komuna) | N/A |
 
 
 

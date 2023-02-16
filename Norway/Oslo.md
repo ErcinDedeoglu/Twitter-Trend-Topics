@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-16 16:16:53 UTC`
+📆 Last Updated: `2023-02-16 17:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,37 +20,37 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
 | 4 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
 | 5 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 6 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 7 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Rema 1000](http://twitter.com/search?q=Rema+1000) | N/A |
 | 9 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 10 | [rema 1000](http://twitter.com/search?q=rema+1000) | N/A |
-| 11 | [NATOs](http://twitter.com/search?q=NATOs) | N/A |
+| 10 | [NATOs](http://twitter.com/search?q=NATOs) | N/A |
+| 11 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | N/A |
-| 15 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 16 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 17 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 14 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 15 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | N/A |
+| 16 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 17 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [partey](http://twitter.com/search?q=partey) | N/A |
+| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 21 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 22 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 23 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 24 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 25 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 26 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 27 | [LIVET](http://twitter.com/search?q=LIVET) | N/A |
-| 28 | [giske](http://twitter.com/search?q=giske) | N/A |
-| 29 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 30 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 31 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 32 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 22 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 23 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 25 | [LIVET](http://twitter.com/search?q=LIVET) | N/A |
+| 26 | [giske](http://twitter.com/search?q=giske) | N/A |
+| 27 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 28 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 29 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 30 | [#ESNsykkel](http://twitter.com/search?q=%23ESNsykkel) | N/A |
+| 31 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
+| 32 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 33 | [Mener](http://twitter.com/search?q=Mener) | N/A |
 | 34 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 36 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 37 | [liker](http://twitter.com/search?q=liker) | N/A |
 | 38 | [Gates](http://twitter.com/search?q=Gates) | N/A |
 | 39 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
@@ -58,13 +58,13 @@ This is top 50 for [Norway](</Norway>)
 | 41 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 42 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
 | 43 | [Marius](http://twitter.com/search?q=Marius) | N/A |
-| 44 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 45 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
-| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 47 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 48 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 49 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 50 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 48 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 49 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 50 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
 
 
 

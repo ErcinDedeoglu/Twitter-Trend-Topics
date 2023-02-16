@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-16 16:17:27 UTC`
+📆 Last Updated: `2023-02-16 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Turkey
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [İsimsiz Kahramanlarımız](http://twitter.com/search?q=%c4%b0simsiz+Kahramanlar%c4%b1m%c4%b1z) | N/A |
-| 2 | [#115milyar](http://twitter.com/search?q=%23115milyar) | N/A |
-| 3 | [#YuzYuze](http://twitter.com/search?q=%23YuzYuze) | N/A |
-| 4 | [#halktvsusturulamaz](http://twitter.com/search?q=%23halktvsusturulamaz) | N/A |
-| 5 | [#KamuyaAcilPsikolog](http://twitter.com/search?q=%23KamuyaAcilPsikolog) | N/A |
-| 6 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
-| 7 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 8 | [Aleyna](http://twitter.com/search?q=Aleyna) | N/A |
-| 9 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
-| 10 | [Mavi](http://twitter.com/search?q=Mavi) | Mavi is a Turkish word meaning "blue". |
-| 11 | [Cem Seymen](http://twitter.com/search?q=Cem+Seymen) | N/A |
-| 12 | [Depremin 11](http://twitter.com/search?q=Depremin+11) | N/A |
-| 13 | [TÜSİAD](http://twitter.com/search?q=T%c3%9cS%c4%b0AD) | N/A |
-| 14 | [EkşiSözlük Kapatılsın](http://twitter.com/search?q=Ek%c5%9fiS%c3%b6zl%c3%bck+Kapat%c4%b1ls%c4%b1n) | N/A |
-| 15 | [Cengiz Holding'e](http://twitter.com/search?q=Cengiz+Holding%27e) | N/A |
-| 16 | [Depremin 248](http://twitter.com/search?q=Depremin+248) | N/A |
-| 17 | [Miraç Kandili](http://twitter.com/search?q=Mira%c3%a7+Kandili) | N/A |
+| 2 | [#halktvsusturulamaz](http://twitter.com/search?q=%23halktvsusturulamaz) | N/A |
+| 3 | [#115milyar](http://twitter.com/search?q=%23115milyar) | N/A |
+| 4 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
+| 5 | [#açıklama](http://twitter.com/search?q=%23a%c3%a7%c4%b1klama) | N/A |
+| 6 | [#KamuyaAcilPsikolog](http://twitter.com/search?q=%23KamuyaAcilPsikolog) | N/A |
+| 7 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
+| 8 | [Cem Seymen](http://twitter.com/search?q=Cem+Seymen) | N/A |
+| 9 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 10 | [Depremin 11](http://twitter.com/search?q=Depremin+11) | N/A |
+| 11 | [Toki'ye](http://twitter.com/search?q=Toki%27ye) | N/A |
+| 12 | [Mavi](http://twitter.com/search?q=Mavi) | Mavi is a Turkish word meaning "blue". |
+| 13 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
+| 14 | [Aleyna](http://twitter.com/search?q=Aleyna) | N/A |
+| 15 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
+| 16 | [TÜSİAD](http://twitter.com/search?q=T%c3%9cS%c4%b0AD) | N/A |
+| 17 | [Cengiz Holding'e](http://twitter.com/search?q=Cengiz+Holding%27e) | N/A |
 | 18 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 19 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
-| 20 | [Koç Sabancı](http://twitter.com/search?q=Ko%c3%a7+Sabanc%c4%b1) | N/A |
-| 21 | [16 Şubat Perşembe](http://twitter.com/search?q=16+%c5%9eubat+Per%c5%9fembe) | N/A |
-| 22 | [Trabzon'da](http://twitter.com/search?q=Trabzon%27da) | N/A |
-| 23 | [Celal](http://twitter.com/search?q=Celal) | N/A |
-| 24 | [Dünkü](http://twitter.com/search?q=D%c3%bcnk%c3%bc) | N/A |
-| 25 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Trabzon'da](http://twitter.com/search?q=Trabzon%27da) | N/A |
+| 20 | [16 Şubat Perşembe](http://twitter.com/search?q=16+%c5%9eubat+Per%c5%9fembe) | N/A |
+| 21 | [EkşiSözlük Kapatılsın](http://twitter.com/search?q=Ek%c5%9fiS%c3%b6zl%c3%bck+Kapat%c4%b1ls%c4%b1n) | N/A |
+| 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 23 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
+| 24 | [Hamit](http://twitter.com/search?q=Hamit) | N/A |
+| 25 | [Koç Sabancı](http://twitter.com/search?q=Ko%c3%a7+Sabanc%c4%b1) | N/A |
+| 26 | [Madenciler](http://twitter.com/search?q=Madenciler) | N/A |
 | 27 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 28 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 29 | [Akşam](http://twitter.com/search?q=Ak%c5%9fam) | N/A |
-| 30 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
-| 31 | [Kuzey](http://twitter.com/search?q=Kuzey) | N/A |
-| 32 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 33 | [Madenciler](http://twitter.com/search?q=Madenciler) | N/A |
-| 34 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 35 | [Güle](http://twitter.com/search?q=G%c3%bcle) | N/A |
-| 36 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
-| 37 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
-| 38 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 39 | [#unıversıtemedokunma](http://twitter.com/search?q=%23un%c4%b1vers%c4%b1temedokunma) | N/A |
-| 40 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
-| 41 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
-| 42 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 43 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
-| 44 | [#ankarabayan](http://twitter.com/search?q=%23ankarabayan) | N/A |
-| 45 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
-| 46 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 47 | [#cankaya](http://twitter.com/search?q=%23cankaya) | N/A |
-| 48 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
-| 49 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
-| 50 | [#mardinartukluünivertesi](http://twitter.com/search?q=%23mardinartuklu%c3%bcnivertesi) | N/A |
+| 28 | [Akşam](http://twitter.com/search?q=Ak%c5%9fam) | N/A |
+| 29 | [kuzey](http://twitter.com/search?q=kuzey) | N/A |
+| 30 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
+| 31 | [Güle](http://twitter.com/search?q=G%c3%bcle) | N/A |
+| 32 | [#YuzYuze](http://twitter.com/search?q=%23YuzYuze) | N/A |
+| 33 | [#unıversıtemedokunma](http://twitter.com/search?q=%23un%c4%b1vers%c4%b1temedokunma) | N/A |
+| 34 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
+| 35 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
+| 36 | [#kismetseolur](http://twitter.com/search?q=%23kismetseolur) | N/A |
+| 37 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
+| 38 | [#AyTol](http://twitter.com/search?q=%23AyTol) | N/A |
+| 39 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 40 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 41 | [#ElifNurYel](http://twitter.com/search?q=%23ElifNurYel) | N/A |
+| 42 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
+| 43 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 44 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
+| 45 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
+| 46 | [#cankaya](http://twitter.com/search?q=%23cankaya) | N/A |
+| 47 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
+| 48 | [#isiaskatilleriyargılansın](http://twitter.com/search?q=%23isiaskatilleriyarg%c4%b1lans%c4%b1n) | N/A |
+| 49 | [#ankarabayan](http://twitter.com/search?q=%23ankarabayan) | N/A |
+| 50 | [#StajyerTekYurek](http://twitter.com/search?q=%23StajyerTekYurek) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-16 16:16:44 UTC`
+📆 Last Updated: `2023-02-16 17:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
 | 2 | [Aracaju](http://twitter.com/search?q=Aracaju) | N/A |
-| 3 | [Governo](http://twitter.com/search?q=Governo) | N/A |
-| 4 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 4 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 5 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
-| 6 | [Namu](http://twitter.com/search?q=Namu) | N/A |
-| 7 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 8 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 9 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 10 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 11 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 12 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
-| 13 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 14 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 15 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 16 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
-| 17 | [#ReadyToBe_Tracklist](http://twitter.com/search?q=%23ReadyToBe_Tracklist) | N/A |
-| 18 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 19 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 20 | [Kill This Love](http://twitter.com/search?q=Kill+This+Love) | N/A |
-| 21 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 22 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
-| 23 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 24 | [sofie](http://twitter.com/search?q=sofie) | N/A |
-| 25 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 26 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
-| 27 | [PIBIC](http://twitter.com/search?q=PIBIC) | N/A |
-| 28 | [Horner](http://twitter.com/search?q=Horner) | N/A |
-| 29 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
-| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 31 | [#ReajusteJa](http://twitter.com/search?q=%23ReajusteJa) | N/A |
-| 32 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
-| 33 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
-| 34 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 35 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
-| 36 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 37 | [Davi R](http://twitter.com/search?q=Davi+R) | N/A |
-| 38 | [Malhando](http://twitter.com/search?q=Malhando) | N/A |
-| 39 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
-| 40 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 41 | [Emílio Surita](http://twitter.com/search?q=Em%c3%adlio+Surita) | N/A |
-| 42 | [Trabalhando](http://twitter.com/search?q=Trabalhando) | N/A |
-| 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 44 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 46 | [Surpresa](http://twitter.com/search?q=Surpresa) | N/A |
-| 47 | [Corinthians x Palmeiras](http://twitter.com/search?q=Corinthians+x+Palmeiras) | N/A |
-| 48 | [zanin](http://twitter.com/search?q=zanin) | N/A |
-| 49 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 50 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 6 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 7 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 8 | [Namu](http://twitter.com/search?q=Namu) | N/A |
+| 9 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 10 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 11 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 12 | [Running Out Of Time](http://twitter.com/search?q=Running+Out+Of+Time) | N/A |
+| 13 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 14 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 15 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 16 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 17 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 18 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 19 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 20 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 21 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 22 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 23 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 24 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 25 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
+| 26 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 27 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 28 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 29 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
+| 30 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
+| 31 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 32 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 33 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
+| 34 | [Kill This Love](http://twitter.com/search?q=Kill+This+Love) | N/A |
+| 35 | [sofie](http://twitter.com/search?q=sofie) | N/A |
+| 36 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 37 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
+| 38 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
+| 39 | [#ReadyToBe_Tracklist](http://twitter.com/search?q=%23ReadyToBe_Tracklist) | N/A |
+| 40 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
+| 41 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 43 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
+| 44 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
+| 45 | [PIBIC](http://twitter.com/search?q=PIBIC) | N/A |
+| 46 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
+| 47 | [Surpresa](http://twitter.com/search?q=Surpresa) | N/A |
+| 48 | [Davi R](http://twitter.com/search?q=Davi+R) | N/A |
+| 49 | [Análise](http://twitter.com/search?q=An%c3%a1lise) | N/A |
+| 50 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
 
 
 
