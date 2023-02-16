@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-16 22:17:01 UTC`
+📆 Last Updated: `2023-02-16 23:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
-| 2 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 4 | [#EYS2023](http://twitter.com/search?q=%23EYS2023) | N/A |
+| 1 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 2 | [Deane](http://twitter.com/search?q=Deane) | N/A |
+| 3 | [#EYS2023](http://twitter.com/search?q=%23EYS2023) | N/A |
+| 4 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 5 | [#AUSvCZE](http://twitter.com/search?q=%23AUSvCZE) | N/A |
-| 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 7 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 8 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 11 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 12 | [Leanne](http://twitter.com/search?q=Leanne) | N/A |
-| 13 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 14 | [CPRS](http://twitter.com/search?q=CPRS) | N/A |
-| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 16 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 19 | [OCIC](http://twitter.com/search?q=OCIC) | N/A |
-| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 21 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 6 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 7 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 8 | [Shower](http://twitter.com/search?q=Shower) | N/A |
+| 9 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 10 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 11 | [CPRS](http://twitter.com/search?q=CPRS) | N/A |
+| 12 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 16 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 18 | [Leanne](http://twitter.com/search?q=Leanne) | N/A |
+| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 22 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | N/A |
 | 23 | [Wieambilla](http://twitter.com/search?q=Wieambilla) | N/A |
-| 24 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | N/A |
-| 25 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 27 | [Port Lincoln](http://twitter.com/search?q=Port+Lincoln) | N/A |
-| 28 | [Peter Poulos](http://twitter.com/search?q=Peter+Poulos) | N/A |
-| 29 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 30 | [Federal Court](http://twitter.com/search?q=Federal+Court) | N/A |
-| 31 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 32 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
-| 33 | [Red Dwarf](http://twitter.com/search?q=Red+Dwarf) | N/A |
-| 34 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 35 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 36 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 37 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 38 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 39 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 40 | [Gosford](http://twitter.com/search?q=Gosford) | N/A |
-| 41 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 42 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
-| 43 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
-| 44 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 45 | [Voss](http://twitter.com/search?q=Voss) | N/A |
-| 46 | [Dylan Langridge](http://twitter.com/search?q=Dylan+Langridge) | N/A |
-| 47 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 48 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 49 | [Raso](http://twitter.com/search?q=Raso) | N/A |
+| 24 | [Port Lincoln](http://twitter.com/search?q=Port+Lincoln) | N/A |
+| 25 | [Peter Poulos](http://twitter.com/search?q=Peter+Poulos) | N/A |
+| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 27 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
+| 28 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 29 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 30 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 31 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 32 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 33 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 34 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 35 | [Gosford](http://twitter.com/search?q=Gosford) | N/A |
+| 36 | [OCIC](http://twitter.com/search?q=OCIC) | N/A |
+| 37 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 38 | [Wild Hearts](http://twitter.com/search?q=Wild+Hearts) | N/A |
+| 39 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 40 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
+| 41 | [Voss](http://twitter.com/search?q=Voss) | N/A |
+| 42 | [Dylan Langridge](http://twitter.com/search?q=Dylan+Langridge) | N/A |
+| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 44 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 45 | [Raso](http://twitter.com/search?q=Raso) | N/A |
+| 46 | [Trevor Davis](http://twitter.com/search?q=Trevor+Davis) | N/A |
+| 47 | [CSIRO](http://twitter.com/search?q=CSIRO) | N/A |
+| 48 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 49 | [Unemployment](http://twitter.com/search?q=Unemployment) | N/A |
 
 
 

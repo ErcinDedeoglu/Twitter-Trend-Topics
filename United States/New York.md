@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-16 22:17:24 UTC`
+📆 Last Updated: `2023-02-16 23:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 2 | [Times](http://twitter.com/search?q=Times) | N/A |
 | 3 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 4 | [Times](http://twitter.com/search?q=Times) | N/A |
+| 4 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
 | 5 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 6 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 6 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 7 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 8 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 9 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 10 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
+| 10 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
 | 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 12 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 12 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
 | 13 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 14 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 | 15 | [Depression](http://twitter.com/search?q=Depression) | N/A |
 | 16 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
-| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 18 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 19 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 20 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
-| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 19 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 20 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 21 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
 | 22 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 23 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 24 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 25 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 26 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 27 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
-| 28 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 29 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
+| 24 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 25 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 26 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 27 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
+| 28 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
+| 29 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
 | 30 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
 | 31 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 32 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
-| 35 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 36 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 37 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 38 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 39 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
-| 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 42 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 43 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 44 | [NHTSA](http://twitter.com/search?q=NHTSA) | N/A |
-| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 46 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 47 | [Nick Friedell](http://twitter.com/search?q=Nick+Friedell) | N/A |
-| 48 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 49 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 50 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
+| 32 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 34 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 35 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
+| 36 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
+| 37 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
+| 38 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 39 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 40 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 41 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 42 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 44 | [Alvin Kamara](http://twitter.com/search?q=Alvin+Kamara) | N/A |
+| 45 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
+| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 47 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 48 | [NHTSA](http://twitter.com/search?q=NHTSA) | N/A |
+| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 50 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 
 
 

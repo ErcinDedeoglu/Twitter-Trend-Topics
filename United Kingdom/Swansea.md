@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-16 22:16:44 UTC`
+📆 Last Updated: `2023-02-16 23:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 2 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 4 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 5 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 6 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 7 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 9 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 11 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 12 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 13 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 14 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 16 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 17 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 18 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 3 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 4 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 5 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 6 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 7 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 8 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 9 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 10 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 11 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 13 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 14 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 15 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 16 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 17 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 18 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
 | 19 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 20 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 21 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
-| 22 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 24 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 25 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 26 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 27 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 28 | [Myler](http://twitter.com/search?q=Myler) | N/A |
-| 29 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
-| 30 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 33 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 34 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 20 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
+| 21 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 22 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 23 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 24 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 25 | [Lionel Shriver](http://twitter.com/search?q=Lionel+Shriver) | N/A |
+| 26 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 27 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 28 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 29 | [Myler](http://twitter.com/search?q=Myler) | N/A |
+| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 31 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 34 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
 | 35 | [Wills](http://twitter.com/search?q=Wills) | N/A |
-| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 37 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 38 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 39 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 40 | [St Paul](http://twitter.com/search?q=St+Paul) | N/A |
+| 36 | [Michael Smith](http://twitter.com/search?q=Michael+Smith) | Michael Smith is a common English name. It is derived from the Hebrew name "Mikha'el," which means "who is like God." |
+| 37 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 38 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
+| 39 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 40 | [Gates](http://twitter.com/search?q=Gates) | N/A |
 | 41 | [Lynda](http://twitter.com/search?q=Lynda) | N/A |
-| 42 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 43 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 44 | [Ron & Lana](http://twitter.com/search?q=Ron+%26+Lana) | N/A |
-| 45 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 46 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 47 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 48 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 49 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 42 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 43 | [St Paul](http://twitter.com/search?q=St+Paul) | N/A |
+| 44 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
+| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 46 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 47 | [Paul Vaughan](http://twitter.com/search?q=Paul+Vaughan) | N/A |
+| 48 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 49 | [Wire](http://twitter.com/search?q=Wire) | N/A |
 
 
 

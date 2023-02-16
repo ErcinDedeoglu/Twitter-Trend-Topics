@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-16 22:17:07 UTC`
+📆 Last Updated: `2023-02-16 23:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JoshCullenSoundBite2](http://twitter.com/search?q=%23JoshCullenSoundBite2) | N/A |
-| 2 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [#MissCharm2023](http://twitter.com/search?q=%23MissCharm2023) | N/A |
-| 5 | [#Fighting2ndWin](http://twitter.com/search?q=%23Fighting2ndWin) | N/A |
-| 6 | [#MCIProtectBasilioAtAllCosts](http://twitter.com/search?q=%23MCIProtectBasilioAtAllCosts) | N/A |
+| 1 | [#DontBeThatPerson](http://twitter.com/search?q=%23DontBeThatPerson) | N/A |
+| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 3 | [#JoshCullenSoundBite2](http://twitter.com/search?q=%23JoshCullenSoundBite2) | N/A |
+| 4 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
+| 5 | [#MissCharm2023](http://twitter.com/search?q=%23MissCharm2023) | N/A |
+| 6 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
 | 7 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 8 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 9 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 10 | [palong palo sa zacham](http://twitter.com/search?q=palong+palo+sa+zacham) | N/A |
-| 11 | [chery tiggo](http://twitter.com/search?q=chery+tiggo) | N/A |
-| 12 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 13 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 14 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 15 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
-| 16 | [Joken](http://twitter.com/search?q=Joken) | N/A |
+| 8 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
+| 9 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 10 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 11 | [palong palo sa zacham](http://twitter.com/search?q=palong+palo+sa+zacham) | N/A |
+| 12 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
+| 13 | [chery tiggo](http://twitter.com/search?q=chery+tiggo) | N/A |
+| 14 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 15 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 16 | [joken](http://twitter.com/search?q=joken) | N/A |
 | 17 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
 | 18 | [congratulations bss](http://twitter.com/search?q=congratulations+bss) | N/A |
-| 19 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 20 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 21 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 22 | [Annabelle](http://twitter.com/search?q=Annabelle) | N/A |
-| 23 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 24 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 25 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
-| 26 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 27 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 19 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 20 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 21 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 22 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 23 | [Annabelle](http://twitter.com/search?q=Annabelle) | N/A |
+| 24 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
+| 25 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 26 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
+| 27 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
 | 28 | [KAI COMEBACK](http://twitter.com/search?q=KAI+COMEBACK) | N/A |
 | 29 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
 | 30 | [CATRIONA](http://twitter.com/search?q=CATRIONA) | N/A |
-| 31 | [icezoe on tcmediacon](http://twitter.com/search?q=icezoe+on+tcmediacon) | N/A |
-| 32 | [Conquest](http://twitter.com/search?q=Conquest) | N/A |
-| 33 | [alpha boys on pie](http://twitter.com/search?q=alpha+boys+on+pie) | N/A |
-| 34 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
-| 35 | [sea yacht robxine](http://twitter.com/search?q=sea+yacht+robxine) | N/A |
-| 36 | [Sam Milby](http://twitter.com/search?q=Sam+Milby) | N/A |
-| 37 | [franseth 46lovesary](http://twitter.com/search?q=franseth+46lovesary) | N/A |
-| 38 | [paat](http://twitter.com/search?q=paat) | N/A |
-| 39 | [shaiben bts hinahanap ka](http://twitter.com/search?q=shaiben+bts+hinahanap+ka) | N/A |
-| 40 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 41 | [congrats so-e](http://twitter.com/search?q=congrats+so-e) | N/A |
-| 42 | [en-o'clock is back](http://twitter.com/search?q=en-o%27clock+is+back) | N/A |
-| 43 | [wardreinalyn in thoconcert](http://twitter.com/search?q=wardreinalyn+in+thoconcert) | N/A |
-| 44 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 45 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
-| 46 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 31 | [alpha boys on pie](http://twitter.com/search?q=alpha+boys+on+pie) | N/A |
+| 32 | [icezoe on tcmediacon](http://twitter.com/search?q=icezoe+on+tcmediacon) | N/A |
+| 33 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 34 | [Conquest](http://twitter.com/search?q=Conquest) | N/A |
+| 35 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
+| 36 | [sea yacht robxine](http://twitter.com/search?q=sea+yacht+robxine) | N/A |
+| 37 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 38 | [en-o'clock is back](http://twitter.com/search?q=en-o%27clock+is+back) | N/A |
+| 39 | [wardreinalyn in thoconcert](http://twitter.com/search?q=wardreinalyn+in+thoconcert) | N/A |
+| 40 | [paat](http://twitter.com/search?q=paat) | N/A |
+| 41 | [shaiben bts hinahanap ka](http://twitter.com/search?q=shaiben+bts+hinahanap+ka) | N/A |
+| 42 | [franseth 46lovesary](http://twitter.com/search?q=franseth+46lovesary) | N/A |
+| 43 | [Congratulations Taehyung](http://twitter.com/search?q=Congratulations+Taehyung) | N/A |
+| 44 | [congrats so-e](http://twitter.com/search?q=congrats+so-e) | N/A |
+| 45 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 46 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
 | 47 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 48 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 49 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 48 | [Sam Milby](http://twitter.com/search?q=Sam+Milby) | N/A |
+| 49 | [php balaraw mamaya na](http://twitter.com/search?q=php+balaraw+mamaya+na) | N/A |
 
 
 

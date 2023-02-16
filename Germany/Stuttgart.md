@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-16 22:16:56 UTC`
+📆 Last Updated: `2023-02-16 23:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
 | 3 | [#B04ASM](http://twitter.com/search?q=%23B04ASM) | N/A |
-| 4 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 5 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 6 | [#Lobinger](http://twitter.com/search?q=%23Lobinger) | N/A |
-| 7 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 8 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 9 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 10 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 11 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 12 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 13 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 14 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 15 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 16 | [Designer](http://twitter.com/search?q=Designer) | N/A |
-| 17 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
-| 18 | [Schuhen](http://twitter.com/search?q=Schuhen) | N/A |
-| 19 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 21 | [Intro](http://twitter.com/search?q=Intro) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 24 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 26 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 27 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 28 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 29 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
-| 30 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
-| 31 | [#LEVMON](http://twitter.com/search?q=%23LEVMON) | N/A |
-| 32 | [#Reichelt](http://twitter.com/search?q=%23Reichelt) | N/A |
-| 33 | [#Fluechtlingsgipfel](http://twitter.com/search?q=%23Fluechtlingsgipfel) | N/A |
-| 34 | [#hartesdeutschland](http://twitter.com/search?q=%23hartesdeutschland) | N/A |
-| 35 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
-| 36 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
-| 37 | [#karneval2023](http://twitter.com/search?q=%23karneval2023) | N/A |
-| 38 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 39 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 40 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 41 | [#Berlinale](http://twitter.com/search?q=%23Berlinale) | N/A |
-| 42 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
-| 43 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
-| 44 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 45 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
-| 46 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 5 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 6 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 7 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 9 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
+| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 11 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 12 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 13 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 14 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 15 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 16 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 17 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 18 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 19 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 20 | [Designer](http://twitter.com/search?q=Designer) | N/A |
+| 21 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 22 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
+| 23 | [Dagmar](http://twitter.com/search?q=Dagmar) | N/A |
+| 24 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 25 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 26 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
+| 27 | [Kandidatinnen](http://twitter.com/search?q=Kandidatinnen) | N/A |
+| 28 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 29 | [Tom Gregory](http://twitter.com/search?q=Tom+Gregory) | N/A |
+| 30 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 31 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 32 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 33 | [Annett](http://twitter.com/search?q=Annett) | N/A |
+| 34 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
+| 37 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 38 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 39 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 40 | [Intro](http://twitter.com/search?q=Intro) | N/A |
+| 41 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 42 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 43 | [Promille](http://twitter.com/search?q=Promille) | N/A |
+| 44 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 45 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 46 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 47 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 48 | [Zweiräder](http://twitter.com/search?q=Zweir%c3%a4der) | N/A |
+| 49 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
 
 
 

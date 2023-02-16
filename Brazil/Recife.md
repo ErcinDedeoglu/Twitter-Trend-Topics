@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-16 22:16:50 UTC`
+📆 Last Updated: `2023-02-16 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
-| 2 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
-| 3 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 4 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
-| 5 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
+| 1 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
+| 2 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
+| 3 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 4 | [UM MES BRULARI](http://twitter.com/search?q=UM+MES+BRULARI) | N/A |
+| 5 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
 | 6 | [#PipocadaIvete](http://twitter.com/search?q=%23PipocadaIvete) | N/A |
 | 7 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 10 | [UM MES COM KEY](http://twitter.com/search?q=UM+MES+COM+KEY) | N/A |
-| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 13 | [UM MES BRULARI](http://twitter.com/search?q=UM+MES+BRULARI) | N/A |
-| 14 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 16 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
-| 17 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
-| 18 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 21 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 22 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 23 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
-| 24 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 8 | [UM MES COM KEY](http://twitter.com/search?q=UM+MES+COM+KEY) | N/A |
+| 9 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
+| 10 | [Debinha](http://twitter.com/search?q=Debinha) | Debinha is a Portuguese nickname meaning “little Deborah”. It is a diminutive form of the name Deborah, which is derived from the Hebrew word for “bee”. |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
+| 13 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 16 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 20 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
+| 21 | [#TresVezesAna014](http://twitter.com/search?q=%23TresVezesAna014) | N/A |
+| 22 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 23 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 28 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 29 | [#ADona051](http://twitter.com/search?q=%23ADona051) | N/A |
+| 27 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 28 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
+| 29 | [Felipe Jonathan](http://twitter.com/search?q=Felipe+Jonathan) | N/A |
 | 30 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 31 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 32 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 33 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
-| 34 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 35 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 36 | [Daniela Lima](http://twitter.com/search?q=Daniela+Lima) | N/A |
-| 37 | [Xodó](http://twitter.com/search?q=Xod%c3%b3) | N/A |
+| 31 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 32 | [Melancia](http://twitter.com/search?q=Melancia) | N/A |
+| 33 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
+| 34 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
+| 35 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 36 | [AVA SILVA MERECE VIVER](http://twitter.com/search?q=AVA+SILVA+MERECE+VIVER) | N/A |
+| 37 | [krystian](http://twitter.com/search?q=krystian) | N/A |
 | 38 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 39 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 40 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 41 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 42 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 43 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 44 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 45 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 46 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 47 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 48 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 50 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
+| 39 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 40 | [Daniela Lima](http://twitter.com/search?q=Daniela+Lima) | N/A |
+| 41 | [Xodó](http://twitter.com/search?q=Xod%c3%b3) | N/A |
+| 42 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 43 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
+| 44 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 46 | [Wall-E](http://twitter.com/search?q=Wall-E) | N/A |
+| 47 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 48 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | Santo André is a municipality in the state of São Paulo, Brazil. The name Santo André is derived from the Portuguese phrase for Saint Andrew, the patron saint of fishermen. In English, Santo André translates to Saint Andrew. |
+| 49 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
+| 50 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 
 
 
