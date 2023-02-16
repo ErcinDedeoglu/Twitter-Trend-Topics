@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-16 15:17:38 UTC`
+📆 Last Updated: `2023-02-16 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 2 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 1 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 3 | [#SorteazoLowiS23](http://twitter.com/search?q=%23SorteazoLowiS23) | N/A |
-| 4 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 5 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 6 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
+| 4 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 5 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 6 | [#LeyTrans](http://twitter.com/search?q=%23LeyTrans) | N/A |
 | 7 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
 | 8 | [#EsLey](http://twitter.com/search?q=%23EsLey) | N/A |
-| 9 | [#TheCallistoNewskill](http://twitter.com/search?q=%23TheCallistoNewskill) | N/A |
-| 10 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 9 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 10 | [Joestar](http://twitter.com/search?q=Joestar) | N/A |
 | 11 | [#ConquistasFeministas](http://twitter.com/search?q=%23ConquistasFeministas) | N/A |
-| 12 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 13 | [Ley del Deporte](http://twitter.com/search?q=Ley+del+Deporte) | N/A |
-| 14 | [Alarmante](http://twitter.com/search?q=Alarmante) | N/A |
-| 15 | [Juanfe](http://twitter.com/search?q=Juanfe) | N/A |
-| 16 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
-| 17 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 18 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 19 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 20 | [Paella](http://twitter.com/search?q=Paella) | N/A |
+| 12 | [Waltz](http://twitter.com/search?q=Waltz) | N/A |
+| 13 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 14 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
+| 15 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 16 | [Alarmante](http://twitter.com/search?q=Alarmante) | N/A |
+| 17 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 18 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 19 | [Ley del Deporte](http://twitter.com/search?q=Ley+del+Deporte) | N/A |
+| 20 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 21 | [Ley del Aborto](http://twitter.com/search?q=Ley+del+Aborto) | N/A |
-| 22 | [Jueves Lardero](http://twitter.com/search?q=Jueves+Lardero) | N/A |
-| 23 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
-| 24 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 25 | [Joestar](http://twitter.com/search?q=Joestar) | N/A |
-| 26 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 27 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 28 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 29 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 30 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 31 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 32 | [Floren](http://twitter.com/search?q=Floren) | N/A |
-| 33 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 34 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 35 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
-| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 37 | [CORRUPTOS](http://twitter.com/search?q=CORRUPTOS) | N/A |
-| 38 | [Megía Dávila](http://twitter.com/search?q=Meg%c3%ada+D%c3%a1vila) | N/A |
-| 39 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 40 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 41 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
+| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 23 | [Paella](http://twitter.com/search?q=Paella) | N/A |
+| 24 | [Juanfe](http://twitter.com/search?q=Juanfe) | N/A |
+| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 26 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
+| 27 | [Jueves Lardero](http://twitter.com/search?q=Jueves+Lardero) | N/A |
+| 28 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 29 | [Lori Meyers](http://twitter.com/search?q=Lori+Meyers) | N/A |
+| 30 | [Floren](http://twitter.com/search?q=Floren) | N/A |
+| 31 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 32 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 33 | [Gracias Irene](http://twitter.com/search?q=Gracias+Irene) | N/A |
+| 34 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 35 | [Pedrerol](http://twitter.com/search?q=Pedrerol) | N/A |
+| 36 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 37 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
+| 38 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 39 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 40 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 41 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
 | 42 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 43 | [Recoletos](http://twitter.com/search?q=Recoletos) | N/A |
-| 44 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 45 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 46 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 47 | [#barcagate](http://twitter.com/search?q=%23barcagate) | N/A |
-| 48 | [#69RdS](http://twitter.com/search?q=%2369RdS) | N/A |
-| 49 | [#IAperiodismo](http://twitter.com/search?q=%23IAperiodismo) | N/A |
-| 50 | [#YoMeRebelo16F](http://twitter.com/search?q=%23YoMeRebelo16F) | N/A |
+| 43 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
+| 44 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 45 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 46 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 47 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
+| 48 | [Recoletos](http://twitter.com/search?q=Recoletos) | N/A |
+| 49 | [#TheCallistoNewskill](http://twitter.com/search?q=%23TheCallistoNewskill) | N/A |
+| 50 | [#barcagate](http://twitter.com/search?q=%23barcagate) | N/A |
 
 
 

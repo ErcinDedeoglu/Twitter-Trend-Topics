@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-16 15:17:33 UTC`
+📆 Last Updated: `2023-02-16 16:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
 | 3 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
 | 4 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 5 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
+| 5 | [Loge](http://twitter.com/search?q=Loge) | N/A |
 | 6 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 7 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
-| 8 | [Loge](http://twitter.com/search?q=Loge) | N/A |
-| 9 | [#wienenergie](http://twitter.com/search?q=%23wienenergie) | N/A |
-| 10 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 11 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 12 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 13 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 14 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 15 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 7 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
+| 8 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
+| 9 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 10 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 11 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 12 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 13 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 14 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 15 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
 | 16 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
 | 17 | [Traumata](http://twitter.com/search?q=Traumata) | N/A |
 | 18 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 19 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 20 | [Friede in Europa](http://twitter.com/search?q=Friede+in+Europa) | N/A |
-| 21 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 22 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 23 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 24 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 25 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
-| 26 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
-| 27 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
-| 28 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 29 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
-| 30 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 31 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 32 | [Wunden](http://twitter.com/search?q=Wunden) | N/A |
-| 33 | [Behandlung](http://twitter.com/search?q=Behandlung) | N/A |
-| 34 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 35 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 36 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 37 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 38 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 39 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 40 | [Versicherung](http://twitter.com/search?q=Versicherung) | N/A |
-| 41 | [Karli](http://twitter.com/search?q=Karli) | N/A |
-| 42 | [eigenheim](http://twitter.com/search?q=eigenheim) | N/A |
-| 43 | [überstunden](http://twitter.com/search?q=%c3%bcberstunden) | N/A |
-| 44 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 45 | [Resetarits](http://twitter.com/search?q=Resetarits) | N/A |
-| 46 | [mütter und frauen](http://twitter.com/search?q=m%c3%bctter+und+frauen) | N/A |
-| 47 | [fahrbahn](http://twitter.com/search?q=fahrbahn) | N/A |
-| 48 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 49 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
-| 50 | [entscheidungen](http://twitter.com/search?q=entscheidungen) | N/A |
+| 19 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 20 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 21 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
+| 22 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 23 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 24 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 25 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
+| 26 | [Wunden](http://twitter.com/search?q=Wunden) | N/A |
+| 27 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 28 | [Ungeimpfte](http://twitter.com/search?q=Ungeimpfte) | N/A |
+| 29 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 30 | [Abgaben](http://twitter.com/search?q=Abgaben) | N/A |
+| 31 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 32 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 33 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 34 | [Versicherung](http://twitter.com/search?q=Versicherung) | N/A |
+| 35 | [Karli](http://twitter.com/search?q=Karli) | N/A |
+| 36 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 37 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 38 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 39 | [resetarits](http://twitter.com/search?q=resetarits) | N/A |
+| 40 | [mütter und frauen](http://twitter.com/search?q=m%c3%bctter+und+frauen) | N/A |
+| 41 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
+| 42 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 43 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 44 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 45 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 46 | [Wählerstimmen](http://twitter.com/search?q=W%c3%a4hlerstimmen) | N/A |
+| 47 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 48 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 49 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
+| 50 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
 
 
 

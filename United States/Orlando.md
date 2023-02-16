@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-16 15:18:06 UTC`
+📆 Last Updated: `2023-02-16 16:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 2 | [#pbpitch](http://twitter.com/search?q=%23pbpitch) | N/A |
-| 3 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 4 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 6 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 7 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 8 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
-| 9 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
-| 10 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
-| 11 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 13 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 14 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 15 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 16 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 17 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 19 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
-| 20 | [Mester](http://twitter.com/search?q=Mester) | N/A |
-| 21 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 22 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 24 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 25 | [Udoka](http://twitter.com/search?q=Udoka) | N/A |
-| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 27 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 28 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 29 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 31 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
-| 32 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
-| 33 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 34 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 35 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 36 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 37 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 38 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 39 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 40 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 41 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 42 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 43 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
-| 44 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 45 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 46 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
-| 47 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 48 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
-| 49 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 1 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
+| 2 | [#Tandem23](http://twitter.com/search?q=%23Tandem23) | N/A |
+| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 4 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 5 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 9 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 10 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 11 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 12 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 13 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 14 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
+| 15 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
+| 16 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 17 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 18 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 19 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
+| 20 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
+| 21 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 22 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 23 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
+| 24 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
+| 25 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 26 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
+| 27 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 28 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
+| 29 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 30 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 31 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 32 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
+| 33 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
+| 34 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 35 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 36 | [Maurice Jones](http://twitter.com/search?q=Maurice+Jones) | N/A |
+| 37 | [Edgerrin James](http://twitter.com/search?q=Edgerrin+James) | N/A |
+| 38 | [LaDainian Tomlinson](http://twitter.com/search?q=LaDainian+Tomlinson) | N/A |
+| 39 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
+| 40 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
+| 41 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 42 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 43 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 44 | [Fred Taylor](http://twitter.com/search?q=Fred+Taylor) | N/A |
+| 45 | [Eddie George](http://twitter.com/search?q=Eddie+George) | N/A |
+| 46 | [Mester](http://twitter.com/search?q=Mester) | N/A |
+| 47 | [Frank Gore](http://twitter.com/search?q=Frank+Gore) | N/A |
+| 48 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 49 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 
 
 

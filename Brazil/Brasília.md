@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-16 15:17:30 UTC`
+📆 Last Updated: `2023-02-16 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 1 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 2 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
-| 3 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 4 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
-| 5 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 6 | [kill this love](http://twitter.com/search?q=kill+this+love) | N/A |
+| 3 | [Namu](http://twitter.com/search?q=Namu) | N/A |
+| 4 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 5 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 6 | [Freen](http://twitter.com/search?q=Freen) | N/A |
 | 7 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 8 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 9 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
-| 10 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 11 | [#ReajusteJa](http://twitter.com/search?q=%23ReajusteJa) | N/A |
+| 8 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 9 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
+| 10 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 11 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
 | 12 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 13 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 14 | [DAHYUN](http://twitter.com/search?q=DAHYUN) | N/A |
-| 15 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 16 | [sofie](http://twitter.com/search?q=sofie) | N/A |
-| 17 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 18 | [LEXA NO ENCONTRO](http://twitter.com/search?q=LEXA+NO+ENCONTRO) | N/A |
-| 19 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
-| 20 | [Raquel lyra](http://twitter.com/search?q=Raquel+lyra) | N/A |
-| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 22 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
-| 23 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 24 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 25 | [PIBIC](http://twitter.com/search?q=PIBIC) | N/A |
-| 26 | [#보이즈플래닛3화](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b3%ed%99%94) | N/A |
-| 27 | [aracaju](http://twitter.com/search?q=aracaju) | N/A |
-| 28 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
-| 29 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 30 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 31 | [Emílio Surita](http://twitter.com/search?q=Em%c3%adlio+Surita) | N/A |
-| 32 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 33 | [Davi R.](http://twitter.com/search?q=Davi+R.) | N/A |
-| 34 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
-| 35 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 36 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 37 | [Corinthians x Palmeiras](http://twitter.com/search?q=Corinthians+x+Palmeiras) | N/A |
-| 38 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
-| 39 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 40 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 41 | [#BorutoCh78spoilers](http://twitter.com/search?q=%23BorutoCh78spoilers) | N/A |
-| 42 | [Braiscompany](http://twitter.com/search?q=Braiscompany) | N/A |
-| 43 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
-| 44 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 45 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
-| 46 | [Fazer o L](http://twitter.com/search?q=Fazer+o+L) | N/A |
-| 47 | [Popularidade](http://twitter.com/search?q=Popularidade) | N/A |
+| 13 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
+| 14 | [#ReadyToBe_Tracklist](http://twitter.com/search?q=%23ReadyToBe_Tracklist) | N/A |
+| 15 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 16 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 17 | [Kill This Love](http://twitter.com/search?q=Kill+This+Love) | N/A |
+| 18 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 19 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
+| 20 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
+| 21 | [sofie](http://twitter.com/search?q=sofie) | N/A |
+| 22 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 23 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
+| 24 | [PIBIC](http://twitter.com/search?q=PIBIC) | N/A |
+| 25 | [Horner](http://twitter.com/search?q=Horner) | N/A |
+| 26 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
+| 27 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 28 | [#ReajusteJa](http://twitter.com/search?q=%23ReajusteJa) | N/A |
+| 29 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
+| 30 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
+| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 32 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
+| 33 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 34 | [Davi R](http://twitter.com/search?q=Davi+R) | N/A |
+| 35 | [Malhando](http://twitter.com/search?q=Malhando) | N/A |
+| 36 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
+| 37 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 38 | [Emílio Surita](http://twitter.com/search?q=Em%c3%adlio+Surita) | N/A |
+| 39 | [Trabalhando](http://twitter.com/search?q=Trabalhando) | N/A |
+| 40 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 41 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 42 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 43 | [Surpresa](http://twitter.com/search?q=Surpresa) | N/A |
+| 44 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 45 | [Corinthians x Palmeiras](http://twitter.com/search?q=Corinthians+x+Palmeiras) | N/A |
+| 46 | [zanin](http://twitter.com/search?q=zanin) | N/A |
+| 47 | [Araki](http://twitter.com/search?q=Araki) | N/A |
 | 48 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
-| 49 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 50 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 49 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
+| 50 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
 
 
 

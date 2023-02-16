@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-02-16 15:18:02 UTC`
+📆 Last Updated: `2023-02-16 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
 | 2 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
 | 3 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [Wild](http://twitter.com/search?q=Wild) | N/A |
-| 6 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 9 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 10 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 4 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 6 | [Wild](http://twitter.com/search?q=Wild) | N/A |
+| 7 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 8 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 9 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
 | 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 | 12 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 13 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 14 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
-| 15 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
-| 16 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
-| 17 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 18 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 19 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 20 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 21 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 23 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
-| 24 | [Mester](http://twitter.com/search?q=Mester) | N/A |
-| 25 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 26 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 27 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 28 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 29 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 30 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 31 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 32 | [Udoka](http://twitter.com/search?q=Udoka) | N/A |
-| 33 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 34 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 36 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
-| 37 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
-| 38 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 39 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 40 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 41 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 42 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 43 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 44 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 45 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 46 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 47 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
-| 48 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 49 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 50 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 13 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 14 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 15 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 16 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 17 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 18 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
+| 19 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
+| 20 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 21 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 22 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 23 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
+| 24 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
+| 25 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 26 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
+| 27 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 28 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
+| 29 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 30 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
+| 31 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 32 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
+| 33 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 34 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 35 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 36 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
+| 37 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
+| 38 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 39 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 40 | [Maurice Jones](http://twitter.com/search?q=Maurice+Jones) | N/A |
+| 41 | [Edgerrin James](http://twitter.com/search?q=Edgerrin+James) | N/A |
+| 42 | [LaDainian Tomlinson](http://twitter.com/search?q=LaDainian+Tomlinson) | N/A |
+| 43 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
+| 44 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
+| 45 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 46 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 47 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 48 | [Fred Taylor](http://twitter.com/search?q=Fred+Taylor) | N/A |
+| 49 | [Eddie George](http://twitter.com/search?q=Eddie+George) | N/A |
+| 50 | [Mester](http://twitter.com/search?q=Mester) | N/A |
 
 
 

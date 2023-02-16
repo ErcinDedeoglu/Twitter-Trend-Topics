@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-16 15:17:21 UTC`
+📆 Last Updated: `2023-02-16 16:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 2 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 3 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 4 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
-| 5 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 6 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
-| 7 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 1 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
+| 2 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 3 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
+| 4 | [Jeremy Vine](http://twitter.com/search?q=Jeremy+Vine) | N/A |
+| 5 | [#lingo](http://twitter.com/search?q=%23lingo) | N/A |
+| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 7 | [#NorthEastEnglandFilmsOrSongs](http://twitter.com/search?q=%23NorthEastEnglandFilmsOrSongs) | N/A |
 | 8 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 | 9 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 10 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 10 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
 | 11 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 12 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
-| 13 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 14 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 15 | [Ian Holloway](http://twitter.com/search?q=Ian+Holloway) | N/A |
-| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 17 | [Storm Otto](http://twitter.com/search?q=Storm+Otto) | N/A |
-| 18 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
-| 19 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 20 | [#Menopause](http://twitter.com/search?q=%23Menopause) | N/A |
-| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 22 | [National Service](http://twitter.com/search?q=National+Service) | N/A |
-| 23 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 24 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 25 | [Razzle](http://twitter.com/search?q=Razzle) | N/A |
-| 26 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 27 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
-| 28 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 29 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 30 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 31 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 32 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 33 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 35 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 36 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 37 | [Jeremy Vine](http://twitter.com/search?q=Jeremy+Vine) | N/A |
-| 38 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
-| 39 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 40 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
-| 41 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 42 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 43 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 44 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 45 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 12 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 13 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 14 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 16 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 17 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 18 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
+| 19 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 20 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 21 | [Ian Holloway](http://twitter.com/search?q=Ian+Holloway) | N/A |
+| 22 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 23 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 25 | [National Service](http://twitter.com/search?q=National+Service) | N/A |
+| 26 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 27 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 29 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 30 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 31 | [ofgem](http://twitter.com/search?q=ofgem) | N/A |
+| 32 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 33 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 34 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 35 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 36 | [#stormotto](http://twitter.com/search?q=%23stormotto) | N/A |
+| 37 | [#DisneyDreamlightValley](http://twitter.com/search?q=%23DisneyDreamlightValley) | N/A |
+| 38 | [#Menopause](http://twitter.com/search?q=%23Menopause) | N/A |
+| 39 | [#aplaceinthesun](http://twitter.com/search?q=%23aplaceinthesun) | N/A |
+| 40 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 41 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 42 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 43 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 44 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 45 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
 | 46 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 47 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 48 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 49 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
-| 50 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 48 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
+| 49 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 
 
 

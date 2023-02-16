@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-02-16 15:17:57 UTC`
+📆 Last Updated: `2023-02-16 16:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#SwaraBhasker](http://twitter.com/search?q=%23SwaraBhasker) | N/A |
 | 2 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
-| 3 | [#PrithviShaw](http://twitter.com/search?q=%23PrithviShaw) | N/A |
-| 4 | [SHAME ON ASHWATH NARAYAN](http://twitter.com/search?q=SHAME+ON+ASHWATH+NARAYAN) | N/A |
-| 5 | [#HBDPrinceSK](http://twitter.com/search?q=%23HBDPrinceSK) | N/A |
-| 6 | [#HBD_MithileshThakur](http://twitter.com/search?q=%23HBD_MithileshThakur) | N/A |
-| 7 | [फहद अहमद](http://twitter.com/search?q=%e0%a4%ab%e0%a4%b9%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 8 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 4 | [#PrithviShaw](http://twitter.com/search?q=%23PrithviShaw) | N/A |
+| 5 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 6 | [SHAME ON ASHWATH NARAYAN](http://twitter.com/search?q=SHAME+ON+ASHWATH+NARAYAN) | N/A |
+| 7 | [#DepthCampaign](http://twitter.com/search?q=%23DepthCampaign) | N/A |
+| 8 | [#HBDPrinceSK](http://twitter.com/search?q=%23HBDPrinceSK) | N/A |
 | 9 | [ऋचा सिंह](http://twitter.com/search?q=%e0%a4%8b%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 10 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 11 | [तिवारी मिश्रा](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 12 | [शादी मुबारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 13 | [Sushant Smile Infectious](http://twitter.com/search?q=Sushant+Smile+Infectious) | N/A |
-| 14 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
-| 15 | [Suitcase](http://twitter.com/search?q=Suitcase) | N/A |
-| 16 | [जीजा मुबारक](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 17 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 18 | [Tulsidas Balaram](http://twitter.com/search?q=Tulsidas+Balaram) | N/A |
-| 19 | [Yami Gautam](http://twitter.com/search?q=Yami+Gautam) | N/A |
-| 20 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
-| 21 | [Samajwadi Party](http://twitter.com/search?q=Samajwadi+Party) | N/A |
-| 22 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 23 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 24 | [100th Test](http://twitter.com/search?q=100th+Test) | N/A |
-| 25 | [North](http://twitter.com/search?q=North) | N/A |
-| 26 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 27 | [all eyes on ssr campaign](http://twitter.com/search?q=all+eyes+on+ssr+campaign) | N/A |
-| 28 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
-| 29 | [#ShehzadaOnBurjKhalifa](http://twitter.com/search?q=%23ShehzadaOnBurjKhalifa) | N/A |
-| 30 | [#FahadAhmad](http://twitter.com/search?q=%23FahadAhmad) | N/A |
-| 31 | [#VaathiVaraar](http://twitter.com/search?q=%23VaathiVaraar) | N/A |
+| 10 | [Sushant Smile Infectious](http://twitter.com/search?q=Sushant+Smile+Infectious) | N/A |
+| 11 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
+| 12 | [#fahadahmad](http://twitter.com/search?q=%23fahadahmad) | N/A |
+| 13 | [तिवारी मिश्रा](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 14 | [फहद अहमद](http://twitter.com/search?q=%e0%a4%ab%e0%a4%b9%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 15 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
+| 16 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 17 | [शादी मुबारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 18 | [जीजा मुबारक](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 19 | [Suitcase](http://twitter.com/search?q=Suitcase) | N/A |
+| 20 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 21 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 22 | [Yami Gautam](http://twitter.com/search?q=Yami+Gautam) | N/A |
+| 23 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
+| 24 | [Tulsidas Balaram](http://twitter.com/search?q=Tulsidas+Balaram) | N/A |
+| 25 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 26 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 27 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
+| 28 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
+| 29 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 30 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 31 | [Indigo](http://twitter.com/search?q=Indigo) | N/A |
 | 32 | [#18फरवरी_आ_रहे_है_नैनवा](http://twitter.com/search?q=%2318%e0%a4%ab%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%80_%e0%a4%86_%e0%a4%b0%e0%a4%b9%e0%a5%87_%e0%a4%b9%e0%a5%88_%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a4%b5%e0%a4%be) | N/A |
-| 33 | [#DepthCampaign](http://twitter.com/search?q=%23DepthCampaign) | N/A |
-| 34 | [#Sapnagill](http://twitter.com/search?q=%23Sapnagill) | N/A |
-| 35 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
-| 36 | [#AgitationForLumbini_Ajanta](http://twitter.com/search?q=%23AgitationForLumbini_Ajanta) | N/A |
-| 37 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 38 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
-| 39 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
-| 40 | [#LostOnZEE5](http://twitter.com/search?q=%23LostOnZEE5) | N/A |
-| 41 | [#Ayalaan](http://twitter.com/search?q=%23Ayalaan) | N/A |
-| 42 | [#SceneAhSceneAh](http://twitter.com/search?q=%23SceneAhSceneAh) | N/A |
-| 43 | [#Justice_For_1158](http://twitter.com/search?q=%23Justice_For_1158) | N/A |
-| 44 | [#Kabzaa](http://twitter.com/search?q=%23Kabzaa) | N/A |
-| 45 | [#Mahashivaratri2023](http://twitter.com/search?q=%23Mahashivaratri2023) | N/A |
-| 46 | [#FCGCFC](http://twitter.com/search?q=%23FCGCFC) | N/A |
-| 47 | [#PathaanDay](http://twitter.com/search?q=%23PathaanDay) | N/A |
-| 48 | [#WiniQOONeo7](http://twitter.com/search?q=%23WiniQOONeo7) | N/A |
-| 49 | [#Cricketer](http://twitter.com/search?q=%23Cricketer) | N/A |
+| 33 | [#SapnaGill](http://twitter.com/search?q=%23SapnaGill) | N/A |
+| 34 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 35 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 36 | [#VaathiVaraar](http://twitter.com/search?q=%23VaathiVaraar) | N/A |
+| 37 | [#Indian2](http://twitter.com/search?q=%23Indian2) | N/A |
+| 38 | [#FCGCFC](http://twitter.com/search?q=%23FCGCFC) | N/A |
+| 39 | [#AgitationForLumbini_Ajanta](http://twitter.com/search?q=%23AgitationForLumbini_Ajanta) | N/A |
+| 40 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
+| 41 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 42 | [#HappyBirthdayABD](http://twitter.com/search?q=%23HappyBirthdayABD) | N/A |
+| 43 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
+| 44 | [#Shehzada](http://twitter.com/search?q=%23Shehzada) | #Shehzada is a Hindi word that translates to "Prince" in English. It is used to refer to a male member of a royal family, usually the son of a king or emperor. |
+| 45 | [#Justice_For_1158](http://twitter.com/search?q=%23Justice_For_1158) | N/A |
+| 46 | [#LostOnZEE5](http://twitter.com/search?q=%23LostOnZEE5) | N/A |
+| 47 | [#Kabzaa](http://twitter.com/search?q=%23Kabzaa) | N/A |
+| 48 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
+| 49 | [#AllInForChennaiyin](http://twitter.com/search?q=%23AllInForChennaiyin) | N/A |
+| 50 | [#SamajwadiParty](http://twitter.com/search?q=%23SamajwadiParty) | N/A |
 
 
 

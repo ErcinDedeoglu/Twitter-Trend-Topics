@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-16 15:17:25 UTC`
+📆 Last Updated: `2023-02-16 16:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [#KornoInjurioso](http://twitter.com/search?q=%23KornoInjurioso) | N/A |
-| 4 | [#CaminitoAlaEscuela](http://twitter.com/search?q=%23CaminitoAlaEscuela) | N/A |
-| 5 | [#MañaneroAnimado](http://twitter.com/search?q=%23Ma%c3%b1aneroAnimado) | N/A |
-| 6 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 7 | [#cochinitomagico](http://twitter.com/search?q=%23cochinitomagico) | N/A |
-| 8 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
-| 9 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 10 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 11 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 12 | [Áreas Naturales Protegidas](http://twitter.com/search?q=%c3%81reas+Naturales+Protegidas) | N/A |
-| 13 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [excelente jueves](http://twitter.com/search?q=excelente+jueves) | N/A |
-| 16 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 17 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 18 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 19 | [El Pollo](http://twitter.com/search?q=El+Pollo) | N/A |
-| 20 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 21 | [Hola Toño](http://twitter.com/search?q=Hola+To%c3%b1o) | N/A |
-| 22 | [Carlos Pellicer](http://twitter.com/search?q=Carlos+Pellicer) | N/A |
-| 23 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 4 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 5 | [#PoderosoAlTiro](http://twitter.com/search?q=%23PoderosoAlTiro) | N/A |
+| 6 | [#CaminitoAlaEscuela](http://twitter.com/search?q=%23CaminitoAlaEscuela) | N/A |
+| 7 | [#MañaneroAnimado](http://twitter.com/search?q=%23Ma%c3%b1aneroAnimado) | N/A |
+| 8 | [#KornoInjurioso](http://twitter.com/search?q=%23KornoInjurioso) | N/A |
+| 9 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 10 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 11 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
+| 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 13 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
+| 14 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 15 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 16 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
+| 17 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
+| 18 | [Torres Landa](http://twitter.com/search?q=Torres+Landa) | N/A |
+| 19 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
+| 20 | [Carlos Pellicer](http://twitter.com/search?q=Carlos+Pellicer) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 23 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
 | 24 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 25 | [Airto](http://twitter.com/search?q=Airto) | N/A |
-| 26 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 27 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 28 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 29 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 30 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 31 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
-| 32 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 33 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 36 | [Sergio Bernal](http://twitter.com/search?q=Sergio+Bernal) | N/A |
+| 25 | [hola toño](http://twitter.com/search?q=hola+to%c3%b1o) | N/A |
+| 26 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 27 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 28 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 29 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 30 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 31 | [El Pollo](http://twitter.com/search?q=El+Pollo) | N/A |
+| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 33 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
+| 34 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 35 | [Juan Arturo](http://twitter.com/search?q=Juan+Arturo) | N/A |
+| 36 | [Waltz](http://twitter.com/search?q=Waltz) | N/A |
 | 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 38 | [el inicio de un hablar](http://twitter.com/search?q=el+inicio+de+un+hablar) | N/A |
-| 39 | [Circuito Juan Pablo II](http://twitter.com/search?q=Circuito+Juan+Pablo+II) | N/A |
-| 40 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 41 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
-| 42 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 43 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
-| 44 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 45 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 40 | [el inicio de un hablar](http://twitter.com/search?q=el+inicio+de+un+hablar) | N/A |
+| 41 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 42 | [Sergio Bernal](http://twitter.com/search?q=Sergio+Bernal) | N/A |
+| 43 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
+| 44 | [Mexicana de Aviación](http://twitter.com/search?q=Mexicana+de+Aviaci%c3%b3n) | N/A |
+| 45 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
 | 46 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 47 | [pocho Guzmán](http://twitter.com/search?q=pocho+Guzm%c3%a1n) | N/A |
-| 48 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
-| 49 | [chino huerta](http://twitter.com/search?q=chino+huerta) | N/A |
-| 50 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 47 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 48 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 49 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
+| 50 | [pocho Guzmán](http://twitter.com/search?q=pocho+Guzm%c3%a1n) | N/A |
 
 
 

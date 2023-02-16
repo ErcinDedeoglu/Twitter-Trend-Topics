@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chelyabinsk
 
-📆 Last Updated: `2023-02-16 15:17:53 UTC`
+📆 Last Updated: `2023-02-16 16:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Russia](</Russia>)
 | 3 | [#клуَбромантиٍки](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d9%8e%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d9%8d%d0%ba%d0%b8) | N/A |
 | 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 5 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 6 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
-| 7 | [Огайо](http://twitter.com/search?q=%d0%9e%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
-| 8 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 9 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 10 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 11 | [любовь](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
-| 12 | [извините](http://twitter.com/search?q=%d0%b8%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 13 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 14 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 15 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 16 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
-| 17 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 18 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
-| 19 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
-| 20 | [РФ-СМИ](http://twitter.com/search?q=%d0%a0%d0%a4-%d0%a1%d0%9c%d0%98) | N/A |
-| 21 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 22 | [#Дизайн](http://twitter.com/search?q=%23%d0%94%d0%b8%d0%b7%d0%b0%d0%b9%d0%bd) | N/A |
-| 23 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
-| 24 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 25 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
-| 26 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 27 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 28 | [с днём](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc) | N/A |
-| 29 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 30 | [мммм](http://twitter.com/search?q=%d0%bc%d0%bc%d0%bc%d0%bc) | N/A |
-| 31 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 32 | [Вижу](http://twitter.com/search?q=%d0%92%d0%b8%d0%b6%d1%83) | N/A |
-| 33 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 34 | [великий](http://twitter.com/search?q=%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%b8%d0%b9) | N/A |
+| 6 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 7 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 8 | [Огайо](http://twitter.com/search?q=%d0%9e%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
+| 9 | [Любовь](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
+| 10 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 12 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 13 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 14 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 15 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
+| 16 | [РФ-СМИ](http://twitter.com/search?q=%d0%a0%d0%a4-%d0%a1%d0%9c%d0%98) | N/A |
+| 17 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 18 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
+| 19 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 20 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 21 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
+| 22 | [Мммм](http://twitter.com/search?q=%d0%9c%d0%bc%d0%bc%d0%bc) | N/A |
+| 23 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
+| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 25 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 26 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 27 | [с днём](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc) | N/A |
+| 28 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 29 | [великий](http://twitter.com/search?q=%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%b8%d0%b9) | N/A |
+| 30 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 31 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 32 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 33 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 35 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 36 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 37 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 38 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 40 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 41 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 42 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 43 | [люблю тебя](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e+%d1%82%d0%b5%d0%b1%d1%8f) | N/A |
-| 44 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 45 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
-| 46 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Никак](http://twitter.com/search?q=%d0%9d%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
-| 49 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 50 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
+| 36 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 37 | [люблю тебя](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e+%d1%82%d0%b5%d0%b1%d1%8f) | N/A |
+| 38 | [Ваще](http://twitter.com/search?q=%d0%92%d0%b0%d1%89%d0%b5) | N/A |
+| 39 | [пусть](http://twitter.com/search?q=%d0%bf%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 40 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
+| 41 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
+| 42 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
+| 43 | [Ясно](http://twitter.com/search?q=%d0%af%d1%81%d0%bd%d0%be) | N/A |
+| 44 | [Идеально](http://twitter.com/search?q=%d0%98%d0%b4%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 45 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
+| 46 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 47 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
+| 48 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
+| 49 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 50 | [Здравствуйте](http://twitter.com/search?q=%d0%97%d0%b4%d1%80%d0%b0%d0%b2%d1%81%d1%82%d0%b2%d1%83%d0%b9%d1%82%d0%b5) | N/A |
 
 
 
