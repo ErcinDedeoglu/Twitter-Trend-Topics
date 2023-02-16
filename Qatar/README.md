@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-16 05:16:51 UTC`
+📆 Last Updated: `2023-02-16 06:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for Qatar
 | 16 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 18 | [15 فبراير 2023](http://twitter.com/search?q=15+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 19 | [نادي قطر](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d9%82%d8%b7%d8%b1) | N/A |
-| 20 | [رياضي سعيد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 21 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 22 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 23 | [السمو الشيخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%87) | N/A |
-| 24 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
-| 25 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 26 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 28 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 29 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 30 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 31 | [حمد بن خليفه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
-| 32 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 33 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 34 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 35 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 36 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 37 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 38 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 39 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 40 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 41 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 42 | [المره الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 43 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 44 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 45 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 46 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 47 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
-| 48 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 49 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 50 | [موزا بنت ناصر](http://twitter.com/search?q=%d9%85%d9%88%d8%b2%d8%a7+%d8%a8%d9%86%d8%aa+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 19 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 20 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 21 | [السمو الشيخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%87) | N/A |
+| 22 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 23 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 25 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 26 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 27 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 28 | [حمد بن خليفه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
+| 29 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 30 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 31 | [نادي قطر](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d9%82%d8%b7%d8%b1) | N/A |
+| 32 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 33 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
+| 34 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 35 | [الكاينات الفضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 36 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 37 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 38 | [المره الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 39 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 40 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 41 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 42 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 43 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 44 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 45 | [موزا بنت ناصر](http://twitter.com/search?q=%d9%85%d9%88%d8%b2%d8%a7+%d8%a8%d9%86%d8%aa+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 46 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 47 | [European](http://twitter.com/search?q=European) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 50 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 
 
 

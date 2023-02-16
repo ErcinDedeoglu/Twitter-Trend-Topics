@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-02-16 05:16:28 UTC`
+📆 Last Updated: `2023-02-16 06:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Kenya](</Kenya>)
 | 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 4 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 5 | [#DayBreak](http://twitter.com/search?q=%23DayBreak) | N/A |
+| 4 | [Aisha Jumwa](http://twitter.com/search?q=Aisha+Jumwa) | N/A |
+| 5 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 6 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
-| 7 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 7 | [#mensconference2023](http://twitter.com/search?q=%23mensconference2023) | N/A |
 | 8 | [Mancity](http://twitter.com/search?q=Mancity) | N/A |
 | 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 10 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 10 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 11 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 12 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 13 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 14 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 13 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 14 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 15 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [free the period](http://twitter.com/search?q=free+the+period) | N/A |
-| 18 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 17 | [Ndindi Nyoro](http://twitter.com/search?q=Ndindi+Nyoro) | N/A |
+| 18 | [free the period](http://twitter.com/search?q=free+the+period) | N/A |
 | 19 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
-| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 21 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 20 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 24 | [Fred Matiang](http://twitter.com/search?q=Fred+Matiang) | N/A |
+| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 24 | [Fred Matiangi](http://twitter.com/search?q=Fred+Matiangi) | N/A |
 | 25 | [Senator Gloria Orwoba](http://twitter.com/search?q=Senator+Gloria+Orwoba) | N/A |
-| 26 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 27 | [Miguna](http://twitter.com/search?q=Miguna) | N/A |
-| 28 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 26 | [Miguna](http://twitter.com/search?q=Miguna) | N/A |
+| 27 | [I&M Bank](http://twitter.com/search?q=I%26M+Bank) | N/A |
+| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 29 | [ichaweri](http://twitter.com/search?q=ichaweri) | N/A |
-| 30 | [I&M Bank](http://twitter.com/search?q=I%26M+Bank) | N/A |
-| 31 | [Ndindi Nyoro](http://twitter.com/search?q=Ndindi+Nyoro) | N/A |
+| 30 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 31 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 32 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
 | 33 | [makl scammers](http://twitter.com/search?q=makl+scammers) | N/A |
 | 34 | [Kanini Kega](http://twitter.com/search?q=Kanini+Kega) | N/A |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 37 | [Super Metro](http://twitter.com/search?q=Super+Metro) | N/A |
+| 35 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 36 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 37 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
 | 38 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 39 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 41 | [ksh 250](http://twitter.com/search?q=ksh+250) | N/A |
-| 42 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 43 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 44 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 45 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 46 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 47 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Top of the Table](http://twitter.com/search?q=Top+of+the+Table) | N/A |
-| 50 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 40 | [ksh 250](http://twitter.com/search?q=ksh+250) | N/A |
+| 41 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 42 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 43 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
+| 44 | [Top of the Table](http://twitter.com/search?q=Top+of+the+Table) | N/A |
+| 45 | [Kiharu](http://twitter.com/search?q=Kiharu) | N/A |
+| 46 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 47 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 48 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 49 | [City United](http://twitter.com/search?q=City+United) | N/A |
+| 50 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
 
 
 

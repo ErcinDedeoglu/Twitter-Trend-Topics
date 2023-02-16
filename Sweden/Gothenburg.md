@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-16 05:16:17 UTC`
+📆 Last Updated: `2023-02-16 06:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,20 +21,20 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [SVFF](http://twitter.com/search?q=SVFF) | N/A |
 | 5 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 6 | [Linn Persson](http://twitter.com/search?q=Linn+Persson) | N/A |
-| 7 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
-| 8 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 9 | [HANNA ÖBERG](http://twitter.com/search?q=HANNA+%c3%96BERG) | N/A |
+| 7 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 8 | [HANNA ÖBERG](http://twitter.com/search?q=HANNA+%c3%96BERG) | N/A |
+| 9 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
 | 10 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
 | 11 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 12 | [Morgan Johansson](http://twitter.com/search?q=Morgan+Johansson) | N/A |
 | 13 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 14 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 15 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 16 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 18 | [Sjöbo](http://twitter.com/search?q=Sj%c3%b6bo) | N/A |
-| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 20 | [billström](http://twitter.com/search?q=billstr%c3%b6m) | N/A |
+| 14 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 15 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 16 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
+| 17 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 19 | [Sjöbo](http://twitter.com/search?q=Sj%c3%b6bo) | N/A |
+| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 21 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 | 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 23 | [ann linde](http://twitter.com/search?q=ann+linde) | N/A |
@@ -42,27 +42,28 @@ This is top 50 for [Sweden](</Sweden>)
 | 25 | [Ribbenvik](http://twitter.com/search?q=Ribbenvik) | N/A |
 | 26 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
 | 27 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 28 | [Palme](http://twitter.com/search?q=Palme) | N/A |
-| 29 | [ungern](http://twitter.com/search?q=ungern) | N/A |
-| 30 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 28 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
+| 29 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 30 | [Palme](http://twitter.com/search?q=Palme) | N/A |
 | 31 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [sveg](http://twitter.com/search?q=sveg) | N/A |
-| 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 35 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 38 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 39 | [Begler](http://twitter.com/search?q=Begler) | N/A |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [Sandberg](http://twitter.com/search?q=Sandberg) | N/A |
-| 42 | [thornberg](http://twitter.com/search?q=thornberg) | N/A |
-| 43 | [LASU](http://twitter.com/search?q=LASU) | N/A |
-| 44 | [fantenberg](http://twitter.com/search?q=fantenberg) | N/A |
-| 45 | [dan eliasson](http://twitter.com/search?q=dan+eliasson) | N/A |
-| 46 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 47 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 32 | [sveg](http://twitter.com/search?q=sveg) | N/A |
+| 33 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 34 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 38 | [Begler](http://twitter.com/search?q=Begler) | N/A |
+| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 40 | [Sandberg](http://twitter.com/search?q=Sandberg) | N/A |
+| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 42 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 43 | [thornberg](http://twitter.com/search?q=thornberg) | N/A |
+| 44 | [LASU](http://twitter.com/search?q=LASU) | N/A |
+| 45 | [fantenberg](http://twitter.com/search?q=fantenberg) | N/A |
+| 46 | [dan eliasson](http://twitter.com/search?q=dan+eliasson) | N/A |
+| 47 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 48 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 49 | [mölndal](http://twitter.com/search?q=m%c3%b6lndal) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-16 05:16:51 UTC`
+📆 Last Updated: `2023-02-16 06:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [sophie elise](http://twitter.com/search?q=sophie+elise) | N/A |
-| 2 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 4 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 2 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 3 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
+| 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 6 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 8 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 9 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
@@ -41,14 +41,14 @@ This is top 50 for Norway
 | 24 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
 | 25 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 26 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 27 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
-| 28 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 29 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
-| 30 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 31 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 32 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
-| 33 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 27 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 28 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
+| 29 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 30 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
+| 31 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 32 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 35 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 36 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 37 | [Sending](http://twitter.com/search?q=Sending) | N/A |
@@ -58,9 +58,9 @@ This is top 50 for Norway
 | 41 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 42 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
 | 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 44 | [espen teigen](http://twitter.com/search?q=espen+teigen) | N/A |
-| 45 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 46 | [vedum](http://twitter.com/search?q=vedum) | N/A |
+| 44 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 45 | [espen teigen](http://twitter.com/search?q=espen+teigen) | N/A |
+| 46 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
 | 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 48 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
 | 49 | [treholt](http://twitter.com/search?q=treholt) | N/A |

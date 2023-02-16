@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-16 05:16:08 UTC`
+📆 Last Updated: `2023-02-16 06:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
 | 2 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
-| 3 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 4 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 3 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 4 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
 | 5 | [Pablo Maia](http://twitter.com/search?q=Pablo+Maia) | Pablo Maia is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "humble little one". |
 | 6 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 7 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 8 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 9 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 10 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 7 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 8 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
+| 9 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 10 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
 | 11 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
 | 12 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 13 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
-| 14 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 15 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 16 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 13 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 14 | [BANDIDA NO BBB](http://twitter.com/search?q=BANDIDA+NO+BBB) | N/A |
+| 15 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
 | 17 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
-| 18 | [BANDIDA NO BBB](http://twitter.com/search?q=BANDIDA+NO+BBB) | N/A |
+| 18 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
 | 19 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
 | 20 | [Homem Formiga](http://twitter.com/search?q=Homem+Formiga) | N/A |
-| 21 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 22 | [Wellington Rato](http://twitter.com/search?q=Wellington+Rato) | Wellington Rato is a Portuguese expression that literally translates to "Wellington Boot". It is used to describe someone who is clumsy or awkward. |
-| 23 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 24 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 25 | [Inter de Limeira](http://twitter.com/search?q=Inter+de+Limeira) | Inter de Limeira is a Brazilian football club based in Limeira, São Paulo. The club was founded in 1920 and currently plays in the Campeonato Paulista Série A2, the second tier of the São Paulo state football league. The name Inter de Limeira translates to "Limeira Inter" in English. |
-| 26 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
-| 27 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 28 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 29 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
-| 30 | [D'Lo](http://twitter.com/search?q=D%27Lo) | N/A |
-| 31 | [Davi R](http://twitter.com/search?q=Davi+R) | N/A |
-| 32 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 33 | [D'Angelo Russell](http://twitter.com/search?q=D%27Angelo+Russell) | N/A |
-| 34 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
-| 35 | [ACM Neto](http://twitter.com/search?q=ACM+Neto) | N/A |
-| 36 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 37 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
-| 38 | [#VRExFLA](http://twitter.com/search?q=%23VRExFLA) | N/A |
-| 39 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 40 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
-| 41 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 42 | [Indisponível](http://twitter.com/search?q=Indispon%c3%advel) | N/A |
-| 43 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
-| 44 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 45 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 46 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 47 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 48 | [Ant-Man and the Wasp](http://twitter.com/search?q=Ant-Man+and+the+Wasp) | N/A |
-| 49 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 50 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
+| 21 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 22 | [D'Lo](http://twitter.com/search?q=D%27Lo) | N/A |
+| 23 | [Wellington Rato](http://twitter.com/search?q=Wellington+Rato) | Wellington Rato is a Portuguese expression that literally translates to "Wellington Boot". It is used to describe someone who is clumsy or awkward. |
+| 24 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 25 | [Davi R.](http://twitter.com/search?q=Davi+R.) | N/A |
+| 26 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 27 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 28 | [Inter de Limeira](http://twitter.com/search?q=Inter+de+Limeira) | Inter de Limeira is a Brazilian football club based in Limeira, São Paulo. The club was founded in 1920 and currently plays in the Campeonato Paulista Série A2, the second tier of the São Paulo state football league. The name Inter de Limeira translates to "Limeira Inter" in English. |
+| 29 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
+| 30 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 31 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 32 | [SEQUESTRO](http://twitter.com/search?q=SEQUESTRO) | N/A |
+| 33 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 34 | [D'Angelo Russell](http://twitter.com/search?q=D%27Angelo+Russell) | N/A |
+| 35 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 36 | [ACM Neto](http://twitter.com/search?q=ACM+Neto) | N/A |
+| 37 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
+| 38 | [#AsFive](http://twitter.com/search?q=%23AsFive) | N/A |
+| 39 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 40 | [Indisponível](http://twitter.com/search?q=Indispon%c3%advel) | N/A |
+| 41 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
+| 42 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 43 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 44 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 45 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
+| 46 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 47 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 48 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 49 | [Ant-Man and the Wasp](http://twitter.com/search?q=Ant-Man+and+the+Wasp) | N/A |
+| 50 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
 
 
 

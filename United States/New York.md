@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-16 05:16:42 UTC`
+📆 Last Updated: `2023-02-16 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 2 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 2 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
 | 3 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
 | 4 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
 | 5 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 6 | [Montas](http://twitter.com/search?q=Montas) | N/A |
-| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 8 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 9 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 10 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 12 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 13 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 14 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 15 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 16 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 17 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 18 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 19 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 20 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 21 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 22 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 23 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 24 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 25 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 27 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 28 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 29 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 6 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 7 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 8 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 10 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 11 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 12 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 13 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 14 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 15 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 16 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 17 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 18 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 19 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 20 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 21 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 22 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 23 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 24 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 25 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 26 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 27 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 28 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 29 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 30 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 31 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 32 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 33 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 34 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
-| 35 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 36 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 31 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 32 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
+| 33 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 34 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 35 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 36 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
 | 37 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 38 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 39 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 40 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
-| 41 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 42 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
-| 43 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
-| 44 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
-| 45 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 46 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 47 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 48 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 49 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 50 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
+| 38 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
+| 39 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 40 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 41 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 42 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 43 | [Seider](http://twitter.com/search?q=Seider) | N/A |
+| 44 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
+| 45 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 46 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 47 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 48 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 49 | [Husso](http://twitter.com/search?q=Husso) | N/A |
+| 50 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
 
 
 

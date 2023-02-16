@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-16 05:16:47 UTC`
+📆 Last Updated: `2023-02-16 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,31 +23,31 @@ This is top 50 for Denmark
 | 6 | [slimane](http://twitter.com/search?q=slimane) | N/A |
 | 7 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 8 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 9 | [mensah](http://twitter.com/search?q=mensah) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [greve](http://twitter.com/search?q=greve) | N/A |
-| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 14 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 15 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 16 | [#eudk](http://twitter.com/search?q=%23eudk) | N/A |
+| 9 | [greve](http://twitter.com/search?q=greve) | N/A |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 15 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 16 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
 | 17 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 18 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 19 | [kim fournais](http://twitter.com/search?q=kim+fournais) | N/A |
-| 20 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
-| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 22 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 23 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 24 | [Anis](http://twitter.com/search?q=Anis) | N/A |
-| 25 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [kim fournais](http://twitter.com/search?q=kim+fournais) | N/A |
+| 19 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 22 | [Anis](http://twitter.com/search?q=Anis) | N/A |
+| 23 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 24 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
+| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 26 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 27 | [Anmeldt](http://twitter.com/search?q=Anmeldt) | N/A |
-| 28 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 30 | [esbjerg](http://twitter.com/search?q=esbjerg) | N/A |
-| 31 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 32 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 33 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 29 | [esbjerg](http://twitter.com/search?q=esbjerg) | N/A |
+| 30 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 33 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 36 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Denmark
 | 44 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
 | 45 | [Corner](http://twitter.com/search?q=Corner) | N/A |
 | 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [store bededag](http://twitter.com/search?q=store+bededag) | N/A |
-| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 50 | [Cepos](http://twitter.com/search?q=Cepos) | N/A |
+| 47 | [store bededag](http://twitter.com/search?q=store+bededag) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [Cepos](http://twitter.com/search?q=Cepos) | N/A |
+| 50 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-16 05:16:41 UTC`
+📆 Last Updated: `2023-02-16 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
 | 2 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 5 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 6 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 7 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 8 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 9 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 10 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 11 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 12 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 13 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 14 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 15 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 16 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 17 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 18 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 19 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 20 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 21 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 22 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 23 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 24 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 25 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 26 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 27 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 28 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 29 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 30 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 31 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
-| 32 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 33 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 34 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 35 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 36 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 37 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
-| 38 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 39 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
-| 40 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
-| 41 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
-| 42 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 43 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 44 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 45 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 46 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 47 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
-| 48 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 49 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 50 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 3 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 4 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 9 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 11 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 12 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 13 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 14 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 15 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 16 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 17 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 18 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 19 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 20 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 21 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 22 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 23 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 24 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 25 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 26 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 27 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 28 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 29 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 30 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 31 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 32 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
+| 33 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 34 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 35 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 36 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 37 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
+| 38 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 39 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 40 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 41 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 42 | [Seider](http://twitter.com/search?q=Seider) | N/A |
+| 43 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
+| 44 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 45 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 46 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 47 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 48 | [Husso](http://twitter.com/search?q=Husso) | N/A |
+| 49 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 50 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
 
 
 

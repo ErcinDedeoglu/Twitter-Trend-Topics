@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-16 05:16:48 UTC`
+📆 Last Updated: `2023-02-16 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,16 +20,16 @@ This is top 50 for Ireland
 | 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 4 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
 | 5 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 6 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 8 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 6 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 7 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 8 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 9 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 11 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 12 | [#DORCHE](http://twitter.com/search?q=%23DORCHE) | N/A |
 | 13 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 15 | [Sigerson Cup](http://twitter.com/search?q=Sigerson+Cup) | N/A |
+| 15 | [sigerson cup](http://twitter.com/search?q=sigerson+cup) | N/A |
 | 16 | [#BriannaGhey](http://twitter.com/search?q=%23BriannaGhey) | N/A |
 | 17 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 18 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
@@ -44,7 +44,7 @@ This is top 50 for Ireland
 | 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 28 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
 | 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [Billy Morgan](http://twitter.com/search?q=Billy+Morgan) | N/A |
+| 30 | [billy morgan](http://twitter.com/search?q=billy+morgan) | N/A |
 | 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 32 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
@@ -59,12 +59,12 @@ This is top 50 for Ireland
 | 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 43 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
 | 44 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 45 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 46 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 47 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 48 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
-| 49 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 50 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
+| 45 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 46 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 47 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
+| 48 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 49 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
+| 50 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 
 
 
