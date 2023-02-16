@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-16 17:16:24 UTC`
+📆 Last Updated: `2023-02-16 18:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#CarnavalesFelices2023](http://twitter.com/search?q=%23CarnavalesFelices2023) | N/A |
 | 3 | [#CeseALasSanciones](http://twitter.com/search?q=%23CeseALasSanciones) | N/A |
 | 4 | [Alí Primera](http://twitter.com/search?q=Al%c3%ad+Primera) | N/A |
-| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 5 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
 | 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
-| 8 | [#LaPrimariaVa](http://twitter.com/search?q=%23LaPrimariaVa) | N/A |
-| 9 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 7 | [#LaPrimariaVa](http://twitter.com/search?q=%23LaPrimariaVa) | N/A |
+| 8 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 9 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 | 10 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 11 | [Dodge Dart](http://twitter.com/search?q=Dodge+Dart) | N/A |
-| 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 13 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
-| 14 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 11 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 12 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
+| 13 | [Dodge Dart](http://twitter.com/search?q=Dodge+Dart) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 16 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 17 | [Richard Burton](http://twitter.com/search?q=Richard+Burton) | N/A |
+| 16 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 17 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
 | 18 | [Cantor del Pueblo](http://twitter.com/search?q=Cantor+del+Pueblo) | N/A |
-| 19 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 20 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 21 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Congreso de Angostura](http://twitter.com/search?q=Congreso+de+Angostura) | N/A |
-| 24 | [Jesús María Casal](http://twitter.com/search?q=Jes%c3%bas+Mar%c3%ada+Casal) | N/A |
-| 25 | [Parque del Este](http://twitter.com/search?q=Parque+del+Este) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [El 22](http://twitter.com/search?q=El+22) | N/A |
-| 28 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
-| 29 | [goltv](http://twitter.com/search?q=goltv) | N/A |
-| 30 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 31 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 32 | [Luis Brito García](http://twitter.com/search?q=Luis+Brito+Garc%c3%ada) | N/A |
-| 33 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 34 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 35 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
-| 36 | [Día del Amor y la Amistad](http://twitter.com/search?q=D%c3%ada+del+Amor+y+la+Amistad) | N/A |
-| 37 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 39 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 40 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 41 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 19 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 20 | [Richard Burton](http://twitter.com/search?q=Richard+Burton) | N/A |
+| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 22 | [Feliz San Valentín](http://twitter.com/search?q=Feliz+San+Valent%c3%adn) | N/A |
+| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 24 | [Parque del Este](http://twitter.com/search?q=Parque+del+Este) | N/A |
+| 25 | [Jesús María Casal](http://twitter.com/search?q=Jes%c3%bas+Mar%c3%ada+Casal) | N/A |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 28 | [Luis Brito García](http://twitter.com/search?q=Luis+Brito+Garc%c3%ada) | N/A |
+| 29 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 31 | [Congreso de Angostura](http://twitter.com/search?q=Congreso+de+Angostura) | N/A |
+| 32 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
+| 33 | [feliz miércoles](http://twitter.com/search?q=feliz+mi%c3%a9rcoles) | N/A |
+| 34 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 35 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
+| 36 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 37 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 38 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 39 | [Elizabeth Taylor](http://twitter.com/search?q=Elizabeth+Taylor) | N/A |
+| 40 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 41 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
 | 42 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 45 | [Luz Caraballo](http://twitter.com/search?q=Luz+Caraballo) | N/A |
-| 46 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
-| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 48 | [El 16](http://twitter.com/search?q=El+16) | N/A |
-| 49 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 43 | [Día del Amor y la Amistad](http://twitter.com/search?q=D%c3%ada+del+Amor+y+la+Amistad) | N/A |
+| 44 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 45 | [El 16](http://twitter.com/search?q=El+16) | N/A |
+| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 49 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 
 

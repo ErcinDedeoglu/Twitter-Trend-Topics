@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-16 17:17:00 UTC`
+📆 Last Updated: `2023-02-16 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 2 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 3 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 4 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 6 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 9 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
-| 10 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 11 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 14 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 15 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 16 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 17 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
-| 18 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 19 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 20 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 21 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
-| 22 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 23 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 24 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
-| 25 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
-| 26 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 27 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 28 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
-| 29 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
-| 30 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 31 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 32 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
-| 33 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 34 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
-| 35 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
-| 36 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
-| 37 | [Edgerrin James](http://twitter.com/search?q=Edgerrin+James) | N/A |
-| 38 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
-| 39 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
-| 40 | [Georgia 2020](http://twitter.com/search?q=Georgia+2020) | N/A |
-| 41 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
-| 42 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 43 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 44 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 45 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 46 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
-| 47 | [Taron Egerton](http://twitter.com/search?q=Taron+Egerton) | N/A |
-| 48 | [Emmitt Smith](http://twitter.com/search?q=Emmitt+Smith) | N/A |
-| 49 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 2 | [#BunnyAI](http://twitter.com/search?q=%23BunnyAI) | N/A |
+| 3 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 4 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 5 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 7 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 9 | [#RSD23](http://twitter.com/search?q=%23RSD23) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 12 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 13 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 16 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 18 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 19 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 20 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 21 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
+| 22 | [Susan Wojcicki](http://twitter.com/search?q=Susan+Wojcicki) | N/A |
+| 23 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 24 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 25 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 26 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
+| 27 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
+| 28 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 29 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 30 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 31 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
+| 32 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 33 | [The Bailey](http://twitter.com/search?q=The+Bailey) | N/A |
+| 34 | [Neal Mohan](http://twitter.com/search?q=Neal+Mohan) | N/A |
+| 35 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 36 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
+| 37 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
+| 38 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
+| 39 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 40 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 41 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
+| 42 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 43 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
+| 44 | [hickey](http://twitter.com/search?q=hickey) | N/A |
+| 45 | [Tony Dorsett](http://twitter.com/search?q=Tony+Dorsett) | N/A |
+| 46 | [Van Buren Township](http://twitter.com/search?q=Van+Buren+Township) | N/A |
+| 47 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 48 | [John Riggins](http://twitter.com/search?q=John+Riggins) | N/A |
+| 49 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
 
 
 

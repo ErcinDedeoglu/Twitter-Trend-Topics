@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-16 17:16:29 UTC`
+📆 Last Updated: `2023-02-16 18:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,48 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 2 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 7 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 9 | [#NouvelleStar](http://twitter.com/search?q=%23NouvelleStar) | N/A |
-| 10 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 11 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
-| 12 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 13 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
-| 14 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 15 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 16 | [Omari](http://twitter.com/search?q=Omari) | Omari is an Arabic name meaning “most high” or “supreme”. It is also used as a surname in some parts of the world. |
-| 17 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 18 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 20 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 21 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 22 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Albi](http://twitter.com/search?q=Albi) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 27 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 28 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 29 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 30 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 31 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
-| 32 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 33 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 36 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 37 | [myriam abel](http://twitter.com/search?q=myriam+abel) | N/A |
-| 38 | [Entrée](http://twitter.com/search?q=Entr%c3%a9e) | N/A |
-| 39 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 40 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 41 | [Tessa Worley](http://twitter.com/search?q=Tessa+Worley) | N/A |
-| 42 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
-| 43 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
-| 44 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 45 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 46 | [Aznavour](http://twitter.com/search?q=Aznavour) | N/A |
-| 47 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
-| 48 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 49 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 50 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 5 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 6 | [#SHASRFC](http://twitter.com/search?q=%23SHASRFC) | N/A |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 9 | [Cadix](http://twitter.com/search?q=Cadix) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 11 | [#BarcaMUFC](http://twitter.com/search?q=%23BarcaMUFC) | N/A |
+| 12 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
+| 13 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 14 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 15 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 16 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 17 | [Omari](http://twitter.com/search?q=Omari) | Omari is an Arabic name meaning “most high” or “supreme”. It is also used as a surname in some parts of the world. |
+| 18 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 19 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 20 | [Allez Rennes](http://twitter.com/search?q=Allez+Rennes) | N/A |
+| 21 | [RMC Story](http://twitter.com/search?q=RMC+Story) | N/A |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 25 | [Wiloo](http://twitter.com/search?q=Wiloo) | N/A |
+| 26 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 27 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 28 | [Ousmane Sonko](http://twitter.com/search?q=Ousmane+Sonko) | N/A |
+| 29 | [18h45](http://twitter.com/search?q=18h45) | N/A |
+| 30 | [Macky Sall](http://twitter.com/search?q=Macky+Sall) | N/A |
+| 31 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 32 | [Albi](http://twitter.com/search?q=Albi) | N/A |
+| 33 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 34 | [Attal](http://twitter.com/search?q=Attal) | N/A |
+| 35 | [Jaurès](http://twitter.com/search?q=Jaur%c3%a8s) | N/A |
+| 36 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 37 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
+| 38 | [#FCBMUN](http://twitter.com/search?q=%23FCBMUN) | N/A |
+| 39 | [#manif16fevrier](http://twitter.com/search?q=%23manif16fevrier) | N/A |
+| 40 | [#LFLDays](http://twitter.com/search?q=%23LFLDays) | N/A |
+| 41 | [#MicromaniaWildHearts](http://twitter.com/search?q=%23MicromaniaWildHearts) | N/A |
+| 42 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 43 | [#LFLCICDay](http://twitter.com/search?q=%23LFLCICDay) | N/A |
 
 
 

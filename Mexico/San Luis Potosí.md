@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-02-16 17:16:21 UTC`
+📆 Last Updated: `2023-02-16 18:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,50 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 2 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#KornoInjurioso](http://twitter.com/search?q=%23KornoInjurioso) | N/A |
-| 6 | [#PoderosoAlTiro](http://twitter.com/search?q=%23PoderosoAlTiro) | N/A |
-| 7 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 8 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
-| 9 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 10 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 11 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
-| 12 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 13 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 14 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 15 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 16 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 17 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 20 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 21 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 22 | [Torres Landa](http://twitter.com/search?q=Torres+Landa) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
-| 25 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 26 | [Carlos Pellicer](http://twitter.com/search?q=Carlos+Pellicer) | N/A |
-| 27 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 28 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 29 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
-| 30 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 31 | [Agronitrogenados](http://twitter.com/search?q=Agronitrogenados) | N/A |
-| 32 | [Urbanos y Suburbanos](http://twitter.com/search?q=Urbanos+y+Suburbanos) | N/A |
-| 33 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
-| 34 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
-| 35 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 36 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 37 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 38 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 39 | [Waltz](http://twitter.com/search?q=Waltz) | N/A |
-| 40 | [el inicio de un hablar](http://twitter.com/search?q=el+inicio+de+un+hablar) | N/A |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 45 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 46 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
-| 47 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 48 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 3 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 4 | [#TaniaRagasolEnConvoy](http://twitter.com/search?q=%23TaniaRagasolEnConvoy) | N/A |
+| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
+| 7 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 8 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 9 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
+| 10 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 11 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 12 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 14 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 15 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 16 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
+| 17 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 19 | [Agronitrogenados](http://twitter.com/search?q=Agronitrogenados) | N/A |
+| 20 | [Carlos Pellicer](http://twitter.com/search?q=Carlos+Pellicer) | N/A |
+| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 22 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
+| 23 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 24 | [Torres Landa](http://twitter.com/search?q=Torres+Landa) | N/A |
+| 25 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 26 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 27 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 28 | [Presidente de México](http://twitter.com/search?q=Presidente+de+M%c3%a9xico) | N/A |
+| 29 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
+| 30 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 31 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 32 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 33 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 34 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 35 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
+| 36 | [#PoderosoAlTiro](http://twitter.com/search?q=%23PoderosoAlTiro) | N/A |
+| 37 | [#Paramore](http://twitter.com/search?q=%23Paramore) | N/A |
+| 38 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 39 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 40 | [#CaminitoAlaEscuela](http://twitter.com/search?q=%23CaminitoAlaEscuela) | N/A |
+| 41 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 42 | [#AMLOElReyDelCash](http://twitter.com/search?q=%23AMLOElReyDelCash) | N/A |
+| 43 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 44 | [#CartelInmobiliario](http://twitter.com/search?q=%23CartelInmobiliario) | N/A |
 
 
 

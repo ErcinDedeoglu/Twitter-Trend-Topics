@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-16 17:16:33 UTC`
+📆 Last Updated: `2023-02-16 18:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023S3](http://twitter.com/search?q=%23COAC2023S3) | N/A |
-| 2 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 3 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 4 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 1 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 2 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 3 | [#TierraAmarga16Feb](http://twitter.com/search?q=%23TierraAmarga16Feb) | N/A |
+| 4 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 6 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
-| 7 | [#TierraAmarga16Feb](http://twitter.com/search?q=%23TierraAmarga16Feb) | N/A |
-| 8 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 9 | [#SorteazoLowiS23](http://twitter.com/search?q=%23SorteazoLowiS23) | N/A |
-| 10 | [#LeyTrans](http://twitter.com/search?q=%23LeyTrans) | N/A |
-| 11 | [Joestar](http://twitter.com/search?q=Joestar) | N/A |
-| 12 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
-| 13 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 14 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 15 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 18 | [Waltz](http://twitter.com/search?q=Waltz) | N/A |
-| 19 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 20 | [Alarmante](http://twitter.com/search?q=Alarmante) | N/A |
-| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 22 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 23 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 24 | [Jojos](http://twitter.com/search?q=Jojos) | N/A |
-| 25 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
-| 26 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 27 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 28 | [Ley del Deporte](http://twitter.com/search?q=Ley+del+Deporte) | N/A |
-| 29 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 30 | [Paella](http://twitter.com/search?q=Paella) | N/A |
-| 31 | [Ley del Aborto](http://twitter.com/search?q=Ley+del+Aborto) | N/A |
-| 32 | [Jueves Lardero](http://twitter.com/search?q=Jueves+Lardero) | N/A |
-| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 34 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 35 | [Gracias Irene](http://twitter.com/search?q=Gracias+Irene) | N/A |
-| 36 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 37 | [Lori Meyers](http://twitter.com/search?q=Lori+Meyers) | N/A |
-| 38 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 39 | [Pedrerol](http://twitter.com/search?q=Pedrerol) | N/A |
-| 40 | [Floren](http://twitter.com/search?q=Floren) | N/A |
-| 41 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
-| 42 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 43 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 44 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 45 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 46 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 47 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 48 | [La Fiscalía](http://twitter.com/search?q=La+Fiscal%c3%ada) | N/A |
-| 49 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 50 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 6 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
+| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 8 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 9 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 10 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
+| 11 | [#SorteazoLowiS23](http://twitter.com/search?q=%23SorteazoLowiS23) | N/A |
+| 12 | [#LeyTrans](http://twitter.com/search?q=%23LeyTrans) | N/A |
+| 13 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 14 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 15 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 17 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 18 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
+| 19 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 20 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 21 | [#ConquistasFeministas](http://twitter.com/search?q=%23ConquistasFeministas) | N/A |
+| 22 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [Raquel Bollo](http://twitter.com/search?q=Raquel+Bollo) | N/A |
+| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 26 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 27 | [Jojos](http://twitter.com/search?q=Jojos) | N/A |
+| 28 | [Alarmante](http://twitter.com/search?q=Alarmante) | N/A |
+| 29 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 30 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 31 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 32 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 33 | [Ley del Deporte](http://twitter.com/search?q=Ley+del+Deporte) | N/A |
+| 34 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 35 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 36 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 37 | [Ley del Aborto](http://twitter.com/search?q=Ley+del+Aborto) | N/A |
+| 38 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
+| 39 | [Lori Meyers](http://twitter.com/search?q=Lori+Meyers) | N/A |
+| 40 | [Jueves Lardero](http://twitter.com/search?q=Jueves+Lardero) | N/A |
+| 41 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 42 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 43 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 44 | [Floren](http://twitter.com/search?q=Floren) | N/A |
+| 45 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
+| 46 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 47 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 48 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
+| 49 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 50 | [Opus](http://twitter.com/search?q=Opus) | N/A |
 
 
 

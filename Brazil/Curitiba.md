@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-16 17:16:24 UTC`
+📆 Last Updated: `2023-02-16 18:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 4 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
-| 5 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 6 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 7 | [Namu](http://twitter.com/search?q=Namu) | N/A |
-| 8 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 9 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 10 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 11 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 12 | [Running Out Of Time](http://twitter.com/search?q=Running+Out+Of+Time) | N/A |
-| 13 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 14 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 15 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 16 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 17 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 18 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 19 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 20 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 21 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 22 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 23 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
-| 24 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 25 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 26 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 27 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 28 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
-| 29 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 30 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
-| 31 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 32 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
-| 33 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
-| 34 | [Kill This Love](http://twitter.com/search?q=Kill+This+Love) | N/A |
-| 35 | [sofie](http://twitter.com/search?q=sofie) | N/A |
-| 36 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 37 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
-| 38 | [#ReadyToBe_Tracklist](http://twitter.com/search?q=%23ReadyToBe_Tracklist) | N/A |
-| 39 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
-| 40 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
-| 41 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 43 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
-| 44 | [PIBIC](http://twitter.com/search?q=PIBIC) | N/A |
-| 45 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 46 | [Surpresa](http://twitter.com/search?q=Surpresa) | N/A |
-| 47 | [Chico Rodrigues](http://twitter.com/search?q=Chico+Rodrigues) | N/A |
+| 2 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
+| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 6 | [#BunnyAI](http://twitter.com/search?q=%23BunnyAI) | N/A |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
+| 10 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
+| 11 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 12 | [#TBJU](http://twitter.com/search?q=%23TBJU) | N/A |
+| 13 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 14 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 15 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 16 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 17 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 18 | [Namu](http://twitter.com/search?q=Namu) | N/A |
+| 19 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 20 | [Running Out Of Time](http://twitter.com/search?q=Running+Out+Of+Time) | N/A |
+| 21 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 22 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 23 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 24 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 25 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 28 | [Arthur Sales](http://twitter.com/search?q=Arthur+Sales) | N/A |
+| 29 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 30 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 31 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 32 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 33 | [Rakan](http://twitter.com/search?q=Rakan) | N/A |
+| 34 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 35 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 36 | [Seraphine](http://twitter.com/search?q=Seraphine) | N/A |
+| 37 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 38 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 39 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 40 | [leblanc](http://twitter.com/search?q=leblanc) | N/A |
+| 41 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 42 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 43 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 44 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
+| 45 | [Pesquiso](http://twitter.com/search?q=Pesquiso) | N/A |
+| 46 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
+| 47 | [Giorno](http://twitter.com/search?q=Giorno) | N/A |
 
 
 

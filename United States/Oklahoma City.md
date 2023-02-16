@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-02-16 17:17:01 UTC`
+📆 Last Updated: `2023-02-16 18:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 2 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 4 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 5 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 8 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 9 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
-| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 13 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 14 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 15 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 16 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
-| 17 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 18 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 19 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 20 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
-| 21 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 22 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 23 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
-| 24 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
-| 25 | [HICKEY](http://twitter.com/search?q=HICKEY) | N/A |
-| 26 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 27 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
-| 28 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 29 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
-| 30 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 31 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 32 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
-| 33 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
-| 34 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
-| 35 | [Edgerrin James](http://twitter.com/search?q=Edgerrin+James) | N/A |
-| 36 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
-| 37 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
-| 38 | [Georgia 2020](http://twitter.com/search?q=Georgia+2020) | N/A |
-| 39 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 40 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
-| 41 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 42 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 43 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 44 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
-| 45 | [Taron Egerton](http://twitter.com/search?q=Taron+Egerton) | N/A |
-| 46 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 47 | [Emmitt Smith](http://twitter.com/search?q=Emmitt+Smith) | N/A |
-| 48 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
-| 49 | [Maurice Jones](http://twitter.com/search?q=Maurice+Jones) | N/A |
+| 1 | [#BunnyAI](http://twitter.com/search?q=%23BunnyAI) | N/A |
+| 2 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 3 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [#RSD23](http://twitter.com/search?q=%23RSD23) | N/A |
+| 7 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 11 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 12 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 16 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 17 | [Susan Wojcicki](http://twitter.com/search?q=Susan+Wojcicki) | N/A |
+| 18 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 19 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
+| 20 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 21 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 22 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 23 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 24 | [Barry Sanders](http://twitter.com/search?q=Barry+Sanders) | N/A |
+| 25 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
+| 26 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
+| 27 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 28 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 29 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 30 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
+| 31 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 32 | [The Bailey](http://twitter.com/search?q=The+Bailey) | N/A |
+| 33 | [Neal Mohan](http://twitter.com/search?q=Neal+Mohan) | N/A |
+| 34 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
+| 35 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
+| 36 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 37 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
+| 38 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 39 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 40 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 41 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
+| 42 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
+| 43 | [hickey](http://twitter.com/search?q=hickey) | N/A |
+| 44 | [Tony Dorsett](http://twitter.com/search?q=Tony+Dorsett) | N/A |
+| 45 | [Van Buren Township](http://twitter.com/search?q=Van+Buren+Township) | N/A |
+| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 47 | [John Riggins](http://twitter.com/search?q=John+Riggins) | N/A |
+| 48 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
 
 
 
