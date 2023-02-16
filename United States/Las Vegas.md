@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-02-16 08:17:26 UTC`
+📆 Last Updated: `2023-02-16 09:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 2 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 3 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 4 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 5 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 6 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 7 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 9 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 10 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 12 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 13 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 14 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 3 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
+| 4 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 5 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 6 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 7 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 8 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 9 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 10 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 12 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 13 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 14 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
 | 15 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
 | 16 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 17 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 18 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
+| 17 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
+| 18 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
 | 19 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 20 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 21 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 20 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 21 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
 | 22 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 23 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 24 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 26 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 27 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
-| 28 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 29 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 30 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 31 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 32 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 33 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 34 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
-| 35 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 36 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 37 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 38 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 39 | [Seider](http://twitter.com/search?q=Seider) | N/A |
-| 40 | [Husso](http://twitter.com/search?q=Husso) | N/A |
-| 41 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
-| 42 | [Manson](http://twitter.com/search?q=Manson) | N/A |
-| 43 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
-| 44 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 45 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 46 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 47 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 48 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
-| 49 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 23 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 24 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 25 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 27 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 28 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 29 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 30 | [Theatrhythm](http://twitter.com/search?q=Theatrhythm) | N/A |
+| 31 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 32 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 33 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 34 | [Manson](http://twitter.com/search?q=Manson) | N/A |
+| 35 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 36 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 37 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 38 | [Buie](http://twitter.com/search?q=Buie) | N/A |
+| 39 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
+| 40 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
+| 41 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 42 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
+| 43 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 44 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 45 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 46 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 47 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
+| 48 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 49 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
 
 
 

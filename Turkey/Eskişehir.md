@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-02-16 08:17:22 UTC`
+📆 Last Updated: `2023-02-16 09:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,47 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
 | 2 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
-| 3 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 4 | [ElonAmca Osurdu](http://twitter.com/search?q=ElonAmca+Osurdu) | N/A |
-| 5 | [#TurkiyeTekYuerek](http://twitter.com/search?q=%23TurkiyeTekYuerek) | N/A |
-| 6 | [Rockefeller](http://twitter.com/search?q=Rockefeller) | N/A |
-| 7 | [Rothschild](http://twitter.com/search?q=Rothschild) | N/A |
-| 8 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 9 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 10 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
-| 11 | [Ateş](http://twitter.com/search?q=Ate%c5%9f) | N/A |
-| 12 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 13 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
-| 14 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
-| 15 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
-| 16 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 17 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 18 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
-| 19 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
-| 20 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 21 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
-| 22 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
-| 23 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
-| 24 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
-| 25 | [Tansu](http://twitter.com/search?q=Tansu) | N/A |
-| 26 | [Dilan Polat](http://twitter.com/search?q=Dilan+Polat) | N/A |
-| 27 | [#camolukotomotiv](http://twitter.com/search?q=%23camolukotomotiv) | N/A |
-| 28 | [#ACUN](http://twitter.com/search?q=%23ACUN) | N/A |
-| 29 | [#MuratYildirim](http://twitter.com/search?q=%23MuratYildirim) | N/A |
-| 30 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
-| 31 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
-| 32 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 33 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
-| 34 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 3 | [#TekYuerek](http://twitter.com/search?q=%23TekYuerek) | N/A |
+| 4 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
+| 5 | [115 Milyar](http://twitter.com/search?q=115+Milyar) | N/A |
+| 6 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
+| 7 | [ElonAmca Osurdu](http://twitter.com/search?q=ElonAmca+Osurdu) | N/A |
+| 8 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 9 | [Rockefeller](http://twitter.com/search?q=Rockefeller) | N/A |
+| 10 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 11 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
+| 12 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
+| 13 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 14 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
+| 15 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
+| 16 | [Ateş](http://twitter.com/search?q=Ate%c5%9f) | N/A |
+| 17 | [Merkez Bankasının](http://twitter.com/search?q=Merkez+Bankas%c4%b1n%c4%b1n) | N/A |
+| 18 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
+| 19 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 20 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 21 | [İyilik](http://twitter.com/search?q=%c4%b0yilik) | N/A |
+| 22 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
+| 23 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
+| 24 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
+| 25 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
+| 26 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
+| 27 | [Gelir](http://twitter.com/search?q=Gelir) | N/A |
+| 28 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
+| 29 | [Tansu](http://twitter.com/search?q=Tansu) | N/A |
+| 30 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 31 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
+| 32 | [#MuratYildirim](http://twitter.com/search?q=%23MuratYildirim) | N/A |
+| 33 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 34 | [#ACUN](http://twitter.com/search?q=%23ACUN) | N/A |
 | 35 | [#HEKTS](http://twitter.com/search?q=%23HEKTS) | N/A |
-| 36 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 37 | [#StajyerTekYurek](http://twitter.com/search?q=%23StajyerTekYurek) | N/A |
-| 38 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 39 | [#didemarslan](http://twitter.com/search?q=%23didemarslan) | N/A |
+| 36 | [#camolukotomotiv](http://twitter.com/search?q=%23camolukotomotiv) | N/A |
+| 37 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
+| 38 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 39 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 40 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 41 | [#StajyerTekYurek](http://twitter.com/search?q=%23StajyerTekYurek) | N/A |
+| 42 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 43 | [#didemarslan](http://twitter.com/search?q=%23didemarslan) | N/A |
 
 
 

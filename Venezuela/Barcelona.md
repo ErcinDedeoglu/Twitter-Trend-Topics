@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-16 08:16:51 UTC`
+📆 Last Updated: `2023-02-16 09:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,17 +23,17 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
 | 7 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
 | 8 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 9 | [Congreso de Angostura](http://twitter.com/search?q=Congreso+de+Angostura) | N/A |
+| 9 | [congreso de angostura](http://twitter.com/search?q=congreso+de+angostura) | N/A |
 | 10 | [Dodge Dart](http://twitter.com/search?q=Dodge+Dart) | N/A |
-| 11 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
-| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 12 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
 | 13 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
 | 14 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
 | 15 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
 | 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
-| 18 | [Jesús María Casal](http://twitter.com/search?q=Jes%c3%bas+Mar%c3%ada+Casal) | N/A |
-| 19 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 17 | [Jesús María Casal](http://twitter.com/search?q=Jes%c3%bas+Mar%c3%ada+Casal) | N/A |
+| 18 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 19 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
 | 20 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
 | 21 | [Universidad de Carabobo](http://twitter.com/search?q=Universidad+de+Carabobo) | N/A |
 | 22 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
@@ -51,15 +51,15 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 34 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
 | 35 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
 | 36 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 37 | [Torrejas](http://twitter.com/search?q=Torrejas) | N/A |
+| 37 | [torrejas](http://twitter.com/search?q=torrejas) | N/A |
 | 38 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
 | 39 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
 | 40 | [Tomás Henríquez](http://twitter.com/search?q=Tom%c3%a1s+Henr%c3%adquez) | N/A |
 | 41 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 42 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 43 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 45 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 43 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 44 | [Rausseo](http://twitter.com/search?q=Rausseo) | N/A |
+| 45 | [Ministerio de Transporte](http://twitter.com/search?q=Ministerio+de+Transporte) | N/A |
 
 
 
