@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-16 18:17:17 UTC`
+📆 Last Updated: `2023-02-16 20:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FreyanoTanjoubi](http://twitter.com/search?q=%23FreyanoTanjoubi) | N/A |
-| 2 | [#KatarsisSeries](http://twitter.com/search?q=%23KatarsisSeries) | N/A |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 5 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 6 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 7 | [The 3rd Mini Album](http://twitter.com/search?q=The+3rd+Mini+Album) | N/A |
-| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 9 | [ENAK AJA MUNDUR](http://twitter.com/search?q=ENAK+AJA+MUNDUR) | N/A |
-| 10 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 11 | [Apriyani](http://twitter.com/search?q=Apriyani) | N/A |
-| 12 | [Ahmad Riyadh](http://twitter.com/search?q=Ahmad+Riyadh) | N/A |
-| 13 | [Bersih](http://twitter.com/search?q=Bersih) | N/A |
-| 14 | [Pevita Pearce](http://twitter.com/search?q=Pevita+Pearce) | N/A |
-| 15 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 16 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 17 | [Exco](http://twitter.com/search?q=Exco) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 19 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 20 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 22 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
-| 23 | [Hanan Attaki](http://twitter.com/search?q=Hanan+Attaki) | N/A |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 25 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
-| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 27 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 28 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 29 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 30 | [#OurPrincessChiquitaDay](http://twitter.com/search?q=%23OurPrincessChiquitaDay) | N/A |
-| 31 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
-| 32 | [#우리_소중한_막내_치키타_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%86%8c%ec%a4%91%ed%95%9c_%eb%a7%89%eb%82%b4_%ec%b9%98%ed%82%a4%ed%83%80_%eb%8d%b0%ec%9d%b4) | N/A |
-| 33 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
-| 34 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
-| 35 | [#ViscaBarca](http://twitter.com/search?q=%23ViscaBarca) | N/A |
-| 36 | [#PearlMoisturizer](http://twitter.com/search?q=%23PearlMoisturizer) | N/A |
-| 37 | [#our_cutepuppy_MAKI](http://twitter.com/search?q=%23our_cutepuppy_MAKI) | N/A |
-| 38 | [#まきわんおたおめ2023](http://twitter.com/search?q=%23%e3%81%be%e3%81%8d%e3%82%8f%e3%82%93%e3%81%8a%e3%81%9f%e3%81%8a%e3%82%812023) | N/A |
-| 39 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 40 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 41 | [#ZeePruk](http://twitter.com/search?q=%23ZeePruk) | N/A |
-| 42 | [#WONWOO](http://twitter.com/search?q=%23WONWOO) | N/A |
-| 43 | [#AllForYongheeDay](http://twitter.com/search?q=%23AllForYongheeDay) | N/A |
-| 44 | [#2월의_축복_용희](http://twitter.com/search?q=%232%ec%9b%94%ec%9d%98_%ec%b6%95%eb%b3%b5_%ec%9a%a9%ed%9d%ac) | N/A |
-| 45 | [#ReadyToBe_Tracklist](http://twitter.com/search?q=%23ReadyToBe_Tracklist) | N/A |
-| 46 | [#MemoriesWithBuild](http://twitter.com/search?q=%23MemoriesWithBuild) | N/A |
-| 47 | [#SCOUPS](http://twitter.com/search?q=%23SCOUPS) | N/A |
-| 48 | [#MINGYU](http://twitter.com/search?q=%23MINGYU) | N/A |
+| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 2 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 3 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 4 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 5 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 6 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 9 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
+| 10 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 11 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 12 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 14 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 16 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 17 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 18 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 22 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 23 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 24 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 29 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 30 | [The 3rd Mini Album](http://twitter.com/search?q=The+3rd+Mini+Album) | N/A |
+| 31 | [Bersih](http://twitter.com/search?q=Bersih) | N/A |
+| 32 | [Ahmad Riyadh](http://twitter.com/search?q=Ahmad+Riyadh) | N/A |
+| 33 | [Apriyani](http://twitter.com/search?q=Apriyani) | N/A |
+| 34 | [Hanan Attaki](http://twitter.com/search?q=Hanan+Attaki) | N/A |
+| 35 | [Exco](http://twitter.com/search?q=Exco) | N/A |
+| 36 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
+| 37 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
+| 38 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
+| 39 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
+| 40 | [#OurPrincessChiquitaDay](http://twitter.com/search?q=%23OurPrincessChiquitaDay) | N/A |
+| 41 | [#우리_소중한_막내_치키타_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%86%8c%ec%a4%91%ed%95%9c_%eb%a7%89%eb%82%b4_%ec%b9%98%ed%82%a4%ed%83%80_%eb%8d%b0%ec%9d%b4) | N/A |
+| 42 | [#PearlMoisturizer](http://twitter.com/search?q=%23PearlMoisturizer) | N/A |
+| 43 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
+| 44 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 45 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 46 | [#ZeePruk](http://twitter.com/search?q=%23ZeePruk) | N/A |
+| 47 | [#Sefleksibelitu](http://twitter.com/search?q=%23Sefleksibelitu) | N/A |
+| 48 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
 
 
 

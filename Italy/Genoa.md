@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-16 18:17:11 UTC`
+📆 Last Updated: `2023-02-16 20:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,49 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#16febbraio](http://twitter.com/search?q=%2316febbraio) | N/A |
-| 2 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 3 | [#RubyTer](http://twitter.com/search?q=%23RubyTer) | N/A |
-| 4 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 5 | [buon san valentino](http://twitter.com/search?q=buon+san+valentino) | N/A |
-| 6 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 7 | [Alberto Radius](http://twitter.com/search?q=Alberto+Radius) | N/A |
-| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 9 | [Assolto](http://twitter.com/search?q=Assolto) | N/A |
-| 10 | [Caso Cospito](http://twitter.com/search?q=Caso+Cospito) | N/A |
-| 11 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 12 | [Imperia](http://twitter.com/search?q=Imperia) | N/A |
-| 13 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 14 | [Angelo Zen](http://twitter.com/search?q=Angelo+Zen) | N/A |
-| 15 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
-| 16 | [Olgettine](http://twitter.com/search?q=Olgettine) | N/A |
-| 17 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 18 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 19 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
-| 20 | [Croazia](http://twitter.com/search?q=Croazia) | N/A |
-| 21 | [Capace](http://twitter.com/search?q=Capace) | N/A |
-| 22 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 23 | [Emilio Fede](http://twitter.com/search?q=Emilio+Fede) | N/A |
-| 24 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 25 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 26 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 27 | [Formula 3](http://twitter.com/search?q=Formula+3) | N/A |
-| 28 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 29 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 30 | [Amare](http://twitter.com/search?q=Amare) | N/A |
-| 31 | [Baglioni](http://twitter.com/search?q=Baglioni) | N/A |
-| 32 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 33 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 34 | [NOTIZIA DEL GIORNO](http://twitter.com/search?q=NOTIZIA+DEL+GIORNO) | N/A |
-| 35 | [Faraone](http://twitter.com/search?q=Faraone) | N/A |
-| 36 | [Gedi](http://twitter.com/search?q=Gedi) | N/A |
-| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 38 | [Andromeda](http://twitter.com/search?q=Andromeda) | N/A |
-| 39 | [Arcore](http://twitter.com/search?q=Arcore) | N/A |
-| 40 | [Bernini](http://twitter.com/search?q=Bernini) | N/A |
-| 41 | [Toninelli](http://twitter.com/search?q=Toninelli) | N/A |
-| 42 | [Glicine](http://twitter.com/search?q=Glicine) | N/A |
-| 43 | [Silvio Berlusconi](http://twitter.com/search?q=Silvio+Berlusconi) | N/A |
-| 44 | [buon giovedì](http://twitter.com/search?q=buon+gioved%c3%ac) | N/A |
-| 45 | [Lele Mora](http://twitter.com/search?q=Lele+Mora) | N/A |
-| 46 | [Fai Rumore](http://twitter.com/search?q=Fai+Rumore) | N/A |
-| 47 | [Commissione](http://twitter.com/search?q=Commissione) | N/A |
-| 48 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 1 | [#SalisburgoRoma](http://twitter.com/search?q=%23SalisburgoRoma) | N/A |
+| 2 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 3 | [#JuveNantes](http://twitter.com/search?q=%23JuveNantes) | N/A |
+| 4 | [#BragaFiorentina](http://twitter.com/search?q=%23BragaFiorentina) | N/A |
+| 5 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 6 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 7 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 8 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 9 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 10 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 11 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 12 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 13 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 15 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 16 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 17 | [Succede](http://twitter.com/search?q=Succede) | N/A |
+| 18 | [De Siervo](http://twitter.com/search?q=De+Siervo) | N/A |
+| 19 | [Procura](http://twitter.com/search?q=Procura) | N/A |
+| 20 | [Giustizia](http://twitter.com/search?q=Giustizia) | N/A |
+| 21 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
+| 22 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 23 | [#Tsitsipas](http://twitter.com/search?q=%23Tsitsipas) | N/A |
+| 24 | [#SalzburgRoma](http://twitter.com/search?q=%23SalzburgRoma) | N/A |
+| 25 | [#atprotterdam](http://twitter.com/search?q=%23atprotterdam) | N/A |
+| 26 | [#indirettaconjess](http://twitter.com/search?q=%23indirettaconjess) | N/A |
+| 27 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 28 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 29 | [#ItaliaBelgio](http://twitter.com/search?q=%23ItaliaBelgio) | N/A |
+| 30 | [#Delmastro](http://twitter.com/search?q=%23Delmastro) | N/A |
+| 31 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
+| 32 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 33 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 34 | [#LazioCluj](http://twitter.com/search?q=%23LazioCluj) | N/A |
+| 35 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 36 | [#Berlusconiassolto](http://twitter.com/search?q=%23Berlusconiassolto) | N/A |
+| 37 | [#16febbraio](http://twitter.com/search?q=%2316febbraio) | N/A |
+| 38 | [#MilluminodiMeno](http://twitter.com/search?q=%23MilluminodiMeno) | N/A |
+| 39 | [#AlbertoRadius](http://twitter.com/search?q=%23AlbertoRadius) | N/A |
+| 40 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 41 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 42 | [#LBAF82023](http://twitter.com/search?q=%23LBAF82023) | N/A |
+| 43 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
 
 
 

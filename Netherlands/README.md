@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-16 18:17:58 UTC`
+📆 Last Updated: `2023-02-16 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
-| 2 | [#ajauni](http://twitter.com/search?q=%23ajauni) | N/A |
-| 3 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
-| 4 | [#Giro555](http://twitter.com/search?q=%23Giro555) | N/A |
-| 5 | [#ajaube](http://twitter.com/search?q=%23ajaube) | N/A |
-| 6 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 7 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 8 | [Jolanda](http://twitter.com/search?q=Jolanda) | N/A |
-| 9 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 10 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 11 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
-| 12 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 14 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
-| 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 16 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 17 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 18 | [napel](http://twitter.com/search?q=napel) | N/A |
-| 19 | [Evert](http://twitter.com/search?q=Evert) | N/A |
-| 20 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 21 | [Tonnie](http://twitter.com/search?q=Tonnie) | N/A |
-| 22 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 23 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
-| 24 | [Old Amsterdam](http://twitter.com/search?q=Old+Amsterdam) | N/A |
-| 25 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 26 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 27 | [FvD'er](http://twitter.com/search?q=FvD%27er) | N/A |
-| 28 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 29 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 30 | [Dag 16](http://twitter.com/search?q=Dag+16) | N/A |
-| 31 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 32 | [Budel](http://twitter.com/search?q=Budel) | N/A |
-| 33 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
-| 34 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 35 | [Marinus](http://twitter.com/search?q=Marinus) | N/A |
-| 36 | [Daktari](http://twitter.com/search?q=Daktari) | N/A |
-| 37 | [Extreem](http://twitter.com/search?q=Extreem) | N/A |
-| 38 | [van lienden](http://twitter.com/search?q=van+lienden) | N/A |
-| 39 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 40 | [Haïti](http://twitter.com/search?q=Ha%c3%afti) | N/A |
-| 41 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 42 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
-| 43 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 44 | [Yasser](http://twitter.com/search?q=Yasser) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [elzelien](http://twitter.com/search?q=elzelien) | N/A |
-| 47 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 48 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 49 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 50 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 1 | [#ajauni](http://twitter.com/search?q=%23ajauni) | N/A |
+| 2 | [#ajaube](http://twitter.com/search?q=%23ajaube) | N/A |
+| 3 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
+| 4 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 5 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
+| 6 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 7 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 8 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 9 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 10 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 11 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 12 | [Jolanda](http://twitter.com/search?q=Jolanda) | N/A |
+| 13 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 16 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 18 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 19 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 21 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 23 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 24 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 25 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 26 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
+| 27 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 30 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 31 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
+| 32 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 33 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 35 | [Tessa](http://twitter.com/search?q=Tessa) | Tessa is a female given name of Greek origin, derived from the word "Τέσσα", meaning "harvest". It is also a variant of the name Theresa. |
+| 36 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 38 | [Old Amsterdam](http://twitter.com/search?q=Old+Amsterdam) | N/A |
+| 39 | [Tonnie](http://twitter.com/search?q=Tonnie) | N/A |
+| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 41 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
+| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 43 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
+| 44 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 45 | [Spanje](http://twitter.com/search?q=Spanje) | N/A |
+| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 47 | [FvD'er](http://twitter.com/search?q=FvD%27er) | N/A |
+| 48 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 49 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 50 | [Dag 16](http://twitter.com/search?q=Dag+16) | N/A |
 
 
 

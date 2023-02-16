@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-16 18:17:15 UTC`
+📆 Last Updated: `2023-02-16 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 2 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 3 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
-| 4 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
-| 5 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 6 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 7 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 8 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Rema 1000](http://twitter.com/search?q=Rema+1000) | N/A |
-| 11 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 12 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | N/A |
-| 13 | [NATOs](http://twitter.com/search?q=NATOs) | N/A |
-| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 15 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 16 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 17 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 20 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 21 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
-| 24 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 25 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 29 | [LIVET](http://twitter.com/search?q=LIVET) | N/A |
-| 30 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
-| 31 | [Bodø](http://twitter.com/search?q=Bod%c3%b8) | N/A |
-| 32 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 33 | [#ESNsykkel](http://twitter.com/search?q=%23ESNsykkel) | N/A |
-| 34 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 36 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 37 | [Liker](http://twitter.com/search?q=Liker) | N/A |
-| 38 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 39 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 40 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 1 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 2 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 4 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 5 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
+| 6 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 8 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
+| 9 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 10 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | N/A |
+| 17 | [Rema 1000](http://twitter.com/search?q=Rema+1000) | N/A |
+| 18 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 19 | [NATOs](http://twitter.com/search?q=NATOs) | N/A |
+| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 23 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 26 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 27 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 28 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 29 | [livet](http://twitter.com/search?q=livet) | N/A |
+| 30 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
+| 31 | [Zelenskyj](http://twitter.com/search?q=Zelenskyj) | N/A |
+| 32 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
+| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 34 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 35 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 36 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 37 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 38 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 39 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 40 | [Liker](http://twitter.com/search?q=Liker) | N/A |
 | 41 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 42 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 43 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 44 | [Mener](http://twitter.com/search?q=Mener) | N/A |
-| 45 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 46 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
-| 47 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 42 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 43 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 44 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 45 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 46 | [Bodø](http://twitter.com/search?q=Bod%c3%b8) | N/A |
+| 47 | [Mener](http://twitter.com/search?q=Mener) | N/A |
 | 48 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
-| 49 | [Nettopp](http://twitter.com/search?q=Nettopp) | N/A |
-| 50 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 49 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 50 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 
 
 

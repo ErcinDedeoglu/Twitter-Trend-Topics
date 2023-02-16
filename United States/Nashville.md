@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-16 18:17:47 UTC`
+📆 Last Updated: `2023-02-16 20:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 2 | [#BunnyAI](http://twitter.com/search?q=%23BunnyAI) | N/A |
+| 1 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 3 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 4 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 5 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | [#RSD23](http://twitter.com/search?q=%23RSD23) | N/A |
-| 8 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 11 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 12 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 13 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 16 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
-| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 18 | [Susan Wojcicki](http://twitter.com/search?q=Susan+Wojcicki) | N/A |
-| 19 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 20 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 21 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
-| 22 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 23 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 24 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 25 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 26 | [Marshall Faulk](http://twitter.com/search?q=Marshall+Faulk) | N/A |
-| 27 | [Clinton Portis](http://twitter.com/search?q=Clinton+Portis) | N/A |
-| 28 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 29 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 30 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 31 | [Shaun Alexander](http://twitter.com/search?q=Shaun+Alexander) | N/A |
-| 32 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 33 | [The Bailey](http://twitter.com/search?q=The+Bailey) | N/A |
-| 34 | [Neal Mohan](http://twitter.com/search?q=Neal+Mohan) | N/A |
-| 35 | [Jerome Bettis](http://twitter.com/search?q=Jerome+Bettis) | N/A |
-| 36 | [Curtis Martin](http://twitter.com/search?q=Curtis+Martin) | N/A |
-| 37 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
-| 38 | [Warrick Dunn](http://twitter.com/search?q=Warrick+Dunn) | N/A |
-| 39 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
-| 40 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
-| 41 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 42 | [Corey Dillon](http://twitter.com/search?q=Corey+Dillon) | N/A |
-| 43 | [Thurman Thomas](http://twitter.com/search?q=Thurman+Thomas) | N/A |
-| 44 | [hickey](http://twitter.com/search?q=hickey) | N/A |
-| 45 | [Tony Dorsett](http://twitter.com/search?q=Tony+Dorsett) | N/A |
-| 46 | [Van Buren Township](http://twitter.com/search?q=Van+Buren+Township) | N/A |
-| 47 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 48 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
-| 49 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 50 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 4 | [#CryptoAI](http://twitter.com/search?q=%23CryptoAI) | N/A |
+| 5 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 6 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 9 | [Senator Fetterman](http://twitter.com/search?q=Senator+Fetterman) | N/A |
+| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 11 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 14 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 15 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 18 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 20 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
+| 21 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 22 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 23 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 24 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 25 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 27 | [#RSD23](http://twitter.com/search?q=%23RSD23) | N/A |
+| 28 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 29 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 31 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 32 | [NHTSA](http://twitter.com/search?q=NHTSA) | N/A |
+| 33 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 34 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 35 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 36 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 38 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 39 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 41 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 42 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 43 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 44 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
+| 45 | [Barry Sanders](http://twitter.com/search?q=Barry+Sanders) | N/A |
+| 46 | [Full Self-Driving](http://twitter.com/search?q=Full+Self-Driving) | N/A |
+| 47 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 48 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 
 
 

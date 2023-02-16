@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-16 18:17:55 UTC`
+📆 Last Updated: `2023-02-16 20:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Karneval](http://twitter.com/search?q=%23Karneval) | N/A |
-| 2 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 3 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
-| 4 | [#Weiberfastnacht](http://twitter.com/search?q=%23Weiberfastnacht) | N/A |
-| 5 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
-| 6 | [#alaaf](http://twitter.com/search?q=%23alaaf) | N/A |
-| 7 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 8 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 12 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 13 | [Anja](http://twitter.com/search?q=Anja) | N/A |
-| 14 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 17 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 18 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
-| 19 | [Dagmar](http://twitter.com/search?q=Dagmar) | N/A |
-| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 21 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
-| 22 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 23 | [Robin Hood](http://twitter.com/search?q=Robin+Hood) | N/A |
-| 24 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 25 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 26 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 27 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 28 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 29 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 31 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 32 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 33 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 34 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 35 | [mobilitätsexpertin](http://twitter.com/search?q=mobilit%c3%a4tsexpertin) | N/A |
-| 36 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 37 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
-| 38 | [Zweiräder](http://twitter.com/search?q=Zweir%c3%a4der) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 41 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 42 | [Umweltgesetze](http://twitter.com/search?q=Umweltgesetze) | N/A |
-| 43 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 44 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 45 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 46 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 47 | [Juristin](http://twitter.com/search?q=Juristin) | N/A |
-| 48 | [Klöckner](http://twitter.com/search?q=Kl%c3%b6ckner) | N/A |
-| 49 | [MODESTE](http://twitter.com/search?q=MODESTE) | N/A |
-| 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 2 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 3 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 4 | [#B04ASM](http://twitter.com/search?q=%23B04ASM) | N/A |
+| 5 | [#Karneval](http://twitter.com/search?q=%23Karneval) | N/A |
+| 6 | [#Lobinger](http://twitter.com/search?q=%23Lobinger) | N/A |
+| 7 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 8 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 11 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 12 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 13 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 14 | [Intro](http://twitter.com/search?q=Intro) | N/A |
+| 15 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 16 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 17 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 18 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 19 | [Kandidatinnen](http://twitter.com/search?q=Kandidatinnen) | N/A |
+| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 21 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 23 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 27 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 28 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 29 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 30 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
+| 31 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 32 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 33 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
+| 34 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 35 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 36 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 37 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 38 | [Anja](http://twitter.com/search?q=Anja) | N/A |
+| 39 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 40 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 41 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 42 | [Topmodel](http://twitter.com/search?q=Topmodel) | N/A |
+| 43 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 44 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 45 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 46 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 47 | [Zweiräder](http://twitter.com/search?q=Zweir%c3%a4der) | N/A |
+| 48 | [Juristin](http://twitter.com/search?q=Juristin) | N/A |
+| 49 | [Tehran](http://twitter.com/search?q=Tehran) | N/A |
+| 50 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
 
 
 
