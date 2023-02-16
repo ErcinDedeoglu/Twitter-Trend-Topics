@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-16 12:19:34 UTC`
+📆 Last Updated: `2023-02-16 13:23:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Pakistan
 | 1 | [#PetrolDieselPrice](http://twitter.com/search?q=%23PetrolDieselPrice) | #PetrolDieselPrice is a hashtag used on social media to discuss the current prices of petrol and diesel fuel. It is used to share information about fuel prices, ask questions about fuel prices, and discuss the impact of fuel prices on people's lives. |
 | 2 | [#مہنگائی_کاکہرام_مظلوم_عوام](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%da%a9%d8%a7%da%a9%db%81%d8%b1%d8%a7%d9%85_%d9%85%d8%b8%d9%84%d9%88%d9%85_%d8%b9%d9%88%d8%a7%d9%85) | N/A |
 | 3 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
-| 4 | [#arrestimranforimfdeal](http://twitter.com/search?q=%23arrestimranforimfdeal) | N/A |
-| 5 | [#arrestimranforimfdeal](http://twitter.com/search?q=%23arrestimranforimfdeal) | N/A |
+| 4 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 5 | [#مرضی_کے_جج_مرضی_کے_فیصلے](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b6%db%8c_%da%a9%db%92_%d8%ac%d8%ac_%d9%85%d8%b1%d8%b6%db%8c_%da%a9%db%92_%d9%81%db%8c%d8%b5%d9%84%db%92) | N/A |
 | 6 | [Deception is NOT](http://twitter.com/search?q=Deception+is+NOT) | N/A |
 | 7 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
 | 8 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
-| 9 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 10 | [Vasilisa Marinchuk](http://twitter.com/search?q=Vasilisa+Marinchuk) | N/A |
-| 11 | [Neil Ford](http://twitter.com/search?q=Neil+Ford) | N/A |
-| 12 | [director of growth](http://twitter.com/search?q=director+of+growth) | N/A |
-| 13 | [Qadianis](http://twitter.com/search?q=Qadianis) | N/A |
-| 14 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
-| 15 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
-| 16 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
-| 17 | [usman yousuf](http://twitter.com/search?q=usman+yousuf) | N/A |
-| 18 | [Rs 16](http://twitter.com/search?q=Rs+16) | N/A |
-| 19 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [big dog mining](http://twitter.com/search?q=big+dog+mining) | N/A |
-| 22 | [GDP Growth](http://twitter.com/search?q=GDP+Growth) | N/A |
-| 23 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 24 | [New Taxes](http://twitter.com/search?q=New+Taxes) | N/A |
-| 25 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 26 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 27 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 28 | [disruptive technologies](http://twitter.com/search?q=disruptive+technologies) | N/A |
-| 29 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 30 | [Rs 170B](http://twitter.com/search?q=Rs+170B) | N/A |
-| 31 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 9 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
+| 10 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
+| 11 | [director of growth](http://twitter.com/search?q=director+of+growth) | N/A |
+| 12 | [rs 272](http://twitter.com/search?q=rs+272) | N/A |
+| 13 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
+| 14 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
+| 15 | [usman yousuf](http://twitter.com/search?q=usman+yousuf) | N/A |
+| 16 | [Rs 16](http://twitter.com/search?q=Rs+16) | N/A |
+| 17 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
+| 18 | [Qadianis](http://twitter.com/search?q=Qadianis) | N/A |
+| 19 | [big dog mining](http://twitter.com/search?q=big+dog+mining) | N/A |
+| 20 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 21 | [New Taxes](http://twitter.com/search?q=New+Taxes) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [GDP Growth](http://twitter.com/search?q=GDP+Growth) | N/A |
+| 24 | [Shaddy](http://twitter.com/search?q=Shaddy) | N/A |
+| 25 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 26 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 27 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 28 | [Rs 170B](http://twitter.com/search?q=Rs+170B) | N/A |
+| 29 | [disruptive technologies](http://twitter.com/search?q=disruptive+technologies) | N/A |
+| 30 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 31 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
 | 32 | [Jaffar Express](http://twitter.com/search?q=Jaffar+Express) | N/A |
-| 33 | [Saeed Mohammed AlHebsi](http://twitter.com/search?q=Saeed+Mohammed+AlHebsi) | N/A |
-| 34 | [Washroom](http://twitter.com/search?q=Washroom) | N/A |
+| 33 | [saeed mohammed alhebsi](http://twitter.com/search?q=saeed+mohammed+alhebsi) | N/A |
+| 34 | [washroom](http://twitter.com/search?q=washroom) | N/A |
 | 35 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 36 | [Rs 130](http://twitter.com/search?q=Rs+130) | N/A |
-| 37 | [Rs 266](http://twitter.com/search?q=Rs+266) | N/A |
-| 38 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 39 | [Imam Musa Kazim](http://twitter.com/search?q=Imam+Musa+Kazim) | N/A |
+| 36 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
+| 37 | [Rs 130](http://twitter.com/search?q=Rs+130) | N/A |
+| 38 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 39 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
 | 40 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 41 | [lowest in 9](http://twitter.com/search?q=lowest+in+9) | N/A |
-| 42 | [Highest in 50](http://twitter.com/search?q=Highest+in+50) | N/A |
-| 43 | [6th edition](http://twitter.com/search?q=6th+edition) | N/A |
-| 44 | [shamshad akhtar](http://twitter.com/search?q=shamshad+akhtar) | N/A |
+| 41 | [Lowest in 9](http://twitter.com/search?q=Lowest+in+9) | N/A |
+| 42 | [shamshad akhtar](http://twitter.com/search?q=shamshad+akhtar) | N/A |
+| 43 | [Highest in 50](http://twitter.com/search?q=Highest+in+50) | N/A |
+| 44 | [Rs 266](http://twitter.com/search?q=Rs+266) | N/A |
 | 45 | [President](http://twitter.com/search?q=President) | N/A |
-| 46 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 47 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 48 | [Bathroom](http://twitter.com/search?q=Bathroom) | N/A |
-| 49 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 50 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 46 | [Rs 579](http://twitter.com/search?q=Rs+579) | N/A |
+| 47 | [Bathroom](http://twitter.com/search?q=Bathroom) | N/A |
+| 48 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
+| 49 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 50 | [Dono](http://twitter.com/search?q=Dono) | N/A |
 
 
 

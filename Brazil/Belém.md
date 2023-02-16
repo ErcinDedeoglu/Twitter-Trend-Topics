@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-16 12:18:37 UTC`
+📆 Last Updated: `2023-02-16 13:22:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 4 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 5 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 6 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [#loudwin](http://twitter.com/search?q=%23loudwin) | N/A |
-| 9 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 10 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 11 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 12 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 13 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 14 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 15 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 16 | [#casadachampions](http://twitter.com/search?q=%23casadachampions) | N/A |
-| 17 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
-| 18 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 21 | [Pablo Maia](http://twitter.com/search?q=Pablo+Maia) | Pablo Maia is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "humble little one". |
-| 22 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 23 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
-| 24 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
-| 25 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 26 | [sofie](http://twitter.com/search?q=sofie) | N/A |
-| 27 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 28 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 29 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 30 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 31 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 34 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 35 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 36 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 37 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 38 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 39 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 40 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 43 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 44 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 45 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 46 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
-| 47 | [Quaquá](http://twitter.com/search?q=Quaqu%c3%a1) | N/A |
-| 48 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
-| 49 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 50 | [Homem Formiga](http://twitter.com/search?q=Homem+Formiga) | N/A |
+| 1 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
+| 2 | [REMO](http://twitter.com/search?q=REMO) | N/A |
+| 3 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
+| 4 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
+| 5 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 6 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 7 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
+| 8 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 9 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 10 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 11 | [LEXA NO ENCONTRO](http://twitter.com/search?q=LEXA+NO+ENCONTRO) | N/A |
+| 12 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 13 | [sofie](http://twitter.com/search?q=sofie) | N/A |
+| 14 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 15 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 16 | [Davi R](http://twitter.com/search?q=Davi+R) | N/A |
+| 17 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 18 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
+| 19 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
+| 20 | [#BorutoCh78spoilers](http://twitter.com/search?q=%23BorutoCh78spoilers) | N/A |
+| 21 | [Braiscompany](http://twitter.com/search?q=Braiscompany) | N/A |
+| 22 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
+| 23 | [Popularidade](http://twitter.com/search?q=Popularidade) | N/A |
+| 24 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 25 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 26 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 27 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 28 | [Corinthians x Palmeiras](http://twitter.com/search?q=Corinthians+x+Palmeiras) | N/A |
+| 29 | [Fazer o L](http://twitter.com/search?q=Fazer+o+L) | N/A |
+| 30 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 31 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 32 | [#ReajusteJa](http://twitter.com/search?q=%23ReajusteJa) | N/A |
+| 33 | [Repórter](http://twitter.com/search?q=Rep%c3%b3rter) | N/A |
+| 34 | [Carluxo](http://twitter.com/search?q=Carluxo) | N/A |
+| 35 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
+| 36 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 37 | [aespa](http://twitter.com/search?q=aespa) | N/A |
+| 38 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [Cláudia Raia](http://twitter.com/search?q=Cl%c3%a1udia+Raia) | N/A |
+| 41 | [Aumento](http://twitter.com/search?q=Aumento) | N/A |
+| 42 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 43 | [emílio](http://twitter.com/search?q=em%c3%adlio) | N/A |
+| 44 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
+| 45 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 46 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 47 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 48 | [Lulinha](http://twitter.com/search?q=Lulinha) | Lulinha is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. The name is derived from his first name, Luiz, and the suffix -inha, which is a diminutive form in Portuguese. In English, it can be translated to mean "Little Lula". |
+| 49 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 50 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
 
 
 

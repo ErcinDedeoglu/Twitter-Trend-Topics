@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-02-16 12:19:06 UTC`
+📆 Last Updated: `2023-02-16 13:22:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 2 | [#سيف_بن_زايد](http://twitter.com/search?q=%23%d8%b3%d9%8a%d9%81_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 2 | [سيف بن زايد](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 5 | [#مہنگائی_کاکہرام_مظلوم_عوام](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%da%a9%d8%a7%da%a9%db%81%d8%b1%d8%a7%d9%85_%d9%85%d8%b8%d9%84%d9%88%d9%85_%d8%b9%d9%88%d8%a7%d9%85) | N/A |
-| 6 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
-| 7 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 8 | [#القمه_العالميه_للحكومات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%85%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87_%d9%84%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a7%d8%aa) | N/A |
-| 9 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 10 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
+| 4 | [#مہنگائی_کاکہرام_مظلوم_عوام](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%da%a9%d8%a7%da%a9%db%81%d8%b1%d8%a7%d9%85_%d9%85%d8%b8%d9%84%d9%88%d9%85_%d8%b9%d9%88%d8%a7%d9%85) | N/A |
+| 5 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
+| 6 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 7 | [#القمه_العالميه_للحكومات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%85%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87_%d9%84%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a7%d8%aa) | N/A |
+| 8 | [#نلبس_اصفر](http://twitter.com/search?q=%23%d9%86%d9%84%d8%a8%d8%b3_%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
+| 9 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
+| 10 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 11 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 12 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 13 | [يوسف سيف](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b3%d9%8a%d9%81) | N/A |
-| 14 | [نادي الوصل](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b5%d9%84) | N/A |
-| 15 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 12 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 13 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 14 | [يوسف سيف](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b3%d9%8a%d9%81) | N/A |
+| 15 | [الاسره السويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d9%87) | N/A |
 | 16 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
-| 17 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 18 | [الاسره السويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d9%87) | N/A |
+| 17 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 18 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 20 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 21 | [التوجهات الاستراتيجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d9%87) | N/A |
-| 22 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 24 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 26 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 27 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 28 | [ولي عهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%b9%d9%87%d8%af) | N/A |
-| 29 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 31 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 32 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 21 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 23 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 25 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 26 | [المساعدات الاغاثيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ba%d8%a7%d8%ab%d9%8a%d9%87) | N/A |
+| 27 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 28 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 29 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 30 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 31 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 32 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
 | 33 | [ميناء الحديده](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%87) | N/A |
 | 34 | [غابرييل](http://twitter.com/search?q=%d8%ba%d8%a7%d8%a8%d8%b1%d9%8a%d9%8a%d9%84) | N/A |
 | 35 | [الجذور الراسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b0%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d8%ae%d9%87) | N/A |
-| 36 | [جامعه الشارقه](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
-| 37 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 38 | [محمد بن حمد الشرقي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a) | N/A |
-| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 40 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 41 | [تجمع العالم](http://twitter.com/search?q=%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 43 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 44 | [العلاقات الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 45 | [وزير الخارجيه الاردني](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 46 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 47 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [السمو الشيوخ](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d9%88%d8%ae) | N/A |
-| 49 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
-| 50 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 36 | [ولي عهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%b9%d9%87%d8%af) | N/A |
+| 37 | [جامعه الشارقه](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 38 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 39 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 40 | [محمد بن حمد الشرقي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a) | N/A |
+| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 42 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 43 | [السمو الشيوخ](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d9%88%d8%ae) | N/A |
+| 44 | [تجمع العالم](http://twitter.com/search?q=%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 45 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 46 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 47 | [العلاقات الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 48 | [وزير الخارجيه الاردني](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 49 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 50 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
 
 
 

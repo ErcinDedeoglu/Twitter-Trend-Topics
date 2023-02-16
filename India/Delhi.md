@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-16 12:19:27 UTC`
+📆 Last Updated: `2023-02-16 13:23:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 2 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 3 | [#संतरामपालजी_बोधदिवस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80_%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 4 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 5 | [#PrithviShaw](http://twitter.com/search?q=%23PrithviShaw) | N/A |
-| 6 | [#LostOnZee5](http://twitter.com/search?q=%23LostOnZee5) | N/A |
-| 7 | [Yami Gautam](http://twitter.com/search?q=Yami+Gautam) | N/A |
-| 8 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
-| 9 | [PATHAAN DAY IN CINEMAS](http://twitter.com/search?q=PATHAAN+DAY+IN+CINEMAS) | N/A |
-| 10 | [#iQOONeo7](http://twitter.com/search?q=%23iQOONeo7) | N/A |
-| 11 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
-| 12 | [Tulsidas Balaram](http://twitter.com/search?q=Tulsidas+Balaram) | N/A |
-| 13 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
+| 1 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 2 | [#SwaraBhasker](http://twitter.com/search?q=%23SwaraBhasker) | N/A |
+| 3 | [#PrithviShaw](http://twitter.com/search?q=%23PrithviShaw) | N/A |
+| 4 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
+| 5 | [#HBDPrinceSK](http://twitter.com/search?q=%23HBDPrinceSK) | N/A |
+| 6 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
+| 7 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 8 | [Yami Gautam](http://twitter.com/search?q=Yami+Gautam) | N/A |
+| 9 | [#FahadAhmad](http://twitter.com/search?q=%23FahadAhmad) | N/A |
+| 10 | [फहद अहमद](http://twitter.com/search?q=%e0%a4%ab%e0%a4%b9%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 11 | [शादी मुबारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 12 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
+| 13 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
 | 14 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 15 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
-| 16 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
-| 17 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
-| 18 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 19 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
-| 20 | [Swadeshi App EaseMyTrip](http://twitter.com/search?q=Swadeshi+App+EaseMyTrip) | N/A |
-| 21 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 22 | [तात्या टोपे](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a5%87) | N/A |
-| 23 | [Root](http://twitter.com/search?q=Root) | N/A |
-| 24 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 25 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 15 | [PATHAAN DAY IN CINEMAS](http://twitter.com/search?q=PATHAAN+DAY+IN+CINEMAS) | N/A |
+| 16 | [Tulsidas Balaram](http://twitter.com/search?q=Tulsidas+Balaram) | N/A |
+| 17 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 18 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 19 | [North](http://twitter.com/search?q=North) | N/A |
+| 20 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
+| 21 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 22 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
+| 23 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
+| 24 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 26 | [England](http://twitter.com/search?q=England) | N/A |
-| 27 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 28 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 29 | [#PowerToWin](http://twitter.com/search?q=%23PowerToWin) | N/A |
-| 30 | [#AadiMahotsav2023](http://twitter.com/search?q=%23AadiMahotsav2023) | N/A |
-| 31 | [#AmazonSpecials](http://twitter.com/search?q=%23AmazonSpecials) | N/A |
-| 32 | [#PyaarLonaPaagal](http://twitter.com/search?q=%23PyaarLonaPaagal) | N/A |
-| 33 | [#Ravanasura](http://twitter.com/search?q=%23Ravanasura) | N/A |
-| 34 | [#Custody](http://twitter.com/search?q=%23Custody) | N/A |
-| 35 | [#Tiger](http://twitter.com/search?q=%23Tiger) | N/A |
-| 36 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 37 | [#HappyBirthdayKCR](http://twitter.com/search?q=%23HappyBirthdayKCR) | N/A |
-| 38 | [#SachinTendulkar](http://twitter.com/search?q=%23SachinTendulkar) | N/A |
-| 39 | [#cricketer](http://twitter.com/search?q=%23cricketer) | N/A |
-| 40 | [#TripuraElections2023](http://twitter.com/search?q=%23TripuraElections2023) | N/A |
-| 41 | [#RanjiTrophyFinal](http://twitter.com/search?q=%23RanjiTrophyFinal) | N/A |
-| 42 | [#CheteshwarPujara](http://twitter.com/search?q=%23CheteshwarPujara) | N/A |
-| 43 | [#JusticeForPrabhu](http://twitter.com/search?q=%23JusticeForPrabhu) | N/A |
-| 44 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 45 | [#MadgaonExpress](http://twitter.com/search?q=%23MadgaonExpress) | N/A |
-| 46 | [#AdaniPower](http://twitter.com/search?q=%23AdaniPower) | N/A |
-| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 48 | [#BurjKhalifa](http://twitter.com/search?q=%23BurjKhalifa) | N/A |
-| 49 | [#NoraFatehi](http://twitter.com/search?q=%23NoraFatehi) | N/A |
-| 50 | [#Mahashivratri](http://twitter.com/search?q=%23Mahashivratri) | N/A |
+| 27 | [तात्या टोपे](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a5%87) | N/A |
+| 28 | [#LostOnZEE5](http://twitter.com/search?q=%23LostOnZEE5) | N/A |
+| 29 | [#VaathiVaraar](http://twitter.com/search?q=%23VaathiVaraar) | N/A |
+| 30 | [#Sapnagill](http://twitter.com/search?q=%23Sapnagill) | N/A |
+| 31 | [#SceneAhSceneAh](http://twitter.com/search?q=%23SceneAhSceneAh) | N/A |
+| 32 | [#iQOONeo7](http://twitter.com/search?q=%23iQOONeo7) | N/A |
+| 33 | [#BPLFinalOnFanCode](http://twitter.com/search?q=%23BPLFinalOnFanCode) | N/A |
+| 34 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
+| 35 | [#PowerToWin](http://twitter.com/search?q=%23PowerToWin) | N/A |
+| 36 | [#Ayalaan](http://twitter.com/search?q=%23Ayalaan) | N/A |
+| 37 | [#Custody](http://twitter.com/search?q=%23Custody) | N/A |
+| 38 | [#HappyBirthdayKCR](http://twitter.com/search?q=%23HappyBirthdayKCR) | N/A |
+| 39 | [#AmazonSpecials](http://twitter.com/search?q=%23AmazonSpecials) | N/A |
+| 40 | [#Cricketer](http://twitter.com/search?q=%23Cricketer) | N/A |
+| 41 | [#AadiMahotsav2023](http://twitter.com/search?q=%23AadiMahotsav2023) | N/A |
+| 42 | [#Ravanasura](http://twitter.com/search?q=%23Ravanasura) | N/A |
+| 43 | [#PyaarLonaPaagal](http://twitter.com/search?q=%23PyaarLonaPaagal) | N/A |
+| 44 | [#JusticeForPrabhu](http://twitter.com/search?q=%23JusticeForPrabhu) | N/A |
+| 45 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
+| 46 | [#TigervsPathaan](http://twitter.com/search?q=%23TigervsPathaan) | N/A |
+| 47 | [#SachinTendulkar](http://twitter.com/search?q=%23SachinTendulkar) | N/A |
+| 48 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 49 | [#TripuraElections2023](http://twitter.com/search?q=%23TripuraElections2023) | N/A |
+| 50 | [#TripuraElections2023](http://twitter.com/search?q=%23TripuraElections2023) | N/A |
 
 
 

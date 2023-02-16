@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-02-16 12:19:26 UTC`
+📆 Last Updated: `2023-02-16 13:23:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
-| 2 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 3 | [vando](http://twitter.com/search?q=vando) | N/A |
-| 4 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 8 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 9 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 12 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 13 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 14 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 15 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 16 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 17 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 18 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 19 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 20 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 21 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 22 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 23 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 24 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 25 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 26 | [devin](http://twitter.com/search?q=devin) | N/A |
-| 27 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 28 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 29 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 30 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 31 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 32 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 33 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 34 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 35 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 36 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 37 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 38 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 39 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 40 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 41 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 42 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 43 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 44 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 45 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 46 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 47 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 48 | [#SouthPark](http://twitter.com/search?q=%23SouthPark) | N/A |
-| 49 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 1 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 3 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
+| 4 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 5 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 6 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 7 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 8 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 9 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 12 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 13 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 15 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 16 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 17 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 18 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 19 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 22 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 23 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 24 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 25 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 26 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 27 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 28 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 29 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 30 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 31 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 32 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 33 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 34 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 35 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 36 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 37 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 38 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 39 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 40 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 41 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 42 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 43 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 44 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 45 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
+| 46 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 47 | [McCain](http://twitter.com/search?q=McCain) | N/A |
+| 48 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 49 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
 
 
 

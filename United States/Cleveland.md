@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-02-16 12:19:18 UTC`
+📆 Last Updated: `2023-02-16 13:23:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 2 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 2 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
 | 3 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 4 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 5 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 6 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
+| 4 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 5 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
 | 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 9 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 10 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 11 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 12 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 13 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 14 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 15 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 16 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 17 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 18 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 19 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 20 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 21 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 22 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 23 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 24 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 25 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 26 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 27 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 28 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 29 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 30 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 31 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 32 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 33 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 34 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 35 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 36 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 37 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 38 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 39 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 40 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 41 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 42 | [#SouthPark](http://twitter.com/search?q=%23SouthPark) | N/A |
-| 43 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 44 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 45 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 46 | [#WinnieThePoohBloodandHoney](http://twitter.com/search?q=%23WinnieThePoohBloodandHoney) | N/A |
-| 47 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
+| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 9 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 10 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 11 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
+| 12 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 13 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 15 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 16 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 17 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 18 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 19 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 20 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 21 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 22 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 23 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 25 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 26 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 27 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 28 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 29 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 30 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 31 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 32 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 33 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 34 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 35 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 36 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 37 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 38 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
+| 39 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 40 | [McCain](http://twitter.com/search?q=McCain) | N/A |
+| 41 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 42 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 43 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 44 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
+| 45 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
+| 46 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
+| 47 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 48 | [#iawx](http://twitter.com/search?q=%23iawx) | N/A |
+| 49 | [#NorfolkSouthern](http://twitter.com/search?q=%23NorfolkSouthern) | N/A |
 
 
 

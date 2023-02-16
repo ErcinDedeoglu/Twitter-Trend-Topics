@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-16 12:19:34 UTC`
+📆 Last Updated: `2023-02-16 13:23:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 1 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 2 | [María Elena Moyano](http://twitter.com/search?q=Mar%c3%ada+Elena+Moyano) | N/A |
-| 3 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 4 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 5 | [#122AñosDeGloria](http://twitter.com/search?q=%23122A%c3%b1osDeGloria) | N/A |
-| 6 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 7 | [ezequías](http://twitter.com/search?q=ezequ%c3%adas) | N/A |
-| 8 | [#blanquiazulxrpp](http://twitter.com/search?q=%23blanquiazulxrpp) | N/A |
-| 9 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 3 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 4 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 5 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 6 | [#122AñosDeGloria](http://twitter.com/search?q=%23122A%c3%b1osDeGloria) | N/A |
+| 7 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
+| 8 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 9 | [#blanquiazulxrpp](http://twitter.com/search?q=%23blanquiazulxrpp) | N/A |
 | 10 | [Feliz 122](http://twitter.com/search?q=Feliz+122) | N/A |
-| 11 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
-| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 13 | [arriba alianza](http://twitter.com/search?q=arriba+alianza) | N/A |
+| 11 | [felices 122](http://twitter.com/search?q=felices+122) | N/A |
+| 12 | [Ezequías](http://twitter.com/search?q=Ezequ%c3%adas) | N/A |
+| 13 | [jefferson farfán](http://twitter.com/search?q=jefferson+farf%c3%a1n) | N/A |
 | 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 15 | [felices 122](http://twitter.com/search?q=felices+122) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [jefferson farfán](http://twitter.com/search?q=jefferson+farf%c3%a1n) | N/A |
-| 18 | [hernán barcos](http://twitter.com/search?q=hern%c3%a1n+barcos) | N/A |
-| 19 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 20 | [gustavo costas](http://twitter.com/search?q=gustavo+costas) | N/A |
-| 21 | [Cacas](http://twitter.com/search?q=Cacas) | N/A |
-| 22 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 23 | [Sport Huancayo](http://twitter.com/search?q=Sport+Huancayo) | N/A |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 26 | [pablo bengoechea](http://twitter.com/search?q=pablo+bengoechea) | N/A |
-| 27 | [Feliz Aniversario](http://twitter.com/search?q=Feliz+Aniversario) | N/A |
-| 28 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 29 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 30 | [agust d on tour](http://twitter.com/search?q=agust+d+on+tour) | N/A |
-| 31 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 32 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 33 | [Apruebo](http://twitter.com/search?q=Apruebo) | N/A |
-| 34 | [maicelo](http://twitter.com/search?q=maicelo) | N/A |
-| 35 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 15 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 16 | [gustavo costas](http://twitter.com/search?q=gustavo+costas) | N/A |
+| 17 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 18 | [sport huancayo](http://twitter.com/search?q=sport+huancayo) | N/A |
+| 19 | [Cacas](http://twitter.com/search?q=Cacas) | N/A |
+| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 21 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
+| 22 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 23 | [Hernán Barcos](http://twitter.com/search?q=Hern%c3%a1n+Barcos) | N/A |
+| 24 | [pablo bengoechea](http://twitter.com/search?q=pablo+bengoechea) | N/A |
+| 25 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 26 | [Feliz Aniversario](http://twitter.com/search?q=Feliz+Aniversario) | N/A |
+| 27 | [AGUST D ON TOUR](http://twitter.com/search?q=AGUST+D+ON+TOUR) | N/A |
+| 28 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 29 | [Apruebo](http://twitter.com/search?q=Apruebo) | N/A |
+| 30 | [maicelo](http://twitter.com/search?q=maicelo) | N/A |
+| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 32 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 33 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 34 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 35 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 36 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
 | 37 | [Godoy](http://twitter.com/search?q=Godoy) | N/A |
-| 38 | [Martel](http://twitter.com/search?q=Martel) | N/A |
-| 39 | [Maestra](http://twitter.com/search?q=Maestra) | N/A |
-| 40 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 39 | [Cerron](http://twitter.com/search?q=Cerron) | N/A |
+| 40 | [Martel](http://twitter.com/search?q=Martel) | N/A |
 | 41 | [Marquinho](http://twitter.com/search?q=Marquinho) | N/A |
-| 42 | [Nacional de Paraguay](http://twitter.com/search?q=Nacional+de+Paraguay) | N/A |
-| 43 | [malcricarmen](http://twitter.com/search?q=malcricarmen) | N/A |
-| 44 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
-| 45 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
-| 48 | [jorge luis pinto](http://twitter.com/search?q=jorge+luis+pinto) | N/A |
-| 49 | [césar cueto](http://twitter.com/search?q=c%c3%a9sar+cueto) | N/A |
-| 50 | [Dalia](http://twitter.com/search?q=Dalia) | N/A |
+| 42 | [nacional de paraguay](http://twitter.com/search?q=nacional+de+paraguay) | N/A |
+| 43 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
+| 44 | [Llora](http://twitter.com/search?q=Llora) | N/A |
+| 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 46 | [Puka](http://twitter.com/search?q=Puka) | N/A |
+| 47 | [jorge luis pinto](http://twitter.com/search?q=jorge+luis+pinto) | N/A |
+| 48 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
+| 49 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 50 | [augusto menéndez](http://twitter.com/search?q=augusto+men%c3%a9ndez) | N/A |
 
 
 

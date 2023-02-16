@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-16 12:19:17 UTC`
+📆 Last Updated: `2023-02-16 13:23:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#atlutd](http://twitter.com/search?q=%23atlutd) | N/A |
+| 1 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
 | 2 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 | 3 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
 | 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 5 | [Nate](http://twitter.com/search?q=Nate) | N/A |
 | 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
 | 8 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 9 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 10 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
 | 11 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 12 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 13 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 14 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 15 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 16 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 17 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 18 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 19 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 20 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 21 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 22 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 23 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 24 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 25 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 26 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 27 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 28 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 29 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 30 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 31 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 32 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 33 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 34 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 35 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 36 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 37 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 38 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 39 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 40 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 41 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 42 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 43 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 44 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 45 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 46 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 47 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 48 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 49 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 50 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 14 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 15 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 16 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 17 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 19 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 20 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 21 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 22 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 23 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 24 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 25 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 26 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 27 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 28 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 29 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 30 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 31 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 32 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 33 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 34 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 35 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 36 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 37 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 38 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 39 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 40 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 41 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 42 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
+| 43 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 44 | [McCain](http://twitter.com/search?q=McCain) | N/A |
+| 45 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 46 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 47 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 48 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 49 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 50 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
 
 
 

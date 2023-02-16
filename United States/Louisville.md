@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-16 12:19:21 UTC`
+📆 Last Updated: `2023-02-16 13:23:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [United States](</United States>)
 | 5 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
 | 6 | [Cats](http://twitter.com/search?q=Cats) | N/A |
 | 7 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 10 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 11 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 12 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 14 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
-| 15 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 16 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 17 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 18 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 19 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 20 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 21 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 22 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 23 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 25 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 26 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 27 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 28 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 29 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 30 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 31 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 32 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 33 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 34 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 35 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 36 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 37 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 38 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 39 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 40 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 41 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 42 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 43 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 44 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 45 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 46 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 47 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 48 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 49 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 8 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 11 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 14 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 15 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 16 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 17 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 18 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 19 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 20 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 22 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 23 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 24 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 25 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 26 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 27 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 28 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 29 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 30 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 31 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 32 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 33 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 34 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 35 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 36 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 37 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 38 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 39 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 40 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 41 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 42 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 43 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 44 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 45 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
+| 46 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 47 | [McCain](http://twitter.com/search?q=McCain) | N/A |
+| 48 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 49 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
 
 
 

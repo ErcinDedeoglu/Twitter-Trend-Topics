@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-16 12:18:52 UTC`
+📆 Last Updated: `2023-02-16 13:22:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KatarsisSeries](http://twitter.com/search?q=%23KatarsisSeries) | N/A |
-| 2 | [Pevita Pearce](http://twitter.com/search?q=Pevita+Pearce) | N/A |
-| 3 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 4 | [#Fighting2ndWin](http://twitter.com/search?q=%23Fighting2ndWin) | N/A |
-| 5 | [#KinerjaBTNMelesat](http://twitter.com/search?q=%23KinerjaBTNMelesat) | N/A |
-| 6 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
-| 7 | [#BSS2ndWin](http://twitter.com/search?q=%23BSS2ndWin) | N/A |
-| 8 | [Yunus Nusi](http://twitter.com/search?q=Yunus+Nusi) | N/A |
+| 1 | [#Sefleksibelitu](http://twitter.com/search?q=%23Sefleksibelitu) | N/A |
+| 2 | [#KatarsisSeries](http://twitter.com/search?q=%23KatarsisSeries) | N/A |
+| 3 | [Pevita Pearce](http://twitter.com/search?q=Pevita+Pearce) | N/A |
+| 4 | [Apriyani](http://twitter.com/search?q=Apriyani) | N/A |
+| 5 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
+| 6 | [#KinerjaBTNMelesat](http://twitter.com/search?q=%23KinerjaBTNMelesat) | N/A |
+| 7 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 8 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
 | 9 | [04 Triliun](http://twitter.com/search?q=04+Triliun) | N/A |
-| 10 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 11 | [Laba Bersih BTN Rp3](http://twitter.com/search?q=Laba+Bersih+BTN+Rp3) | N/A |
-| 12 | [Exco](http://twitter.com/search?q=Exco) | N/A |
-| 13 | [Zainudin Amali](http://twitter.com/search?q=Zainudin+Amali) | N/A |
+| 10 | [Laba Bersih BTN Rp3](http://twitter.com/search?q=Laba+Bersih+BTN+Rp3) | N/A |
+| 11 | [Yunus Nusi](http://twitter.com/search?q=Yunus+Nusi) | N/A |
+| 12 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 13 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
 | 14 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
-| 15 | [Dandi](http://twitter.com/search?q=Dandi) | N/A |
+| 15 | [Exco](http://twitter.com/search?q=Exco) | N/A |
 | 16 | [Ibul](http://twitter.com/search?q=Ibul) | N/A |
-| 17 | [Iwan Bule](http://twitter.com/search?q=Iwan+Bule) | N/A |
+| 17 | [Zainudin Amali](http://twitter.com/search?q=Zainudin+Amali) | N/A |
 | 18 | [Pegawai Nagita Slavina](http://twitter.com/search?q=Pegawai+Nagita+Slavina) | N/A |
 | 19 | [Hanan Attaki](http://twitter.com/search?q=Hanan+Attaki) | N/A |
-| 20 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 21 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
-| 22 | [Baby's Day Out](http://twitter.com/search?q=Baby%27s+Day+Out) | N/A |
-| 23 | [Sekjen](http://twitter.com/search?q=Sekjen) | N/A |
-| 24 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
-| 25 | [Vidio](http://twitter.com/search?q=Vidio) | N/A |
-| 26 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
-| 27 | [Pisang](http://twitter.com/search?q=Pisang) | N/A |
-| 28 | [Wakil](http://twitter.com/search?q=Wakil) | N/A |
-| 29 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 30 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 31 | [Doll](http://twitter.com/search?q=Doll) | N/A |
-| 32 | [Selamat Pak](http://twitter.com/search?q=Selamat+Pak) | N/A |
-| 33 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
-| 34 | [BUMN](http://twitter.com/search?q=BUMN) | N/A |
-| 35 | [La Nyalla](http://twitter.com/search?q=La+Nyalla) | N/A |
-| 36 | [Tulus](http://twitter.com/search?q=Tulus) | N/A |
-| 37 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 38 | [Harapan](http://twitter.com/search?q=Harapan) | N/A |
+| 20 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 21 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
+| 22 | [Iwan Bule](http://twitter.com/search?q=Iwan+Bule) | N/A |
+| 23 | [Dandi](http://twitter.com/search?q=Dandi) | N/A |
+| 24 | [pisang](http://twitter.com/search?q=pisang) | N/A |
+| 25 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
+| 26 | [Baby's Day Out](http://twitter.com/search?q=Baby%27s+Day+Out) | N/A |
+| 27 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
+| 28 | [Vidio](http://twitter.com/search?q=Vidio) | N/A |
+| 29 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 30 | [Haikyuu](http://twitter.com/search?q=Haikyuu) | N/A |
+| 31 | [Wakil](http://twitter.com/search?q=Wakil) | N/A |
+| 32 | [Sekjen](http://twitter.com/search?q=Sekjen) | N/A |
+| 33 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 34 | [Selamat Pak](http://twitter.com/search?q=Selamat+Pak) | N/A |
+| 35 | [Menteri BUMN](http://twitter.com/search?q=Menteri+BUMN) | N/A |
+| 36 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
+| 37 | [Telur](http://twitter.com/search?q=Telur) | N/A |
+| 38 | [La Nyalla](http://twitter.com/search?q=La+Nyalla) | N/A |
 | 39 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 40 | [Telor](http://twitter.com/search?q=Telor) | N/A |
-| 41 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 42 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
-| 43 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
-| 44 | [#PearlMoisturizer](http://twitter.com/search?q=%23PearlMoisturizer) | N/A |
-| 45 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 46 | [#UELxWINLIVE4D](http://twitter.com/search?q=%23UELxWINLIVE4D) | N/A |
-| 47 | [#ABossAndABabe](http://twitter.com/search?q=%23ABossAndABabe) | N/A |
-| 48 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
-| 49 | [#tiketMurah](http://twitter.com/search?q=%23tiketMurah) | N/A |
+| 40 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
+| 41 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
+| 42 | [#PearlMoisturizer](http://twitter.com/search?q=%23PearlMoisturizer) | N/A |
+| 43 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 44 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 45 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
+| 46 | [#Fighting2ndWin](http://twitter.com/search?q=%23Fighting2ndWin) | N/A |
+| 47 | [#BSS2ndWin](http://twitter.com/search?q=%23BSS2ndWin) | N/A |
+| 48 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 49 | [#KPWTGame](http://twitter.com/search?q=%23KPWTGame) | N/A |
 
 
 
