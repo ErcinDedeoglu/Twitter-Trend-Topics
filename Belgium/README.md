@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-16 02:40:47 UTC`
+📆 Last Updated: `2023-02-16 03:19:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,9 +33,9 @@ This is top 50 for Belgium
 | 16 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 17 | [Links](http://twitter.com/search?q=Links) | N/A |
 | 18 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
-| 19 | [Portugezen](http://twitter.com/search?q=Portugezen) | N/A |
-| 20 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 21 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 19 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 20 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 21 | [Portugezen](http://twitter.com/search?q=Portugezen) | N/A |
 | 22 | [Noa Lang](http://twitter.com/search?q=Noa+Lang) | N/A |
 | 23 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
 | 24 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Belgium
 | 37 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
 | 38 | [maaltijdcheques](http://twitter.com/search?q=maaltijdcheques) | N/A |
 | 39 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 40 | [davies](http://twitter.com/search?q=davies) | N/A |
 | 41 | [peter renkens](http://twitter.com/search?q=peter+renkens) | N/A |
 | 42 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
 | 43 | [Noël](http://twitter.com/search?q=No%c3%abl) | Noël is a French word meaning "Christmas". It is derived from the Latin phrase "natus est deus" which means "God is born". In English, it is used to refer to the Christmas season and the celebration of the birth of Jesus Christ. |
 | 44 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
-| 45 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 46 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 47 | [geraardsbergen](http://twitter.com/search?q=geraardsbergen) | N/A |
-| 48 | [Alain Dremière](http://twitter.com/search?q=Alain+Dremi%c3%a8re) | N/A |
-| 49 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 50 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 45 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 46 | [geraardsbergen](http://twitter.com/search?q=geraardsbergen) | N/A |
+| 47 | [Alain Dremière](http://twitter.com/search?q=Alain+Dremi%c3%a8re) | N/A |
+| 48 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 49 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 50 | [Story Killers](http://twitter.com/search?q=Story+Killers) | N/A |
 
 
 

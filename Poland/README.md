@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-16 02:40:52 UTC`
+📆 Last Updated: `2023-02-16 03:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,20 +23,20 @@ This is top 50 for Poland
 | 6 | [Grzegorz Skrzecz](http://twitter.com/search?q=Grzegorz+Skrzecz) | N/A |
 | 7 | [#DORCHE](http://twitter.com/search?q=%23DORCHE) | N/A |
 | 8 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Walentynki](http://twitter.com/search?q=Walentynki) | N/A |
-| 11 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 14 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 15 | [iga świątek](http://twitter.com/search?q=iga+%c5%9bwi%c4%85tek) | N/A |
-| 16 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 17 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
-| 18 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 19 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 20 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 21 | [dzień singla](http://twitter.com/search?q=dzie%c5%84+singla) | N/A |
-| 22 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 9 | [walentynki](http://twitter.com/search?q=walentynki) | N/A |
+| 10 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 13 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 14 | [iga świątek](http://twitter.com/search?q=iga+%c5%9bwi%c4%85tek) | N/A |
+| 15 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 16 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 17 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 18 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 19 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 20 | [dzień singla](http://twitter.com/search?q=dzie%c5%84+singla) | N/A |
+| 21 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 23 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
 | 24 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 25 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Poland
 | 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 36 | [paczkomat](http://twitter.com/search?q=paczkomat) | N/A |
 | 37 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 38 | [Śmiszek](http://twitter.com/search?q=%c5%9amiszek) | N/A |
+| 38 | [śmiszek](http://twitter.com/search?q=%c5%9bmiszek) | N/A |
 | 39 | [armii krajowej](http://twitter.com/search?q=armii+krajowej) | N/A |
 | 40 | [dortmundzie](http://twitter.com/search?q=dortmundzie) | N/A |
-| 41 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
-| 42 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 43 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 44 | [kurdej-szatan](http://twitter.com/search?q=kurdej-szatan) | N/A |
-| 45 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 46 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 47 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 48 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 49 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
-| 50 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 41 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 42 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 43 | [kurdej-szatan](http://twitter.com/search?q=kurdej-szatan) | N/A |
+| 44 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 45 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 46 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
+| 47 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 48 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
+| 49 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 50 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
 
 
 

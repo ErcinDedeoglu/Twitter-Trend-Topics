@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-02-16 02:40:16 UTC`
+📆 Last Updated: `2023-02-16 03:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023S3](http://twitter.com/search?q=%23COAC2023S3) | N/A |
 | 2 | [#GalaReinaSC](http://twitter.com/search?q=%23GalaReinaSC) | N/A |
-| 3 | [#ChiringuitoÁrbitros](http://twitter.com/search?q=%23Chiringuito%c3%81rbitros) | N/A |
-| 4 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
-| 5 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 6 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 7 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 8 | [Fariña](http://twitter.com/search?q=Fari%c3%b1a) | N/A |
+| 3 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 4 | [#KirbyConAmigos](http://twitter.com/search?q=%23KirbyConAmigos) | N/A |
+| 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 6 | [Mi PC Custom](http://twitter.com/search?q=Mi+PC+Custom) | N/A |
+| 7 | [#ChiringuitoÁrbitros](http://twitter.com/search?q=%23Chiringuito%c3%81rbitros) | N/A |
+| 8 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
 | 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 11 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
-| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 13 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 14 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 15 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 16 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 18 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 19 | [#CarnavalSC23](http://twitter.com/search?q=%23CarnavalSC23) | N/A |
-| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 21 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 22 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 23 | [Santa Cruz de Tenerife](http://twitter.com/search?q=Santa+Cruz+de+Tenerife) | N/A |
-| 24 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 25 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 26 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 29 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 30 | [Joao Félix](http://twitter.com/search?q=Joao+F%c3%a9lix) | N/A |
-| 31 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 32 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
-| 33 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [Vicepresidente](http://twitter.com/search?q=Vicepresidente) | N/A |
-| 36 | [Agencia Tributaria](http://twitter.com/search?q=Agencia+Tributaria) | N/A |
-| 37 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 38 | [Villarato](http://twitter.com/search?q=Villarato) | N/A |
-| 39 | [#APOYOROCIO16F](http://twitter.com/search?q=%23APOYOROCIO16F) | N/A |
-| 40 | [#COMBA2023](http://twitter.com/search?q=%23COMBA2023) | N/A |
-| 41 | [#LosEsclavos](http://twitter.com/search?q=%23LosEsclavos) | N/A |
-| 42 | [#Escándalo](http://twitter.com/search?q=%23Esc%c3%a1ndalo) | Escándalo is a Spanish word that translates to scandal in English. It is used to refer to a situation or event that causes public outrage, shock, or embarrassment. |
-| 43 | [#33Carnavales](http://twitter.com/search?q=%2333Carnavales) | N/A |
-| 44 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
+| 10 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 11 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 13 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 14 | [#APOYOROCIO15F](http://twitter.com/search?q=%23APOYOROCIO15F) | N/A |
+| 15 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 16 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 17 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 18 | [Enríquez Negreira](http://twitter.com/search?q=Enr%c3%adquez+Negreira) | N/A |
+| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 20 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 21 | [Fariña](http://twitter.com/search?q=Fari%c3%b1a) | N/A |
+| 22 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
+| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 24 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
+| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 28 | [Comité de Árbitros](http://twitter.com/search?q=Comit%c3%a9+de+%c3%81rbitros) | N/A |
+| 29 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
+| 30 | [Los Viñanos](http://twitter.com/search?q=Los+Vi%c3%b1anos) | N/A |
+| 31 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 32 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 33 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 34 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 35 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 36 | [Villarato](http://twitter.com/search?q=Villarato) | N/A |
+| 37 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 38 | [P A T I O](http://twitter.com/search?q=P+A+T+I+O) | N/A |
+| 39 | [Comité Técnico de Árbitros](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+%c3%81rbitros) | N/A |
+| 40 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
+| 41 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 42 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 43 | [Chirigotas](http://twitter.com/search?q=Chirigotas) | N/A |
+| 44 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 45 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
+| 46 | [Andújar Oliver](http://twitter.com/search?q=And%c3%bajar+Oliver) | N/A |
+| 47 | [Manolín](http://twitter.com/search?q=Manol%c3%adn) | N/A |
+| 48 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
+| 49 | [Santi Castro](http://twitter.com/search?q=Santi+Castro) | N/A |
+| 50 | [Enrique de Castro](http://twitter.com/search?q=Enrique+de+Castro) | N/A |
 
 
 

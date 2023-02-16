@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-16 02:40:51 UTC`
+📆 Last Updated: `2023-02-16 03:19:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Netherlands
 | 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 14 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 16 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
 | 17 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 18 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 19 | [Budel](http://twitter.com/search?q=Budel) | N/A |
@@ -53,12 +53,12 @@ This is top 50 for Netherlands
 | 36 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
 | 37 | [vo-raad](http://twitter.com/search?q=vo-raad) | N/A |
 | 38 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 39 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 39 | [europese commissie](http://twitter.com/search?q=europese+commissie) | N/A |
 | 40 | [Kamermeerderheid](http://twitter.com/search?q=Kamermeerderheid) | N/A |
 | 41 | [bertus](http://twitter.com/search?q=bertus) | N/A |
 | 42 | [Jack](http://twitter.com/search?q=Jack) | N/A |
 | 43 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 44 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 44 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
 | 45 | [dag 15](http://twitter.com/search?q=dag+15) | N/A |
 | 46 | [romke](http://twitter.com/search?q=romke) | N/A |
 | 47 | [oosterpark](http://twitter.com/search?q=oosterpark) | N/A |

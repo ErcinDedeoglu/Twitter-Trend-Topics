@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-16 02:40:10 UTC`
+📆 Last Updated: `2023-02-16 03:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,7 +41,7 @@ This is top 50 for [Austria](</Austria>)
 | 24 | [branchen](http://twitter.com/search?q=branchen) | N/A |
 | 25 | [Handel](http://twitter.com/search?q=Handel) | N/A |
 | 26 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
-| 27 | [Anreize](http://twitter.com/search?q=Anreize) | N/A |
+| 27 | [anreize](http://twitter.com/search?q=anreize) | N/A |
 | 28 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
 | 29 | [karenz](http://twitter.com/search?q=karenz) | N/A |
 | 30 | [Pension](http://twitter.com/search?q=Pension) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Austria](</Austria>)
 | 32 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
 | 33 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
 | 34 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 35 | [Angehörige](http://twitter.com/search?q=Angeh%c3%b6rige) | N/A |
+| 35 | [angehörige](http://twitter.com/search?q=angeh%c3%b6rige) | N/A |
 | 36 | [Grundlage](http://twitter.com/search?q=Grundlage) | N/A |
 | 37 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
 | 38 | [Mütter und Frauen](http://twitter.com/search?q=M%c3%bctter+und+Frauen) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Austria](</Austria>)
 | 42 | [lewis capaldi](http://twitter.com/search?q=lewis+capaldi) | N/A |
 | 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 44 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 45 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 46 | [Resetarits](http://twitter.com/search?q=Resetarits) | N/A |
-| 47 | [kürzungen](http://twitter.com/search?q=k%c3%bcrzungen) | N/A |
-| 48 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 49 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 50 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 45 | [Resetarits](http://twitter.com/search?q=Resetarits) | N/A |
+| 46 | [kürzungen](http://twitter.com/search?q=k%c3%bcrzungen) | N/A |
+| 47 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 48 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 49 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 50 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
 
 
 

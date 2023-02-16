@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-16 02:40:16 UTC`
+📆 Last Updated: `2023-02-16 03:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -64,7 +64,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 47 | [Armee](http://twitter.com/search?q=Armee) | N/A |
 | 48 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 49 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 50 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 50 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-02-16 02:40:50 UTC`
+📆 Last Updated: `2023-02-16 03:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,49 @@ This is top 50 for India
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#संतरामपालजी_बोधदिवस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80_%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 2 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
-| 3 | [#भाग_चोर_रसिया_भाग](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be_%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 2 | [#भाग_चोर_रसिया_भाग](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be_%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 3 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
 | 4 | [Immediate Action](http://twitter.com/search?q=Immediate+Action) | N/A |
-| 5 | [Role Of Media](http://twitter.com/search?q=Role+Of+Media) | N/A |
-| 6 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
-| 7 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 9 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 10 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 11 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
-| 12 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 13 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
+| 6 | [Role Of Media](http://twitter.com/search?q=Role+Of+Media) | N/A |
+| 7 | [#StepDownJayanarayanMishra](http://twitter.com/search?q=%23StepDownJayanarayanMishra) | N/A |
+| 8 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 11 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
+| 12 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 13 | [Deepak Chaurasia](http://twitter.com/search?q=Deepak+Chaurasia) | N/A |
+| 14 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
 | 15 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 16 | [Deepak Chaurasia](http://twitter.com/search?q=Deepak+Chaurasia) | N/A |
-| 17 | [best travel app easemytrip](http://twitter.com/search?q=best+travel+app+easemytrip) | N/A |
-| 18 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 19 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 20 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 21 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 22 | [साहिल गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 23 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 24 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 25 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 26 | [महंत राजू दास](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%a4+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 27 | [निक्की यादव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%95%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 28 | [तात्या टोपे](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a5%87) | N/A |
-| 29 | [ब्राह्मण परिवार](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [know the reality](http://twitter.com/search?q=know+the+reality) | N/A |
-| 31 | [real facts](http://twitter.com/search?q=real+facts) | N/A |
-| 32 | [सुभद्रा कुमारी चौहान](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 33 | [गरीब ब्राह्मण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3) | N/A |
-| 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 35 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
-| 36 | [Sushant Lives InOur Hearts](http://twitter.com/search?q=Sushant+Lives+InOur+Hearts) | N/A |
-| 37 | [ताज होटल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%9c+%e0%a4%b9%e0%a5%8b%e0%a4%9f%e0%a4%b2) | N/A |
-| 38 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
-| 39 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 40 | [SSRcase Exposed Justice System](http://twitter.com/search?q=SSRcase+Exposed+Justice+System) | N/A |
-| 41 | [भगवान विष्णु](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | भगवान विष्णु is a Hindu deity, the Supreme Being and the Preserver of the Universe. In English, it translates to "Lord Vishnu". |
-| 42 | [कृष्णा गौतम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be+%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae) | N/A |
-| 43 | [HEARTTHROB GAURAV KHANNA](http://twitter.com/search?q=HEARTTHROB+GAURAV+KHANNA) | N/A |
-| 44 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 45 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
-| 46 | [सनातन बोर्ड](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 47 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 48 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
-| 49 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 50 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 18 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
+| 19 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 22 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 23 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 25 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 27 | [#TripuraElections2023](http://twitter.com/search?q=%23TripuraElections2023) | N/A |
+| 28 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 29 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 30 | [#HappyBirthdayDBoss](http://twitter.com/search?q=%23HappyBirthdayDBoss) | N/A |
+| 31 | [#TripuraAssemblyElections2023](http://twitter.com/search?q=%23TripuraAssemblyElections2023) | N/A |
+| 32 | [#Kaatera](http://twitter.com/search?q=%23Kaatera) | N/A |
+| 33 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 34 | [#DadaSahebPhalke](http://twitter.com/search?q=%23DadaSahebPhalke) | N/A |
+| 35 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 36 | [#ॐ_नमो_भगवते_वासुदेवाय_नमः](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%a8%e0%a4%ae%e0%a5%8b_%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%a4%e0%a5%87_%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af_%e0%a4%a8%e0%a4%ae%e0%a4%83) | N/A |
+| 37 | [#UPBoardExam2023](http://twitter.com/search?q=%23UPBoardExam2023) | N/A |
+| 38 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 39 | [#InvisibleCrease](http://twitter.com/search?q=%23InvisibleCrease) | N/A |
+| 40 | [#ChallengingStarDarshan](http://twitter.com/search?q=%23ChallengingStarDarshan) | N/A |
+| 41 | [#OPPOFindN2Flip](http://twitter.com/search?q=%23OPPOFindN2Flip) | N/A |
+| 42 | [#D56TitleReveal](http://twitter.com/search?q=%23D56TitleReveal) | N/A |
+| 43 | [#कानपुर_नरसंहार](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0_%e0%a4%a8%e0%a4%b0%e0%a4%b8%e0%a4%82%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
+| 44 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
 
 
 

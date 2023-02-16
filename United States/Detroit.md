@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-16 02:40:40 UTC`
+📆 Last Updated: `2023-02-16 03:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 2 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
-| 3 | [James Wiseman](http://twitter.com/search?q=James+Wiseman) | N/A |
+| 1 | [Dylan Larkin](http://twitter.com/search?q=Dylan+Larkin) | N/A |
+| 2 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 3 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
 | 4 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 7 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 8 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 9 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 10 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 11 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 12 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 13 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 14 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
-| 15 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 5 | [James Wiseman](http://twitter.com/search?q=James+Wiseman) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 8 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 9 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 10 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 11 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 12 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 14 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 15 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 16 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 17 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 18 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 19 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 20 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 21 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 22 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 23 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
-| 24 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 25 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 26 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 27 | [Christopher Daniels](http://twitter.com/search?q=Christopher+Daniels) | N/A |
-| 28 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
-| 29 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 30 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 31 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 32 | [Aidoo](http://twitter.com/search?q=Aidoo) | N/A |
-| 33 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
-| 34 | [Jimmie Johnson](http://twitter.com/search?q=Jimmie+Johnson) | N/A |
-| 35 | [Hayden](http://twitter.com/search?q=Hayden) | N/A |
-| 36 | [Jay Bilas](http://twitter.com/search?q=Jay+Bilas) | N/A |
-| 37 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 38 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 39 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 40 | [JUST LIKE FOOTBALL](http://twitter.com/search?q=JUST+LIKE+FOOTBALL) | N/A |
-| 41 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 42 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
-| 43 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 46 | [Carver](http://twitter.com/search?q=Carver) | N/A |
-| 47 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 48 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 49 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 17 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 18 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 19 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
+| 20 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 21 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 22 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 23 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
+| 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 25 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 26 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 27 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 28 | [Carver](http://twitter.com/search?q=Carver) | N/A |
+| 29 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 30 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 31 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 32 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
+| 33 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 34 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 35 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 36 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 37 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 38 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 39 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 40 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 41 | [Christopher Daniels](http://twitter.com/search?q=Christopher+Daniels) | N/A |
+| 42 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 43 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 44 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 45 | [Aidoo](http://twitter.com/search?q=Aidoo) | N/A |
+| 46 | [Dark Order](http://twitter.com/search?q=Dark+Order) | N/A |
+| 47 | [Jay Bilas](http://twitter.com/search?q=Jay+Bilas) | N/A |
+| 48 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
+| 49 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
 
 
 

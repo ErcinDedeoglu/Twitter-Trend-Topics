@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-16 02:40:12 UTC`
+📆 Last Updated: `2023-02-16 03:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
 | 2 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 3 | [#bvbcfc](http://twitter.com/search?q=%23bvbcfc) | N/A |
-| 4 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
-| 5 | [#ATEEZinBerlin_D2](http://twitter.com/search?q=%23ATEEZinBerlin_D2) | N/A |
+| 3 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
+| 4 | [#ATEEZinBerlin_D2](http://twitter.com/search?q=%23ATEEZinBerlin_D2) | N/A |
+| 5 | [#bvbcfc](http://twitter.com/search?q=%23bvbcfc) | N/A |
 | 6 | [#maischberger](http://twitter.com/search?q=%23maischberger) | N/A |
 | 7 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
 | 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
@@ -27,44 +27,44 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 11 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
 | 12 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 13 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 14 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 16 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 17 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
-| 18 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 19 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 20 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 21 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 22 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 23 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 26 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 27 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 29 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 30 | [Choreo](http://twitter.com/search?q=Choreo) | N/A |
-| 31 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 32 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 33 | [Herr Alt](http://twitter.com/search?q=Herr+Alt) | N/A |
-| 34 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
-| 37 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 38 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
-| 39 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 40 | [briefwahlstimmen](http://twitter.com/search?q=briefwahlstimmen) | N/A |
-| 41 | [Herr Gysi](http://twitter.com/search?q=Herr+Gysi) | N/A |
-| 42 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
-| 43 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 44 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 45 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 46 | [Masala](http://twitter.com/search?q=Masala) | N/A |
-| 47 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
-| 48 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
-| 49 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 50 | [Bagger](http://twitter.com/search?q=Bagger) | N/A |
+| 13 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 14 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 15 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 16 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
+| 17 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 18 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 19 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 20 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 21 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 23 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [sixtus](http://twitter.com/search?q=sixtus) | N/A |
+| 26 | [Choreo](http://twitter.com/search?q=Choreo) | N/A |
+| 27 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 28 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 29 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 30 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 31 | [Herr Alt](http://twitter.com/search?q=Herr+Alt) | N/A |
+| 32 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
+| 35 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 36 | [waldmeister](http://twitter.com/search?q=waldmeister) | N/A |
+| 37 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 38 | [briefwahlstimmen](http://twitter.com/search?q=briefwahlstimmen) | N/A |
+| 39 | [Herr Gysi](http://twitter.com/search?q=Herr+Gysi) | N/A |
+| 40 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
+| 41 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 42 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 43 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 44 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 45 | [Masala](http://twitter.com/search?q=Masala) | N/A |
+| 46 | [mobilitätsexpertin](http://twitter.com/search?q=mobilit%c3%a4tsexpertin) | N/A |
+| 47 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
+| 48 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 49 | [Bagger](http://twitter.com/search?q=Bagger) | N/A |
+| 50 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
 
 
 

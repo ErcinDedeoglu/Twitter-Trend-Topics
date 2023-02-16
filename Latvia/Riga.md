@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-16 02:40:16 UTC`
+📆 Last Updated: `2023-02-16 03:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 6 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
 | 7 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 8 | [valentīndienu](http://twitter.com/search?q=valent%c4%abndienu) | N/A |
-| 9 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
-| 10 | [Rīgai](http://twitter.com/search?q=R%c4%abgai) | N/A |
+| 9 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 10 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
 | 11 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 12 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
 | 13 | [levits](http://twitter.com/search?q=levits) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 27 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
 | 28 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
 | 29 | [lieliski](http://twitter.com/search?q=lieliski) | N/A |
-| 30 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
+| 30 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 31 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 32 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 33 | [USSR](http://twitter.com/search?q=USSR) | N/A |
@@ -61,9 +61,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 44 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
 | 45 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 46 | [vajag](http://twitter.com/search?q=vajag) | N/A |
-| 47 | [Atkal](http://twitter.com/search?q=Atkal) | N/A |
+| 47 | [atkal](http://twitter.com/search?q=atkal) | N/A |
 | 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
+| 49 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
 | 50 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
 
 

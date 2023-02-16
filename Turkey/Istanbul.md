@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-16 02:40:37 UTC`
+📆 Last Updated: `2023-02-16 03:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,41 @@ This is top 50 for [Turkey](</Turkey>)
 | 6 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
 | 7 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
 | 8 | [Yeni Çamoluk Otomotiv](http://twitter.com/search?q=Yeni+%c3%87amoluk+Otomotiv) | N/A |
-| 9 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
-| 10 | [Dilan Polat](http://twitter.com/search?q=Dilan+Polat) | N/A |
-| 11 | [#ortakyayın](http://twitter.com/search?q=%23ortakyay%c4%b1n) | N/A |
-| 12 | [Didem Arslan](http://twitter.com/search?q=Didem+Arslan) | N/A |
-| 13 | [Kıvanç Tatlıtuğ](http://twitter.com/search?q=K%c4%b1van%c3%a7+Tatl%c4%b1tu%c4%9f) | N/A |
-| 14 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
-| 15 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
-| 16 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 17 | [Kuzey Tekinoğlu](http://twitter.com/search?q=Kuzey+Tekino%c4%9flu) | N/A |
-| 18 | [Eski](http://twitter.com/search?q=Eski) | N/A |
-| 19 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
-| 20 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
-| 21 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 22 | [Adam 50](http://twitter.com/search?q=Adam+50) | N/A |
-| 23 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
-| 24 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
-| 25 | [Sakın](http://twitter.com/search?q=Sak%c4%b1n) | N/A |
-| 26 | [Sabancı](http://twitter.com/search?q=Sabanc%c4%b1) | N/A |
-| 27 | [50 Milyon](http://twitter.com/search?q=50+Milyon) | N/A |
-| 28 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
-| 29 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
-| 30 | [Dolar](http://twitter.com/search?q=Dolar) | N/A |
-| 31 | [Teşekkürler Türkiye](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+T%c3%bcrkiye) | N/A |
-| 32 | [Melek Subaşı](http://twitter.com/search?q=Melek+Suba%c5%9f%c4%b1) | N/A |
-| 33 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
-| 34 | [Zorlu](http://twitter.com/search?q=Zorlu) | N/A |
-| 35 | [Doblo](http://twitter.com/search?q=Doblo) | N/A |
-| 36 | [1 Milyon](http://twitter.com/search?q=1+Milyon) | N/A |
-| 37 | [Gecenin](http://twitter.com/search?q=Gecenin) | N/A |
-| 38 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 39 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 40 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 41 | [Yayına](http://twitter.com/search?q=Yay%c4%b1na) | N/A |
-| 42 | [Tüm Türkiye](http://twitter.com/search?q=T%c3%bcm+T%c3%bcrkiye) | N/A |
-| 43 | [Mustafa Karataş](http://twitter.com/search?q=Mustafa+Karata%c5%9f) | N/A |
-| 44 | [Gelir](http://twitter.com/search?q=Gelir) | N/A |
-| 45 | [Reklamın](http://twitter.com/search?q=Reklam%c4%b1n) | N/A |
-| 46 | [TCMB](http://twitter.com/search?q=TCMB) | N/A |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
-| 49 | [#EdaEce](http://twitter.com/search?q=%23EdaEce) | N/A |
-| 50 | [#1billion](http://twitter.com/search?q=%231billion) | N/A |
+| 9 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
+| 10 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 11 | [Dilan Polat](http://twitter.com/search?q=Dilan+Polat) | N/A |
+| 12 | [Kıvanç Tatlıtuğ](http://twitter.com/search?q=K%c4%b1van%c3%a7+Tatl%c4%b1tu%c4%9f) | N/A |
+| 13 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
+| 14 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
+| 15 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
+| 16 | [Kuzey Tekinoğlu](http://twitter.com/search?q=Kuzey+Tekino%c4%9flu) | N/A |
+| 17 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
+| 18 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
+| 19 | [Adam 50](http://twitter.com/search?q=Adam+50) | N/A |
+| 20 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
+| 21 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
+| 22 | [Sakın](http://twitter.com/search?q=Sak%c4%b1n) | N/A |
+| 23 | [Dolar](http://twitter.com/search?q=Dolar) | N/A |
+| 24 | [Sabancı](http://twitter.com/search?q=Sabanc%c4%b1) | N/A |
+| 25 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
+| 26 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
+| 27 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 28 | [Nazlı Çelik](http://twitter.com/search?q=Nazl%c4%b1+%c3%87elik) | N/A |
+| 29 | [Melek Subaşı](http://twitter.com/search?q=Melek+Suba%c5%9f%c4%b1) | N/A |
+| 30 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
+| 31 | [Zorlu](http://twitter.com/search?q=Zorlu) | N/A |
+| 32 | [Mustafa Karataş](http://twitter.com/search?q=Mustafa+Karata%c5%9f) | N/A |
+| 33 | [Doblo](http://twitter.com/search?q=Doblo) | N/A |
+| 34 | [1 Milyon](http://twitter.com/search?q=1+Milyon) | N/A |
+| 35 | [Yayına](http://twitter.com/search?q=Yay%c4%b1na) | N/A |
+| 36 | [Gelir](http://twitter.com/search?q=Gelir) | N/A |
+| 37 | [Reklamın](http://twitter.com/search?q=Reklam%c4%b1n) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [#ortakyayın](http://twitter.com/search?q=%23ortakyay%c4%b1n) | N/A |
+| 40 | [#didemarslan](http://twitter.com/search?q=%23didemarslan) | N/A |
+| 41 | [#1billion](http://twitter.com/search?q=%231billion) | N/A |
+| 42 | [#nihathatipoglu](http://twitter.com/search?q=%23nihathatipoglu) | N/A |
+| 43 | [#BingolAFETbölgesiilanedilsin](http://twitter.com/search?q=%23BingolAFETb%c3%b6lgesiilanedilsin) | N/A |
 
 
 

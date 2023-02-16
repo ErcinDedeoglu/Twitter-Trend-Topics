@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-16 02:40:54 UTC`
+📆 Last Updated: `2023-02-16 03:19:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for Switzerland
 | 19 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 20 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
 | 21 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 22 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 22 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
 | 23 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
 | 24 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
 | 25 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Switzerland
 | 47 | [Armee](http://twitter.com/search?q=Armee) | N/A |
 | 48 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 49 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 50 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 50 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 
 
 
