@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-16 09:16:45 UTC`
+📆 Last Updated: `2023-02-16 10:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PvSneakyLink](http://twitter.com/search?q=%23PvSneakyLink) | N/A |
-| 2 | [Mission](http://twitter.com/search?q=Mission) | N/A |
-| 3 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 4 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 5 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 6 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 7 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 8 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 1 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 2 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 3 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
+| 4 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 7 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 8 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
 | 9 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
 | 10 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 11 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 12 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 13 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 14 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 15 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 16 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 17 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 18 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 19 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
-| 20 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 21 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 22 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 23 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 12 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 13 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 14 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 15 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 16 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 17 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 18 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 19 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 20 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 21 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 22 | [Theatrhythm](http://twitter.com/search?q=Theatrhythm) | N/A |
+| 23 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
 | 24 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
 | 25 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 26 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
-| 27 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 28 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 29 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 30 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 31 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 32 | [Theatrhythm](http://twitter.com/search?q=Theatrhythm) | N/A |
-| 33 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 34 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 35 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 36 | [Manson](http://twitter.com/search?q=Manson) | N/A |
-| 37 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 38 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 39 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 40 | [Buie](http://twitter.com/search?q=Buie) | N/A |
-| 41 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
+| 26 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 27 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 28 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 29 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 30 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 31 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 32 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 33 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 34 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 35 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 36 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 38 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 39 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
+| 40 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 41 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
 | 42 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
-| 43 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 44 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
-| 45 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 46 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
-| 47 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 48 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 49 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
+| 43 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 44 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 45 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 46 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 47 | [Need 1](http://twitter.com/search?q=Need+1) | N/A |
+| 48 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 49 | [Samira](http://twitter.com/search?q=Samira) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-16 09:16:37 UTC`
+📆 Last Updated: `2023-02-16 10:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
-| 2 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
-| 3 | [#TekYuerek](http://twitter.com/search?q=%23TekYuerek) | N/A |
-| 4 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
-| 5 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 6 | [115 Milyar](http://twitter.com/search?q=115+Milyar) | N/A |
-| 7 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
-| 8 | [ElonAmca Osurdu](http://twitter.com/search?q=ElonAmca+Osurdu) | N/A |
-| 9 | [Rockefeller](http://twitter.com/search?q=Rockefeller) | N/A |
-| 10 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 11 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
-| 12 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
-| 13 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 14 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
-| 15 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
-| 16 | [Ateş](http://twitter.com/search?q=Ate%c5%9f) | N/A |
-| 17 | [Merkez Bankasının](http://twitter.com/search?q=Merkez+Bankas%c4%b1n%c4%b1n) | N/A |
-| 18 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
-| 19 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 20 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
-| 21 | [İyilik](http://twitter.com/search?q=%c4%b0yilik) | N/A |
-| 22 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
-| 23 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 24 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
-| 25 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 26 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
-| 27 | [Gelir](http://twitter.com/search?q=Gelir) | N/A |
-| 28 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
-| 29 | [Tansu](http://twitter.com/search?q=Tansu) | N/A |
-| 30 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
-| 31 | [#MuratYildirim](http://twitter.com/search?q=%23MuratYildirim) | N/A |
-| 32 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
-| 33 | [#ACUN](http://twitter.com/search?q=%23ACUN) | N/A |
-| 34 | [#HEKTS](http://twitter.com/search?q=%23HEKTS) | N/A |
-| 35 | [#camolukotomotiv](http://twitter.com/search?q=%23camolukotomotiv) | N/A |
-| 36 | [#HalukLeventahbap](http://twitter.com/search?q=%23HalukLeventahbap) | N/A |
-| 37 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 38 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 39 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 40 | [#StajyerTekYurek](http://twitter.com/search?q=%23StajyerTekYurek) | N/A |
-| 41 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 42 | [#didemarslan](http://twitter.com/search?q=%23didemarslan) | N/A |
+| 1 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
+| 2 | [Aleyna](http://twitter.com/search?q=Aleyna) | N/A |
+| 3 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
+| 4 | [#borsa](http://twitter.com/search?q=%23borsa) | #Borsa is a hashtag used on social media to refer to the stock market. It is derived from the Italian word for “bag” or “purse” and is used to indicate conversations about stocks, investments, and other financial topics. In English, it can be translated as “stock market”. |
+| 5 | [Depremin 11](http://twitter.com/search?q=Depremin+11) | N/A |
+| 6 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
+| 7 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 8 | [#TurkiyeTekYuerek](http://twitter.com/search?q=%23TurkiyeTekYuerek) | N/A |
+| 9 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
+| 10 | [Sevgili Beşli Çeteler](http://twitter.com/search?q=Sevgili+Be%c5%9fli+%c3%87eteler) | N/A |
+| 11 | [115 Milyar](http://twitter.com/search?q=115+Milyar) | N/A |
+| 12 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 13 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 14 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
+| 15 | [Rockefeller](http://twitter.com/search?q=Rockefeller) | N/A |
+| 16 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 17 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
+| 18 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
+| 19 | [Ateş](http://twitter.com/search?q=Ate%c5%9f) | N/A |
+| 20 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 21 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
+| 22 | [Merkez Bankasının](http://twitter.com/search?q=Merkez+Bankas%c4%b1n%c4%b1n) | N/A |
+| 23 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 24 | [İyilik](http://twitter.com/search?q=%c4%b0yilik) | N/A |
+| 25 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
+| 26 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
+| 27 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
+| 28 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 29 | [TL'lik](http://twitter.com/search?q=TL%27lik) | N/A |
+| 30 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
+| 31 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
+| 32 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
+| 33 | [Gelir](http://twitter.com/search?q=Gelir) | N/A |
+| 34 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 35 | [#acunilicali](http://twitter.com/search?q=%23acunilicali) | N/A |
+| 36 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 37 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
+| 38 | [#camolukotomotiv](http://twitter.com/search?q=%23camolukotomotiv) | N/A |
+| 39 | [#bist30](http://twitter.com/search?q=%23bist30) | N/A |
+| 40 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 41 | [#MuratYildirim](http://twitter.com/search?q=%23MuratYildirim) | N/A |
+| 42 | [#HEKTS](http://twitter.com/search?q=%23HEKTS) | N/A |
+| 43 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 44 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 45 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 46 | [#StajyerTekYurek](http://twitter.com/search?q=%23StajyerTekYurek) | N/A |
+| 47 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-16 09:16:42 UTC`
+📆 Last Updated: `2023-02-16 10:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [United States](</United States>)
 | 7 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
 | 8 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
 | 9 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 11 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 12 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 13 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 14 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 15 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 16 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 17 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 10 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 11 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 12 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 13 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 14 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
+| 15 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 16 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 18 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
 | 19 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 20 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 20 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
 | 21 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
 | 22 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 23 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
+| 23 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
 | 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 25 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 26 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 25 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 26 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
 | 27 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 28 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 29 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 30 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
-| 31 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 32 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 33 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 34 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 35 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 36 | [Theatrhythm](http://twitter.com/search?q=Theatrhythm) | N/A |
-| 37 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 38 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 39 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 40 | [Manson](http://twitter.com/search?q=Manson) | N/A |
+| 28 | [Theatrhythm](http://twitter.com/search?q=Theatrhythm) | N/A |
+| 29 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 30 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 31 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 32 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 33 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 34 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 35 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 36 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 37 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 38 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 39 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 40 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 41 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 42 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 43 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 44 | [Buie](http://twitter.com/search?q=Buie) | N/A |
-| 45 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
-| 46 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
-| 47 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
-| 48 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 49 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 42 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 43 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 44 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
+| 45 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 46 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
+| 47 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
+| 48 | [Ashika Island](http://twitter.com/search?q=Ashika+Island) | N/A |
+| 49 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
 
 
 

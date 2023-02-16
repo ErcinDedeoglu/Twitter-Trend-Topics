@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-16 09:15:59 UTC`
+📆 Last Updated: `2023-02-16 10:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 4 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
-| 5 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 6 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 8 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 9 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 10 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 11 | [#nzvseng](http://twitter.com/search?q=%23nzvseng) | N/A |
-| 12 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 15 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 16 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 17 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 18 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 19 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 24 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 25 | [Jimmy Jimmy](http://twitter.com/search?q=Jimmy+Jimmy) | N/A |
-| 26 | [anthony taylor](http://twitter.com/search?q=anthony+taylor) | N/A |
-| 27 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 28 | [Heseltine](http://twitter.com/search?q=Heseltine) | N/A |
-| 29 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 30 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 31 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 33 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 34 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 35 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 36 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 37 | [Independence](http://twitter.com/search?q=Independence) | N/A |
-| 38 | [Malcy](http://twitter.com/search?q=Malcy) | N/A |
-| 39 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 40 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 41 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 42 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 43 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 44 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 45 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 46 | [Brianna Ghey](http://twitter.com/search?q=Brianna+Ghey) | N/A |
-| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 48 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 1 | [Jimmy Jimmy](http://twitter.com/search?q=Jimmy+Jimmy) | N/A |
+| 2 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 3 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 4 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 5 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 6 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 7 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 8 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 9 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 10 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
+| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 12 | [#nzvseng](http://twitter.com/search?q=%23nzvseng) | N/A |
+| 13 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 14 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 15 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 16 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 17 | [Striking](http://twitter.com/search?q=Striking) | N/A |
+| 18 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 19 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 20 | [FTSE 100](http://twitter.com/search?q=FTSE+100) | N/A |
+| 21 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
+| 22 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 23 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 24 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
+| 25 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 26 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
+| 27 | [Peston](http://twitter.com/search?q=Peston) | N/A |
+| 28 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 29 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
+| 30 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
+| 31 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 32 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
+| 33 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 34 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 35 | [#ASongOrMovieForAnythingNew](http://twitter.com/search?q=%23ASongOrMovieForAnythingNew) | N/A |
+| 36 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 37 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 38 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
+| 39 | [#ucuRSING](http://twitter.com/search?q=%23ucuRSING) | N/A |
+| 40 | [#WindfallTax](http://twitter.com/search?q=%23WindfallTax) | N/A |
+| 41 | [#yellow](http://twitter.com/search?q=%23yellow) | N/A |
+| 42 | [#AdoorableThursday](http://twitter.com/search?q=%23AdoorableThursday) | N/A |
+| 43 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
+| 44 | [#ENGvNZ](http://twitter.com/search?q=%23ENGvNZ) | N/A |
+| 45 | [#BOOM](http://twitter.com/search?q=%23BOOM) | N/A |
+| 46 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 47 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 48 | [#bbccricket](http://twitter.com/search?q=%23bbccricket) | N/A |
 
 
 
