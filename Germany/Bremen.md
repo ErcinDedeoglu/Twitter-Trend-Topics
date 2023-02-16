@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-16 20:16:46 UTC`
+📆 Last Updated: `2023-02-16 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,50 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 3 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 4 | [#Karneval](http://twitter.com/search?q=%23Karneval) | N/A |
-| 5 | [#Lobinger](http://twitter.com/search?q=%23Lobinger) | N/A |
-| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 7 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 8 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 9 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 10 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 11 | [Intro](http://twitter.com/search?q=Intro) | N/A |
-| 12 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 13 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 14 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 15 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
-| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 18 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 23 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 3 | [#B04ASM](http://twitter.com/search?q=%23B04ASM) | N/A |
+| 4 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 5 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 6 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 7 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 8 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 9 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 10 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 11 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 12 | [Designer](http://twitter.com/search?q=Designer) | N/A |
+| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 15 | [Intro](http://twitter.com/search?q=Intro) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [Schuhen](http://twitter.com/search?q=Schuhen) | N/A |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 22 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 23 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
 | 24 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 25 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
-| 26 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 27 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 28 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 29 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
-| 30 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 31 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 32 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 33 | [Anja](http://twitter.com/search?q=Anja) | N/A |
-| 34 | [Kandidatinnen](http://twitter.com/search?q=Kandidatinnen) | N/A |
-| 35 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 36 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 37 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 38 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 39 | [Topmodel](http://twitter.com/search?q=Topmodel) | N/A |
-| 40 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 41 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 42 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 43 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
-| 44 | [Zweiräder](http://twitter.com/search?q=Zweir%c3%a4der) | N/A |
-| 45 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 46 | [Juristin](http://twitter.com/search?q=Juristin) | N/A |
-| 47 | [Tehran](http://twitter.com/search?q=Tehran) | N/A |
-| 48 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 27 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 28 | [Einnahmen](http://twitter.com/search?q=Einnahmen) | N/A |
+| 29 | [#Lobinger](http://twitter.com/search?q=%23Lobinger) | N/A |
+| 30 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
+| 31 | [#hartesdeutschland](http://twitter.com/search?q=%23hartesdeutschland) | N/A |
+| 32 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
+| 33 | [#Reichelt](http://twitter.com/search?q=%23Reichelt) | N/A |
+| 34 | [#Fluechtlingsgipfel](http://twitter.com/search?q=%23Fluechtlingsgipfel) | N/A |
+| 35 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 36 | [#karneval2023](http://twitter.com/search?q=%23karneval2023) | N/A |
+| 37 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
+| 38 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 39 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 40 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 41 | [#Berlinale](http://twitter.com/search?q=%23Berlinale) | N/A |
+| 42 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
+| 43 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
+| 44 | [#147sf](http://twitter.com/search?q=%23147sf) | N/A |
+| 45 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
+| 46 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
 
 
 

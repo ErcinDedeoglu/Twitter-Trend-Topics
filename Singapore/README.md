@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-16 20:17:25 UTC`
+📆 Last Updated: `2023-02-16 21:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for Singapore
 | 19 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
 | 20 | [New Earth](http://twitter.com/search?q=New+Earth) | N/A |
 | 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 24 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 25 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 26 | [Chris Lee](http://twitter.com/search?q=Chris+Lee) | N/A |
-| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 28 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 29 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 31 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 32 | [Phoebe Bridgers](http://twitter.com/search?q=Phoebe+Bridgers) | N/A |
-| 33 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
-| 34 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 35 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 36 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 37 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 38 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 39 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 41 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 42 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 43 | [Westlife](http://twitter.com/search?q=Westlife) | N/A |
-| 44 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 45 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 46 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 47 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 23 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 25 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 26 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 27 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 28 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 29 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 30 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 31 | [phoebe bridgers](http://twitter.com/search?q=phoebe+bridgers) | N/A |
+| 32 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 33 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 34 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 35 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 36 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 37 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 38 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
+| 39 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 40 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 42 | [Westlife](http://twitter.com/search?q=Westlife) | N/A |
+| 43 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 44 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 45 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 46 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 48 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 49 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 50 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 50 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
 
 
 

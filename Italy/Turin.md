@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-16 20:16:48 UTC`
+📆 Last Updated: `2023-02-16 21:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalisburgoRoma](http://twitter.com/search?q=%23SalisburgoRoma) | N/A |
-| 2 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 3 | [#JuveNantes](http://twitter.com/search?q=%23JuveNantes) | N/A |
-| 4 | [#BragaFiorentina](http://twitter.com/search?q=%23BragaFiorentina) | N/A |
-| 5 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 6 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 7 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 8 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 9 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 10 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 11 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 12 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
-| 13 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 15 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 16 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 17 | [Succede](http://twitter.com/search?q=Succede) | N/A |
-| 18 | [De Siervo](http://twitter.com/search?q=De+Siervo) | N/A |
-| 19 | [Procura](http://twitter.com/search?q=Procura) | N/A |
-| 20 | [Giustizia](http://twitter.com/search?q=Giustizia) | N/A |
-| 21 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
-| 22 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 23 | [#atprotterdam](http://twitter.com/search?q=%23atprotterdam) | N/A |
-| 24 | [#Tsitsipas](http://twitter.com/search?q=%23Tsitsipas) | N/A |
-| 25 | [#SalzburgRoma](http://twitter.com/search?q=%23SalzburgRoma) | N/A |
-| 26 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 27 | [#indirettaconjess](http://twitter.com/search?q=%23indirettaconjess) | N/A |
-| 28 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 29 | [#ItaliaBelgio](http://twitter.com/search?q=%23ItaliaBelgio) | N/A |
-| 30 | [#Delmastro](http://twitter.com/search?q=%23Delmastro) | N/A |
-| 31 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
-| 32 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 33 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 34 | [#LazioCluj](http://twitter.com/search?q=%23LazioCluj) | N/A |
-| 35 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 36 | [#Berlusconiassolto](http://twitter.com/search?q=%23Berlusconiassolto) | N/A |
-| 37 | [#16febbraio](http://twitter.com/search?q=%2316febbraio) | N/A |
-| 38 | [#MilluminodiMeno](http://twitter.com/search?q=%23MilluminodiMeno) | N/A |
-| 39 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 40 | [#AlbertoRadius](http://twitter.com/search?q=%23AlbertoRadius) | N/A |
-| 41 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 42 | [#LBAF82023](http://twitter.com/search?q=%23LBAF82023) | N/A |
-| 43 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
+| 1 | [#JuventusNantes](http://twitter.com/search?q=%23JuventusNantes) | N/A |
+| 2 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 3 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
+| 4 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 5 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 6 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 7 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 8 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 9 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 10 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 11 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 12 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 13 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 14 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 15 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 16 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 17 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 18 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 19 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 20 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 21 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 22 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 23 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 24 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 25 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 27 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 28 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 29 | [Succede](http://twitter.com/search?q=Succede) | N/A |
+| 30 | [De Siervo](http://twitter.com/search?q=De+Siervo) | N/A |
+| 31 | [Procura](http://twitter.com/search?q=Procura) | N/A |
+| 32 | [#superenalotto](http://twitter.com/search?q=%23superenalotto) | N/A |
+| 33 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 34 | [#SalisburgoRoma](http://twitter.com/search?q=%23SalisburgoRoma) | N/A |
+| 35 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 36 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
+| 37 | [#LazioCluj](http://twitter.com/search?q=%23LazioCluj) | N/A |
+| 38 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 39 | [#splendidacornice](http://twitter.com/search?q=%23splendidacornice) | N/A |
+| 40 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 41 | [#BragaFiorentina](http://twitter.com/search?q=%23BragaFiorentina) | N/A |
+| 42 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 43 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 44 | [#miFannoSempre](http://twitter.com/search?q=%23miFannoSempre) | N/A |
+| 45 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
+| 46 | [#atprotterdam](http://twitter.com/search?q=%23atprotterdam) | N/A |
+| 47 | [#SalzburgRoma](http://twitter.com/search?q=%23SalzburgRoma) | N/A |
+| 48 | [#Immobile](http://twitter.com/search?q=%23Immobile) | N/A |
+| 49 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
 
 
 
