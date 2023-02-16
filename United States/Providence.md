@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-02-16 11:17:08 UTC`
+📆 Last Updated: `2023-02-16 12:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 3 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 4 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 5 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 6 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 7 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 8 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 9 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 10 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 11 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 12 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 13 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 14 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 15 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 16 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 17 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 18 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 19 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 20 | [Theatrhythm](http://twitter.com/search?q=Theatrhythm) | N/A |
-| 21 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 22 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 23 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 24 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 25 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 26 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 27 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 28 | [Dynamite](http://twitter.com/search?q=Dynamite) | N/A |
-| 29 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 30 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 31 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 32 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 33 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 1 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 2 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 3 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 4 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 5 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
+| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 7 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
+| 8 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
+| 9 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 10 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 11 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 12 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 13 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 14 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 15 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 16 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 17 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 18 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 19 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 20 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 21 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 22 | [devin](http://twitter.com/search?q=devin) | N/A |
+| 23 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 24 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 25 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 26 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 27 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 28 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 29 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 30 | [McCain](http://twitter.com/search?q=McCain) | N/A |
+| 31 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 32 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 33 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 34 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 35 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
-| 36 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
-| 37 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
-| 38 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 39 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
-| 40 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 41 | [Beavis](http://twitter.com/search?q=Beavis) | N/A |
-| 42 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 43 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 44 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 45 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
-| 46 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 47 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 48 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
+| 35 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 36 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 37 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 38 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
+| 39 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 40 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
+| 41 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 42 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 43 | [#arwx](http://twitter.com/search?q=%23arwx) | N/A |
+| 44 | [#SouthPark](http://twitter.com/search?q=%23SouthPark) | N/A |
+| 45 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 46 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 47 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 48 | [#WinnieThePoohBloodandHoney](http://twitter.com/search?q=%23WinnieThePoohBloodandHoney) | N/A |
 
 
 
