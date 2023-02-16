@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-16 10:16:33 UTC`
+📆 Last Updated: `2023-02-16 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
 | 2 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 3 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 4 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 3 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 4 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
 | 5 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
 | 6 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 7 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 8 | [#faltamenos](http://twitter.com/search?q=%23faltamenos) | N/A |
-| 9 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 10 | [Globant](http://twitter.com/search?q=Globant) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 7 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 8 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 9 | [#FaltaMenos](http://twitter.com/search?q=%23FaltaMenos) | N/A |
+| 10 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 11 | [Globant](http://twitter.com/search?q=Globant) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
 | 14 | [Taser](http://twitter.com/search?q=Taser) | N/A |
-| 15 | [Dellepiane](http://twitter.com/search?q=Dellepiane) | N/A |
-| 16 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 17 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 20 | [#AlDisciplinaConSedal](http://twitter.com/search?q=%23AlDisciplinaConSedal) | N/A |
-| 21 | [#gh20222](http://twitter.com/search?q=%23gh20222) | N/A |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 24 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
-| 25 | [el primo tiene aguante](http://twitter.com/search?q=el+primo+tiene+aguante) | N/A |
-| 26 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [#thechallengeargentina](http://twitter.com/search?q=%23thechallengeargentina) | N/A |
-| 29 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 16 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 17 | [Dellepiane](http://twitter.com/search?q=Dellepiane) | N/A |
+| 18 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 19 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
+| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 21 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 22 | [#AlDisciplinaConSedal](http://twitter.com/search?q=%23AlDisciplinaConSedal) | N/A |
+| 23 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 26 | [el primo tiene aguante](http://twitter.com/search?q=el+primo+tiene+aguante) | N/A |
+| 27 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 29 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 30 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 31 | [Escalopes](http://twitter.com/search?q=Escalopes) | N/A |
 | 32 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 33 | [Escalopes](http://twitter.com/search?q=Escalopes) | N/A |
+| 33 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
 | 34 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 35 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
-| 36 | [Natuti](http://twitter.com/search?q=Natuti) | N/A |
-| 37 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 38 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 39 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 40 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
-| 41 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 35 | [natuti](http://twitter.com/search?q=natuti) | N/A |
+| 36 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 38 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
+| 39 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 40 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
+| 41 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 42 | [Donda](http://twitter.com/search?q=Donda) | N/A |
-| 43 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 44 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 45 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 46 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 47 | [HARAGÁN](http://twitter.com/search?q=HARAG%c3%81N) | N/A |
-| 48 | [escurridor](http://twitter.com/search?q=escurridor) | N/A |
-| 49 | [TUGO](http://twitter.com/search?q=TUGO) | N/A |
-| 50 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 43 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 44 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 45 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 46 | [haragán](http://twitter.com/search?q=harag%c3%a1n) | N/A |
+| 47 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
+| 48 | [TUGO](http://twitter.com/search?q=TUGO) | N/A |
+| 49 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 50 | [Massa](http://twitter.com/search?q=Massa) | N/A |
 
 
 

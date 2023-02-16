@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-16 10:16:41 UTC`
+📆 Last Updated: `2023-02-16 11:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#222MillionDreams](http://twitter.com/search?q=%23222MillionDreams) | N/A |
-| 2 | [#HLFC2023](http://twitter.com/search?q=%23HLFC2023) | N/A |
+| 1 | [#HLFC2023](http://twitter.com/search?q=%23HLFC2023) | N/A |
+| 2 | [#222MillionDreams](http://twitter.com/search?q=%23222MillionDreams) | N/A |
 | 3 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 4 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 5 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 6 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 8 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 13 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 14 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 15 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 9 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 10 | [fasnacht](http://twitter.com/search?q=fasnacht) | N/A |
+| 11 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 14 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 15 | [Virus](http://twitter.com/search?q=Virus) | N/A |
 | 16 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 17 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 18 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 19 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 20 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
-| 21 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 22 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 23 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
-| 26 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
-| 27 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 28 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 29 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 30 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 31 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
-| 35 | [Courage](http://twitter.com/search?q=Courage) | N/A |
-| 36 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
-| 37 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 38 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 39 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 17 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 18 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 19 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 21 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
+| 24 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
+| 25 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 26 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 27 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 28 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 31 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
+| 32 | [Courage](http://twitter.com/search?q=Courage) | N/A |
+| 33 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 34 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 35 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 36 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 37 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 38 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 39 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 40 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 41 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 42 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 43 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 44 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 45 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 46 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 47 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
+| 41 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 42 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
+| 43 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 44 | [Jungs](http://twitter.com/search?q=Jungs) | N/A |
+| 45 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 46 | [Master](http://twitter.com/search?q=Master) | N/A |
+| 47 | [Velo](http://twitter.com/search?q=Velo) | N/A |
 
 
 

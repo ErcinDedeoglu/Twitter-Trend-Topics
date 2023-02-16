@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-16 10:17:13 UTC`
+📆 Last Updated: `2023-02-16 11:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,15 +26,15 @@ This is top 50 for Guatemala
 | 9 | [amo ganar con claro](http://twitter.com/search?q=amo+ganar+con+claro) | N/A |
 | 10 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 11 | [david chuc](http://twitter.com/search?q=david+chuc) | N/A |
-| 12 | [CANG](http://twitter.com/search?q=CANG) | N/A |
+| 12 | [cang](http://twitter.com/search?q=cang) | N/A |
 | 13 | [xelajú](http://twitter.com/search?q=xelaj%c3%ba) | N/A |
 | 14 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
-| 17 | [achuapa](http://twitter.com/search?q=achuapa) | N/A |
-| 18 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 20 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 15 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
+| 16 | [achuapa](http://twitter.com/search?q=achuapa) | N/A |
+| 17 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 19 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 22 | [karel espino](http://twitter.com/search?q=karel+espino) | N/A |
 | 23 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |

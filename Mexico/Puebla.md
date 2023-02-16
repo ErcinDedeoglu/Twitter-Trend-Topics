@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-16 10:16:28 UTC`
+📆 Last Updated: `2023-02-16 11:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Mexico](</Mexico>)
 | 9 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
 | 10 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
 | 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 13 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 14 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 15 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 12 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 13 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 14 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
+| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 16 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 19 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 21 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 24 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
-| 25 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 26 | [Lillini](http://twitter.com/search?q=Lillini) | N/A |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 23 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
+| 24 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 25 | [lillini](http://twitter.com/search?q=lillini) | N/A |
+| 26 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
 | 27 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
-| 28 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 29 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 30 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
-| 31 | [el inicio de un hablar](http://twitter.com/search?q=el+inicio+de+un+hablar) | N/A |
-| 32 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 33 | [pauno](http://twitter.com/search?q=pauno) | N/A |
-| 34 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 35 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 28 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
+| 29 | [el inicio de un hablar](http://twitter.com/search?q=el+inicio+de+un+hablar) | N/A |
+| 30 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 31 | [pauno](http://twitter.com/search?q=pauno) | N/A |
+| 32 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 33 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 34 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 35 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
 | 36 | [edgar méndez](http://twitter.com/search?q=edgar+m%c3%a9ndez) | N/A |
-| 37 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 38 | [Diego Urik](http://twitter.com/search?q=Diego+Urik) | N/A |
-| 39 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
-| 40 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
-| 41 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 42 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 43 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
-| 44 | [Chino Huerta](http://twitter.com/search?q=Chino+Huerta) | N/A |
-| 45 | [del prete](http://twitter.com/search?q=del+prete) | N/A |
-| 46 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 47 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 48 | [X HUMBERS](http://twitter.com/search?q=X+HUMBERS) | N/A |
-| 49 | [hoy 15](http://twitter.com/search?q=hoy+15) | N/A |
+| 37 | [Diego Urik](http://twitter.com/search?q=Diego+Urik) | N/A |
+| 38 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
+| 39 | [Gabriel Regino](http://twitter.com/search?q=Gabriel+Regino) | N/A |
+| 40 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 41 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 42 | [Mi 14](http://twitter.com/search?q=Mi+14) | N/A |
+| 43 | [chino huerta](http://twitter.com/search?q=chino+huerta) | N/A |
+| 44 | [del prete](http://twitter.com/search?q=del+prete) | N/A |
+| 45 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 46 | [x humbers](http://twitter.com/search?q=x+humbers) | N/A |
+| 47 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 48 | [hoy 15](http://twitter.com/search?q=hoy+15) | N/A |
+| 49 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
 | 50 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
 
 

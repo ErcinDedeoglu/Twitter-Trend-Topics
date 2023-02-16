@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-02-16 10:16:59 UTC`
+📆 Last Updated: `2023-02-16 11:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#iQOONeo7](http://twitter.com/search?q=%23iQOONeo7) | N/A |
-| 2 | [#PowerToWin](http://twitter.com/search?q=%23PowerToWin) | N/A |
-| 3 | [#AadiMahotsav2023](http://twitter.com/search?q=%23AadiMahotsav2023) | N/A |
-| 4 | [PATHAAN DAY IN CINEMAS](http://twitter.com/search?q=PATHAAN+DAY+IN+CINEMAS) | N/A |
-| 5 | [#AmazonSpecials](http://twitter.com/search?q=%23AmazonSpecials) | N/A |
-| 6 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 7 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 8 | [90 FPS](http://twitter.com/search?q=90+FPS) | N/A |
-| 9 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 1 | [PATHAAN DAY IN CINEMAS](http://twitter.com/search?q=PATHAAN+DAY+IN+CINEMAS) | N/A |
+| 2 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
+| 3 | [#iQOONeo7](http://twitter.com/search?q=%23iQOONeo7) | N/A |
+| 4 | [#PowerToWin](http://twitter.com/search?q=%23PowerToWin) | N/A |
+| 5 | [#AadiMahotsav2023](http://twitter.com/search?q=%23AadiMahotsav2023) | N/A |
+| 6 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 7 | [90 FPS](http://twitter.com/search?q=90+FPS) | N/A |
+| 8 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 9 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
 | 10 | [B. 6.78](http://twitter.com/search?q=B.+6.78) | N/A |
-| 11 | [Swadeshi App EaseMyTrip](http://twitter.com/search?q=Swadeshi+App+EaseMyTrip) | N/A |
-| 12 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
-| 13 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 14 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 15 | [England](http://twitter.com/search?q=England) | N/A |
-| 16 | [भगवान श्री विष्णु](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
-| 17 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
-| 18 | [Root](http://twitter.com/search?q=Root) | N/A |
-| 19 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
-| 20 | [Saurashtra](http://twitter.com/search?q=Saurashtra) | N/A |
-| 21 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 11 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
+| 12 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 13 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 14 | [तात्या टोपे](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a5%87) | N/A |
+| 15 | [Swadeshi App EaseMyTrip](http://twitter.com/search?q=Swadeshi+App+EaseMyTrip) | N/A |
+| 16 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 17 | [Root](http://twitter.com/search?q=Root) | N/A |
+| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 19 | [Saurashtra](http://twitter.com/search?q=Saurashtra) | N/A |
+| 20 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 21 | [England](http://twitter.com/search?q=England) | N/A |
 | 22 | [त्रिपुरा विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 23 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 23 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
 | 24 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 25 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
-| 26 | [Role Of Media](http://twitter.com/search?q=Role+Of+Media) | N/A |
-| 27 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
-| 28 | [Immediate Action](http://twitter.com/search?q=Immediate+Action) | N/A |
-| 29 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 30 | [The Romantics](http://twitter.com/search?q=The+Romantics) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [सनातन बोर्ड](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 33 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 34 | [#MadgaonExpress](http://twitter.com/search?q=%23MadgaonExpress) | N/A |
-| 35 | [#TigervsPathaan](http://twitter.com/search?q=%23TigervsPathaan) | N/A |
-| 36 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
-| 37 | [#TripuraAssemblyElections2023](http://twitter.com/search?q=%23TripuraAssemblyElections2023) | N/A |
-| 38 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
-| 39 | [#PrithviShaw](http://twitter.com/search?q=%23PrithviShaw) | N/A |
-| 40 | [#nzvseng](http://twitter.com/search?q=%23nzvseng) | N/A |
-| 41 | [#RanjiTrophyFinal](http://twitter.com/search?q=%23RanjiTrophyFinal) | N/A |
-| 42 | [#AdaniPower](http://twitter.com/search?q=%23AdaniPower) | N/A |
-| 43 | [#JusticeForPrabhu](http://twitter.com/search?q=%23JusticeForPrabhu) | N/A |
-| 44 | [#SachinTendulkar](http://twitter.com/search?q=%23SachinTendulkar) | N/A |
-| 45 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 46 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 47 | [#Suriya](http://twitter.com/search?q=%23Suriya) | N/A |
-| 48 | [#BurjKhalifa](http://twitter.com/search?q=%23BurjKhalifa) | N/A |
-| 49 | [#NoraFatehi](http://twitter.com/search?q=%23NoraFatehi) | N/A |
+| 25 | [#PrithviShaw](http://twitter.com/search?q=%23PrithviShaw) | N/A |
+| 26 | [#AmazonSpecials](http://twitter.com/search?q=%23AmazonSpecials) | N/A |
+| 27 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 28 | [#Tiger](http://twitter.com/search?q=%23Tiger) | N/A |
+| 29 | [#PyaarLonaPaagal](http://twitter.com/search?q=%23PyaarLonaPaagal) | N/A |
+| 30 | [#Ravanasura](http://twitter.com/search?q=%23Ravanasura) | N/A |
+| 31 | [#MadgaonExpress](http://twitter.com/search?q=%23MadgaonExpress) | N/A |
+| 32 | [#TripuraElections2023](http://twitter.com/search?q=%23TripuraElections2023) | N/A |
+| 33 | [#SachinTendulkar](http://twitter.com/search?q=%23SachinTendulkar) | N/A |
+| 34 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 35 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 36 | [#RanjiTrophyFinal](http://twitter.com/search?q=%23RanjiTrophyFinal) | N/A |
+| 37 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
+| 38 | [#PakistanEconomy](http://twitter.com/search?q=%23PakistanEconomy) | N/A |
+| 39 | [#AdaniPower](http://twitter.com/search?q=%23AdaniPower) | N/A |
+| 40 | [#JusticeForPrabhu](http://twitter.com/search?q=%23JusticeForPrabhu) | N/A |
+| 41 | [#PetrolDieselPrice](http://twitter.com/search?q=%23PetrolDieselPrice) | #PetrolDieselPrice is a hashtag used on social media to discuss the current prices of petrol and diesel fuel. It is used to share information about fuel prices, ask questions about fuel prices, and discuss the impact of fuel prices on people's lives. |
+| 42 | [#BurjKhalifa](http://twitter.com/search?q=%23BurjKhalifa) | N/A |
+| 43 | [#AdityaRoyKapur](http://twitter.com/search?q=%23AdityaRoyKapur) | N/A |
+| 44 | [#Suriya](http://twitter.com/search?q=%23Suriya) | N/A |
+| 45 | [#NoraFatehi](http://twitter.com/search?q=%23NoraFatehi) | N/A |
+| 46 | [#संतरामपालजी_बोधदिवस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80_%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 47 | [#Bakasuran](http://twitter.com/search?q=%23Bakasuran) | N/A |
+| 48 | [#Shehzada](http://twitter.com/search?q=%23Shehzada) | #Shehzada is a Hindi word that translates to "Prince" in English. It is used to refer to a male member of a royal family, usually the son of a king or emperor. |
+| 49 | [#YogiBabu](http://twitter.com/search?q=%23YogiBabu) | N/A |
 
 
 

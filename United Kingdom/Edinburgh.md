@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-16 10:16:24 UTC`
+📆 Last Updated: `2023-02-16 11:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Indy](http://twitter.com/search?q=Indy) | N/A |
 | 3 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
 | 4 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [#nzvseng](http://twitter.com/search?q=%23nzvseng) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 10 | [#ASongOrMovieForAnythingNew](http://twitter.com/search?q=%23ASongOrMovieForAnythingNew) | N/A |
-| 11 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 12 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 13 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 14 | [Jimmy Jimmy](http://twitter.com/search?q=Jimmy+Jimmy) | N/A |
-| 15 | [Striking](http://twitter.com/search?q=Striking) | N/A |
-| 16 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 17 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 18 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
-| 19 | [FTSE 100](http://twitter.com/search?q=FTSE+100) | N/A |
-| 20 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 21 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
-| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 23 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
-| 24 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 25 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 26 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
-| 27 | [Peston](http://twitter.com/search?q=Peston) | N/A |
-| 28 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 29 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
-| 30 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 31 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
-| 32 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 33 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
-| 34 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
-| 35 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 36 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 37 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
-| 38 | [#ucuRSING](http://twitter.com/search?q=%23ucuRSING) | N/A |
-| 39 | [#WindfallTax](http://twitter.com/search?q=%23WindfallTax) | N/A |
-| 40 | [#yellow](http://twitter.com/search?q=%23yellow) | N/A |
-| 41 | [#AdoorableThursday](http://twitter.com/search?q=%23AdoorableThursday) | N/A |
-| 42 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 43 | [#ENGvNZ](http://twitter.com/search?q=%23ENGvNZ) | N/A |
-| 44 | [#BOOM](http://twitter.com/search?q=%23BOOM) | N/A |
-| 45 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 46 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 47 | [#bbccricket](http://twitter.com/search?q=%23bbccricket) | N/A |
-| 48 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
-| 49 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
-| 50 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 5 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 8 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 9 | [#nzvseng](http://twitter.com/search?q=%23nzvseng) | N/A |
+| 10 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 11 | [Razzle](http://twitter.com/search?q=Razzle) | N/A |
+| 12 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 13 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 14 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
+| 15 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 16 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 17 | [Jimmy Jimmy](http://twitter.com/search?q=Jimmy+Jimmy) | N/A |
+| 18 | [Striking](http://twitter.com/search?q=Striking) | N/A |
+| 19 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 20 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 21 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 22 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 23 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 24 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 25 | [FTSE 100](http://twitter.com/search?q=FTSE+100) | N/A |
+| 26 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 27 | [crawley](http://twitter.com/search?q=crawley) | N/A |
+| 28 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
+| 29 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 30 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
+| 31 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 32 | [Fisherthem](http://twitter.com/search?q=Fisherthem) | N/A |
+| 33 | [ed balls](http://twitter.com/search?q=ed+balls) | N/A |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 35 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
+| 36 | [Peston](http://twitter.com/search?q=Peston) | N/A |
+| 37 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 38 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
+| 39 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 40 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 41 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
+| 42 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 43 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
+| 44 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 45 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 46 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 47 | [#ASongOrMovieForAnythingNew](http://twitter.com/search?q=%23ASongOrMovieForAnythingNew) | N/A |
+| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 49 | [#ucuRSING](http://twitter.com/search?q=%23ucuRSING) | N/A |
+| 50 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
 
 
 
