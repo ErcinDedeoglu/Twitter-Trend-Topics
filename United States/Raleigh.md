@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-16 14:17:54 UTC`
+📆 Last Updated: `2023-02-16 15:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
 | 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 5 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 5 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
 | 6 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 7 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 8 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 9 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 11 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 12 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 13 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 15 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 16 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 17 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 19 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 20 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 21 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 22 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 23 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 24 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 25 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 26 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 27 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 28 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 29 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 30 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 31 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 32 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 33 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 34 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 35 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 36 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
-| 37 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 38 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 39 | [Youngkin](http://twitter.com/search?q=Youngkin) | N/A |
-| 40 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 41 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 42 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
-| 43 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 44 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 45 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
-| 46 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
-| 47 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
-| 48 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 7 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 8 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 9 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 10 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
+| 11 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 14 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 15 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 16 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 17 | [Udoka](http://twitter.com/search?q=Udoka) | N/A |
+| 18 | [Mester](http://twitter.com/search?q=Mester) | N/A |
+| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 20 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
+| 21 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 22 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 24 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 27 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 28 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 29 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 30 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 31 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 32 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 33 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 34 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 35 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 36 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 37 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 38 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 39 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 40 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 41 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 42 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 43 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
+| 44 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
+| 45 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 46 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 47 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
+| 48 | [Skynet](http://twitter.com/search?q=Skynet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-16 14:17:24 UTC`
+📆 Last Updated: `2023-02-16 15:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
-| 2 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 1 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 2 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
 | 3 | [#Karneval](http://twitter.com/search?q=%23Karneval) | N/A |
 | 4 | [#Weiberfastnacht](http://twitter.com/search?q=%23Weiberfastnacht) | N/A |
 | 5 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
@@ -25,44 +25,44 @@ This is top 50 for [Germany](</Germany>)
 | 8 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
 | 9 | [Zweiräder](http://twitter.com/search?q=Zweir%c3%a4der) | N/A |
 | 10 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 12 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 11 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 12 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
 | 13 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
 | 14 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
 | 15 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
 | 16 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 17 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 18 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 21 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 22 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 23 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 24 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 25 | ["Kriegseuphorie"](http://twitter.com/search?q=%22Kriegseuphorie%22) | N/A |
-| 26 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [eigenheim](http://twitter.com/search?q=eigenheim) | N/A |
+| 19 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 20 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 21 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 22 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 23 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 24 | ["Kriegseuphorie"](http://twitter.com/search?q=%22Kriegseuphorie%22) | N/A |
+| 25 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 26 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
 | 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 29 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 30 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
+| 28 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 29 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
+| 30 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
 | 31 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
 | 32 | [Beton](http://twitter.com/search?q=Beton) | N/A |
-| 33 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 34 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
-| 35 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
-| 36 | [Industrie](http://twitter.com/search?q=Industrie) | N/A |
-| 37 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 38 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 39 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 40 | [Umweltgesetze](http://twitter.com/search?q=Umweltgesetze) | N/A |
-| 41 | [Klöckner](http://twitter.com/search?q=Kl%c3%b6ckner) | N/A |
-| 42 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 43 | [MODESTE](http://twitter.com/search?q=MODESTE) | N/A |
-| 44 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 33 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
+| 34 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 35 | [Industrie](http://twitter.com/search?q=Industrie) | N/A |
+| 36 | [Umweltgesetze](http://twitter.com/search?q=Umweltgesetze) | N/A |
+| 37 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 38 | [Klöckner](http://twitter.com/search?q=Kl%c3%b6ckner) | N/A |
+| 39 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 40 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 41 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 42 | [MODESTE](http://twitter.com/search?q=MODESTE) | N/A |
+| 43 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 45 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 46 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 47 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 48 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 46 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 47 | [bagger](http://twitter.com/search?q=bagger) | N/A |
+| 48 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
 
 
 

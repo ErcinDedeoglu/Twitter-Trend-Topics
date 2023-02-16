@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-16 14:17:36 UTC`
+📆 Last Updated: `2023-02-16 15:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JoshCullenSoundBite2](http://twitter.com/search?q=%23JoshCullenSoundBite2) | N/A |
-| 2 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
-| 3 | [#MCIProtectBasilioAtAllCosts](http://twitter.com/search?q=%23MCIProtectBasilioAtAllCosts) | N/A |
-| 4 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 5 | [#DLNegotiation](http://twitter.com/search?q=%23DLNegotiation) | N/A |
-| 6 | [#DreamMakerPIESaya](http://twitter.com/search?q=%23DreamMakerPIESaya) | N/A |
-| 7 | [#MissCharm2023](http://twitter.com/search?q=%23MissCharm2023) | N/A |
-| 8 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 9 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 10 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
-| 11 | [SHAIBEN BTS HINAHANAP KA](http://twitter.com/search?q=SHAIBEN+BTS+HINAHANAP+KA) | N/A |
-| 12 | [EN-O'CLOCK IS BACK](http://twitter.com/search?q=EN-O%27CLOCK+IS+BACK) | N/A |
-| 13 | [Sam Milby](http://twitter.com/search?q=Sam+Milby) | N/A |
-| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 15 | [PALONG PALO SA ZACHAM](http://twitter.com/search?q=PALONG+PALO+SA+ZACHAM) | N/A |
-| 16 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
-| 17 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 18 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 19 | [FRANSETH 46LoveSary](http://twitter.com/search?q=FRANSETH+46LoveSary) | N/A |
-| 20 | [Catriona](http://twitter.com/search?q=Catriona) | Catriona is a Scottish female name derived from the Gaelic name Caitríona, which means "pure" or "chaste". |
-| 21 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 22 | [ConTENted WITH ROBXINE](http://twitter.com/search?q=ConTENted+WITH+ROBXINE) | N/A |
-| 23 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 24 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 25 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 26 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 27 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 28 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 29 | [#EN_OCLOCK](http://twitter.com/search?q=%23EN_OCLOCK) | N/A |
-| 30 | [#BSS2ndWin](http://twitter.com/search?q=%23BSS2ndWin) | N/A |
-| 31 | [#Fighting2ndWin](http://twitter.com/search?q=%23Fighting2ndWin) | N/A |
-| 32 | [#LuvIsFriends](http://twitter.com/search?q=%23LuvIsFriends) | N/A |
-| 33 | [#TIHSparring](http://twitter.com/search?q=%23TIHSparring) | N/A |
-| 34 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 35 | [#FPJBQDate](http://twitter.com/search?q=%23FPJBQDate) | N/A |
-| 36 | [#DisneyPlusPH](http://twitter.com/search?q=%23DisneyPlusPH) | N/A |
-| 37 | [#jhopelNTHEBOX](http://twitter.com/search?q=%23jhopelNTHEBOX) | N/A |
-| 38 | [#EN_HealingTime](http://twitter.com/search?q=%23EN_HealingTime) | N/A |
-| 39 | [#DreamMaker_JOM](http://twitter.com/search?q=%23DreamMaker_JOM) | N/A |
-| 40 | [#ShopeeAsks](http://twitter.com/search?q=%23ShopeeAsks) | N/A |
-| 41 | [#JeongyeonxGQ](http://twitter.com/search?q=%23JeongyeonxGQ) | N/A |
-| 42 | [#VeeWiseForNylonMNL](http://twitter.com/search?q=%23VeeWiseForNylonMNL) | N/A |
-| 43 | [#NIALLHEAVENPHPARTY](http://twitter.com/search?q=%23NIALLHEAVENPHPARTY) | N/A |
-| 44 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 45 | [#holdap2](http://twitter.com/search?q=%23holdap2) | N/A |
-| 46 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 47 | [#Press_Hit_Play](http://twitter.com/search?q=%23Press_Hit_Play) | N/A |
-| 48 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 49 | [#ClashCon](http://twitter.com/search?q=%23ClashCon) | N/A |
-| 50 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 1 | [#MissCharm2023](http://twitter.com/search?q=%23MissCharm2023) | N/A |
+| 2 | [#ReadyToBe_Tracklist](http://twitter.com/search?q=%23ReadyToBe_Tracklist) | N/A |
+| 3 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
+| 4 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
+| 5 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 6 | [#DLNegotiation](http://twitter.com/search?q=%23DLNegotiation) | N/A |
+| 7 | [#JoshCullenSoundBite2](http://twitter.com/search?q=%23JoshCullenSoundBite2) | N/A |
+| 8 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
+| 9 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 10 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 11 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 12 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 13 | [Annabelle](http://twitter.com/search?q=Annabelle) | N/A |
+| 14 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 15 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
+| 16 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 17 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 20 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 22 | [SHAIBEN BTS HINAHANAP KA](http://twitter.com/search?q=SHAIBEN+BTS+HINAHANAP+KA) | N/A |
+| 23 | [EN-O'CLOCK IS BACK](http://twitter.com/search?q=EN-O%27CLOCK+IS+BACK) | N/A |
+| 24 | [Catriona](http://twitter.com/search?q=Catriona) | Catriona is a Scottish female name derived from the Gaelic name Caitríona, which means "pure" or "chaste". |
+| 25 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 26 | [chery tiggo](http://twitter.com/search?q=chery+tiggo) | N/A |
+| 27 | [ConTENted WITH ROBXINE](http://twitter.com/search?q=ConTENted+WITH+ROBXINE) | N/A |
+| 28 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 29 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 30 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 31 | [MCAI](http://twitter.com/search?q=MCAI) | N/A |
+| 32 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 33 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 35 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 36 | [#MCIProtectBasilioAtAllCosts](http://twitter.com/search?q=%23MCIProtectBasilioAtAllCosts) | N/A |
+| 37 | [#まきわんおたおめ2023](http://twitter.com/search?q=%23%e3%81%be%e3%81%8d%e3%82%8f%e3%82%93%e3%81%8a%e3%81%9f%e3%81%8a%e3%82%812023) | N/A |
+| 38 | [#우리_소중한_막내_치키타_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%86%8c%ec%a4%91%ed%95%9c_%eb%a7%89%eb%82%b4_%ec%b9%98%ed%82%a4%ed%83%80_%eb%8d%b0%ec%9d%b4) | N/A |
+| 39 | [#our_cutepuppy_MAKI](http://twitter.com/search?q=%23our_cutepuppy_MAKI) | N/A |
+| 40 | [#OurPrincessChiquitaDay](http://twitter.com/search?q=%23OurPrincessChiquitaDay) | N/A |
+| 41 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 42 | [#DreamMakerPIESaya](http://twitter.com/search?q=%23DreamMakerPIESaya) | N/A |
+| 43 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 44 | [#LuvIsFriends](http://twitter.com/search?q=%23LuvIsFriends) | N/A |
+| 45 | [#FPJBQDate](http://twitter.com/search?q=%23FPJBQDate) | N/A |
+| 46 | [#TIHSparring](http://twitter.com/search?q=%23TIHSparring) | N/A |
+| 47 | [#DisneyPlusPH](http://twitter.com/search?q=%23DisneyPlusPH) | N/A |
+| 48 | [#BSS2ndWin](http://twitter.com/search?q=%23BSS2ndWin) | N/A |
+| 49 | [#EN_OCLOCK](http://twitter.com/search?q=%23EN_OCLOCK) | N/A |
+| 50 | [#Fighting2ndWin](http://twitter.com/search?q=%23Fighting2ndWin) | N/A |
 
 
 

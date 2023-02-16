@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-16 14:17:11 UTC`
+📆 Last Updated: `2023-02-16 15:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Indy](http://twitter.com/search?q=Indy) | N/A |
 | 2 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
 | 3 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 4 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
-| 5 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 6 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
-| 7 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 8 | [Ian Holloway](http://twitter.com/search?q=Ian+Holloway) | N/A |
-| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 10 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 11 | [#StormOtto](http://twitter.com/search?q=%23StormOtto) | N/A |
-| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 13 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 14 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 15 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
-| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 17 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 18 | [Razzle](http://twitter.com/search?q=Razzle) | N/A |
-| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 21 | [National Service](http://twitter.com/search?q=National+Service) | N/A |
-| 22 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
-| 23 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 24 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 26 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 27 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 28 | [Jeremy Vine](http://twitter.com/search?q=Jeremy+Vine) | N/A |
-| 29 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 30 | [Lancashire](http://twitter.com/search?q=Lancashire) | N/A |
+| 4 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 5 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 6 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
+| 7 | [Centrica](http://twitter.com/search?q=Centrica) | N/A |
+| 8 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 9 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 10 | [Ian Holloway](http://twitter.com/search?q=Ian+Holloway) | N/A |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [Storm Otto](http://twitter.com/search?q=Storm+Otto) | N/A |
+| 13 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 14 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 15 | [#Menopause](http://twitter.com/search?q=%23Menopause) | N/A |
+| 16 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 17 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 18 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 19 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 20 | [National Service](http://twitter.com/search?q=National+Service) | N/A |
+| 21 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 23 | [Razzle](http://twitter.com/search?q=Razzle) | N/A |
+| 24 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 25 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
+| 26 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 27 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 28 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 29 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 30 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
 | 31 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 32 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 33 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 34 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
-| 35 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 36 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
-| 37 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
-| 38 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 39 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 40 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 41 | [Starmer's Labour](http://twitter.com/search?q=Starmer%27s+Labour) | N/A |
-| 42 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 43 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 44 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 45 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 46 | [#Menopause](http://twitter.com/search?q=%23Menopause) | N/A |
-| 47 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 48 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
-| 49 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 32 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 33 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 34 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 35 | [Jeremy Vine](http://twitter.com/search?q=Jeremy+Vine) | N/A |
+| 36 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 37 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 38 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
+| 39 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 40 | [FPTP](http://twitter.com/search?q=FPTP) | N/A |
+| 41 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 42 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 43 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 44 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 45 | [#ToriesOut224](http://twitter.com/search?q=%23ToriesOut224) | N/A |
+| 46 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 48 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
+| 49 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-16 14:17:51 UTC`
+📆 Last Updated: `2023-02-16 15:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 3 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 5 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 6 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 2 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 3 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 4 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 7 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
 | 8 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 | 10 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 11 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 13 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 14 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 15 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 16 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 19 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 20 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 21 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 23 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 24 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 25 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 26 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 27 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 28 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 29 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 30 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 31 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 32 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 33 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 34 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 35 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 36 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 37 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 38 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 39 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 40 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
-| 41 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 43 | [Youngkin](http://twitter.com/search?q=Youngkin) | N/A |
-| 44 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 45 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 46 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
-| 47 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 48 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 49 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
-| 50 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 11 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 12 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 13 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
+| 14 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
+| 15 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 16 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 17 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 18 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 19 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 20 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 22 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
+| 23 | [Mester](http://twitter.com/search?q=Mester) | N/A |
+| 24 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 25 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 26 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 28 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 30 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 31 | [Udoka](http://twitter.com/search?q=Udoka) | N/A |
+| 32 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 33 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 34 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 35 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 36 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 37 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 38 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 39 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 40 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 41 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 42 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 43 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 45 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 46 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
+| 47 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 48 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 49 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 50 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
 
 
 

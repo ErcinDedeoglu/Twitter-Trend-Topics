@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-16 14:17:49 UTC`
+📆 Last Updated: `2023-02-16 15:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 2 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 5 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 6 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 10 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 11 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 14 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 17 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 18 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 19 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 21 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 22 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 23 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 24 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 25 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 26 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 27 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 28 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 29 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 3 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 4 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 5 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 7 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 8 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 9 | [Ryan Seacrest](http://twitter.com/search?q=Ryan+Seacrest) | N/A |
+| 10 | [Live with Kelly and Ryan](http://twitter.com/search?q=Live+with+Kelly+and+Ryan) | N/A |
+| 11 | [Mark Consuelos](http://twitter.com/search?q=Mark+Consuelos) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 14 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 15 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 16 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 17 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 19 | [Kelly Ripa](http://twitter.com/search?q=Kelly+Ripa) | N/A |
+| 20 | [Mester](http://twitter.com/search?q=Mester) | N/A |
+| 21 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 22 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 23 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 24 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 25 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 27 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 28 | [Udoka](http://twitter.com/search?q=Udoka) | N/A |
+| 29 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
 | 30 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 31 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 32 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 33 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 34 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 35 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 36 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 37 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 38 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
-| 39 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 41 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 42 | [Youngkin](http://twitter.com/search?q=Youngkin) | N/A |
-| 43 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 44 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
-| 45 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
-| 46 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
-| 47 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 48 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
-| 49 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
-| 50 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 31 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 32 | [Ricky Williams](http://twitter.com/search?q=Ricky+Williams) | N/A |
+| 33 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 34 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 35 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 36 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 37 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 38 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 39 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 40 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 41 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 42 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
+| 43 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 44 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 45 | [ViDoc](http://twitter.com/search?q=ViDoc) | N/A |
+| 46 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
+| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 48 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 49 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
+| 50 | [Skynet](http://twitter.com/search?q=Skynet) | N/A |
 
 
 

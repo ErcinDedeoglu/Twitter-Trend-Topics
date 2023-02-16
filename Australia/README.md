@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-16 14:17:56 UTC`
+📆 Last Updated: `2023-02-16 15:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AUSvCZE](http://twitter.com/search?q=%23AUSvCZE) | N/A |
-| 2 | [Deane](http://twitter.com/search?q=Deane) | N/A |
-| 3 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 4 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 2 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 3 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 4 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
 | 5 | [#CupOfNations](http://twitter.com/search?q=%23CupOfNations) | N/A |
-| 6 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 7 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
-| 8 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 9 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 10 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 11 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 14 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 15 | [CPRS](http://twitter.com/search?q=CPRS) | N/A |
-| 16 | [wieambilla](http://twitter.com/search?q=wieambilla) | N/A |
-| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 18 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | N/A |
-| 19 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 20 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 21 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 22 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 23 | [Gosford](http://twitter.com/search?q=Gosford) | N/A |
-| 24 | [port lincoln](http://twitter.com/search?q=port+lincoln) | N/A |
-| 25 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 26 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 27 | [Poulos](http://twitter.com/search?q=Poulos) | N/A |
-| 28 | [Dylan Langridge](http://twitter.com/search?q=Dylan+Langridge) | N/A |
-| 29 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 30 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 31 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
-| 32 | [Trevor Davis](http://twitter.com/search?q=Trevor+Davis) | N/A |
-| 33 | [Dugald River](http://twitter.com/search?q=Dugald+River) | N/A |
-| 34 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 35 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 36 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
-| 37 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 38 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
-| 39 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 40 | [CSIRO](http://twitter.com/search?q=CSIRO) | N/A |
-| 41 | [Red Dwarf](http://twitter.com/search?q=Red+Dwarf) | N/A |
-| 42 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 43 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 44 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 45 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 46 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 47 | [flinders](http://twitter.com/search?q=flinders) | N/A |
-| 48 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 49 | [kurtis conner](http://twitter.com/search?q=kurtis+conner) | N/A |
-| 50 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 6 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 7 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 8 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 9 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 10 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 11 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 12 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 13 | [Shower](http://twitter.com/search?q=Shower) | N/A |
+| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 17 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 19 | [CPRS](http://twitter.com/search?q=CPRS) | N/A |
+| 20 | [wieambilla](http://twitter.com/search?q=wieambilla) | N/A |
+| 21 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | N/A |
+| 22 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 23 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 24 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 25 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 27 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 28 | [Gosford](http://twitter.com/search?q=Gosford) | N/A |
+| 29 | [port lincoln](http://twitter.com/search?q=port+lincoln) | N/A |
+| 30 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 31 | [peter poulos](http://twitter.com/search?q=peter+poulos) | N/A |
+| 32 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 33 | [Dylan Langridge](http://twitter.com/search?q=Dylan+Langridge) | N/A |
+| 34 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 35 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 36 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
+| 37 | [Trevor Davis](http://twitter.com/search?q=Trevor+Davis) | N/A |
+| 38 | [dugald river](http://twitter.com/search?q=dugald+river) | N/A |
+| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 40 | [Penthouse](http://twitter.com/search?q=Penthouse) | N/A |
+| 41 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 42 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 43 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
+| 44 | [CSIRO](http://twitter.com/search?q=CSIRO) | N/A |
+| 45 | [Red Dwarf](http://twitter.com/search?q=Red+Dwarf) | N/A |
+| 46 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 47 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 48 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 50 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
 
 
 

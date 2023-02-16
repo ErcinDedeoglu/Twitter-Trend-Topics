@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-16 14:17:30 UTC`
+📆 Last Updated: `2023-02-16 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sefleksibelitu](http://twitter.com/search?q=%23Sefleksibelitu) | N/A |
-| 2 | [#KatarsisSeries](http://twitter.com/search?q=%23KatarsisSeries) | N/A |
+| 1 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
+| 2 | [#Sefleksibelitu](http://twitter.com/search?q=%23Sefleksibelitu) | N/A |
 | 3 | [Apriyani](http://twitter.com/search?q=Apriyani) | N/A |
-| 4 | [Pevita Pearce](http://twitter.com/search?q=Pevita+Pearce) | N/A |
-| 5 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 6 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
-| 7 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
-| 8 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 9 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 10 | [04 triliun](http://twitter.com/search?q=04+triliun) | N/A |
-| 11 | [Laba Bersih BTN Rp3](http://twitter.com/search?q=Laba+Bersih+BTN+Rp3) | N/A |
-| 12 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
-| 13 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 14 | [Yunus Nusi](http://twitter.com/search?q=Yunus+Nusi) | N/A |
-| 15 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
-| 16 | [Hanan Attaki](http://twitter.com/search?q=Hanan+Attaki) | N/A |
-| 17 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 18 | [Ibul](http://twitter.com/search?q=Ibul) | N/A |
-| 19 | [Zainudin Amali](http://twitter.com/search?q=Zainudin+Amali) | N/A |
-| 20 | [Pegawai Nagita Slavina](http://twitter.com/search?q=Pegawai+Nagita+Slavina) | N/A |
-| 21 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
-| 22 | [Exco](http://twitter.com/search?q=Exco) | N/A |
-| 23 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 24 | [Dandi](http://twitter.com/search?q=Dandi) | N/A |
-| 25 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
-| 26 | [Baby's Day Out](http://twitter.com/search?q=Baby%27s+Day+Out) | N/A |
-| 27 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 28 | [Haikyuu](http://twitter.com/search?q=Haikyuu) | N/A |
-| 29 | [Pisang](http://twitter.com/search?q=Pisang) | N/A |
-| 30 | [Wakil](http://twitter.com/search?q=Wakil) | N/A |
+| 4 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
+| 5 | [#KatarsisSeries](http://twitter.com/search?q=%23KatarsisSeries) | N/A |
+| 6 | [Pevita Pearce](http://twitter.com/search?q=Pevita+Pearce) | N/A |
+| 7 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 8 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 9 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 10 | [Ahmad Riyadh](http://twitter.com/search?q=Ahmad+Riyadh) | N/A |
+| 11 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 12 | [04 triliun](http://twitter.com/search?q=04+triliun) | N/A |
+| 13 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 15 | [Exco](http://twitter.com/search?q=Exco) | N/A |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [DAHYUN](http://twitter.com/search?q=DAHYUN) | N/A |
+| 18 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
+| 19 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
+| 20 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 21 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
+| 22 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 23 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 24 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 25 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 26 | [Hanan Attaki](http://twitter.com/search?q=Hanan+Attaki) | N/A |
+| 27 | [Bersih](http://twitter.com/search?q=Bersih) | N/A |
+| 28 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
+| 29 | [Ibul](http://twitter.com/search?q=Ibul) | N/A |
+| 30 | [baby's day out](http://twitter.com/search?q=baby%27s+day+out) | N/A |
 | 31 | [Iwan Bule](http://twitter.com/search?q=Iwan+Bule) | N/A |
 | 32 | [Sekjen](http://twitter.com/search?q=Sekjen) | N/A |
 | 33 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
-| 34 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 35 | [Vidio](http://twitter.com/search?q=Vidio) | N/A |
-| 36 | [Selamat Pak](http://twitter.com/search?q=Selamat+Pak) | N/A |
-| 37 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
-| 38 | [Telur](http://twitter.com/search?q=Telur) | N/A |
-| 39 | [Menteri](http://twitter.com/search?q=Menteri) | N/A |
-| 40 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 41 | [#PearlMoisturizer](http://twitter.com/search?q=%23PearlMoisturizer) | N/A |
-| 42 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
-| 43 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 44 | [#KinerjaBTNMelesat](http://twitter.com/search?q=%23KinerjaBTNMelesat) | N/A |
-| 45 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
-| 46 | [#MeditasiOnline](http://twitter.com/search?q=%23MeditasiOnline) | N/A |
-| 47 | [#SpiritualGaul](http://twitter.com/search?q=%23SpiritualGaul) | N/A |
-| 48 | [#SpiritualModern](http://twitter.com/search?q=%23SpiritualModern) | N/A |
-| 49 | [#MisteriMeditasi](http://twitter.com/search?q=%23MisteriMeditasi) | N/A |
-| 50 | [#MisteriSemesta](http://twitter.com/search?q=%23MisteriSemesta) | N/A |
+| 34 | [Pisang](http://twitter.com/search?q=Pisang) | N/A |
+| 35 | [Zainudin Amali](http://twitter.com/search?q=Zainudin+Amali) | N/A |
+| 36 | [Vidio](http://twitter.com/search?q=Vidio) | N/A |
+| 37 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
+| 38 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
+| 39 | [#PearlMoisturizer](http://twitter.com/search?q=%23PearlMoisturizer) | N/A |
+| 40 | [#OurPrincessChiquitaDay](http://twitter.com/search?q=%23OurPrincessChiquitaDay) | N/A |
+| 41 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 42 | [#KinerjaBTNMelesat](http://twitter.com/search?q=%23KinerjaBTNMelesat) | N/A |
+| 43 | [#우리_소중한_막내_치키타_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%86%8c%ec%a4%91%ed%95%9c_%eb%a7%89%eb%82%b4_%ec%b9%98%ed%82%a4%ed%83%80_%eb%8d%b0%ec%9d%b4) | N/A |
+| 44 | [#our_cutepuppy_MAKI](http://twitter.com/search?q=%23our_cutepuppy_MAKI) | N/A |
+| 45 | [#まきわんおたおめ2023](http://twitter.com/search?q=%23%e3%81%be%e3%81%8d%e3%82%8f%e3%82%93%e3%81%8a%e3%81%9f%e3%81%8a%e3%82%812023) | N/A |
+| 46 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
+| 47 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 48 | [#MemoriesWithBuild](http://twitter.com/search?q=%23MemoriesWithBuild) | N/A |
+| 49 | [#SCOUPS](http://twitter.com/search?q=%23SCOUPS) | N/A |
+| 50 | [#KarmaReinkarnasi](http://twitter.com/search?q=%23KarmaReinkarnasi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-16 14:17:39 UTC`
+📆 Last Updated: `2023-02-16 15:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 3 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
 | 4 | [#DieHartZA](http://twitter.com/search?q=%23DieHartZA) | N/A |
-| 5 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
-| 6 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 7 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 8 | [#BBTitan](http://twitter.com/search?q=%23BBTitan) | N/A |
-| 9 | [#DonDesign](http://twitter.com/search?q=%23DonDesign) | N/A |
+| 5 | [Prime Video ZA](http://twitter.com/search?q=Prime+Video+ZA) | N/A |
+| 6 | [#GirlTaken](http://twitter.com/search?q=%23GirlTaken) | N/A |
+| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 8 | [#RIPKiernan](http://twitter.com/search?q=%23RIPKiernan) | N/A |
+| 9 | [#BBTitan](http://twitter.com/search?q=%23BBTitan) | N/A |
 | 10 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 11 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 12 | [FOCUS ON THABANG](http://twitter.com/search?q=FOCUS+ON+THABANG) | N/A |
-| 13 | [Anele Tembe](http://twitter.com/search?q=Anele+Tembe) | N/A |
-| 14 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 15 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 16 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 11 | [FOCUS ON THABANG](http://twitter.com/search?q=FOCUS+ON+THABANG) | N/A |
+| 12 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 13 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 14 | [Anele Tembe](http://twitter.com/search?q=Anele+Tembe) | N/A |
+| 15 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 16 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 17 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 19 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
-| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 21 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 22 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 25 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 19 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 20 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 23 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 24 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 25 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 26 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 28 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 29 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 30 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 31 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 32 | [Moses Tembe](http://twitter.com/search?q=Moses+Tembe) | N/A |
+| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 28 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 29 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 31 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
+| 32 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
 | 33 | [anthony taylor](http://twitter.com/search?q=anthony+taylor) | N/A |
 | 34 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
 | 35 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 36 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
-| 37 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 38 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 39 | [xmage camera with 10](http://twitter.com/search?q=xmage+camera+with+10) | N/A |
-| 40 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 41 | [unbeatable thabang](http://twitter.com/search?q=unbeatable+thabang) | N/A |
-| 42 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 43 | [Moses Mabhida](http://twitter.com/search?q=Moses+Mabhida) | N/A |
-| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 45 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 46 | [Mbombela](http://twitter.com/search?q=Mbombela) | N/A |
-| 47 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 48 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 49 | [dawn park shopping centre](http://twitter.com/search?q=dawn+park+shopping+centre) | N/A |
-| 50 | [Boity](http://twitter.com/search?q=Boity) | N/A |
+| 36 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 37 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 38 | [xmage camera with 10](http://twitter.com/search?q=xmage+camera+with+10) | N/A |
+| 39 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
+| 40 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 41 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 42 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 43 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 44 | [dawn park shopping centre](http://twitter.com/search?q=dawn+park+shopping+centre) | N/A |
+| 45 | [Boity](http://twitter.com/search?q=Boity) | N/A |
+| 46 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 47 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 48 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 49 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 50 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
 
 
 
