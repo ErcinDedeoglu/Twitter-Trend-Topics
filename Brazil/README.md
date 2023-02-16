@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-16 01:46:11 UTC`
+📆 Last Updated: `2023-02-16 02:40:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 2 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 3 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 4 | [Wellington Rato](http://twitter.com/search?q=Wellington+Rato) | Wellington Rato is a Portuguese expression that literally translates to "Wellington Boot". It is used to describe someone who is clumsy or awkward. |
+| 1 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 2 | [Pablo Maia](http://twitter.com/search?q=Pablo+Maia) | Pablo Maia is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "humble little one". |
+| 3 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 4 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
 | 5 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 6 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 7 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 8 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 9 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 10 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
-| 11 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 12 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
-| 13 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 14 | [#CariocaNoBS](http://twitter.com/search?q=%23CariocaNoBS) | #CariocaNoBS is a hashtag used on social media by people from Rio de Janeiro, Brazil. It translates to "No Bullshit Carioca," and is used to express a sense of pride in the city and its culture. |
-| 15 | [#VRExFLA](http://twitter.com/search?q=%23VRExFLA) | N/A |
-| 16 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
-| 17 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
-| 18 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 19 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 20 | [Esse Flamengo](http://twitter.com/search?q=Esse+Flamengo) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [Naninho](http://twitter.com/search?q=Naninho) | N/A |
-| 24 | [Indisponível](http://twitter.com/search?q=Indispon%c3%advel) | N/A |
-| 25 | [Inter de Limeira](http://twitter.com/search?q=Inter+de+Limeira) | Inter de Limeira is a Brazilian football club based in Limeira, São Paulo. The club was founded in 1920 and currently plays in the Campeonato Paulista Série A2, the second tier of the São Paulo state football league. The name Inter de Limeira translates to "Limeira Inter" in English. |
-| 26 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
-| 27 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 28 | [ESTAMOS COM VOCÊ KEYT](http://twitter.com/search?q=ESTAMOS+COM+VOC%c3%8a+KEYT) | N/A |
-| 29 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 30 | [Esse Dudu](http://twitter.com/search?q=Esse+Dudu) | N/A |
-| 31 | [Resistência](http://twitter.com/search?q=Resist%c3%aancia) | Resistência is a Portuguese word that means resistance or resilience. It is often used to refer to the strength and determination of a person or group in the face of adversity. In English, it can be used to describe someone who is determined to fight for what they believe in, even when faced with difficult obstacles. |
-| 32 | [Esse Vitor Pereira](http://twitter.com/search?q=Esse+Vitor+Pereira) | N/A |
-| 33 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 34 | [Pinho](http://twitter.com/search?q=Pinho) | Pinho is a Portuguese word meaning "pine tree". It is often used to refer to the Pinus species of trees, which are native to the Mediterranean region. |
-| 35 | [O Gabigol](http://twitter.com/search?q=O+Gabigol) | N/A |
-| 36 | [ALL KILL NA HOPEWEEK](http://twitter.com/search?q=ALL+KILL+NA+HOPEWEEK) | N/A |
-| 37 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 38 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 39 | [scream 6](http://twitter.com/search?q=scream+6) | N/A |
-| 40 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 41 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 42 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 43 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 44 | [W. Rato](http://twitter.com/search?q=W.+Rato) | N/A |
-| 45 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 46 | [JENNIES LOVE JENNA](http://twitter.com/search?q=JENNIES+LOVE+JENNA) | N/A |
-| 47 | [Domenec](http://twitter.com/search?q=Domenec) | N/A |
-| 48 | [Ferroviária](http://twitter.com/search?q=Ferrovi%c3%a1ria) | N/A |
-| 49 | [saad](http://twitter.com/search?q=saad) | N/A |
-| 50 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 6 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 7 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 8 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 9 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 10 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 11 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 12 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 13 | [Wellington Rato](http://twitter.com/search?q=Wellington+Rato) | Wellington Rato is a Portuguese expression that literally translates to "Wellington Boot". It is used to describe someone who is clumsy or awkward. |
+| 14 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 15 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
+| 16 | [ACM NETO](http://twitter.com/search?q=ACM+NETO) | N/A |
+| 17 | [#VRExFLA](http://twitter.com/search?q=%23VRExFLA) | N/A |
+| 18 | [#CariocaNoBS](http://twitter.com/search?q=%23CariocaNoBS) | #CariocaNoBS is a hashtag used on social media by people from Rio de Janeiro, Brazil. It translates to "No Bullshit Carioca," and is used to express a sense of pride in the city and its culture. |
+| 19 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
+| 20 | [aspas](http://twitter.com/search?q=aspas) | N/A |
+| 21 | [Inter de Limeira](http://twitter.com/search?q=Inter+de+Limeira) | Inter de Limeira is a Brazilian football club based in Limeira, São Paulo. The club was founded in 1920 and currently plays in the Campeonato Paulista Série A2, the second tier of the São Paulo state football league. The name Inter de Limeira translates to "Limeira Inter" in English. |
+| 22 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 23 | [#CariocaNaBand](http://twitter.com/search?q=%23CariocaNaBand) | N/A |
+| 24 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
+| 25 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 26 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 27 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 28 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 29 | [Naninho](http://twitter.com/search?q=Naninho) | N/A |
+| 30 | [Indisponível](http://twitter.com/search?q=Indispon%c3%advel) | N/A |
+| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 32 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 33 | [Esse Flamengo](http://twitter.com/search?q=Esse+Flamengo) | N/A |
+| 34 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 35 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 36 | [QUER UM 9 BOLADO](http://twitter.com/search?q=QUER+UM+9+BOLADO) | "QUER UM 9 BOLADO" is a Portuguese phrase that translates to "Do you want a nine ball?" It is typically used in the context of playing pool or billiards. |
+| 37 | [Meu 10](http://twitter.com/search?q=Meu+10) | Meu 10 is a Brazilian expression that literally translates to "My 10." It is used to express approval or agreement with something, similar to the English phrase "I'm with you." |
+| 38 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 39 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 40 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
+| 43 | [Big Terapia](http://twitter.com/search?q=Big+Terapia) | N/A |
+| 44 | [Homem Formiga](http://twitter.com/search?q=Homem+Formiga) | N/A |
+| 45 | [Betano](http://twitter.com/search?q=Betano) | N/A |
+| 46 | [SEMPRE ELE](http://twitter.com/search?q=SEMPRE+ELE) | N/A |
+| 47 | [ESTAMOS COM VOCÊ KEYT](http://twitter.com/search?q=ESTAMOS+COM+VOC%c3%8a+KEYT) | N/A |
+| 48 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 49 | [O Arrascaeta](http://twitter.com/search?q=O+Arrascaeta) | N/A |
+| 50 | [Meu São Paulo](http://twitter.com/search?q=Meu+S%c3%a3o+Paulo) | N/A |
 
 
 

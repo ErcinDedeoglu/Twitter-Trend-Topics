@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-16 01:45:20 UTC`
+📆 Last Updated: `2023-02-16 02:40:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 2 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
-| 3 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 4 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
+| 3 | [#ElNacional](http://twitter.com/search?q=%23ElNacional) | N/A |
+| 4 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
 | 5 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 6 | [Atahualpa](http://twitter.com/search?q=Atahualpa) | N/A |
-| 7 | [Madison Julio](http://twitter.com/search?q=Madison+Julio) | N/A |
-| 8 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
-| 9 | [#ElNacional](http://twitter.com/search?q=%23ElNacional) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
-| 14 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 6 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
+| 7 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
+| 8 | [Atahualpa](http://twitter.com/search?q=Atahualpa) | N/A |
+| 9 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
+| 10 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 11 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [Nacional Potosí](http://twitter.com/search?q=Nacional+Potos%c3%ad) | N/A |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 15 | [#14DeFebrero](http://twitter.com/search?q=%2314DeFebrero) | N/A |
 | 16 | [Zubeldía](http://twitter.com/search?q=Zubeld%c3%ada) | N/A |
-| 17 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
-| 18 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 19 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
-| 20 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 21 | [Sergio López](http://twitter.com/search?q=Sergio+L%c3%b3pez) | N/A |
-| 22 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 23 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Cucalón](http://twitter.com/search?q=Cucal%c3%b3n) | N/A |
-| 26 | [Nacional Potosí](http://twitter.com/search?q=Nacional+Potos%c3%ad) | N/A |
-| 27 | [Cabify](http://twitter.com/search?q=Cabify) | N/A |
-| 28 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 17 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 18 | [#MafiaAlbanesa](http://twitter.com/search?q=%23MafiaAlbanesa) | N/A |
+| 19 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 20 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 21 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 22 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 23 | [Madison Julio](http://twitter.com/search?q=Madison+Julio) | N/A |
+| 24 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 25 | [Cabify](http://twitter.com/search?q=Cabify) | N/A |
+| 26 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 27 | [Cherres](http://twitter.com/search?q=Cherres) | N/A |
+| 28 | [Sergio López](http://twitter.com/search?q=Sergio+L%c3%b3pez) | N/A |
 | 29 | [Francisco Egas](http://twitter.com/search?q=Francisco+Egas) | N/A |
 | 30 | [mae montaño](http://twitter.com/search?q=mae+monta%c3%b1o) | N/A |
-| 31 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 32 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 33 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 34 | [Pabel](http://twitter.com/search?q=Pabel) | N/A |
+| 31 | [Cucalón](http://twitter.com/search?q=Cucal%c3%b3n) | N/A |
+| 32 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
+| 33 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
+| 34 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
 | 35 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
-| 36 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 37 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 38 | [Araus](http://twitter.com/search?q=Araus) | N/A |
-| 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 40 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
-| 41 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 42 | [Amenaza](http://twitter.com/search?q=Amenaza) | N/A |
-| 43 | [Ximena Garzón](http://twitter.com/search?q=Ximena+Garz%c3%b3n) | N/A |
-| 44 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 45 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 46 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 47 | [Fiesta de la Fruta](http://twitter.com/search?q=Fiesta+de+la+Fruta) | N/A |
-| 48 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 49 | [albaneses](http://twitter.com/search?q=albaneses) | N/A |
-| 50 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
+| 36 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 37 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 38 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 39 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 40 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
+| 41 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 42 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
+| 43 | [Pabel](http://twitter.com/search?q=Pabel) | N/A |
+| 44 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 45 | [Amenaza](http://twitter.com/search?q=Amenaza) | N/A |
+| 46 | [Rodrigo Paz Delgado](http://twitter.com/search?q=Rodrigo+Paz+Delgado) | N/A |
+| 47 | [ximena garzón](http://twitter.com/search?q=ximena+garz%c3%b3n) | N/A |
+| 48 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 49 | [Araus](http://twitter.com/search?q=Araus) | N/A |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

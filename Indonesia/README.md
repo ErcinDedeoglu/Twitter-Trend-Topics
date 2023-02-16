@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-16 01:46:13 UTC`
+📆 Last Updated: `2023-02-16 02:40:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for Indonesia
 | 4 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
 | 5 | [indonesia maju sejahtera](http://twitter.com/search?q=indonesia+maju+sejahtera) | N/A |
 | 6 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
 | 8 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
 | 9 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
 | 10 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 11 | [#TheOnlyOneHPS](http://twitter.com/search?q=%23TheOnlyOneHPS) | N/A |
-| 12 | [hendi prio santoso](http://twitter.com/search?q=hendi+prio+santoso) | N/A |
-| 13 | [Islam Solusi Problematika Umat](http://twitter.com/search?q=Islam+Solusi+Problematika+Umat) | N/A |
-| 14 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 15 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 18 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 19 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 20 | [Khilafah Mahkota Kewajiban](http://twitter.com/search?q=Khilafah+Mahkota+Kewajiban) | N/A |
-| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 23 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 24 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 25 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 26 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
-| 27 | [ceo bumn](http://twitter.com/search?q=ceo+bumn) | N/A |
-| 28 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 29 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 30 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 31 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 32 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 33 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 34 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 35 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 36 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 37 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 38 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 39 | [emang keren prabowo](http://twitter.com/search?q=emang+keren+prabowo) | N/A |
-| 40 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 41 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 42 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
-| 43 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
-| 44 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
-| 45 | [duit mana duit](http://twitter.com/search?q=duit+mana+duit) | N/A |
-| 46 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 47 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
-| 48 | [mind id](http://twitter.com/search?q=mind+id) | N/A |
-| 49 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 13 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
+| 14 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 15 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 16 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 17 | [Islam Solusi Problematika Umat](http://twitter.com/search?q=Islam+Solusi+Problematika+Umat) | N/A |
+| 18 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
+| 19 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 20 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 21 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 22 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 23 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 24 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 25 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 26 | [Abon](http://twitter.com/search?q=Abon) | N/A |
+| 27 | [Khilafah Mahkota Kewajiban](http://twitter.com/search?q=Khilafah+Mahkota+Kewajiban) | N/A |
+| 28 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 29 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
+| 30 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 31 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
+| 32 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 33 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
+| 36 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
+| 37 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 38 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 39 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 40 | [duit mana duit](http://twitter.com/search?q=duit+mana+duit) | N/A |
+| 41 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
+| 42 | [Ngidam](http://twitter.com/search?q=Ngidam) | N/A |
+| 43 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 44 | [mind id](http://twitter.com/search?q=mind+id) | N/A |
+| 45 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 46 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
+| 47 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 48 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 49 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
 | 50 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 

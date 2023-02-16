@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-16 01:46:11 UTC`
+📆 Last Updated: `2023-02-16 02:40:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for Belarus
 | 4 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
 | 5 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
 | 6 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
-| 7 | [#Dota2](http://twitter.com/search?q=%23Dota2) | N/A |
+| 7 | [#dota2](http://twitter.com/search?q=%23dota2) | N/A |
 | 8 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 | 9 | [республики беларусь](http://twitter.com/search?q=%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 10 | [боже](http://twitter.com/search?q=%d0%b1%d0%be%d0%b6%d0%b5) | N/A |
+| 10 | [БОЖЕ](http://twitter.com/search?q=%d0%91%d0%9e%d0%96%d0%95) | N/A |
 | 11 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 | 12 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
 | 13 | [приятного](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |

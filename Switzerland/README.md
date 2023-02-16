@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-16 01:46:18 UTC`
+📆 Last Updated: `2023-02-16 02:40:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,25 +46,25 @@ This is top 50 for Switzerland
 | 29 | [Virus](http://twitter.com/search?q=Virus) | N/A |
 | 30 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
 | 31 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 32 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 33 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 36 | [Courage](http://twitter.com/search?q=Courage) | N/A |
-| 37 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 38 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 39 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 40 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
-| 41 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
-| 42 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 43 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 44 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 45 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 46 | [Osten](http://twitter.com/search?q=Osten) | N/A |
-| 47 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 48 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 49 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 50 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 32 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 35 | [Courage](http://twitter.com/search?q=Courage) | N/A |
+| 36 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 37 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 38 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 39 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
+| 40 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
+| 41 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 42 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 43 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 44 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 45 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 46 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 47 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 48 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 49 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 50 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 
 
 

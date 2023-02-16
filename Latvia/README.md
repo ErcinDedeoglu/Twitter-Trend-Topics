@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-16 01:46:15 UTC`
+📆 Last Updated: `2023-02-16 02:40:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Latvia
 | 6 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
 | 7 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 8 | [valentīndienu](http://twitter.com/search?q=valent%c4%abndienu) | N/A |
-| 9 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 9 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 10 | [Rīgai](http://twitter.com/search?q=R%c4%abgai) | N/A |
 | 11 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 12 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Latvia
 | 17 | [ministru](http://twitter.com/search?q=ministru) | N/A |
 | 18 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 19 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 20 | [Varu](http://twitter.com/search?q=Varu) | N/A |
+| 20 | [varu](http://twitter.com/search?q=varu) | N/A |
 | 21 | [valentīna](http://twitter.com/search?q=valent%c4%abna) | N/A |
 | 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 23 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Latvia
 | 37 | [katru](http://twitter.com/search?q=katru) | N/A |
 | 38 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
 | 39 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 40 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 40 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 41 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 42 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
 | 43 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |

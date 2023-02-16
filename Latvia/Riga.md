@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-16 01:45:33 UTC`
+📆 Last Updated: `2023-02-16 02:40:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 17 | [ministru](http://twitter.com/search?q=ministru) | N/A |
 | 18 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 19 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 20 | [Varu](http://twitter.com/search?q=Varu) | N/A |
+| 20 | [varu](http://twitter.com/search?q=varu) | N/A |
 | 21 | [valentīna](http://twitter.com/search?q=valent%c4%abna) | N/A |
 | 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 23 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
@@ -48,14 +48,14 @@ This is top 50 for [Latvia](</Latvia>)
 | 31 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 32 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 33 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 34 | [Солнышко](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%bd%d1%8b%d1%88%d0%ba%d0%be) | N/A |
+| 34 | [солнышко](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%bd%d1%8b%d1%88%d0%ba%d0%be) | N/A |
 | 35 | [nesaprotu](http://twitter.com/search?q=nesaprotu) | N/A |
 | 36 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 37 | [katru](http://twitter.com/search?q=katru) | N/A |
 | 38 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
 | 39 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 40 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 41 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
+| 40 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
+| 41 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 42 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
 | 43 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 44 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
