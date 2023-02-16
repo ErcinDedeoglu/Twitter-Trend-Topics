@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-16 06:17:27 UTC`
+📆 Last Updated: `2023-02-16 07:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,14 +25,14 @@ This is top 50 for Chile
 | 8 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
 | 9 | [#DíaDelBrigadista](http://twitter.com/search?q=%23D%c3%adaDelBrigadista) | N/A |
 | 10 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 11 | [#juegodeilusiones](http://twitter.com/search?q=%23juegodeilusiones) | N/A |
-| 12 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 11 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 12 | [#juegodeilusiones](http://twitter.com/search?q=%23juegodeilusiones) | N/A |
 | 13 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 14 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 16 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 17 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 18 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 16 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 17 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 18 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
 | 19 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
 | 20 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
 | 21 | [Mat14s](http://twitter.com/search?q=Mat14s) | N/A |
@@ -40,28 +40,28 @@ This is top 50 for Chile
 | 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 24 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
 | 25 | [Transitoria](http://twitter.com/search?q=Transitoria) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Pepe Rojas](http://twitter.com/search?q=Pepe+Rojas) | N/A |
+| 26 | [Pepe Rojas](http://twitter.com/search?q=Pepe+Rojas) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 28 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 30 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
-| 31 | [Aporte Familiar Permanente](http://twitter.com/search?q=Aporte+Familiar+Permanente) | N/A |
+| 29 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
+| 30 | [Aporte Familiar Permanente](http://twitter.com/search?q=Aporte+Familiar+Permanente) | N/A |
+| 31 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [ME-O](http://twitter.com/search?q=ME-O) | N/A |
-| 34 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 35 | [Mauricio Correa](http://twitter.com/search?q=Mauricio+Correa) | N/A |
-| 36 | [chile es rebelde](http://twitter.com/search?q=chile+es+rebelde) | N/A |
-| 37 | [Gardel](http://twitter.com/search?q=Gardel) | N/A |
-| 38 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 39 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 40 | [Eduardo Vargas](http://twitter.com/search?q=Eduardo+Vargas) | N/A |
-| 41 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 42 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 43 | [Rodrigo González](http://twitter.com/search?q=Rodrigo+Gonz%c3%a1lez) | N/A |
-| 44 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 45 | [virginia palma](http://twitter.com/search?q=virginia+palma) | N/A |
-| 46 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 47 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 33 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 34 | [ME-O](http://twitter.com/search?q=ME-O) | N/A |
+| 35 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 36 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 37 | [Mauricio Correa](http://twitter.com/search?q=Mauricio+Correa) | N/A |
+| 38 | [chile es rebelde](http://twitter.com/search?q=chile+es+rebelde) | N/A |
+| 39 | [Gardel](http://twitter.com/search?q=Gardel) | N/A |
+| 40 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 41 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 42 | [Eduardo Vargas](http://twitter.com/search?q=Eduardo+Vargas) | N/A |
+| 43 | [virginia palma](http://twitter.com/search?q=virginia+palma) | N/A |
+| 44 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 45 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 46 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 47 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
 | 48 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
 | 49 | [Cárdenas](http://twitter.com/search?q=C%c3%a1rdenas) | N/A |
 | 50 | [zalaquett](http://twitter.com/search?q=zalaquett) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-16 06:16:55 UTC`
+📆 Last Updated: `2023-02-16 07:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 2 | [#ButuhNyaliBukanNyala](http://twitter.com/search?q=%23ButuhNyaliBukanNyala) | N/A |
-| 3 | [mending prabowo aja](http://twitter.com/search?q=mending+prabowo+aja) | N/A |
-| 4 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
-| 5 | [indonesia maju sejahtera](http://twitter.com/search?q=indonesia+maju+sejahtera) | N/A |
-| 6 | [#SuperHoldingBUMN](http://twitter.com/search?q=%23SuperHoldingBUMN) | N/A |
-| 7 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
-| 8 | [#AnimondaCatDrink](http://twitter.com/search?q=%23AnimondaCatDrink) | N/A |
-| 9 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
-| 10 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 11 | [Exco](http://twitter.com/search?q=Exco) | N/A |
-| 12 | [Selamat Pak](http://twitter.com/search?q=Selamat+Pak) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 15 | [Congrats So-e](http://twitter.com/search?q=Congrats+So-e) | N/A |
-| 16 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
-| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 18 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 19 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 20 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 21 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 22 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 23 | [La Nyalla](http://twitter.com/search?q=La+Nyalla) | N/A |
-| 24 | [Keunfoll](http://twitter.com/search?q=Keunfoll) | N/A |
-| 25 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 26 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
-| 27 | [Ngidam](http://twitter.com/search?q=Ngidam) | N/A |
-| 28 | [HOPE PARTY](http://twitter.com/search?q=HOPE+PARTY) | N/A |
-| 29 | [Telur](http://twitter.com/search?q=Telur) | N/A |
-| 30 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
-| 31 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [cherrybelle](http://twitter.com/search?q=cherrybelle) | N/A |
-| 34 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 35 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 36 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
-| 37 | [duit mana duit](http://twitter.com/search?q=duit+mana+duit) | N/A |
-| 38 | [mind id](http://twitter.com/search?q=mind+id) | N/A |
-| 39 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 40 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 41 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 42 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 43 | [Gagahi](http://twitter.com/search?q=Gagahi) | N/A |
-| 44 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 45 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 46 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
-| 47 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
-| 48 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
-| 49 | [Baby's Day Out](http://twitter.com/search?q=Baby%27s+Day+Out) | N/A |
+| 1 | [Bareng Dekade 08](http://twitter.com/search?q=Bareng+Dekade+08) | N/A |
+| 2 | [Yes Mending Prabowo](http://twitter.com/search?q=Yes+Mending+Prabowo) | N/A |
+| 3 | [Pastikan Indonesia Maju](http://twitter.com/search?q=Pastikan+Indonesia+Maju) | N/A |
+| 4 | [Emang Keren Prabowo](http://twitter.com/search?q=Emang+Keren+Prabowo) | N/A |
+| 5 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 6 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 7 | [#ButuhNyaliBukanNyala](http://twitter.com/search?q=%23ButuhNyaliBukanNyala) | N/A |
+| 8 | [Selamat Pak](http://twitter.com/search?q=Selamat+Pak) | N/A |
+| 9 | [Exco](http://twitter.com/search?q=Exco) | N/A |
+| 10 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 11 | [#AnimondaCatDrink](http://twitter.com/search?q=%23AnimondaCatDrink) | N/A |
+| 12 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
+| 13 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 14 | [#SaldoKaget](http://twitter.com/search?q=%23SaldoKaget) | N/A |
+| 15 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
+| 16 | [La Nyalla](http://twitter.com/search?q=La+Nyalla) | N/A |
+| 17 | [Congrats So-e](http://twitter.com/search?q=Congrats+So-e) | N/A |
+| 18 | [Iwan Bule](http://twitter.com/search?q=Iwan+Bule) | N/A |
+| 19 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 20 | [Keunfoll](http://twitter.com/search?q=Keunfoll) | N/A |
+| 21 | [Telor](http://twitter.com/search?q=Telor) | N/A |
+| 22 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Ngidam](http://twitter.com/search?q=Ngidam) | N/A |
+| 26 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 27 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 29 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 30 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 31 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
+| 32 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 33 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 34 | [Dalem](http://twitter.com/search?q=Dalem) | N/A |
+| 35 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 36 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
+| 37 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 39 | [#SerbuOfficialStore](http://twitter.com/search?q=%23SerbuOfficialStore) | N/A |
+| 40 | [#BUILDINBLACK](http://twitter.com/search?q=%23BUILDINBLACK) | N/A |
+| 41 | [#SoeGraduationDay](http://twitter.com/search?q=%23SoeGraduationDay) | N/A |
+| 42 | [#졸업을_축하합니다_이소이](http://twitter.com/search?q=%23%ec%a1%b8%ec%97%85%ec%9d%84_%ec%b6%95%ed%95%98%ed%95%a9%eb%8b%88%eb%8b%a4_%ec%9d%b4%ec%86%8c%ec%9d%b4) | N/A |
+| 43 | [#LeeSoE](http://twitter.com/search?q=%23LeeSoE) | N/A |
+| 44 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 45 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
+| 46 | [#BNIxNCT127](http://twitter.com/search?q=%23BNIxNCT127) | N/A |
+| 47 | [#KimSooHyun](http://twitter.com/search?q=%23KimSooHyun) | N/A |
+| 48 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
+| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

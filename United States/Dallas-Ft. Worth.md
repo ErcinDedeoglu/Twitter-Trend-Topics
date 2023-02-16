@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-16 06:17:18 UTC`
+📆 Last Updated: `2023-02-16 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 2 | [#miss20pearlspo](http://twitter.com/search?q=%23miss20pearlspo) | N/A |
-| 3 | [McAllen](http://twitter.com/search?q=McAllen) | N/A |
+| 3 | [Mission](http://twitter.com/search?q=Mission) | N/A |
 | 4 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 5 | [Mission](http://twitter.com/search?q=Mission) | N/A |
-| 6 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 7 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 8 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
-| 9 | [#GigEm](http://twitter.com/search?q=%23GigEm) | N/A |
-| 10 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 12 | [#Warzone2](http://twitter.com/search?q=%23Warzone2) | N/A |
+| 5 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 6 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 7 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
+| 8 | [#GigEm](http://twitter.com/search?q=%23GigEm) | N/A |
+| 9 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 10 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 11 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 13 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
 | 14 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 15 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 16 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 17 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
 | 18 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 19 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 20 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 21 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 22 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 23 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 24 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 25 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 26 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 27 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 28 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 19 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 20 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 21 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 22 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 23 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 24 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 25 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
+| 26 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 27 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 28 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
 | 29 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 30 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 31 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 32 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 33 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 34 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 35 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 36 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
-| 37 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 38 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 39 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 40 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 41 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 42 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
-| 43 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 44 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 45 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 46 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 47 | [Seider](http://twitter.com/search?q=Seider) | N/A |
+| 30 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 31 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 32 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 33 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 34 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 35 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
+| 36 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 37 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 38 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 39 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 40 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 41 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 42 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 43 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 44 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 45 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 46 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 47 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 48 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
-| 49 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 50 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 49 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 50 | [Seider](http://twitter.com/search?q=Seider) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-16 06:17:20 UTC`
+📆 Last Updated: `2023-02-16 07:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [United States](</United States>)
 | 7 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
 | 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 9 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 10 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 12 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 13 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 14 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 15 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 16 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 17 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 18 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 11 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 12 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 13 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 14 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 15 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 16 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 17 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 18 | [Muss](http://twitter.com/search?q=Muss) | N/A |
 | 19 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 20 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 20 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
 | 21 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 22 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 23 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 24 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 25 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 26 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 27 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 28 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 29 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 30 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 22 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 23 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 24 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 27 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 28 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 29 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 30 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
 | 31 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 32 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
-| 33 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 34 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 35 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 36 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 37 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 38 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
-| 39 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 40 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 32 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 33 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 34 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 35 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 36 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 37 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 38 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 39 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 40 | [Devo](http://twitter.com/search?q=Devo) | N/A |
 | 41 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 42 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 43 | [Seider](http://twitter.com/search?q=Seider) | N/A |
-| 44 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
-| 45 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 46 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 47 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 48 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 42 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 43 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
+| 44 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 45 | [Seider](http://twitter.com/search?q=Seider) | N/A |
+| 46 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 47 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 48 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
 | 49 | [Husso](http://twitter.com/search?q=Husso) | N/A |
 
 
