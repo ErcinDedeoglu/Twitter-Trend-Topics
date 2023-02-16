@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-16 00:30:20 UTC`
+📆 Last Updated: `2023-02-16 01:46:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Daytona500](http://twitter.com/search?q=%23Daytona500) | N/A |
-| 2 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 3 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 4 | [#Tandem23](http://twitter.com/search?q=%23Tandem23) | N/A |
-| 5 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 6 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
-| 7 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 12 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 13 | [Fantastic Voyage](http://twitter.com/search?q=Fantastic+Voyage) | N/A |
-| 14 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 17 | [HTTYD](http://twitter.com/search?q=HTTYD) | N/A |
-| 18 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 20 | [Charlie Gooch](http://twitter.com/search?q=Charlie+Gooch) | N/A |
-| 21 | [Tuson](http://twitter.com/search?q=Tuson) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Stocks](http://twitter.com/search?q=Stocks) | N/A |
-| 24 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 25 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 26 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 27 | [How to Train Your Dragon](http://twitter.com/search?q=How+to+Train+Your+Dragon) | N/A |
-| 28 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 29 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 31 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 32 | [Abbey](http://twitter.com/search?q=Abbey) | N/A |
-| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 34 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 35 | [One Million Years B.C.](http://twitter.com/search?q=One+Million+Years+B.C.) | N/A |
-| 36 | [Huntsville](http://twitter.com/search?q=Huntsville) | N/A |
-| 37 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
-| 38 | [Dean DeBlois](http://twitter.com/search?q=Dean+DeBlois) | N/A |
-| 39 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 2 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
+| 5 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 6 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 7 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 8 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 9 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 10 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 13 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 14 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 15 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 16 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 17 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 18 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 19 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 20 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 21 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 22 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 23 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 24 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 25 | [Tennessee National Guard](http://twitter.com/search?q=Tennessee+National+Guard) | N/A |
+| 26 | [Tuson](http://twitter.com/search?q=Tuson) | N/A |
+| 27 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 28 | [Sara Evans](http://twitter.com/search?q=Sara+Evans) | N/A |
+| 29 | [Preston Vance](http://twitter.com/search?q=Preston+Vance) | N/A |
+| 30 | [HTTYD](http://twitter.com/search?q=HTTYD) | N/A |
+| 31 | [Billy Gunn](http://twitter.com/search?q=Billy+Gunn) | Billy Gunn is an English phrase that is used to describe someone who is brave and daring. It can also be used to describe someone who takes risks and is not afraid of the consequences. |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 34 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 35 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 36 | [How to Train Your Dragon](http://twitter.com/search?q=How+to+Train+Your+Dragon) | N/A |
+| 37 | [Fantastic Voyage](http://twitter.com/search?q=Fantastic+Voyage) | N/A |
+| 38 | [Hartley](http://twitter.com/search?q=Hartley) | N/A |
+| 39 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
 | 40 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
-| 41 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 42 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
-| 43 | [Blue Fog](http://twitter.com/search?q=Blue+Fog) | N/A |
-| 44 | [Montas](http://twitter.com/search?q=Montas) | N/A |
-| 45 | [Arlington Heights](http://twitter.com/search?q=Arlington+Heights) | N/A |
-| 46 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 47 | [The DOJ](http://twitter.com/search?q=The+DOJ) | N/A |
-| 48 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 49 | [I Am Legend](http://twitter.com/search?q=I+Am+Legend) | N/A |
+| 41 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
+| 42 | [Huntsville](http://twitter.com/search?q=Huntsville) | N/A |
+| 43 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 44 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
+| 45 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 46 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 47 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 48 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 49 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
 
 
 

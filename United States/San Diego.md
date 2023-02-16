@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-02-16 00:30:19 UTC`
+📆 Last Updated: `2023-02-16 01:46:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 2 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 3 | [Haley](http://twitter.com/search?q=Haley) | N/A |
-| 4 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 5 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 6 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 7 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 8 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
-| 9 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 14 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 15 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 16 | [Fantastic Voyage](http://twitter.com/search?q=Fantastic+Voyage) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [HTTYD](http://twitter.com/search?q=HTTYD) | N/A |
-| 20 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [Charlie Gooch](http://twitter.com/search?q=Charlie+Gooch) | N/A |
-| 23 | [Tuson](http://twitter.com/search?q=Tuson) | N/A |
-| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [Stocks](http://twitter.com/search?q=Stocks) | N/A |
-| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 27 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 28 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 29 | [How to Train Your Dragon](http://twitter.com/search?q=How+to+Train+Your+Dragon) | N/A |
-| 30 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 31 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 32 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 33 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 34 | [One Million Years B.C.](http://twitter.com/search?q=One+Million+Years+B.C.) | N/A |
-| 35 | [Abbey](http://twitter.com/search?q=Abbey) | N/A |
-| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 37 | [Huntsville](http://twitter.com/search?q=Huntsville) | N/A |
-| 38 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
-| 39 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 40 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 41 | [Dean DeBlois](http://twitter.com/search?q=Dean+DeBlois) | N/A |
-| 42 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
-| 43 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 44 | [Chris Cuomo](http://twitter.com/search?q=Chris+Cuomo) | N/A |
-| 45 | [Blue Fog](http://twitter.com/search?q=Blue+Fog) | N/A |
-| 46 | [Montas](http://twitter.com/search?q=Montas) | N/A |
-| 47 | [Arlington Heights](http://twitter.com/search?q=Arlington+Heights) | N/A |
-| 48 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 49 | [The DOJ](http://twitter.com/search?q=The+DOJ) | N/A |
+| 1 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 2 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 3 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 4 | [Haley](http://twitter.com/search?q=Haley) | N/A |
+| 5 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 6 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 7 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 8 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 9 | [#BlockElon](http://twitter.com/search?q=%23BlockElon) | N/A |
+| 10 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 11 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 12 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 14 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
+| 15 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 16 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 17 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 18 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 19 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 20 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 21 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 24 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 25 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 26 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 27 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 28 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 29 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 30 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 31 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 32 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 33 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 34 | [Tennessee National Guard](http://twitter.com/search?q=Tennessee+National+Guard) | N/A |
+| 35 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 36 | [Tuson](http://twitter.com/search?q=Tuson) | N/A |
+| 37 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 38 | [Sara Evans](http://twitter.com/search?q=Sara+Evans) | N/A |
+| 39 | [Preston Vance](http://twitter.com/search?q=Preston+Vance) | N/A |
+| 40 | [HTTYD](http://twitter.com/search?q=HTTYD) | N/A |
+| 41 | [Billy Gunn](http://twitter.com/search?q=Billy+Gunn) | Billy Gunn is an English phrase that is used to describe someone who is brave and daring. It can also be used to describe someone who takes risks and is not afraid of the consequences. |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 44 | [How to Train Your Dragon](http://twitter.com/search?q=How+to+Train+Your+Dragon) | N/A |
+| 45 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 46 | [Hartley](http://twitter.com/search?q=Hartley) | N/A |
+| 47 | [Fantastic Voyage](http://twitter.com/search?q=Fantastic+Voyage) | N/A |
+| 48 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
+| 49 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-16 00:29:21 UTC`
+📆 Last Updated: `2023-02-16 01:45:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
-| 3 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 2 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 3 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
 | 6 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 9 | [#COAC2023S3](http://twitter.com/search?q=%23COAC2023S3) | N/A |
-| 10 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 11 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [#目黒蓮誕生祭2023](http://twitter.com/search?q=%23%e7%9b%ae%e9%bb%92%e8%93%ae%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 15 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 16 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
-| 17 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 18 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 23 | [翔くんパパ](http://twitter.com/search?q=%e7%bf%94%e3%81%8f%e3%82%93%e3%83%91%e3%83%91) | N/A |
-| 24 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 25 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Acun](http://twitter.com/search?q=Acun) | N/A |
-| 28 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 29 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
-| 30 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 31 | [翔ちゃん](http://twitter.com/search?q=%e7%bf%94%e3%81%a1%e3%82%83%e3%82%93) | 翔ちゃん is a nickname for the Japanese male name "Takeru". It is a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 32 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
-| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 34 | [Dilan Polat Reklam Peşinde](http://twitter.com/search?q=Dilan+Polat+Reklam+Pe%c5%9finde) | N/A |
-| 35 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
-| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 37 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
-| 38 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
-| 39 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 41 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 42 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 44 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 45 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 46 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 48 | [Yeni Çamoluk Otomotiv](http://twitter.com/search?q=Yeni+%c3%87amoluk+Otomotiv) | N/A |
-| 49 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 50 | [レンジローバー](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%ad%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [薬屋のひとりごとアニメ化](http://twitter.com/search?q=%e8%96%ac%e5%b1%8b%e3%81%ae%e3%81%b2%e3%81%a8%e3%82%8a%e3%81%94%e3%81%a8%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
+| 9 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
+| 10 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 11 | [細胞実写化](http://twitter.com/search?q=%e7%b4%b0%e8%83%9e%e5%ae%9f%e5%86%99%e5%8c%96) | N/A |
+| 12 | [#COAC2023S3](http://twitter.com/search?q=%23COAC2023S3) | N/A |
+| 13 | [Wellington Rato](http://twitter.com/search?q=Wellington+Rato) | Wellington Rato is a Portuguese expression that literally translates to "Wellington Boot". It is used to describe someone who is clumsy or awkward. |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 17 | [aspas](http://twitter.com/search?q=aspas) | N/A |
+| 18 | [薬屋アニメ化](http://twitter.com/search?q=%e8%96%ac%e5%b1%8b%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
+| 19 | [ナイトマーケット](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 20 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
+| 21 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 22 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 23 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 24 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 25 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
+| 26 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 27 | [アカウントロック](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 28 | [翔くんパパ](http://twitter.com/search?q=%e7%bf%94%e3%81%8f%e3%82%93%e3%83%91%e3%83%91) | N/A |
+| 29 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 30 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 31 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 32 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 33 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
+| 34 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 35 | [HAY FULMINANTE](http://twitter.com/search?q=HAY+FULMINANTE) | N/A |
+| 36 | [Twitterロック](http://twitter.com/search?q=Twitter%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 37 | [翔ちゃん](http://twitter.com/search?q=%e7%bf%94%e3%81%a1%e3%82%83%e3%82%93) | 翔ちゃん is a nickname for the Japanese male name "Takeru". It is a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 38 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 39 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 40 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 41 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 43 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 44 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 45 | [Fulminante a Camila](http://twitter.com/search?q=Fulminante+a+Camila) | N/A |
+| 46 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 47 | [EL PRIMO TIENE AGUANTE](http://twitter.com/search?q=EL+PRIMO+TIENE+AGUANTE) | N/A |
+| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 49 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 50 | [シンフォニア](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%83%8b%e3%82%a2) | N/A |
 
 
 
