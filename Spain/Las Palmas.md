@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-16 13:22:35 UTC`
+📆 Last Updated: `2023-02-16 14:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#GalaReinaSC](http://twitter.com/search?q=%23GalaReinaSC) | N/A |
 | 2 | [#SorteazoLowiS23](http://twitter.com/search?q=%23SorteazoLowiS23) | N/A |
-| 3 | [#TheCallistoNewskill](http://twitter.com/search?q=%23TheCallistoNewskill) | N/A |
-| 4 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
-| 5 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 4 | [#TheCallistoNewskill](http://twitter.com/search?q=%23TheCallistoNewskill) | N/A |
+| 5 | [#ConquistasFeministas](http://twitter.com/search?q=%23ConquistasFeministas) | N/A |
 | 6 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 7 | [Juanfe](http://twitter.com/search?q=Juanfe) | N/A |
-| 8 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 9 | [Ley del Deporte](http://twitter.com/search?q=Ley+del+Deporte) | N/A |
-| 10 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 11 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
-| 12 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 13 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 14 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 15 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
-| 16 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
+| 7 | [Ley del Deporte](http://twitter.com/search?q=Ley+del+Deporte) | N/A |
+| 8 | [Alarmante](http://twitter.com/search?q=Alarmante) | N/A |
+| 9 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 10 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 11 | [Juanfe](http://twitter.com/search?q=Juanfe) | N/A |
+| 12 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 13 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
+| 14 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 15 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 16 | [Jueves Lardero](http://twitter.com/search?q=Jueves+Lardero) | N/A |
 | 17 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 18 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 19 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 20 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 18 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 19 | [Joestar](http://twitter.com/search?q=Joestar) | N/A |
+| 20 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
 | 21 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 22 | [Mejía Dávila](http://twitter.com/search?q=Mej%c3%ada+D%c3%a1vila) | N/A |
-| 23 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 24 | [Recoletos](http://twitter.com/search?q=Recoletos) | N/A |
-| 25 | [Floren](http://twitter.com/search?q=Floren) | N/A |
-| 26 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 27 | [Sorolla](http://twitter.com/search?q=Sorolla) | N/A |
-| 28 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
-| 29 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 30 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 31 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 32 | [Chamartín](http://twitter.com/search?q=Chamart%c3%adn) | N/A |
-| 33 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 35 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 36 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 37 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
-| 38 | [Comité](http://twitter.com/search?q=Comit%c3%a9) | N/A |
-| 39 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 40 | [La Fiscalía](http://twitter.com/search?q=La+Fiscal%c3%ada) | N/A |
-| 41 | [#ConquistasFeministas](http://twitter.com/search?q=%23ConquistasFeministas) | N/A |
-| 42 | [#barcagate](http://twitter.com/search?q=%23barcagate) | N/A |
-| 43 | [#LeyTrans](http://twitter.com/search?q=%23LeyTrans) | N/A |
-| 44 | [#IAperiodismo](http://twitter.com/search?q=%23IAperiodismo) | N/A |
-| 45 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 46 | [#jueveslardero](http://twitter.com/search?q=%23jueveslardero) | N/A |
-| 47 | [#APOYOROCIO16F](http://twitter.com/search?q=%23APOYOROCIO16F) | N/A |
-| 48 | [#yomerebelo16f](http://twitter.com/search?q=%23yomerebelo16f) | N/A |
-| 49 | [#11congresoseher](http://twitter.com/search?q=%2311congresoseher) | N/A |
+| 22 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
+| 23 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 24 | [Floren](http://twitter.com/search?q=Floren) | N/A |
+| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 26 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 27 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
+| 28 | [Opus](http://twitter.com/search?q=Opus) | N/A |
+| 29 | [Mejía Dávila](http://twitter.com/search?q=Mej%c3%ada+D%c3%a1vila) | N/A |
+| 30 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 31 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 32 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 33 | [Recoletos](http://twitter.com/search?q=Recoletos) | N/A |
+| 34 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
+| 35 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
+| 36 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 37 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 38 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
+| 39 | [pleno](http://twitter.com/search?q=pleno) | N/A |
+| 40 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 41 | [Comité](http://twitter.com/search?q=Comit%c3%a9) | N/A |
+| 42 | [#LeyTrans](http://twitter.com/search?q=%23LeyTrans) | N/A |
+| 43 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 44 | [#barcagate](http://twitter.com/search?q=%23barcagate) | N/A |
+| 45 | [#EsLey](http://twitter.com/search?q=%23EsLey) | N/A |
+| 46 | [#IAperiodismo](http://twitter.com/search?q=%23IAperiodismo) | N/A |
+| 47 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 48 | [#APOYOROCIO16F](http://twitter.com/search?q=%23APOYOROCIO16F) | N/A |
+| 49 | [#YoMeRebelo16F](http://twitter.com/search?q=%23YoMeRebelo16F) | N/A |
 
 
 

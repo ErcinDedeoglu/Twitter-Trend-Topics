@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-02-16 13:23:03 UTC`
+📆 Last Updated: `2023-02-16 14:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [United States](</United States>)
 | 7 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
 | 8 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
 | 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 11 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 12 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 13 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 15 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 16 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 17 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 18 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 19 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 20 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 21 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 22 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 23 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 24 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 25 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 26 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 27 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 28 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 29 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 30 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 31 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 32 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 33 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 34 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 35 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 36 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 37 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 38 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 39 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
-| 40 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
-| 41 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 42 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 44 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 45 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 46 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 47 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 49 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
+| 10 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 11 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 13 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 14 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 17 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 18 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 19 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 21 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 22 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 23 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 24 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 25 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 26 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 27 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 28 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 29 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 30 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 31 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 32 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 33 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 34 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 35 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 36 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 37 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 38 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
+| 39 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 41 | [Youngkin](http://twitter.com/search?q=Youngkin) | N/A |
+| 42 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 43 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 44 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
+| 45 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 46 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 47 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
+| 48 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 49 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
 
 
 

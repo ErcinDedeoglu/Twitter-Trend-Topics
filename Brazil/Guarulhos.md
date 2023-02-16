@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-16 13:22:27 UTC`
+📆 Last Updated: `2023-02-16 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pablo Maia](http://twitter.com/search?q=Pablo+Maia) | Pablo Maia is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "humble little one". |
-| 2 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
-| 3 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 4 | [Olavo](http://twitter.com/search?q=Olavo) | N/A |
-| 5 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 6 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
-| 7 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 8 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 9 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
-| 10 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
-| 11 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 12 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 13 | [LEXA NO ENCONTRO](http://twitter.com/search?q=LEXA+NO+ENCONTRO) | N/A |
-| 14 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 2 | [Olavo](http://twitter.com/search?q=Olavo) | N/A |
+| 3 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
+| 4 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
+| 5 | [#BOYSPLANETep3](http://twitter.com/search?q=%23BOYSPLANETep3) | N/A |
+| 6 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
+| 7 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 8 | [Sport x Bahia](http://twitter.com/search?q=Sport+x+Bahia) | N/A |
+| 9 | [#ReajusteJa](http://twitter.com/search?q=%23ReajusteJa) | N/A |
+| 10 | [LEXA NO ENCONTRO](http://twitter.com/search?q=LEXA+NO+ENCONTRO) | N/A |
+| 11 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 12 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 13 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 14 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
 | 15 | [sofie](http://twitter.com/search?q=sofie) | N/A |
-| 16 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 17 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 16 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 17 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 18 | [Davi R.](http://twitter.com/search?q=Davi+R.) | N/A |
-| 19 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
-| 20 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
-| 21 | [#BorutoCh78spoilers](http://twitter.com/search?q=%23BorutoCh78spoilers) | N/A |
-| 22 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 23 | [Braiscompany](http://twitter.com/search?q=Braiscompany) | N/A |
-| 24 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
-| 25 | [Popularidade](http://twitter.com/search?q=Popularidade) | N/A |
-| 26 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
-| 27 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 28 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
-| 29 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 30 | [Corinthians x Palmeiras](http://twitter.com/search?q=Corinthians+x+Palmeiras) | N/A |
-| 31 | [Fazer o L](http://twitter.com/search?q=Fazer+o+L) | N/A |
-| 32 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 33 | [#ReajusteJa](http://twitter.com/search?q=%23ReajusteJa) | N/A |
-| 34 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
-| 35 | [Repórter](http://twitter.com/search?q=Rep%c3%b3rter) | N/A |
-| 36 | [Carluxo](http://twitter.com/search?q=Carluxo) | N/A |
-| 37 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
-| 38 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 39 | [aespa](http://twitter.com/search?q=aespa) | N/A |
-| 40 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 41 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 43 | [Cláudia Raia](http://twitter.com/search?q=Cl%c3%a1udia+Raia) | N/A |
-| 44 | [Aumento](http://twitter.com/search?q=Aumento) | N/A |
-| 45 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 46 | [emílio](http://twitter.com/search?q=em%c3%adlio) | N/A |
-| 47 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
-| 48 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 49 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 50 | [Lulinha](http://twitter.com/search?q=Lulinha) | Lulinha is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. The name is derived from his first name, Luiz, and the suffix -inha, which is a diminutive form in Portuguese. In English, it can be translated to mean "Little Lula". |
+| 19 | [Fazendo o L](http://twitter.com/search?q=Fazendo+o+L) | N/A |
+| 20 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 21 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 22 | [R$18,00](http://twitter.com/search?q=R%2418%2c00) | N/A |
+| 23 | [kill this love](http://twitter.com/search?q=kill+this+love) | N/A |
+| 24 | [Corinthians x Palmeiras](http://twitter.com/search?q=Corinthians+x+Palmeiras) | N/A |
+| 25 | [#보이즈플래닛3화](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b3%ed%99%94) | N/A |
+| 26 | [Dia De Vasco](http://twitter.com/search?q=Dia+De+Vasco) | N/A |
+| 27 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 28 | [Dar o Brasil](http://twitter.com/search?q=Dar+o+Brasil) | N/A |
+| 29 | [#BorutoCh78spoilers](http://twitter.com/search?q=%23BorutoCh78spoilers) | N/A |
+| 30 | [Braiscompany](http://twitter.com/search?q=Braiscompany) | N/A |
+| 31 | [Bolsa Permanência](http://twitter.com/search?q=Bolsa+Perman%c3%aancia) | N/A |
+| 32 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 33 | [Popularidade](http://twitter.com/search?q=Popularidade) | N/A |
+| 34 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 35 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 36 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 37 | [PIBIC](http://twitter.com/search?q=PIBIC) | N/A |
+| 38 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
+| 39 | [Sonic](http://twitter.com/search?q=Sonic) | N/A |
+| 40 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 41 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 42 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 43 | [Fazer o L](http://twitter.com/search?q=Fazer+o+L) | N/A |
+| 44 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
+| 45 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 46 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 47 | [Repórter](http://twitter.com/search?q=Rep%c3%b3rter) | N/A |
+| 48 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
+| 49 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
+| 50 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
 
 
 

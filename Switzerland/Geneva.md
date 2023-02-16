@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-16 13:22:36 UTC`
+📆 Last Updated: `2023-02-16 14:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 4 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 5 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 8 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 12 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 13 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 14 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
-| 15 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 16 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 17 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 18 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 19 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 9 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 12 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 13 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 15 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 16 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 17 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 18 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 19 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 21 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
-| 22 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
-| 23 | [Velo](http://twitter.com/search?q=Velo) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 26 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
-| 27 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
-| 28 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 22 | [velo](http://twitter.com/search?q=velo) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 25 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 26 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
+| 27 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 28 | [Valais](http://twitter.com/search?q=Valais) | N/A |
 | 29 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 30 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 31 | [Valais](http://twitter.com/search?q=Valais) | N/A |
-| 32 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 33 | [Uyghur](http://twitter.com/search?q=Uyghur) | N/A |
-| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 35 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
-| 36 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 37 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 38 | [gruyère](http://twitter.com/search?q=gruy%c3%a8re) | N/A |
+| 30 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 31 | [Uyghur](http://twitter.com/search?q=Uyghur) | N/A |
+| 32 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 34 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
+| 35 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 36 | [GM Fam](http://twitter.com/search?q=GM+Fam) | N/A |
+| 37 | [gruyère](http://twitter.com/search?q=gruy%c3%a8re) | N/A |
+| 38 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
 | 39 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
 | 40 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
 | 41 | [Courage](http://twitter.com/search?q=Courage) | N/A |
-| 42 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
+| 42 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
 | 43 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 44 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 45 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
-| 46 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 47 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 48 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 44 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 45 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 46 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 47 | [Edelweiss](http://twitter.com/search?q=Edelweiss) | N/A |
+| 48 | [Germania](http://twitter.com/search?q=Germania) | N/A |
 
 
 

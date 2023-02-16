@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-16 13:23:05 UTC`
+📆 Last Updated: `2023-02-16 14:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUBB](http://twitter.com/search?q=%23MUBB) | N/A |
+| 1 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
 | 2 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
 | 3 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
 | 4 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
 | 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 7 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 9 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 13 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 14 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 15 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 16 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 17 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 18 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 19 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 20 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 21 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 22 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 23 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
-| 24 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 25 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 26 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 27 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 28 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 29 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 30 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 31 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 32 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 33 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 34 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 35 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 36 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 37 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 38 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 39 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 40 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 41 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
-| 42 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
-| 43 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 44 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 45 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 46 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 47 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 48 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 49 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 50 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
+| 6 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 7 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 9 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 11 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 12 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 13 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 14 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 15 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 16 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 20 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 21 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 23 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 24 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 25 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 26 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 27 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 28 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 29 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 30 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 31 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 32 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 33 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 34 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 35 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 36 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 37 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 38 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 39 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 40 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
+| 41 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 43 | [Youngkin](http://twitter.com/search?q=Youngkin) | N/A |
+| 44 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 45 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 46 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
+| 47 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 48 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 49 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
+| 50 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
 
 
 

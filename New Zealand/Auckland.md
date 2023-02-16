@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-16 13:23:00 UTC`
+📆 Last Updated: `2023-02-16 14:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
 | 2 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 3 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 4 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 4 | [hawkes bay](http://twitter.com/search?q=hawkes+bay) | N/A |
 | 5 | [wairoa](http://twitter.com/search?q=wairoa) | N/A |
 | 6 | [Gisborne](http://twitter.com/search?q=Gisborne) | N/A |
 | 7 | [Kuggeleijn](http://twitter.com/search?q=Kuggeleijn) | N/A |
@@ -46,19 +46,19 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 29 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
 | 30 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
 | 31 | [Duffy](http://twitter.com/search?q=Duffy) | N/A |
-| 32 | [chch](http://twitter.com/search?q=chch) | N/A |
-| 33 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 34 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 35 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 36 | [NZ Cricket](http://twitter.com/search?q=NZ+Cricket) | N/A |
-| 37 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 38 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 39 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 40 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
-| 41 | [Cook Strait](http://twitter.com/search?q=Cook+Strait) | N/A |
-| 42 | [Princess Anne](http://twitter.com/search?q=Princess+Anne) | N/A |
-| 43 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
-| 44 | [kapiti](http://twitter.com/search?q=kapiti) | N/A |
+| 32 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 33 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 34 | [NZ Cricket](http://twitter.com/search?q=NZ+Cricket) | N/A |
+| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 36 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 38 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 39 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
+| 40 | [Cook Strait](http://twitter.com/search?q=Cook+Strait) | N/A |
+| 41 | [Princess Anne](http://twitter.com/search?q=Princess+Anne) | N/A |
+| 42 | [Matt King](http://twitter.com/search?q=Matt+King) | N/A |
+| 43 | [kapiti](http://twitter.com/search?q=kapiti) | N/A |
+| 44 | [Chch](http://twitter.com/search?q=Chch) | N/A |
 | 45 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
 | 46 | [bay oval](http://twitter.com/search?q=bay+oval) | N/A |
 | 47 | [Heartbreaking](http://twitter.com/search?q=Heartbreaking) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-02-16 13:23:04 UTC`
+📆 Last Updated: `2023-02-16 14:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 3 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
-| 4 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 5 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 6 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 9 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 10 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 11 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
-| 12 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
-| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 14 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 15 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 16 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 17 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 18 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 19 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 3 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
+| 4 | [TABLO](http://twitter.com/search?q=TABLO) | N/A |
+| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 6 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 7 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 8 | [Pamela Paul](http://twitter.com/search?q=Pamela+Paul) | N/A |
+| 9 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 11 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 12 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 13 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 15 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 16 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 17 | [MANTA MARIA](http://twitter.com/search?q=MANTA+MARIA) | N/A |
+| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 19 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
 | 20 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 21 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
-| 22 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 23 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 24 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 25 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 26 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 27 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 28 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 29 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
-| 30 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
-| 31 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 32 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 33 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 34 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 35 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 36 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 37 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
-| 38 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
-| 39 | [McCain](http://twitter.com/search?q=McCain) | N/A |
-| 40 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 41 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 42 | [#Wordle607](http://twitter.com/search?q=%23Wordle607) | N/A |
-| 43 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 44 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 45 | [#easel](http://twitter.com/search?q=%23easel) | N/A |
-| 46 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 47 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 48 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 49 | [#iawx](http://twitter.com/search?q=%23iawx) | N/A |
+| 21 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 22 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 23 | [Splatoon 1](http://twitter.com/search?q=Splatoon+1) | N/A |
+| 24 | [Bart Scott](http://twitter.com/search?q=Bart+Scott) | Bart Scott is an American former professional football player who played in the National Football League (NFL). He is best known for his time with the New York Jets, where he was a two-time Pro Bowl selection. The phrase "Bart Scott" has become a popular catchphrase, often used to express enthusiasm or excitement. |
+| 25 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 26 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 27 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 28 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 29 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 30 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 31 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 32 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 33 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 34 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 35 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 36 | [The NYT](http://twitter.com/search?q=The+NYT) | N/A |
+| 37 | [Incompetent](http://twitter.com/search?q=Incompetent) | N/A |
+| 38 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 39 | [Youngkin](http://twitter.com/search?q=Youngkin) | N/A |
+| 40 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 41 | [Dutchy](http://twitter.com/search?q=Dutchy) | N/A |
+| 42 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
+| 43 | [Asbury](http://twitter.com/search?q=Asbury) | N/A |
+| 44 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 45 | [Eleanor](http://twitter.com/search?q=Eleanor) | N/A |
+| 46 | [Sleep Token](http://twitter.com/search?q=Sleep+Token) | N/A |
+| 47 | [Rolling Stones](http://twitter.com/search?q=Rolling+Stones) | N/A |
+| 48 | [Butthead](http://twitter.com/search?q=Butthead) | N/A |
+| 49 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
 
 
 
