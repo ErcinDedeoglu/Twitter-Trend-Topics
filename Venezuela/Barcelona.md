@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-16 07:16:07 UTC`
+📆 Last Updated: `2023-02-16 08:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 7 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
 | 8 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 9 | [Congreso de Angostura](http://twitter.com/search?q=Congreso+de+Angostura) | N/A |
-| 10 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
-| 11 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 12 | [Dodge Dart](http://twitter.com/search?q=Dodge+Dart) | N/A |
+| 10 | [Dodge Dart](http://twitter.com/search?q=Dodge+Dart) | N/A |
+| 11 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
+| 12 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 13 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
 | 14 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
 | 15 | [Amor y la Amistad](http://twitter.com/search?q=Amor+y+la+Amistad) | N/A |
@@ -44,23 +44,22 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 27 | [El 15](http://twitter.com/search?q=El+15) | N/A |
 | 28 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
 | 29 | [goltv](http://twitter.com/search?q=goltv) | N/A |
-| 30 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Resortes](http://twitter.com/search?q=Resortes) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [resortes](http://twitter.com/search?q=resortes) | N/A |
+| 32 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 34 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
 | 35 | [David Carradine](http://twitter.com/search?q=David+Carradine) | N/A |
 | 36 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
 | 37 | [Torrejas](http://twitter.com/search?q=Torrejas) | N/A |
-| 38 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 39 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 38 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
+| 39 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
 | 40 | [Tomás Henríquez](http://twitter.com/search?q=Tom%c3%a1s+Henr%c3%adquez) | N/A |
 | 41 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 43 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 44 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 42 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 43 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 45 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 46 | [Ministerio de Transporte](http://twitter.com/search?q=Ministerio+de+Transporte) | N/A |
 
 
 

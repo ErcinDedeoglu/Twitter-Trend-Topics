@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-16 07:16:42 UTC`
+📆 Last Updated: `2023-02-16 08:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 2 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 3 | [Cats](http://twitter.com/search?q=Cats) | N/A |
-| 4 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 5 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 6 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 7 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
-| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 9 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 11 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 12 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 13 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 14 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 15 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 16 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
-| 17 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 18 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 19 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 20 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
-| 21 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 22 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 23 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 24 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 27 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
-| 28 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 29 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 30 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
-| 31 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 32 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
-| 33 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 34 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 35 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 36 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 37 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 2 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 3 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 4 | [Livingston](http://twitter.com/search?q=Livingston) | N/A |
+| 5 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 6 | [Cats](http://twitter.com/search?q=Cats) | N/A |
+| 7 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 8 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 9 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 10 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 11 | [K Love](http://twitter.com/search?q=K+Love) | N/A |
+| 12 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 13 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 15 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 16 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 17 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 18 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 19 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 20 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 21 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 22 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 23 | [Daily Quordle 388](http://twitter.com/search?q=Daily+Quordle+388) | N/A |
+| 24 | [Will Richardson](http://twitter.com/search?q=Will+Richardson) | N/A |
+| 25 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 26 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 27 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 28 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 29 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 30 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 31 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 32 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 33 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 34 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 35 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 36 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 37 | [Danni](http://twitter.com/search?q=Danni) | N/A |
 | 38 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 39 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
-| 40 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 41 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 42 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 43 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
-| 44 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 39 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 40 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 41 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 42 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 43 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 44 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 45 | [Seider](http://twitter.com/search?q=Seider) | N/A |
-| 46 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 47 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 48 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 49 | [Husso](http://twitter.com/search?q=Husso) | N/A |
+| 46 | [Husso](http://twitter.com/search?q=Husso) | N/A |
+| 47 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
+| 48 | [Manson](http://twitter.com/search?q=Manson) | N/A |
+| 49 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
 
 
 

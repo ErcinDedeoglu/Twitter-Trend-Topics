@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-16 07:16:50 UTC`
+📆 Last Updated: `2023-02-16 08:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#16febbraio](http://twitter.com/search?q=%2316febbraio) | N/A |
 | 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 3 | [#erroreÈ](http://twitter.com/search?q=%23errore%c3%88) | N/A |
-| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 5 | [#RubyTer](http://twitter.com/search?q=%23RubyTer) | N/A |
+| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 4 | [#RubyTer](http://twitter.com/search?q=%23RubyTer) | N/A |
+| 5 | [#erroreÈ](http://twitter.com/search?q=%23errore%c3%88) | N/A |
 | 6 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
 | 7 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 8 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 9 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 10 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 11 | [notizia del giorno](http://twitter.com/search?q=notizia+del+giorno) | N/A |
-| 12 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 13 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 14 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 15 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 16 | [Assolto](http://twitter.com/search?q=Assolto) | N/A |
-| 17 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 18 | [rosa ricci](http://twitter.com/search?q=rosa+ricci) | N/A |
-| 19 | [Saman](http://twitter.com/search?q=Saman) | N/A |
-| 20 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 21 | [Buongiorno Gerry](http://twitter.com/search?q=Buongiorno+Gerry) | N/A |
+| 8 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 9 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
+| 10 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 11 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 12 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 13 | [notizia del giorno](http://twitter.com/search?q=notizia+del+giorno) | N/A |
+| 14 | [Assolto](http://twitter.com/search?q=Assolto) | N/A |
+| 15 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 16 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 17 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 18 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 19 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 20 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 21 | [rosa ricci](http://twitter.com/search?q=rosa+ricci) | N/A |
 | 22 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 23 | [Nel 2035](http://twitter.com/search?q=Nel+2035) | N/A |
-| 24 | [Giuseppe](http://twitter.com/search?q=Giuseppe) | N/A |
-| 25 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 23 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 24 | [Buongiorno Gerry](http://twitter.com/search?q=Buongiorno+Gerry) | N/A |
+| 25 | [Buongiorno Giorgio](http://twitter.com/search?q=Buongiorno+Giorgio) | N/A |
 | 26 | [The Show](http://twitter.com/search?q=The+Show) | N/A |
-| 27 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
-| 28 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 29 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 30 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 31 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 32 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
-| 33 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 34 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 35 | [Olgettine](http://twitter.com/search?q=Olgettine) | N/A |
-| 36 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 37 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
-| 38 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 39 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 28 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 29 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
+| 30 | [Olgettine](http://twitter.com/search?q=Olgettine) | N/A |
+| 31 | [Buongiorno Domy](http://twitter.com/search?q=Buongiorno+Domy) | N/A |
+| 32 | [Nel 2035](http://twitter.com/search?q=Nel+2035) | N/A |
+| 33 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 34 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 35 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 36 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
+| 37 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 38 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 39 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 | 40 | [don tarcisio](http://twitter.com/search?q=don+tarcisio) | N/A |
-| 41 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 41 | [Monica](http://twitter.com/search?q=Monica) | N/A |
 | 42 | [malick thiaw](http://twitter.com/search?q=malick+thiaw) | N/A |
-| 43 | [Dory](http://twitter.com/search?q=Dory) | N/A |
-| 44 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 45 | [Buongiorno Mirella](http://twitter.com/search?q=Buongiorno+Mirella) | N/A |
-| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 47 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 48 | [Buongiorno Rossy](http://twitter.com/search?q=Buongiorno+Rossy) | N/A |
-| 49 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 50 | [Maria Chiara Giannetta](http://twitter.com/search?q=Maria+Chiara+Giannetta) | N/A |
+| 43 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 44 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 45 | [Dory](http://twitter.com/search?q=Dory) | N/A |
+| 46 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 47 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 49 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 50 | [Buongiorno Venere](http://twitter.com/search?q=Buongiorno+Venere) | N/A |
 
 
 

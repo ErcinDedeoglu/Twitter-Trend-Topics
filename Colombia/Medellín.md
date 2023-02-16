@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-16 07:16:06 UTC`
+📆 Last Updated: `2023-02-16 08:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,32 +38,32 @@ This is top 50 for [Colombia](</Colombia>)
 | 21 | [David](http://twitter.com/search?q=David) | N/A |
 | 22 | [Uribismo](http://twitter.com/search?q=Uribismo) | N/A |
 | 23 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 24 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 25 | [Vándalos](http://twitter.com/search?q=V%c3%a1ndalos) | N/A |
-| 26 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
+| 24 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 25 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
+| 26 | [Vándalos](http://twitter.com/search?q=V%c3%a1ndalos) | N/A |
 | 27 | [ADRES](http://twitter.com/search?q=ADRES) | N/A |
-| 28 | [Payaso](http://twitter.com/search?q=Payaso) | N/A |
-| 29 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 30 | [Metaverso](http://twitter.com/search?q=Metaverso) | N/A |
-| 31 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 28 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
+| 29 | [Payaso](http://twitter.com/search?q=Payaso) | N/A |
+| 30 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 31 | [Metaverso](http://twitter.com/search?q=Metaverso) | N/A |
 | 32 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 33 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 34 | [Fuera Quintero](http://twitter.com/search?q=Fuera+Quintero) | N/A |
-| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 36 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 37 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 39 | [Limpias](http://twitter.com/search?q=Limpias) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Hoy 15](http://twitter.com/search?q=Hoy+15) | N/A |
-| 42 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
-| 43 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 44 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 45 | [Máximo](http://twitter.com/search?q=M%c3%a1ximo) | Máximo is a Spanish name derived from the Latin word maximus, meaning "greatest" or "largest". In English, it is often used as a given name or nickname for someone who is considered to be the best or most important person in a particular group. |
-| 46 | [Juanda](http://twitter.com/search?q=Juanda) | N/A |
-| 47 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
-| 48 | [Alpujarra](http://twitter.com/search?q=Alpujarra) | N/A |
-| 49 | [kelvin osorio](http://twitter.com/search?q=kelvin+osorio) | N/A |
+| 33 | [Fuera Quintero](http://twitter.com/search?q=Fuera+Quintero) | N/A |
+| 34 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 35 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Hoy 15](http://twitter.com/search?q=Hoy+15) | N/A |
+| 39 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
+| 40 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 41 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
+| 42 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 43 | [Máximo](http://twitter.com/search?q=M%c3%a1ximo) | Máximo is a Spanish name derived from the Latin word maximus, meaning "greatest" or "largest". In English, it is often used as a given name or nickname for someone who is considered to be the best or most important person in a particular group. |
+| 44 | [Nubia](http://twitter.com/search?q=Nubia) | N/A |
+| 45 | [Limpias](http://twitter.com/search?q=Limpias) | N/A |
+| 46 | [Alpujarra](http://twitter.com/search?q=Alpujarra) | N/A |
+| 47 | [kelvin osorio](http://twitter.com/search?q=kelvin+osorio) | N/A |
+| 48 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 50 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-16 07:16:10 UTC`
+📆 Last Updated: `2023-02-16 08:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 2 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
-| 3 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 4 | [#pączki](http://twitter.com/search?q=%23p%c4%85czki) | N/A |
-| 5 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 6 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 1 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
+| 2 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 3 | [Słodkiego](http://twitter.com/search?q=S%c5%82odkiego) | N/A |
+| 4 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 5 | [#pączki](http://twitter.com/search?q=%23p%c4%85czki) | N/A |
+| 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 8 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
-| 9 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
+| 8 | [Paczków](http://twitter.com/search?q=Paczk%c3%b3w) | N/A |
+| 9 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
 | 10 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 11 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 12 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 13 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 14 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 15 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 16 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 11 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
+| 12 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 13 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
+| 14 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
+| 15 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 16 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
 | 17 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 18 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
-| 21 | [Unii](http://twitter.com/search?q=Unii) | N/A |
-| 22 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 23 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 24 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 25 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 26 | [nialla](http://twitter.com/search?q=nialla) | N/A |
-| 27 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 28 | [Tłustego Czwartku](http://twitter.com/search?q=T%c5%82ustego+Czwartku) | N/A |
-| 29 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 30 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Sobolewski](http://twitter.com/search?q=Sobolewski) | N/A |
-| 33 | [c40 cities](http://twitter.com/search?q=c40+cities) | N/A |
-| 34 | [The Show](http://twitter.com/search?q=The+Show) | N/A |
-| 35 | [Europie](http://twitter.com/search?q=Europie) | N/A |
-| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 38 | [paczkomat](http://twitter.com/search?q=paczkomat) | N/A |
-| 39 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 40 | [armii krajowej](http://twitter.com/search?q=armii+krajowej) | N/A |
-| 41 | [dortmundzie](http://twitter.com/search?q=dortmundzie) | N/A |
-| 42 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 43 | [Dzień Singla](http://twitter.com/search?q=Dzie%c5%84+Singla) | N/A |
-| 44 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 45 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 46 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 47 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 48 | [jakimowicz](http://twitter.com/search?q=jakimowicz) | N/A |
-| 49 | [Mk 8](http://twitter.com/search?q=Mk+8) | N/A |
-| 50 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 21 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 22 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 23 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 24 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 25 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 26 | [Schetyna](http://twitter.com/search?q=Schetyna) | N/A |
+| 27 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 28 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 29 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 30 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 31 | [Tłustego Czwartku](http://twitter.com/search?q=T%c5%82ustego+Czwartku) | N/A |
+| 32 | [Mógłby](http://twitter.com/search?q=M%c3%b3g%c5%82by) | N/A |
+| 33 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 34 | [Unii](http://twitter.com/search?q=Unii) | N/A |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [The Show](http://twitter.com/search?q=The+Show) | N/A |
+| 37 | [Europie](http://twitter.com/search?q=Europie) | N/A |
+| 38 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 39 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 41 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 42 | [C40 Cities](http://twitter.com/search?q=C40+Cities) | N/A |
+| 43 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 44 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 45 | [armii krajowej](http://twitter.com/search?q=armii+krajowej) | N/A |
+| 46 | [dortmundzie](http://twitter.com/search?q=dortmundzie) | N/A |
+| 47 | [Dzień Singla](http://twitter.com/search?q=Dzie%c5%84+Singla) | N/A |
+| 48 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 49 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 50 | [Konstytucja](http://twitter.com/search?q=Konstytucja) | N/A |
 
 
 
