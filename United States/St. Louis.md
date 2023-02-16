@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-02-16 04:17:15 UTC`
+📆 Last Updated: `2023-02-16 05:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [#chiefsparade](http://twitter.com/search?q=%23chiefsparade) | N/A |
 | 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 3 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 4 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 5 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 6 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 4 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 5 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 6 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
 | 7 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 8 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 9 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 12 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 13 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 14 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 15 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 16 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 17 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 18 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 19 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
-| 20 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
-| 21 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 22 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 23 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 24 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
-| 25 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 27 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 28 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 29 | [Carver](http://twitter.com/search?q=Carver) | N/A |
-| 30 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 31 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 32 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 33 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 34 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 35 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 36 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 37 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 38 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 39 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 40 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 41 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 42 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 43 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 44 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
-| 45 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 46 | [Christopher Daniels](http://twitter.com/search?q=Christopher+Daniels) | N/A |
-| 47 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 48 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 49 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 8 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 9 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 10 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 11 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 12 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 13 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 14 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 15 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 18 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 19 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 20 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 21 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 22 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 23 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 24 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 25 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 26 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 27 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 28 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
+| 29 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 30 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 31 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 32 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 33 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
+| 34 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 35 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 36 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 37 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
+| 38 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
+| 39 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 40 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 41 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 42 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 43 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 44 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
+| 45 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 46 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 47 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 48 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 49 | [Carver](http://twitter.com/search?q=Carver) | N/A |
 
 
 

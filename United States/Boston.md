@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-16 04:17:09 UTC`
+📆 Last Updated: `2023-02-16 05:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
 | 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 5 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 6 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 7 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 8 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 9 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 10 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 11 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 12 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 13 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 14 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 15 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 16 | [Tori](http://twitter.com/search?q=Tori) | N/A |
-| 17 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 18 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 19 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 20 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 21 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 22 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 23 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
-| 24 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
-| 25 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 26 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 27 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 28 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
-| 29 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 30 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 31 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 32 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 33 | [Carver](http://twitter.com/search?q=Carver) | N/A |
-| 34 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 35 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 36 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 37 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
-| 38 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 39 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 40 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 41 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 42 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 43 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 44 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 45 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 46 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 47 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 48 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 6 | [#askari](http://twitter.com/search?q=%23askari) | N/A |
+| 7 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 8 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 9 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 10 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 11 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 12 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 13 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 14 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 15 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 16 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 17 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 18 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 19 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 20 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 21 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 22 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 23 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 24 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 25 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 26 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 27 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 28 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 29 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 30 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 31 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 32 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
+| 33 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 34 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 35 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 36 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 37 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 38 | [McCollum](http://twitter.com/search?q=McCollum) | N/A |
+| 39 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 40 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 41 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
+| 42 | [Josh Manson](http://twitter.com/search?q=Josh+Manson) | N/A |
+| 43 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 44 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 45 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 46 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 47 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 48 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 49 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
 
 
 

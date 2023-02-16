@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-16 04:16:41 UTC`
+📆 Last Updated: `2023-02-16 05:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,7 +52,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 35 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 37 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 38 | [Ryan Tubridy](http://twitter.com/search?q=Ryan+Tubridy) | N/A |
+| 38 | [ryan tubridy](http://twitter.com/search?q=ryan+tubridy) | N/A |
 | 39 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
 | 40 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
 | 41 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |

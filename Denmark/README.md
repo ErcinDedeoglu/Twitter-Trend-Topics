@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-16 04:17:19 UTC`
+📆 Last Updated: `2023-02-16 05:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,14 +34,14 @@ This is top 50 for Denmark
 | 17 | [Wass](http://twitter.com/search?q=Wass) | N/A |
 | 18 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
 | 19 | [kim fournais](http://twitter.com/search?q=kim+fournais) | N/A |
-| 20 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
+| 20 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
 | 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 22 | [anmeldt](http://twitter.com/search?q=anmeldt) | N/A |
-| 23 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 24 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 25 | [Anis](http://twitter.com/search?q=Anis) | N/A |
-| 26 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 22 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 23 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 24 | [Anis](http://twitter.com/search?q=Anis) | N/A |
+| 25 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 27 | [Anmeldt](http://twitter.com/search?q=Anmeldt) | N/A |
 | 28 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 30 | [esbjerg](http://twitter.com/search?q=esbjerg) | N/A |
@@ -50,11 +50,11 @@ This is top 50 for Denmark
 | 33 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 36 | [Ukraines](http://twitter.com/search?q=Ukraines) | N/A |
-| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 38 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 39 | [spanien](http://twitter.com/search?q=spanien) | N/A |
-| 40 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
+| 36 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 37 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 38 | [spanien](http://twitter.com/search?q=spanien) | N/A |
+| 39 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
+| 40 | [Ukraines](http://twitter.com/search?q=Ukraines) | N/A |
 | 41 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
 | 42 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 43 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |

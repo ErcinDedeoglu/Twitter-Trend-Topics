@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-16 04:17:21 UTC`
+📆 Last Updated: `2023-02-16 05:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Lebanon
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#شهاده_وانتصار](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%a7%d8%af%d9%87_%d9%88%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1) | N/A |
-| 2 | [#رياض_سلامه](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d8%b6_%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 3 | [#الدولار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1) | #الدولار is the Arabic word for "dollar". It is used to refer to the US dollar, as well as other currencies that are pegged to the US dollar. |
+| 2 | [#الدولار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1) | #الدولار is the Arabic word for "dollar". It is used to refer to the US dollar, as well as other currencies that are pegged to the US dollar. |
+| 3 | [#رياض_سلامه](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d8%b6_%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 4 | [#سليم_الصايغ](http://twitter.com/search?q=%23%d8%b3%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d8%ba) | N/A |
 | 5 | [رفيق الحريري](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
 | 6 | [#مع_وليد_عبود](http://twitter.com/search?q=%23%d9%85%d8%b9_%d9%88%d9%84%d9%8a%d8%af_%d8%b9%d8%a8%d9%88%d8%af) | N/A |
-| 7 | [موسي الكاظم](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 7 | [اميركا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d8%a7) | N/A |
 | 8 | [عباس الموسوي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%88%d9%8a) | N/A |
-| 9 | [علي رياض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 9 | [موسي الكاظم](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
 | 10 | [راغب حرب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%ba%d8%a8+%d8%ad%d8%b1%d8%a8) | N/A |
-| 11 | [علي المعذب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%b0%d8%a8) | N/A |
-| 12 | [الامام الكاظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
-| 13 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 14 | [موسي بن جعفر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 15 | [القاده الشهداء](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1) | N/A |
-| 16 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 17 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 20 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 21 | [اميركا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d8%a7) | N/A |
-| 22 | [باب الحوايج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%8a%d8%ac) | N/A |
-| 23 | [15 شباط 2023](http://twitter.com/search?q=15+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 24 | [الاوضاع الاقتصاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%88%d8%b6%d8%a7%d8%b9+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 25 | [جورج وسوف](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d9%88%d8%b3%d9%88%d9%81) | N/A |
-| 26 | [وزير الخارجيه الاردني](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 27 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 28 | [وزير الزراعه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%87) | N/A |
-| 29 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 30 | [علي الشعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 31 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 32 | [وزارة الزراعة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9) | N/A |
-| 33 | [الكنايس الشرقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%86%d8%a7%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 34 | [الاضراب المفتوح](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad) | N/A |
-| 35 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 36 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 37 | [٧ ايار](http://twitter.com/search?q=%d9%a7+%d8%a7%d9%8a%d8%a7%d8%b1) | N/A |
-| 38 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 39 | [العمله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 40 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 41 | [شيخ سعد](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%b3%d8%b9%d8%af) | N/A |
-| 42 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 43 | [الشهيد الشيخ](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 44 | [وسام الحسن](http://twitter.com/search?q=%d9%88%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 45 | [وزير الطاقه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
-| 46 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 47 | [لبنان اليوم](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 48 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 49 | [بايرن ميونخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
-| 50 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 11 | [علي رياض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 12 | [علي المعذب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%b0%d8%a8) | N/A |
+| 13 | [الامام الكاظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 14 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 15 | [مروان نجار](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d9%86%d8%ac%d8%a7%d8%b1) | N/A |
+| 16 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 17 | [موسي بن جعفر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
+| 18 | [القاده الشهداء](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1) | N/A |
+| 19 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 22 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 23 | [باب الحوايج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%8a%d8%ac) | N/A |
+| 24 | [15 شباط 2023](http://twitter.com/search?q=15+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
+| 25 | [الاوضاع الاقتصاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%88%d8%b6%d8%a7%d8%b9+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 26 | [جورج وسوف](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d9%88%d8%b3%d9%88%d9%81) | N/A |
+| 27 | [كلف الثمن](http://twitter.com/search?q=%d9%83%d9%84%d9%81+%d8%a7%d9%84%d8%ab%d9%85%d9%86) | N/A |
+| 28 | [وزير الخارجيه الاردني](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 29 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 30 | [وزير الزراعه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%87) | N/A |
+| 31 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 32 | [علي الشعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
+| 33 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 34 | [وزارة الزراعة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9) | N/A |
+| 35 | [الكنايس الشرقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%86%d8%a7%d9%8a%d8%b3+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
+| 36 | [الاضراب المفتوح](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad) | N/A |
+| 37 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 38 | [٧ ايار](http://twitter.com/search?q=%d9%a7+%d8%a7%d9%8a%d8%a7%d8%b1) | N/A |
+| 39 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 40 | [العمله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 41 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 42 | [شيخ سعد](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%b3%d8%b9%d8%af) | N/A |
+| 43 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 44 | [الشهيد الشيخ](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 45 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 46 | [وسام الحسن](http://twitter.com/search?q=%d9%88%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 47 | [وزير الطاقه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
+| 48 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 49 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 50 | [بايرن ميونخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
 
 
 

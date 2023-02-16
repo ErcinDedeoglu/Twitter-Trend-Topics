@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-16 04:17:22 UTC`
+📆 Last Updated: `2023-02-16 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,9 +54,9 @@ This is top 50 for Norway
 | 37 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 38 | [bjørgvin](http://twitter.com/search?q=bj%c3%b8rgvin) | N/A |
 | 39 | [nrks](http://twitter.com/search?q=nrks) | N/A |
-| 40 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
+| 40 | [rødt](http://twitter.com/search?q=r%c3%b8dt) | N/A |
 | 41 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 42 | [Regjeringen](http://twitter.com/search?q=Regjeringen) | N/A |
+| 42 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
 | 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 44 | [espen teigen](http://twitter.com/search?q=espen+teigen) | N/A |
 | 45 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |

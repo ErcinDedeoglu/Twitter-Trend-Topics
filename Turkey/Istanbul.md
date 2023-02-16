@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-16 04:17:08 UTC`
+📆 Last Updated: `2023-02-16 05:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,38 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TuğçeKara Kayboldu](http://twitter.com/search?q=Tu%c4%9f%c3%a7eKara+Kayboldu) | N/A |
-| 2 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
-| 3 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
-| 4 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
-| 5 | [#acunilicali](http://twitter.com/search?q=%23acunilicali) | N/A |
-| 6 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 7 | [Yeni Çamoluk Otomotiv](http://twitter.com/search?q=Yeni+%c3%87amoluk+Otomotiv) | N/A |
-| 8 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
-| 9 | [Dilan Polat](http://twitter.com/search?q=Dilan+Polat) | N/A |
-| 10 | [Kıvanç Tatlıtuğ](http://twitter.com/search?q=K%c4%b1van%c3%a7+Tatl%c4%b1tu%c4%9f) | N/A |
-| 11 | [Didem Arslan](http://twitter.com/search?q=Didem+Arslan) | N/A |
-| 12 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
-| 13 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
+| 1 | [Dilan Polat](http://twitter.com/search?q=Dilan+Polat) | N/A |
+| 2 | [TuğçeKara Kayboldu](http://twitter.com/search?q=Tu%c4%9f%c3%a7eKara+Kayboldu) | N/A |
+| 3 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
+| 4 | [#toplanan](http://twitter.com/search?q=%23toplanan) | N/A |
+| 5 | [#persembe](http://twitter.com/search?q=%23persembe) | N/A |
+| 6 | [#50milyar](http://twitter.com/search?q=%2350milyar) | N/A |
+| 7 | [#acunilicali](http://twitter.com/search?q=%23acunilicali) | N/A |
+| 8 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
+| 9 | [Yeni Çamoluk Otomotiv](http://twitter.com/search?q=Yeni+%c3%87amoluk+Otomotiv) | N/A |
+| 10 | [Ateş](http://twitter.com/search?q=Ate%c5%9f) | N/A |
+| 11 | [Vergiden](http://twitter.com/search?q=Vergiden) | N/A |
+| 12 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 13 | [Hülya Avşar](http://twitter.com/search?q=H%c3%bclya+Av%c5%9far) | N/A |
 | 14 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 15 | [Kuzey Tekinoğlu](http://twitter.com/search?q=Kuzey+Tekino%c4%9flu) | N/A |
-| 16 | [Hamit Duras](http://twitter.com/search?q=Hamit+Duras) | N/A |
-| 17 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
-| 18 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
-| 19 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
-| 20 | [Sakın](http://twitter.com/search?q=Sak%c4%b1n) | N/A |
-| 21 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
-| 22 | [Dolar](http://twitter.com/search?q=Dolar) | N/A |
-| 23 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
-| 24 | [Sabancı](http://twitter.com/search?q=Sabanc%c4%b1) | N/A |
-| 25 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 26 | [Tansu](http://twitter.com/search?q=Tansu) | N/A |
-| 27 | [Eda Ece](http://twitter.com/search?q=Eda+Ece) | N/A |
-| 28 | [Nazlı Çelik](http://twitter.com/search?q=Nazl%c4%b1+%c3%87elik) | N/A |
-| 29 | [Doblo](http://twitter.com/search?q=Doblo) | N/A |
-| 30 | [Mustafa Karataş](http://twitter.com/search?q=Mustafa+Karata%c5%9f) | N/A |
-| 31 | [Zorlu](http://twitter.com/search?q=Zorlu) | N/A |
-| 32 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
-| 33 | [#ortakyayın](http://twitter.com/search?q=%23ortakyay%c4%b1n) | N/A |
-| 34 | [#1billion](http://twitter.com/search?q=%231billion) | N/A |
-| 35 | [#DayanışmayıEngelleme](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fmay%c4%b1Engelleme) | N/A |
+| 15 | [Didem Arslan](http://twitter.com/search?q=Didem+Arslan) | N/A |
+| 16 | [Kuzey Tekinoğlu](http://twitter.com/search?q=Kuzey+Tekino%c4%9flu) | N/A |
+| 17 | [Tansu](http://twitter.com/search?q=Tansu) | N/A |
+| 18 | [Hamit](http://twitter.com/search?q=Hamit) | N/A |
+| 19 | [128 Milyar](http://twitter.com/search?q=128+Milyar) | N/A |
+| 20 | [Kamu](http://twitter.com/search?q=Kamu) | N/A |
+| 21 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
+| 22 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
+| 23 | [Dolar](http://twitter.com/search?q=Dolar) | N/A |
+| 24 | [Zengin](http://twitter.com/search?q=Zengin) | N/A |
+| 25 | [Eda Ece](http://twitter.com/search?q=Eda+Ece) | N/A |
+| 26 | [Mustafa Karataş](http://twitter.com/search?q=Mustafa+Karata%c5%9f) | N/A |
+| 27 | [Zorlu](http://twitter.com/search?q=Zorlu) | N/A |
+| 28 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
+| 29 | [#bağış](http://twitter.com/search?q=%23ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 30 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 31 | [#ortakyayın](http://twitter.com/search?q=%23ortakyay%c4%b1n) | N/A |
+| 32 | [#DayanışmayıEngelleme](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fmay%c4%b1Engelleme) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-16 04:17:04 UTC`
+📆 Last Updated: `2023-02-16 05:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [ताज होटल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%9c+%e0%a4%b9%e0%a5%8b%e0%a4%9f%e0%a4%b2) | N/A |
 | 2 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
 | 3 | [#संतरामपालजी_बोधदिवस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80_%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 4 | [#भाग_चोर_रसिया_भाग](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be_%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 5 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
-| 6 | [Immediate Action](http://twitter.com/search?q=Immediate+Action) | N/A |
-| 7 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
-| 8 | [Role Of Media](http://twitter.com/search?q=Role+Of+Media) | N/A |
-| 9 | [#StepDownJayanarayanMishra](http://twitter.com/search?q=%23StepDownJayanarayanMishra) | N/A |
-| 10 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 11 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
-| 12 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 4 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
+| 5 | [#भाग_चोर_रसिया_भाग](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be_%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 6 | [Swadeshi App EaseMyTrip](http://twitter.com/search?q=Swadeshi+App+EaseMyTrip) | N/A |
+| 7 | [Immediate Action](http://twitter.com/search?q=Immediate+Action) | N/A |
+| 8 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
+| 9 | [Role Of Media](http://twitter.com/search?q=Role+Of+Media) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [#TripuraAssemblyElections2023](http://twitter.com/search?q=%23TripuraAssemblyElections2023) | N/A |
+| 12 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
 | 13 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 14 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 14 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
 | 15 | [तात्या टोपे](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a5%87) | N/A |
-| 16 | [Deepak Chaurasia](http://twitter.com/search?q=Deepak+Chaurasia) | N/A |
+| 16 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
 | 17 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 18 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 21 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
-| 22 | [अमर वाणी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 23 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 24 | [सनातन बोर्ड](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 25 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 26 | [महंत राजू दास](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%a4+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 27 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 28 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 30 | [#TripuraElections2023](http://twitter.com/search?q=%23TripuraElections2023) | N/A |
-| 31 | [#RanjiTrophyFinal](http://twitter.com/search?q=%23RanjiTrophyFinal) | N/A |
-| 32 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 33 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 34 | [#HappyBirthdayDBoss](http://twitter.com/search?q=%23HappyBirthdayDBoss) | N/A |
-| 35 | [#Kaatera](http://twitter.com/search?q=%23Kaatera) | N/A |
-| 36 | [#DadaSahebPhalke](http://twitter.com/search?q=%23DadaSahebPhalke) | N/A |
-| 37 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 38 | [#विजया_एकादशी](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%be_%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a6%e0%a4%b6%e0%a5%80) | N/A |
-| 39 | [#UPBoardExam2023](http://twitter.com/search?q=%23UPBoardExam2023) | N/A |
-| 40 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 41 | [#ॐ_नमो_भगवते_वासुदेवाय_नमः](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%a8%e0%a4%ae%e0%a5%8b_%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%a4%e0%a5%87_%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af_%e0%a4%a8%e0%a4%ae%e0%a4%83) | N/A |
-| 42 | [#InvisibleCrease](http://twitter.com/search?q=%23InvisibleCrease) | N/A |
-| 43 | [#Arrest_कृष्णा_गौतम](http://twitter.com/search?q=%23Arrest_%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae) | N/A |
-| 44 | [#OPPOFindN2Flip](http://twitter.com/search?q=%23OPPOFindN2Flip) | N/A |
-| 45 | [#DarshanThoogudeepa](http://twitter.com/search?q=%23DarshanThoogudeepa) | N/A |
-| 46 | [#ChallengingStarDarshan](http://twitter.com/search?q=%23ChallengingStarDarshan) | N/A |
-| 47 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 48 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
-| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 50 | [#D56TitleReveal](http://twitter.com/search?q=%23D56TitleReveal) | N/A |
+| 18 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 19 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 20 | [Deepak Chaurasia](http://twitter.com/search?q=Deepak+Chaurasia) | N/A |
+| 21 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 22 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 23 | [त्रिपुरा विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 27 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 28 | [महंत राजू दास](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%a4+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 29 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 30 | [अमर वाणी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 31 | [सनातन बोर्ड](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 34 | [#StepDownJayanarayanMishra](http://twitter.com/search?q=%23StepDownJayanarayanMishra) | N/A |
+| 35 | [#RanjiTrophyFinal](http://twitter.com/search?q=%23RanjiTrophyFinal) | N/A |
+| 36 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 37 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 38 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 39 | [#Kaatera](http://twitter.com/search?q=%23Kaatera) | N/A |
+| 40 | [#HappyBirthdayDBoss](http://twitter.com/search?q=%23HappyBirthdayDBoss) | N/A |
+| 41 | [#DadaSahebPhalke](http://twitter.com/search?q=%23DadaSahebPhalke) | N/A |
+| 42 | [#UPBoardExam2023](http://twitter.com/search?q=%23UPBoardExam2023) | N/A |
+| 43 | [#ENGvsNZ](http://twitter.com/search?q=%23ENGvsNZ) | N/A |
+| 44 | [#HBDChallengingStarDarshan](http://twitter.com/search?q=%23HBDChallengingStarDarshan) | N/A |
+| 45 | [#विजया_एकादशी](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%be_%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a6%e0%a4%b6%e0%a5%80) | N/A |
+| 46 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 47 | [#BENvSAU](http://twitter.com/search?q=%23BENvSAU) | N/A |
+| 48 | [#InvisibleCrease](http://twitter.com/search?q=%23InvisibleCrease) | N/A |
+| 49 | [#Arrest_कृष्णा_गौतम](http://twitter.com/search?q=%23Arrest_%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae) | N/A |
+| 50 | [#ॐ_नमो_भगवते_वासुदेवाय_नमः](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%a8%e0%a4%ae%e0%a5%8b_%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%a4%e0%a5%87_%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af_%e0%a4%a8%e0%a4%ae%e0%a4%83) | N/A |
 
 
 
