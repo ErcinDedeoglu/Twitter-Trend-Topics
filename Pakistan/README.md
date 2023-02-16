@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-16 03:19:38 UTC`
+📆 Last Updated: `2023-02-16 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Pakistan
 | 10 | [muhammad aurangzeb](http://twitter.com/search?q=muhammad+aurangzeb) | N/A |
 | 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 12 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 13 | [Rs 150 to Rs 272](http://twitter.com/search?q=Rs+150+to+Rs+272) | N/A |
-| 14 | [New Taxes](http://twitter.com/search?q=New+Taxes) | N/A |
-| 15 | [president & ceo](http://twitter.com/search?q=president+%26+ceo) | N/A |
-| 16 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 17 | [mir hamza](http://twitter.com/search?q=mir+hamza) | N/A |
-| 18 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 19 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
-| 20 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 21 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 22 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 24 | [the meerasim era](http://twitter.com/search?q=the+meerasim+era) | N/A |
-| 25 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 26 | [Rs 170B](http://twitter.com/search?q=Rs+170B) | N/A |
-| 27 | [sarfaraz](http://twitter.com/search?q=sarfaraz) | N/A |
-| 28 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 29 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 30 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 31 | [Noon](http://twitter.com/search?q=Noon) | N/A |
-| 32 | [Howdy](http://twitter.com/search?q=Howdy) | N/A |
-| 33 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
-| 34 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
-| 35 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 36 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 37 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 38 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 39 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 40 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
-| 41 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 42 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 43 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 44 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 45 | [Dope](http://twitter.com/search?q=Dope) | N/A |
-| 46 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
-| 47 | [Holy Quran](http://twitter.com/search?q=Holy+Quran) | N/A |
-| 48 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 49 | [London](http://twitter.com/search?q=London) | N/A |
-| 50 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 13 | [Noon](http://twitter.com/search?q=Noon) | N/A |
+| 14 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
+| 15 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 16 | [Rs 150 to Rs 272](http://twitter.com/search?q=Rs+150+to+Rs+272) | N/A |
+| 17 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
+| 18 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 19 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 20 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
+| 21 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
+| 22 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 25 | [Rs 170B](http://twitter.com/search?q=Rs+170B) | N/A |
+| 26 | [the meerasim era](http://twitter.com/search?q=the+meerasim+era) | N/A |
+| 27 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 29 | [GDP Growth](http://twitter.com/search?q=GDP+Growth) | N/A |
+| 30 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
+| 31 | [New Taxes](http://twitter.com/search?q=New+Taxes) | N/A |
+| 32 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
+| 33 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 34 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 35 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 36 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 37 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 38 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 39 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
+| 42 | [Allah Pak](http://twitter.com/search?q=Allah+Pak) | N/A |
+| 43 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 44 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 45 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 46 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 47 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 48 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 49 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 50 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
 
 
 

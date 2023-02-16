@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-16 03:18:57 UTC`
+📆 Last Updated: `2023-02-16 04:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
 | 5 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
 | 6 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 7 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 8 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 9 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
+| 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 8 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 9 | [#opernball](http://twitter.com/search?q=%23opernball) | N/A |
 | 10 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
 | 11 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
 | 12 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for [Austria](</Austria>)
 | 17 | [Trauma](http://twitter.com/search?q=Trauma) | N/A |
 | 18 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 19 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
-| 20 | [Ungeimpfte](http://twitter.com/search?q=Ungeimpfte) | N/A |
+| 20 | [ungeimpfte](http://twitter.com/search?q=ungeimpfte) | N/A |
 | 21 | [#PSGFCB](http://twitter.com/search?q=%23PSGFCB) | N/A |
 | 22 | [#ATEEZinBerlin](http://twitter.com/search?q=%23ATEEZinBerlin) | N/A |
 | 23 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Austria](</Austria>)
 | 25 | [Handel](http://twitter.com/search?q=Handel) | N/A |
 | 26 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
 | 27 | [anreize](http://twitter.com/search?q=anreize) | N/A |
-| 28 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 28 | [beispiele](http://twitter.com/search?q=beispiele) | N/A |
 | 29 | [karenz](http://twitter.com/search?q=karenz) | N/A |
 | 30 | [Pension](http://twitter.com/search?q=Pension) | N/A |
 | 31 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 32 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 32 | [sozialstaat](http://twitter.com/search?q=sozialstaat) | N/A |
 | 33 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 34 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 35 | [angehörige](http://twitter.com/search?q=angeh%c3%b6rige) | N/A |
-| 36 | [Grundlage](http://twitter.com/search?q=Grundlage) | N/A |
-| 37 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
-| 38 | [Mütter und Frauen](http://twitter.com/search?q=M%c3%bctter+und+Frauen) | N/A |
-| 39 | [abgaben](http://twitter.com/search?q=abgaben) | N/A |
-| 40 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 41 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 34 | [angehörige](http://twitter.com/search?q=angeh%c3%b6rige) | N/A |
+| 35 | [Grundlage](http://twitter.com/search?q=Grundlage) | N/A |
+| 36 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 37 | [mütter und frauen](http://twitter.com/search?q=m%c3%bctter+und+frauen) | N/A |
+| 38 | [abgaben](http://twitter.com/search?q=abgaben) | N/A |
+| 39 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 40 | [überstunden](http://twitter.com/search?q=%c3%bcberstunden) | N/A |
+| 41 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
 | 42 | [lewis capaldi](http://twitter.com/search?q=lewis+capaldi) | N/A |
 | 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 45 | [Resetarits](http://twitter.com/search?q=Resetarits) | N/A |
+| 44 | [freizeit](http://twitter.com/search?q=freizeit) | N/A |
+| 45 | [resetarits](http://twitter.com/search?q=resetarits) | N/A |
 | 46 | [kürzungen](http://twitter.com/search?q=k%c3%bcrzungen) | N/A |
 | 47 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 48 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 49 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 50 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
+| 48 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 49 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
+| 50 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-16 03:19:04 UTC`
+📆 Last Updated: `2023-02-16 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,42 +18,42 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [Avena](http://twitter.com/search?q=Avena) | N/A |
 | 2 | [bauskā](http://twitter.com/search?q=bausk%c4%81) | N/A |
 | 3 | [saeima](http://twitter.com/search?q=saeima) | N/A |
-| 4 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 5 | [tavā](http://twitter.com/search?q=tav%c4%81) | N/A |
-| 6 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 7 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 8 | [valentīndienu](http://twitter.com/search?q=valent%c4%abndienu) | N/A |
-| 9 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
-| 10 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
-| 11 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 12 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 13 | [levits](http://twitter.com/search?q=levits) | N/A |
-| 14 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
-| 15 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 16 | [kijivas](http://twitter.com/search?q=kijivas) | N/A |
-| 17 | [ministru](http://twitter.com/search?q=ministru) | N/A |
-| 18 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 19 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 20 | [varu](http://twitter.com/search?q=varu) | N/A |
-| 21 | [valentīna](http://twitter.com/search?q=valent%c4%abna) | N/A |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 24 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 25 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 26 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
-| 27 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 28 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 29 | [lieliski](http://twitter.com/search?q=lieliski) | N/A |
-| 30 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 31 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 32 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 4 | [tavā](http://twitter.com/search?q=tav%c4%81) | N/A |
+| 5 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 6 | [valentīndienu](http://twitter.com/search?q=valent%c4%abndienu) | N/A |
+| 7 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 8 | [Daugavpilī](http://twitter.com/search?q=Daugavpil%c4%ab) | N/A |
+| 9 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 10 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
+| 11 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 12 | [levits](http://twitter.com/search?q=levits) | N/A |
+| 13 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 14 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 15 | [kijivas](http://twitter.com/search?q=kijivas) | N/A |
+| 16 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 17 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 18 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 19 | [varu](http://twitter.com/search?q=varu) | N/A |
+| 20 | [valentīna](http://twitter.com/search?q=valent%c4%abna) | N/A |
+| 21 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 22 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
+| 23 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 24 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
+| 25 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 26 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 27 | [lieliski](http://twitter.com/search?q=lieliski) | N/A |
+| 28 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 29 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 31 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 32 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 33 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 34 | [солнышко](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%bd%d1%8b%d1%88%d0%ba%d0%be) | N/A |
 | 35 | [nesaprotu](http://twitter.com/search?q=nesaprotu) | N/A |
 | 36 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 37 | [katru](http://twitter.com/search?q=katru) | N/A |
 | 38 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
-| 39 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 39 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 40 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 41 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 42 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |

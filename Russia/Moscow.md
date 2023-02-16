@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-02-16 03:19:18 UTC`
+📆 Last Updated: `2023-02-16 04:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,23 +28,23 @@ This is top 50 for [Russia](</Russia>)
 | 11 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
 | 12 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
 | 13 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 14 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 14 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
 | 15 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
 | 16 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 17 | [не могу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b3%d1%83) | N/A |
-| 18 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 17 | [гитлер](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 18 | [ЛЮБЛЮ ТЕБЯ](http://twitter.com/search?q=%d0%9b%d0%ae%d0%91%d0%9b%d0%ae+%d0%a2%d0%95%d0%91%d0%af) | N/A |
 | 19 | [в турции](http://twitter.com/search?q=%d0%b2+%d1%82%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 20 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
 | 21 | [офигеть](http://twitter.com/search?q=%d0%be%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
-| 22 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
+| 22 | [Хорошего](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
 | 23 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
 | 24 | [Илон Маск](http://twitter.com/search?q=%d0%98%d0%bb%d0%be%d0%bd+%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 25 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 26 | [ВЕЛИКИЙ](http://twitter.com/search?q=%d0%92%d0%95%d0%9b%d0%98%d0%9a%d0%98%d0%99) | N/A |
-| 27 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 28 | [ЛЮБЛЮ ТЕБЯ](http://twitter.com/search?q=%d0%9b%d0%ae%d0%91%d0%9b%d0%ae+%d0%a2%d0%95%d0%91%d0%af) | N/A |
+| 25 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
+| 26 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 27 | [ВЕЛИКИЙ](http://twitter.com/search?q=%d0%92%d0%95%d0%9b%d0%98%d0%9a%d0%98%d0%99) | N/A |
+| 28 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
 | 29 | [богу](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d1%83) | N/A |
-| 30 | [с днём](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc) | N/A |
+| 30 | [С Днём](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc) | N/A |
 | 31 | [донбассе](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
 | 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 33 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |

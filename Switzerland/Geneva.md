@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-16 03:19:03 UTC`
+📆 Last Updated: `2023-02-16 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,11 +34,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
 | 18 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 19 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 20 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 21 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 22 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 23 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
-| 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 20 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
+| 21 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 22 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 24 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
 | 25 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
 | 26 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |

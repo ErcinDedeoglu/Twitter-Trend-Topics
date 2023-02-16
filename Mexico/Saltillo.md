@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-16 03:18:51 UTC`
+📆 Last Updated: `2023-02-16 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllStarColosal](http://twitter.com/search?q=%23AllStarColosal) | N/A |
-| 2 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 3 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 4 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 5 | [Daniel Ríos](http://twitter.com/search?q=Daniel+R%c3%ados) | N/A |
-| 6 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 7 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 8 | [#SS9inMexicoDay2](http://twitter.com/search?q=%23SS9inMexicoDay2) | N/A |
-| 9 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 10 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 11 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [Tepa](http://twitter.com/search?q=Tepa) | N/A |
-| 14 | [Cielo Vista](http://twitter.com/search?q=Cielo+Vista) | N/A |
-| 15 | [EL INICIO DE UN HABLAR](http://twitter.com/search?q=EL+INICIO+DE+UN+HABLAR) | N/A |
-| 16 | [Enfermizo](http://twitter.com/search?q=Enfermizo) | N/A |
-| 17 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 18 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 19 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
-| 20 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 21 | [Peláez](http://twitter.com/search?q=Pel%c3%a1ez) | N/A |
-| 22 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
-| 23 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 24 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 25 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
-| 26 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 27 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 28 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 29 | [Diego Urik](http://twitter.com/search?q=Diego+Urik) | N/A |
-| 30 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 31 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 32 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 36 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 39 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
-| 40 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 41 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 42 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 43 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 44 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [Calamardo](http://twitter.com/search?q=Calamardo) | N/A |
+| 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 2 | [#AllStarColosal](http://twitter.com/search?q=%23AllStarColosal) | N/A |
+| 3 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 4 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 5 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 6 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 7 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 8 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 9 | [Lillini](http://twitter.com/search?q=Lillini) | N/A |
+| 10 | [#Pumas](http://twitter.com/search?q=%23Pumas) | N/A |
+| 11 | [Edgar Méndez](http://twitter.com/search?q=Edgar+M%c3%a9ndez) | N/A |
+| 12 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 13 | [Víctor Guzmán](http://twitter.com/search?q=V%c3%adctor+Guzm%c3%a1n) | N/A |
+| 14 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 15 | [X HUMBERS](http://twitter.com/search?q=X+HUMBERS) | N/A |
+| 16 | [DENNIS ALGO DE MI](http://twitter.com/search?q=DENNIS+ALGO+DE+MI) | N/A |
+| 17 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
+| 18 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 19 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 20 | [#ArribaElMonterrey](http://twitter.com/search?q=%23ArribaElMonterrey) | N/A |
+| 21 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 22 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 23 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 24 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 25 | [Tepa](http://twitter.com/search?q=Tepa) | N/A |
+| 26 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 27 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 28 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 29 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 30 | [Daniel Ríos](http://twitter.com/search?q=Daniel+R%c3%ados) | N/A |
+| 31 | [Cielo Vista](http://twitter.com/search?q=Cielo+Vista) | N/A |
+| 32 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 33 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 34 | [Enfermizo](http://twitter.com/search?q=Enfermizo) | N/A |
+| 35 | [Peláez](http://twitter.com/search?q=Pel%c3%a1ez) | N/A |
+| 36 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
+| 37 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 38 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
+| 39 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 40 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 41 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 42 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 43 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 44 | [Diego Urik](http://twitter.com/search?q=Diego+Urik) | N/A |
+| 45 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [EL INICIO DE UN HABLAR](http://twitter.com/search?q=EL+INICIO+DE+UN+HABLAR) | N/A |
 
 
 

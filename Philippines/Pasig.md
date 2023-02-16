@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-16 03:19:11 UTC`
+📆 Last Updated: `2023-02-16 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 2 | [Listen To JoshCullen](http://twitter.com/search?q=Listen+To+JoshCullen) | N/A |
-| 3 | [#AcerWantsItThisWay](http://twitter.com/search?q=%23AcerWantsItThisWay) | N/A |
+| 2 | [#JoshCullenSoundBite1](http://twitter.com/search?q=%23JoshCullenSoundBite1) | N/A |
+| 3 | [#SoeGraduationDay](http://twitter.com/search?q=%23SoeGraduationDay) | N/A |
 | 4 | [#JOKEN](http://twitter.com/search?q=%23JOKEN) | N/A |
-| 5 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 6 | [#hori7ononpie](http://twitter.com/search?q=%23hori7ononpie) | N/A |
-| 7 | [#JENNIExCalvinkleinSS23](http://twitter.com/search?q=%23JENNIExCalvinkleinSS23) | N/A |
+| 5 | [#LeeSoE](http://twitter.com/search?q=%23LeeSoE) | N/A |
+| 6 | [Congrats So-e](http://twitter.com/search?q=Congrats+So-e) | N/A |
+| 7 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
 | 8 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 9 | [Quit Playing Games](http://twitter.com/search?q=Quit+Playing+Games) | N/A |
+| 9 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
 | 10 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 11 | [modess pareveal nanana](http://twitter.com/search?q=modess+pareveal+nanana) | N/A |
-| 12 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
-| 13 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 11 | [KDLEX ONE SWEET DAY](http://twitter.com/search?q=KDLEX+ONE+SWEET+DAY) | N/A |
+| 12 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 13 | [Quit Playing Games](http://twitter.com/search?q=Quit+Playing+Games) | N/A |
 | 14 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
-| 15 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 16 | [nadine intro](http://twitter.com/search?q=nadine+intro) | N/A |
-| 17 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 15 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [nadine intro](http://twitter.com/search?q=nadine+intro) | N/A |
 | 18 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 19 | [Park Jeongwoo](http://twitter.com/search?q=Park+Jeongwoo) | N/A |
-| 20 | [shaiben hinahanap ka premiere](http://twitter.com/search?q=shaiben+hinahanap+ka+premiere) | N/A |
-| 21 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 22 | [Batuan](http://twitter.com/search?q=Batuan) | N/A |
-| 23 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 24 | [best time 1m views](http://twitter.com/search?q=best+time+1m+views) | N/A |
-| 25 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 26 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 27 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
-| 28 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
-| 29 | [Huwebes](http://twitter.com/search?q=Huwebes) | N/A |
-| 30 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 31 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
-| 32 | [jongup](http://twitter.com/search?q=jongup) | N/A |
+| 19 | [SEA YACHT ROBXINE](http://twitter.com/search?q=SEA+YACHT+ROBXINE) | N/A |
+| 20 | [Park Jeongwoo](http://twitter.com/search?q=Park+Jeongwoo) | N/A |
+| 21 | [shaiben hinahanap ka premiere](http://twitter.com/search?q=shaiben+hinahanap+ka+premiere) | N/A |
+| 22 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 23 | [best time 1m views](http://twitter.com/search?q=best+time+1m+views) | N/A |
+| 24 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 25 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 26 | [Panatang Makabayan](http://twitter.com/search?q=Panatang+Makabayan) | N/A |
+| 27 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 28 | [pie date with vinci](http://twitter.com/search?q=pie+date+with+vinci) | N/A |
+| 29 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
+| 30 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 31 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 32 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
 | 33 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 34 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
-| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
 | 36 | [AVATRICE DAY](http://twitter.com/search?q=AVATRICE+DAY) | N/A |
 | 37 | [congratulations bss](http://twitter.com/search?q=congratulations+bss) | N/A |
-| 38 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 40 | [happy hearts](http://twitter.com/search?q=happy+hearts) | N/A |
-| 41 | [g22 anniversary comeback](http://twitter.com/search?q=g22+anniversary+comeback) | N/A |
-| 42 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
-| 43 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 44 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
-| 45 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 38 | [happy hearts](http://twitter.com/search?q=happy+hearts) | N/A |
+| 39 | [g22 anniversary comeback](http://twitter.com/search?q=g22+anniversary+comeback) | N/A |
+| 40 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
+| 41 | [Batuan](http://twitter.com/search?q=Batuan) | N/A |
+| 42 | [PEAK TIME](http://twitter.com/search?q=PEAK+TIME) | N/A |
+| 43 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 44 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 45 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
 | 46 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
 | 47 | [tds2 in manila](http://twitter.com/search?q=tds2+in+manila) | N/A |
-| 48 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 49 | [Vday](http://twitter.com/search?q=Vday) | N/A |
+| 48 | [MAINE MENDOZA Pretty](http://twitter.com/search?q=MAINE+MENDOZA+Pretty) | N/A |
+| 49 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-16 03:19:02 UTC`
+📆 Last Updated: `2023-02-16 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023S3](http://twitter.com/search?q=%23COAC2023S3) | N/A |
-| 2 | [#GalaReinaSC](http://twitter.com/search?q=%23GalaReinaSC) | N/A |
-| 3 | [#KirbyConAmigos](http://twitter.com/search?q=%23KirbyConAmigos) | N/A |
-| 4 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 2 | [#KirbyConAmigos](http://twitter.com/search?q=%23KirbyConAmigos) | N/A |
+| 3 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 4 | [Mi PC Custom](http://twitter.com/search?q=Mi+PC+Custom) | N/A |
 | 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 6 | [Mi PC Custom](http://twitter.com/search?q=Mi+PC+Custom) | N/A |
+| 6 | [#GalaReinaSC](http://twitter.com/search?q=%23GalaReinaSC) | N/A |
 | 7 | [#ChiringuitoÁrbitros](http://twitter.com/search?q=%23Chiringuito%c3%81rbitros) | N/A |
-| 8 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 11 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
+| 10 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 11 | [Vera](http://twitter.com/search?q=Vera) | N/A |
 | 12 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 13 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 14 | [#APOYOROCIO15F](http://twitter.com/search?q=%23APOYOROCIO15F) | N/A |
+| 13 | [#APOYOROCIO15F](http://twitter.com/search?q=%23APOYOROCIO15F) | N/A |
+| 14 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 15 | [Culos](http://twitter.com/search?q=Culos) | N/A |
 | 16 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
 | 17 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Spain](</Spain>)
 | 21 | [Fariña](http://twitter.com/search?q=Fari%c3%b1a) | N/A |
 | 22 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
 | 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 24 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
-| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 27 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 28 | [Comité de Árbitros](http://twitter.com/search?q=Comit%c3%a9+de+%c3%81rbitros) | N/A |
-| 29 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
-| 30 | [Los Viñanos](http://twitter.com/search?q=Los+Vi%c3%b1anos) | N/A |
+| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 27 | [Comité de Árbitros](http://twitter.com/search?q=Comit%c3%a9+de+%c3%81rbitros) | N/A |
+| 28 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
+| 29 | [Los Viñanos](http://twitter.com/search?q=Los+Vi%c3%b1anos) | N/A |
+| 30 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
 | 31 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 32 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 33 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 34 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 35 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
-| 36 | [Villarato](http://twitter.com/search?q=Villarato) | N/A |
-| 37 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 38 | [P A T I O](http://twitter.com/search?q=P+A+T+I+O) | N/A |
-| 39 | [Comité Técnico de Árbitros](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+%c3%81rbitros) | N/A |
-| 40 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
-| 41 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 42 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 43 | [Chirigotas](http://twitter.com/search?q=Chirigotas) | N/A |
-| 44 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 45 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
-| 46 | [Andújar Oliver](http://twitter.com/search?q=And%c3%bajar+Oliver) | N/A |
-| 47 | [Manolín](http://twitter.com/search?q=Manol%c3%adn) | N/A |
-| 48 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
-| 49 | [Santi Castro](http://twitter.com/search?q=Santi+Castro) | N/A |
-| 50 | [Enrique de Castro](http://twitter.com/search?q=Enrique+de+Castro) | N/A |
+| 32 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 33 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 34 | [P A T I O](http://twitter.com/search?q=P+A+T+I+O) | N/A |
+| 35 | [Comité Técnico de Árbitros](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+%c3%81rbitros) | N/A |
+| 36 | [Haunter](http://twitter.com/search?q=Haunter) | N/A |
+| 37 | [Chirigotas](http://twitter.com/search?q=Chirigotas) | N/A |
+| 38 | [Ritz](http://twitter.com/search?q=Ritz) | N/A |
+| 39 | [Villarato](http://twitter.com/search?q=Villarato) | N/A |
+| 40 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 41 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
+| 42 | [Manolín](http://twitter.com/search?q=Manol%c3%adn) | N/A |
+| 43 | [Enrique de Castro](http://twitter.com/search?q=Enrique+de+Castro) | N/A |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 46 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 47 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 48 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 49 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 50 | [El Cantón](http://twitter.com/search?q=El+Cant%c3%b3n) | N/A |
 
 
 

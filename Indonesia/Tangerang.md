@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-16 03:19:06 UTC`
+📆 Last Updated: `2023-02-16 04:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#animondacatdrink](http://twitter.com/search?q=%23animondacatdrink) | N/A |
+| 1 | [mending prabowo aja](http://twitter.com/search?q=mending+prabowo+aja) | N/A |
 | 2 | [#SuperHoldingBUMN](http://twitter.com/search?q=%23SuperHoldingBUMN) | N/A |
-| 3 | [mending prabowo aja](http://twitter.com/search?q=mending+prabowo+aja) | N/A |
-| 4 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
-| 5 | [indonesia maju sejahtera](http://twitter.com/search?q=indonesia+maju+sejahtera) | N/A |
-| 6 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
+| 3 | [dekade 08](http://twitter.com/search?q=dekade+08) | N/A |
+| 4 | [indonesia maju sejahtera](http://twitter.com/search?q=indonesia+maju+sejahtera) | N/A |
+| 5 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
+| 6 | [#animondacatdrink](http://twitter.com/search?q=%23animondacatdrink) | N/A |
 | 7 | [#AntekAsing](http://twitter.com/search?q=%23AntekAsing) | N/A |
-| 8 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
-| 9 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 10 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
-| 13 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
-| 14 | [Ngidam](http://twitter.com/search?q=Ngidam) | N/A |
-| 15 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 16 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 17 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 19 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
-| 20 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 21 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
-| 22 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 23 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 24 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 25 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
-| 26 | [Khilafah Mahkota Kewajiban](http://twitter.com/search?q=Khilafah+Mahkota+Kewajiban) | N/A |
-| 27 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 28 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
-| 29 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 30 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 31 | [Abon](http://twitter.com/search?q=Abon) | N/A |
-| 32 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
-| 33 | [Cherrybelle](http://twitter.com/search?q=Cherrybelle) | N/A |
-| 34 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
-| 35 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 36 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
-| 37 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 38 | [duit mana duit](http://twitter.com/search?q=duit+mana+duit) | N/A |
-| 39 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 40 | [mind id](http://twitter.com/search?q=mind+id) | N/A |
-| 41 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
-| 42 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
-| 43 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 44 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 45 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 8 | [#SoeGraduationDay](http://twitter.com/search?q=%23SoeGraduationDay) | N/A |
+| 9 | [Richard Eliezer](http://twitter.com/search?q=Richard+Eliezer) | Richard Eliezer is a Hebrew name meaning “God is my help.” It is derived from the words “El” (God) and “ezer” (help). |
+| 10 | [Congrats So-e](http://twitter.com/search?q=Congrats+So-e) | N/A |
+| 11 | [Ngidam](http://twitter.com/search?q=Ngidam) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [Hendi Prio Santoso](http://twitter.com/search?q=Hendi+Prio+Santoso) | N/A |
+| 14 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 15 | [Bharada E](http://twitter.com/search?q=Bharada+E) | N/A |
+| 16 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 18 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 19 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 20 | [Jongkok](http://twitter.com/search?q=Jongkok) | N/A |
+| 21 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 22 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 23 | [Happy Valentine](http://twitter.com/search?q=Happy+Valentine) | N/A |
+| 24 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
+| 25 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 26 | [Abon](http://twitter.com/search?q=Abon) | N/A |
+| 27 | [Justice Collaborator](http://twitter.com/search?q=Justice+Collaborator) | N/A |
+| 28 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 29 | [cherrybelle](http://twitter.com/search?q=cherrybelle) | N/A |
+| 30 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 31 | [Keunfoll](http://twitter.com/search?q=Keunfoll) | N/A |
+| 32 | [ISNT PARK JEONGWOO LOVELY](http://twitter.com/search?q=ISNT+PARK+JEONGWOO+LOVELY) | N/A |
+| 33 | [Mandat Daerah Untuk Indonesia](http://twitter.com/search?q=Mandat+Daerah+Untuk+Indonesia) | N/A |
+| 34 | [duit mana duit](http://twitter.com/search?q=duit+mana+duit) | N/A |
+| 35 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 36 | [RORA IS HERE](http://twitter.com/search?q=RORA+IS+HERE) | N/A |
+| 37 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 38 | [mind id](http://twitter.com/search?q=mind+id) | N/A |
+| 39 | [HOPE DAYS IS COMING](http://twitter.com/search?q=HOPE+DAYS+IS+COMING) | N/A |
+| 40 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
+| 41 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 42 | [KSAD Dudung AR](http://twitter.com/search?q=KSAD+Dudung+AR) | KSAD Dudung AR is an Indonesian phrase that translates to "Let's Do It Together". It is often used as a rallying cry or a call to action. |
+| 43 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 44 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 45 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
 | 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 47 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 48 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 49 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 47 | [Islam Solusi Problematika Umat](http://twitter.com/search?q=Islam+Solusi+Problematika+Umat) | N/A |
+| 48 | [PEAK TIME](http://twitter.com/search?q=PEAK+TIME) | N/A |
+| 49 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
 
 
 

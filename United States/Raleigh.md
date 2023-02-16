@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-16 03:19:30 UTC`
+📆 Last Updated: `2023-02-16 04:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
 | 4 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 6 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
 | 7 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 8 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 9 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 10 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 11 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 12 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 13 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 14 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 15 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
-| 16 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 17 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
-| 18 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
-| 19 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 20 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 21 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 22 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 23 | [Nany](http://twitter.com/search?q=Nany) | N/A |
-| 24 | [Carver](http://twitter.com/search?q=Carver) | N/A |
-| 25 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 26 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 27 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 28 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 29 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
-| 30 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 31 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 32 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 33 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 34 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 35 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 36 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 37 | [Christopher Daniels](http://twitter.com/search?q=Christopher+Daniels) | N/A |
-| 38 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
-| 39 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 40 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
-| 41 | [Aidoo](http://twitter.com/search?q=Aidoo) | N/A |
-| 42 | [Dark Order](http://twitter.com/search?q=Dark+Order) | N/A |
-| 43 | [Jay Bilas](http://twitter.com/search?q=Jay+Bilas) | N/A |
-| 44 | [Aneesa](http://twitter.com/search?q=Aneesa) | N/A |
-| 45 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 46 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 47 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 48 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 49 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 50 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 8 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 9 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 10 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 11 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 12 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 13 | [Tori](http://twitter.com/search?q=Tori) | N/A |
+| 14 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 15 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
+| 16 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 17 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 18 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 19 | [Cielo Vista Mall](http://twitter.com/search?q=Cielo+Vista+Mall) | N/A |
+| 20 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 21 | [Dixieland Delight](http://twitter.com/search?q=Dixieland+Delight) | N/A |
+| 22 | [Alex Bowman](http://twitter.com/search?q=Alex+Bowman) | N/A |
+| 23 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 25 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 26 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 27 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 28 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 29 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 30 | [Nany](http://twitter.com/search?q=Nany) | N/A |
+| 31 | [Carver](http://twitter.com/search?q=Carver) | N/A |
+| 32 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 33 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 34 | [Full Swing](http://twitter.com/search?q=Full+Swing) | N/A |
+| 35 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 36 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 37 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 38 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 39 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 40 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 41 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 42 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 43 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 44 | [Hoyoverse](http://twitter.com/search?q=Hoyoverse) | N/A |
+| 45 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
+| 46 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 47 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 48 | [Christopher Daniels](http://twitter.com/search?q=Christopher+Daniels) | N/A |
+| 49 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 50 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
 
 
 

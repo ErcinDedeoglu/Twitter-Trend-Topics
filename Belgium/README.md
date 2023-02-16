@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-16 03:19:33 UTC`
+📆 Last Updated: `2023-02-16 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Belgium
 | 11 | [Parker](http://twitter.com/search?q=Parker) | N/A |
 | 12 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
 | 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 14 | [De Moor](http://twitter.com/search?q=De+Moor) | N/A |
+| 14 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
 | 15 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
 | 16 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 17 | [Links](http://twitter.com/search?q=Links) | N/A |
@@ -39,22 +39,22 @@ This is top 50 for Belgium
 | 22 | [Noa Lang](http://twitter.com/search?q=Noa+Lang) | N/A |
 | 23 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
 | 24 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 25 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 26 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
+| 25 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
+| 26 | [brussels gewest](http://twitter.com/search?q=brussels+gewest) | N/A |
 | 27 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 28 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
 | 29 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
 | 30 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 31 | [sint-pieters-leeuw](http://twitter.com/search?q=sint-pieters-leeuw) | N/A |
-| 32 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 33 | [Mauri](http://twitter.com/search?q=Mauri) | N/A |
-| 34 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 35 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 37 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
+| 31 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 32 | [Mauri](http://twitter.com/search?q=Mauri) | N/A |
+| 33 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 34 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 36 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
+| 37 | [Sint-Pieters-Leeuw](http://twitter.com/search?q=Sint-Pieters-Leeuw) | N/A |
 | 38 | [maaltijdcheques](http://twitter.com/search?q=maaltijdcheques) | N/A |
 | 39 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 40 | [davies](http://twitter.com/search?q=davies) | N/A |
+| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 | 41 | [peter renkens](http://twitter.com/search?q=peter+renkens) | N/A |
 | 42 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
 | 43 | [Noël](http://twitter.com/search?q=No%c3%abl) | Noël is a French word meaning "Christmas". It is derived from the Latin phrase "natus est deus" which means "God is born". In English, it is used to refer to the Christmas season and the celebration of the birth of Jesus Christ. |
