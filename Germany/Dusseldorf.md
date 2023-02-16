@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-15 23:16:42 UTC`
+📆 Last Updated: `2023-02-16 00:29:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
 | 2 | [#maischberger](http://twitter.com/search?q=%23maischberger) | N/A |
-| 3 | [#bvbcfc](http://twitter.com/search?q=%23bvbcfc) | N/A |
-| 4 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 3 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 4 | [#bvbcfc](http://twitter.com/search?q=%23bvbcfc) | N/A |
 | 5 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
 | 6 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 7 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 10 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 11 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 12 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 13 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 16 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 20 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
-| 21 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 22 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 23 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 24 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 25 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 26 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 9 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 10 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 11 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 12 | [Franz Alt](http://twitter.com/search?q=Franz+Alt) | N/A |
+| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 14 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 15 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 16 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 19 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 20 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 21 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 22 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 23 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 24 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
+| 25 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
+| 26 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
 | 27 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 28 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 29 | [Kriegseuphorie](http://twitter.com/search?q=Kriegseuphorie) | N/A |
-| 30 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 31 | [Westernhagen](http://twitter.com/search?q=Westernhagen) | N/A |
-| 32 | [Choreo](http://twitter.com/search?q=Choreo) | N/A |
-| 33 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 34 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 35 | [Nationalpazifismus](http://twitter.com/search?q=Nationalpazifismus) | N/A |
-| 36 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 37 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
-| 38 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 39 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 40 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 41 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 42 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 43 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 44 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
-| 45 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 46 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 47 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
-| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 49 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 28 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 29 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 30 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 31 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 32 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 33 | [Studierende](http://twitter.com/search?q=Studierende) | N/A |
+| 34 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 35 | [Choreo](http://twitter.com/search?q=Choreo) | N/A |
+| 36 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 37 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
+| 38 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
+| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 40 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 41 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 42 | [Dienstpflicht](http://twitter.com/search?q=Dienstpflicht) | N/A |
+| 43 | [Waldmeister](http://twitter.com/search?q=Waldmeister) | N/A |
+| 44 | [briefwahlstimmen](http://twitter.com/search?q=briefwahlstimmen) | N/A |
+| 45 | [Herr Gysi](http://twitter.com/search?q=Herr+Gysi) | N/A |
+| 46 | [Glasfaserkabel](http://twitter.com/search?q=Glasfaserkabel) | N/A |
+| 47 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 48 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 49 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-15 23:16:38 UTC`
+📆 Last Updated: `2023-02-16 00:29:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 2 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 3 | [Petrópolis](http://twitter.com/search?q=Petr%c3%b3polis) | N/A |
-| 4 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Maricá](http://twitter.com/search?q=Maric%c3%a1) | N/A |
+| 3 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 4 | [Petrópolis](http://twitter.com/search?q=Petr%c3%b3polis) | N/A |
+| 5 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
 | 6 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 9 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
-| 10 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 7 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 8 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 11 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 12 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 13 | [JENNIES LOVE JENNA](http://twitter.com/search?q=JENNIES+LOVE+JENNA) | N/A |
-| 14 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 15 | [ZAAC E ANITTA MAIS UMA](http://twitter.com/search?q=ZAAC+E+ANITTA+MAIS+UMA) | N/A |
+| 12 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
+| 13 | [Vasco da Grama](http://twitter.com/search?q=Vasco+da+Grama) | N/A |
+| 14 | [#MilkAI](http://twitter.com/search?q=%23MilkAI) | N/A |
+| 15 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
 | 16 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 17 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 18 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 19 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 20 | [DR FRED ESTAMOS COM VOCÊ](http://twitter.com/search?q=DR+FRED+ESTAMOS+COM+VOC%c3%8a) | N/A |
-| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 22 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 23 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
-| 24 | [#VencerODesamorFinal](http://twitter.com/search?q=%23VencerODesamorFinal) | N/A |
-| 25 | [Resistência](http://twitter.com/search?q=Resist%c3%aancia) | Resistência is a Portuguese word that means resistance or resilience. It is often used to refer to the strength and determination of a person or group in the face of adversity. In English, it can be used to describe someone who is determined to fight for what they believe in, even when faced with difficult obstacles. |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 27 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 28 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 29 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 30 | [MIBR](http://twitter.com/search?q=MIBR) | N/A |
-| 31 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 32 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 33 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 34 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 35 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 37 | [saad](http://twitter.com/search?q=saad) | N/A |
-| 38 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 39 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 40 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 42 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 43 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
-| 44 | [STREAM CRIA DA IVETE](http://twitter.com/search?q=STREAM+CRIA+DA+IVETE) | N/A |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 49 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 50 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 17 | [JENNIES LOVE JENNA](http://twitter.com/search?q=JENNIES+LOVE+JENNA) | N/A |
+| 18 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 19 | [Resistência](http://twitter.com/search?q=Resist%c3%aancia) | Resistência is a Portuguese word that means resistance or resilience. It is often used to refer to the strength and determination of a person or group in the face of adversity. In English, it can be used to describe someone who is determined to fight for what they believe in, even when faced with difficult obstacles. |
+| 20 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 21 | [saad](http://twitter.com/search?q=saad) | N/A |
+| 22 | [ESTAMOS COM VOCÊ KEYT](http://twitter.com/search?q=ESTAMOS+COM+VOC%c3%8a+KEYT) | N/A |
+| 23 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 24 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 25 | [Indisponível](http://twitter.com/search?q=Indispon%c3%advel) | N/A |
+| 26 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
+| 27 | [ALL KILL NA HOPEWEEK](http://twitter.com/search?q=ALL+KILL+NA+HOPEWEEK) | N/A |
+| 28 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 29 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 31 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 32 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 33 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
+| 34 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
+| 35 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 36 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 39 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 40 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 41 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
+| 42 | [Colossal](http://twitter.com/search?q=Colossal) | N/A |
+| 43 | [FAÇA O L IMEDIATAMENTE](http://twitter.com/search?q=FA%c3%87A+O+L+IMEDIATAMENTE) | N/A |
+| 44 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
+| 45 | [Como Treinar o Seu Dragão](http://twitter.com/search?q=Como+Treinar+o+Seu+Drag%c3%a3o) | N/A |
+| 46 | [Briggs](http://twitter.com/search?q=Briggs) | Briggs is a surname of English origin. It is derived from the Old English word "brigg", meaning "bridge". The name was originally given to someone who lived near a bridge or worked as a bridge builder. |
+| 47 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 48 | [Pinho](http://twitter.com/search?q=Pinho) | Pinho is a Portuguese word meaning "pine tree". It is often used to refer to the Pinus species of trees, which are native to the Mediterranean region. |
+| 49 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 50 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 
 
 

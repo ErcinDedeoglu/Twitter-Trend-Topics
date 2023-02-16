@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-15 23:17:01 UTC`
+📆 Last Updated: `2023-02-16 00:30:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#PetrolDieselPrice](http://twitter.com/search?q=%23PetrolDieselPrice) | #PetrolDieselPrice is a hashtag used on social media to discuss the current prices of petrol and diesel fuel. It is used to share information about fuel prices, ask questions about fuel prices, and discuss the impact of fuel prices on people's lives. |
 | 2 | [#مہنگائی_کاکہرام_مظلوم_عوام](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%da%a9%d8%a7%da%a9%db%81%d8%b1%d8%a7%d9%85_%d9%85%d8%b8%d9%84%d9%88%d9%85_%d8%b9%d9%88%d8%a7%d9%85) | N/A |
-| 3 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 4 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
+| 3 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
+| 4 | [#KKvPZ](http://twitter.com/search?q=%23KKvPZ) | N/A |
 | 5 | [#Zaman_Park](http://twitter.com/search?q=%23Zaman_Park) | N/A |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 8 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 7 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 9 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
-| 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 12 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 13 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 14 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 17 | [muhammad aurangzeb](http://twitter.com/search?q=muhammad+aurangzeb) | N/A |
-| 18 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 23 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
-| 24 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 25 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 26 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 27 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
-| 28 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 29 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 30 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 31 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
-| 32 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
-| 33 | [pakistan stock exchange](http://twitter.com/search?q=pakistan+stock+exchange) | N/A |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 37 | [THE MEERASIM ERA](http://twitter.com/search?q=THE+MEERASIM+ERA) | N/A |
-| 38 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 39 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 41 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 44 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 45 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 46 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 47 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 48 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 49 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 50 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 10 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 11 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 12 | [muhammad aurangzeb](http://twitter.com/search?q=muhammad+aurangzeb) | N/A |
+| 13 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 14 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 17 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 18 | [President & CEO](http://twitter.com/search?q=President+%26+CEO) | N/A |
+| 19 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
+| 20 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 21 | [Mir Hamza](http://twitter.com/search?q=Mir+Hamza) | N/A |
+| 22 | [ceo & managing director](http://twitter.com/search?q=ceo+%26+managing+director) | N/A |
+| 23 | [pakistan stock exchange](http://twitter.com/search?q=pakistan+stock+exchange) | N/A |
+| 24 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 25 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 26 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
+| 27 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 28 | [THE MEERASIM ERA](http://twitter.com/search?q=THE+MEERASIM+ERA) | N/A |
+| 29 | [sarfaraz](http://twitter.com/search?q=sarfaraz) | N/A |
+| 30 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 31 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 32 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 33 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 34 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 35 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 36 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 37 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 38 | [Contact](http://twitter.com/search?q=Contact) | N/A |
+| 39 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 40 | [Finance](http://twitter.com/search?q=Finance) | N/A |
+| 41 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 42 | [London](http://twitter.com/search?q=London) | N/A |
+| 43 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 44 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 45 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 46 | [Come DM](http://twitter.com/search?q=Come+DM) | N/A |
+| 47 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 48 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 49 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 50 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
 
 
 

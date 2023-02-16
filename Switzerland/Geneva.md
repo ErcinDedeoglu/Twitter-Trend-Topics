@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-15 23:16:46 UTC`
+📆 Last Updated: `2023-02-16 00:29:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 1 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 2 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 5 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
 | 6 | [#ICForumCH](http://twitter.com/search?q=%23ICForumCH) | N/A |
 | 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 8 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 9 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
 | 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 12 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
@@ -31,38 +31,37 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 14 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
 | 15 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 16 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
-| 17 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 18 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 17 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 18 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
 | 19 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 20 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
 | 21 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 22 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 23 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 22 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 23 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
 | 24 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 25 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 25 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
 | 26 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 29 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 30 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 31 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 32 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 28 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 29 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 30 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 31 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 32 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 33 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 34 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 37 | [Courage](http://twitter.com/search?q=Courage) | N/A |
-| 38 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 39 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 40 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 41 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
-| 42 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 43 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 34 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 37 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 38 | [Courage](http://twitter.com/search?q=Courage) | N/A |
+| 39 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 40 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
+| 41 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 42 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 43 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
 | 44 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 45 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 46 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 45 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 46 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
 | 47 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 48 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
 
 
 
