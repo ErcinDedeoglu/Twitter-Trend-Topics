@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-17 03:22:07 UTC`
+📆 Last Updated: `2023-02-17 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#HLFC2023](http://twitter.com/search?q=%23HLFC2023) | N/A |
 | 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 4 | [#222MillionDreams](http://twitter.com/search?q=%23222MillionDreams) | N/A |
-| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 6 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
@@ -33,8 +33,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 16 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
 | 17 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
 | 18 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 19 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 20 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
+| 19 | [publikum](http://twitter.com/search?q=publikum) | N/A |
+| 20 | [wachstum](http://twitter.com/search?q=wachstum) | N/A |
 | 21 | [valais](http://twitter.com/search?q=valais) | N/A |
 | 22 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
 | 23 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
@@ -50,13 +50,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 34 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
 | 35 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 36 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 36 | [kurs](http://twitter.com/search?q=kurs) | N/A |
 | 37 | [Franken](http://twitter.com/search?q=Franken) | N/A |
 | 38 | [Keller](http://twitter.com/search?q=Keller) | N/A |
 | 39 | [Germania](http://twitter.com/search?q=Germania) | N/A |
 | 40 | [gegenvorschlag](http://twitter.com/search?q=gegenvorschlag) | N/A |
 | 41 | [confédération](http://twitter.com/search?q=conf%c3%a9d%c3%a9ration) | N/A |
-| 42 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
+| 42 | [stimmung](http://twitter.com/search?q=stimmung) | N/A |
 | 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 44 | [Jungs](http://twitter.com/search?q=Jungs) | N/A |
 | 45 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |

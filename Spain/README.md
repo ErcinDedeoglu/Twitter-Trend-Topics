@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-17 03:22:42 UTC`
+📆 Last Updated: `2023-02-17 04:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,16 +17,16 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 2 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 3 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 4 | [#chiringuitoarbitros](http://twitter.com/search?q=%23chiringuitoarbitros) | N/A |
-| 5 | [#EspecialJugones](http://twitter.com/search?q=%23EspecialJugones) | N/A |
-| 6 | [#SorteazoLowiS23](http://twitter.com/search?q=%23SorteazoLowiS23) | N/A |
-| 7 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
-| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 9 | [#Murgas3LPGC](http://twitter.com/search?q=%23Murgas3LPGC) | N/A |
-| 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 3 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
+| 4 | [#SorteazoLowiS23](http://twitter.com/search?q=%23SorteazoLowiS23) | N/A |
+| 5 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 6 | [#coac2023s3](http://twitter.com/search?q=%23coac2023s3) | N/A |
+| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 8 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 11 | [#Murgas3LPGC](http://twitter.com/search?q=%23Murgas3LPGC) | N/A |
+| 12 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
 | 13 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 14 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
 | 15 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for Spain
 | 18 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 19 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 20 | [Mi PC Custom](http://twitter.com/search?q=Mi+PC+Custom) | N/A |
-| 21 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 22 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 21 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
+| 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 23 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 24 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 25 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 27 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 24 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 25 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 26 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 27 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 28 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 29 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 30 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 31 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 29 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 30 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 31 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 32 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 33 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 34 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 36 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 37 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 38 | [Brizuela](http://twitter.com/search?q=Brizuela) | N/A |
-| 39 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 40 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 41 | [Saras](http://twitter.com/search?q=Saras) | N/A |
-| 42 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 43 | [Jueves Lardero](http://twitter.com/search?q=Jueves+Lardero) | N/A |
+| 34 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 35 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 37 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 38 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 39 | [Brizuela](http://twitter.com/search?q=Brizuela) | N/A |
+| 40 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 41 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 42 | [jueves lardero](http://twitter.com/search?q=jueves+lardero) | N/A |
+| 43 | [Saras](http://twitter.com/search?q=Saras) | N/A |
 | 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 45 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
 | 46 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
 | 47 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 48 | [Pedro Bravo](http://twitter.com/search?q=Pedro+Bravo) | N/A |
-| 49 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 50 | [Will Thomas](http://twitter.com/search?q=Will+Thomas) | N/A |
+| 48 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 49 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
+| 50 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
 
 
 

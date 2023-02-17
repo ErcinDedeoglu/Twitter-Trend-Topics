@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-17 03:22:30 UTC`
+📆 Last Updated: `2023-02-17 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 2 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 3 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
-| 4 | [#GU23](http://twitter.com/search?q=%23GU23) | N/A |
-| 5 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 6 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
-| 7 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 8 | [Riviera](http://twitter.com/search?q=Riviera) | N/A |
-| 9 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 10 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 11 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 12 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 13 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 14 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 17 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
-| 18 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 19 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 20 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 22 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 23 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 24 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 25 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 26 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 27 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 28 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 29 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 30 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
-| 31 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 32 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 33 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 34 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 35 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 36 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 37 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 38 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
-| 39 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 40 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
-| 41 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 42 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 43 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 44 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 45 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 46 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 47 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 48 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 49 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 6 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 7 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 8 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 9 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 10 | [#GU23](http://twitter.com/search?q=%23GU23) | N/A |
+| 11 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 12 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
+| 13 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 14 | [Riviera](http://twitter.com/search?q=Riviera) | N/A |
+| 15 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 17 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 18 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 19 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 22 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 23 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 24 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 25 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 26 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 27 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 28 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 30 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 31 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 32 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 33 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 34 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 35 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 36 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 37 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 38 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 39 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 40 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
+| 41 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
+| 42 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 43 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 44 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
+| 45 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 46 | [Ayanna](http://twitter.com/search?q=Ayanna) | N/A |
+| 47 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 48 | [T Ross](http://twitter.com/search?q=T+Ross) | N/A |
+| 49 | [Finch](http://twitter.com/search?q=Finch) | N/A |
 
 
 

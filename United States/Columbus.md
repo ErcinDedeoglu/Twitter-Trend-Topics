@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-17 03:22:29 UTC`
+📆 Last Updated: `2023-02-17 04:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JD Vance](http://twitter.com/search?q=JD+Vance) | N/A |
-| 2 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 3 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 4 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 5 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 7 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 8 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
-| 9 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 10 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 11 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [#GUHH](http://twitter.com/search?q=%23GUHH) | N/A |
-| 14 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 15 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 16 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 17 | [#ranboowedding](http://twitter.com/search?q=%23ranboowedding) | N/A |
-| 18 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 19 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 20 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 21 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 22 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 23 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 24 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 25 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
-| 26 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 1 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 3 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 4 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 5 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 6 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 7 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 8 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 9 | [#OrganizedCrime](http://twitter.com/search?q=%23OrganizedCrime) | N/A |
+| 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 11 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 13 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 14 | [#NikkiBellaSaysIDo](http://twitter.com/search?q=%23NikkiBellaSaysIDo) | N/A |
+| 15 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 16 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 17 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 18 | [#GUHH](http://twitter.com/search?q=%23GUHH) | N/A |
+| 19 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 20 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 21 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 23 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 24 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 25 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 26 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
 | 27 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 28 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 29 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 30 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 31 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 32 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 33 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
-| 34 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 35 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
-| 36 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 37 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 38 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 39 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 40 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 41 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 42 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 43 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 44 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 45 | [Lauzon](http://twitter.com/search?q=Lauzon) | N/A |
+| 28 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 29 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 30 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 31 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 32 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 33 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
+| 34 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
+| 35 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 36 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 37 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
+| 38 | [Ayanna](http://twitter.com/search?q=Ayanna) | N/A |
+| 39 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 40 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 41 | [T Ross](http://twitter.com/search?q=T+Ross) | N/A |
+| 42 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 43 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 44 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 45 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
 | 46 | [Everybody's Something](http://twitter.com/search?q=Everybody%27s+Something) | N/A |
-| 47 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 48 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 49 | [Aric Almirola](http://twitter.com/search?q=Aric+Almirola) | N/A |
+| 47 | [Zed Key](http://twitter.com/search?q=Zed+Key) | N/A |
+| 48 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 49 | [Preds](http://twitter.com/search?q=Preds) | N/A |
 
 
 

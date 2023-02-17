@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-17 03:22:32 UTC`
+📆 Last Updated: `2023-02-17 04:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 2 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
+| 2 | [Flaco](http://twitter.com/search?q=Flaco) | N/A |
 | 3 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 4 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 5 | [Flaco](http://twitter.com/search?q=Flaco) | N/A |
-| 6 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 7 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 8 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 5 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 6 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 7 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 8 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 9 | [Senator](http://twitter.com/search?q=Senator) | N/A |
 | 10 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 | 11 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 14 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 15 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 16 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
-| 17 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 18 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 20 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 21 | [#GUHH](http://twitter.com/search?q=%23GUHH) | N/A |
-| 22 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 23 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 25 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 26 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 27 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 28 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 13 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 14 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 16 | [#OrganizedCrime](http://twitter.com/search?q=%23OrganizedCrime) | N/A |
+| 17 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 18 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 19 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 20 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 21 | [#NikkiBellaSaysIDo](http://twitter.com/search?q=%23NikkiBellaSaysIDo) | N/A |
+| 22 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 23 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 24 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 25 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 26 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 27 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 28 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 29 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 30 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 31 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
-| 32 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 30 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 31 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 32 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
 | 33 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 34 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 35 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 36 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 37 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 38 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
-| 39 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 40 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 41 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
-| 42 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 43 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 44 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 45 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 46 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 47 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 48 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 49 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 50 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 34 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 35 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 36 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 37 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 38 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 39 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
+| 40 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
+| 41 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 42 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 43 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
+| 44 | [Ayanna](http://twitter.com/search?q=Ayanna) | N/A |
+| 45 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 46 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 47 | [T Ross](http://twitter.com/search?q=T+Ross) | N/A |
+| 48 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 49 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 50 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
 
 
 

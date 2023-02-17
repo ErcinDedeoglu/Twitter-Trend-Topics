@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-17 03:22:36 UTC`
+📆 Last Updated: `2023-02-17 04:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 3 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
 | 4 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 5 | [Tarek Leitner](http://twitter.com/search?q=Tarek+Leitner) | N/A |
+| 5 | [tarek leitner](http://twitter.com/search?q=tarek+leitner) | N/A |
 | 6 | [Loge](http://twitter.com/search?q=Loge) | N/A |
 | 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 8 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
+| 8 | [kleid](http://twitter.com/search?q=kleid) | N/A |
 | 9 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
 | 10 | [#salrom](http://twitter.com/search?q=%23salrom) | N/A |
 | 11 | [#w1602](http://twitter.com/search?q=%23w1602) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Austria
 | 16 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
 | 17 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
 | 18 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 19 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 20 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 21 | [#teilzeit](http://twitter.com/search?q=%23teilzeit) | N/A |
-| 22 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 23 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 24 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 25 | [diplomaten](http://twitter.com/search?q=diplomaten) | N/A |
-| 26 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 19 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 20 | [#teilzeit](http://twitter.com/search?q=%23teilzeit) | N/A |
+| 21 | [mitglieder](http://twitter.com/search?q=mitglieder) | N/A |
+| 22 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 23 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 24 | [diplomaten](http://twitter.com/search?q=diplomaten) | N/A |
+| 25 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 26 | [sozialleistungen](http://twitter.com/search?q=sozialleistungen) | N/A |
 | 27 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 28 | [versicherung](http://twitter.com/search?q=versicherung) | N/A |
-| 29 | [friede in europa](http://twitter.com/search?q=friede+in+europa) | N/A |
-| 30 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 31 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
-| 32 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 33 | [wunden](http://twitter.com/search?q=wunden) | N/A |
-| 34 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
-| 35 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 37 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 38 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 39 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
-| 40 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 41 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 42 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
-| 43 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
-| 44 | [kommission](http://twitter.com/search?q=kommission) | N/A |
-| 45 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 46 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 47 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 48 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 49 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
-| 50 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 28 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 29 | [Versicherung](http://twitter.com/search?q=Versicherung) | N/A |
+| 30 | [Friede in Europa](http://twitter.com/search?q=Friede+in+Europa) | N/A |
+| 31 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 32 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
+| 33 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 34 | [wunden](http://twitter.com/search?q=wunden) | N/A |
+| 35 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
+| 36 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 37 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 38 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 39 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 40 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 41 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 42 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 43 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
+| 44 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
+| 45 | [kommission](http://twitter.com/search?q=kommission) | N/A |
+| 46 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 47 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 48 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 49 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 50 | [Team Jorge](http://twitter.com/search?q=Team+Jorge) | N/A |
 
 
 

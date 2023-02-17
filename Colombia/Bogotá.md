@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-17 03:21:56 UTC`
+📆 Last Updated: `2023-02-17 04:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,39 +20,40 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [Tomás Ángel](http://twitter.com/search?q=Tom%c3%a1s+%c3%81ngel) | N/A |
 | 4 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
 | 5 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 6 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 7 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 8 | [Alejandro Restrepo](http://twitter.com/search?q=Alejandro+Restrepo) | N/A |
-| 9 | [#SUPERLIGAxWIN](http://twitter.com/search?q=%23SUPERLIGAxWIN) | N/A |
-| 10 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
-| 11 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
-| 12 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
-| 13 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
-| 14 | [Memin](http://twitter.com/search?q=Memin) | N/A |
-| 15 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
-| 16 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 17 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
-| 18 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 19 | [Yesus Cabrera](http://twitter.com/search?q=Yesus+Cabrera) | N/A |
-| 20 | [Solis](http://twitter.com/search?q=Solis) | N/A |
-| 21 | [Zuluaga](http://twitter.com/search?q=Zuluaga) | N/A |
-| 22 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 23 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 24 | [Goez](http://twitter.com/search?q=Goez) | N/A |
+| 6 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 7 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 8 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 9 | [Alejandro Restrepo](http://twitter.com/search?q=Alejandro+Restrepo) | N/A |
+| 10 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
+| 11 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 12 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
+| 13 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
+| 14 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 15 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
+| 16 | [Memin](http://twitter.com/search?q=Memin) | N/A |
+| 17 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
+| 18 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
+| 19 | [Zuluaga](http://twitter.com/search?q=Zuluaga) | N/A |
+| 20 | [Arley Rodríguez](http://twitter.com/search?q=Arley+Rodr%c3%adguez) | N/A |
+| 21 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 22 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
+| 23 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 24 | [Solis](http://twitter.com/search?q=Solis) | N/A |
 | 25 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 26 | [#VamosNacional](http://twitter.com/search?q=%23VamosNacional) | N/A |
-| 27 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 28 | [Wallens](http://twitter.com/search?q=Wallens) | N/A |
-| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 30 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
-| 31 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 32 | [Universidad Nacional](http://twitter.com/search?q=Universidad+Nacional) | N/A |
-| 33 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 34 | [Nicolás Maduro](http://twitter.com/search?q=Nicol%c3%a1s+Maduro) | N/A |
-| 35 | [Keiko Fujimori](http://twitter.com/search?q=Keiko+Fujimori) | N/A |
-| 36 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
-| 37 | [Che Guevara](http://twitter.com/search?q=Che+Guevara) | N/A |
-| 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [Goez](http://twitter.com/search?q=Goez) | N/A |
+| 27 | [#ESPNF90Colombia](http://twitter.com/search?q=%23ESPNF90Colombia) | N/A |
+| 28 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 29 | [Penal](http://twitter.com/search?q=Penal) | N/A |
+| 30 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 31 | [Verde](http://twitter.com/search?q=Verde) | N/A |
+| 32 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 33 | [Wallens](http://twitter.com/search?q=Wallens) | N/A |
+| 34 | [#VamosNacional](http://twitter.com/search?q=%23VamosNacional) | N/A |
+| 35 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
+| 36 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 37 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 38 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 39 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
 
 
 

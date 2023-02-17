@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-17 03:22:41 UTC`
+📆 Last Updated: `2023-02-17 04:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,7 +40,7 @@ This is top 50 for Norway
 | 23 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
 | 24 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 25 | [zelenskyj](http://twitter.com/search?q=zelenskyj) | N/A |
-| 26 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
+| 26 | [sikkert](http://twitter.com/search?q=sikkert) | N/A |
 | 27 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
 | 28 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 29 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
@@ -56,7 +56,7 @@ This is top 50 for Norway
 | 39 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 | 40 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 41 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 42 | [Mener](http://twitter.com/search?q=Mener) | N/A |
+| 42 | [mener](http://twitter.com/search?q=mener) | N/A |
 | 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 44 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
 | 45 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |

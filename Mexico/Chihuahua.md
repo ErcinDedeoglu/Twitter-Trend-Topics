@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-02-17 03:21:53 UTC`
+📆 Last Updated: `2023-02-17 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,42 +21,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
 | 5 | [#JuevesAllStar](http://twitter.com/search?q=%23JuevesAllStar) | N/A |
 | 6 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 7 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 8 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
-| 9 | [La Feria de la Unidad](http://twitter.com/search?q=La+Feria+de+la+Unidad) | N/A |
-| 10 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 11 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
-| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 17 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
-| 18 | [Comité Técnico de Evaluación](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+Evaluaci%c3%b3n) | N/A |
-| 19 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 20 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
-| 21 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 22 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 23 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 24 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 25 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 26 | [Pueblos](http://twitter.com/search?q=Pueblos) | N/A |
-| 27 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 28 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 29 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 30 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
-| 31 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
-| 32 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
-| 33 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 34 | [#graciasquackity](http://twitter.com/search?q=%23graciasquackity) | N/A |
-| 35 | [#NuevaInglaterra](http://twitter.com/search?q=%23NuevaInglaterra) | N/A |
-| 36 | [#FeriaTecomatlán2023](http://twitter.com/search?q=%23FeriaTecomatl%c3%a1n2023) | N/A |
-| 37 | [#Sincerandome](http://twitter.com/search?q=%23Sincerandome) | N/A |
-| 38 | [#MinistraPlagiaria](http://twitter.com/search?q=%23MinistraPlagiaria) | N/A |
-| 39 | [#ProteoHeroe](http://twitter.com/search?q=%23ProteoHeroe) | N/A |
-| 40 | [#YasminFueraDeLaSCJN](http://twitter.com/search?q=%23YasminFueraDeLaSCJN) | N/A |
-| 41 | [#MORENAEsUnASCO](http://twitter.com/search?q=%23MORENAEsUnASCO) | N/A |
-| 42 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 7 | [JUMPER MEDALIST](http://twitter.com/search?q=JUMPER+MEDALIST) | N/A |
+| 8 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 9 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 10 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 11 | [Paso del Toro](http://twitter.com/search?q=Paso+del+Toro) | N/A |
+| 12 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 17 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 18 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
+| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 20 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
+| 21 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 22 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
+| 23 | [Comité Técnico de Evaluación](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+Evaluaci%c3%b3n) | N/A |
+| 24 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
+| 25 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 26 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 27 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
+| 28 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
+| 29 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 30 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 31 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 32 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 33 | [Pueblos](http://twitter.com/search?q=Pueblos) | N/A |
+| 34 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 35 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
+| 36 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 37 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 38 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
+| 39 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
+| 40 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
+| 41 | [#graciasquackity](http://twitter.com/search?q=%23graciasquackity) | N/A |
+| 42 | [#NuevaInglaterra](http://twitter.com/search?q=%23NuevaInglaterra) | N/A |
+| 43 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
+| 44 | [#FeriaTecomatlán2023](http://twitter.com/search?q=%23FeriaTecomatl%c3%a1n2023) | N/A |
+| 45 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 46 | [#Sincerándome](http://twitter.com/search?q=%23Sincer%c3%a1ndome) | N/A |
+| 47 | [#YasminFueraDeLaSCJN](http://twitter.com/search?q=%23YasminFueraDeLaSCJN) | N/A |
+| 48 | [#MinistraPirata](http://twitter.com/search?q=%23MinistraPirata) | N/A |
+| 49 | [#ProteoHeroe](http://twitter.com/search?q=%23ProteoHeroe) | N/A |
 
 
 

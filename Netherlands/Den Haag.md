@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-17 03:22:05 UTC`
+📆 Last Updated: `2023-02-17 04:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#ajauni](http://twitter.com/search?q=%23ajauni) | N/A |
 | 3 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
 | 4 | [#ajaube](http://twitter.com/search?q=%23ajaube) | N/A |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 5 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 7 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 8 | [Teze](http://twitter.com/search?q=Teze) | N/A |
 | 9 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
@@ -30,10 +30,10 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 14 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
 | 15 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 16 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 17 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 18 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 19 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
+| 16 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
+| 17 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
+| 18 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 19 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
 | 20 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
 | 21 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
 | 22 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
@@ -44,26 +44,26 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 27 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
 | 28 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
 | 29 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 30 | [Roethof](http://twitter.com/search?q=Roethof) | N/A |
-| 31 | [2 van duitsland](http://twitter.com/search?q=2+van+duitsland) | N/A |
-| 32 | [fvd'er](http://twitter.com/search?q=fvd%27er) | N/A |
-| 33 | [Evert](http://twitter.com/search?q=Evert) | N/A |
-| 34 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 35 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 37 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 38 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 39 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 40 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 41 | [old amsterdam](http://twitter.com/search?q=old+amsterdam) | N/A |
-| 42 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 43 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 44 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 45 | [marinus](http://twitter.com/search?q=marinus) | N/A |
-| 46 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 47 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 48 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
-| 49 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 30 | [roethof](http://twitter.com/search?q=roethof) | N/A |
+| 31 | [fvd'er](http://twitter.com/search?q=fvd%27er) | N/A |
+| 32 | [Evert](http://twitter.com/search?q=Evert) | N/A |
+| 33 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 34 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 36 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 38 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 39 | [old amsterdam](http://twitter.com/search?q=old+amsterdam) | N/A |
+| 40 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 41 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 42 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
+| 43 | [marinus](http://twitter.com/search?q=marinus) | N/A |
+| 44 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 45 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 46 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
+| 47 | [2 van Duitsland](http://twitter.com/search?q=2+van+Duitsland) | N/A |
+| 48 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 49 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 
 
 
