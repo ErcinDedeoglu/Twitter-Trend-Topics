@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-17 17:17:20 UTC`
+📆 Last Updated: `2023-02-17 18:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#akamemorialservice](http://twitter.com/search?q=%23akamemorialservice) | N/A |
 | 2 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 3 | [#LongLiveSupaMega](http://twitter.com/search?q=%23LongLiveSupaMega) | N/A |
+| 3 | [#LongLiveSupaMegaLiveLong](http://twitter.com/search?q=%23LongLiveSupaMegaLiveLong) | N/A |
 | 4 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 5 | [Oskido](http://twitter.com/search?q=Oskido) | N/A |
-| 6 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
-| 7 | [Yanga](http://twitter.com/search?q=Yanga) | N/A |
-| 8 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 9 | [#RIPKiernan](http://twitter.com/search?q=%23RIPKiernan) | N/A |
-| 10 | [Joyous Celebration](http://twitter.com/search?q=Joyous+Celebration) | N/A |
-| 11 | [IV League](http://twitter.com/search?q=IV+League) | N/A |
-| 12 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 13 | [#AKAFuneral](http://twitter.com/search?q=%23AKAFuneral) | N/A |
-| 14 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 15 | [Lynn](http://twitter.com/search?q=Lynn) | N/A |
-| 16 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
-| 17 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 18 | [Moozlie](http://twitter.com/search?q=Moozlie) | N/A |
-| 19 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
-| 20 | [Nomuzi](http://twitter.com/search?q=Nomuzi) | N/A |
-| 21 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 22 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
-| 25 | [Langa Mavuso](http://twitter.com/search?q=Langa+Mavuso) | N/A |
-| 26 | [Kabelo](http://twitter.com/search?q=Kabelo) | N/A |
-| 27 | [Glammy](http://twitter.com/search?q=Glammy) | N/A |
-| 28 | [Touch and Go](http://twitter.com/search?q=Touch+and+Go) | N/A |
-| 29 | [SABC](http://twitter.com/search?q=SABC) | N/A |
-| 30 | [Megacy](http://twitter.com/search?q=Megacy) | N/A |
-| 31 | [Supermega](http://twitter.com/search?q=Supermega) | N/A |
-| 32 | [Entity](http://twitter.com/search?q=Entity) | N/A |
-| 33 | [Sandton Convention Centre](http://twitter.com/search?q=Sandton+Convention+Centre) | N/A |
-| 34 | [KHOSI THE GENEROUS LOVER](http://twitter.com/search?q=KHOSI+THE+GENEROUS+LOVER) | N/A |
-| 35 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 36 | [William Nicol](http://twitter.com/search?q=William+Nicol) | N/A |
-| 37 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
-| 38 | [#TotalEnergiesCAFCL](http://twitter.com/search?q=%23TotalEnergiesCAFCL) | N/A |
-| 39 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 40 | [#GirlTaken](http://twitter.com/search?q=%23GirlTaken) | N/A |
-| 41 | [#AneleTembe](http://twitter.com/search?q=%23AneleTembe) | N/A |
-| 42 | [#crimestats](http://twitter.com/search?q=%23crimestats) | N/A |
-| 43 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 5 | [Lynn](http://twitter.com/search?q=Lynn) | N/A |
+| 6 | [Anatii](http://twitter.com/search?q=Anatii) | N/A |
+| 7 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 8 | [Oskido](http://twitter.com/search?q=Oskido) | N/A |
+| 9 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
+| 10 | [#RIPKiernan](http://twitter.com/search?q=%23RIPKiernan) | N/A |
+| 11 | [Yanga](http://twitter.com/search?q=Yanga) | N/A |
+| 12 | [#AKAFuneral](http://twitter.com/search?q=%23AKAFuneral) | N/A |
+| 13 | [Don Design](http://twitter.com/search?q=Don+Design) | N/A |
+| 14 | [Joyous Celebration](http://twitter.com/search?q=Joyous+Celebration) | N/A |
+| 15 | [IV League](http://twitter.com/search?q=IV+League) | N/A |
+| 16 | [Holy Mountain](http://twitter.com/search?q=Holy+Mountain) | N/A |
+| 17 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 18 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 19 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 20 | [Glammy](http://twitter.com/search?q=Glammy) | N/A |
+| 21 | [Moozlie](http://twitter.com/search?q=Moozlie) | N/A |
+| 22 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
+| 23 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
+| 24 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 27 | [Nomuzi](http://twitter.com/search?q=Nomuzi) | N/A |
+| 28 | [Da Les](http://twitter.com/search?q=Da+Les) | N/A |
+| 29 | [Megacy](http://twitter.com/search?q=Megacy) | N/A |
+| 30 | [Langa Mavuso](http://twitter.com/search?q=Langa+Mavuso) | N/A |
+| 31 | [Khuli Chana](http://twitter.com/search?q=Khuli+Chana) | N/A |
+| 32 | [Kabelo Mabalane](http://twitter.com/search?q=Kabelo+Mabalane) | N/A |
+| 33 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
+| 34 | [SA Hip Hop](http://twitter.com/search?q=SA+Hip+Hop) | N/A |
+| 35 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 36 | [Touch and Go](http://twitter.com/search?q=Touch+and+Go) | N/A |
+| 37 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 38 | [Run Jozi](http://twitter.com/search?q=Run+Jozi) | N/A |
+| 39 | [Entity](http://twitter.com/search?q=Entity) | N/A |
+| 40 | [SABC](http://twitter.com/search?q=SABC) | N/A |
+| 41 | [KHOSI THE GENEROUS LOVER](http://twitter.com/search?q=KHOSI+THE+GENEROUS+LOVER) | N/A |
+| 42 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 43 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
+| 44 | [#TotalEnergiesCAFCL](http://twitter.com/search?q=%23TotalEnergiesCAFCL) | N/A |
+| 45 | [#Sundowns](http://twitter.com/search?q=%23Sundowns) | N/A |
+| 46 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 47 | [#TurnItUp](http://twitter.com/search?q=%23TurnItUp) | N/A |
+| 48 | [#AneleTembe](http://twitter.com/search?q=%23AneleTembe) | N/A |
+| 49 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
 
 
 

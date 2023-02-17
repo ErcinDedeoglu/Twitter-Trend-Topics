@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-17 17:17:04 UTC`
+📆 Last Updated: `2023-02-17 18:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 3 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 4 | [#taycquandtudors](http://twitter.com/search?q=%23taycquandtudors) | N/A |
-| 5 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 6 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 7 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 4 | [#VentesFlashXiaomi](http://twitter.com/search?q=%23VentesFlashXiaomi) | N/A |
+| 5 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
+| 6 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 7 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
 | 8 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 9 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
-| 10 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
-| 11 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 12 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 13 | [#Tour0683](http://twitter.com/search?q=%23Tour0683) | N/A |
-| 14 | [Alma Dufour](http://twitter.com/search?q=Alma+Dufour) | N/A |
-| 15 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 16 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 18 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 19 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 20 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 21 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 22 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 23 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 24 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 25 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 26 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 27 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 28 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 29 | [Présidente](http://twitter.com/search?q=Pr%c3%a9sidente) | N/A |
-| 30 | [Rousseau](http://twitter.com/search?q=Rousseau) | N/A |
-| 31 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 32 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 33 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 34 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 35 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 36 | [L'album de Hamza](http://twitter.com/search?q=L%27album+de+Hamza) | N/A |
-| 37 | [La Rochelle](http://twitter.com/search?q=La+Rochelle) | N/A |
-| 38 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
-| 39 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 40 | [#LeadersCup](http://twitter.com/search?q=%23LeadersCup) | N/A |
-| 41 | [#LikeaDragonIshin](http://twitter.com/search?q=%23LikeaDragonIshin) | N/A |
-| 42 | [#VendrediPlaisir](http://twitter.com/search?q=%23VendrediPlaisir) | N/A |
-| 43 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 44 | [#StarAcademy](http://twitter.com/search?q=%23StarAcademy) | N/A |
-| 45 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 46 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 9 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 10 | [#taycquandtudors](http://twitter.com/search?q=%23taycquandtudors) | N/A |
+| 11 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
+| 12 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
+| 13 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 14 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 15 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
+| 16 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
+| 17 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 18 | [Alma Dufour](http://twitter.com/search?q=Alma+Dufour) | N/A |
+| 19 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 20 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 21 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 22 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 23 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 24 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 25 | [Lucifer](http://twitter.com/search?q=Lucifer) | N/A |
+| 26 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 27 | [Présidente](http://twitter.com/search?q=Pr%c3%a9sidente) | N/A |
+| 28 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 29 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 30 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 31 | [Rousseau](http://twitter.com/search?q=Rousseau) | N/A |
+| 32 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 33 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 34 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 35 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 36 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 37 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 38 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 39 | [#VendrediPlaisir](http://twitter.com/search?q=%23VendrediPlaisir) | N/A |
+| 40 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
+| 41 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 42 | [#LeadersCup](http://twitter.com/search?q=%23LeadersCup) | N/A |
+| 43 | [#Tour0683](http://twitter.com/search?q=%23Tour0683) | N/A |
+| 44 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 45 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 46 | [#LikeaDragonIshin](http://twitter.com/search?q=%23LikeaDragonIshin) | N/A |
 | 47 | [#greve7mars](http://twitter.com/search?q=%23greve7mars) | N/A |
-| 48 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
+| 48 | [#StarAcademy](http://twitter.com/search?q=%23StarAcademy) | N/A |
+| 49 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 50 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 
 
 

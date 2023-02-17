@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-17 17:17:02 UTC`
+📆 Last Updated: `2023-02-17 18:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [#FrodoVuelve](http://twitter.com/search?q=%23FrodoVuelve) | N/A |
-| 4 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 5 | [#AgustinVuelve](http://twitter.com/search?q=%23AgustinVuelve) | N/A |
-| 6 | [Lucio Dupuy](http://twitter.com/search?q=Lucio+Dupuy) | N/A |
-| 7 | [#JusticiaPorLucio](http://twitter.com/search?q=%23JusticiaPorLucio) | N/A |
-| 8 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
-| 11 | [Vigliano](http://twitter.com/search?q=Vigliano) | N/A |
-| 12 | [Abigail Páez](http://twitter.com/search?q=Abigail+P%c3%a1ez) | N/A |
-| 13 | [Magdalena Espósito Valenti](http://twitter.com/search?q=Magdalena+Esp%c3%b3sito+Valenti) | N/A |
-| 14 | [Taser](http://twitter.com/search?q=Taser) | N/A |
-| 15 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
+| 1 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 3 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
+| 4 | [#FrodoVuelve](http://twitter.com/search?q=%23FrodoVuelve) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#AgustinVuelve](http://twitter.com/search?q=%23AgustinVuelve) | N/A |
+| 7 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
+| 8 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 9 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 10 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
+| 11 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
+| 12 | [Lucio Dupuy](http://twitter.com/search?q=Lucio+Dupuy) | N/A |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [Vigliano](http://twitter.com/search?q=Vigliano) | N/A |
+| 15 | [Abigail Páez](http://twitter.com/search?q=Abigail+P%c3%a1ez) | N/A |
 | 16 | [Vecchio](http://twitter.com/search?q=Vecchio) | N/A |
-| 17 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
-| 18 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 19 | [ODIO EL FRIO](http://twitter.com/search?q=ODIO+EL+FRIO) | N/A |
-| 20 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 21 | [Perdóname](http://twitter.com/search?q=Perd%c3%b3name) | N/A |
-| 22 | [Team Verano](http://twitter.com/search?q=Team+Verano) | N/A |
-| 23 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 24 | [HERMOSA MAÑANA VERDAD](http://twitter.com/search?q=HERMOSA+MA%c3%91ANA+VERDAD) | N/A |
-| 25 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
-| 26 | [Guiso](http://twitter.com/search?q=Guiso) | N/A |
-| 27 | [Asignaciones Familiares](http://twitter.com/search?q=Asignaciones+Familiares) | N/A |
-| 28 | [HACE FRIO](http://twitter.com/search?q=HACE+FRIO) | N/A |
-| 29 | [Frente de Todos](http://twitter.com/search?q=Frente+de+Todos) | N/A |
-| 30 | [Yatra](http://twitter.com/search?q=Yatra) | N/A |
-| 31 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 32 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
-| 33 | [Gran Primo](http://twitter.com/search?q=Gran+Primo) | N/A |
-| 34 | [Lautaro Martinez](http://twitter.com/search?q=Lautaro+Martinez) | N/A |
-| 35 | [NO TOQUEN NADA](http://twitter.com/search?q=NO+TOQUEN+NADA) | N/A |
-| 36 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 37 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
-| 38 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
-| 39 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 40 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
-| 41 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 42 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 43 | [#TorneoProyección](http://twitter.com/search?q=%23TorneoProyecci%c3%b3n) | N/A |
-| 44 | [#Cristina2023](http://twitter.com/search?q=%23Cristina2023) | N/A |
-| 45 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
+| 17 | [Magdalena Espósito Valenti](http://twitter.com/search?q=Magdalena+Esp%c3%b3sito+Valenti) | N/A |
+| 18 | [Taser](http://twitter.com/search?q=Taser) | N/A |
+| 19 | [Fideo](http://twitter.com/search?q=Fideo) | N/A |
+| 20 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
+| 21 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
+| 22 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 23 | [ODIO EL FRIO](http://twitter.com/search?q=ODIO+EL+FRIO) | N/A |
+| 24 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 25 | [Perdóname](http://twitter.com/search?q=Perd%c3%b3name) | N/A |
+| 26 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
+| 27 | [Team Verano](http://twitter.com/search?q=Team+Verano) | N/A |
+| 28 | [Guiso](http://twitter.com/search?q=Guiso) | N/A |
+| 29 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 30 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 31 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
+| 32 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 33 | [Asignaciones Familiares](http://twitter.com/search?q=Asignaciones+Familiares) | N/A |
+| 34 | [Frente de Todos](http://twitter.com/search?q=Frente+de+Todos) | N/A |
+| 35 | [HERMOSA MAÑANA VERDAD](http://twitter.com/search?q=HERMOSA+MA%c3%91ANA+VERDAD) | N/A |
+| 36 | [Babasónicos](http://twitter.com/search?q=Babas%c3%b3nicos) | N/A |
+| 37 | [HACE FRIO](http://twitter.com/search?q=HACE+FRIO) | N/A |
+| 38 | [Yatra](http://twitter.com/search?q=Yatra) | N/A |
+| 39 | [NO TOQUEN NADA](http://twitter.com/search?q=NO+TOQUEN+NADA) | N/A |
+| 40 | [#JusticiaPorLucio](http://twitter.com/search?q=%23JusticiaPorLucio) | N/A |
+| 41 | [#perpetua](http://twitter.com/search?q=%23perpetua) | N/A |
+| 42 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
+| 43 | [#santilligobernador](http://twitter.com/search?q=%23santilligobernador) | N/A |
+| 44 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 45 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 46 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 47 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 48 | [#GranPrimo](http://twitter.com/search?q=%23GranPrimo) | N/A |
+| 49 | [#TorneoProyección](http://twitter.com/search?q=%23TorneoProyecci%c3%b3n) | N/A |
+| 50 | [#Cristina2023](http://twitter.com/search?q=%23Cristina2023) | N/A |
 
 
 

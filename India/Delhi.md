@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-17 17:17:37 UTC`
+📆 Last Updated: `2023-02-17 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 2 | [#SantRampalJi_36thBodhDiwas](http://twitter.com/search?q=%23SantRampalJi_36thBodhDiwas) | N/A |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 4 | [#TajTrailerLaunch](http://twitter.com/search?q=%23TajTrailerLaunch) | N/A |
+| 1 | [#SantRampalJi_36thBodhDiwas](http://twitter.com/search?q=%23SantRampalJi_36thBodhDiwas) | N/A |
+| 2 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 3 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 5 | [#Karachi](http://twitter.com/search?q=%23Karachi) | N/A |
-| 6 | [#AnilKapoorCoolestGangsterEver](http://twitter.com/search?q=%23AnilKapoorCoolestGangsterEver) | N/A |
-| 7 | [ON ZEE5](http://twitter.com/search?q=ON+ZEE5) | N/A |
-| 8 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 9 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 10 | [Bow and Arrow](http://twitter.com/search?q=Bow+and+Arrow) | N/A |
-| 11 | [शिंदे गुट](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%87+%e0%a4%97%e0%a5%81%e0%a4%9f) | N/A |
-| 12 | [महेश जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%87%e0%a4%b6+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
-| 13 | [HAPPY BIRTHDAY SUNSHINE](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE) | N/A |
+| 6 | [#TajTrailerLaunch](http://twitter.com/search?q=%23TajTrailerLaunch) | N/A |
+| 7 | [#Shivsena](http://twitter.com/search?q=%23Shivsena) | N/A |
+| 8 | [ON ZEE5](http://twitter.com/search?q=ON+ZEE5) | N/A |
+| 9 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 10 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 11 | [Bow and Arrow](http://twitter.com/search?q=Bow+and+Arrow) | N/A |
+| 12 | [एकनाथ शिंदे](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%87) | N/A |
+| 13 | [महेश जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%87%e0%a4%b6+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
 | 14 | [1 YEAR OF ROHIT MIRCHANDANI](http://twitter.com/search?q=1+YEAR+OF+ROHIT+MIRCHANDANI) | N/A |
-| 15 | [Election Commission](http://twitter.com/search?q=Election+Commission) | N/A |
-| 16 | [SSR Contribution InHindiCinema](http://twitter.com/search?q=SSR+Contribution+InHindiCinema) | N/A |
-| 17 | [जॉर्ज सोरोस](http://twitter.com/search?q=%e0%a4%9c%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9c+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%b8) | N/A |
-| 18 | [धनुष बाण](http://twitter.com/search?q=%e0%a4%a7%e0%a4%a8%e0%a5%81%e0%a4%b7+%e0%a4%ac%e0%a4%be%e0%a4%a3) | N/A |
-| 19 | [पुलिस मुख्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 20 | [Sanjay Raut](http://twitter.com/search?q=Sanjay+Raut) | N/A |
-| 21 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 22 | [DEBATTAMA IN SHEHZADA](http://twitter.com/search?q=DEBATTAMA+IN+SHEHZADA) | N/A |
-| 23 | [REMINISCING 1YR OF TERI ADA](http://twitter.com/search?q=REMINISCING+1YR+OF+TERI+ADA) | N/A |
-| 24 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 15 | [HAPPY BIRTHDAY SUNSHINE](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE) | N/A |
+| 16 | [Election Commission](http://twitter.com/search?q=Election+Commission) | N/A |
+| 17 | [SSR Contribution InHindiCinema](http://twitter.com/search?q=SSR+Contribution+InHindiCinema) | N/A |
+| 18 | [पुलिस मुख्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 19 | [धनुष बाण](http://twitter.com/search?q=%e0%a4%a7%e0%a4%a8%e0%a5%81%e0%a4%b7+%e0%a4%ac%e0%a4%be%e0%a4%a3) | N/A |
+| 20 | [जॉर्ज सोरोस](http://twitter.com/search?q=%e0%a4%9c%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9c+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%b8) | N/A |
+| 21 | [साहेब ठाकरे](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 22 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 23 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 24 | [DEBATTAMA IN SHEHZADA](http://twitter.com/search?q=DEBATTAMA+IN+SHEHZADA) | N/A |
 | 25 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
-| 26 | [उद्धव गुट](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%97%e0%a5%81%e0%a4%9f) | N/A |
-| 27 | [संजय राउत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%89%e0%a4%a4) | N/A |
-| 28 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 26 | [REMINISCING 1YR OF TERI ADA](http://twitter.com/search?q=REMINISCING+1YR+OF+TERI+ADA) | N/A |
+| 27 | [उद्धव गुट](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%97%e0%a5%81%e0%a4%9f) | N/A |
+| 28 | [संजय राउत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%89%e0%a4%a4) | N/A |
 | 29 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
-| 30 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 31 | [दिल्ली मेयर चुनाव](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 32 | [#Shivsena](http://twitter.com/search?q=%23Shivsena) | N/A |
+| 30 | [A. 1300](http://twitter.com/search?q=A.+1300) | N/A |
+| 31 | [#fridayswitharmaan](http://twitter.com/search?q=%23fridayswitharmaan) | N/A |
+| 32 | [#AnilKapoorCoolestGangsterEver](http://twitter.com/search?q=%23AnilKapoorCoolestGangsterEver) | N/A |
 | 33 | [#EknathShinde](http://twitter.com/search?q=%23EknathShinde) | N/A |
 | 34 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
-| 35 | [#शिवसेना](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 36 | [#ரவுடி_திமுக](http://twitter.com/search?q=%23%e0%ae%b0%e0%ae%b5%e0%af%81%e0%ae%9f%e0%ae%bf_%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%81%e0%ae%95) | N/A |
+| 35 | [#ரவுடி_திமுக](http://twitter.com/search?q=%23%e0%ae%b0%e0%ae%b5%e0%af%81%e0%ae%9f%e0%ae%bf_%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%81%e0%ae%95) | N/A |
+| 36 | [#शिवसेना](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
 | 37 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 38 | [#CareForNature](http://twitter.com/search?q=%23CareForNature) | N/A |
-| 39 | [#iQOONeo75GonAmazonSpecials](http://twitter.com/search?q=%23iQOONeo75GonAmazonSpecials) | N/A |
-| 40 | [#GeorgeSoros](http://twitter.com/search?q=%23GeorgeSoros) | N/A |
-| 41 | [#SorosRahulKaBoss](http://twitter.com/search?q=%23SorosRahulKaBoss) | N/A |
-| 42 | [#SorosGang](http://twitter.com/search?q=%23SorosGang) | N/A |
-| 43 | [#IPLSchedule](http://twitter.com/search?q=%23IPLSchedule) | N/A |
-| 44 | [#LGSaxenaShouldResign](http://twitter.com/search?q=%23LGSaxenaShouldResign) | N/A |
-| 45 | [#श्याम_मीरा_मीठा_है](http://twitter.com/search?q=%23%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae_%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be_%e0%a4%ae%e0%a5%80%e0%a4%a0%e0%a4%be_%e0%a4%b9%e0%a5%88) | N/A |
-| 46 | [#MaharashtraPolitics](http://twitter.com/search?q=%23MaharashtraPolitics) | N/A |
-| 47 | [#ShehzadaInCinemasNow](http://twitter.com/search?q=%23ShehzadaInCinemasNow) | N/A |
-| 48 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
-| 49 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 50 | [#Justice_For_Junaid_Nasir](http://twitter.com/search?q=%23Justice_For_Junaid_Nasir) | N/A |
+| 38 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 39 | [#GeorgeSoros](http://twitter.com/search?q=%23GeorgeSoros) | N/A |
+| 40 | [#iQOONeo75GonAmazonSpecials](http://twitter.com/search?q=%23iQOONeo75GonAmazonSpecials) | N/A |
+| 41 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 42 | [#CareForNature](http://twitter.com/search?q=%23CareForNature) | N/A |
+| 43 | [#SorosRahulKaBoss](http://twitter.com/search?q=%23SorosRahulKaBoss) | N/A |
+| 44 | [#MaharashtraPolitics](http://twitter.com/search?q=%23MaharashtraPolitics) | N/A |
+| 45 | [#Mahashivratri](http://twitter.com/search?q=%23Mahashivratri) | N/A |
+| 46 | [#Justice_For_Junaid_Nasir](http://twitter.com/search?q=%23Justice_For_Junaid_Nasir) | N/A |
+| 47 | [#SorosGang](http://twitter.com/search?q=%23SorosGang) | N/A |
+| 48 | [#IPLSchedule](http://twitter.com/search?q=%23IPLSchedule) | N/A |
+| 49 | [#श्याम_मीरा_मीठा_है](http://twitter.com/search?q=%23%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae_%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be_%e0%a4%ae%e0%a5%80%e0%a4%a0%e0%a4%be_%e0%a4%b9%e0%a5%88) | N/A |
+| 50 | [#ShehzadaInCinemasNow](http://twitter.com/search?q=%23ShehzadaInCinemasNow) | N/A |
 
 
 

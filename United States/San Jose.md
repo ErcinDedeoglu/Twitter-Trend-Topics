@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-17 17:17:36 UTC`
+📆 Last Updated: `2023-02-17 18:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
-| 2 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 3 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
-| 4 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 5 | [#GU23](http://twitter.com/search?q=%23GU23) | N/A |
-| 6 | [Quantumania](http://twitter.com/search?q=Quantumania) | N/A |
-| 7 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 8 | [#AntMan](http://twitter.com/search?q=%23AntMan) | N/A |
+| 1 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 2 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
+| 3 | [#SuperNintendoWorld](http://twitter.com/search?q=%23SuperNintendoWorld) | N/A |
+| 4 | [#GU23](http://twitter.com/search?q=%23GU23) | N/A |
+| 5 | [#AntMan](http://twitter.com/search?q=%23AntMan) | N/A |
+| 6 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 7 | [Ant-Man and the Wasp](http://twitter.com/search?q=Ant-Man+and+the+Wasp) | N/A |
+| 8 | [Quantumania](http://twitter.com/search?q=Quantumania) | N/A |
 | 9 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 12 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 13 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
-| 14 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 15 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 16 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 17 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 19 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 21 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 22 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 23 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 24 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 25 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 26 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 27 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
-| 28 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 29 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 30 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
-| 31 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 32 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 33 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 34 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 35 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 36 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
-| 37 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
-| 38 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 39 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 40 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
-| 41 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 42 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 43 | [Happy Birthday to the GOAT](http://twitter.com/search?q=Happy+Birthday+to+the+GOAT) | N/A |
+| 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 13 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 14 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 15 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 16 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 17 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 18 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 19 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 20 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
+| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 23 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 24 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 25 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 26 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 27 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 28 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 29 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 30 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 31 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 33 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 34 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
+| 35 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 36 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 37 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 38 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
+| 39 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
+| 40 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 41 | [Truckin](http://twitter.com/search?q=Truckin) | N/A |
+| 42 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 43 | [Uncle Bernie](http://twitter.com/search?q=Uncle+Bernie) | N/A |
 | 44 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 45 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 46 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 47 | [OnStar](http://twitter.com/search?q=OnStar) | N/A |
-| 48 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 49 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
+| 45 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 46 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 47 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 48 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 49 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
 
 
 

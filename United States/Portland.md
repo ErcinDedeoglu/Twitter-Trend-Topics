@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-02-17 17:17:35 UTC`
+📆 Last Updated: `2023-02-17 18:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 5 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 7 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 8 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 2 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 3 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 4 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 6 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 7 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 8 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
 | 9 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 10 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 11 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 12 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 14 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 17 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 18 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 19 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 10 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 11 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 12 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 13 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
+| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 16 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 19 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
 | 20 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 21 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 22 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
-| 23 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 24 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 25 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 26 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
-| 27 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 28 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 29 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 30 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 31 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 32 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
-| 33 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 34 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 35 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 36 | [OnStar](http://twitter.com/search?q=OnStar) | N/A |
-| 37 | [Coulter](http://twitter.com/search?q=Coulter) | N/A |
-| 38 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 39 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
-| 40 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 41 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 42 | [Happy Birthday to the GOAT](http://twitter.com/search?q=Happy+Birthday+to+the+GOAT) | N/A |
-| 43 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
-| 44 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 45 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 46 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 21 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 22 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 23 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 24 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 25 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
+| 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 27 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 28 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 29 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 30 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 31 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
+| 32 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 33 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
+| 34 | [Truckin](http://twitter.com/search?q=Truckin) | N/A |
+| 35 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 36 | [Uncle Bernie](http://twitter.com/search?q=Uncle+Bernie) | N/A |
+| 37 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 38 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 39 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 40 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 41 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 42 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
+| 43 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
+| 44 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 45 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 46 | [Happy Birthday to the GOAT](http://twitter.com/search?q=Happy+Birthday+to+the+GOAT) | N/A |
+| 47 | [No NBA](http://twitter.com/search?q=No+NBA) | N/A |
 
 
 

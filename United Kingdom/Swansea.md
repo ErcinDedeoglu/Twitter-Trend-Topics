@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-17 17:16:55 UTC`
+📆 Last Updated: `2023-02-17 18:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#lovejoybbc](http://twitter.com/search?q=%23lovejoybbc) | N/A |
 | 3 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 4 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
-| 5 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 6 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 8 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 9 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
-| 10 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 11 | [Just Stop Oil](http://twitter.com/search?q=Just+Stop+Oil) | N/A |
-| 12 | [Barry Martin](http://twitter.com/search?q=Barry+Martin) | Barry Martin is a name, and it has no particular meaning in English. |
-| 13 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 14 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 15 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
-| 16 | [David Smith](http://twitter.com/search?q=David+Smith) | N/A |
-| 17 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 18 | [Storm Otto](http://twitter.com/search?q=Storm+Otto) | N/A |
-| 19 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 20 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 21 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 22 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 23 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
-| 24 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 25 | [Vine](http://twitter.com/search?q=Vine) | N/A |
-| 26 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 27 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
-| 28 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 29 | [Window](http://twitter.com/search?q=Window) | N/A |
-| 30 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
-| 31 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 32 | [Tagging](http://twitter.com/search?q=Tagging) | N/A |
-| 33 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 34 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 35 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 36 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 37 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
-| 38 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 39 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 40 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 41 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
-| 42 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 43 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 44 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 45 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 46 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 47 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 48 | [#Racing365](http://twitter.com/search?q=%23Racing365) | N/A |
+| 4 | [#BodyFuelTastesLikeAss](http://twitter.com/search?q=%23BodyFuelTastesLikeAss) | N/A |
+| 5 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 6 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 7 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 8 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
+| 9 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 11 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 12 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 13 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 14 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 15 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 16 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 17 | [Barry Martin](http://twitter.com/search?q=Barry+Martin) | Barry Martin is a name, and it has no particular meaning in English. |
+| 18 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 19 | [Just Stop Oil](http://twitter.com/search?q=Just+Stop+Oil) | N/A |
+| 20 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 21 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 22 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
+| 23 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 24 | [David Smith](http://twitter.com/search?q=David+Smith) | N/A |
+| 25 | [Storm Otto](http://twitter.com/search?q=Storm+Otto) | N/A |
+| 26 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 27 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 28 | [Window](http://twitter.com/search?q=Window) | N/A |
+| 29 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 30 | [Serco](http://twitter.com/search?q=Serco) | N/A |
+| 31 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
+| 32 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 33 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
+| 34 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 36 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 37 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 38 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
+| 39 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 40 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 41 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
+| 42 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 43 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 44 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 45 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
+| 46 | [#Racing365](http://twitter.com/search?q=%23Racing365) | N/A |
+| 47 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 48 | [#akamemorial](http://twitter.com/search?q=%23akamemorial) | N/A |
 
 
 
