@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-17 00:29:20 UTC`
+📆 Last Updated: `2023-02-17 01:46:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 1 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
 | 2 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 3 | [Halls](http://twitter.com/search?q=Halls) | N/A |
-| 4 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 5 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
-| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 7 | [Biscoito](http://twitter.com/search?q=Biscoito) | N/A |
-| 8 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
-| 9 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 10 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 11 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 12 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 13 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 14 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 15 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 16 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 17 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 18 | [UM MES BRULARI](http://twitter.com/search?q=UM+MES+BRULARI) | N/A |
-| 19 | [Adryelson](http://twitter.com/search?q=Adryelson) | N/A |
-| 20 | [Barros](http://twitter.com/search?q=Barros) | N/A |
-| 21 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
-| 22 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
-| 23 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 24 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
-| 25 | [Carli](http://twitter.com/search?q=Carli) | N/A |
-| 26 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | Santo André is a municipality in the state of São Paulo, Brazil. The name Santo André is derived from the Portuguese phrase for Saint Andrew, the patron saint of fishermen. In English, Santo André translates to Saint Andrew. |
-| 27 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
-| 28 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 29 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
-| 30 | [UM MES COM KEY](http://twitter.com/search?q=UM+MES+COM+KEY) | N/A |
-| 31 | [OUÇA EP 2 SEM TE DO](http://twitter.com/search?q=OU%c3%87A+EP+2+SEM+TE+DO) | N/A |
-| 32 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 33 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 34 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
-| 35 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 36 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 37 | [#VASXBOT](http://twitter.com/search?q=%23VASXBOT) | N/A |
-| 38 | [Sandry](http://twitter.com/search?q=Sandry) | N/A |
-| 39 | [#TBJU](http://twitter.com/search?q=%23TBJU) | N/A |
-| 40 | [Debinha](http://twitter.com/search?q=Debinha) | Debinha is a Portuguese nickname meaning “little Deborah”. It is a diminutive form of the name Deborah, which is derived from the Hebrew word for “bee”. |
-| 41 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 42 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 43 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
-| 44 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 45 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
-| 46 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 47 | [Bauermann](http://twitter.com/search?q=Bauermann) | N/A |
-| 48 | [EP ESCOLHAS ZNC](http://twitter.com/search?q=EP+ESCOLHAS+ZNC) | N/A |
-| 49 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 50 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 3 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 4 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 5 | [Com 2](http://twitter.com/search?q=Com+2) | N/A |
+| 6 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 7 | [Pumita](http://twitter.com/search?q=Pumita) | N/A |
+| 8 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
+| 9 | [Daniel Borges](http://twitter.com/search?q=Daniel+Borges) | Daniel Borges is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”, and the surname Borges, which is derived from the Latin word for “fortress”. |
+| 10 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 11 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 12 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 13 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
+| 14 | [#TBJU](http://twitter.com/search?q=%23TBJU) | N/A |
+| 15 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 16 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 17 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 18 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 19 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 20 | [Fogão](http://twitter.com/search?q=Fog%c3%a3o) | N/A |
+| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [Halls](http://twitter.com/search?q=Halls) | N/A |
+| 23 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 24 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 25 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 26 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 29 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 30 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 31 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
+| 32 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 33 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 34 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 35 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 36 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 37 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 38 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 39 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 40 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 41 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 42 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
+| 43 | [#TimaoNaTNTSports](http://twitter.com/search?q=%23TimaoNaTNTSports) | N/A |
+| 44 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 45 | [#VerdaoNaTNTSports](http://twitter.com/search?q=%23VerdaoNaTNTSports) | N/A |
+| 46 | [Eguinaldo](http://twitter.com/search?q=Eguinaldo) | N/A |
+| 47 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
+| 48 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 49 | [Se o Vasco](http://twitter.com/search?q=Se+o+Vasco) | N/A |
+| 50 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
 
 
 

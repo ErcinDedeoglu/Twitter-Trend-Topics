@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-17 00:29:29 UTC`
+📆 Last Updated: `2023-02-17 01:46:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Norway](</Norway>)
 | 11 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | N/A |
 | 12 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 14 | [NATOs](http://twitter.com/search?q=NATOs) | N/A |
+| 14 | [Natos](http://twitter.com/search?q=Natos) | N/A |
 | 15 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 17 | [Frelsesarmeen](http://twitter.com/search?q=Frelsesarmeen) | N/A |
@@ -53,16 +53,16 @@ This is top 50 for [Norway](</Norway>)
 | 36 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 37 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 38 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 39 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 40 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 41 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 42 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 43 | [Mener](http://twitter.com/search?q=Mener) | N/A |
-| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 45 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
-| 46 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 47 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 48 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 39 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 40 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 41 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 42 | [Mener](http://twitter.com/search?q=Mener) | N/A |
+| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 44 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
+| 45 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 46 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 47 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 48 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
 
 
 

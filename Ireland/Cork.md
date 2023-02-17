@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-17 00:29:22 UTC`
+📆 Last Updated: `2023-02-17 01:46:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,35 +15,35 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 3 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 4 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 5 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
-| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 7 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 9 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 10 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
-| 11 | [Tom Parsons](http://twitter.com/search?q=Tom+Parsons) | N/A |
-| 12 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 13 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 16 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 17 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 18 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 19 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 20 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
-| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 24 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 26 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 28 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 29 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 1 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 2 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 3 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 4 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 5 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 6 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 7 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
+| 8 | [#laochragael](http://twitter.com/search?q=%23laochragael) | N/A |
+| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 12 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 13 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 14 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
+| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 17 | [Tom Parsons](http://twitter.com/search?q=Tom+Parsons) | N/A |
+| 18 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 21 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 22 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 25 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 26 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 27 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 29 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 30 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 31 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 32 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
@@ -51,20 +51,20 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 36 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 37 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 38 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 39 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 40 | [Sigerson Cup](http://twitter.com/search?q=Sigerson+Cup) | N/A |
-| 41 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 42 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 43 | [Emer Cooke](http://twitter.com/search?q=Emer+Cooke) | N/A |
-| 44 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
-| 45 | [Fitzgibbon Cup](http://twitter.com/search?q=Fitzgibbon+Cup) | N/A |
-| 46 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 48 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 49 | [Christy Moore](http://twitter.com/search?q=Christy+Moore) | N/A |
-| 50 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 37 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 38 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 39 | [sigerson cup](http://twitter.com/search?q=sigerson+cup) | N/A |
+| 40 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 41 | [Emer Cooke](http://twitter.com/search?q=Emer+Cooke) | N/A |
+| 42 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 43 | [Fitzgibbon Cup](http://twitter.com/search?q=Fitzgibbon+Cup) | N/A |
+| 44 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 45 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 46 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 47 | [Christy Moore](http://twitter.com/search?q=Christy+Moore) | N/A |
+| 48 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 49 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 50 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-17 00:29:09 UTC`
+📆 Last Updated: `2023-02-17 01:45:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 3 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 5 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
-| 6 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 7 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 8 | [赤楚くん](http://twitter.com/search?q=%e8%b5%a4%e6%a5%9a%e3%81%8f%e3%82%93) | 赤楚くん is a nickname given to the Japanese actor and singer, Kento Nakajima. It is derived from the phrase "赤い楚々", which means "bold and brave". In English, it can be translated to mean "Red-Bold Nakajima". |
-| 9 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 10 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 11 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 12 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 13 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 14 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 15 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 16 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
-| 17 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 18 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 19 | [小田急線](http://twitter.com/search?q=%e5%b0%8f%e7%94%b0%e6%80%a5%e7%b7%9a) | 小田急線 is a railway line operated by Odakyu Electric Railway in Japan. It runs between Tokyo and Odawara, with many stops along the way. In English, it is known as the Odakyu Line. |
-| 20 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [UNA NOCHE CON YATRA](http://twitter.com/search?q=UNA+NOCHE+CON+YATRA) | N/A |
-| 23 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 24 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 25 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 26 | [柏木公園](http://twitter.com/search?q=%e6%9f%8f%e6%9c%a8%e5%85%ac%e5%9c%92) | N/A |
-| 27 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 28 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 29 | [UM MES BRULARI](http://twitter.com/search?q=UM+MES+BRULARI) | N/A |
-| 30 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 31 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 32 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 33 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 34 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
-| 35 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 36 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 37 | [貴司くん](http://twitter.com/search?q=%e8%b2%b4%e5%8f%b8%e3%81%8f%e3%82%93) | 貴司くん is a Japanese term of endearment used to refer to someone who is respected or admired. It can be translated to English as "dear sir" or "esteemed sir". |
-| 38 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 39 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
-| 40 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 41 | [Adryelson](http://twitter.com/search?q=Adryelson) | N/A |
-| 42 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 43 | [Barros](http://twitter.com/search?q=Barros) | N/A |
-| 44 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
-| 45 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 46 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 47 | [チェリまほ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%aa%e3%81%be%e3%81%bb) | N/A |
-| 48 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 49 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
-| 50 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 2 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 3 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 4 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
+| 5 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 6 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 7 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 8 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 9 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 10 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 11 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 12 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 13 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 14 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 15 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 16 | [赤楚くん](http://twitter.com/search?q=%e8%b5%a4%e6%a5%9a%e3%81%8f%e3%82%93) | 赤楚くん is a nickname given to the Japanese actor and singer, Kento Nakajima. It is derived from the phrase "赤い楚々", which means "bold and brave". In English, it can be translated to mean "Red-Bold Nakajima". |
+| 17 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 18 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 19 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 20 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 21 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 22 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 23 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 24 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 25 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
+| 26 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 27 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
+| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 29 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 30 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
+| 31 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 32 | [だいち3号](http://twitter.com/search?q=%e3%81%a0%e3%81%84%e3%81%a13%e5%8f%b7) | N/A |
+| 33 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 34 | [先進光学衛星](http://twitter.com/search?q=%e5%85%88%e9%80%b2%e5%85%89%e5%ad%a6%e8%a1%9b%e6%98%9f) | N/A |
+| 35 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 36 | [Adryelson](http://twitter.com/search?q=Adryelson) | N/A |
+| 37 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 38 | [Se o Vasco](http://twitter.com/search?q=Se+o+Vasco) | N/A |
+| 39 | [Eguinaldo](http://twitter.com/search?q=Eguinaldo) | N/A |
+| 40 | [小田急線](http://twitter.com/search?q=%e5%b0%8f%e7%94%b0%e6%80%a5%e7%b7%9a) | 小田急線 is a railway line operated by Odakyu Electric Railway in Japan. It runs between Tokyo and Odawara, with many stops along the way. In English, it is known as the Odakyu Line. |
+| 41 | [ALOS-3](http://twitter.com/search?q=ALOS-3) | N/A |
+| 42 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 43 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 44 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 45 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
+| 46 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
+| 47 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
+| 48 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 49 | [ライブ中継](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%96%e4%b8%ad%e7%b6%99) | N/A |
+| 50 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
 
 
 

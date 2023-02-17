@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-17 00:29:29 UTC`
+📆 Last Updated: `2023-02-17 01:46:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 10 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 11 | [Diez](http://twitter.com/search?q=Diez) | N/A |
 | 12 | [#riga](http://twitter.com/search?q=%23riga) | N/A |
-| 13 | [Problēma](http://twitter.com/search?q=Probl%c4%93ma) | N/A |
+| 13 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
 | 14 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 15 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 16 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Latvia](</Latvia>)
 | 28 | [ministru](http://twitter.com/search?q=ministru) | N/A |
 | 29 | [#krievija](http://twitter.com/search?q=%23krievija) | N/A |
 | 30 | [tallinas](http://twitter.com/search?q=tallinas) | N/A |
-| 31 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 31 | [valsts](http://twitter.com/search?q=valsts) | N/A |
 | 32 | [bauskā](http://twitter.com/search?q=bausk%c4%81) | N/A |
 | 33 | [valentīndienas](http://twitter.com/search?q=valent%c4%abndienas) | N/A |
 | 34 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
 | 35 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
 | 36 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
 | 37 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 38 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
-| 39 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 40 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 41 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 42 | [atkal](http://twitter.com/search?q=atkal) | N/A |
-| 43 | [atkarīgs](http://twitter.com/search?q=atkar%c4%abgs) | N/A |
-| 44 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
-| 45 | [tavs](http://twitter.com/search?q=tavs) | N/A |
-| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 47 | [Labi](http://twitter.com/search?q=Labi) | N/A |
-| 48 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 49 | [putinu](http://twitter.com/search?q=putinu) | N/A |
-| 50 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
+| 38 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 39 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 40 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 41 | [atkal](http://twitter.com/search?q=atkal) | N/A |
+| 42 | [atkarīgs](http://twitter.com/search?q=atkar%c4%abgs) | N/A |
+| 43 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 44 | [tavs](http://twitter.com/search?q=tavs) | N/A |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [Labi](http://twitter.com/search?q=Labi) | N/A |
+| 47 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 48 | [putinu](http://twitter.com/search?q=putinu) | N/A |
+| 49 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
+| 50 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 
 
 

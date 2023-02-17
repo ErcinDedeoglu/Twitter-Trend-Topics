@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-17 00:29:59 UTC`
+📆 Last Updated: `2023-02-17 01:46:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,19 +17,19 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
 | 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 3 | [Tarek Leitner](http://twitter.com/search?q=Tarek+Leitner) | N/A |
-| 4 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 5 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
-| 6 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 3 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 4 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 5 | [Tarek Leitner](http://twitter.com/search?q=Tarek+Leitner) | N/A |
+| 6 | [Loge](http://twitter.com/search?q=Loge) | N/A |
 | 7 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 8 | [Loge](http://twitter.com/search?q=Loge) | N/A |
-| 9 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 10 | [Alfons Haider](http://twitter.com/search?q=Alfons+Haider) | N/A |
-| 11 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
-| 12 | [#SALROM](http://twitter.com/search?q=%23SALROM) | N/A |
-| 13 | [#w1602](http://twitter.com/search?q=%23w1602) | N/A |
+| 8 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 9 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
+| 10 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
+| 11 | [#SALROM](http://twitter.com/search?q=%23SALROM) | N/A |
+| 12 | [#w1602](http://twitter.com/search?q=%23w1602) | N/A |
+| 13 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
 | 14 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 15 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 15 | [Alfons Haider](http://twitter.com/search?q=Alfons+Haider) | N/A |
 | 16 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
 | 17 | [Traumata](http://twitter.com/search?q=Traumata) | N/A |
 | 18 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
@@ -37,8 +37,8 @@ This is top 50 for Austria
 | 20 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 21 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
 | 22 | [#teilzeit](http://twitter.com/search?q=%23teilzeit) | N/A |
-| 23 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 24 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 23 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 24 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
 | 25 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
 | 26 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
 | 27 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
@@ -53,17 +53,17 @@ This is top 50 for Austria
 | 36 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 37 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
 | 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 39 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 40 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 41 | [Outfit](http://twitter.com/search?q=Outfit) | N/A |
-| 42 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 43 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 44 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
-| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 46 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
-| 47 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
-| 48 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
-| 49 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 40 | [lockdown für ungeimpfte](http://twitter.com/search?q=lockdown+f%c3%bcr+ungeimpfte) | N/A |
+| 41 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 42 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 43 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 44 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 45 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
+| 46 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
+| 47 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
+| 48 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 49 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 50 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 
 

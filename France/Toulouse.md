@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-17 00:29:24 UTC`
+📆 Last Updated: `2023-02-17 01:46:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 3 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 4 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 5 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 6 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 7 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 8 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 9 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 10 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
-| 11 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 2 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 3 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 4 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 5 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 6 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 7 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 8 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 9 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 10 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 11 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 12 | [I Love U](http://twitter.com/search?q=I+Love+U) | N/A |
-| 13 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 14 | [Ckay](http://twitter.com/search?q=Ckay) | N/A |
-| 15 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 16 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 17 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 18 | [Cocoro](http://twitter.com/search?q=Cocoro) | N/A |
-| 19 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 20 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 21 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 22 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 23 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
-| 24 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
-| 25 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 26 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 27 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 28 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 29 | [404billy](http://twitter.com/search?q=404billy) | N/A |
-| 30 | [Centonze](http://twitter.com/search?q=Centonze) | N/A |
+| 13 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
+| 14 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 15 | [Cocoro](http://twitter.com/search?q=Cocoro) | N/A |
+| 16 | [Ckay](http://twitter.com/search?q=Ckay) | N/A |
+| 17 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 18 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 19 | [404billy](http://twitter.com/search?q=404billy) | N/A |
+| 20 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
+| 21 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
+| 22 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 23 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 24 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 25 | [Sincèrement](http://twitter.com/search?q=Sinc%c3%a8rement) | N/A |
+| 26 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 27 | [2zer](http://twitter.com/search?q=2zer) | N/A |
+| 28 | [8ruki](http://twitter.com/search?q=8ruki) | N/A |
+| 29 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 30 | [NASA](http://twitter.com/search?q=NASA) | N/A |
 | 31 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
 | 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 33 | [2zer](http://twitter.com/search?q=2zer) | N/A |
-| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 35 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
-| 36 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 37 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 38 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 39 | [Maripan](http://twitter.com/search?q=Maripan) | N/A |
-| 40 | [8ruki](http://twitter.com/search?q=8ruki) | N/A |
+| 33 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 34 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
+| 35 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
+| 36 | [Centonze](http://twitter.com/search?q=Centonze) | N/A |
+| 37 | [Maripan](http://twitter.com/search?q=Maripan) | N/A |
+| 38 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 39 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 40 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
 | 41 | [Turin](http://twitter.com/search?q=Turin) | N/A |
-| 42 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 43 | [Sissoko](http://twitter.com/search?q=Sissoko) | N/A |
-| 44 | [Minamino](http://twitter.com/search?q=Minamino) | N/A |
-| 45 | [Brigade Loire](http://twitter.com/search?q=Brigade+Loire) | N/A |
+| 42 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 43 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 44 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 
 
 

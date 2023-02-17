@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-17 00:29:22 UTC`
+📆 Last Updated: `2023-02-17 01:46:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,33 +37,33 @@ This is top 50 for [Poland](</Poland>)
 | 20 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 21 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
 | 22 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 23 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
-| 24 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 25 | [Gessler](http://twitter.com/search?q=Gessler) | N/A |
-| 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 27 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 28 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 31 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 32 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 33 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 34 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 35 | [Bułgarskiej](http://twitter.com/search?q=Bu%c5%82garskiej) | N/A |
-| 36 | [Wcisło](http://twitter.com/search?q=Wcis%c5%82o) | N/A |
-| 37 | [Schetyna](http://twitter.com/search?q=Schetyna) | N/A |
-| 38 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 39 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 40 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 41 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 42 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 43 | [Paczków](http://twitter.com/search?q=Paczk%c3%b3w) | N/A |
-| 44 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 45 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 46 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 47 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 48 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
-| 49 | [Airly](http://twitter.com/search?q=Airly) | N/A |
+| 23 | [faworki](http://twitter.com/search?q=faworki) | N/A |
+| 24 | [Gessler](http://twitter.com/search?q=Gessler) | N/A |
+| 25 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 28 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 29 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 30 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 31 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 32 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 33 | [Bułgarskiej](http://twitter.com/search?q=Bu%c5%82garskiej) | N/A |
+| 34 | [Wcisło](http://twitter.com/search?q=Wcis%c5%82o) | N/A |
+| 35 | [schetyna](http://twitter.com/search?q=schetyna) | N/A |
+| 36 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 38 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 39 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 40 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 41 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 42 | [Paczków](http://twitter.com/search?q=Paczk%c3%b3w) | N/A |
+| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 44 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 45 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 47 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 48 | [Airly](http://twitter.com/search?q=Airly) | N/A |
+| 49 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
 
 
 

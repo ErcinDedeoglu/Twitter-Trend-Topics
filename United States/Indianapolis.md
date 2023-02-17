@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-17 00:29:53 UTC`
+📆 Last Updated: `2023-02-17 01:46:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 2 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 3 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 4 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 5 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 6 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 7 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 8 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 9 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
-| 10 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 11 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 12 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
-| 13 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 14 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 15 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 16 | [Depression](http://twitter.com/search?q=Depression) | N/A |
-| 17 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 18 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
-| 19 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 20 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 21 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 22 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 24 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
-| 25 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
-| 26 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 27 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 28 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 29 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 31 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 32 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
-| 33 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 34 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 35 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 36 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 37 | [Klint Kubiak](http://twitter.com/search?q=Klint+Kubiak) | N/A |
-| 38 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
-| 39 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 40 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
-| 41 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 43 | [PINK HEART](http://twitter.com/search?q=PINK+HEART) | N/A |
-| 44 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
-| 45 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 46 | [Daytona](http://twitter.com/search?q=Daytona) | N/A |
-| 47 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 48 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 1 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 2 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 3 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 4 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 5 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 6 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 7 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 8 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 9 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 10 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 11 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 13 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
+| 14 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 15 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 16 | [#ranboowedding](http://twitter.com/search?q=%23ranboowedding) | N/A |
+| 17 | [#Walker](http://twitter.com/search?q=%23Walker) | N/A |
+| 18 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 19 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 20 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 21 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 22 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
+| 23 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 24 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 25 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 26 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 27 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
+| 28 | [Marc Staal](http://twitter.com/search?q=Marc+Staal) | N/A |
+| 29 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 30 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 31 | [Xfinity Center](http://twitter.com/search?q=Xfinity+Center) | N/A |
+| 32 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 33 | [Happy Gilmore](http://twitter.com/search?q=Happy+Gilmore) | N/A |
+| 34 | [Painter](http://twitter.com/search?q=Painter) | N/A |
+| 35 | [Colin White](http://twitter.com/search?q=Colin+White) | N/A |
+| 36 | [Depression](http://twitter.com/search?q=Depression) | N/A |
+| 37 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 38 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 40 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 41 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 42 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 43 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
+| 44 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
+| 45 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 46 | [Gillis](http://twitter.com/search?q=Gillis) | N/A |
+| 47 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
+| 48 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
+| 49 | [PINK HEART](http://twitter.com/search?q=PINK+HEART) | N/A |
+| 50 | [Billy Madison](http://twitter.com/search?q=Billy+Madison) | N/A |
 
 
 

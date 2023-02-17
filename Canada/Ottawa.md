@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-17 00:29:09 UTC`
+📆 Last Updated: `2023-02-17 01:45:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Caribbean](http://twitter.com/search?q=Caribbean) | N/A |
+| 1 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 2 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
 | 3 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 | 4 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 5 | [#CdnAgDay](http://twitter.com/search?q=%23CdnAgDay) | N/A |
 | 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
 | 7 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 10 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 11 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 12 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Lucki](http://twitter.com/search?q=Lucki) | N/A |
-| 15 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 16 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 17 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 18 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 20 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
-| 21 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 22 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 23 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 24 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 26 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 27 | [petr mrazek](http://twitter.com/search?q=petr+mrazek) | N/A |
-| 28 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 29 | [Magna](http://twitter.com/search?q=Magna) | N/A |
-| 30 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 31 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 32 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 33 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 35 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 36 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 37 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
-| 38 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 42 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 43 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 44 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 45 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
-| 46 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 47 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 48 | [Weegar](http://twitter.com/search?q=Weegar) | N/A |
-| 49 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 50 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 8 | [Laine](http://twitter.com/search?q=Laine) | N/A |
+| 9 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 10 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 13 | [Lucki](http://twitter.com/search?q=Lucki) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Michael Pezzetta](http://twitter.com/search?q=Michael+Pezzetta) | N/A |
+| 16 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
+| 17 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 18 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 20 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 21 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 22 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
+| 23 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 24 | [Kotkaniemi](http://twitter.com/search?q=Kotkaniemi) | N/A |
+| 25 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 28 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 29 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 30 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 31 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 32 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 33 | [Petr Mrazek](http://twitter.com/search?q=Petr+Mrazek) | N/A |
+| 34 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 35 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 36 | [Magna](http://twitter.com/search?q=Magna) | N/A |
+| 37 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 38 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 39 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 40 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 42 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
+| 43 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 44 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 45 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 46 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 48 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
+| 49 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
+| 50 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 
 
 

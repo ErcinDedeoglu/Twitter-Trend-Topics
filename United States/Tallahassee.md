@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-17 00:29:57 UTC`
+📆 Last Updated: `2023-02-17 01:46:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 2 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 3 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 4 | [#AllForTheGators](http://twitter.com/search?q=%23AllForTheGators) | N/A |
-| 5 | [#Tandem23](http://twitter.com/search?q=%23Tandem23) | N/A |
-| 6 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 7 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 8 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 9 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 10 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 11 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 12 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 13 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 14 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
-| 15 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 16 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 17 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 18 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 19 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 20 | [Depression](http://twitter.com/search?q=Depression) | N/A |
-| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 22 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
-| 23 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 24 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 25 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 26 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 27 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 28 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
-| 29 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
-| 30 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 31 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 32 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 33 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 34 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 35 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 36 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
-| 37 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 38 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 39 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 40 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 41 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 42 | [Klint Kubiak](http://twitter.com/search?q=Klint+Kubiak) | N/A |
-| 43 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
-| 44 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
-| 45 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [PINK HEART](http://twitter.com/search?q=PINK+HEART) | N/A |
-| 48 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
-| 49 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
+| 1 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 2 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 3 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
+| 4 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 5 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 6 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 7 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 8 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 9 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 10 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 11 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 12 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 13 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 14 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 15 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 16 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 17 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
+| 18 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 19 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 20 | [#ranboowedding](http://twitter.com/search?q=%23ranboowedding) | N/A |
+| 21 | [#Walker](http://twitter.com/search?q=%23Walker) | N/A |
+| 22 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 23 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 24 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 25 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 26 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
+| 27 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 28 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 29 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 30 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 31 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
+| 32 | [Marc Staal](http://twitter.com/search?q=Marc+Staal) | N/A |
+| 33 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 34 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 35 | [Xfinity Center](http://twitter.com/search?q=Xfinity+Center) | N/A |
+| 36 | [Happy Gilmore](http://twitter.com/search?q=Happy+Gilmore) | N/A |
+| 37 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 38 | [Painter](http://twitter.com/search?q=Painter) | N/A |
+| 39 | [Colin White](http://twitter.com/search?q=Colin+White) | N/A |
+| 40 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 41 | [Depression](http://twitter.com/search?q=Depression) | N/A |
+| 42 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 43 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 44 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 45 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 46 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 47 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
+| 48 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
+| 49 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-17 00:29:25 UTC`
+📆 Last Updated: `2023-02-17 01:46:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 8 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
-| 9 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 8 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 9 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
 | 10 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 11 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 12 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 13 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 14 | [Scheune](http://twitter.com/search?q=Scheune) | N/A |
-| 15 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 16 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 17 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 18 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 19 | [RIP Tim](http://twitter.com/search?q=RIP+Tim) | N/A |
-| 20 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 21 | [Dagmar](http://twitter.com/search?q=Dagmar) | N/A |
-| 22 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 23 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 24 | [Tom Gregory](http://twitter.com/search?q=Tom+Gregory) | N/A |
-| 25 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
-| 26 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 27 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
-| 28 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 29 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 30 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 31 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
-| 32 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 33 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 34 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
-| 35 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 36 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 37 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 38 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 39 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 40 | [Promille](http://twitter.com/search?q=Promille) | N/A |
-| 41 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 42 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 43 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 44 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
-| 45 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 46 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
-| 47 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 48 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 49 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 11 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 12 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 13 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 14 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 15 | [Helau](http://twitter.com/search?q=Helau) | N/A |
+| 16 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 17 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 18 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 19 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 21 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 22 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 23 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
+| 24 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 25 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 26 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 27 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 28 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 29 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 30 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 31 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 32 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 33 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 34 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 35 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 36 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 37 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 38 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
+| 39 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 40 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 41 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 42 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 43 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 44 | [Designer](http://twitter.com/search?q=Designer) | N/A |
+| 45 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
+| 46 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 47 | [efuels](http://twitter.com/search?q=efuels) | N/A |
+| 48 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 49 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
 
 
 
