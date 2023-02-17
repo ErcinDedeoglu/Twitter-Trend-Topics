@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-17 08:17:20 UTC`
+📆 Last Updated: `2023-02-17 09:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 2 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 3 | [Thor](http://twitter.com/search?q=Thor) | N/A |
 | 4 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 5 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 6 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 7 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 8 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 9 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 10 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
-| 11 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 12 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 13 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 14 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 15 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 16 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 17 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 5 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 6 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 7 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 8 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 9 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 10 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 11 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 12 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 13 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 15 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
 | 18 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 19 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 20 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 21 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 22 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 23 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 24 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 25 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 30 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 31 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 32 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 33 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
-| 34 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 35 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
-| 36 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 37 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 38 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 39 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 19 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 20 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 21 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 22 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 23 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 25 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 26 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 27 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 28 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 29 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
+| 30 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 31 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 32 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 33 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 34 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 35 | [Band Geeks](http://twitter.com/search?q=Band+Geeks) | N/A |
+| 36 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 37 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 38 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 39 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
 | 40 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 41 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 42 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 43 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 44 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 45 | [D Savage](http://twitter.com/search?q=D+Savage) | N/A |
-| 46 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 47 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 48 | [Band Geeks](http://twitter.com/search?q=Band+Geeks) | N/A |
-| 49 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 41 | [D Savage](http://twitter.com/search?q=D+Savage) | N/A |
+| 42 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 43 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 44 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 45 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
+| 46 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 47 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 48 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 49 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
 
 
 

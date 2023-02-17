@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-17 08:16:40 UTC`
+📆 Last Updated: `2023-02-17 09:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,15 +21,15 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 4 | [Azua](http://twitter.com/search?q=Azua) | N/A |
 | 5 | [Jorge Pineda](http://twitter.com/search?q=Jorge+Pineda) | N/A |
 | 6 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 7 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
+| 7 | [higüey](http://twitter.com/search?q=hig%c3%bcey) | N/A |
 | 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 9 | [euric](http://twitter.com/search?q=euric) | N/A |
 | 10 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 11 | [francisco alberto caamaño deñó](http://twitter.com/search?q=francisco+alberto+caama%c3%b1o+de%c3%b1%c3%b3) | N/A |
-| 12 | [#SoyRebeldeRD](http://twitter.com/search?q=%23SoyRebeldeRD) | N/A |
-| 13 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
+| 12 | [#soyrebelderd](http://twitter.com/search?q=%23soyrebelderd) | N/A |
+| 13 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
 | 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 15 | [#RBDENRD](http://twitter.com/search?q=%23RBDENRD) | N/A |
+| 15 | [#rbdenrd](http://twitter.com/search?q=%23rbdenrd) | N/A |
 | 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 17 | [vinicito](http://twitter.com/search?q=vinicito) | N/A |
 | 18 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 25 | [Raquiña](http://twitter.com/search?q=Raqui%c3%b1a) | N/A |
 | 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 27 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 28 | [cáncer infantil](http://twitter.com/search?q=c%c3%a1ncer+infantil) | N/A |
+| 28 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
 | 29 | [#premiosjuvenilessdn2022](http://twitter.com/search?q=%23premiosjuvenilessdn2022) | N/A |
 | 30 | [samaná](http://twitter.com/search?q=saman%c3%a1) | N/A |
 | 31 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 45 | [Jersey](http://twitter.com/search?q=Jersey) | N/A |
 | 46 | [Igualito](http://twitter.com/search?q=Igualito) | N/A |
 | 47 | [Noelia](http://twitter.com/search?q=Noelia) | N/A |
-| 48 | [Abusador](http://twitter.com/search?q=Abusador) | N/A |
+| 48 | [abusador](http://twitter.com/search?q=abusador) | N/A |
 | 49 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
 | 50 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
 

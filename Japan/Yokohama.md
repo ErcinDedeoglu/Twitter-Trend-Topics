@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-02-17 08:17:01 UTC`
+📆 Last Updated: `2023-02-17 09:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [招待コード](http://twitter.com/search?q=%e6%8b%9b%e5%be%85%e3%82%b3%e3%83%bc%e3%83%89) | N/A |
-| 2 | [赤楚くん](http://twitter.com/search?q=%e8%b5%a4%e6%a5%9a%e3%81%8f%e3%82%93) | 赤楚くん is a nickname given to the Japanese actor and singer, Kento Nakajima. It is derived from the phrase "赤い楚々", which means "bold and brave". In English, it can be translated to mean "Red-Bold Nakajima". |
-| 3 | [浜ちゃん](http://twitter.com/search?q=%e6%b5%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 4 | [#藤井風](http://twitter.com/search?q=%23%e8%97%a4%e4%ba%95%e9%a2%a8) | N/A |
-| 5 | [#あなたの性格を色で表すと](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%80%a7%e6%a0%bc%e3%82%92%e8%89%b2%e3%81%a7%e8%a1%a8%e3%81%99%e3%81%a8) | N/A |
-| 6 | [AIコスプレイヤー](http://twitter.com/search?q=AI%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc) | N/A |
-| 7 | [ゆういちろう](http://twitter.com/search?q=%e3%82%86%e3%81%86%e3%81%84%e3%81%a1%e3%82%8d%e3%81%86) | ゆういちろう is a Japanese name, and it can be written in English as Yuichiro. It is a combination of two kanji characters: "yu" (勇) meaning brave or courageous, and "ichiro" (一郎) meaning first son. |
-| 8 | [WEST](http://twitter.com/search?q=WEST) | N/A |
-| 9 | [#スカネク](http://twitter.com/search?q=%23%e3%82%b9%e3%82%ab%e3%83%8d%e3%82%af) | N/A |
-| 10 | [カルソニック](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 11 | [南武支線](http://twitter.com/search?q=%e5%8d%97%e6%ad%a6%e6%94%af%e7%b7%9a) | N/A |
-| 12 | [#ザレイズ](http://twitter.com/search?q=%23%e3%82%b6%e3%83%ac%e3%82%a4%e3%82%ba) | N/A |
-| 13 | [コラボ開催中](http://twitter.com/search?q=%e3%82%b3%e3%83%a9%e3%83%9c%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
-| 14 | [アントマン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
-| 15 | [梨子の謎解き成功](http://twitter.com/search?q=%e6%a2%a8%e5%ad%90%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 16 | [私人逮捕](http://twitter.com/search?q=%e7%a7%81%e4%ba%ba%e9%80%ae%e6%8d%95) | N/A |
-| 17 | [制作開放](http://twitter.com/search?q=%e5%88%b6%e4%bd%9c%e9%96%8b%e6%94%be) | 制作開放 (zhi zuo kai fang) is a Chinese phrase that translates to "open production" in English. It refers to the practice of allowing people to freely create and share their own content, such as videos, music, or artwork. This concept is often associated with the open source movement, which encourages collaboration and sharing of resources. |
-| 18 | [課金代行](http://twitter.com/search?q=%e8%aa%b2%e9%87%91%e4%bb%a3%e8%a1%8c) | N/A |
-| 19 | [ゲーチス](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%81%e3%82%b9) | N/A |
-| 20 | [ラーメン店主](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e5%ba%97%e4%b8%bb) | N/A |
-| 21 | [カバー上場](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e4%b8%8a%e5%a0%b4) | N/A |
-| 22 | [E127系](http://twitter.com/search?q=E127%e7%b3%bb) | N/A |
-| 23 | [U-NEXT](http://twitter.com/search?q=U-NEXT) | N/A |
-| 24 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
-| 25 | [酒鬼薔薇](http://twitter.com/search?q=%e9%85%92%e9%ac%bc%e8%96%94%e8%96%87) | N/A |
-| 26 | [自名義全滅](http://twitter.com/search?q=%e8%87%aa%e5%90%8d%e7%be%a9%e5%85%a8%e6%bb%85) | N/A |
-| 27 | [平均264万円](http://twitter.com/search?q=%e5%b9%b3%e5%9d%87264%e4%b8%87%e5%86%86) | N/A |
-| 28 | [あおぎり高校](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%8e%e3%82%8a%e9%ab%98%e6%a0%a1) | N/A |
-| 29 | [飼い猫の一生](http://twitter.com/search?q=%e9%a3%bc%e3%81%84%e7%8c%ab%e3%81%ae%e4%b8%80%e7%94%9f) | N/A |
-| 30 | [#POWER交換](http://twitter.com/search?q=%23POWER%e4%ba%a4%e6%8f%9b) | N/A |
-| 31 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 32 | [JAXA](http://twitter.com/search?q=JAXA) | N/A |
-| 33 | [あおぎり炎上](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%8e%e3%82%8a%e7%82%8e%e4%b8%8a) | N/A |
-| 34 | [津久井さん](http://twitter.com/search?q=%e6%b4%a5%e4%b9%85%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 35 | [レジェンドアンソロジー](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89%e3%82%a2%e3%83%b3%e3%82%bd%e3%83%ad%e3%82%b8%e3%83%bc) | N/A |
-| 36 | [ピクシーナイト](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%82%b7%e3%83%bc%e3%83%8a%e3%82%a4%e3%83%88) | ピクシーナイト (Pikushii Naito) is a Japanese light novel series written by Tomohiro Matsu and illustrated by Kantoku. It follows the story of a group of high school students who are transported to a mysterious world where they must fight monsters in order to survive. The English translation of the title is "Fairy Night". |
-| 37 | [クアントマニア](http://twitter.com/search?q=%e3%82%af%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%8b%e3%82%a2) | N/A |
-| 38 | [デデンネex](http://twitter.com/search?q=%e3%83%87%e3%83%87%e3%83%b3%e3%83%8dex) | N/A |
-| 39 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 40 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 41 | [フラッグシップ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%83%e3%82%b0%e3%82%b7%e3%83%83%e3%83%97) | N/A |
-| 42 | [LGBT関連団体](http://twitter.com/search?q=LGBT%e9%96%a2%e9%80%a3%e5%9b%a3%e4%bd%93) | N/A |
-| 43 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
-| 44 | [ワイルドハーツ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89%e3%83%8f%e3%83%bc%e3%83%84) | N/A |
-| 45 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 46 | [ヴェラアズール](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%a9%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | ヴェラアズール is a Japanese fashion brand founded in 2001. The name is derived from the Latin phrase "vera aeternitas" which translates to "true eternity". The brand specializes in creating modern, stylish clothing for women. |
-| 47 | [有料動画配信の国内勢](http://twitter.com/search?q=%e6%9c%89%e6%96%99%e5%8b%95%e7%94%bb%e9%85%8d%e4%bf%a1%e3%81%ae%e5%9b%bd%e5%86%85%e5%8b%a2) | N/A |
-| 48 | [xxxHOLiC](http://twitter.com/search?q=xxxHOLiC) | xxxHOLiC is a Japanese manga series written and illustrated by the manga artist group Clamp. The title is derived from the phrase "holic", which means "addicted to something". The story follows the adventures of a high school student, Watanuki Kimihiro, who has the ability to see spirits and other supernatural phenomena. He meets a mysterious witch named Yuuko, who grants him wishes in exchange for strange tasks. The series explores themes of fate, destiny, and self-fulfillment. |
-| 49 | [呪いの28歳](http://twitter.com/search?q=%e5%91%aa%e3%81%84%e3%81%ae28%e6%ad%b3) | N/A |
+| 2 | [打ち上げ](http://twitter.com/search?q=%e6%89%93%e3%81%a1%e4%b8%8a%e3%81%92) | N/A |
+| 3 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 4 | [浜ちゃん](http://twitter.com/search?q=%e6%b5%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 5 | [デコイチラシ](http://twitter.com/search?q=%e3%83%87%e3%82%b3%e3%82%a4%e3%83%81%e3%83%a9%e3%82%b7) | N/A |
+| 6 | [#あなたの性格を色で表すと](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%80%a7%e6%a0%bc%e3%82%92%e8%89%b2%e3%81%a7%e8%a1%a8%e3%81%99%e3%81%a8) | N/A |
+| 7 | [#少プレ](http://twitter.com/search?q=%23%e5%b0%91%e3%83%97%e3%83%ac) | #少プレ is a hashtag used on Twitter in Japan. It stands for "Shōpure," which is short for "Shōgakusei Purezento," meaning "Elementary School Student Present." It is used to refer to gifts given to elementary school students, such as school supplies, snacks, and other items. |
+| 8 | [AIコスプレイヤー](http://twitter.com/search?q=AI%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc) | N/A |
+| 9 | [ゆういちろう](http://twitter.com/search?q=%e3%82%86%e3%81%86%e3%81%84%e3%81%a1%e3%82%8d%e3%81%86) | ゆういちろう is a Japanese name, and it can be written in English as Yuichiro. It is a combination of two kanji characters: "yu" (勇) meaning brave or courageous, and "ichiro" (一郎) meaning first son. |
+| 10 | [手書きの履歴書](http://twitter.com/search?q=%e6%89%8b%e6%9b%b8%e3%81%8d%e3%81%ae%e5%b1%a5%e6%ad%b4%e6%9b%b8) | N/A |
+| 11 | [私人逮捕](http://twitter.com/search?q=%e7%a7%81%e4%ba%ba%e9%80%ae%e6%8d%95) | N/A |
+| 12 | [WEST](http://twitter.com/search?q=WEST) | N/A |
+| 13 | [アントマン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
+| 14 | [カルソニック](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 15 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
+| 16 | [カバー上場](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e4%b8%8a%e5%a0%b4) | N/A |
+| 17 | [ラーメン店主](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e5%ba%97%e4%b8%bb) | N/A |
+| 18 | [南武支線](http://twitter.com/search?q=%e5%8d%97%e6%ad%a6%e6%94%af%e7%b7%9a) | N/A |
+| 19 | [#スカネク](http://twitter.com/search?q=%23%e3%82%b9%e3%82%ab%e3%83%8d%e3%82%af) | N/A |
+| 20 | [#ザレイズ](http://twitter.com/search?q=%23%e3%82%b6%e3%83%ac%e3%82%a4%e3%82%ba) | N/A |
+| 21 | [ゲリラインライ](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4) | ゲリラインライ (gerira inrai) is a Japanese phrase that literally translates to "guerrilla warfare". It is used to describe a type of warfare that involves small, independent groups of combatants using unconventional tactics to fight against a larger, more powerful enemy. |
+| 22 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
+| 23 | [梨子の謎解き成功](http://twitter.com/search?q=%e6%a2%a8%e5%ad%90%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 24 | [酒鬼薔薇](http://twitter.com/search?q=%e9%85%92%e9%ac%bc%e8%96%94%e8%96%87) | N/A |
+| 25 | [コラボ開催中](http://twitter.com/search?q=%e3%82%b3%e3%83%a9%e3%83%9c%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
+| 26 | [制作開放](http://twitter.com/search?q=%e5%88%b6%e4%bd%9c%e9%96%8b%e6%94%be) | 制作開放 (zhi zuo kai fang) is a Chinese phrase that translates to "open production" in English. It refers to the practice of allowing people to freely create and share their own content, such as videos, music, or artwork. This concept is often associated with the open source movement, which encourages collaboration and sharing of resources. |
+| 27 | [LGBT関連団体](http://twitter.com/search?q=LGBT%e9%96%a2%e9%80%a3%e5%9b%a3%e4%bd%93) | N/A |
+| 28 | [ピクシーナイト](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%82%b7%e3%83%bc%e3%83%8a%e3%82%a4%e3%83%88) | ピクシーナイト (Pikushii Naito) is a Japanese light novel series written by Tomohiro Matsu and illustrated by Kantoku. It follows the story of a group of high school students who are transported to a mysterious world where they must fight monsters in order to survive. The English translation of the title is "Fairy Night". |
+| 29 | [マルミサ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%9f%e3%82%b5) | N/A |
+| 30 | [課金代行](http://twitter.com/search?q=%e8%aa%b2%e9%87%91%e4%bb%a3%e8%a1%8c) | N/A |
+| 31 | [E127系](http://twitter.com/search?q=E127%e7%b3%bb) | N/A |
+| 32 | [Paravi](http://twitter.com/search?q=Paravi) | Paravi is a Japanese word that means “to fly” or “to soar”. It is often used to describe the feeling of freedom and joy that comes from achieving something great. |
+| 33 | [平均264万円](http://twitter.com/search?q=%e5%b9%b3%e5%9d%87264%e4%b8%87%e5%86%86) | N/A |
+| 34 | [フラッグシップ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%83%e3%82%b0%e3%82%b7%e3%83%83%e3%83%97) | N/A |
+| 35 | [飼い猫の一生](http://twitter.com/search?q=%e9%a3%bc%e3%81%84%e7%8c%ab%e3%81%ae%e4%b8%80%e7%94%9f) | N/A |
+| 36 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
+| 37 | [ゲーチス](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%81%e3%82%b9) | N/A |
+| 38 | [レジェンドアンソロジー](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89%e3%82%a2%e3%83%b3%e3%82%bd%e3%83%ad%e3%82%b8%e3%83%bc) | N/A |
+| 39 | [加賀まりこさん](http://twitter.com/search?q=%e5%8a%a0%e8%b3%80%e3%81%be%e3%82%8a%e3%81%93%e3%81%95%e3%82%93) | 加賀まりこさん is the name of a Japanese singer and songwriter. In English, her name translates to Mariko Kaga. |
+| 40 | [自名義全滅](http://twitter.com/search?q=%e8%87%aa%e5%90%8d%e7%be%a9%e5%85%a8%e6%bb%85) | N/A |
+| 41 | [イカセーラー](http://twitter.com/search?q=%e3%82%a4%e3%82%ab%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 42 | [捨て台詞](http://twitter.com/search?q=%e6%8d%a8%e3%81%a6%e5%8f%b0%e8%a9%9e) | N/A |
+| 43 | [赤ザップ](http://twitter.com/search?q=%e8%b5%a4%e3%82%b6%e3%83%83%e3%83%97) | N/A |
+| 44 | [あおぎり高校](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%8e%e3%82%8a%e9%ab%98%e6%a0%a1) | N/A |
+| 45 | [コンテンダー](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%80%e3%83%bc) | コンテンダー (Kontendā) is a Japanese word that refers to a person who is responsible for organizing and managing events. In English, it can be translated as "event coordinator". |
+| 46 | [JAXA](http://twitter.com/search?q=JAXA) | N/A |
+| 47 | [チケツイ](http://twitter.com/search?q=%e3%83%81%e3%82%b1%e3%83%84%e3%82%a4) | N/A |
+| 48 | [つづ井さん](http://twitter.com/search?q=%e3%81%a4%e3%81%a5%e4%ba%95%e3%81%95%e3%82%93) | つづ井さん is a Japanese phrase that is used to refer to someone who is very wise and knowledgeable. It literally translates to "Mr. Tsudui," and is often used as a term of respect for someone who has a lot of knowledge or experience. |
+| 49 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
 
 
 

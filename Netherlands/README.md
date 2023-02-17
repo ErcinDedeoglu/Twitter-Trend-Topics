@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-17 08:17:31 UTC`
+📆 Last Updated: `2023-02-17 09:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#sevpsv](http://twitter.com/search?q=%23sevpsv) | N/A |
-| 3 | [#ajauni](http://twitter.com/search?q=%23ajauni) | N/A |
-| 4 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
-| 5 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 6 | [#hemelsblauw](http://twitter.com/search?q=%23hemelsblauw) | N/A |
-| 7 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 8 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 1 | [#sevpsv](http://twitter.com/search?q=%23sevpsv) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#ajauni](http://twitter.com/search?q=%23ajauni) | N/A |
+| 5 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
+| 6 | [#AJAUbe](http://twitter.com/search?q=%23AJAUbe) | N/A |
+| 7 | [#hemelsblauw](http://twitter.com/search?q=%23hemelsblauw) | N/A |
+| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 9 | [Teze](http://twitter.com/search?q=Teze) | N/A |
 | 10 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
 | 11 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
-| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 13 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 14 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
-| 15 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
-| 16 | [Kartelwaakhond](http://twitter.com/search?q=Kartelwaakhond) | N/A |
-| 17 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 18 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 19 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 20 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
-| 21 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 22 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 23 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 24 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
-| 25 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
-| 26 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 27 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 28 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 29 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
+| 12 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 13 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 14 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
+| 15 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
+| 16 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 17 | [Dag 17](http://twitter.com/search?q=Dag+17) | N/A |
+| 18 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
+| 19 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 20 | [Kartelwaakhond](http://twitter.com/search?q=Kartelwaakhond) | N/A |
+| 21 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
+| 22 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
+| 23 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 24 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 25 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 26 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
+| 27 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 28 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 29 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
 | 30 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
-| 31 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 32 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
-| 33 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 34 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 35 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 36 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 37 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 38 | [Evert](http://twitter.com/search?q=Evert) | N/A |
-| 39 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
-| 40 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 41 | [Roethof](http://twitter.com/search?q=Roethof) | N/A |
-| 42 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 43 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 44 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 45 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 46 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 32 | [Elisabeth](http://twitter.com/search?q=Elisabeth) | N/A |
+| 33 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
+| 34 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 35 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 36 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 37 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
+| 38 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 39 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 40 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 41 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 42 | [Evert](http://twitter.com/search?q=Evert) | N/A |
+| 43 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 44 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 45 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 46 | [roethof](http://twitter.com/search?q=roethof) | N/A |
 | 47 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
 | 48 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
 | 49 | [2 van duitsland](http://twitter.com/search?q=2+van+duitsland) | N/A |

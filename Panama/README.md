@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-17 08:17:32 UTC`
+📆 Last Updated: `2023-02-17 09:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,12 +35,12 @@ This is top 50 for Panama
 | 18 | [Gurú](http://twitter.com/search?q=Gur%c3%ba) | N/A |
 | 19 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 20 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 21 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 21 | [migración](http://twitter.com/search?q=migraci%c3%b3n) | N/A |
 | 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 23 | [Howard](http://twitter.com/search?q=Howard) | N/A |
 | 24 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 25 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 26 | [Peke](http://twitter.com/search?q=Peke) | N/A |
+| 26 | [peke](http://twitter.com/search?q=peke) | N/A |
 | 27 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 28 | [guillermo ferrufino](http://twitter.com/search?q=guillermo+ferrufino) | N/A |
 | 29 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
@@ -56,7 +56,7 @@ This is top 50 for Panama
 | 39 | [ancón](http://twitter.com/search?q=anc%c3%b3n) | N/A |
 | 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 41 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 42 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
+| 42 | [chitre](http://twitter.com/search?q=chitre) | N/A |
 | 43 | [puente de las américas](http://twitter.com/search?q=puente+de+las+am%c3%a9ricas) | N/A |
 | 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 45 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |

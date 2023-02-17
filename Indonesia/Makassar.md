@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-17 08:16:57 UTC`
+📆 Last Updated: `2023-02-17 09:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [Indonesia Kita Terus Maju](http://twitter.com/search?q=Indonesia+Kita+Terus+Maju) | N/A |
 | 5 | [#HariIniJakartaSTINBIN](http://twitter.com/search?q=%23HariIniJakartaSTINBIN) | N/A |
 | 6 | [#TDS2KyoceraDome_DAY1](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY1) | N/A |
-| 7 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 7 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
 | 8 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
 | 9 | [Reformasi Total Sepakbola](http://twitter.com/search?q=Reformasi+Total+Sepakbola) | N/A |
-| 10 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 11 | [Chico](http://twitter.com/search?q=Chico) | N/A |
-| 12 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 10 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 11 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 12 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
 | 13 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 14 | [Depok](http://twitter.com/search?q=Depok) | Depok is a city in West Java, Indonesia. The name Depok is derived from the Sanskrit word "Dipa-Kupa" which means "abode of the gods". In English, Depok can be translated to mean "divine abode". |
-| 15 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
-| 16 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 17 | [Pemilihan](http://twitter.com/search?q=Pemilihan) | N/A |
-| 18 | [ENAK AJA MUNDUR](http://twitter.com/search?q=ENAK+AJA+MUNDUR) | N/A |
-| 19 | [Presiden 2024](http://twitter.com/search?q=Presiden+2024) | N/A |
+| 14 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 15 | [Chico](http://twitter.com/search?q=Chico) | N/A |
+| 16 | [Depok](http://twitter.com/search?q=Depok) | Depok is a city in West Java, Indonesia. The name Depok is derived from the Sanskrit word "Dipa-Kupa" which means "abode of the gods". In English, Depok can be translated to mean "divine abode". |
+| 17 | [Genta](http://twitter.com/search?q=Genta) | N/A |
+| 18 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
+| 19 | [Pemilihan](http://twitter.com/search?q=Pemilihan) | N/A |
 | 20 | [Jakarta BIN](http://twitter.com/search?q=Jakarta+BIN) | N/A |
-| 21 | [Genta](http://twitter.com/search?q=Genta) | N/A |
+| 21 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
 | 22 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
-| 23 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
-| 24 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 25 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 27 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
-| 28 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 29 | [Danang](http://twitter.com/search?q=Danang) | N/A |
-| 30 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 23 | [ENAK AJA MUNDUR](http://twitter.com/search?q=ENAK+AJA+MUNDUR) | N/A |
+| 24 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
+| 25 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
+| 26 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 27 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 28 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 29 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 30 | [Danang](http://twitter.com/search?q=Danang) | N/A |
 | 31 | [Mixue](http://twitter.com/search?q=Mixue) | N/A |
-| 32 | [Pisang](http://twitter.com/search?q=Pisang) | N/A |
-| 33 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 32 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 33 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
 | 34 | [#ETPSSI](http://twitter.com/search?q=%23ETPSSI) | N/A |
-| 35 | [#OPPOPortraitofLoveXShopee](http://twitter.com/search?q=%23OPPOPortraitofLoveXShopee) | N/A |
-| 36 | [#OPPOReno8TdiShopee](http://twitter.com/search?q=%23OPPOReno8TdiShopee) | N/A |
-| 37 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 38 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
-| 39 | [#PLNEMobilizeYou](http://twitter.com/search?q=%23PLNEMobilizeYou) | N/A |
-| 40 | [#jeketiselcaday](http://twitter.com/search?q=%23jeketiselcaday) | N/A |
-| 41 | [#IkutStandUpComedyGanjar](http://twitter.com/search?q=%23IkutStandUpComedyGanjar) | N/A |
+| 35 | [#제이홉보러디즈니플러스gogo](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%eb%b3%b4%eb%9f%ac%eb%94%94%ec%a6%88%eb%8b%88%ed%94%8c%eb%9f%ac%ec%8a%a4gogo) | N/A |
+| 36 | [#제이홉인더박스밖으로뿅](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%ec%9d%b8%eb%8d%94%eb%b0%95%ec%8a%a4%eb%b0%96%ec%9c%bc%eb%a1%9c%eb%bf%85) | N/A |
+| 37 | [#OPPOPortraitofLoveXShopee](http://twitter.com/search?q=%23OPPOPortraitofLoveXShopee) | N/A |
+| 38 | [#OPPOReno8TdiShopee](http://twitter.com/search?q=%23OPPOReno8TdiShopee) | N/A |
+| 39 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
+| 40 | [#IkutStandUpComedyGanjar](http://twitter.com/search?q=%23IkutStandUpComedyGanjar) | N/A |
+| 41 | [#jeketiselcaday](http://twitter.com/search?q=%23jeketiselcaday) | N/A |
 | 42 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
-| 43 | [#SOODAM](http://twitter.com/search?q=%23SOODAM) | N/A |
-| 44 | [#SecretNumberJapanDebut](http://twitter.com/search?q=%23SecretNumberJapanDebut) | N/A |
-| 45 | [#Changbin](http://twitter.com/search?q=%23Changbin) | N/A |
-| 46 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 47 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
-| 48 | [#skinreborn](http://twitter.com/search?q=%23skinreborn) | N/A |
+| 43 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
+| 44 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 45 | [#SecretNumberJapanDebut](http://twitter.com/search?q=%23SecretNumberJapanDebut) | N/A |
+| 46 | [#skintific](http://twitter.com/search?q=%23skintific) | N/A |
+| 47 | [#Changbin](http://twitter.com/search?q=%23Changbin) | N/A |
+| 48 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
 
 
 

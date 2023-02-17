@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-17 08:17:17 UTC`
+📆 Last Updated: `2023-02-17 09:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,34 +18,41 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
 | 2 | [HamitDuras BilenKazanırda](http://twitter.com/search?q=HamitDuras+BilenKazan%c4%b1rda) | N/A |
 | 3 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 4 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 5 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
-| 6 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
-| 7 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 8 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 9 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 11 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
+| 4 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 5 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 6 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
+| 7 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
+| 8 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 9 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
+| 10 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
+| 11 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
 | 12 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 13 | [#NeredesinSen](http://twitter.com/search?q=%23NeredesinSen) | N/A |
-| 14 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
+| 13 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 14 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 15 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
-| 16 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 17 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
-| 18 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 19 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
-| 20 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 21 | [Mustafa Avcı](http://twitter.com/search?q=Mustafa+Avc%c4%b1) | N/A |
-| 22 | [Efendimiz](http://twitter.com/search?q=Efendimiz) | N/A |
-| 23 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
-| 24 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
-| 25 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
-| 26 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 27 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 28 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 29 | [#trabzon](http://twitter.com/search?q=%23trabzon) | N/A |
-| 30 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 31 | [#HepBirlikteKazandık](http://twitter.com/search?q=%23HepBirlikteKazand%c4%b1k) | N/A |
+| 16 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
+| 17 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
+| 18 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 19 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
+| 20 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 21 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
+| 22 | [Kanun](http://twitter.com/search?q=Kanun) | N/A |
+| 23 | [Efendimiz](http://twitter.com/search?q=Efendimiz) | N/A |
+| 24 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
+| 25 | [Mustafa Avcı](http://twitter.com/search?q=Mustafa+Avc%c4%b1) | N/A |
+| 26 | [Ey Rabbimiz](http://twitter.com/search?q=Ey+Rabbimiz) | N/A |
+| 27 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 28 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
+| 29 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 30 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 31 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
+| 32 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
+| 33 | [#NeredesinSen](http://twitter.com/search?q=%23NeredesinSen) | N/A |
+| 34 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
+| 35 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 36 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 37 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 38 | [#trabzon](http://twitter.com/search?q=%23trabzon) | N/A |
 
 
 

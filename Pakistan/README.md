@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-17 08:17:32 UTC`
+📆 Last Updated: `2023-02-17 09:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Pakistan
 | 5 | [#Zaman_Park](http://twitter.com/search?q=%23Zaman_Park) | N/A |
 | 6 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
 | 7 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 8 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
-| 9 | [deception is not](http://twitter.com/search?q=deception+is+not) | N/A |
+| 8 | [deception is not](http://twitter.com/search?q=deception+is+not) | N/A |
+| 9 | [Munro](http://twitter.com/search?q=Munro) | N/A |
 | 10 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 11 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 13 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 14 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 17 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 18 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
-| 19 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
-| 20 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 21 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 22 | [Shaddy](http://twitter.com/search?q=Shaddy) | N/A |
-| 23 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 24 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 25 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 27 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 29 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
-| 30 | [Rumman Raees](http://twitter.com/search?q=Rumman+Raees) | N/A |
-| 31 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
-| 32 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 11 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
+| 12 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 14 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
+| 15 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 16 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 17 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 18 | [Shaddy](http://twitter.com/search?q=Shaddy) | N/A |
+| 19 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
+| 24 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
+| 25 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
+| 28 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
+| 29 | [Rumman Raees](http://twitter.com/search?q=Rumman+Raees) | N/A |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [Rs 16](http://twitter.com/search?q=Rs+16) | N/A |
+| 32 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
+| 33 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
 | 34 | [Babul Hawaij](http://twitter.com/search?q=Babul+Hawaij) | N/A |
-| 35 | [Rs 16](http://twitter.com/search?q=Rs+16) | N/A |
-| 36 | [The Messenger of Allah](http://twitter.com/search?q=The+Messenger+of+Allah) | N/A |
-| 37 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
-| 38 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 39 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
-| 40 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 41 | [Rs 130](http://twitter.com/search?q=Rs+130) | N/A |
-| 42 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 43 | [Rs 90](http://twitter.com/search?q=Rs+90) | N/A |
-| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 45 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 46 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 47 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 48 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
-| 49 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 50 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 35 | [Rs 130](http://twitter.com/search?q=Rs+130) | N/A |
+| 36 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 37 | [The Messenger of Allah](http://twitter.com/search?q=The+Messenger+of+Allah) | N/A |
+| 38 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 39 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 40 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 42 | [Rule](http://twitter.com/search?q=Rule) | N/A |
+| 43 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 44 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 45 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
+| 46 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 47 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 48 | [Finance](http://twitter.com/search?q=Finance) | N/A |
+| 49 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 50 | [Director General](http://twitter.com/search?q=Director+General) | N/A |
 
 
 

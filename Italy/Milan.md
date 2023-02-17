@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-17 08:16:53 UTC`
+📆 Last Updated: `2023-02-17 09:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#17febbraio](http://twitter.com/search?q=%2317febbraio) | N/A |
 | 3 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 4 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
-| 5 | [#miFannoSempre](http://twitter.com/search?q=%23miFannoSempre) | N/A |
-| 6 | [Napo](http://twitter.com/search?q=Napo) | N/A |
-| 7 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 5 | [#festadelgatto](http://twitter.com/search?q=%23festadelgatto) | N/A |
+| 6 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 7 | [Napo](http://twitter.com/search?q=Napo) | N/A |
 | 8 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
 | 9 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 11 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 12 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 13 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 10 | [Elia](http://twitter.com/search?q=Elia) | N/A |
+| 11 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 12 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 13 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
 | 14 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 15 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 16 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 15 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 16 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 17 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 18 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 19 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 20 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 21 | [Giordano Bruno](http://twitter.com/search?q=Giordano+Bruno) | N/A |
-| 22 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 23 | [L'arbitro](http://twitter.com/search?q=L%27arbitro) | N/A |
-| 24 | [francescone](http://twitter.com/search?q=francescone) | N/A |
-| 25 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 26 | [traversa](http://twitter.com/search?q=traversa) | N/A |
-| 27 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 28 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 29 | [De Siervo](http://twitter.com/search?q=De+Siervo) | N/A |
-| 30 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
-| 31 | [suor costanza](http://twitter.com/search?q=suor+costanza) | N/A |
-| 32 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
-| 33 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 34 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
-| 35 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 36 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 37 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 38 | [Mimmuzza](http://twitter.com/search?q=Mimmuzza) | N/A |
-| 39 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 40 | [Il 17](http://twitter.com/search?q=Il+17) | N/A |
-| 41 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 42 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 43 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 44 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 45 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 46 | [Imperia](http://twitter.com/search?q=Imperia) | N/A |
-| 47 | [Buongiorno Violetta](http://twitter.com/search?q=Buongiorno+Violetta) | N/A |
-| 48 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 49 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 50 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
+| 18 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 19 | [L'arbitro](http://twitter.com/search?q=L%27arbitro) | N/A |
+| 20 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 21 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 22 | [De Siervo](http://twitter.com/search?q=De+Siervo) | N/A |
+| 23 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 24 | [suor costanza](http://twitter.com/search?q=suor+costanza) | N/A |
+| 25 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 26 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 27 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 28 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 29 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 30 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 31 | [Mimmuzza](http://twitter.com/search?q=Mimmuzza) | N/A |
+| 32 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 33 | [Traversa](http://twitter.com/search?q=Traversa) | N/A |
+| 34 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 35 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 36 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 37 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 38 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 39 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 40 | [Imperia](http://twitter.com/search?q=Imperia) | N/A |
+| 41 | [Faraone](http://twitter.com/search?q=Faraone) | N/A |
+| 42 | [Delmastro](http://twitter.com/search?q=Delmastro) | N/A |
+| 43 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 44 | [Rossy](http://twitter.com/search?q=Rossy) | N/A |
+| 45 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
+| 46 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 47 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 48 | [Fallo](http://twitter.com/search?q=Fallo) | N/A |
+| 49 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 50 | [Campo](http://twitter.com/search?q=Campo) | N/A |
 
 
 
