@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-17 18:17:36 UTC`
+📆 Last Updated: `2023-02-17 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SELadultwellness](http://twitter.com/search?q=%23SELadultwellness) | N/A |
-| 2 | [#AldineConnected](http://twitter.com/search?q=%23AldineConnected) | N/A |
-| 3 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 4 | [#NCE2023](http://twitter.com/search?q=%23NCE2023) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 7 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 8 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 9 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
-| 10 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 11 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 12 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 13 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 14 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 15 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
-| 16 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 17 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 18 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 19 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 20 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 21 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 22 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 23 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 24 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 25 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 26 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 27 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 28 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 29 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 30 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 31 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 32 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 33 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
-| 34 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
-| 35 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 36 | [Truckin](http://twitter.com/search?q=Truckin) | N/A |
-| 37 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 38 | [Uncle Bernie](http://twitter.com/search?q=Uncle+Bernie) | N/A |
-| 39 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 40 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 41 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 42 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 43 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 44 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 45 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
-| 46 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 47 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 1 | [#UILState](http://twitter.com/search?q=%23UILState) | N/A |
+| 2 | [#SELadultwellness](http://twitter.com/search?q=%23SELadultwellness) | N/A |
+| 3 | [#AldineConnected](http://twitter.com/search?q=%23AldineConnected) | N/A |
+| 4 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 5 | [#NCE2023](http://twitter.com/search?q=%23NCE2023) | N/A |
+| 6 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 9 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 10 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 11 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 12 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 13 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 14 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 15 | [Rush](http://twitter.com/search?q=Rush) | N/A |
+| 16 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 17 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 18 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 19 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
+| 20 | [Miss Amtrak](http://twitter.com/search?q=Miss+Amtrak) | N/A |
+| 21 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
+| 22 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 23 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 24 | [Kiely Williams](http://twitter.com/search?q=Kiely+Williams) | N/A |
+| 25 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 26 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 27 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 28 | [Fav Papa](http://twitter.com/search?q=Fav+Papa) | N/A |
+| 29 | [Fav Ghoul](http://twitter.com/search?q=Fav+Ghoul) | N/A |
+| 30 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 31 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 32 | [Top 3 Ghost Songs](http://twitter.com/search?q=Top+3+Ghost+Songs) | N/A |
+| 33 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 34 | [Fav Album](http://twitter.com/search?q=Fav+Album) | N/A |
+| 35 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
+| 36 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 37 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
+| 38 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 39 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
+| 40 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 41 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 42 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 43 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 44 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 45 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 46 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 47 | [Truckin](http://twitter.com/search?q=Truckin) | N/A |
 
 
 

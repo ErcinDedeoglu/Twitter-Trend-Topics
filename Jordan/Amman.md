@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-02-17 18:17:26 UTC`
+📆 Last Updated: `2023-02-17 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Jordan](</Jordan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
-| 2 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 3 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 2 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 3 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 4 | [بير ماء](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1+%d9%85%d8%a7%d8%a1) | N/A |
 | 5 | [عمر جهاد](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d9%87%d8%a7%d8%af) | N/A |
-| 6 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 7 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 8 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
-| 9 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 10 | [دينار الجديده](http://twitter.com/search?q=%d8%af%d9%8a%d9%86%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 11 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 12 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 13 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 14 | [علي الحدثين المتغيبين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%af%d8%ab%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%aa%d8%ba%d9%8a%d8%a8%d9%8a%d9%86) | N/A |
-| 15 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 16 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 17 | [ابو شقره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b4%d9%82%d8%b1%d9%87) | N/A |
-| 18 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 19 | [#برشلونه_مانشستريونايتد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 20 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 21 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 22 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 23 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 24 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 6 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 7 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
+| 8 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 9 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 10 | [علي الحدثين المتغيبين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%af%d8%ab%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%aa%d8%ba%d9%8a%d8%a8%d9%8a%d9%86) | N/A |
+| 11 | [دينار الجديده](http://twitter.com/search?q=%d8%af%d9%8a%d9%86%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 12 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 13 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 14 | [#برشلونه_مانشستريونايتد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 15 | [ابو شقره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b4%d9%82%d8%b1%d9%87) | N/A |
+| 16 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 17 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 18 | [#البزنس73](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b373) | N/A |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [لتركيا](http://twitter.com/search?q=%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 21 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 22 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 25 | [التعاون](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | التعاون is an Arabic word meaning "cooperation" or "collaboration" in English. It refers to the act of working together to achieve a common goal. |
+| 26 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 27 | [السميع البصير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%a8%d8%b5%d9%8a%d8%b1) | N/A |
 | 28 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 29 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 30 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 31 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 32 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 33 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 34 | [تامر عاشور](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
-| 35 | [تاريخ الاردن](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 36 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 37 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 38 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 39 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 40 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
-| 41 | [ابن عباس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 42 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
-| 43 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 44 | [اندرو تيت](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%88+%d8%aa%d9%8a%d8%aa) | N/A |
-| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 46 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 29 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 30 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 31 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 32 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 33 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 34 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 35 | [تامر عاشور](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
+| 36 | [تاريخ الاردن](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 37 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 38 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 39 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 40 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 41 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 42 | [ابن عباس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
+| 43 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
+| 44 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 45 | [اندرو تيت](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%88+%d8%aa%d9%8a%d8%aa) | N/A |
+| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 47 | [الشيطان الرجيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%b1%d8%ac%d9%8a%d9%85) | N/A |
 | 48 | [جوارديولا](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 49 | [الشيطان الرجيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%b1%d8%ac%d9%8a%d9%85) | N/A |
-| 50 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 49 | [الملكيه الاردنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 50 | [المتقاعدين العسكريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
 
 
 

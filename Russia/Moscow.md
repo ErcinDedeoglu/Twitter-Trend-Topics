@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-02-17 18:17:27 UTC`
+📆 Last Updated: `2023-02-17 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,47 @@ This is top 50 for [Russia](</Russia>)
 | 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 4 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
 | 5 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 6 | [Байдена](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd%d0%b0) | N/A |
-| 7 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 8 | [нууу](http://twitter.com/search?q=%d0%bd%d1%83%d1%83%d1%83) | N/A |
+| 6 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
+| 7 | [Байдена](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd%d0%b0) | N/A |
+| 8 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
 | 9 | [рф-сми](http://twitter.com/search?q=%d1%80%d1%84-%d1%81%d0%bc%d0%b8) | N/A |
-| 10 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
-| 11 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 10 | [нууу](http://twitter.com/search?q=%d0%bd%d1%83%d1%83%d1%83) | N/A |
+| 11 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
 | 12 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 13 | [Офигеть](http://twitter.com/search?q=%d0%9e%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
-| 14 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
-| 15 | [С Днём Рождения](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc+%d0%a0%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 16 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
-| 17 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
-| 18 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
-| 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 20 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 21 | [Ужасно](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
-| 22 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 23 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 24 | [Огайо](http://twitter.com/search?q=%d0%9e%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
-| 27 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 28 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 29 | [Мммм](http://twitter.com/search?q=%d0%9c%d0%bc%d0%bc%d0%bc) | N/A |
-| 30 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 31 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
-| 32 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 13 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
+| 14 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 15 | [Офигеть](http://twitter.com/search?q=%d0%9e%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
+| 16 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
+| 17 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
+| 20 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 21 | [Огайо](http://twitter.com/search?q=%d0%9e%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
+| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 23 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 24 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 25 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 26 | [С ДНЁМ РОЖДЕНИЯ](http://twitter.com/search?q=%d0%a1+%d0%94%d0%9d%d0%81%d0%9c+%d0%a0%d0%9e%d0%96%d0%94%d0%95%d0%9d%d0%98%d0%af) | N/A |
+| 27 | [Ужасно](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
+| 28 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 29 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 30 | [Мммм](http://twitter.com/search?q=%d0%9c%d0%bc%d0%bc%d0%bc) | N/A |
+| 31 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
+| 32 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 33 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
-| 34 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 35 | [Любовь](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
-| 36 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 37 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 38 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 39 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
-| 40 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
-| 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 42 | [Костомарова](http://twitter.com/search?q=%d0%9a%d0%be%d1%81%d1%82%d0%be%d0%bc%d0%b0%d1%80%d0%be%d0%b2%d0%b0) | N/A |
-| 43 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 44 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 45 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 46 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 47 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
-| 48 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 34 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
+| 35 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 36 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
+| 37 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 38 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 39 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 40 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 41 | [В США](http://twitter.com/search?q=%d0%92+%d0%a1%d0%a8%d0%90) | N/A |
+| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 43 | [Костомарова](http://twitter.com/search?q=%d0%9a%d0%be%d1%81%d1%82%d0%be%d0%bc%d0%b0%d1%80%d0%be%d0%b2%d0%b0) | N/A |
+| 44 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 45 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
+| 46 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-17 18:17:50 UTC`
+📆 Last Updated: `2023-02-17 19:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ukraine
 | 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 3 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
 | 4 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 5 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 5 | [The Insider](http://twitter.com/search?q=The+Insider) | N/A |
 | 6 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 7 | [The Insider](http://twitter.com/search?q=The+Insider) | N/A |
+| 7 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 8 | [Мариуполя](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8f) | N/A |
 | 9 | [Eli Cohen](http://twitter.com/search?q=Eli+Cohen) | N/A |
-| 10 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 11 | [Pavlograd](http://twitter.com/search?q=Pavlograd) | N/A |
-| 12 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 13 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
-| 14 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
-| 15 | [#SkyborneLegacy](http://twitter.com/search?q=%23SkyborneLegacy) | N/A |
-| 16 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 17 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 10 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 11 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
+| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 13 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 14 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 15 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 16 | [Azovstal](http://twitter.com/search?q=Azovstal) | N/A |
+| 17 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 18 | [Munich Security Conference](http://twitter.com/search?q=Munich+Security+Conference) | N/A |
-| 19 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 20 | [Azovstal](http://twitter.com/search?q=Azovstal) | N/A |
-| 21 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 22 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 23 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
-| 24 | [бордюр](http://twitter.com/search?q=%d0%b1%d0%be%d1%80%d0%b4%d1%8e%d1%80) | N/A |
-| 25 | [Отак](http://twitter.com/search?q=%d0%9e%d1%82%d0%b0%d0%ba) | N/A |
-| 26 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
-| 27 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 28 | [Московия](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
-| 29 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 30 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 31 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 32 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
-| 33 | [Таак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%ba) | N/A |
-| 34 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 35 | [Треба](http://twitter.com/search?q=%d0%a2%d1%80%d0%b5%d0%b1%d0%b0) | N/A |
-| 36 | [ПЛАЧУ](http://twitter.com/search?q=%d0%9f%d0%9b%d0%90%d0%a7%d0%a3) | N/A |
-| 37 | [Соловьева](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2%d0%b0) | N/A |
-| 38 | [зате](http://twitter.com/search?q=%d0%b7%d0%b0%d1%82%d0%b5) | N/A |
-| 39 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
+| 19 | [Отак](http://twitter.com/search?q=%d0%9e%d1%82%d0%b0%d0%ba) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [бордюр](http://twitter.com/search?q=%d0%b1%d0%be%d1%80%d0%b4%d1%8e%d1%80) | N/A |
+| 22 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 23 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 24 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 25 | [Московия](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
+| 26 | [ПЛАЧУ](http://twitter.com/search?q=%d0%9f%d0%9b%d0%90%d0%a7%d0%a3) | N/A |
+| 27 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 28 | [тупо](http://twitter.com/search?q=%d1%82%d1%83%d0%bf%d0%be) | N/A |
+| 29 | [Треба](http://twitter.com/search?q=%d0%a2%d1%80%d0%b5%d0%b1%d0%b0) | N/A |
+| 30 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 31 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 32 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
+| 33 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 34 | [Соловьева](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2%d0%b0) | N/A |
+| 35 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 36 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
+| 37 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 38 | [дети](http://twitter.com/search?q=%d0%b4%d0%b5%d1%82%d0%b8) | N/A |
+| 39 | [зате](http://twitter.com/search?q=%d0%b7%d0%b0%d1%82%d0%b5) | N/A |
 | 40 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 41 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
-| 42 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 43 | [Кремля](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d1%8f) | N/A |
-| 44 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 42 | [Таак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%ba) | N/A |
+| 43 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
+| 44 | [Кремля](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d1%8f) | N/A |
 | 45 | [Класика](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d0%b8%d0%ba%d0%b0) | N/A |
-| 46 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 47 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 48 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 49 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 50 | [Gazprom](http://twitter.com/search?q=Gazprom) | N/A |
+| 46 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 47 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 48 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 49 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 50 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 
 
 

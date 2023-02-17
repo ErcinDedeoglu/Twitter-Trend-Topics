@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-17 18:17:48 UTC`
+📆 Last Updated: `2023-02-17 19:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for Panama
 | 4 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
 | 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 6 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 7 | [Darien](http://twitter.com/search?q=Darien) | N/A |
-| 8 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 9 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 10 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 11 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 14 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 8 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 9 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 11 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 12 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
+| 13 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 14 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 15 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 16 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 17 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 17 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
 | 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 19 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 20 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 21 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
-| 24 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 25 | [Balboa](http://twitter.com/search?q=Balboa) | N/A |
-| 26 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 27 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 28 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
+| 19 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 21 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 22 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 23 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
+| 26 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 27 | [Balboa](http://twitter.com/search?q=Balboa) | N/A |
+| 28 | [Gurú](http://twitter.com/search?q=Gur%c3%ba) | N/A |
 | 29 | [Americas](http://twitter.com/search?q=Americas) | N/A |
-| 30 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 30 | [Chame](http://twitter.com/search?q=Chame) | N/A |
+| 31 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 32 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
 | 33 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 | 34 | [Migrantes](http://twitter.com/search?q=Migrantes) | N/A |
 | 35 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 36 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 37 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 38 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 39 | [Chitré](http://twitter.com/search?q=Chitr%c3%a9) | N/A |
-| 40 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 41 | [PH Urbana](http://twitter.com/search?q=PH+Urbana) | N/A |
-| 42 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 43 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 44 | [Chiriquí](http://twitter.com/search?q=Chiriqu%c3%ad) | N/A |
-| 45 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 46 | [Chorrera](http://twitter.com/search?q=Chorrera) | N/A |
-| 47 | [Bocas](http://twitter.com/search?q=Bocas) | N/A |
-| 48 | [Ferrufino](http://twitter.com/search?q=Ferrufino) | N/A |
-| 49 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 38 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 39 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 40 | [dj black](http://twitter.com/search?q=dj+black) | N/A |
+| 41 | [Penonome](http://twitter.com/search?q=Penonome) | N/A |
+| 42 | [Chiriquí](http://twitter.com/search?q=Chiriqu%c3%ad) | N/A |
+| 43 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 44 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
+| 45 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 46 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
+| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 48 | [Bocas](http://twitter.com/search?q=Bocas) | N/A |
+| 49 | [Ferrufino](http://twitter.com/search?q=Ferrufino) | N/A |
 | 50 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 
 

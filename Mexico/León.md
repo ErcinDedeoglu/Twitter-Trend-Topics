@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-17 18:16:58 UTC`
+📆 Last Updated: `2023-02-17 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
 | 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 4 | [Guillermo González Camarena](http://twitter.com/search?q=Guillermo+Gonz%c3%a1lez+Camarena) | N/A |
-| 5 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 6 | [Pulso GNP](http://twitter.com/search?q=Pulso+GNP) | N/A |
+| 3 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 4 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 5 | [Guillermo González Camarena](http://twitter.com/search?q=Guillermo+Gonz%c3%a1lez+Camarena) | N/A |
+| 6 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
 | 7 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 9 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
-| 10 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
-| 11 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
-| 12 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 13 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 14 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
-| 15 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 16 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
-| 17 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 18 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 19 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 20 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 21 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 22 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 23 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 24 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
-| 25 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 26 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 27 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 28 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 29 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 30 | [#PoderosoElMásEscuchado](http://twitter.com/search?q=%23PoderosoElM%c3%a1sEscuchado) | N/A |
-| 31 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
-| 32 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 33 | [#HoraDeComplacenciasNextFM](http://twitter.com/search?q=%23HoraDeComplacenciasNextFM) | N/A |
-| 34 | [#DíaDelInventorMexicano](http://twitter.com/search?q=%23D%c3%adaDelInventorMexicano) | N/A |
-| 35 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
-| 36 | [#StayStrongBible](http://twitter.com/search?q=%23StayStrongBible) | N/A |
-| 37 | [#20DaysWithoutBiu](http://twitter.com/search?q=%2320DaysWithoutBiu) | N/A |
-| 38 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
-| 39 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 40 | [#KornoNoQueMuyMuy](http://twitter.com/search?q=%23KornoNoQueMuyMuy) | N/A |
-| 41 | [#EscapaditaMañanera](http://twitter.com/search?q=%23EscapaditaMa%c3%b1anera) | N/A |
-| 42 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 43 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 44 | [#MarvelStudios](http://twitter.com/search?q=%23MarvelStudios) | N/A |
-| 45 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
-| 46 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
+| 8 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 9 | [Pulso GNP](http://twitter.com/search?q=Pulso+GNP) | N/A |
+| 10 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
+| 11 | [The War On Drugs](http://twitter.com/search?q=The+War+On+Drugs) | N/A |
+| 12 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 13 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 14 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
+| 15 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 16 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
+| 19 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 20 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 21 | [El 17](http://twitter.com/search?q=El+17) | N/A |
+| 22 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
+| 23 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 24 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
+| 25 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
+| 26 | [Alfredo del Mazo](http://twitter.com/search?q=Alfredo+del+Mazo) | N/A |
+| 27 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 28 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 29 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
+| 30 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
+| 31 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 32 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 33 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 34 | [#PoderosoElMásEscuchado](http://twitter.com/search?q=%23PoderosoElM%c3%a1sEscuchado) | N/A |
+| 35 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 36 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 37 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 38 | [#HoraDeComplacenciasNextFM](http://twitter.com/search?q=%23HoraDeComplacenciasNextFM) | N/A |
+| 39 | [#DíaDelInventorMexicano](http://twitter.com/search?q=%23D%c3%adaDelInventorMexicano) | N/A |
+| 40 | [#DeTwitterALaCalle](http://twitter.com/search?q=%23DeTwitterALaCalle) | N/A |
+| 41 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
+| 42 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
+| 43 | [#GallitoIngles](http://twitter.com/search?q=%23GallitoIngles) | N/A |
+| 44 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 45 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 46 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 
 
 

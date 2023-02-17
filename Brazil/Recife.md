@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-17 18:17:03 UTC`
+📆 Last Updated: `2023-02-17 19:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 2 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 5 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 6 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 7 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 8 | [#SearaNoBBB23](http://twitter.com/search?q=%23SearaNoBBB23) | N/A |
-| 9 | [#PROVAROUBADA](http://twitter.com/search?q=%23PROVAROUBADA) | N/A |
-| 10 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 11 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 12 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 13 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 14 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 15 | [REVISÃO DA PROVA](http://twitter.com/search?q=REVIS%c3%83O+DA+PROVA) | N/A |
-| 16 | [Péricles](http://twitter.com/search?q=P%c3%a9ricles) | N/A |
+| 1 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 4 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 5 | [#PROVAROUBADA](http://twitter.com/search?q=%23PROVAROUBADA) | N/A |
+| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 7 | [Dormiu](http://twitter.com/search?q=Dormiu) | N/A |
+| 8 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 9 | [#SearaNoBBB23](http://twitter.com/search?q=%23SearaNoBBB23) | N/A |
+| 10 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 11 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 12 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 13 | [#revisaodaProva](http://twitter.com/search?q=%23revisaodaProva) | N/A |
+| 14 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 15 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 16 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
 | 17 | [Kombi](http://twitter.com/search?q=Kombi) | N/A |
-| 18 | [UFPA](http://twitter.com/search?q=UFPA) | N/A |
-| 19 | [REVISEM A PROVA](http://twitter.com/search?q=REVISEM+A+PROVA) | N/A |
-| 20 | [Dormiu](http://twitter.com/search?q=Dormiu) | N/A |
-| 21 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 22 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 23 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 24 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 25 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 26 | [Descansar](http://twitter.com/search?q=Descansar) | N/A |
-| 27 | [MY VOVÓ](http://twitter.com/search?q=MY+VOV%c3%93) | N/A |
-| 28 | [FELIZ ANIVERSÁRIO MEU AMOR](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+MEU+AMOR) | N/A |
-| 29 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 32 | [Didico](http://twitter.com/search?q=Didico) | N/A |
-| 33 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
-| 34 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 35 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 36 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 37 | [Faroeste Caboclo](http://twitter.com/search?q=Faroeste+Caboclo) | N/A |
-| 38 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 39 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 40 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 41 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
-| 42 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 43 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 44 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 45 | [Solzinho](http://twitter.com/search?q=Solzinho) | N/A |
-| 46 | [Redbert](http://twitter.com/search?q=Redbert) | N/A |
-| 47 | [Miriam Leitão](http://twitter.com/search?q=Miriam+Leit%c3%a3o) | N/A |
-| 48 | [Capitã Marvel](http://twitter.com/search?q=Capit%c3%a3+Marvel) | N/A |
-| 49 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
-| 50 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 18 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 19 | [Péricles](http://twitter.com/search?q=P%c3%a9ricles) | N/A |
+| 20 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 21 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
+| 22 | [UFPA](http://twitter.com/search?q=UFPA) | N/A |
+| 23 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
+| 24 | [REVISEM A PROVA](http://twitter.com/search?q=REVISEM+A+PROVA) | N/A |
+| 25 | [KAZ BREKKER](http://twitter.com/search?q=KAZ+BREKKER) | N/A |
+| 26 | [Betano](http://twitter.com/search?q=Betano) | N/A |
+| 27 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 28 | [MY VOVÓ](http://twitter.com/search?q=MY+VOV%c3%93) | N/A |
+| 29 | [matthias](http://twitter.com/search?q=matthias) | N/A |
+| 30 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
+| 31 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
+| 32 | [Descansar](http://twitter.com/search?q=Descansar) | N/A |
+| 33 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 34 | [RONCOU](http://twitter.com/search?q=RONCOU) | N/A |
+| 35 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 36 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 37 | [Didico](http://twitter.com/search?q=Didico) | N/A |
+| 38 | [Russomano](http://twitter.com/search?q=Russomano) | N/A |
+| 39 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 40 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 41 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 42 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 43 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 44 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
+| 45 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
+| 46 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 47 | [Capitã Marvel](http://twitter.com/search?q=Capit%c3%a3+Marvel) | N/A |
+| 48 | [Semente](http://twitter.com/search?q=Semente) | N/A |
+| 49 | [Faroeste Caboclo](http://twitter.com/search?q=Faroeste+Caboclo) | N/A |
+| 50 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 
 
 

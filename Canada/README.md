@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-17 18:17:44 UTC`
+📆 Last Updated: `2023-02-17 19:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 1 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 2 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
 | 3 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 6 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 8 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 4 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 5 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
+| 6 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 9 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 11 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 12 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 13 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 14 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 15 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 16 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 17 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 18 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 19 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 20 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 21 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 22 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 23 | [Lucki](http://twitter.com/search?q=Lucki) | N/A |
-| 24 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 25 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 26 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 27 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
-| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 29 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
-| 30 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
-| 31 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
-| 32 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 33 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 34 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 35 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 36 | [Québecor](http://twitter.com/search?q=Qu%c3%a9becor) | N/A |
-| 37 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 38 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
-| 39 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 40 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
-| 41 | [Bill Blair](http://twitter.com/search?q=Bill+Blair) | N/A |
-| 42 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 44 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 45 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 46 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 47 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 48 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
-| 49 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 50 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 10 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 11 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 12 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 13 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 14 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 15 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
+| 16 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 17 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
+| 18 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 19 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 20 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
+| 21 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 22 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
+| 23 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 24 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 25 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 26 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 27 | [Trudeaus](http://twitter.com/search?q=Trudeaus) | N/A |
+| 28 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 29 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 30 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 31 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 32 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
+| 33 | [#RandomActsofKindness](http://twitter.com/search?q=%23RandomActsofKindness) | N/A |
+| 34 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 35 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 36 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 37 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 38 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
+| 39 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
+| 40 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 41 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
+| 42 | [#onstorm](http://twitter.com/search?q=%23onstorm) | N/A |
 
 
 

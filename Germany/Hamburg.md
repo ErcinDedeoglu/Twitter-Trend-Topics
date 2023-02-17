@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-02-17 18:17:09 UTC`
+📆 Last Updated: `2023-02-17 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 3 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 5 | [#Trier](http://twitter.com/search?q=%23Trier) | N/A |
-| 6 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 7 | [#Fluechtlingsgipfel](http://twitter.com/search?q=%23Fluechtlingsgipfel) | N/A |
+| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 7 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 9 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 10 | [cassy](http://twitter.com/search?q=cassy) | N/A |
+| 9 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 10 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
 | 12 | [Tony Marshall](http://twitter.com/search?q=Tony+Marshall) | N/A |
-| 13 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
-| 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 15 | [Brösel](http://twitter.com/search?q=Br%c3%b6sel) | N/A |
-| 16 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 17 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 13 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 14 | [Brösel](http://twitter.com/search?q=Br%c3%b6sel) | N/A |
+| 15 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
+| 16 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 17 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
 | 18 | [Bestimmte Gruppen](http://twitter.com/search?q=Bestimmte+Gruppen) | N/A |
-| 19 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 20 | [Salate](http://twitter.com/search?q=Salate) | N/A |
-| 21 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 22 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 23 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 25 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 26 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
+| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 20 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 21 | [Salate](http://twitter.com/search?q=Salate) | N/A |
+| 22 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 23 | [Tobi](http://twitter.com/search?q=Tobi) | N/A |
+| 24 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 25 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
+| 26 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
 | 27 | [Nationalität](http://twitter.com/search?q=Nationalit%c3%a4t) | N/A |
-| 28 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 29 | [Munich Security Conference](http://twitter.com/search?q=Munich+Security+Conference) | N/A |
-| 30 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 31 | [Großfamilien](http://twitter.com/search?q=Gro%c3%9ffamilien) | N/A |
-| 32 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 28 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [Munich Security Conference](http://twitter.com/search?q=Munich+Security+Conference) | N/A |
+| 31 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 32 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
 | 33 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 34 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 35 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 36 | [Obst und Gemüse](http://twitter.com/search?q=Obst+und+Gem%c3%bcse) | N/A |
-| 37 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 39 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 40 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 41 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
-| 42 | [Warnschüsse](http://twitter.com/search?q=Warnsch%c3%bcsse) | N/A |
-| 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 44 | [Schöne Maid](http://twitter.com/search?q=Sch%c3%b6ne+Maid) | N/A |
-| 45 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 46 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 47 | [WE MISS U BIU](http://twitter.com/search?q=WE+MISS+U+BIU) | N/A |
-| 48 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 49 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 50 | [Helau](http://twitter.com/search?q=Helau) | N/A |
+| 34 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 35 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 36 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 37 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 38 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 39 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 40 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 41 | [Schöne Maid](http://twitter.com/search?q=Sch%c3%b6ne+Maid) | N/A |
+| 42 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
+| 43 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 44 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 46 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 47 | [Obst- und Gemüseabteilung](http://twitter.com/search?q=Obst-+und+Gem%c3%bcseabteilung) | N/A |
+| 48 | [Warnschüsse](http://twitter.com/search?q=Warnsch%c3%bcsse) | N/A |
+| 49 | [Großfamilien](http://twitter.com/search?q=Gro%c3%9ffamilien) | N/A |
+| 50 | [WE MISS U BIU](http://twitter.com/search?q=WE+MISS+U+BIU) | N/A |
 
 
 
