@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-17 16:16:58 UTC`
+📆 Last Updated: `2023-02-17 17:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#p1harmonyindallas](http://twitter.com/search?q=%23p1harmonyindallas) | N/A |
+| 1 | [#P1HarmonyinDallas](http://twitter.com/search?q=%23P1HarmonyinDallas) | N/A |
 | 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 | 3 | [#SELadultwellness](http://twitter.com/search?q=%23SELadultwellness) | N/A |
-| 4 | [#AldineConnected](http://twitter.com/search?q=%23AldineConnected) | N/A |
+| 4 | [#NCE2023](http://twitter.com/search?q=%23NCE2023) | N/A |
 | 5 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 6 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 7 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 10 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 11 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 12 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 14 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 18 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 19 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 20 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 21 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
-| 22 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 23 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 24 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 25 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
-| 26 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
-| 27 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 28 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 29 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
-| 30 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 31 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 32 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 33 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 34 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 35 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 36 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 37 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 38 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 39 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 40 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
-| 41 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 42 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 43 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
-| 44 | [OnStar](http://twitter.com/search?q=OnStar) | N/A |
-| 45 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 6 | [#AldineConnected](http://twitter.com/search?q=%23AldineConnected) | N/A |
+| 7 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 8 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 9 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 12 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 13 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 14 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 15 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 16 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 17 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 19 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 22 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 23 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 24 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 25 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 26 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 27 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
+| 28 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 29 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 30 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 31 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
+| 32 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 33 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 34 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 35 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 36 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 37 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 38 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
+| 39 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 40 | [OnStar](http://twitter.com/search?q=OnStar) | N/A |
+| 41 | [Coulter](http://twitter.com/search?q=Coulter) | N/A |
+| 42 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 43 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 44 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 45 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
 | 46 | [Happy Birthday to the GOAT](http://twitter.com/search?q=Happy+Birthday+to+the+GOAT) | N/A |
-| 47 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 48 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 49 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 50 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 47 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
+| 48 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 49 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 50 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
 
 
 

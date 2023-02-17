@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-17 16:17:11 UTC`
+📆 Last Updated: `2023-02-17 17:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
-| 2 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 4 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 5 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 6 | [Miraç](http://twitter.com/search?q=Mira%c3%a7) | N/A |
-| 7 | [Hakan Yasinoğlu](http://twitter.com/search?q=Hakan+Yasino%c4%9flu) | N/A |
+| 1 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
+| 2 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 3 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
+| 4 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 6 | [Hakan Yasinoğlu](http://twitter.com/search?q=Hakan+Yasino%c4%9flu) | N/A |
+| 7 | [ahlaksız davutoğlu](http://twitter.com/search?q=ahlaks%c4%b1z+davuto%c4%9flu) | N/A |
 | 8 | [Muhittin Kapanşahin](http://twitter.com/search?q=Muhittin+Kapan%c5%9fahin) | N/A |
-| 9 | [Ahlaksız Davutoğlu](http://twitter.com/search?q=Ahlaks%c4%b1z+Davuto%c4%9flu) | N/A |
+| 9 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
 | 10 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 11 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 12 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
-| 13 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 14 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 15 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 16 | [Mimarlık](http://twitter.com/search?q=Mimarl%c4%b1k) | N/A |
-| 17 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
-| 18 | [birlikte aşacağız](http://twitter.com/search?q=birlikte+a%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
-| 21 | [Akılları](http://twitter.com/search?q=Ak%c4%b1llar%c4%b1) | N/A |
-| 22 | [İlahiyat](http://twitter.com/search?q=%c4%b0lahiyat) | N/A |
-| 23 | [Evlat](http://twitter.com/search?q=Evlat) | N/A |
-| 24 | [Erol Özvar](http://twitter.com/search?q=Erol+%c3%96zvar) | N/A |
-| 25 | [26 Şubat Pazar](http://twitter.com/search?q=26+%c5%9eubat+Pazar) | N/A |
-| 26 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 27 | [Dekan](http://twitter.com/search?q=Dekan) | N/A |
-| 28 | [Karabük](http://twitter.com/search?q=Karab%c3%bck) | N/A |
-| 29 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
-| 30 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
-| 31 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 32 | [Liyakat](http://twitter.com/search?q=Liyakat) | N/A |
+| 11 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 12 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 13 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 14 | [Akılları](http://twitter.com/search?q=Ak%c4%b1llar%c4%b1) | N/A |
+| 15 | [Evlat](http://twitter.com/search?q=Evlat) | N/A |
+| 16 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 17 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 18 | [Dekan](http://twitter.com/search?q=Dekan) | N/A |
+| 19 | [Mimarlık](http://twitter.com/search?q=Mimarl%c4%b1k) | N/A |
+| 20 | [İlahiyat](http://twitter.com/search?q=%c4%b0lahiyat) | N/A |
+| 21 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
+| 22 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 25 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 26 | [Liyakat](http://twitter.com/search?q=Liyakat) | N/A |
+| 27 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
+| 28 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
+| 29 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
+| 30 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 31 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 32 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
 | 33 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 34 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 35 | [Transfer](http://twitter.com/search?q=Transfer) | N/A |
+| 34 | [Hibrit](http://twitter.com/search?q=Hibrit) | N/A |
+| 35 | [YÖK Başkanı](http://twitter.com/search?q=Y%c3%96K+Ba%c5%9fkan%c4%b1) | N/A |
 | 36 | [Yolun](http://twitter.com/search?q=Yolun) | N/A |
-| 37 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 38 | [yök başkanı](http://twitter.com/search?q=y%c3%b6k+ba%c5%9fkan%c4%b1) | N/A |
-| 39 | [zakharyan](http://twitter.com/search?q=zakharyan) | N/A |
-| 40 | [Mescid-i Haram'dan](http://twitter.com/search?q=Mescid-i+Haram%27dan) | N/A |
-| 41 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
-| 42 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 43 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 44 | [Erden](http://twitter.com/search?q=Erden) | N/A |
-| 45 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 46 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
-| 47 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 48 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
-| 49 | [#açıklama](http://twitter.com/search?q=%23a%c3%a7%c4%b1klama) | N/A |
-| 50 | [#HAPPYJHOPEDAY](http://twitter.com/search?q=%23HAPPYJHOPEDAY) | N/A |
+| 37 | [Transfer](http://twitter.com/search?q=Transfer) | N/A |
+| 38 | [Peygamber Efendimiz](http://twitter.com/search?q=Peygamber+Efendimiz) | N/A |
+| 39 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 40 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
+| 41 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 42 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 43 | [Erden](http://twitter.com/search?q=Erden) | N/A |
+| 44 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 45 | [Yüce Allah](http://twitter.com/search?q=Y%c3%bcce+Allah) | N/A |
+| 46 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
+| 47 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
+| 48 | [Erol Özvar](http://twitter.com/search?q=Erol+%c3%96zvar) | N/A |
+| 49 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
+| 50 | [Bilmukabele](http://twitter.com/search?q=Bilmukabele) | N/A |
 
 
 

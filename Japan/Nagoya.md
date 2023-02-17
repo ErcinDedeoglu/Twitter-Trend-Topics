@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-02-17 16:16:40 UTC`
+📆 Last Updated: `2023-02-17 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CE_02](http://twitter.com/search?q=%23CE_02) | N/A |
-| 2 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
-| 3 | [#KingandPrince](http://twitter.com/search?q=%23KingandPrince) | #KingandPrince is a hashtag used to promote the Japanese boy band King & Prince. The hashtag is used to share news, updates, and fan content related to the group. In English, it translates to "King and Prince". |
-| 4 | [コレイちゃん](http://twitter.com/search?q=%e3%82%b3%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 5 | [ディルック](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ab%e3%83%83%e3%82%af) | N/A |
-| 6 | [紫耀くん](http://twitter.com/search?q=%e7%b4%ab%e8%80%80%e3%81%8f%e3%82%93) | 紫耀くん is a character from the Japanese manga series, "Kuroko's Basketball". His real name is Aomine Daiki and he is known for his powerful and aggressive style of play. In English, his name translates to "Purple Glare". |
-| 7 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
-| 8 | [#岸優太](http://twitter.com/search?q=%23%e5%b2%b8%e5%84%aa%e5%a4%aa) | N/A |
-| 9 | [卒業発表](http://twitter.com/search?q=%e5%8d%92%e6%a5%ad%e7%99%ba%e8%a1%a8) | 卒業発表 is a graduation ceremony in Japan where graduating students present their achievements and future plans. In English, it is referred to as a graduation announcement or presentation. |
-| 10 | [アルベド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%99%e3%83%89) | N/A |
-| 11 | [#ハマダ歌謡祭](http://twitter.com/search?q=%23%e3%83%8f%e3%83%9e%e3%83%80%e6%ad%8c%e8%ac%a1%e7%a5%ad) | N/A |
-| 12 | [レアコレ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%82%b3%e3%83%ac) | N/A |
-| 13 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 14 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
-| 15 | [デコイチラシ](http://twitter.com/search?q=%e3%83%87%e3%82%b3%e3%82%a4%e3%83%81%e3%83%a9%e3%82%b7) | N/A |
-| 16 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 17 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 18 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
-| 19 | [フルーツ味](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%83%bc%e3%83%84%e5%91%b3) | N/A |
-| 20 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [カロリーメイト](http://twitter.com/search?q=%e3%82%ab%e3%83%ad%e3%83%aa%e3%83%bc%e3%83%a1%e3%82%a4%e3%83%88) | N/A |
-| 22 | [式守さん](http://twitter.com/search?q=%e5%bc%8f%e5%ae%88%e3%81%95%e3%82%93) | N/A |
-| 23 | [ドギョム](http://twitter.com/search?q=%e3%83%89%e3%82%ae%e3%83%a7%e3%83%a0) | N/A |
-| 24 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
-| 25 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 26 | [第393回](http://twitter.com/search?q=%e7%ac%ac393%e5%9b%9e) | N/A |
-| 27 | [くろ1周年](http://twitter.com/search?q=%e3%81%8f%e3%82%8d1%e5%91%a8%e5%b9%b4) | N/A |
-| 28 | [ホプミン](http://twitter.com/search?q=%e3%83%9b%e3%83%97%e3%83%9f%e3%83%b3) | N/A |
-| 29 | [アカーンルイア](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%bc%e3%83%b3%e3%83%ab%e3%82%a4%e3%82%a2) | N/A |
-| 30 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
-| 31 | [ジョンファン](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 32 | [ファニちゃん](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 2 | [ドギョム](http://twitter.com/search?q=%e3%83%89%e3%82%ae%e3%83%a7%e3%83%a0) | N/A |
+| 3 | [コレイちゃん](http://twitter.com/search?q=%e3%82%b3%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 4 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
+| 5 | [#Lifegoeson](http://twitter.com/search?q=%23Lifegoeson) | N/A |
+| 6 | [アルベド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%99%e3%83%89) | N/A |
+| 7 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 8 | [レアコレ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%82%b3%e3%83%ac) | N/A |
+| 9 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 10 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
+| 11 | [#Aぇgroup結成4周年](http://twitter.com/search?q=%23A%e3%81%87group%e7%b5%90%e6%88%904%e5%91%a8%e5%b9%b4) | N/A |
+| 12 | [#HAPPYJHOPEDAY](http://twitter.com/search?q=%23HAPPYJHOPEDAY) | N/A |
+| 13 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 14 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
+| 15 | [フルーツ味](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%83%bc%e3%83%84%e5%91%b3) | N/A |
+| 16 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [式守さん](http://twitter.com/search?q=%e5%bc%8f%e5%ae%88%e3%81%95%e3%82%93) | N/A |
+| 18 | [第393回](http://twitter.com/search?q=%e7%ac%ac393%e5%9b%9e) | N/A |
+| 19 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 20 | [NOPPOさん](http://twitter.com/search?q=NOPPO%e3%81%95%e3%82%93) | N/A |
+| 21 | [くろ1周年](http://twitter.com/search?q=%e3%81%8f%e3%82%8d1%e5%91%a8%e5%b9%b4) | N/A |
+| 22 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
+| 23 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 24 | [ホプミン](http://twitter.com/search?q=%e3%83%9b%e3%83%97%e3%83%9f%e3%83%b3) | N/A |
+| 25 | [アカーンルイア](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%bc%e3%83%b3%e3%83%ab%e3%82%a4%e3%82%a2) | N/A |
+| 26 | [生贄ちゃん生還](http://twitter.com/search?q=%e7%94%9f%e8%b4%84%e3%81%a1%e3%82%83%e3%82%93%e7%94%9f%e9%82%84) | N/A |
+| 27 | [Nissy](http://twitter.com/search?q=Nissy) | Nissy is a nickname for the Japanese singer and actor Naoya Nishida. It is derived from his given name, Naoya. |
+| 28 | [ウェザー](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%82%b6%e3%83%bc) | N/A |
+| 29 | [フェールセーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%bc%e3%83%ab%e3%82%bb%e3%83%bc%e3%83%95) | N/A |
+| 30 | [花嫁アクリルスタンドプレゼント企画中](http://twitter.com/search?q=%e8%8a%b1%e5%ab%81%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e4%bc%81%e7%94%bb%e4%b8%ad) | N/A |
+| 31 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
+| 32 | [ジョンファン](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
 | 33 | [セノくん](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e3%81%8f%e3%82%93) | N/A |
-| 34 | [魚住さん](http://twitter.com/search?q=%e9%ad%9a%e4%bd%8f%e3%81%95%e3%82%93) | N/A |
-| 35 | [魔神任務](http://twitter.com/search?q=%e9%ad%94%e7%a5%9e%e4%bb%bb%e5%8b%99) | N/A |
-| 36 | [草笛光子さん](http://twitter.com/search?q=%e8%8d%89%e7%ac%9b%e5%85%89%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 37 | [アザゼルさん](http://twitter.com/search?q=%e3%82%a2%e3%82%b6%e3%82%bc%e3%83%ab%e3%81%95%e3%82%93) | N/A |
-| 38 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
-| 39 | [ミニオン](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%aa%e3%83%b3) | N/A |
-| 40 | [ウェザー](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%82%b6%e3%83%bc) | N/A |
-| 41 | [バニラ味](http://twitter.com/search?q=%e3%83%90%e3%83%8b%e3%83%a9%e5%91%b3) | N/A |
-| 42 | [バーノン](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%8e%e3%83%b3) | N/A |
-| 43 | [フェールセーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%bc%e3%83%ab%e3%82%bb%e3%83%bc%e3%83%95) | N/A |
-| 44 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
-| 45 | [花嫁アクリルスタンドプレゼント企画中](http://twitter.com/search?q=%e8%8a%b1%e5%ab%81%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e4%bc%81%e7%94%bb%e4%b8%ad) | N/A |
-| 46 | [申鶴さん](http://twitter.com/search?q=%e7%94%b3%e9%b6%b4%e3%81%95%e3%82%93) | N/A |
-| 47 | [ふぁにちゃん](http://twitter.com/search?q=%e3%81%b5%e3%81%81%e3%81%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [Nissy](http://twitter.com/search?q=Nissy) | Nissy is a nickname for the Japanese singer and actor Naoya Nishida. It is derived from his given name, Naoya. |
-| 49 | [生贄ちゃん生還](http://twitter.com/search?q=%e7%94%9f%e8%b4%84%e3%81%a1%e3%82%83%e3%82%93%e7%94%9f%e9%82%84) | N/A |
-| 50 | [ショットガンシャッフル](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88%e3%82%ac%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%83%e3%83%95%e3%83%ab) | N/A |
+| 34 | [草笛光子さん](http://twitter.com/search?q=%e8%8d%89%e7%ac%9b%e5%85%89%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 35 | [バニラ味](http://twitter.com/search?q=%e3%83%90%e3%83%8b%e3%83%a9%e5%91%b3) | N/A |
+| 36 | [ファニちゃん](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [完結記念](http://twitter.com/search?q=%e5%ae%8c%e7%b5%90%e8%a8%98%e5%bf%b5) | N/A |
+| 38 | [魔神任務](http://twitter.com/search?q=%e9%ad%94%e7%a5%9e%e4%bb%bb%e5%8b%99) | N/A |
+| 39 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
+| 40 | [ショットガンシャッフル](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88%e3%82%ac%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%83%e3%83%95%e3%83%ab) | N/A |
+| 41 | [魚住さん](http://twitter.com/search?q=%e9%ad%9a%e4%bd%8f%e3%81%95%e3%82%93) | N/A |
+| 42 | [タップダンスシチー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%97%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b7%e3%83%81%e3%83%bc) | N/A |
+| 43 | [アザゼルさん](http://twitter.com/search?q=%e3%82%a2%e3%82%b6%e3%82%bc%e3%83%ab%e3%81%95%e3%82%93) | N/A |
+| 44 | [ミニオン](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%aa%e3%83%b3) | N/A |
+| 45 | [共同記者の質問](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e8%a8%98%e8%80%85%e3%81%ae%e8%b3%aa%e5%95%8f) | N/A |
+| 46 | [チャンミン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
+| 47 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 48 | [イグナッツ](http://twitter.com/search?q=%e3%82%a4%e3%82%b0%e3%83%8a%e3%83%83%e3%83%84) | N/A |
+| 49 | [申鶴さん](http://twitter.com/search?q=%e7%94%b3%e9%b6%b4%e3%81%95%e3%82%93) | N/A |
+| 50 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 

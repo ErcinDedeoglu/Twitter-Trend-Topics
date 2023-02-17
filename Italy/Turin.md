@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-17 16:16:34 UTC`
+📆 Last Updated: `2023-02-17 17:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Jore](http://twitter.com/search?q=Jore) | N/A |
-| 5 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 6 | [#festadelgatto](http://twitter.com/search?q=%23festadelgatto) | N/A |
-| 7 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 8 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 9 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 10 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 11 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 12 | [La Murgia](http://twitter.com/search?q=La+Murgia) | N/A |
-| 13 | [Michela](http://twitter.com/search?q=Michela) | N/A |
-| 14 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 15 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 16 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 17 | [Giordano Bruno](http://twitter.com/search?q=Giordano+Bruno) | N/A |
-| 18 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 19 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 20 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 21 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 22 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 23 | [GEDI](http://twitter.com/search?q=GEDI) | N/A |
-| 24 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
-| 25 | [#GiornataNazionaledelGatto](http://twitter.com/search?q=%23GiornataNazionaledelGatto) | N/A |
-| 26 | [#SFIGATTIDEL17](http://twitter.com/search?q=%23SFIGATTIDEL17) | N/A |
-| 27 | [#17febbraio](http://twitter.com/search?q=%2317febbraio) | N/A |
-| 28 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 29 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
-| 30 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 31 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 32 | [#giornatadelgatto](http://twitter.com/search?q=%23giornatadelgatto) | N/A |
-| 33 | [#giornatamondialedelgatto](http://twitter.com/search?q=%23giornatamondialedelgatto) | N/A |
-| 34 | [#venerdi17](http://twitter.com/search?q=%23venerdi17) | N/A |
-| 35 | [#MonzaMilan](http://twitter.com/search?q=%23MonzaMilan) | N/A |
-| 36 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 37 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 38 | [#MichaelJordan](http://twitter.com/search?q=%23MichaelJordan) | N/A |
-| 39 | [#SassuoloNapoli](http://twitter.com/search?q=%23SassuoloNapoli) | N/A |
-| 40 | [#ALBAOUTNOW](http://twitter.com/search?q=%23ALBAOUTNOW) | N/A |
-| 41 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
-| 42 | [#OperaFutura](http://twitter.com/search?q=%23OperaFutura) | N/A |
-| 43 | [#Delmastro](http://twitter.com/search?q=%23Delmastro) | N/A |
-| 44 | [#Pfizer](http://twitter.com/search?q=%23Pfizer) | N/A |
+| 1 | [#JuventusNantes](http://twitter.com/search?q=%23JuventusNantes) | N/A |
+| 2 | [#festadelgatto](http://twitter.com/search?q=%23festadelgatto) | N/A |
+| 3 | [#17febbraio](http://twitter.com/search?q=%2317febbraio) | N/A |
+| 4 | [#Superbonus](http://twitter.com/search?q=%23Superbonus) | N/A |
+| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 6 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 7 | [Jore](http://twitter.com/search?q=Jore) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 10 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 11 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 12 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 13 | [FACCIA DA PAPERA](http://twitter.com/search?q=FACCIA+DA+PAPERA) | N/A |
+| 14 | [Napo](http://twitter.com/search?q=Napo) | N/A |
+| 15 | [Giordano Bruno](http://twitter.com/search?q=Giordano+Bruno) | N/A |
+| 16 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 17 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 18 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 19 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 20 | [GEDI](http://twitter.com/search?q=GEDI) | N/A |
+| 21 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 22 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 23 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 24 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 25 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 26 | [L'arbitro](http://twitter.com/search?q=L%27arbitro) | N/A |
+| 27 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 28 | [Elia](http://twitter.com/search?q=Elia) | N/A |
+| 29 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 30 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 31 | [La Murgia](http://twitter.com/search?q=La+Murgia) | N/A |
+| 32 | [Francesco Monte](http://twitter.com/search?q=Francesco+Monte) | N/A |
+| 33 | [Pamela Prati](http://twitter.com/search?q=Pamela+Prati) | N/A |
+| 34 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 35 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 36 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 37 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 38 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 39 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 40 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 41 | [Faraone](http://twitter.com/search?q=Faraone) | N/A |
+| 42 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 43 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 44 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 45 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 46 | [Delmastro](http://twitter.com/search?q=Delmastro) | N/A |
+| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 48 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 49 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 50 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 
 
 
