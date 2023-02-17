@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-17 12:18:10 UTC`
+📆 Last Updated: `2023-02-17 13:21:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,27 +15,27 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WUNvWEL](http://twitter.com/search?q=%23WUNvWEL) | N/A |
-| 2 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
-| 3 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 4 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 5 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 6 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 7 | [Tom Blundell](http://twitter.com/search?q=Tom+Blundell) | N/A |
-| 8 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 9 | [#NZLvPOR](http://twitter.com/search?q=%23NZLvPOR) | N/A |
-| 10 | [Gisborne](http://twitter.com/search?q=Gisborne) | N/A |
+| 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 2 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 3 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 4 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 5 | [Tom Blundell](http://twitter.com/search?q=Tom+Blundell) | N/A |
+| 6 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 7 | [#WUNvWEL](http://twitter.com/search?q=%23WUNvWEL) | N/A |
+| 8 | [#NZLvPOR](http://twitter.com/search?q=%23NZLvPOR) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [gisborne](http://twitter.com/search?q=gisborne) | N/A |
 | 11 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 12 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 15 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
+| 14 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
+| 15 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
 | 16 | [Mike Hosking](http://twitter.com/search?q=Mike+Hosking) | N/A |
 | 17 | [Julie](http://twitter.com/search?q=Julie) | N/A |
 | 18 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
 | 19 | [tremain](http://twitter.com/search?q=tremain) | N/A |
 | 20 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
-| 21 | [Kuggeleijn](http://twitter.com/search?q=Kuggeleijn) | N/A |
+| 21 | [kuggeleijn](http://twitter.com/search?q=kuggeleijn) | N/A |
 | 22 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
 | 23 | [Muriwai](http://twitter.com/search?q=Muriwai) | N/A |
 | 24 | [esk valley](http://twitter.com/search?q=esk+valley) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for New Zealand
 | 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 43 | [Reti](http://twitter.com/search?q=Reti) | N/A |
 | 44 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 46 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
-| 47 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 48 | [NZ Herald](http://twitter.com/search?q=NZ+Herald) | N/A |
-| 49 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
-| 50 | [Ministry of Works](http://twitter.com/search?q=Ministry+of+Works) | N/A |
+| 45 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 46 | [NZ Herald](http://twitter.com/search?q=NZ+Herald) | N/A |
+| 47 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
+| 48 | [ministry of works](http://twitter.com/search?q=ministry+of+works) | N/A |
+| 49 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 50 | [HDPA](http://twitter.com/search?q=HDPA) | N/A |
 
 
 

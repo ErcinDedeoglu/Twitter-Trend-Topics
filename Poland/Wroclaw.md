@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-17 12:17:30 UTC`
+📆 Last Updated: `2023-02-17 13:20:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 2 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 3 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
-| 4 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
+| 4 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
 | 5 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
 | 6 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 7 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 8 | [Przeglądu Sportowego](http://twitter.com/search?q=Przegl%c4%85du+Sportowego) | N/A |
-| 9 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 10 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 11 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 12 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 13 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
-| 16 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 17 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 18 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
-| 21 | [wojewódzkiego](http://twitter.com/search?q=wojew%c3%b3dzkiego) | N/A |
-| 22 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 23 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 24 | [tłustego czwartku](http://twitter.com/search?q=t%c5%82ustego+czwartku) | N/A |
-| 25 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 26 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 27 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 28 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 29 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
-| 30 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 31 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 32 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 33 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [T-72](http://twitter.com/search?q=T-72) | N/A |
-| 36 | [LUDZKIE](http://twitter.com/search?q=LUDZKIE) | N/A |
-| 37 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 38 | [RODO](http://twitter.com/search?q=RODO) | N/A |
-| 39 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 40 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 7 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 8 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 9 | [Przegląd Sportowy](http://twitter.com/search?q=Przegl%c4%85d+Sportowy) | N/A |
+| 10 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
+| 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 12 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 13 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 14 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
+| 15 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 18 | [fat thursday](http://twitter.com/search?q=fat+thursday) | N/A |
+| 19 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 20 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 21 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 22 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 23 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 24 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
+| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 26 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 27 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
+| 28 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 29 | [tłustego czwartku](http://twitter.com/search?q=t%c5%82ustego+czwartku) | N/A |
+| 30 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
+| 31 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 32 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
+| 33 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
+| 34 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 35 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 36 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 37 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 38 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [Premium](http://twitter.com/search?q=Premium) | N/A |
 | 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
-| 43 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 44 | [paczków](http://twitter.com/search?q=paczk%c3%b3w) | N/A |
-| 45 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 47 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
-| 48 | [Żalek](http://twitter.com/search?q=%c5%bbalek) | N/A |
-| 49 | [magdy gessler](http://twitter.com/search?q=magdy+gessler) | N/A |
+| 42 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 43 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 44 | [Żalek](http://twitter.com/search?q=%c5%bbalek) | N/A |
+| 45 | [LUDZKIE](http://twitter.com/search?q=LUDZKIE) | N/A |
+| 46 | [Gessler](http://twitter.com/search?q=Gessler) | N/A |
+| 47 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
+| 48 | [Meksykiem](http://twitter.com/search?q=Meksykiem) | N/A |
+| 49 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
 
 
 

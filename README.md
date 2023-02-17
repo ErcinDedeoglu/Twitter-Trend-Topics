@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-17 12:17:17 UTC`
+📆 Last Updated: `2023-02-17 13:20:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#原神予告番組](http://twitter.com/search?q=%23%e5%8e%9f%e7%a5%9e%e4%ba%88%e5%91%8a%e7%95%aa%e7%b5%84) | #原神予告番組 is a hashtag used on social media to promote the upcoming anime series Genshin Impact. The English translation of this hashtag is "Genshin Impact Announcement Program". |
-| 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 4 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 5 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 6 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 7 | [デコイチラシ](http://twitter.com/search?q=%e3%83%87%e3%82%b3%e3%82%a4%e3%83%81%e3%83%a9%e3%82%b7) | N/A |
-| 8 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 9 | [ヨハンナ](http://twitter.com/search?q=%e3%83%a8%e3%83%8f%e3%83%b3%e3%83%8a) | ヨハンナ is a Japanese female given name. It is a variation of the name "Johanna" and can be translated to mean "God is gracious" in English. |
-| 10 | [コレイちゃん](http://twitter.com/search?q=%e3%82%b3%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 11 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
-| 12 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
-| 13 | [ジェジエウ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b8%e3%82%a8%e3%82%a6) | N/A |
-| 14 | [ポポラマーマ](http://twitter.com/search?q=%e3%83%9d%e3%83%9d%e3%83%a9%e3%83%9e%e3%83%bc%e3%83%9e) | N/A |
-| 15 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
-| 16 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 17 | [手書きの履歴書](http://twitter.com/search?q=%e6%89%8b%e6%9b%b8%e3%81%8d%e3%81%ae%e5%b1%a5%e6%ad%b4%e6%9b%b8) | N/A |
-| 18 | [岸くん髪](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%93%e9%ab%aa) | N/A |
-| 19 | [ウィンドブルーム祭](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%89%e3%83%96%e3%83%ab%e3%83%bc%e3%83%a0%e7%a5%ad) | N/A |
-| 20 | [マルシーニョ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%8b%e3%83%a7) | N/A |
-| 21 | [ラプラス](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e3%83%a9%e3%82%b9) | ラプラス is a Japanese word that means "laplace" or "laplacian". It is used to refer to a mathematical operator used in calculus and differential equations. In English, it is also known as the Laplace operator. |
-| 22 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
-| 23 | [FlokiGrow](http://twitter.com/search?q=FlokiGrow) | N/A |
-| 24 | [ティマイオス](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%9e%e3%82%a4%e3%82%aa%e3%82%b9) | N/A |
-| 25 | [アントマン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
-| 26 | [뉴뉴럿봉](http://twitter.com/search?q=%eb%89%b4%eb%89%b4%eb%9f%bf%eb%b4%89) | 뉴뉴럿봉 is a Korean slang term that is used to describe someone who is a newbie or inexperienced in something. It literally translates to "newbie bong" and is often used in a humorous way. |
-| 27 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 28 | [赤ザップ](http://twitter.com/search?q=%e8%b5%a4%e3%82%b6%e3%83%83%e3%83%97) | N/A |
-| 29 | [エウベル](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%99%e3%83%ab) | N/A |
-| 30 | [原神生放送](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e7%94%9f%e6%94%be%e9%80%81) | N/A |
-| 31 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 32 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 33 | [アルハイゼン司会](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3%e5%8f%b8%e4%bc%9a) | N/A |
-| 34 | [ぼくのピカチュウ](http://twitter.com/search?q=%e3%81%bc%e3%81%8f%e3%81%ae%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 35 | [Jリーグ](http://twitter.com/search?q=J%e3%83%aa%e3%83%bc%e3%82%b0) | Jリーグ is the top division of the Japan Professional Football League, commonly known as the J.League. It is the country's premier football competition and consists of 18 teams. The league was founded in 1992 and is currently sponsored by Meiji Yasuda Life Insurance Company. The English translation of Jリーグ is "J League". |
-| 36 | [Bora Amandinha](http://twitter.com/search?q=Bora+Amandinha) | N/A |
-| 37 | [birlikte aşacağız](http://twitter.com/search?q=birlikte+a%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 38 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 39 | [ティナリ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%8a%e3%83%aa) | N/A |
-| 40 | [マルミサ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%9f%e3%82%b5) | N/A |
-| 41 | [Carat](http://twitter.com/search?q=Carat) | Carat is a unit of measurement used to measure the weight of gemstones, such as diamonds. One carat is equal to 0.2 grams or 200 milligrams. It is also used to measure the purity of gold, with 24 carats being pure gold and lower carats indicating a lower percentage of gold in the alloy. |
-| 42 | [レッカル](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%82%ab%e3%83%ab) | N/A |
-| 43 | [アンバー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 44 | [マルコス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b3%e3%82%b9) | N/A |
-| 45 | [セノくん](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e3%81%8f%e3%82%93) | N/A |
-| 46 | [ソンリョン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%aa%e3%83%a7%e3%83%b3) | N/A |
-| 47 | [福岡地震](http://twitter.com/search?q=%e7%a6%8f%e5%b2%a1%e5%9c%b0%e9%9c%87) | N/A |
-| 48 | [瑞原さん](http://twitter.com/search?q=%e7%91%9e%e5%8e%9f%e3%81%95%e3%82%93) | 瑞原さん is a Japanese name. It is usually written in kanji as 瑞原, and can be translated to mean "auspicious beginning". |
-| 49 | [ピノキオピー](http://twitter.com/search?q=%e3%83%94%e3%83%8e%e3%82%ad%e3%82%aa%e3%83%94%e3%83%bc) | ピノキオピー is a Japanese children's song and nursery rhyme. The title translates to "Pinocchio Pea" in English. The song is about a pea that grows into a tree, and the lyrics tell the story of Pinocchio, who climbs the tree and falls asleep in its branches. |
-| 50 | [ダインスレイヴ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%ac%e3%82%a4%e3%83%b4) | N/A |
+| 1 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 2 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
+| 3 | [#原神予告番組](http://twitter.com/search?q=%23%e5%8e%9f%e7%a5%9e%e4%ba%88%e5%91%8a%e7%95%aa%e7%b5%84) | #原神予告番組 is a hashtag used on social media to promote the upcoming anime series Genshin Impact. The English translation of this hashtag is "Genshin Impact Announcement Program". |
+| 4 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
+| 5 | [#初スノ綴り](http://twitter.com/search?q=%23%e5%88%9d%e3%82%b9%e3%83%8e%e7%b6%b4%e3%82%8a) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 7 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 8 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
+| 10 | [セノくん](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e3%81%8f%e3%82%93) | N/A |
+| 11 | [魔神任務](http://twitter.com/search?q=%e9%ad%94%e7%a5%9e%e4%bb%bb%e5%8b%99) | N/A |
+| 12 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 13 | [アカーンルイア](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%bc%e3%83%b3%e3%83%ab%e3%82%a4%e3%82%a2) | N/A |
+| 14 | [ビーニー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%8b%e3%83%bc) | N/A |
+| 15 | [ティマイオス](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%9e%e3%82%a4%e3%82%aa%e3%82%b9) | N/A |
+| 16 | [申鶴さん](http://twitter.com/search?q=%e7%94%b3%e9%b6%b4%e3%81%95%e3%82%93) | N/A |
+| 17 | [虚空大戦](http://twitter.com/search?q=%e8%99%9a%e7%a9%ba%e5%a4%a7%e6%88%a6) | N/A |
+| 18 | [デコイチラシ](http://twitter.com/search?q=%e3%83%87%e3%82%b3%e3%82%a4%e3%83%81%e3%83%a9%e3%82%b7) | N/A |
+| 19 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 20 | [アルベド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%99%e3%83%89) | N/A |
+| 21 | [コレイちゃん](http://twitter.com/search?q=%e3%82%b3%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
+| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 24 | [綾華申鶴](http://twitter.com/search?q=%e7%b6%be%e8%8f%af%e7%94%b3%e9%b6%b4) | N/A |
+| 25 | [ミニオン](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%82%aa%e3%83%b3) | N/A |
+| 26 | [ダインとガイア](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%b3%e3%81%a8%e3%82%ac%e3%82%a4%e3%82%a2) | N/A |
+| 27 | [ヨハンナ](http://twitter.com/search?q=%e3%83%a8%e3%83%8f%e3%83%b3%e3%83%8a) | ヨハンナ is a Japanese female given name. It is a variation of the name "Johanna" and can be translated to mean "God is gracious" in English. |
+| 28 | [岸くん髪](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%93%e9%ab%aa) | N/A |
+| 29 | [セノ復刻](http://twitter.com/search?q=%e3%82%bb%e3%83%8e%e5%be%a9%e5%88%bb) | N/A |
+| 30 | [キノコン](http://twitter.com/search?q=%e3%82%ad%e3%83%8e%e3%82%b3%e3%83%b3) | N/A |
+| 31 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 32 | [ソロイベ](http://twitter.com/search?q=%e3%82%bd%e3%83%ad%e3%82%a4%e3%83%99) | N/A |
+| 33 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 34 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 35 | [ウィンドブルーム祭](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%89%e3%83%96%e3%83%ab%e3%83%bc%e3%83%a0%e7%a5%ad) | N/A |
+| 36 | [魔人任務](http://twitter.com/search?q=%e9%ad%94%e4%ba%ba%e4%bb%bb%e5%8b%99) | N/A |
+| 37 | [神宮寺くん](http://twitter.com/search?q=%e7%a5%9e%e5%ae%ae%e5%af%ba%e3%81%8f%e3%82%93) | N/A |
+| 38 | [デキャンタ](http://twitter.com/search?q=%e3%83%87%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%bf) | N/A |
+| 39 | [ダインスレイヴ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%ac%e3%82%a4%e3%83%b4) | N/A |
+| 40 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
+| 41 | [エレカシ](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%82%ab%e3%82%b7) | N/A |
+| 42 | [ポポラマーマ](http://twitter.com/search?q=%e3%83%9d%e3%83%9d%e3%83%a9%e3%83%9e%e3%83%bc%e3%83%9e) | N/A |
+| 43 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
+| 44 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 45 | [ジェジエウ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b8%e3%82%a8%e3%82%a6) | N/A |
+| 46 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
+| 47 | [紫耀くん](http://twitter.com/search?q=%e7%b4%ab%e8%80%80%e3%81%8f%e3%82%93) | 紫耀くん is a character from the Japanese manga series, "Kuroko's Basketball". His real name is Aomine Daiki and he is known for his powerful and aggressive style of play. In English, his name translates to "Purple Glare". |
+| 48 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 49 | [こんなにょ](http://twitter.com/search?q=%e3%81%93%e3%82%93%e3%81%aa%e3%81%ab%e3%82%87) | N/A |
+| 50 | [申鶴復刻](http://twitter.com/search?q=%e7%94%b3%e9%b6%b4%e5%be%a9%e5%88%bb) | N/A |
 
 
 
