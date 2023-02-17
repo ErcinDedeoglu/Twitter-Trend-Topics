@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-17 01:45:56 UTC`
+📆 Last Updated: `2023-02-17 02:42:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 6 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 7 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 8 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 9 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 10 | [Lionel Shriver](http://twitter.com/search?q=Lionel+Shriver) | N/A |
-| 11 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 9 | [Lionel Shriver](http://twitter.com/search?q=Lionel+Shriver) | N/A |
+| 10 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 11 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
 | 12 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 13 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
 | 14 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 15 | [#BBCQuestionTime](http://twitter.com/search?q=%23BBCQuestionTime) | N/A |
-| 16 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 17 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 18 | [Ruth Wishart](http://twitter.com/search?q=Ruth+Wishart) | N/A |
-| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 15 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 16 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 17 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 18 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 19 | [Ruth Wishart](http://twitter.com/search?q=Ruth+Wishart) | N/A |
 | 20 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
 | 21 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
 | 22 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 23 | [Stephen Kinnock](http://twitter.com/search?q=Stephen+Kinnock) | N/A |
 | 24 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 25 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
-| 26 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 27 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 29 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 25 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 26 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
+| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 29 | [Dami](http://twitter.com/search?q=Dami) | N/A |
 | 30 | [Lana and Ron](http://twitter.com/search?q=Lana+and+Ron) | Lana and Ron is a phrase used to refer to a couple in a romantic relationship. It is derived from the names of two popular characters in the television show, "Archer" - Lana Kane and Ron Cadillac. The phrase is often used as a term of endearment for couples who share a strong bond. |
-| 31 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 31 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
 | 32 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 33 | [Michael Smith](http://twitter.com/search?q=Michael+Smith) | Michael Smith is a common English name. It is derived from the Hebrew name "Mikha'el," which means "who is like God." |
-| 34 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 37 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 38 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 41 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 42 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 43 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 44 | [Paul Vaughan](http://twitter.com/search?q=Paul+Vaughan) | N/A |
-| 45 | [Myler](http://twitter.com/search?q=Myler) | N/A |
-| 46 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 47 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 48 | [St Paul](http://twitter.com/search?q=St+Paul) | N/A |
-| 49 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 33 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 34 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 35 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
+| 36 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 38 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 39 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 40 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 42 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 43 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 44 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 45 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 46 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
+| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 48 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 49 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 
 
 

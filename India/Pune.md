@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-02-17 01:46:40 UTC`
+📆 Last Updated: `2023-02-17 02:43:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SantRampalJi_36thBodhDiwas](http://twitter.com/search?q=%23SantRampalJi_36thBodhDiwas) | N/A |
-| 2 | [#OrganicFarmingTips](http://twitter.com/search?q=%23OrganicFarmingTips) | N/A |
-| 3 | [#தமிழினப்போராளி](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%a9%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%b0%e0%ae%be%e0%ae%b3%e0%ae%bf) | N/A |
-| 4 | [#தமிழைத்தேடி](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%88%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%bf) | N/A |
-| 5 | [#SwaraBhasker](http://twitter.com/search?q=%23SwaraBhasker) | N/A |
-| 6 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
-| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 12 | [कर्पूरी ठाकुर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%80+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
-| 13 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 14 | [swadeshi app easemytrip](http://twitter.com/search?q=swadeshi+app+easemytrip) | N/A |
-| 15 | [shame on ashwath narayan](http://twitter.com/search?q=shame+on+ashwath+narayan) | N/A |
-| 16 | [Air India](http://twitter.com/search?q=Air+India) | N/A |
-| 17 | [immediate action](http://twitter.com/search?q=immediate+action) | N/A |
-| 18 | [pocso act](http://twitter.com/search?q=pocso+act) | N/A |
-| 19 | [role of media](http://twitter.com/search?q=role+of+media) | N/A |
-| 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 21 | [ऋचा सिंह](http://twitter.com/search?q=%e0%a4%8b%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 22 | [फहद अहमद](http://twitter.com/search?q=%e0%a4%ab%e0%a4%b9%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 23 | [3Y OF HISTORIC WINNER SID](http://twitter.com/search?q=3Y+OF+HISTORIC+WINNER+SID) | N/A |
-| 24 | [Sushant Smile Infectious](http://twitter.com/search?q=Sushant+Smile+Infectious) | N/A |
-| 25 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 26 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 27 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 28 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 29 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 30 | [All Eyes On SSR Campaign](http://twitter.com/search?q=All+Eyes+On+SSR+Campaign) | N/A |
-| 31 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 32 | [शादी मुबारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 33 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 34 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 35 | [महंत राजू दास](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%a4+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 36 | [जीजा मुबारक](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 37 | [Shekar](http://twitter.com/search?q=Shekar) | N/A |
-| 38 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [Fridge](http://twitter.com/search?q=Fridge) | N/A |
-| 40 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 41 | [hickey](http://twitter.com/search?q=hickey) | N/A |
-| 42 | [कानपुर देहात](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a5%87%e0%a4%b9%e0%a4%be%e0%a4%a4) | N/A |
-| 43 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 44 | [Suitcase](http://twitter.com/search?q=Suitcase) | N/A |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 49 | [तिवारी मिश्रा](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 50 | [सनातन बोर्ड](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 2 | [#SantRampalJi_36thBodhDiwas](http://twitter.com/search?q=%23SantRampalJi_36thBodhDiwas) | N/A |
+| 3 | [#OrganicFarmingTips](http://twitter.com/search?q=%23OrganicFarmingTips) | N/A |
+| 4 | [#தமிழினப்போராளி](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%a9%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%b0%e0%ae%be%e0%ae%b3%e0%ae%bf) | N/A |
+| 5 | [#தமிழைத்தேடி](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%88%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%bf) | N/A |
+| 6 | [Videography Hui Thi](http://twitter.com/search?q=Videography+Hui+Thi) | N/A |
+| 7 | [कर्पूरी ठाकुर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%80+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
+| 8 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 10 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
+| 11 | [अमर वाणी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 14 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 15 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 16 | [विशाल भंडारे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 19 | [स्वामी प्रसाद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
+| 20 | [#ManaiFarmHouse](http://twitter.com/search?q=%23ManaiFarmHouse) | N/A |
+| 21 | [#HappyBirthdayKCR](http://twitter.com/search?q=%23HappyBirthdayKCR) | N/A |
+| 22 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 23 | [#HBDPrinceSK](http://twitter.com/search?q=%23HBDPrinceSK) | N/A |
+| 24 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 25 | [#HBDSivakarthikeyan](http://twitter.com/search?q=%23HBDSivakarthikeyan) | N/A |
+| 26 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 27 | [#जय_माता_दी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a5%80) | N/A |
+| 28 | [#nealmohan](http://twitter.com/search?q=%23nealmohan) | N/A |
+| 29 | [#Vaathi](http://twitter.com/search?q=%23Vaathi) | N/A |
+| 30 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
+| 31 | [#Ayalaan](http://twitter.com/search?q=%23Ayalaan) | N/A |
+| 32 | [#swarabhaskar](http://twitter.com/search?q=%23swarabhaskar) | N/A |
+| 33 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
+| 34 | [#BarcaMUFC](http://twitter.com/search?q=%23BarcaMUFC) | N/A |
+| 35 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 36 | [#Bakasuran](http://twitter.com/search?q=%23Bakasuran) | N/A |
+| 37 | [#Sapnagill](http://twitter.com/search?q=%23Sapnagill) | N/A |
+| 38 | [#Dhanush](http://twitter.com/search?q=%23Dhanush) | N/A |
+| 39 | [#VenkyAtluri](http://twitter.com/search?q=%23VenkyAtluri) | N/A |
 
 
 

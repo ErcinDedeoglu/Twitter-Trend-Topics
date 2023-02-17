@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-17 01:46:07 UTC`
+📆 Last Updated: `2023-02-17 02:43:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 2 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
-| 3 | [#BODLPO](http://twitter.com/search?q=%23BODLPO) | N/A |
+| 1 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
+| 2 | [#BODLPO](http://twitter.com/search?q=%23BODLPO) | N/A |
+| 3 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
 | 4 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
 | 5 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
 | 6 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 7 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
 | 9 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
 | 10 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
 | 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
@@ -35,13 +35,13 @@ This is top 50 for [Poland](</Poland>)
 | 18 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
 | 19 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 20 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
-| 21 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 22 | [faworki](http://twitter.com/search?q=faworki) | N/A |
-| 23 | [Gessler](http://twitter.com/search?q=Gessler) | N/A |
+| 21 | [faworki](http://twitter.com/search?q=faworki) | N/A |
+| 22 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 23 | [gessler](http://twitter.com/search?q=gessler) | N/A |
 | 24 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
 | 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 27 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 27 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
 | 28 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 29 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
 | 30 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
@@ -54,15 +54,15 @@ This is top 50 for [Poland](</Poland>)
 | 37 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
 | 38 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
 | 39 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 40 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 41 | [Paczków](http://twitter.com/search?q=Paczk%c3%b3w) | N/A |
+| 40 | [paczków](http://twitter.com/search?q=paczk%c3%b3w) | N/A |
+| 41 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
 | 42 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 43 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
 | 44 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 45 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 46 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
-| 47 | [Airly](http://twitter.com/search?q=Airly) | N/A |
-| 48 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
+| 45 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
+| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 47 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 48 | [Airly](http://twitter.com/search?q=Airly) | N/A |
 
 
 

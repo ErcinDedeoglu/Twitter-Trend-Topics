@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-17 01:46:57 UTC`
+📆 Last Updated: `2023-02-17 02:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Israel
 | 1 | [שרון גל](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%9f+%d7%92%d7%9c) | N/A |
 | 2 | [יום כיפור](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%9b%d7%99%d7%a4%d7%95%d7%a8) | N/A |
 | 3 | [#אלמוג_כהן_מטומטם](http://twitter.com/search?q=%23%d7%90%d7%9c%d7%9e%d7%95%d7%92_%d7%9b%d7%94%d7%9f_%d7%9e%d7%98%d7%95%d7%9e%d7%98%d7%9d) | N/A |
-| 4 | [אלי כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%9b%d7%94%d7%9f) | N/A |
-| 5 | [גביע המדינה](http://twitter.com/search?q=%d7%92%d7%91%d7%99%d7%a2+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 6 | [תל סאקי](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%a1%d7%90%d7%a7%d7%99) | N/A |
-| 7 | [הפועל ירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 8 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 9 | [של מכבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%9b%d7%91%d7%99) | N/A |
-| 10 | [תמיר פרדו](http://twitter.com/search?q=%d7%aa%d7%9e%d7%99%d7%a8+%d7%a4%d7%a8%d7%93%d7%95) | N/A |
-| 11 | [סטר יונייטד](http://twitter.com/search?q=%d7%a1%d7%98%d7%a8+%d7%99%d7%95%d7%a0%d7%99%d7%99%d7%98%d7%93) | N/A |
-| 12 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
-| 13 | [עם טנק](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%98%d7%a0%d7%a7) | N/A |
-| 14 | [רונן חנניה](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%97%d7%a0%d7%a0%d7%99%d7%94) | N/A |
+| 4 | [תל סאקי](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%a1%d7%90%d7%a7%d7%99) | N/A |
+| 5 | [אלי כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%9b%d7%94%d7%9f) | N/A |
+| 6 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
+| 7 | [סטר יונייטד](http://twitter.com/search?q=%d7%a1%d7%98%d7%a8+%d7%99%d7%95%d7%a0%d7%99%d7%99%d7%98%d7%93) | N/A |
+| 8 | [תמיר פרדו](http://twitter.com/search?q=%d7%aa%d7%9e%d7%99%d7%a8+%d7%a4%d7%a8%d7%93%d7%95) | N/A |
+| 9 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 10 | [עם טנק](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%98%d7%a0%d7%a7) | N/A |
+| 11 | [גביע המדינה](http://twitter.com/search?q=%d7%92%d7%91%d7%99%d7%a2+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 12 | [הפועל ירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 13 | [רונן חנניה](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%97%d7%a0%d7%a0%d7%99%d7%94) | N/A |
+| 14 | [המדינה של אבא](http://twitter.com/search?q=%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%a9%d7%9c+%d7%90%d7%91%d7%90) | N/A |
 | 15 | [של קטש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%98%d7%a9) | N/A |
-| 16 | [המדינה של אבא](http://twitter.com/search?q=%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%a9%d7%9c+%d7%90%d7%91%d7%90) | N/A |
-| 17 | [של ירושלים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 18 | [צפון השומרון](http://twitter.com/search?q=%d7%a6%d7%a4%d7%95%d7%9f+%d7%94%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%9f) | N/A |
-| 19 | [יואב לימור](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%9c%d7%99%d7%9e%d7%95%d7%a8) | N/A |
-| 20 | [OECD](http://twitter.com/search?q=OECD) | N/A |
-| 21 | [אביגדור קהלני](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%92%d7%93%d7%95%d7%a8+%d7%a7%d7%94%d7%9c%d7%a0%d7%99) | N/A |
-| 22 | [לה חסינות](http://twitter.com/search?q=%d7%9c%d7%94+%d7%97%d7%a1%d7%99%d7%a0%d7%95%d7%aa) | N/A |
-| 23 | [לו טלפון](http://twitter.com/search?q=%d7%9c%d7%95+%d7%98%d7%9c%d7%a4%d7%95%d7%9f) | N/A |
-| 24 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 25 | [אתר הנצחה](http://twitter.com/search?q=%d7%90%d7%aa%d7%a8+%d7%94%d7%a0%d7%a6%d7%97%d7%94) | N/A |
-| 26 | [גנב טנק](http://twitter.com/search?q=%d7%92%d7%a0%d7%91+%d7%98%d7%a0%d7%a7) | N/A |
-| 27 | [ראש המוסד](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
-| 28 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 29 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 30 | [מוביל טנקים](http://twitter.com/search?q=%d7%9e%d7%95%d7%91%d7%99%d7%9c+%d7%98%d7%a0%d7%a7%d7%99%d7%9d) | N/A |
-| 31 | [תמר מלכה](http://twitter.com/search?q=%d7%aa%d7%9e%d7%a8+%d7%9e%d7%9c%d7%9b%d7%94) | N/A |
-| 32 | [רק פקיד](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a4%d7%a7%d7%99%d7%93) | N/A |
-| 33 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
-| 34 | [נדב ארגמן](http://twitter.com/search?q=%d7%a0%d7%93%d7%91+%d7%90%d7%a8%d7%92%d7%9e%d7%9f) | N/A |
-| 35 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 16 | [צפון השומרון](http://twitter.com/search?q=%d7%a6%d7%a4%d7%95%d7%9f+%d7%94%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%9f) | N/A |
+| 17 | [יואב לימור](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%9c%d7%99%d7%9e%d7%95%d7%a8) | N/A |
+| 18 | [אביגדור קהלני](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%92%d7%93%d7%95%d7%a8+%d7%a7%d7%94%d7%9c%d7%a0%d7%99) | N/A |
+| 19 | [OECD](http://twitter.com/search?q=OECD) | N/A |
+| 20 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 21 | [לה חסינות](http://twitter.com/search?q=%d7%9c%d7%94+%d7%97%d7%a1%d7%99%d7%a0%d7%95%d7%aa) | N/A |
+| 22 | [לו טלפון](http://twitter.com/search?q=%d7%9c%d7%95+%d7%98%d7%9c%d7%a4%d7%95%d7%9f) | N/A |
+| 23 | [אתר הנצחה](http://twitter.com/search?q=%d7%90%d7%aa%d7%a8+%d7%94%d7%a0%d7%a6%d7%97%d7%94) | N/A |
+| 24 | [גנב טנק](http://twitter.com/search?q=%d7%92%d7%a0%d7%91+%d7%98%d7%a0%d7%a7) | N/A |
+| 25 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
+| 26 | [ראש המוסד](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
+| 27 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 28 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 29 | [מוביל טנקים](http://twitter.com/search?q=%d7%9e%d7%95%d7%91%d7%99%d7%9c+%d7%98%d7%a0%d7%a7%d7%99%d7%9d) | N/A |
+| 30 | [תמר מלכה](http://twitter.com/search?q=%d7%aa%d7%9e%d7%a8+%d7%9e%d7%9c%d7%9b%d7%94) | N/A |
+| 31 | [רק פקיד](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a4%d7%a7%d7%99%d7%93) | N/A |
+| 32 | [נגד האנושות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%90%d7%a0%d7%95%d7%a9%d7%95%d7%aa) | N/A |
+| 33 | [נדב ארגמן](http://twitter.com/search?q=%d7%a0%d7%93%d7%91+%d7%90%d7%a8%d7%92%d7%9e%d7%9f) | N/A |
+| 34 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 35 | [מפקח בניה](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%97+%d7%91%d7%a0%d7%99%d7%94) | N/A |
 | 36 | [עשן לבן](http://twitter.com/search?q=%d7%a2%d7%a9%d7%9f+%d7%9c%d7%91%d7%9f) | N/A |
-| 37 | [מפקח בניה](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%97+%d7%91%d7%a0%d7%99%d7%94) | N/A |
-| 38 | [בלי רשות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%a8%d7%a9%d7%95%d7%aa) | N/A |
-| 39 | [מטוס קרב](http://twitter.com/search?q=%d7%9e%d7%98%d7%95%d7%a1+%d7%a7%d7%a8%d7%91) | N/A |
-| 40 | [של שרקי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a8%d7%a7%d7%99) | N/A |
-| 41 | [גור האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%a8+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [עם ליברמן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
-| 44 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
-| 45 | [רונן בר](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%91%d7%a8) | N/A |
-| 46 | [יאיר שרקי](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a9%d7%a8%d7%a7%d7%99) | N/A |
-| 47 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
-| 48 | [נגיד בנק ישראל](http://twitter.com/search?q=%d7%a0%d7%92%d7%99%d7%93+%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 49 | [של נסראללה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%a1%d7%a8%d7%90%d7%9c%d7%9c%d7%94) | N/A |
-| 50 | [של ביטן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 37 | [בלי רשות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%a8%d7%a9%d7%95%d7%aa) | N/A |
+| 38 | [מטוס קרב](http://twitter.com/search?q=%d7%9e%d7%98%d7%95%d7%a1+%d7%a7%d7%a8%d7%91) | N/A |
+| 39 | [של שרקי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a8%d7%a7%d7%99) | N/A |
+| 40 | [גור האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%a8+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [עם ליברמן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 43 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
+| 44 | [רונן בר](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%91%d7%a8) | N/A |
+| 45 | [יאיר שרקי](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a9%d7%a8%d7%a7%d7%99) | N/A |
+| 46 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 47 | [נגיד בנק ישראל](http://twitter.com/search?q=%d7%a0%d7%92%d7%99%d7%93+%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 48 | [של נסראללה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%a1%d7%a8%d7%90%d7%9c%d7%9c%d7%94) | N/A |
+| 49 | [של ביטן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 50 | [#CryptoSafety](http://twitter.com/search?q=%23CryptoSafety) | N/A |
 
 
 

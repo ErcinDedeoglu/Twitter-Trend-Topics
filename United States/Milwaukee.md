@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-17 01:46:48 UTC`
+📆 Last Updated: `2023-02-17 02:43:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
-| 2 | [Hader](http://twitter.com/search?q=Hader) | N/A |
-| 3 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 4 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 6 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 7 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 8 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 9 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 11 | [Seized](http://twitter.com/search?q=Seized) | N/A |
-| 12 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 13 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 14 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 15 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
-| 16 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 17 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 18 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 19 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 20 | [#Walker](http://twitter.com/search?q=%23Walker) | N/A |
-| 21 | [#ranboowedding](http://twitter.com/search?q=%23ranboowedding) | N/A |
-| 22 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 23 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 24 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
-| 25 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 26 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 27 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 28 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 29 | [Marc Staal](http://twitter.com/search?q=Marc+Staal) | N/A |
-| 30 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 31 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
-| 32 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 33 | [Xfinity Center](http://twitter.com/search?q=Xfinity+Center) | N/A |
-| 34 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 35 | [Painter](http://twitter.com/search?q=Painter) | N/A |
-| 36 | [Happy Gilmore](http://twitter.com/search?q=Happy+Gilmore) | N/A |
-| 37 | [Colin White](http://twitter.com/search?q=Colin+White) | N/A |
-| 38 | [Depression](http://twitter.com/search?q=Depression) | N/A |
-| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 40 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 41 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 42 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 43 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
-| 44 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 45 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
-| 46 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
-| 47 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 48 | [Gillis](http://twitter.com/search?q=Gillis) | N/A |
-| 49 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 50 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
+| 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 2 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
+| 3 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 4 | [Hader](http://twitter.com/search?q=Hader) | N/A |
+| 5 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 7 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 8 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 9 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 10 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 11 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 12 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 13 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 14 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 15 | [#ranboowedding](http://twitter.com/search?q=%23ranboowedding) | N/A |
+| 16 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 17 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 18 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 19 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 20 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
+| 21 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 22 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 24 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 25 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 26 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
+| 27 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 28 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 29 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
+| 30 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 31 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 32 | [Lauzon](http://twitter.com/search?q=Lauzon) | N/A |
+| 33 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 34 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 35 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 36 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 37 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 38 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 39 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 40 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 41 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
+| 42 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 43 | [Happy Gilmore](http://twitter.com/search?q=Happy+Gilmore) | N/A |
+| 44 | [The Money Team](http://twitter.com/search?q=The+Money+Team) | N/A |
+| 45 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 46 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 47 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 48 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 49 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
+| 50 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
 
 
 
