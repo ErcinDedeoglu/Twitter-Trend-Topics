@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-17 15:16:52 UTC`
+📆 Last Updated: `2023-02-17 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,36 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 2 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 3 | [#KornoNoQueMuyMuy](http://twitter.com/search?q=%23KornoNoQueMuyMuy) | N/A |
+| 4 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 5 | [Guillermo González Camarena](http://twitter.com/search?q=Guillermo+Gonz%c3%a1lez+Camarena) | N/A |
-| 6 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 7 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 8 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 9 | [Aeromar](http://twitter.com/search?q=Aeromar) | N/A |
-| 10 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 11 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 12 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 6 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 7 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 8 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 9 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
+| 10 | [Línea 3](http://twitter.com/search?q=L%c3%adnea+3) | Línea 3 is a metro line in Mexico City. It is the third line of the Mexico City Metro system, and it runs from Indios Verdes to Universidad. In English, "Línea 3" translates to "Line 3". |
+| 11 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
+| 12 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 13 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
 | 14 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 17 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 18 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 19 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 20 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 21 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 24 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 25 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
-| 26 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 27 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [Línea 3](http://twitter.com/search?q=L%c3%adnea+3) | Línea 3 is a metro line in Mexico City. It is the third line of the Mexico City Metro system, and it runs from Indios Verdes to Universidad. In English, "Línea 3" translates to "Line 3". |
-| 30 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 31 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
-| 32 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
-| 33 | [César de Castro](http://twitter.com/search?q=C%c3%a9sar+de+Castro) | N/A |
-| 34 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
-| 35 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 36 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 37 | [Zambada](http://twitter.com/search?q=Zambada) | N/A |
-| 38 | [TE CALLAS Y ESCUCHAS](http://twitter.com/search?q=TE+CALLAS+Y+ESCUCHAS) | N/A |
-| 39 | [Comunicación Social](http://twitter.com/search?q=Comunicaci%c3%b3n+Social) | N/A |
-| 40 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 41 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
-| 42 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
-| 43 | [El 17](http://twitter.com/search?q=El+17) | N/A |
-| 44 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
-| 45 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 46 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 47 | [la feria de la unidad](http://twitter.com/search?q=la+feria+de+la+unidad) | N/A |
+| 15 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 16 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 17 | [#PoderosoElMásEscuchado](http://twitter.com/search?q=%23PoderosoElM%c3%a1sEscuchado) | N/A |
+| 18 | [#EscapaditaMañanera](http://twitter.com/search?q=%23EscapaditaMa%c3%b1anera) | N/A |
+| 19 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 20 | [#MichaelJordan](http://twitter.com/search?q=%23MichaelJordan) | N/A |
+| 21 | [#DíaDelInventorMexicano](http://twitter.com/search?q=%23D%c3%adaDelInventorMexicano) | N/A |
+| 22 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 23 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 24 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
+| 25 | [#CaminitoAlaEscuela](http://twitter.com/search?q=%23CaminitoAlaEscuela) | N/A |
+| 26 | [#YasminFueraDeLaSCJN](http://twitter.com/search?q=%23YasminFueraDeLaSCJN) | N/A |
+| 27 | [#MinistraPlagiaria](http://twitter.com/search?q=%23MinistraPlagiaria) | N/A |
+| 28 | [#MinistraPirata](http://twitter.com/search?q=%23MinistraPirata) | N/A |
+| 29 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 30 | [#CartelInmobiliario](http://twitter.com/search?q=%23CartelInmobiliario) | N/A |
 
 
 

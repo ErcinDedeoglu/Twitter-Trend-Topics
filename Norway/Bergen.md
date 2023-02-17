@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-17 15:17:05 UTC`
+📆 Last Updated: `2023-02-17 16:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 1 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 3 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
 | 4 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 5 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
@@ -27,42 +27,42 @@ This is top 50 for [Norway](</Norway>)
 | 10 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 11 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 12 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 14 | [Kjenner](http://twitter.com/search?q=Kjenner) | N/A |
-| 15 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
-| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 17 | [raudt](http://twitter.com/search?q=raudt) | N/A |
-| 18 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 13 | [Kjenner](http://twitter.com/search?q=Kjenner) | N/A |
+| 14 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 16 | [raudt](http://twitter.com/search?q=raudt) | N/A |
+| 17 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 18 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
 | 19 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 | 20 | [lundteigen](http://twitter.com/search?q=lundteigen) | N/A |
-| 21 | [Zelenskyj](http://twitter.com/search?q=Zelenskyj) | N/A |
-| 22 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 23 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 24 | [europa league](http://twitter.com/search?q=europa+league) | N/A |
-| 25 | [USAs](http://twitter.com/search?q=USAs) | N/A |
-| 26 | [rema 1000](http://twitter.com/search?q=rema+1000) | N/A |
-| 27 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
+| 21 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
+| 22 | [Zelenskyj](http://twitter.com/search?q=Zelenskyj) | N/A |
+| 23 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 25 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 26 | [USAs](http://twitter.com/search?q=USAs) | N/A |
+| 27 | [rema 1000](http://twitter.com/search?q=rema+1000) | N/A |
 | 28 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
 | 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 31 | [Rystad](http://twitter.com/search?q=Rystad) | N/A |
-| 32 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 33 | [Frelsesarmeen](http://twitter.com/search?q=Frelsesarmeen) | N/A |
-| 34 | [#ESNsykkel](http://twitter.com/search?q=%23ESNsykkel) | N/A |
-| 35 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 36 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 37 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 38 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 39 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 40 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
-| 41 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 42 | [Samtidig](http://twitter.com/search?q=Samtidig) | N/A |
-| 43 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 44 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 47 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 48 | [nora haukland](http://twitter.com/search?q=nora+haukland) | N/A |
+| 31 | [rystad](http://twitter.com/search?q=rystad) | N/A |
+| 32 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 34 | [Frelsesarmeen](http://twitter.com/search?q=Frelsesarmeen) | N/A |
+| 35 | [#ESNsykkel](http://twitter.com/search?q=%23ESNsykkel) | N/A |
+| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 37 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 38 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 40 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 41 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
+| 42 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 43 | [Samtidig](http://twitter.com/search?q=Samtidig) | N/A |
+| 44 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 45 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 47 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 48 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 
 
 

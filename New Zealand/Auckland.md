@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-17 15:17:26 UTC`
+📆 Last Updated: `2023-02-17 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,22 +16,22 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 2 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 3 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [Tom Blundell](http://twitter.com/search?q=Tom+Blundell) | N/A |
+| 2 | [napier](http://twitter.com/search?q=napier) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 5 | [tom blundell](http://twitter.com/search?q=tom+blundell) | N/A |
 | 6 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
 | 7 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
 | 8 | [#WUNvWEL](http://twitter.com/search?q=%23WUNvWEL) | N/A |
-| 9 | [#nzlvpor](http://twitter.com/search?q=%23nzlvpor) | N/A |
+| 9 | [#NZLvPOR](http://twitter.com/search?q=%23NZLvPOR) | N/A |
 | 10 | [Gisborne](http://twitter.com/search?q=Gisborne) | N/A |
 | 11 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 12 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 14 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
-| 15 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
+| 15 | [Mike Hosking](http://twitter.com/search?q=Mike+Hosking) | N/A |
 | 16 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 17 | [tremain](http://twitter.com/search?q=tremain) | N/A |
+| 17 | [Tremain](http://twitter.com/search?q=Tremain) | N/A |
 | 18 | [Julie](http://twitter.com/search?q=Julie) | N/A |
 | 19 | [Cyclone Gabrielle](http://twitter.com/search?q=Cyclone+Gabrielle) | N/A |
 | 20 | [Kuggeleijn](http://twitter.com/search?q=Kuggeleijn) | N/A |
@@ -46,9 +46,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 29 | [Fijian](http://twitter.com/search?q=Fijian) | N/A |
 | 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 31 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 32 | [Bay Oval](http://twitter.com/search?q=Bay+Oval) | N/A |
+| 32 | [bay oval](http://twitter.com/search?q=bay+oval) | N/A |
 | 33 | [East Coast](http://twitter.com/search?q=East+Coast) | East Coast is a term used to refer to the eastern seaboard of the United States, stretching from Maine in the north to Florida in the south. It is home to some of the most populous and influential cities in the country, including New York City, Boston, Philadelphia, and Washington D.C. The East Coast is known for its rich history, culture, and diverse population. |
-| 34 | [Wairoa](http://twitter.com/search?q=Wairoa) | N/A |
+| 34 | [wairoa](http://twitter.com/search?q=wairoa) | N/A |
 | 35 | [Tairāwhiti](http://twitter.com/search?q=Tair%c4%81whiti) | N/A |
 | 36 | [Heather](http://twitter.com/search?q=Heather) | N/A |
 | 37 | [Eileen](http://twitter.com/search?q=Eileen) | N/A |
@@ -62,8 +62,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 45 | [nz herald](http://twitter.com/search?q=nz+herald) | N/A |
 | 46 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
 | 47 | [ministry of works](http://twitter.com/search?q=ministry+of+works) | N/A |
-| 48 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 49 | [HDPA](http://twitter.com/search?q=HDPA) | N/A |
+| 48 | [hdpa](http://twitter.com/search?q=hdpa) | N/A |
+| 49 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 

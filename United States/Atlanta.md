@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-17 15:17:26 UTC`
+📆 Last Updated: `2023-02-17 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 6 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 7 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 8 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 10 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 11 | [#NationalCaregiversDay](http://twitter.com/search?q=%23NationalCaregiversDay) | N/A |
-| 12 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 13 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 15 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 16 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 17 | [Angelo Cataldi](http://twitter.com/search?q=Angelo+Cataldi) | N/A |
-| 18 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 19 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
-| 20 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 21 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 22 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
-| 23 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 24 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 5 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 7 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 8 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 10 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 15 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 16 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 17 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 18 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 19 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
+| 20 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 21 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 22 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 23 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
+| 24 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
 | 25 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 26 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
-| 27 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
-| 28 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 29 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
-| 30 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 31 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 32 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 33 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 34 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 35 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 36 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 37 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 38 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 39 | [Super Chump](http://twitter.com/search?q=Super+Chump) | N/A |
-| 40 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 41 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
-| 42 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 43 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 44 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
-| 45 | [College Baseball](http://twitter.com/search?q=College+Baseball) | N/A |
-| 46 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
-| 47 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 48 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 49 | [Sidney Powell](http://twitter.com/search?q=Sidney+Powell) | N/A |
+| 26 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 27 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
+| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 29 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 30 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 31 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 32 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 33 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 34 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 35 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 36 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 37 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
+| 38 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
+| 39 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 40 | [Happy Birthday MJ](http://twitter.com/search?q=Happy+Birthday+MJ) | N/A |
+| 41 | [OnStar](http://twitter.com/search?q=OnStar) | N/A |
+| 42 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 43 | [Happy Birthday to the GOAT](http://twitter.com/search?q=Happy+Birthday+to+the+GOAT) | N/A |
+| 44 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 45 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 46 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 47 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 48 | [Harpootlian](http://twitter.com/search?q=Harpootlian) | N/A |
+| 49 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
 
 
 
