@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-16 23:17:26 UTC`
+📆 Last Updated: `2023-02-17 00:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,23 +17,21 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [беларусью](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c%d1%8e) | N/A |
 | 2 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 3 | [александр лукашенко](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80+%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 4 | [#EPTParis](http://twitter.com/search?q=%23EPTParis) | N/A |
+| 3 | [#EPTParis](http://twitter.com/search?q=%23EPTParis) | N/A |
+| 4 | [александр лукашенко](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80+%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 5 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
 | 6 | [Афганистане](http://twitter.com/search?q=%d0%90%d1%84%d0%b3%d0%b0%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd%d0%b5) | N/A |
 | 7 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 8 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 9 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 10 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 11 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 12 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 9 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 10 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 11 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 12 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 13 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 14 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 15 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 14 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 15 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 16 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 17 | [Хэ Сюань](http://twitter.com/search?q=%d0%a5%d1%8d+%d0%a1%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 18 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 19 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 17 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 
 
 

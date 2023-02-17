@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-16 23:17:26 UTC`
+📆 Last Updated: `2023-02-17 00:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Austria
 | 7 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
 | 8 | [Loge](http://twitter.com/search?q=Loge) | N/A |
 | 9 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 10 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
-| 11 | [Alfons Haider](http://twitter.com/search?q=Alfons+Haider) | N/A |
+| 10 | [Alfons Haider](http://twitter.com/search?q=Alfons+Haider) | N/A |
+| 11 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
 | 12 | [#SALROM](http://twitter.com/search?q=%23SALROM) | N/A |
 | 13 | [#w1602](http://twitter.com/search?q=%23w1602) | N/A |
-| 14 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 14 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 | 15 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 16 | [Traumata](http://twitter.com/search?q=Traumata) | N/A |
-| 17 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 18 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 19 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
-| 20 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
-| 21 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 22 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 16 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 17 | [Traumata](http://twitter.com/search?q=Traumata) | N/A |
+| 18 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
+| 19 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 20 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 21 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 22 | [#teilzeit](http://twitter.com/search?q=%23teilzeit) | N/A |
 | 23 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 24 | [Michael Nikbakhsh](http://twitter.com/search?q=Michael+Nikbakhsh) | N/A |
-| 25 | [#Sobotka](http://twitter.com/search?q=%23Sobotka) | N/A |
-| 26 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 27 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 28 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
-| 29 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 24 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 25 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 26 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 27 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 28 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 29 | [Versicherung](http://twitter.com/search?q=Versicherung) | N/A |
 | 30 | [Friede in Europa](http://twitter.com/search?q=Friede+in+Europa) | N/A |
-| 31 | [Wunden](http://twitter.com/search?q=Wunden) | N/A |
-| 32 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 33 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 34 | [Versicherung](http://twitter.com/search?q=Versicherung) | N/A |
-| 35 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 36 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
-| 37 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 38 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 39 | [dialogprozess](http://twitter.com/search?q=dialogprozess) | N/A |
-| 40 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 41 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 42 | [resetarits](http://twitter.com/search?q=resetarits) | N/A |
-| 43 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
-| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 45 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 46 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 47 | [Outfit](http://twitter.com/search?q=Outfit) | N/A |
-| 48 | [Zugang](http://twitter.com/search?q=Zugang) | N/A |
-| 49 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 50 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 31 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 32 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 33 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
+| 34 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 35 | [Wunden](http://twitter.com/search?q=Wunden) | N/A |
+| 36 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 37 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
+| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 39 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 40 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 41 | [Outfit](http://twitter.com/search?q=Outfit) | N/A |
+| 42 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 43 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 44 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 46 | [Güte](http://twitter.com/search?q=G%c3%bcte) | N/A |
+| 47 | [Außerdem](http://twitter.com/search?q=Au%c3%9ferdem) | N/A |
+| 48 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
+| 49 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 50 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 
 
 

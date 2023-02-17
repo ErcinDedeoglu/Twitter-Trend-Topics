@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-16 23:16:56 UTC`
+📆 Last Updated: `2023-02-17 00:29:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 2 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 3 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 4 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 5 | [#EspecialJugones](http://twitter.com/search?q=%23EspecialJugones) | N/A |
-| 6 | [Brizuela](http://twitter.com/search?q=Brizuela) | N/A |
-| 7 | [#FirstDates16F](http://twitter.com/search?q=%23FirstDates16F) | N/A |
-| 8 | [Saras](http://twitter.com/search?q=Saras) | N/A |
-| 9 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
-| 10 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [#Murgas3LPGC](http://twitter.com/search?q=%23Murgas3LPGC) | N/A |
-| 13 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 14 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
-| 15 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
-| 16 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 17 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 18 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 19 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
-| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 1 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 2 | [#EspecialJugones](http://twitter.com/search?q=%23EspecialJugones) | N/A |
+| 3 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
+| 4 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
+| 5 | [#Murgas3LPGC](http://twitter.com/search?q=%23Murgas3LPGC) | N/A |
+| 6 | [Saras](http://twitter.com/search?q=Saras) | N/A |
+| 7 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 8 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
+| 9 | [Brizuela](http://twitter.com/search?q=Brizuela) | N/A |
+| 10 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 11 | [#OtroBaileMásFlavio](http://twitter.com/search?q=%23OtroBaileM%c3%a1sFlavio) | N/A |
+| 12 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 13 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 15 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
+| 16 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 17 | [Pedro Bravo](http://twitter.com/search?q=Pedro+Bravo) | N/A |
+| 18 | [Will Thomas](http://twitter.com/search?q=Will+Thomas) | N/A |
+| 19 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 20 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 22 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 23 | [Will Thomas](http://twitter.com/search?q=Will+Thomas) | N/A |
-| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 26 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 27 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 28 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 29 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 30 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 31 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 32 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 33 | [Silvina](http://twitter.com/search?q=Silvina) | N/A |
-| 34 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 35 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 36 | [Badé](http://twitter.com/search?q=Bad%c3%a9) | Badé is a Yoruba word that means “to come” or “to arrive”. It is often used as a greeting to welcome someone or to express joy at their arrival. |
+| 23 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 24 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [Mirotic](http://twitter.com/search?q=Mirotic) | Mirotic is a K-pop song by South Korean boy band, TVXQ. The title of the song is derived from the Spanish word "miro" which means "I look". The song is about a man who is in love with a woman and wants to show her how much he loves her. The lyrics express his feelings of admiration and longing for her. |
+| 27 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 28 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 29 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 30 | [Silvina](http://twitter.com/search?q=Silvina) | N/A |
+| 31 | [Badé](http://twitter.com/search?q=Bad%c3%a9) | Badé is a Yoruba word that means “to come” or “to arrive”. It is often used as a greeting to welcome someone or to express joy at their arrival. |
+| 32 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 33 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 34 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 35 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
+| 36 | [Lapro](http://twitter.com/search?q=Lapro) | N/A |
 | 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 38 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 39 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 40 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 41 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
-| 42 | [Lapro](http://twitter.com/search?q=Lapro) | N/A |
-| 43 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 44 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 45 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
-| 46 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 47 | [Mirotic](http://twitter.com/search?q=Mirotic) | Mirotic is a K-pop song by South Korean boy band, TVXQ. The title of the song is derived from the Spanish word "miro" which means "I look". The song is about a man who is in love with a woman and wants to show her how much he loves her. The lyrics express his feelings of admiration and longing for her. |
-| 48 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 49 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 38 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 39 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
+| 40 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
+| 41 | [Pedrerol](http://twitter.com/search?q=Pedrerol) | N/A |
+| 42 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 44 | [Fouto](http://twitter.com/search?q=Fouto) | N/A |
+| 45 | [Eindhoven](http://twitter.com/search?q=Eindhoven) | N/A |
+| 46 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 48 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 49 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
 | 50 | [El PSV](http://twitter.com/search?q=El+PSV) | N/A |
 
 

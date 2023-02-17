@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-16 23:16:49 UTC`
+📆 Last Updated: `2023-02-17 00:29:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 2 | [Adriana](http://twitter.com/search?q=Adriana) | N/A |
-| 3 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
-| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 5 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 6 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
-| 7 | [Quaquá](http://twitter.com/search?q=Quaqu%c3%a1) | N/A |
-| 8 | [Jovem Pan](http://twitter.com/search?q=Jovem+Pan) | N/A |
-| 9 | [UM MES DE GUSKEY](http://twitter.com/search?q=UM+MES+DE+GUSKEY) | N/A |
-| 10 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
-| 11 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 12 | [UM MES BRULARI](http://twitter.com/search?q=UM+MES+BRULARI) | N/A |
-| 13 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 14 | [#PipocadaIvete](http://twitter.com/search?q=%23PipocadaIvete) | N/A |
-| 15 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 16 | [UM MES COM KEY](http://twitter.com/search?q=UM+MES+COM+KEY) | N/A |
-| 17 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
-| 18 | [Debinha](http://twitter.com/search?q=Debinha) | Debinha is a Portuguese nickname meaning “little Deborah”. It is a diminutive form of the name Deborah, which is derived from the Hebrew word for “bee”. |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
-| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 24 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 25 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 27 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 28 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 29 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
-| 30 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 33 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 34 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 35 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
-| 36 | [Felipe Jonathan](http://twitter.com/search?q=Felipe+Jonathan) | N/A |
-| 37 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 38 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 39 | [Melancia](http://twitter.com/search?q=Melancia) | N/A |
-| 40 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 41 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 42 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 43 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 44 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 45 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 46 | [Daniela Lima](http://twitter.com/search?q=Daniela+Lima) | N/A |
-| 47 | [Xodó](http://twitter.com/search?q=Xod%c3%b3) | N/A |
-| 48 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 49 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
+| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 2 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 3 | [Lisca](http://twitter.com/search?q=Lisca) | N/A |
+| 4 | [Maionese](http://twitter.com/search?q=Maionese) | N/A |
+| 5 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 6 | [Neo Química Arena](http://twitter.com/search?q=Neo+Qu%c3%admica+Arena) | N/A |
+| 7 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 8 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 9 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
+| 10 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 11 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 12 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 14 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 15 | [Adriana](http://twitter.com/search?q=Adriana) | N/A |
+| 16 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 17 | [Maria Isabel](http://twitter.com/search?q=Maria+Isabel) | N/A |
+| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 20 | [Maria Helena](http://twitter.com/search?q=Maria+Helena) | N/A |
+| 21 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 22 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 23 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 24 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 25 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 26 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 27 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 28 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 29 | [UM MES BRULARI](http://twitter.com/search?q=UM+MES+BRULARI) | N/A |
+| 30 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 31 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
+| 32 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
+| 33 | [Adryelson](http://twitter.com/search?q=Adryelson) | N/A |
+| 34 | [Barros](http://twitter.com/search?q=Barros) | N/A |
+| 35 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | Santo André is a municipality in the state of São Paulo, Brazil. The name Santo André is derived from the Portuguese phrase for Saint Andrew, the patron saint of fishermen. In English, Santo André translates to Saint Andrew. |
+| 36 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 37 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 38 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 39 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
+| 40 | [UM MES COM KEY](http://twitter.com/search?q=UM+MES+COM+KEY) | N/A |
+| 41 | [OUÇA EP 2 SEM TE DO](http://twitter.com/search?q=OU%c3%87A+EP+2+SEM+TE+DO) | N/A |
+| 42 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 43 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 44 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
+| 45 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 46 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 47 | [#VASXBOT](http://twitter.com/search?q=%23VASXBOT) | N/A |
+| 48 | [Sandry](http://twitter.com/search?q=Sandry) | N/A |
+| 49 | [#TBJU](http://twitter.com/search?q=%23TBJU) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lviv
 
-📆 Last Updated: `2023-02-16 23:16:58 UTC`
+📆 Last Updated: `2023-02-17 00:29:29 UTC`
 
 🔧 Updated every 1 hour!
 

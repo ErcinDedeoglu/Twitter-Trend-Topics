@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-16 23:17:33 UTC`
+📆 Last Updated: `2023-02-17 00:30:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BUIlDINBLACK](http://twitter.com/search?q=%23BUIlDINBLACK) | N/A |
-| 2 | [#MemoriesWithBuild](http://twitter.com/search?q=%23MemoriesWithBuild) | N/A |
+| 1 | [#MemoriesWithBuild](http://twitter.com/search?q=%23MemoriesWithBuild) | N/A |
+| 2 | [#BUIlDINBLACK](http://twitter.com/search?q=%23BUIlDINBLACK) | N/A |
 | 3 | [OUR LUVE FOR BIU](http://twitter.com/search?q=OUR+LUVE+FOR+BIU) | N/A |
 | 4 | [#ZeePruk](http://twitter.com/search?q=%23ZeePruk) | N/A |
 | 5 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
 | 6 | [#CoinEx](http://twitter.com/search?q=%23CoinEx) | N/A |
 | 7 | [núi cup đợi jin ôm về nhà](http://twitter.com/search?q=n%c3%bai+cup+%c4%91%e1%bb%a3i+jin+%c3%b4m+v%e1%bb%81+nh%c3%a0) | N/A |
-| 8 | [$OLE](http://twitter.com/search?q=%24OLE) | N/A |
-| 9 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 8 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
+| 9 | [$ole](http://twitter.com/search?q=%24ole) | N/A |
 | 10 | [build got pete role on his own](http://twitter.com/search?q=build+got+pete+role+on+his+own) | N/A |
 | 11 | [$BLUR](http://twitter.com/search?q=%24BLUR) | N/A |
-| 12 | [công](http://twitter.com/search?q=c%c3%b4ng) | N/A |
-| 13 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 14 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 15 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 16 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 17 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
-| 18 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 21 | [Huobi](http://twitter.com/search?q=Huobi) | N/A |
-| 22 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 24 | [Massage in Riyadh](http://twitter.com/search?q=Massage+in+Riyadh) | N/A |
-| 25 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
-| 26 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 27 | [$NFTY](http://twitter.com/search?q=%24NFTY) | N/A |
-| 28 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 29 | [P'Fa](http://twitter.com/search?q=P%27Fa) | N/A |
-| 30 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
-| 31 | [C3 Waitlist](http://twitter.com/search?q=C3+Waitlist) | N/A |
-| 32 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 33 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
-| 34 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 35 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 37 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 38 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 39 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 40 | [$MATIC](http://twitter.com/search?q=%24MATIC) | N/A |
-| 41 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 42 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 44 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 45 | [Fantom](http://twitter.com/search?q=Fantom) | N/A |
-| 46 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
-| 47 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
-| 48 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 49 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 50 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
+| 12 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 13 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 14 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 15 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 18 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
+| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 20 | [Huobi](http://twitter.com/search?q=Huobi) | N/A |
+| 21 | [$LIQD](http://twitter.com/search?q=%24LIQD) | N/A |
+| 22 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 23 | [$NFTY](http://twitter.com/search?q=%24NFTY) | N/A |
+| 24 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 25 | [P'Fa](http://twitter.com/search?q=P%27Fa) | N/A |
+| 26 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
+| 27 | [c3 waitlist](http://twitter.com/search?q=c3+waitlist) | N/A |
+| 28 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 29 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 30 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 31 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 32 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 33 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 34 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 35 | [$MATIC](http://twitter.com/search?q=%24MATIC) | N/A |
+| 36 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 37 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 38 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
+| 39 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
+| 40 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
+| 41 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 42 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 43 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 46 | [Fantom](http://twitter.com/search?q=Fantom) | N/A |
+| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 48 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 49 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 50 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 
 
 

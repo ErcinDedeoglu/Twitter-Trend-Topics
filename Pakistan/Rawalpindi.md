@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-16 23:17:13 UTC`
+📆 Last Updated: `2023-02-17 00:29:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 11 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
 | 12 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 13 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
+| 13 | [rs 145 to rs 280](http://twitter.com/search?q=rs+145+to+rs+280) | N/A |
 | 14 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
 | 15 | [deception is not](http://twitter.com/search?q=deception+is+not) | N/A |
-| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 16 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
 | 17 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
-| 18 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
-| 19 | [director of growth](http://twitter.com/search?q=director+of+growth) | N/A |
+| 18 | [director of growth](http://twitter.com/search?q=director+of+growth) | N/A |
+| 19 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
 | 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
-| 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 23 | [usman yousuf](http://twitter.com/search?q=usman+yousuf) | N/A |
-| 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 25 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 26 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 27 | [Rs 150 to Rs 272](http://twitter.com/search?q=Rs+150+to+Rs+272) | N/A |
-| 28 | [Rumman Raees](http://twitter.com/search?q=Rumman+Raees) | N/A |
-| 29 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 30 | [Babul Hawaij](http://twitter.com/search?q=Babul+Hawaij) | N/A |
-| 31 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
-| 32 | [Rs 16](http://twitter.com/search?q=Rs+16) | N/A |
-| 33 | [shaddy](http://twitter.com/search?q=shaddy) | N/A |
-| 34 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
-| 35 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
-| 36 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 37 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 38 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 39 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 41 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 42 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 43 | [European](http://twitter.com/search?q=European) | N/A |
-| 44 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 21 | [usman yousuf](http://twitter.com/search?q=usman+yousuf) | N/A |
+| 22 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 24 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 26 | [Rumman Raees](http://twitter.com/search?q=Rumman+Raees) | N/A |
+| 27 | [rs 150 to rs 272](http://twitter.com/search?q=rs+150+to+rs+272) | N/A |
+| 28 | [babul hawaij](http://twitter.com/search?q=babul+hawaij) | N/A |
+| 29 | [rs 178 to rs 270](http://twitter.com/search?q=rs+178+to+rs+270) | N/A |
+| 30 | [rs 16](http://twitter.com/search?q=rs+16) | N/A |
+| 31 | [rs 44](http://twitter.com/search?q=rs+44) | N/A |
+| 32 | [shaddy](http://twitter.com/search?q=shaddy) | N/A |
+| 33 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
+| 34 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 35 | [ASIF ALI](http://twitter.com/search?q=ASIF+ALI) | N/A |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 38 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 41 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 42 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 43 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 44 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
 | 45 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 47 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
-| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 49 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 50 | [People of Pakistan](http://twitter.com/search?q=People+of+Pakistan) | N/A |
+| 46 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 47 | [European](http://twitter.com/search?q=European) | N/A |
+| 48 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 49 | [People of Pakistan](http://twitter.com/search?q=People+of+Pakistan) | N/A |
+| 50 | [Heya](http://twitter.com/search?q=Heya) | N/A |
 
 
 

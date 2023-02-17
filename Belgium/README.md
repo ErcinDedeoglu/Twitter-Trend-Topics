@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-16 23:17:26 UTC`
+📆 Last Updated: `2023-02-17 00:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LUDAND](http://twitter.com/search?q=%23LUDAND) | N/A |
-| 2 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 3 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 4 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 6 | [Ludogorets](http://twitter.com/search?q=Ludogorets) | N/A |
-| 7 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 8 | [Arnstad](http://twitter.com/search?q=Arnstad) | N/A |
-| 9 | [#qargnt](http://twitter.com/search?q=%23qargnt) | N/A |
-| 10 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 11 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 12 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 2 | [#LUDAND](http://twitter.com/search?q=%23LUDAND) | N/A |
+| 3 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 4 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 5 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 6 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 7 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 8 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 10 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
+| 11 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 12 | [#qargnt](http://twitter.com/search?q=%23qargnt) | N/A |
 | 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 15 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 16 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 17 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 18 | [Paleizenstraat](http://twitter.com/search?q=Paleizenstraat) | N/A |
-| 19 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 14 | [Arnstad](http://twitter.com/search?q=Arnstad) | N/A |
+| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 16 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 17 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 18 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 19 | [Paleizenstraat](http://twitter.com/search?q=Paleizenstraat) | N/A |
 | 20 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 21 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 22 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 21 | [Ludogorets](http://twitter.com/search?q=Ludogorets) | N/A |
+| 22 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 23 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 26 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 27 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 28 | [De Moor](http://twitter.com/search?q=De+Moor) | N/A |
-| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 30 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 31 | [Qarabag](http://twitter.com/search?q=Qarabag) | N/A |
-| 32 | [Cadix](http://twitter.com/search?q=Cadix) | N/A |
-| 33 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 34 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 35 | [Anvers](http://twitter.com/search?q=Anvers) | N/A |
-| 36 | [Leeuw](http://twitter.com/search?q=Leeuw) | N/A |
-| 37 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 38 | [Portugezen](http://twitter.com/search?q=Portugezen) | N/A |
-| 39 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 40 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 41 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 42 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 43 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 44 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
-| 45 | [Parker](http://twitter.com/search?q=Parker) | N/A |
-| 46 | [Mattias Desmet](http://twitter.com/search?q=Mattias+Desmet) | N/A |
-| 47 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 48 | [Doel](http://twitter.com/search?q=Doel) | N/A |
-| 49 | [Ruisbroek](http://twitter.com/search?q=Ruisbroek) | N/A |
-| 50 | [Bakole](http://twitter.com/search?q=Bakole) | N/A |
+| 25 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 26 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 27 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 28 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 29 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 31 | [De Moor](http://twitter.com/search?q=De+Moor) | N/A |
+| 32 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 33 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 34 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 35 | [Qarabag](http://twitter.com/search?q=Qarabag) | N/A |
+| 36 | [Cadix](http://twitter.com/search?q=Cadix) | N/A |
+| 37 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 38 | [Leeuw](http://twitter.com/search?q=Leeuw) | N/A |
+| 39 | [Anvers](http://twitter.com/search?q=Anvers) | N/A |
+| 40 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 41 | [portugezen](http://twitter.com/search?q=portugezen) | N/A |
+| 42 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 43 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 44 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 45 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 46 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
+| 47 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 48 | [Parker](http://twitter.com/search?q=Parker) | N/A |
+| 49 | [Mattias Desmet](http://twitter.com/search?q=Mattias+Desmet) | N/A |
+| 50 | [Roef](http://twitter.com/search?q=Roef) | N/A |
 
 
 

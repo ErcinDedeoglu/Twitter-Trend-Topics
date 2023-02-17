@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-02-16 23:17:20 UTC`
+📆 Last Updated: `2023-02-17 00:29:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 1 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
 | 2 | [Shapiro](http://twitter.com/search?q=Shapiro) | N/A |
 | 3 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 4 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 5 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 6 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 7 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 8 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 9 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
-| 10 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 11 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 12 | [Depression](http://twitter.com/search?q=Depression) | N/A |
-| 13 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
-| 14 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 16 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 17 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 18 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
-| 19 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 20 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 21 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 22 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 23 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 24 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
-| 25 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
-| 26 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 27 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 28 | [#PBPitch](http://twitter.com/search?q=%23PBPitch) | N/A |
-| 29 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 31 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 32 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
-| 33 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
-| 34 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
-| 35 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 36 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 37 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 38 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 39 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 40 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 41 | [Alvin Kamara](http://twitter.com/search?q=Alvin+Kamara) | N/A |
-| 42 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
-| 43 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 44 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 45 | [NHTSA](http://twitter.com/search?q=NHTSA) | N/A |
-| 46 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 47 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 49 | [Nick Friedell](http://twitter.com/search?q=Nick+Friedell) | N/A |
-| 50 | [Priest Holmes](http://twitter.com/search?q=Priest+Holmes) | N/A |
+| 4 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 5 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 6 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 7 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 8 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 9 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 10 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 11 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 12 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
+| 13 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 14 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 15 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
+| 16 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 17 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 18 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
+| 19 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 20 | [Depression](http://twitter.com/search?q=Depression) | N/A |
+| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 22 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 23 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 24 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
+| 25 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 26 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 27 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 28 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
+| 29 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
+| 30 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 31 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 32 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 33 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 34 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 35 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 36 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 37 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
+| 38 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 39 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 40 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 41 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
+| 42 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 43 | [Klint Kubiak](http://twitter.com/search?q=Klint+Kubiak) | N/A |
+| 44 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
+| 45 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 47 | [PINK HEART](http://twitter.com/search?q=PINK+HEART) | N/A |
+| 48 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
+| 49 | [Barry Sanders](http://twitter.com/search?q=Barry+Sanders) | N/A |
+| 50 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
 
 
 

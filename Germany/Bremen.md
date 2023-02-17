@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-16 23:16:53 UTC`
+📆 Last Updated: `2023-02-17 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 3 | [#B04ASM](http://twitter.com/search?q=%23B04ASM) | N/A |
-| 4 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 5 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 6 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 8 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
-| 9 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 10 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 11 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 12 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 13 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 14 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 5 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 6 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 7 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
+| 8 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 9 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 10 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 11 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 12 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 13 | [Scheune](http://twitter.com/search?q=Scheune) | N/A |
+| 14 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 15 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 16 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 17 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 18 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 19 | [Designer](http://twitter.com/search?q=Designer) | N/A |
-| 20 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 21 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
-| 22 | [Dagmar](http://twitter.com/search?q=Dagmar) | N/A |
-| 23 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
-| 24 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 25 | [Kandidatinnen](http://twitter.com/search?q=Kandidatinnen) | N/A |
-| 26 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 27 | [Tom Gregory](http://twitter.com/search?q=Tom+Gregory) | N/A |
-| 28 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 16 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 17 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 18 | [RIP Tim](http://twitter.com/search?q=RIP+Tim) | N/A |
+| 19 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 20 | [Dagmar](http://twitter.com/search?q=Dagmar) | N/A |
+| 21 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 22 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 23 | [Tom Gregory](http://twitter.com/search?q=Tom+Gregory) | N/A |
+| 24 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 25 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 26 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
+| 27 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 28 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
 | 29 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 30 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 31 | [Annett](http://twitter.com/search?q=Annett) | N/A |
-| 32 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 33 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
-| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 35 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
-| 36 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 37 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 38 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
-| 39 | [Intro](http://twitter.com/search?q=Intro) | N/A |
-| 40 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 41 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 42 | [Promille](http://twitter.com/search?q=Promille) | N/A |
-| 43 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 44 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 45 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 46 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
-| 47 | [Zweiräder](http://twitter.com/search?q=Zweir%c3%a4der) | N/A |
-| 48 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
+| 30 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
+| 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 32 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 33 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
+| 34 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 35 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 36 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 37 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 38 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 39 | [Promille](http://twitter.com/search?q=Promille) | N/A |
+| 40 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 41 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 42 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 43 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 44 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 45 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 46 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
+| 47 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 48 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 
 
 

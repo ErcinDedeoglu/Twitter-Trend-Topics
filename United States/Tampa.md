@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-02-16 23:17:25 UTC`
+📆 Last Updated: `2023-02-17 00:29:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 1 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
 | 2 | [Kissimmee](http://twitter.com/search?q=Kissimmee) | N/A |
-| 3 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 3 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
 | 4 | [#AllForTheGators](http://twitter.com/search?q=%23AllForTheGators) | N/A |
-| 5 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 6 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 7 | [Daytona](http://twitter.com/search?q=Daytona) | N/A |
-| 8 | [#Tandem23](http://twitter.com/search?q=%23Tandem23) | N/A |
-| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 11 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 12 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 13 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 14 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 15 | [#CaiToken](http://twitter.com/search?q=%23CaiToken) | N/A |
-| 16 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 17 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 18 | [Depression](http://twitter.com/search?q=Depression) | N/A |
-| 19 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
-| 20 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 23 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 24 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
-| 25 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 26 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 27 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 28 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 29 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 30 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
-| 31 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 32 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 33 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 5 | [#Tandem23](http://twitter.com/search?q=%23Tandem23) | N/A |
+| 6 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 7 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 8 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 9 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 10 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 11 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 12 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 13 | [#BluegreenDuel](http://twitter.com/search?q=%23BluegreenDuel) | N/A |
+| 14 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 15 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 16 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 17 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 18 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 19 | [Depression](http://twitter.com/search?q=Depression) | N/A |
+| 20 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 21 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 22 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 23 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
+| 24 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 25 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 26 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 27 | [Walter Reed](http://twitter.com/search?q=Walter+Reed) | N/A |
+| 28 | [Coolidge](http://twitter.com/search?q=Coolidge) | N/A |
+| 29 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 30 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 31 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 32 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
+| 33 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 34 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
 | 35 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 36 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
-| 37 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
-| 38 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
-| 39 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 40 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 41 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 42 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 43 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
-| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 45 | [Alvin Kamara](http://twitter.com/search?q=Alvin+Kamara) | N/A |
-| 46 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
-| 47 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 48 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 49 | [NHTSA](http://twitter.com/search?q=NHTSA) | N/A |
+| 36 | [Burnes](http://twitter.com/search?q=Burnes) | N/A |
+| 37 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 38 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 39 | [Dragona](http://twitter.com/search?q=Dragona) | N/A |
+| 40 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
+| 41 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 42 | [Klint Kubiak](http://twitter.com/search?q=Klint+Kubiak) | N/A |
+| 43 | [Mach 5](http://twitter.com/search?q=Mach+5) | N/A |
+| 44 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [PINK HEART](http://twitter.com/search?q=PINK+HEART) | N/A |
+| 47 | [Cole Hamels](http://twitter.com/search?q=Cole+Hamels) | N/A |
+| 48 | [Barry Sanders](http://twitter.com/search?q=Barry+Sanders) | N/A |
+| 49 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
 
 
 
