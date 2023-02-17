@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-17 20:17:59 UTC`
+📆 Last Updated: `2023-02-17 21:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 2 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
-| 3 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
-| 4 | [#FiersDetreInsoumis](http://twitter.com/search?q=%23FiersDetreInsoumis) | N/A |
-| 5 | [Le 10](http://twitter.com/search?q=Le+10) | N/A |
-| 6 | [#LMFCASNL](http://twitter.com/search?q=%23LMFCASNL) | N/A |
-| 7 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 8 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 9 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 10 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
-| 11 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 12 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 13 | [Banque Populaire](http://twitter.com/search?q=Banque+Populaire) | N/A |
-| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 15 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 16 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 17 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 18 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
-| 19 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 20 | [Lucifer](http://twitter.com/search?q=Lucifer) | N/A |
-| 21 | [Alma Dufour](http://twitter.com/search?q=Alma+Dufour) | N/A |
-| 22 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 23 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 24 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 25 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 26 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 27 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 28 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 29 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 30 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 31 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 32 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 33 | [Présidente](http://twitter.com/search?q=Pr%c3%a9sidente) | N/A |
-| 34 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 35 | [#VentesFlashXiaomi](http://twitter.com/search?q=%23VentesFlashXiaomi) | N/A |
-| 36 | [#ARES12](http://twitter.com/search?q=%23ARES12) | N/A |
-| 37 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 38 | [#PlaneteRap](http://twitter.com/search?q=%23PlaneteRap) | N/A |
-| 39 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 40 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
-| 41 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 42 | [#palmadeenprison](http://twitter.com/search?q=%23palmadeenprison) | N/A |
-| 43 | [#LeadersCup](http://twitter.com/search?q=%23LeadersCup) | N/A |
-| 44 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 45 | [#VendrediPlaisir](http://twitter.com/search?q=%23VendrediPlaisir) | N/A |
-| 46 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 47 | [#PalmadeAssassin](http://twitter.com/search?q=%23PalmadeAssassin) | N/A |
-| 48 | [#taycquandtudors](http://twitter.com/search?q=%23taycquandtudors) | N/A |
-| 49 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
-| 50 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
+| 1 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
+| 2 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
+| 3 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 4 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 5 | [#VisualSuspect](http://twitter.com/search?q=%23VisualSuspect) | N/A |
+| 6 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
+| 7 | [#FiersDetreInsoumis](http://twitter.com/search?q=%23FiersDetreInsoumis) | N/A |
+| 8 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 9 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
+| 10 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 11 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 12 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 13 | [Le 10](http://twitter.com/search?q=Le+10) | N/A |
+| 14 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 15 | [Moussa](http://twitter.com/search?q=Moussa) | N/A |
+| 16 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
+| 17 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 18 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 19 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 20 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
+| 23 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 24 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 25 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Lucifer](http://twitter.com/search?q=Lucifer) | N/A |
+| 29 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 30 | [Le Qatar](http://twitter.com/search?q=Le+Qatar) | N/A |
+| 31 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 32 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
+| 33 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
+| 34 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
+| 35 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
+| 36 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 37 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 38 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 39 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 40 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 41 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 42 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 43 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 44 | [#ARES12](http://twitter.com/search?q=%23ARES12) | N/A |
+| 45 | [#LMFCASNL](http://twitter.com/search?q=%23LMFCASNL) | N/A |
+| 46 | [#VentesFlashXiaomi](http://twitter.com/search?q=%23VentesFlashXiaomi) | N/A |
+| 47 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 48 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 49 | [#PlaneteRap](http://twitter.com/search?q=%23PlaneteRap) | N/A |
+| 50 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 
 
 

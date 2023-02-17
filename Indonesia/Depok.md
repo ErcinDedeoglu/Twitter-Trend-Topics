@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-17 20:17:31 UTC`
+📆 Last Updated: `2023-02-17 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,32 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 4 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 5 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 6 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 7 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 8 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 9 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 10 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 11 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 12 | [Genta](http://twitter.com/search?q=Genta) | N/A |
-| 13 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 14 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 15 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
-| 16 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
-| 17 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
-| 18 | [#어둠속_한줄기_빛은_제이홉](http://twitter.com/search?q=%23%ec%96%b4%eb%91%a0%ec%86%8d_%ed%95%9c%ec%a4%84%ea%b8%b0_%eb%b9%9b%ec%9d%80_%ec%a0%9c%ec%9d%b4%ed%99%89) | N/A |
-| 19 | [#Unlocked](http://twitter.com/search?q=%23Unlocked) | N/A |
-| 20 | [#StayStrongBible](http://twitter.com/search?q=%23StayStrongBible) | N/A |
-| 21 | [#DOKYEOM](http://twitter.com/search?q=%23DOKYEOM) | N/A |
-| 22 | [#Happy_DK_Day](http://twitter.com/search?q=%23Happy_DK_Day) | N/A |
-| 23 | [#20DaysWithoutBiu](http://twitter.com/search?q=%2320DaysWithoutBiu) | N/A |
-| 24 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
-| 25 | [#HAECHAN](http://twitter.com/search?q=%23HAECHAN) | N/A |
-| 26 | [#BarcodeHSGraduation](http://twitter.com/search?q=%23BarcodeHSGraduation) | N/A |
-| 27 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 2 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 3 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 4 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
+| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 6 | [ada di dekade 08](http://twitter.com/search?q=ada+di+dekade+08) | N/A |
+| 7 | [prabowo fokus konsisten](http://twitter.com/search?q=prabowo+fokus+konsisten) | N/A |
+| 8 | [pastinya mending prabowo](http://twitter.com/search?q=pastinya+mending+prabowo) | N/A |
+| 9 | [indonesia kita terus maju](http://twitter.com/search?q=indonesia+kita+terus+maju) | N/A |
+| 10 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 11 | [pevita pearce](http://twitter.com/search?q=pevita+pearce) | N/A |
+| 12 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 13 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
+| 14 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 15 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
+| 16 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 17 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 18 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 19 | [Genta](http://twitter.com/search?q=Genta) | N/A |
+| 20 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 21 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 22 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 23 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 24 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
+| 25 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 26 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
+| 27 | [reformasi total sepakbola](http://twitter.com/search?q=reformasi+total+sepakbola) | N/A |
+| 28 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 29 | [ENAK AJA MUNDUR](http://twitter.com/search?q=ENAK+AJA+MUNDUR) | N/A |
+| 30 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 31 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 32 | [Danang](http://twitter.com/search?q=Danang) | N/A |
+| 33 | [spklu](http://twitter.com/search?q=spklu) | N/A |
+| 34 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 35 | [iims 2023](http://twitter.com/search?q=iims+2023) | N/A |
+| 36 | [JITB ON DISNEY PLUS](http://twitter.com/search?q=JITB+ON+DISNEY+PLUS) | N/A |
+| 37 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 38 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 39 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 40 | [apriyani](http://twitter.com/search?q=apriyani) | N/A |
+| 41 | [exco](http://twitter.com/search?q=exco) | N/A |
+| 42 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 43 | [Yunus Nusi](http://twitter.com/search?q=Yunus+Nusi) | N/A |
+| 44 | [Ver 3](http://twitter.com/search?q=Ver+3) | N/A |
+| 45 | [Chico](http://twitter.com/search?q=Chico) | N/A |
+| 46 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
+| 47 | [TANPA PENONTON](http://twitter.com/search?q=TANPA+PENONTON) | N/A |
+| 48 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
+| 49 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 
 
 
