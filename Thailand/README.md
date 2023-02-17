@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-17 19:17:03 UTC`
+📆 Last Updated: `2023-02-17 20:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,55 @@ This is top 50 for Thailand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 4 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 5 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [HWANDERFUL YEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFUL+YEARS+WITH+JUNGHWAN) | N/A |
-| 8 | [#ชวนดูอนล18กพนี้](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%94%e0%b8%b9%e0%b8%ad%e0%b8%99%e0%b8%a518%e0%b8%81%e0%b8%9e%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
-| 9 | [#ทิวสนปอ](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b4%e0%b8%a7%e0%b8%aa%e0%b8%99%e0%b8%9b%e0%b8%ad) | N/A |
-| 10 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
-| 11 | [#บอสบอสเหงาไหมชอว์ตี้คิดถึง](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%80%e0%b8%ab%e0%b8%87%e0%b8%b2%e0%b9%84%e0%b8%ab%e0%b8%a1%e0%b8%8a%e0%b8%ad%e0%b8%a7%e0%b9%8c%e0%b8%95%e0%b8%b5%e0%b9%89%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87) | N/A |
-| 12 | [#StayStrongBible](http://twitter.com/search?q=%23StayStrongBible) | N/A |
-| 13 | [#20DaysWithoutBiu](http://twitter.com/search?q=%2320DaysWithoutBiu) | N/A |
-| 14 | [#4NOLOGUEgreetings](http://twitter.com/search?q=%234NOLOGUEgreetings) | N/A |
-| 15 | [#DestinyClinicYinWar](http://twitter.com/search?q=%23DestinyClinicYinWar) | #DestinyClinicYinWar is a hashtag used to promote the Destiny Clinic, a holistic health and wellness center in California. The hashtag is meant to encourage people to take control of their own destiny and make positive changes in their lives. The phrase "Yin War" is derived from the Chinese philosophy of Yin and Yang, which states that opposite forces are interconnected and interdependent in the natural world. |
-| 16 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
-| 17 | [#ออฟโรด](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b9%82%e0%b8%a3%e0%b8%94) | N/A |
-| 18 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 19 | [#ที่สุดของหัวใจep13](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88ep13) | N/A |
-| 20 | [#BarcodeHSGraduation](http://twitter.com/search?q=%23BarcodeHSGraduation) | N/A |
-| 21 | [#อิจฉาแด๊ด](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%88%e0%b8%89%e0%b8%b2%e0%b9%81%e0%b8%94%e0%b9%8a%e0%b8%94) | N/A |
-| 22 | [#offroadKTP](http://twitter.com/search?q=%23offroadKTP) | N/A |
-| 23 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
-| 24 | [#YOUNGJAE_Bubble](http://twitter.com/search?q=%23YOUNGJAE_Bubble) | N/A |
-| 25 | [#609Documentary](http://twitter.com/search?q=%23609Documentary) | N/A |
-| 26 | [#MRTMUSICJOURNEY](http://twitter.com/search?q=%23MRTMUSICJOURNEY) | N/A |
-| 27 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 28 | [#HAECHAN](http://twitter.com/search?q=%23HAECHAN) | N/A |
-| 29 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 30 | [#PERSES_TH](http://twitter.com/search?q=%23PERSES_TH) | N/A |
-| 31 | [#WayV_Phantom_FANSIGNinBKK](http://twitter.com/search?q=%23WayV_Phantom_FANSIGNinBKK) | N/A |
-| 32 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
-| 33 | [#taokaenoixDunBaslive1](http://twitter.com/search?q=%23taokaenoixDunBaslive1) | N/A |
-| 34 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 2 | [#WelcomeJINYOUNGtoThailand](http://twitter.com/search?q=%23WelcomeJINYOUNGtoThailand) | N/A |
+| 3 | [#สบู่ทับทิมนัมเบอร์วันXอิงล็อต](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%97%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b4%e0%b8%a1%e0%b8%99%e0%b8%b1%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a7%e0%b8%b1%e0%b8%99X%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 5 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 6 | [ping smiley eyes](http://twitter.com/search?q=ping+smiley+eyes) | N/A |
+| 7 | [BAMBAM HOME WITH TANAKA](http://twitter.com/search?q=BAMBAM+HOME+WITH+TANAKA) | N/A |
+| 8 | [bambam gm 17february](http://twitter.com/search?q=bambam+gm+17february) | N/A |
+| 9 | [BAMBAM SPECIAL MC FUN STAURANT](http://twitter.com/search?q=BAMBAM+SPECIAL+MC+FUN+STAURANT) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Mpreg](http://twitter.com/search?q=Mpreg) | N/A |
+| 12 | [morning​ nookpai](http://twitter.com/search?q=morning%e2%80%8b+nookpai) | N/A |
+| 13 | [Ten in Paris](http://twitter.com/search?q=Ten+in+Paris) | N/A |
+| 14 | [peck palitchoke](http://twitter.com/search?q=peck+palitchoke) | N/A |
+| 15 | [O-net](http://twitter.com/search?q=O-net) | N/A |
+| 16 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 17 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 18 | [#DestinyClinicYinWar](http://twitter.com/search?q=%23DestinyClinicYinWar) | #DestinyClinicYinWar is a hashtag used to promote the Destiny Clinic, a holistic health and wellness center in California. The hashtag is meant to encourage people to take control of their own destiny and make positive changes in their lives. The phrase "Yin War" is derived from the Chinese philosophy of Yin and Yang, which states that opposite forces are interconnected and interdependent in the natural world. |
+| 19 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 20 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 21 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 22 | [#JDENTXZeeNunew](http://twitter.com/search?q=%23JDENTXZeeNunew) | N/A |
+| 23 | [#ชวนดูอนล18กพนี้](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%94%e0%b8%b9%e0%b8%ad%e0%b8%99%e0%b8%a518%e0%b8%81%e0%b8%9e%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
+| 24 | [#APOprojectBD2023](http://twitter.com/search?q=%23APOprojectBD2023) | N/A |
+| 25 | [#4NOLOGUEgreetings](http://twitter.com/search?q=%234NOLOGUEgreetings) | N/A |
+| 26 | [#คิดถึงปิงตาสระอิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
+| 27 | [#MoonlightChickenEP4](http://twitter.com/search?q=%23MoonlightChickenEP4) | N/A |
+| 28 | [#JENOxFERRAGAMO](http://twitter.com/search?q=%23JENOxFERRAGAMO) | N/A |
+| 29 | [#BamHome_EP5](http://twitter.com/search?q=%23BamHome_EP5) | N/A |
+| 30 | [#BarcodeHSGraduation](http://twitter.com/search?q=%23BarcodeHSGraduation) | N/A |
+| 31 | [#뱀집_5화](http://twitter.com/search?q=%23%eb%b1%80%ec%a7%91_5%ed%99%94) | N/A |
+| 32 | [#เมมเต็มep1xfelinacanino](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%a1%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%a1ep1xfelinacanino) | N/A |
+| 33 | [#StayStrongBible](http://twitter.com/search?q=%23StayStrongBible) | N/A |
+| 34 | [#MCBamBamInFunStaurant](http://twitter.com/search?q=%23MCBamBamInFunStaurant) | N/A |
 | 35 | [#ดุลบาส](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b8%e0%b8%a5%e0%b8%9a%e0%b8%b2%e0%b8%aa) | N/A |
-| 36 | [#ช้อปฟินที่ช้อปปี้](http://twitter.com/search?q=%23%e0%b8%8a%e0%b9%89%e0%b8%ad%e0%b8%9b%e0%b8%9f%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b9%89%e0%b8%ad%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89) | N/A |
-| 37 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
-| 38 | [#dunromch](http://twitter.com/search?q=%23dunromch) | N/A |
-| 39 | [#JackieJackrin](http://twitter.com/search?q=%23JackieJackrin) | N/A |
-| 40 | [#BamHome_EP5](http://twitter.com/search?q=%23BamHome_EP5) | N/A |
-| 41 | [#chaelisa](http://twitter.com/search?q=%23chaelisa) | N/A |
-| 42 | [#뱀집_5화](http://twitter.com/search?q=%23%eb%b1%80%ec%a7%91_5%ed%99%94) | N/A |
+| 36 | [#ทิวสนปอ](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b4%e0%b8%a7%e0%b8%aa%e0%b8%99%e0%b8%9b%e0%b8%ad) | N/A |
+| 37 | [#taokaenoixDunBaslive1](http://twitter.com/search?q=%23taokaenoixDunBaslive1) | N/A |
+| 38 | [#ประเทศไทยมีกงจวิ้นแล้ว](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a1%e0%b8%b5%e0%b8%81%e0%b8%87%e0%b8%88%e0%b8%a7%e0%b8%b4%e0%b9%89%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 39 | [#609Documentary](http://twitter.com/search?q=%23609Documentary) | N/A |
+| 40 | [#behinddmdpartner](http://twitter.com/search?q=%23behinddmdpartner) | N/A |
+| 41 | [#zeenunewmbtithelovematch](http://twitter.com/search?q=%23zeenunewmbtithelovematch) | N/A |
+| 42 | [#เป๊ปซี่เปิดโหมดซ่าท้าร้อน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%8a%e0%b8%9b%e0%b8%8b%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%82%e0%b8%ab%e0%b8%a1%e0%b8%94%e0%b8%8b%e0%b9%88%e0%b8%b2%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99) | N/A |
+| 43 | [#ATLASแกล้งลืมปล่อยMV](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1%e0%b8%9b%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 44 | [#อิจฉาแด๊ด](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%88%e0%b8%89%e0%b8%b2%e0%b9%81%e0%b8%94%e0%b9%8a%e0%b8%94) | N/A |
+| 45 | [#MRTMUSICJOURNEY](http://twitter.com/search?q=%23MRTMUSICJOURNEY) | N/A |
+| 46 | [#18กุมภาศึกชิงบัตรคอนเนเน่](http://twitter.com/search?q=%2318%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%8a%e0%b8%b4%e0%b8%87%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88) | N/A |
+| 47 | [#ที่สุดของหัวใจep13](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88ep13) | N/A |
+| 48 | [#ประชุมสภา](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
+| 49 | [#เป๊ปซี่ไหนก็อร่อยเหมือนกัน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%8a%e0%b8%9b%e0%b8%8b%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%81%e0%b9%87%e0%b8%ad%e0%b8%a3%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 50 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
 
 
 

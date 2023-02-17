@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-17 19:16:37 UTC`
+📆 Last Updated: `2023-02-17 20:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [#BarcodeHSGraduation](http://twitter.com/search?q=%23BarcodeHSGraduation) | N/A |
 | 7 | [our luve for biu](http://twitter.com/search?q=our+luve+for+biu) | N/A |
 | 8 | [HWANDERFUL YEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFUL+YEARS+WITH+JUNGHWAN) | N/A |
-| 9 | [good mewning](http://twitter.com/search?q=good+mewning) | N/A |
+| 9 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
 | 10 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 11 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 | 12 | [NFT 2.0](http://twitter.com/search?q=NFT+2.0) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 26 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
 | 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 28 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 29 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
+| 29 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
 | 30 | [song phú](http://twitter.com/search?q=song+ph%c3%ba) | N/A |
 | 31 | [$MATIC](http://twitter.com/search?q=%24MATIC) | N/A |
 | 32 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 43 | [trần minh nhật](http://twitter.com/search?q=tr%e1%ba%a7n+minh+nh%e1%ba%adt) | N/A |
 | 44 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 46 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
-| 47 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 48 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 45 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 46 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 47 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
+| 48 | [Pump](http://twitter.com/search?q=Pump) | N/A |
 | 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 50 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 50 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 
 
 

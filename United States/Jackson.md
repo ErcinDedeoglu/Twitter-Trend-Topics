@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-17 19:16:51 UTC`
+📆 Last Updated: `2023-02-17 20:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 3 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 1 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
 | 5 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 8 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 9 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 10 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 11 | [Rush](http://twitter.com/search?q=Rush) | N/A |
-| 12 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 13 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 14 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 15 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
-| 16 | [Miss Amtrak](http://twitter.com/search?q=Miss+Amtrak) | N/A |
-| 17 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
-| 18 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
-| 19 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 20 | [Kiely Williams](http://twitter.com/search?q=Kiely+Williams) | N/A |
-| 21 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 22 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 23 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 24 | [Fav Papa](http://twitter.com/search?q=Fav+Papa) | N/A |
-| 25 | [Fav Ghoul](http://twitter.com/search?q=Fav+Ghoul) | N/A |
-| 26 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 27 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 28 | [Top 3 Ghost Songs](http://twitter.com/search?q=Top+3+Ghost+Songs) | N/A |
-| 29 | [Fav Album](http://twitter.com/search?q=Fav+Album) | N/A |
-| 30 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 31 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
-| 32 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 33 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 34 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 35 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
-| 36 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 37 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 38 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 39 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 41 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 42 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 43 | [Truckin](http://twitter.com/search?q=Truckin) | N/A |
-| 44 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
-| 45 | [Naturi](http://twitter.com/search?q=Naturi) | N/A |
-| 46 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 47 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 48 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
+| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 8 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 9 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 10 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 11 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 12 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 13 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
+| 14 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 15 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
+| 16 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 17 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 18 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 19 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
+| 20 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
+| 21 | [Rolen](http://twitter.com/search?q=Rolen) | N/A |
+| 22 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
+| 23 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
+| 24 | [Breezy](http://twitter.com/search?q=Breezy) | N/A |
+| 25 | [Blueface and Chrisean](http://twitter.com/search?q=Blueface+and+Chrisean) | N/A |
+| 26 | [Miss Amtrak](http://twitter.com/search?q=Miss+Amtrak) | N/A |
+| 27 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
+| 28 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 29 | [McGriff](http://twitter.com/search?q=McGriff) | N/A |
+| 30 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 31 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 32 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 33 | [Rogue One](http://twitter.com/search?q=Rogue+One) | N/A |
+| 34 | [Declaration of Independence](http://twitter.com/search?q=Declaration+of+Independence) | N/A |
+| 35 | [Beaver Stadium](http://twitter.com/search?q=Beaver+Stadium) | N/A |
+| 36 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 37 | [Fav Papa](http://twitter.com/search?q=Fav+Papa) | N/A |
+| 38 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 39 | [Fav Ghoul](http://twitter.com/search?q=Fav+Ghoul) | N/A |
+| 40 | [White Fragility](http://twitter.com/search?q=White+Fragility) | N/A |
+| 41 | [Top 3 Ghost Songs](http://twitter.com/search?q=Top+3+Ghost+Songs) | N/A |
+| 42 | [Attack of the Clones](http://twitter.com/search?q=Attack+of+the+Clones) | N/A |
+| 43 | [Fav Album](http://twitter.com/search?q=Fav+Album) | N/A |
+| 44 | [Charlie Sheen](http://twitter.com/search?q=Charlie+Sheen) | N/A |
+| 45 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 46 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 47 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 48 | [Return of the Jedi](http://twitter.com/search?q=Return+of+the+Jedi) | N/A |
 
 
 

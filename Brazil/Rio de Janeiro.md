@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-17 19:16:21 UTC`
+📆 Last Updated: `2023-02-17 20:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 2 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 3 | [Carmelitas](http://twitter.com/search?q=Carmelitas) | N/A |
-| 4 | [arraial](http://twitter.com/search?q=arraial) | N/A |
-| 5 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
-| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 7 | [Saquarema](http://twitter.com/search?q=Saquarema) | N/A |
-| 8 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 1 | [Carmelitas](http://twitter.com/search?q=Carmelitas) | N/A |
+| 2 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 3 | [arraial](http://twitter.com/search?q=arraial) | N/A |
+| 4 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
+| 5 | [Angra](http://twitter.com/search?q=Angra) | N/A |
+| 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 8 | [Tiraram a Paula](http://twitter.com/search?q=Tiraram+a+Paula) | N/A |
 | 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 10 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 11 | [#PROVAROUBADA](http://twitter.com/search?q=%23PROVAROUBADA) | N/A |
-| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 13 | [Dormiu](http://twitter.com/search?q=Dormiu) | N/A |
-| 14 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 15 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 16 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 17 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 18 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 19 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 20 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 21 | [Kombi](http://twitter.com/search?q=Kombi) | N/A |
-| 22 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 23 | [Péricles](http://twitter.com/search?q=P%c3%a9ricles) | N/A |
-| 24 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 25 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
-| 26 | [UFPA](http://twitter.com/search?q=UFPA) | N/A |
-| 27 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
-| 28 | [REVISEM A PROVA](http://twitter.com/search?q=REVISEM+A+PROVA) | N/A |
-| 29 | [Betano](http://twitter.com/search?q=Betano) | N/A |
-| 30 | [KAZ BREKKER](http://twitter.com/search?q=KAZ+BREKKER) | N/A |
-| 31 | [MY VOVÓ](http://twitter.com/search?q=MY+VOV%c3%93) | N/A |
-| 32 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 33 | [matthias](http://twitter.com/search?q=matthias) | N/A |
-| 34 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 35 | [Descansar](http://twitter.com/search?q=Descansar) | N/A |
-| 36 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 37 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
-| 38 | [RONCOU](http://twitter.com/search?q=RONCOU) | N/A |
-| 39 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 40 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 41 | [Didico](http://twitter.com/search?q=Didico) | N/A |
-| 42 | [Russomano](http://twitter.com/search?q=Russomano) | N/A |
-| 43 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 44 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 45 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 46 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 47 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 48 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
-| 49 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
-| 50 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 10 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 11 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
+| 12 | [#PROVAROUBADA](http://twitter.com/search?q=%23PROVAROUBADA) | N/A |
+| 13 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 14 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
+| 15 | [O Gaga](http://twitter.com/search?q=O+Gaga) | N/A |
+| 16 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 17 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 18 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 19 | [#BahiaFolia](http://twitter.com/search?q=%23BahiaFolia) | N/A |
+| 20 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 21 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 22 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 23 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 24 | [Dormiu](http://twitter.com/search?q=Dormiu) | N/A |
+| 25 | [Apertou](http://twitter.com/search?q=Apertou) | N/A |
+| 26 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 27 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 28 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
+| 29 | [RAFAK NORVINA COLLECTION](http://twitter.com/search?q=RAFAK+NORVINA+COLLECTION) | N/A |
+| 30 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 31 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 32 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 33 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
+| 34 | [Zoya](http://twitter.com/search?q=Zoya) | N/A |
+| 35 | [matthias](http://twitter.com/search?q=matthias) | N/A |
+| 36 | [Kombi](http://twitter.com/search?q=Kombi) | N/A |
+| 37 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 38 | [Péricles](http://twitter.com/search?q=P%c3%a9ricles) | N/A |
+| 39 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 40 | [kaz brekker](http://twitter.com/search?q=kaz+brekker) | N/A |
+| 41 | [UFPA](http://twitter.com/search?q=UFPA) | N/A |
+| 42 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 43 | [REVISEM A PROVA](http://twitter.com/search?q=REVISEM+A+PROVA) | N/A |
+| 44 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 45 | [MY VOVÓ](http://twitter.com/search?q=MY+VOV%c3%93) | N/A |
+| 46 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 47 | [Betano](http://twitter.com/search?q=Betano) | N/A |
+| 48 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 49 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
+| 50 | [Bell Marques](http://twitter.com/search?q=Bell+Marques) | N/A |
 
 
 

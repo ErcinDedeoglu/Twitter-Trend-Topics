@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-02-17 19:16:20 UTC`
+📆 Last Updated: `2023-02-17 20:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 9 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 10 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 11 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 12 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
-| 13 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
-| 14 | [tour soy rebelde venezuela](http://twitter.com/search?q=tour+soy+rebelde+venezuela) | N/A |
-| 15 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 16 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
-| 17 | [Alí Primera](http://twitter.com/search?q=Al%c3%ad+Primera) | N/A |
-| 18 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 19 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 20 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 21 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 22 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
-| 23 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 24 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
-| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 26 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 27 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 11 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
+| 12 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 13 | [tour soy rebelde venezuela](http://twitter.com/search?q=tour+soy+rebelde+venezuela) | N/A |
+| 14 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 15 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
+| 16 | [Alí Primera](http://twitter.com/search?q=Al%c3%ad+Primera) | N/A |
+| 17 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 18 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
+| 19 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 20 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 21 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 22 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 23 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
+| 24 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 25 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
+| 26 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 27 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 28 | [Mork](http://twitter.com/search?q=Mork) | N/A |
+| 29 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
 | 30 | [Metras](http://twitter.com/search?q=Metras) | N/A |
-| 31 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 32 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 33 | [Paz y Soberanía](http://twitter.com/search?q=Paz+y+Soberan%c3%ada) | N/A |
-| 34 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 35 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 36 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 38 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 39 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 31 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 32 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 33 | [Luis Brito García](http://twitter.com/search?q=Luis+Brito+Garc%c3%ada) | N/A |
+| 34 | [Paz y Soberanía](http://twitter.com/search?q=Paz+y+Soberan%c3%ada) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 37 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
+| 38 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 39 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
 | 40 | [Los Supersónicos](http://twitter.com/search?q=Los+Supers%c3%b3nicos) | N/A |
-| 41 | [Luis Brito García](http://twitter.com/search?q=Luis+Brito+Garc%c3%ada) | N/A |
-| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 43 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
-| 44 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
-| 45 | [Bendición Divina](http://twitter.com/search?q=Bendici%c3%b3n+Divina) | N/A |
-| 46 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 47 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
-| 48 | [alfredo sadel](http://twitter.com/search?q=alfredo+sadel) | N/A |
-| 49 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
+| 41 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 42 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
+| 43 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
+| 44 | [Bendición Divina](http://twitter.com/search?q=Bendici%c3%b3n+Divina) | N/A |
+| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 46 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 47 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 48 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
+| 49 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
 
 
 

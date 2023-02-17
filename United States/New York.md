@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-17 19:16:53 UTC`
+📆 Last Updated: `2023-02-17 20:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 2 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 3 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 6 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 1 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 2 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 3 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
 | 8 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 11 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 9 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 10 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 11 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 12 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 13 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 14 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 15 | [Rush](http://twitter.com/search?q=Rush) | N/A |
-| 16 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 17 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 18 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 19 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 20 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
-| 21 | [Miss Amtrak](http://twitter.com/search?q=Miss+Amtrak) | N/A |
-| 22 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
-| 23 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
-| 24 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 25 | [Kiely Williams](http://twitter.com/search?q=Kiely+Williams) | N/A |
-| 26 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 27 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 28 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 29 | [Fav Papa](http://twitter.com/search?q=Fav+Papa) | N/A |
-| 30 | [Fav Ghoul](http://twitter.com/search?q=Fav+Ghoul) | N/A |
-| 31 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 32 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 33 | [Top 3 Ghost Songs](http://twitter.com/search?q=Top+3+Ghost+Songs) | N/A |
-| 34 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 35 | [Fav Album](http://twitter.com/search?q=Fav+Album) | N/A |
-| 36 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 37 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 38 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
-| 39 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 40 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
-| 41 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 42 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 43 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 44 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 46 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 47 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 48 | [Truckin](http://twitter.com/search?q=Truckin) | N/A |
-| 49 | [Naturi](http://twitter.com/search?q=Naturi) | N/A |
-| 50 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 13 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 14 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 15 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 16 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 17 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
+| 18 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 19 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 20 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 21 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
+| 22 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 23 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 24 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
+| 25 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
+| 26 | [Rolen](http://twitter.com/search?q=Rolen) | N/A |
+| 27 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
+| 28 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
+| 29 | [Breezy](http://twitter.com/search?q=Breezy) | N/A |
+| 30 | [Blueface and Chrisean](http://twitter.com/search?q=Blueface+and+Chrisean) | N/A |
+| 31 | [Miss Amtrak](http://twitter.com/search?q=Miss+Amtrak) | N/A |
+| 32 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
+| 33 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 34 | [McGriff](http://twitter.com/search?q=McGriff) | N/A |
+| 35 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 36 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 37 | [Rogue One](http://twitter.com/search?q=Rogue+One) | N/A |
+| 38 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 39 | [Declaration of Independence](http://twitter.com/search?q=Declaration+of+Independence) | N/A |
+| 40 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 41 | [Fav Papa](http://twitter.com/search?q=Fav+Papa) | N/A |
+| 42 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 43 | [Fav Ghoul](http://twitter.com/search?q=Fav+Ghoul) | N/A |
+| 44 | [Attack of the Clones](http://twitter.com/search?q=Attack+of+the+Clones) | N/A |
+| 45 | [Top 3 Ghost Songs](http://twitter.com/search?q=Top+3+Ghost+Songs) | N/A |
+| 46 | [Fav Album](http://twitter.com/search?q=Fav+Album) | N/A |
+| 47 | [Charlie Sheen](http://twitter.com/search?q=Charlie+Sheen) | N/A |
+| 48 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 49 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 50 | [Return of the Jedi](http://twitter.com/search?q=Return+of+the+Jedi) | N/A |
 
 
 

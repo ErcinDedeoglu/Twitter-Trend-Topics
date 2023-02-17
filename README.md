@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-17 19:16:11 UTC`
+📆 Last Updated: `2023-02-17 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 2 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 4 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 5 | [#akamemorialservice](http://twitter.com/search?q=%23akamemorialservice) | N/A |
-| 6 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 7 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 8 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 9 | [Fırsatçı Prefabrikçiler](http://twitter.com/search?q=F%c4%b1rsat%c3%a7%c4%b1+Prefabrik%c3%a7iler) | N/A |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 12 | [علي الحارس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3) | N/A |
-| 13 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 14 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 15 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 16 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 17 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 18 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 19 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 20 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 21 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 22 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 23 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
-| 24 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 25 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
-| 26 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 27 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 28 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 29 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 2 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
+| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 4 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 5 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
+| 6 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 8 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 9 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 10 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 11 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 12 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 13 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 15 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 16 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 17 | [Fırsatçı Prefabrikçiler](http://twitter.com/search?q=F%c4%b1rsat%c3%a7%c4%b1+Prefabrik%c3%a7iler) | N/A |
+| 18 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 19 | [Tiraram a Paula](http://twitter.com/search?q=Tiraram+a+Paula) | N/A |
+| 20 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
+| 21 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
+| 22 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 23 | [علي الحارس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3) | N/A |
+| 24 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 25 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 26 | [O Gaga](http://twitter.com/search?q=O+Gaga) | N/A |
+| 27 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
+| 28 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
+| 29 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
 | 30 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 31 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 32 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 33 | [フルーツ味](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%83%bc%e3%83%84%e5%91%b3) | N/A |
-| 34 | [HWANDERFULYEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFULYEARS+WITH+JUNGHWAN) | N/A |
-| 35 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 36 | [Dormiu](http://twitter.com/search?q=Dormiu) | N/A |
-| 37 | [matthias](http://twitter.com/search?q=matthias) | N/A |
-| 38 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 39 | [حاجب الرويه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%ac%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87) | N/A |
-| 40 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 41 | [Anatii](http://twitter.com/search?q=Anatii) | N/A |
-| 42 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 43 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 44 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 45 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 46 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 47 | [#Karachi](http://twitter.com/search?q=%23Karachi) | N/A |
-| 48 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 49 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 50 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
+| 31 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 32 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 33 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 34 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 35 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
+| 36 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 37 | [Miraç](http://twitter.com/search?q=Mira%c3%a7) | N/A |
+| 38 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 39 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
+| 40 | [matthias](http://twitter.com/search?q=matthias) | N/A |
+| 41 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
+| 42 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 43 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 44 | [Congratulations Nana](http://twitter.com/search?q=Congratulations+Nana) | N/A |
+| 45 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
+| 46 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 47 | [#akamemorialservice](http://twitter.com/search?q=%23akamemorialservice) | N/A |
+| 48 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 49 | [#Karachi](http://twitter.com/search?q=%23Karachi) | N/A |
+| 50 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-17 19:16:11 UTC`
+📆 Last Updated: `2023-02-17 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,43 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
-| 2 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 3 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 3 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
 | 4 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
 | 5 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
 | 6 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 9 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 10 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 11 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 12 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 13 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
-| 14 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 7 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 10 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 11 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 12 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 13 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 14 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
 | 15 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 16 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 17 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
+| 16 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 17 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 18 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 19 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 20 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 21 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
-| 22 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 23 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 24 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 25 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 26 | [Trudeaus](http://twitter.com/search?q=Trudeaus) | N/A |
-| 27 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 28 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 29 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 30 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 31 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
-| 32 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 33 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
-| 34 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 19 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 20 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
+| 23 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 24 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
+| 25 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 26 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 27 | [Shocker](http://twitter.com/search?q=Shocker) | N/A |
+| 28 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 29 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
+| 30 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 31 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 32 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 33 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 34 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
 | 35 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
-| 36 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 36 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 37 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 38 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 39 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 40 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
-| 41 | [#onstorm](http://twitter.com/search?q=%23onstorm) | N/A |
+| 38 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 
 
 

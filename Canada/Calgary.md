@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-02-17 19:16:12 UTC`
+📆 Last Updated: `2023-02-17 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,50 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 1 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 2 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
 | 3 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 4 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 5 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 8 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 10 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 11 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 12 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 13 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
-| 14 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 4 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
+| 5 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 6 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 9 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 10 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 11 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 12 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 13 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 14 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
 | 15 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 16 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 17 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
+| 16 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 17 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 18 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 19 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 20 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 21 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
-| 22 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 23 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 24 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 25 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 19 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 20 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
+| 23 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 24 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
+| 25 | [Commission](http://twitter.com/search?q=Commission) | N/A |
 | 26 | [Trudeaus](http://twitter.com/search?q=Trudeaus) | N/A |
-| 27 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 28 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 29 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 30 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
-| 31 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 32 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
-| 33 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 34 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
-| 35 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
-| 36 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 37 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 38 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 39 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
-| 40 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
-| 41 | [#onstorm](http://twitter.com/search?q=%23onstorm) | N/A |
+| 27 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 28 | [Shocker](http://twitter.com/search?q=Shocker) | N/A |
+| 29 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 30 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
+| 31 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 32 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 33 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 34 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 35 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 36 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
+| 37 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 38 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 39 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 40 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 41 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 42 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 43 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
+| 44 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
 
 
 

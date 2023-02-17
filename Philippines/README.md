@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-17 19:17:02 UTC`
+📆 Last Updated: `2023-02-17 20:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,35 +17,32 @@ This is top 50 for Philippines
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 4 | [#JonaxxACTYAKab50](http://twitter.com/search?q=%23JonaxxACTYAKab50) | N/A |
+| 3 | [#JonaxxACTYAKab50](http://twitter.com/search?q=%23JonaxxACTYAKab50) | N/A |
+| 4 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
 | 5 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
 | 6 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
 | 7 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
 | 8 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
-| 9 | [hansol](http://twitter.com/search?q=hansol) | N/A |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [HAPPY BIRTHDAY DK](http://twitter.com/search?q=HAPPY+BIRTHDAY+DK) | N/A |
+| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 10 | [HAPPY BIRTHDAY DK](http://twitter.com/search?q=HAPPY+BIRTHDAY+DK) | N/A |
+| 11 | [hansol](http://twitter.com/search?q=hansol) | N/A |
 | 12 | [HAPPY BIRTHDAY SUNSHINE](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE) | N/A |
-| 13 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
-| 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 15 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
-| 16 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 17 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 18 | [Raica](http://twitter.com/search?q=Raica) | N/A |
-| 19 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 20 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 21 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 22 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 23 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 24 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 25 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
-| 26 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
-| 27 | [#TheVampsGreatestHitsTourMNL](http://twitter.com/search?q=%23TheVampsGreatestHitsTourMNL) | N/A |
-| 28 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
-| 29 | [#DLBypass](http://twitter.com/search?q=%23DLBypass) | N/A |
-| 30 | [#MCISanibPwersa](http://twitter.com/search?q=%23MCISanibPwersa) | N/A |
-| 31 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 13 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 14 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
+| 15 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 16 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
+| 17 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 18 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 19 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 20 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
+| 21 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
+| 22 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 23 | [#TheVampsGreatestHitsTourMNL](http://twitter.com/search?q=%23TheVampsGreatestHitsTourMNL) | N/A |
+| 24 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
+| 25 | [#DLBypass](http://twitter.com/search?q=%23DLBypass) | N/A |
+| 26 | [#MCISanibPuwersa](http://twitter.com/search?q=%23MCISanibPuwersa) | N/A |
+| 27 | [#TheVampsMNL](http://twitter.com/search?q=%23TheVampsMNL) | N/A |
+| 28 | [#UPFair2023](http://twitter.com/search?q=%23UPFair2023) | N/A |
 
 
 

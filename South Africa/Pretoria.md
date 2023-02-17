@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-02-17 19:16:40 UTC`
+📆 Last Updated: `2023-02-17 20:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,51 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DStvPrem](http://twitter.com/search?q=%23DStvPrem) | N/A |
+| 1 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
 | 2 | [#akamemorialservice](http://twitter.com/search?q=%23akamemorialservice) | N/A |
-| 3 | [#LongLiveSupaMega](http://twitter.com/search?q=%23LongLiveSupaMega) | N/A |
-| 4 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 5 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 6 | [Anatii](http://twitter.com/search?q=Anatii) | N/A |
-| 7 | [Lynn](http://twitter.com/search?q=Lynn) | N/A |
-| 8 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 9 | [#AKAFuneral](http://twitter.com/search?q=%23AKAFuneral) | N/A |
-| 10 | [#RIPakaworldwide](http://twitter.com/search?q=%23RIPakaworldwide) | N/A |
-| 11 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 3 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
+| 4 | [#LongLiveSupaMega](http://twitter.com/search?q=%23LongLiveSupaMega) | N/A |
+| 5 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 6 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
+| 7 | [#AKAFuneral](http://twitter.com/search?q=%23AKAFuneral) | N/A |
+| 8 | [Anatii](http://twitter.com/search?q=Anatii) | N/A |
+| 9 | [Lynn](http://twitter.com/search?q=Lynn) | N/A |
+| 10 | [#DStvPrem](http://twitter.com/search?q=%23DStvPrem) | N/A |
+| 11 | [#RIPakaworldwide](http://twitter.com/search?q=%23RIPakaworldwide) | N/A |
 | 12 | [Oskido](http://twitter.com/search?q=Oskido) | N/A |
-| 13 | [Yanga](http://twitter.com/search?q=Yanga) | N/A |
-| 14 | [Don Design](http://twitter.com/search?q=Don+Design) | N/A |
-| 15 | [Joyous Celebration](http://twitter.com/search?q=Joyous+Celebration) | N/A |
+| 13 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 14 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 15 | [Yanga](http://twitter.com/search?q=Yanga) | N/A |
 | 16 | [Da Les](http://twitter.com/search?q=Da+Les) | N/A |
-| 17 | [IV League](http://twitter.com/search?q=IV+League) | N/A |
-| 18 | [Holy Mountain](http://twitter.com/search?q=Holy+Mountain) | N/A |
-| 19 | [Composure](http://twitter.com/search?q=Composure) | N/A |
-| 20 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 21 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
-| 22 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
-| 23 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 24 | [Khuli](http://twitter.com/search?q=Khuli) | N/A |
-| 25 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 26 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 27 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 17 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
+| 18 | [St John](http://twitter.com/search?q=St+John) | N/A |
+| 19 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 20 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 21 | [Composure](http://twitter.com/search?q=Composure) | N/A |
+| 22 | [Khuli](http://twitter.com/search?q=Khuli) | N/A |
+| 23 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 24 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 25 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 26 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 27 | [Uncle Tony](http://twitter.com/search?q=Uncle+Tony) | N/A |
 | 28 | [Moozlie](http://twitter.com/search?q=Moozlie) | N/A |
-| 29 | [Glammy](http://twitter.com/search?q=Glammy) | N/A |
-| 30 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
-| 31 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 34 | [SA Hip Hop](http://twitter.com/search?q=SA+Hip+Hop) | N/A |
-| 35 | [Nomuzi](http://twitter.com/search?q=Nomuzi) | N/A |
-| 36 | [Run Jozi](http://twitter.com/search?q=Run+Jozi) | N/A |
-| 37 | [Kabelo](http://twitter.com/search?q=Kabelo) | N/A |
-| 38 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 39 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
-| 40 | [SABC](http://twitter.com/search?q=SABC) | N/A |
-| 41 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 42 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
-| 43 | [#Sundowns](http://twitter.com/search?q=%23Sundowns) | N/A |
-| 44 | [#TotalEnergiesCAFCL](http://twitter.com/search?q=%23TotalEnergiesCAFCL) | N/A |
-| 45 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 46 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 47 | [#TurnItUp](http://twitter.com/search?q=%23TurnItUp) | N/A |
-| 48 | [#AneleTembe](http://twitter.com/search?q=%23AneleTembe) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [Glammy](http://twitter.com/search?q=Glammy) | N/A |
+| 31 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
+| 32 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 33 | [SA Hip Hop](http://twitter.com/search?q=SA+Hip+Hop) | N/A |
+| 34 | [Run Jozi](http://twitter.com/search?q=Run+Jozi) | N/A |
+| 35 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 36 | [Nomuzi](http://twitter.com/search?q=Nomuzi) | N/A |
+| 37 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
+| 38 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 39 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 40 | [#Sundowns](http://twitter.com/search?q=%23Sundowns) | N/A |
+| 41 | [#TotalEnergiesCAFCL](http://twitter.com/search?q=%23TotalEnergiesCAFCL) | N/A |
+| 42 | [#DonDesign](http://twitter.com/search?q=%23DonDesign) | N/A |
+| 43 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 44 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 45 | [#AneleTembe](http://twitter.com/search?q=%23AneleTembe) | N/A |
 
 
 
