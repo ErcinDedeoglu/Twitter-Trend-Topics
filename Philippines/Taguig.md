@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-17 06:17:38 UTC`
+📆 Last Updated: `2023-02-17 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShowtimeGirlAnneFire](http://twitter.com/search?q=%23ShowtimeGirlAnneFire) | N/A |
-| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 3 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
-| 4 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 1 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 2 | [#ShowtimeGirlAnneFire](http://twitter.com/search?q=%23ShowtimeGirlAnneFire) | N/A |
+| 3 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
+| 4 | [#JoshCullenSoundBite2](http://twitter.com/search?q=%23JoshCullenSoundBite2) | N/A |
 | 5 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 6 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
+| 6 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
 | 7 | [DAVID ForBluewaterSpa](http://twitter.com/search?q=DAVID+ForBluewaterSpa) | N/A |
 | 8 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 9 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 10 | [palong palo sa zacham](http://twitter.com/search?q=palong+palo+sa+zacham) | N/A |
+| 9 | [palong palo sa zacham](http://twitter.com/search?q=palong+palo+sa+zacham) | N/A |
+| 10 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 11 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 12 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 12 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
 | 13 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
-| 14 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
-| 15 | [kodrea on teenclashcon](http://twitter.com/search?q=kodrea+on+teenclashcon) | N/A |
-| 16 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 17 | [congratulations bss](http://twitter.com/search?q=congratulations+bss) | N/A |
-| 18 | [MODEL JEONGYEON IS BACK](http://twitter.com/search?q=MODEL+JEONGYEON+IS+BACK) | N/A |
-| 19 | [KAI COMEBACK](http://twitter.com/search?q=KAI+COMEBACK) | N/A |
-| 20 | [Annabelle](http://twitter.com/search?q=Annabelle) | N/A |
+| 14 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
+| 15 | [SEOJINS HIGHLIGHT REVEAL](http://twitter.com/search?q=SEOJINS+HIGHLIGHT+REVEAL) | N/A |
+| 16 | [Happy Valentines](http://twitter.com/search?q=Happy+Valentines) | N/A |
+| 17 | [kodrea on teenclashcon](http://twitter.com/search?q=kodrea+on+teenclashcon) | N/A |
+| 18 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 19 | [congratulations bss](http://twitter.com/search?q=congratulations+bss) | N/A |
+| 20 | [MODEL JEONGYEON IS BACK](http://twitter.com/search?q=MODEL+JEONGYEON+IS+BACK) | N/A |
 | 21 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 22 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
-| 23 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 24 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 25 | [Catriona](http://twitter.com/search?q=Catriona) | Catriona is a Scottish female name derived from the Gaelic name Caitríona, which means "pure" or "chaste". |
-| 26 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
-| 27 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 28 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
-| 29 | [MAINE MENDOZA HappyHeart](http://twitter.com/search?q=MAINE+MENDOZA+HappyHeart) | N/A |
-| 30 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
-| 31 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 32 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 22 | [KAI COMEBACK](http://twitter.com/search?q=KAI+COMEBACK) | N/A |
+| 23 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
+| 24 | [WARD THOC JOURNEY FINALE](http://twitter.com/search?q=WARD+THOC+JOURNEY+FINALE) | N/A |
+| 25 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 26 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
+| 27 | [KIM MINGYU](http://twitter.com/search?q=KIM+MINGYU) | N/A |
+| 28 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
+| 29 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
+| 30 | [Plane](http://twitter.com/search?q=Plane) | N/A |
+| 31 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 32 | [Masungi](http://twitter.com/search?q=Masungi) | N/A |
 | 33 | [sea yacht robxine](http://twitter.com/search?q=sea+yacht+robxine) | N/A |
-| 34 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 35 | [Plane](http://twitter.com/search?q=Plane) | N/A |
-| 36 | [Congratulations Taehyung](http://twitter.com/search?q=Congratulations+Taehyung) | N/A |
-| 37 | [Dyosa](http://twitter.com/search?q=Dyosa) | N/A |
-| 38 | [Eyon](http://twitter.com/search?q=Eyon) | N/A |
-| 39 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
-| 40 | [Quiapo](http://twitter.com/search?q=Quiapo) | N/A |
-| 41 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 43 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 34 | [Congratulations Taehyung](http://twitter.com/search?q=Congratulations+Taehyung) | N/A |
+| 35 | [WINWIN](http://twitter.com/search?q=WINWIN) | N/A |
+| 36 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 37 | [Oblation Run](http://twitter.com/search?q=Oblation+Run) | N/A |
+| 38 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
+| 39 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
+| 40 | [Peak Time](http://twitter.com/search?q=Peak+Time) | N/A |
+| 41 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 42 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 44 | [SUPERSTAR JENNIE IN CALVINS](http://twitter.com/search?q=SUPERSTAR+JENNIE+IN+CALVINS) | N/A |
-| 45 | [kim jongin](http://twitter.com/search?q=kim+jongin) | N/A |
-| 46 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
-| 47 | [marie claire](http://twitter.com/search?q=marie+claire) | Marie Claire is a French-language women's magazine that was first published in 1937. It is now published in over 30 countries and focuses on fashion, beauty, health, and lifestyle topics. The name Marie Claire translates to "Mary of the Clarity" in English. |
-| 48 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
-| 49 | [Conquest](http://twitter.com/search?q=Conquest) | N/A |
+| 45 | [Dyosa](http://twitter.com/search?q=Dyosa) | N/A |
+| 46 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
+| 47 | [yunhyeong](http://twitter.com/search?q=yunhyeong) | N/A |
+| 48 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 49 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
 
 
 

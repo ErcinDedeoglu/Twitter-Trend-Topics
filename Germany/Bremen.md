@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-17 06:17:25 UTC`
+📆 Last Updated: `2023-02-17 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
 | 4 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
 | 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 6 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
-| 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 8 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 6 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 7 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
+| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 9 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
 | 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 11 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
 | 12 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
 | 13 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
 | 14 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 15 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 16 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 17 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 18 | [Guten Morgen Jenny](http://twitter.com/search?q=Guten+Morgen+Jenny) | N/A |
-| 19 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 20 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 21 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 22 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 23 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 24 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 25 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 26 | [jecken](http://twitter.com/search?q=jecken) | N/A |
-| 27 | [Guten Morgen Sabine](http://twitter.com/search?q=Guten+Morgen+Sabine) | N/A |
-| 28 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 29 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 30 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 32 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 33 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 34 | [steuererhöhungen](http://twitter.com/search?q=steuererh%c3%b6hungen) | N/A |
-| 35 | [herr gersemann](http://twitter.com/search?q=herr+gersemann) | N/A |
+| 16 | [Guten Morgen Jenny](http://twitter.com/search?q=Guten+Morgen+Jenny) | N/A |
+| 17 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 18 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 19 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 20 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 21 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 22 | [jecken](http://twitter.com/search?q=jecken) | N/A |
+| 23 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
+| 24 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 25 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 26 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 28 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 29 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
+| 30 | [Niederrhein](http://twitter.com/search?q=Niederrhein) | N/A |
+| 31 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 32 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 33 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 34 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 35 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
 | 36 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 37 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 38 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 39 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 40 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
-| 41 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 42 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 43 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
-| 44 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 45 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 46 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 47 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 48 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
+| 37 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 38 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 39 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 40 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 41 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
+| 42 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 43 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 44 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 45 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 46 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 47 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 48 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
 
 
 

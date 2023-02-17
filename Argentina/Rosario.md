@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-17 06:17:22 UTC`
+📆 Last Updated: `2023-02-17 07:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,36 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gran Primo](http://twitter.com/search?q=Gran+Primo) | N/A |
-| 2 | [Daniela al 9009](http://twitter.com/search?q=Daniela+al+9009) | N/A |
-| 3 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 4 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 5 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 6 | [#GranHernano2023](http://twitter.com/search?q=%23GranHernano2023) | N/A |
-| 7 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
-| 8 | [Perdóname](http://twitter.com/search?q=Perd%c3%b3name) | N/A |
-| 9 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
-| 10 | [Entran 6](http://twitter.com/search?q=Entran+6) | N/A |
-| 11 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 12 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 13 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
-| 14 | [Rogel](http://twitter.com/search?q=Rogel) | N/A |
-| 15 | [Familiares](http://twitter.com/search?q=Familiares) | N/A |
-| 16 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 17 | [Marcos y Camila](http://twitter.com/search?q=Marcos+y+Camila) | N/A |
-| 18 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
-| 19 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
-| 20 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 21 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
-| 22 | [Holder](http://twitter.com/search?q=Holder) | N/A |
-| 23 | [#GH2002](http://twitter.com/search?q=%23GH2002) | N/A |
-| 24 | [TE PIDO](http://twitter.com/search?q=TE+PIDO) | N/A |
-| 25 | [Lautaro Martinez](http://twitter.com/search?q=Lautaro+Martinez) | N/A |
-| 26 | [Peque](http://twitter.com/search?q=Peque) | N/A |
-| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 28 | [Franco Masini](http://twitter.com/search?q=Franco+Masini) | N/A |
-| 29 | [Duki](http://twitter.com/search?q=Duki) | N/A |
-| 30 | [Trabajando](http://twitter.com/search?q=Trabajando) | N/A |
+| 1 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 2 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 3 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 4 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 7 | [Gran Primo](http://twitter.com/search?q=Gran+Primo) | N/A |
+| 8 | [#GranHernano2023](http://twitter.com/search?q=%23GranHernano2023) | N/A |
+| 9 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 11 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
+| 12 | [Globant](http://twitter.com/search?q=Globant) | N/A |
+| 13 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
+| 14 | [#FaltaMenos](http://twitter.com/search?q=%23FaltaMenos) | N/A |
+| 15 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 18 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 20 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 21 | [dellepiane](http://twitter.com/search?q=dellepiane) | N/A |
+| 22 | [Entran 6](http://twitter.com/search?q=Entran+6) | N/A |
+| 23 | [Perdóname](http://twitter.com/search?q=Perd%c3%b3name) | N/A |
+| 24 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 25 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 26 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 27 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 28 | [NO TOQUEN NADA](http://twitter.com/search?q=NO+TOQUEN+NADA) | N/A |
+| 29 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 30 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
+| 31 | [Escalopes](http://twitter.com/search?q=Escalopes) | N/A |
+| 32 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 33 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 34 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 35 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
+| 36 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 40 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 41 | [TE PIDO](http://twitter.com/search?q=TE+PIDO) | N/A |
+| 42 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 43 | [Las Jordans](http://twitter.com/search?q=Las+Jordans) | N/A |
+| 44 | [Schwartzman](http://twitter.com/search?q=Schwartzman) | N/A |
+| 45 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 46 | [el primo tiene aguante](http://twitter.com/search?q=el+primo+tiene+aguante) | N/A |
+| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 48 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 49 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 50 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 
 
 

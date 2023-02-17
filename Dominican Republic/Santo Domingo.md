@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-17 06:17:15 UTC`
+📆 Last Updated: `2023-02-17 07:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,29 +24,29 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 7 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
 | 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 9 | [Euric](http://twitter.com/search?q=Euric) | N/A |
-| 10 | [#SoyRebeldeRD](http://twitter.com/search?q=%23SoyRebeldeRD) | N/A |
+| 10 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 11 | [Francisco Alberto Caamaño Deñó](http://twitter.com/search?q=Francisco+Alberto+Caama%c3%b1o+De%c3%b1%c3%b3) | N/A |
-| 12 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
-| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 14 | [Faride](http://twitter.com/search?q=Faride) | N/A |
+| 12 | [#SoyRebeldeRD](http://twitter.com/search?q=%23SoyRebeldeRD) | N/A |
+| 13 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
+| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 16 | [Vinicito](http://twitter.com/search?q=Vinicito) | N/A |
 | 17 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 18 | [Dejame](http://twitter.com/search?q=Dejame) | N/A |
-| 19 | [Gildan](http://twitter.com/search?q=Gildan) | N/A |
-| 20 | [HOT ENTRA](http://twitter.com/search?q=HOT+ENTRA) | N/A |
-| 21 | [NEW CONTENIDO](http://twitter.com/search?q=NEW+CONTENIDO) | N/A |
+| 19 | [gildan](http://twitter.com/search?q=gildan) | N/A |
+| 20 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
+| 21 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
 | 22 | [piantini](http://twitter.com/search?q=piantini) | N/A |
 | 23 | [#clasicomundialdebeisbol](http://twitter.com/search?q=%23clasicomundialdebeisbol) | N/A |
 | 24 | [Raquiña](http://twitter.com/search?q=Raqui%c3%b1a) | N/A |
 | 25 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 26 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
 | 27 | [Cáncer Infantil](http://twitter.com/search?q=C%c3%a1ncer+Infantil) | N/A |
-| 28 | [#PremiosJuvenilesSDN2022](http://twitter.com/search?q=%23PremiosJuvenilesSDN2022) | N/A |
-| 29 | [Samaná](http://twitter.com/search?q=Saman%c3%a1) | N/A |
+| 28 | [#premiosjuvenilessdn2022](http://twitter.com/search?q=%23premiosjuvenilessdn2022) | N/A |
+| 29 | [samaná](http://twitter.com/search?q=saman%c3%a1) | N/A |
 | 30 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 31 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 32 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 31 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 32 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
 | 33 | [rafael paz](http://twitter.com/search?q=rafael+paz) | N/A |
 | 34 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
 | 35 | [Aborto](http://twitter.com/search?q=Aborto) | N/A |

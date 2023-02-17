@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-17 06:17:30 UTC`
+📆 Last Updated: `2023-02-17 07:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,46 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 9 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [Schnute](http://twitter.com/search?q=Schnute) | N/A |
-| 12 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 10 | [Schnute](http://twitter.com/search?q=Schnute) | N/A |
+| 11 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 12 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
 | 13 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 | 14 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 17 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 18 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 19 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 20 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 21 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
-| 22 | [valais](http://twitter.com/search?q=valais) | N/A |
-| 23 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 25 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 27 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 28 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
-| 29 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 30 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 32 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
-| 33 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 34 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 35 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 36 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 37 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 38 | [gegenvorschlag](http://twitter.com/search?q=gegenvorschlag) | N/A |
-| 39 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 40 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
-| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 42 | [Jungs](http://twitter.com/search?q=Jungs) | N/A |
-| 43 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 44 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
-| 45 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 46 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 47 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 48 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 19 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 20 | [Realität](http://twitter.com/search?q=Realit%c3%a4t) | N/A |
+| 21 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 22 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
+| 23 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 24 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
+| 25 | [Lieben Dank](http://twitter.com/search?q=Lieben+Dank) | N/A |
+| 26 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 27 | [valais](http://twitter.com/search?q=valais) | N/A |
+| 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 29 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 30 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 31 | [gruyère](http://twitter.com/search?q=gruy%c3%a8re) | N/A |
+| 32 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 33 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 34 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 35 | [Weise](http://twitter.com/search?q=Weise) | N/A |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 37 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 38 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 39 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 40 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 41 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 42 | [gegenvorschlag](http://twitter.com/search?q=gegenvorschlag) | N/A |
+| 43 | [Nase](http://twitter.com/search?q=Nase) | N/A |
+| 44 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 45 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 46 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 47 | [Jungs](http://twitter.com/search?q=Jungs) | N/A |
+| 48 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 
 
 
