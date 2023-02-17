@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-17 11:17:06 UTC`
+📆 Last Updated: `2023-02-17 12:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
-| 2 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 3 | [FlokiGrow](http://twitter.com/search?q=FlokiGrow) | N/A |
-| 4 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 5 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 6 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 7 | [hamitduras bilenkazanırda](http://twitter.com/search?q=hamitduras+bilenkazan%c4%b1rda) | N/A |
-| 8 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 9 | [#ParaciKurumDegilAraciKurumOl](http://twitter.com/search?q=%23ParaciKurumDegilAraciKurumOl) | N/A |
-| 10 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 11 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 12 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
+| 1 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 2 | [#açıklama](http://twitter.com/search?q=%23a%c3%a7%c4%b1klama) | N/A |
+| 3 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
+| 4 | [FlokiGrow](http://twitter.com/search?q=FlokiGrow) | N/A |
+| 5 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 6 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 7 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 9 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
+| 10 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 11 | [Nisan](http://twitter.com/search?q=Nisan) | N/A |
+| 12 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
 | 13 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 14 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
-| 15 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 16 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 17 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 18 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
-| 19 | [Türkiye Uzay Ajansı](http://twitter.com/search?q=T%c3%bcrkiye+Uzay+Ajans%c4%b1) | N/A |
-| 20 | [Kanun](http://twitter.com/search?q=Kanun) | N/A |
-| 21 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
-| 22 | [Danıştay](http://twitter.com/search?q=Dan%c4%b1%c5%9ftay) | N/A |
-| 23 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 24 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 25 | [Sezgin Baran Korkmaz](http://twitter.com/search?q=Sezgin+Baran+Korkmaz) | N/A |
-| 26 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 27 | [Mescid-i Aksa'ya](http://twitter.com/search?q=Mescid-i+Aksa%27ya) | N/A |
-| 28 | [Titanyum](http://twitter.com/search?q=Titanyum) | N/A |
-| 29 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
-| 30 | [Ahmet Davutoğlu](http://twitter.com/search?q=Ahmet+Davuto%c4%9flu) | N/A |
+| 14 | [Erol Özvar](http://twitter.com/search?q=Erol+%c3%96zvar) | N/A |
+| 15 | [Uygulamalı](http://twitter.com/search?q=Uygulamal%c4%b1) | N/A |
+| 16 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 17 | [Hibrit](http://twitter.com/search?q=Hibrit) | N/A |
+| 18 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
+| 19 | [Cumamız](http://twitter.com/search?q=Cumam%c4%b1z) | N/A |
+| 20 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
+| 21 | [İlahiyat](http://twitter.com/search?q=%c4%b0lahiyat) | N/A |
+| 22 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 23 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
+| 24 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 25 | [Yusuf Demir](http://twitter.com/search?q=Yusuf+Demir) | Yusuf Demir is a Turkish name. It is composed of two parts: Yusuf, which means "God increases" in Arabic, and Demir, which means "iron" in Turkish. In English, the name would be translated as "God Increases Iron". |
+| 26 | [Sezgin Baran Korkmaz](http://twitter.com/search?q=Sezgin+Baran+Korkmaz) | N/A |
+| 27 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
+| 28 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 29 | [Danıştay](http://twitter.com/search?q=Dan%c4%b1%c5%9ftay) | N/A |
+| 30 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
 | 31 | [Erden](http://twitter.com/search?q=Erden) | N/A |
-| 32 | [Mescid-i Haram'dan](http://twitter.com/search?q=Mescid-i+Haram%27dan) | N/A |
-| 33 | [Ruhat](http://twitter.com/search?q=Ruhat) | N/A |
-| 34 | [Aminn](http://twitter.com/search?q=Aminn) | N/A |
-| 35 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 36 | [muhammed](http://twitter.com/search?q=muhammed) | N/A |
-| 37 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 38 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
-| 39 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
-| 40 | [Hibrit](http://twitter.com/search?q=Hibrit) | N/A |
-| 41 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 42 | [Bilmukabele](http://twitter.com/search?q=Bilmukabele) | N/A |
-| 43 | [Ey Rabbimiz](http://twitter.com/search?q=Ey+Rabbimiz) | N/A |
-| 44 | [#yuzyuze](http://twitter.com/search?q=%23yuzyuze) | N/A |
-| 45 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 46 | [#kiralarkontrolaltınaalınsın](http://twitter.com/search?q=%23kiralarkontrolalt%c4%b1naal%c4%b1ns%c4%b1n) | N/A |
-| 47 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
-| 48 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
-| 49 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
-| 50 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
+| 32 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 33 | [TFF'ye](http://twitter.com/search?q=TFF%27ye) | N/A |
+| 34 | [Liyakat](http://twitter.com/search?q=Liyakat) | N/A |
+| 35 | [Kanun](http://twitter.com/search?q=Kanun) | N/A |
+| 36 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
+| 37 | [Mescid-i Aksa'ya](http://twitter.com/search?q=Mescid-i+Aksa%27ya) | N/A |
+| 38 | [Ahmet Davutoğlu](http://twitter.com/search?q=Ahmet+Davuto%c4%9flu) | N/A |
+| 39 | [Titanyum](http://twitter.com/search?q=Titanyum) | N/A |
+| 40 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
+| 41 | [Mescid-i Haram'dan](http://twitter.com/search?q=Mescid-i+Haram%27dan) | N/A |
+| 42 | [Ruhat](http://twitter.com/search?q=Ruhat) | N/A |
+| 43 | [#YuzYuze](http://twitter.com/search?q=%23YuzYuze) | N/A |
+| 44 | [#ParaciKurumDegilAraciKurumOl](http://twitter.com/search?q=%23ParaciKurumDegilAraciKurumOl) | N/A |
+| 45 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 46 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 47 | [#kiralarkontrolaltınaalınsın](http://twitter.com/search?q=%23kiralarkontrolalt%c4%b1naal%c4%b1ns%c4%b1n) | N/A |
+| 48 | [#Uzaktanegitimİstemiyoruz](http://twitter.com/search?q=%23Uzaktanegitim%c4%b0stemiyoruz) | N/A |
+| 49 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
+| 50 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
 
 
 

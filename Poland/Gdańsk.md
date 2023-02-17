@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-17 11:16:24 UTC`
+📆 Last Updated: `2023-02-17 12:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
 | 5 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
 | 6 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 7 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 8 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
-| 9 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 10 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 11 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 7 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 8 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
+| 9 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 10 | [Przegląd Sportowy](http://twitter.com/search?q=Przegl%c4%85d+Sportowy) | N/A |
+| 11 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
 | 12 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
-| 13 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 14 | [Przeglądu Sportowego](http://twitter.com/search?q=Przegl%c4%85du+Sportowego) | N/A |
-| 15 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 16 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
-| 19 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 22 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
-| 23 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 24 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 25 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
-| 26 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 27 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 28 | [tłustego czwartku](http://twitter.com/search?q=t%c5%82ustego+czwartku) | N/A |
-| 29 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 30 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
-| 31 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 32 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 33 | [Hobiego](http://twitter.com/search?q=Hobiego) | N/A |
-| 34 | [Marek](http://twitter.com/search?q=Marek) | N/A |
-| 35 | [T-72](http://twitter.com/search?q=T-72) | N/A |
-| 36 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 37 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 38 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [Marchewy](http://twitter.com/search?q=Marchewy) | N/A |
-| 41 | [paczków](http://twitter.com/search?q=paczk%c3%b3w) | N/A |
-| 42 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 43 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 15 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 16 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 17 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 19 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
+| 20 | [wojewódzkiego](http://twitter.com/search?q=wojew%c3%b3dzkiego) | N/A |
+| 21 | [bochenek](http://twitter.com/search?q=bochenek) | N/A |
+| 22 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 23 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 24 | [tłustego czwartku](http://twitter.com/search?q=t%c5%82ustego+czwartku) | N/A |
+| 25 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
+| 26 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 27 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 28 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
+| 29 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
+| 30 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 31 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 32 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [T-72](http://twitter.com/search?q=T-72) | N/A |
+| 35 | [LUDZKIE](http://twitter.com/search?q=LUDZKIE) | N/A |
+| 36 | [Premium](http://twitter.com/search?q=Premium) | N/A |
+| 37 | [RODO](http://twitter.com/search?q=RODO) | N/A |
+| 38 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 39 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 40 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
+| 41 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 43 | [paczków](http://twitter.com/search?q=paczk%c3%b3w) | N/A |
 | 44 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 45 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
-| 46 | [Gessler](http://twitter.com/search?q=Gessler) | N/A |
-| 47 | [Grzegorz Skrzecz](http://twitter.com/search?q=Grzegorz+Skrzecz) | N/A |
-| 48 | [Żalek](http://twitter.com/search?q=%c5%bbalek) | N/A |
+| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 46 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 47 | [Żalek](http://twitter.com/search?q=%c5%bbalek) | N/A |
+| 48 | [magdy gessler](http://twitter.com/search?q=magdy+gessler) | N/A |
 
 
 

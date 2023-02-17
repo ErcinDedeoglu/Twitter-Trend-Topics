@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-17 11:17:00 UTC`
+📆 Last Updated: `2023-02-17 12:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
 | 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 3 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 4 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
+| 3 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
+| 4 | [Experten](http://twitter.com/search?q=Experten) | N/A |
 | 5 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
 | 6 | [Tarek Leitner](http://twitter.com/search?q=Tarek+Leitner) | N/A |
 | 7 | [#w1602](http://twitter.com/search?q=%23w1602) | N/A |
-| 8 | [Loge](http://twitter.com/search?q=Loge) | N/A |
-| 9 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 10 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
-| 11 | [Paxlovid](http://twitter.com/search?q=Paxlovid) | N/A |
-| 12 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 13 | [Traumata](http://twitter.com/search?q=Traumata) | N/A |
-| 14 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 15 | [#SALROM](http://twitter.com/search?q=%23SALROM) | N/A |
+| 8 | [loge](http://twitter.com/search?q=loge) | N/A |
+| 9 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 10 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 11 | [Traumata](http://twitter.com/search?q=Traumata) | N/A |
+| 12 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
+| 13 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 14 | [#SALROM](http://twitter.com/search?q=%23SALROM) | N/A |
+| 15 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 16 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 17 | [Alfons Haider](http://twitter.com/search?q=Alfons+Haider) | N/A |
-| 18 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 19 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 20 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 21 | [#Sobotka](http://twitter.com/search?q=%23Sobotka) | N/A |
-| 22 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 23 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 17 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 18 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 19 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 20 | [#Sobotka](http://twitter.com/search?q=%23Sobotka) | N/A |
+| 21 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 22 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
+| 23 | [alfons haider](http://twitter.com/search?q=alfons+haider) | N/A |
 | 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 25 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 25 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 26 | [Versicherung](http://twitter.com/search?q=Versicherung) | N/A |
-| 27 | [Truppe](http://twitter.com/search?q=Truppe) | N/A |
-| 28 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 27 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 29 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 30 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 31 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
-| 32 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 33 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 34 | [Wunden](http://twitter.com/search?q=Wunden) | N/A |
-| 35 | [dialogprozess](http://twitter.com/search?q=dialogprozess) | N/A |
-| 36 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 37 | [Friede in Europa](http://twitter.com/search?q=Friede+in+Europa) | N/A |
-| 38 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 39 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
-| 40 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 42 | [Michael Nikbakhsh](http://twitter.com/search?q=Michael+Nikbakhsh) | N/A |
+| 30 | [milliarden euro](http://twitter.com/search?q=milliarden+euro) | N/A |
+| 31 | [Friede in Europa](http://twitter.com/search?q=Friede+in+Europa) | N/A |
+| 32 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 33 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 34 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 35 | [Michael Nikbakhsh](http://twitter.com/search?q=Michael+Nikbakhsh) | N/A |
+| 36 | [homeoffice](http://twitter.com/search?q=homeoffice) | N/A |
+| 37 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 38 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 39 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 40 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 41 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 42 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
 | 43 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
-| 44 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 45 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 46 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 47 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 48 | [Ungeimpfte](http://twitter.com/search?q=Ungeimpfte) | N/A |
-| 49 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
-| 50 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 44 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
+| 45 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 46 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 47 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 48 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 49 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 50 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
 
 
 

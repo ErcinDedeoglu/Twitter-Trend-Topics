@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-02-17 11:16:14 UTC`
+📆 Last Updated: `2023-02-17 12:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
-| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 3 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 4 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 5 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 6 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 7 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 8 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 9 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 10 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 11 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 12 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 13 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 14 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 15 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 17 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 18 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
-| 19 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
-| 20 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
-| 21 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 22 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 23 | [Nighthawk](http://twitter.com/search?q=Nighthawk) | N/A |
-| 24 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
-| 25 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
-| 26 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 27 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 28 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 29 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 30 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 31 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 32 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 33 | [S Club](http://twitter.com/search?q=S+Club) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Hislop](http://twitter.com/search?q=Hislop) | N/A |
-| 36 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
-| 37 | [Plimsolls](http://twitter.com/search?q=Plimsolls) | N/A |
-| 38 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 39 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 40 | [Nurses](http://twitter.com/search?q=Nurses) | N/A |
-| 41 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 42 | [Window](http://twitter.com/search?q=Window) | N/A |
-| 43 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 44 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 45 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 46 | [Stonewall](http://twitter.com/search?q=Stonewall) | N/A |
-| 47 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 48 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 49 | [Skye](http://twitter.com/search?q=Skye) | N/A |
-| 50 | [Qataris](http://twitter.com/search?q=Qataris) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 3 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 4 | [#CLON](http://twitter.com/search?q=%23CLON) | N/A |
+| 5 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 6 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 7 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 8 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
+| 9 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
+| 10 | [David Smith](http://twitter.com/search?q=David+Smith) | N/A |
+| 11 | [Tyrone Mings](http://twitter.com/search?q=Tyrone+Mings) | N/A |
+| 12 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [David Harrison](http://twitter.com/search?q=David+Harrison) | N/A |
+| 15 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 16 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 17 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
+| 18 | [Tom Scudamore](http://twitter.com/search?q=Tom+Scudamore) | N/A |
+| 19 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 20 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
+| 21 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 22 | [Kwasi](http://twitter.com/search?q=Kwasi) | N/A |
+| 23 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
+| 24 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 25 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 26 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
+| 27 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 30 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 31 | [Broad](http://twitter.com/search?q=Broad) | N/A |
+| 32 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
+| 33 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
+| 34 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 35 | [Window](http://twitter.com/search?q=Window) | N/A |
+| 36 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 37 | [Hislop](http://twitter.com/search?q=Hislop) | N/A |
+| 38 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 39 | [Plimsolls](http://twitter.com/search?q=Plimsolls) | N/A |
+| 40 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 41 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 42 | [Stonewall](http://twitter.com/search?q=Stonewall) | N/A |
+| 43 | [New Labour](http://twitter.com/search?q=New+Labour) | N/A |
+| 44 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 45 | [Skye](http://twitter.com/search?q=Skye) | N/A |
+| 46 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 47 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 48 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 49 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
 
 
 

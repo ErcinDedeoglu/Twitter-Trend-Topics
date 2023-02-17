@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-17 11:16:26 UTC`
+📆 Last Updated: `2023-02-17 12:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 3 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
 | 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 7 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 8 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 9 | [cassy](http://twitter.com/search?q=cassy) | N/A |
-| 10 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 11 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 12 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 13 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 14 | [Salate](http://twitter.com/search?q=Salate) | N/A |
-| 15 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 16 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 17 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 18 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 19 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 20 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 21 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
-| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 23 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 24 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
-| 25 | [Vornamen](http://twitter.com/search?q=Vornamen) | N/A |
-| 26 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
-| 27 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 28 | [Klammer](http://twitter.com/search?q=Klammer) | N/A |
+| 5 | [Tony Marshall](http://twitter.com/search?q=Tony+Marshall) | N/A |
+| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 7 | [Bestimmte Gruppen](http://twitter.com/search?q=Bestimmte+Gruppen) | N/A |
+| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 9 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 10 | [cassy](http://twitter.com/search?q=cassy) | N/A |
+| 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 12 | [Klammer](http://twitter.com/search?q=Klammer) | N/A |
+| 13 | [Brösel](http://twitter.com/search?q=Br%c3%b6sel) | N/A |
+| 14 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 15 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 16 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 17 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
+| 18 | [Salate](http://twitter.com/search?q=Salate) | N/A |
+| 19 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 20 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 21 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 22 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 23 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 24 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 25 | [gysi](http://twitter.com/search?q=gysi) | N/A |
+| 26 | [palmer](http://twitter.com/search?q=palmer) | N/A |
+| 27 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 28 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
 | 29 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 30 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 31 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
-| 32 | [Warnschüsse](http://twitter.com/search?q=Warnsch%c3%bcsse) | N/A |
-| 33 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 34 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 35 | [Sondertrikot](http://twitter.com/search?q=Sondertrikot) | N/A |
-| 36 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 37 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 38 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 39 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 40 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 41 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
-| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 43 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 44 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 45 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 46 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 47 | [Welten](http://twitter.com/search?q=Welten) | N/A |
-| 48 | [Ausgabenproblem](http://twitter.com/search?q=Ausgabenproblem) | N/A |
+| 30 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 31 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 32 | [Vornamen](http://twitter.com/search?q=Vornamen) | N/A |
+| 33 | [regionalexpertise](http://twitter.com/search?q=regionalexpertise) | N/A |
+| 34 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 35 | [Unterschrift](http://twitter.com/search?q=Unterschrift) | N/A |
+| 36 | [Härte des Gesetzes](http://twitter.com/search?q=H%c3%a4rte+des+Gesetzes) | N/A |
+| 37 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 38 | [herr gersemann](http://twitter.com/search?q=herr+gersemann) | N/A |
+| 39 | [Klartext](http://twitter.com/search?q=Klartext) | N/A |
+| 40 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 41 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 42 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 43 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 44 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 45 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
+| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 47 | [Warnschüsse](http://twitter.com/search?q=Warnsch%c3%bcsse) | N/A |
+| 48 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
 
 
 

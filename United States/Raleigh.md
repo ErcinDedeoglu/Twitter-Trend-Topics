@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-17 11:16:57 UTC`
+📆 Last Updated: `2023-02-17 12:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SETH JARVIS](http://twitter.com/search?q=SETH+JARVIS) | N/A |
+| 1 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
 | 2 | [#LetsGoCanes](http://twitter.com/search?q=%23LetsGoCanes) | N/A |
-| 3 | [cam ward](http://twitter.com/search?q=cam+ward) | N/A |
+| 3 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
 | 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 6 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 7 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
-| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 7 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 8 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 9 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
+| 10 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
 | 11 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 12 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 14 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 15 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 16 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 17 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 18 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
-| 19 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 20 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 21 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 22 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 23 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
-| 24 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 25 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 26 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 27 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 28 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
-| 29 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 30 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 31 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 32 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 33 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 34 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 35 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 36 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 15 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
+| 16 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 17 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 18 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 19 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 20 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 21 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 22 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 23 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 24 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 25 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
+| 26 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 27 | [Challenger](http://twitter.com/search?q=Challenger) | N/A |
+| 28 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 29 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 30 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 31 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 32 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 33 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 34 | [Tony Dorsett](http://twitter.com/search?q=Tony+Dorsett) | N/A |
+| 35 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 36 | [Eternals](http://twitter.com/search?q=Eternals) | N/A |
 | 37 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
 | 38 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 39 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 40 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 41 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
-| 42 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 43 | [Aggretsuko](http://twitter.com/search?q=Aggretsuko) | N/A |
-| 44 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 45 | [Eternals](http://twitter.com/search?q=Eternals) | N/A |
-| 46 | [Challenger](http://twitter.com/search?q=Challenger) | N/A |
-| 47 | [Tony Dorsett](http://twitter.com/search?q=Tony+Dorsett) | N/A |
-| 48 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 49 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 50 | [Endgame](http://twitter.com/search?q=Endgame) | N/A |
+| 39 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 40 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 41 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 42 | [Jim Brown](http://twitter.com/search?q=Jim+Brown) | N/A |
+| 43 | [VAERS](http://twitter.com/search?q=VAERS) | N/A |
+| 44 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 45 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 46 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 47 | [#Wordle608](http://twitter.com/search?q=%23Wordle608) | N/A |
+| 48 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 49 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 50 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 
 
 

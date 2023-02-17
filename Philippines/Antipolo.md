@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-17 11:16:39 UTC`
+📆 Last Updated: `2023-02-17 12:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,43 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 3 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
 | 4 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
-| 5 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 6 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
-| 7 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
+| 5 | [#MCISanibPuwersa](http://twitter.com/search?q=%23MCISanibPuwersa) | N/A |
+| 6 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
+| 7 | [#approvedkanaba](http://twitter.com/search?q=%23approvedkanaba) | N/A |
 | 8 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 9 | [listen to joshcullen](http://twitter.com/search?q=listen+to+joshcullen) | N/A |
-| 10 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
-| 11 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 13 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 15 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 16 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 17 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 18 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
-| 19 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
-| 20 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 21 | [Version 2](http://twitter.com/search?q=Version+2) | N/A |
-| 22 | [kodrea on teenclashcon](http://twitter.com/search?q=kodrea+on+teenclashcon) | N/A |
-| 23 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 24 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
-| 25 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 26 | [MODEL JEONGYEON IS BACK](http://twitter.com/search?q=MODEL+JEONGYEON+IS+BACK) | N/A |
-| 27 | [Susannah](http://twitter.com/search?q=Susannah) | N/A |
-| 28 | [KODREA TEENCLASH AT UPFAIR](http://twitter.com/search?q=KODREA+TEENCLASH+AT+UPFAIR) | N/A |
-| 29 | [DAVID ForBluewaterSpa](http://twitter.com/search?q=DAVID+ForBluewaterSpa) | N/A |
-| 30 | [Rose Quartz and Serenity](http://twitter.com/search?q=Rose+Quartz+and+Serenity) | N/A |
-| 31 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 32 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 33 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 34 | [Jay Chang](http://twitter.com/search?q=Jay+Chang) | N/A |
-| 35 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 36 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
-| 37 | [Tenyong](http://twitter.com/search?q=Tenyong) | N/A |
-| 38 | [KD and Alexa](http://twitter.com/search?q=KD+and+Alexa) | N/A |
-| 39 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 40 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
-| 41 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 42 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 44 | [anne curtis](http://twitter.com/search?q=anne+curtis) | N/A |
-| 45 | [SEOJINS HIGHLIGHT REVEAL](http://twitter.com/search?q=SEOJINS+HIGHLIGHT+REVEAL) | N/A |
-| 46 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
-| 47 | [KAZUHA LADOR MUSE](http://twitter.com/search?q=KAZUHA+LADOR+MUSE) | N/A |
-| 48 | [bomi](http://twitter.com/search?q=bomi) | N/A |
-| 49 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 50 | [KAI COMEBACK](http://twitter.com/search?q=KAI+COMEBACK) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 11 | [hannie](http://twitter.com/search?q=hannie) | N/A |
+| 12 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
+| 13 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
+| 14 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 15 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 16 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
+| 17 | [Caratbong V3](http://twitter.com/search?q=Caratbong+V3) | N/A |
+| 18 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 19 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 20 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 21 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
+| 22 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 23 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 24 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 25 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
+| 26 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
+| 27 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 28 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
+| 29 | [#부석순_뮤직뱅크_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%eb%ae%a4%ec%a7%81%eb%b1%85%ed%81%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 30 | [#TDS2KyoceraDome_DAY1](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY1) | N/A |
+| 31 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 32 | [#TheVampsMNL](http://twitter.com/search?q=%23TheVampsMNL) | N/A |
+| 33 | [#제이홉인더박스밖으로뿅](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%ec%9d%b8%eb%8d%94%eb%b0%95%ec%8a%a4%eb%b0%96%ec%9c%bc%eb%a1%9c%eb%bf%85) | N/A |
+| 34 | [#TheVampsGreatestHitsTourMNL](http://twitter.com/search?q=%23TheVampsGreatestHitsTourMNL) | N/A |
+| 35 | [#제이홉보러디즈니플러스gogo](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%eb%b3%b4%eb%9f%ac%eb%94%94%ec%a6%88%eb%8b%88%ed%94%8c%eb%9f%ac%ec%8a%a4gogo) | N/A |
+| 36 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 37 | [#VadengsSelfieDay](http://twitter.com/search?q=%23VadengsSelfieDay) | N/A |
+| 38 | [#BOYCOTTEBxGMA709](http://twitter.com/search?q=%23BOYCOTTEBxGMA709) | N/A |
+| 39 | [#Changbin](http://twitter.com/search?q=%23Changbin) | N/A |
+| 40 | [#ShowtimeGirlAnneFire](http://twitter.com/search?q=%23ShowtimeGirlAnneFire) | N/A |
+| 41 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
 
 
 

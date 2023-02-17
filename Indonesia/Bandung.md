@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-17 11:16:32 UTC`
+📆 Last Updated: `2023-02-17 12:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 2 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 3 | [#HarlahEmasPPP](http://twitter.com/search?q=%23HarlahEmasPPP) | N/A |
-| 4 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
-| 5 | [#SDGsDesa](http://twitter.com/search?q=%23SDGsDesa) | N/A |
-| 6 | [Partai Persatuan Pembangunan](http://twitter.com/search?q=Partai+Persatuan+Pembangunan) | N/A |
-| 7 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
-| 8 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
-| 9 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 10 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
+| 3 | [#SDGsDesa](http://twitter.com/search?q=%23SDGsDesa) | N/A |
+| 4 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 5 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 6 | [#Gloryfinance](http://twitter.com/search?q=%23Gloryfinance) | N/A |
+| 7 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 8 | [Partai Persatuan Pembangunan](http://twitter.com/search?q=Partai+Persatuan+Pembangunan) | N/A |
+| 9 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 10 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
 | 11 | [Ver 3](http://twitter.com/search?q=Ver+3) | N/A |
 | 12 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 13 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 14 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 15 | [PSIS](http://twitter.com/search?q=PSIS) | N/A |
-| 16 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 17 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
-| 18 | [Genta](http://twitter.com/search?q=Genta) | N/A |
-| 19 | [Reformasi Total Sepakbola](http://twitter.com/search?q=Reformasi+Total+Sepakbola) | N/A |
-| 20 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 21 | [Zafran](http://twitter.com/search?q=Zafran) | N/A |
-| 22 | [Depok](http://twitter.com/search?q=Depok) | Depok is a city in West Java, Indonesia. The name Depok is derived from the Sanskrit word "Dipa-Kupa" which means "abode of the gods". In English, Depok can be translated to mean "divine abode". |
-| 23 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 24 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
-| 25 | [Chico](http://twitter.com/search?q=Chico) | N/A |
-| 26 | [ENAK AJA MUNDUR](http://twitter.com/search?q=ENAK+AJA+MUNDUR) | N/A |
-| 27 | [Nugget](http://twitter.com/search?q=Nugget) | N/A |
-| 28 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 29 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
-| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 31 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 32 | [#HariIniJakartaSTINBIN](http://twitter.com/search?q=%23HariIniJakartaSTINBIN) | N/A |
-| 33 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
-| 34 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
-| 35 | [#Gloryfinance](http://twitter.com/search?q=%23Gloryfinance) | N/A |
-| 36 | [#TDS2KyoceraDome_DAY1](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY1) | N/A |
-| 37 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 38 | [#AwasResikoKentalManis](http://twitter.com/search?q=%23AwasResikoKentalManis) | N/A |
-| 39 | [#AwasDiabetes](http://twitter.com/search?q=%23AwasDiabetes) | N/A |
-| 40 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 41 | [#부석순_뮤직뱅크_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%eb%ae%a4%ec%a7%81%eb%b1%85%ed%81%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 42 | [#OPPOPortraitofLoveXShopee](http://twitter.com/search?q=%23OPPOPortraitofLoveXShopee) | N/A |
+| 13 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 14 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 15 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 16 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 17 | [PSIS](http://twitter.com/search?q=PSIS) | N/A |
+| 18 | [TANPA PENONTON](http://twitter.com/search?q=TANPA+PENONTON) | N/A |
+| 19 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 20 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
+| 21 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
+| 22 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
+| 23 | [Genta](http://twitter.com/search?q=Genta) | N/A |
+| 24 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Chico](http://twitter.com/search?q=Chico) | N/A |
+| 27 | [Zafran](http://twitter.com/search?q=Zafran) | N/A |
+| 28 | [Depok](http://twitter.com/search?q=Depok) | Depok is a city in West Java, Indonesia. The name Depok is derived from the Sanskrit word "Dipa-Kupa" which means "abode of the gods". In English, Depok can be translated to mean "divine abode". |
+| 29 | [Nugget](http://twitter.com/search?q=Nugget) | N/A |
+| 30 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
+| 31 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 32 | [BPOM](http://twitter.com/search?q=BPOM) | N/A |
+| 33 | [CANTIK BGT](http://twitter.com/search?q=CANTIK+BGT) | N/A |
+| 34 | [ENAK AJA MUNDUR](http://twitter.com/search?q=ENAK+AJA+MUNDUR) | N/A |
+| 35 | [TVRI](http://twitter.com/search?q=TVRI) | N/A |
+| 36 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 37 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 38 | [#HarlahEmasPPP](http://twitter.com/search?q=%23HarlahEmasPPP) | N/A |
+| 39 | [#FERRAGAMO](http://twitter.com/search?q=%23FERRAGAMO) | N/A |
+| 40 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
+| 41 | [#TDS2KyoceraDome_DAY1](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY1) | N/A |
+| 42 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
 | 43 | [#OPPOReno8TdiShopee](http://twitter.com/search?q=%23OPPOReno8TdiShopee) | N/A |
-| 44 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
-| 45 | [#제이홉보러디즈니플러스gogo](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%eb%b3%b4%eb%9f%ac%eb%94%94%ec%a6%88%eb%8b%88%ed%94%8c%eb%9f%ac%ec%8a%a4gogo) | N/A |
-| 46 | [#제이홉인더박스밖으로뿅](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%ec%9d%b8%eb%8d%94%eb%b0%95%ec%8a%a4%eb%b0%96%ec%9c%bc%eb%a1%9c%eb%bf%85) | N/A |
-| 47 | [#kesiapanpetrokimiagresik2023](http://twitter.com/search?q=%23kesiapanpetrokimiagresik2023) | N/A |
-| 48 | [#ETPSSI](http://twitter.com/search?q=%23ETPSSI) | N/A |
-| 49 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
-| 50 | [#APOprojectBD2023](http://twitter.com/search?q=%23APOprojectBD2023) | N/A |
+| 44 | [#AwasDiabetes](http://twitter.com/search?q=%23AwasDiabetes) | N/A |
+| 45 | [#AwasResikoKentalManis](http://twitter.com/search?q=%23AwasResikoKentalManis) | N/A |
+| 46 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 47 | [#OPPOPortraitofLoveXShopee](http://twitter.com/search?q=%23OPPOPortraitofLoveXShopee) | N/A |
+| 48 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 49 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
+| 50 | [#부석순_뮤직뱅크_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%eb%ae%a4%ec%a7%81%eb%b1%85%ed%81%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 
 
 

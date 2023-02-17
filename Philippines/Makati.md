@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-17 11:16:38 UTC`
+📆 Last Updated: `2023-02-17 12:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 4 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 5 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
-| 6 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 7 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
-| 8 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 9 | [listen to joshcullen](http://twitter.com/search?q=listen+to+joshcullen) | N/A |
-| 10 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
-| 11 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 12 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 14 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 17 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
-| 18 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 19 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 20 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
-| 21 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 22 | [Version 2](http://twitter.com/search?q=Version+2) | N/A |
-| 23 | [kodrea on teenclashcon](http://twitter.com/search?q=kodrea+on+teenclashcon) | N/A |
-| 24 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
-| 25 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
-| 26 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 27 | [MODEL JEONGYEON IS BACK](http://twitter.com/search?q=MODEL+JEONGYEON+IS+BACK) | N/A |
-| 28 | [Susannah](http://twitter.com/search?q=Susannah) | N/A |
-| 29 | [KODREA TEENCLASH AT UPFAIR](http://twitter.com/search?q=KODREA+TEENCLASH+AT+UPFAIR) | N/A |
-| 30 | [DAVID ForBluewaterSpa](http://twitter.com/search?q=DAVID+ForBluewaterSpa) | N/A |
-| 31 | [Rose Quartz and Serenity](http://twitter.com/search?q=Rose+Quartz+and+Serenity) | N/A |
-| 32 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 33 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 34 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 35 | [Jay Chang](http://twitter.com/search?q=Jay+Chang) | N/A |
-| 36 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 37 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
-| 38 | [Tenyong](http://twitter.com/search?q=Tenyong) | N/A |
-| 39 | [KD and Alexa](http://twitter.com/search?q=KD+and+Alexa) | N/A |
-| 40 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 41 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
-| 42 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 44 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 45 | [anne curtis](http://twitter.com/search?q=anne+curtis) | N/A |
-| 46 | [SEOJINS HIGHLIGHT REVEAL](http://twitter.com/search?q=SEOJINS+HIGHLIGHT+REVEAL) | N/A |
-| 47 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
-| 48 | [KAZUHA LADOR MUSE](http://twitter.com/search?q=KAZUHA+LADOR+MUSE) | N/A |
-| 49 | [bomi](http://twitter.com/search?q=bomi) | N/A |
-| 50 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 1 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 2 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 3 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 5 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 6 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
+| 7 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 8 | [#MCISanibPuwersa](http://twitter.com/search?q=%23MCISanibPuwersa) | N/A |
+| 9 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
+| 10 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 13 | [hannie](http://twitter.com/search?q=hannie) | N/A |
+| 14 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
+| 15 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
+| 16 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 17 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 18 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
+| 19 | [Caratbong V3](http://twitter.com/search?q=Caratbong+V3) | N/A |
+| 20 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 21 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 22 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 23 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
+| 24 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 25 | [#approvedkanaba](http://twitter.com/search?q=%23approvedkanaba) | N/A |
+| 26 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 27 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
+| 28 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
+| 29 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 30 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
+| 31 | [#부석순_뮤직뱅크_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%eb%ae%a4%ec%a7%81%eb%b1%85%ed%81%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 32 | [#TDS2KyoceraDome_DAY1](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY1) | N/A |
+| 33 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 34 | [#TheVampsMNL](http://twitter.com/search?q=%23TheVampsMNL) | N/A |
+| 35 | [#제이홉인더박스밖으로뿅](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%ec%9d%b8%eb%8d%94%eb%b0%95%ec%8a%a4%eb%b0%96%ec%9c%bc%eb%a1%9c%eb%bf%85) | N/A |
+| 36 | [#TheVampsGreatestHitsTourMNL](http://twitter.com/search?q=%23TheVampsGreatestHitsTourMNL) | N/A |
+| 37 | [#제이홉보러디즈니플러스gogo](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89%eb%b3%b4%eb%9f%ac%eb%94%94%ec%a6%88%eb%8b%88%ed%94%8c%eb%9f%ac%ec%8a%a4gogo) | N/A |
+| 38 | [#VadengsSelfieDay](http://twitter.com/search?q=%23VadengsSelfieDay) | N/A |
+| 39 | [#BOYCOTTEBxGMA709](http://twitter.com/search?q=%23BOYCOTTEBxGMA709) | N/A |
+| 40 | [#Changbin](http://twitter.com/search?q=%23Changbin) | N/A |
+| 41 | [#ShowtimeGirlAnneFire](http://twitter.com/search?q=%23ShowtimeGirlAnneFire) | N/A |
+| 42 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
+| 43 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
 
 
 
