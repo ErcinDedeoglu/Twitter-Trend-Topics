@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-17 22:16:22 UTC`
+📆 Last Updated: `2023-02-17 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Algeria](</Algeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JSKWAC](http://twitter.com/search?q=%23JSKWAC) | N/A |
-| 2 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
+| 1 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
+| 2 | [#JSKWAC](http://twitter.com/search?q=%23JSKWAC) | N/A |
 | 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 4 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 5 | [#شبيبه_القبايل](http://twitter.com/search?q=%23%d8%b4%d8%a8%d9%8a%d8%a8%d9%87_%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d9%8a%d9%84) | N/A |
-| 6 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
+| 5 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
+| 6 | [#شبيبه_القبايل](http://twitter.com/search?q=%23%d8%b4%d8%a8%d9%8a%d8%a8%d9%87_%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d9%8a%d9%84) | N/A |
 | 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 8 | [علي التقاعد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af) | N/A |
 | 9 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Algeria](</Algeria>)
 | 11 | [السفير الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
 | 12 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 13 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 14 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 15 | [18 فيفري](http://twitter.com/search?q=18+%d9%81%d9%8a%d9%81%d8%b1%d9%8a) | N/A |
-| 16 | [لحفظ القران الكريم](http://twitter.com/search?q=%d9%84%d8%ad%d9%81%d8%b8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 17 | [علم الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
+| 14 | [18 فيفري](http://twitter.com/search?q=18+%d9%81%d9%8a%d9%81%d8%b1%d9%8a) | N/A |
+| 15 | [لحفظ القران الكريم](http://twitter.com/search?q=%d9%84%d8%ad%d9%81%d8%b8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 16 | [علم الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
+| 17 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 18 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 19 | [المرتبه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 20 | [5 جويليه](http://twitter.com/search?q=5+%d8%ac%d9%88%d9%8a%d9%84%d9%8a%d9%87) | N/A |
 | 21 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 22 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 24 | [طرابزون سبور](http://twitter.com/search?q=%d8%b7%d8%b1%d8%a7%d8%a8%d8%b2%d9%88%d9%86+%d8%b3%d8%a8%d9%88%d8%b1) | N/A |
 | 25 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 26 | [علم عربي](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 27 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 28 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 26 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 27 | [علم عربي](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 28 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
 | 29 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 30 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 31 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 32 | [المحكمه الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
-| 33 | [كريستنسن](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%86%d8%b3%d9%86) | N/A |
-| 34 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 35 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 30 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 31 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 32 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 33 | [المحكمه الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 34 | [كريستنسن](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%86%d8%b3%d9%86) | N/A |
+| 35 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
 | 36 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
 | 37 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 38 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
 | 39 | [الهلال الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
 | 40 | [سعودية](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 41 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
-| 42 | [عبد الكريم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 43 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 44 | [شهر رجب](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d8%ac%d8%a8) | N/A |
-| 45 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 46 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 47 | [الشعب الصحراوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 48 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 49 | [القدره الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 50 | [شمال افريقيا](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 41 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
+| 42 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
+| 43 | [عبد الكريم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 44 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 45 | [شهر رجب](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d8%ac%d8%a8) | N/A |
+| 46 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 47 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 48 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 49 | [شمال افريقيا](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 50 | [القدره الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 
 
 

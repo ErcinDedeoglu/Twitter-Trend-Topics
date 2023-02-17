@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-17 22:16:42 UTC`
+📆 Last Updated: `2023-02-17 23:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,11 +24,11 @@ This is top 50 for Austria
 | 7 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
 | 8 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 9 | [#w1602](http://twitter.com/search?q=%23w1602) | N/A |
-| 10 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 11 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 12 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 13 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 14 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 10 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 11 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 12 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 13 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 14 | [Experten](http://twitter.com/search?q=Experten) | N/A |
 | 15 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
 | 16 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
 | 17 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for Austria
 | 22 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 | 23 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
 | 24 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 25 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
-| 26 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 27 | [friede in europa](http://twitter.com/search?q=friede+in+europa) | N/A |
-| 28 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
-| 29 | [michael nikbakhsh](http://twitter.com/search?q=michael+nikbakhsh) | N/A |
+| 25 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 26 | [friede in europa](http://twitter.com/search?q=friede+in+europa) | N/A |
+| 27 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 28 | [michael nikbakhsh](http://twitter.com/search?q=michael+nikbakhsh) | N/A |
+| 29 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
 | 30 | [Gewessler](http://twitter.com/search?q=Gewessler) | N/A |
-| 31 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 32 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
-| 33 | [Logen](http://twitter.com/search?q=Logen) | N/A |
+| 31 | [Loge](http://twitter.com/search?q=Loge) | N/A |
+| 32 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 33 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
 | 34 | [Berge](http://twitter.com/search?q=Berge) | N/A |
 | 35 | [Betroffene](http://twitter.com/search?q=Betroffene) | N/A |
-| 36 | [Rezept](http://twitter.com/search?q=Rezept) | N/A |
-| 37 | [Obst](http://twitter.com/search?q=Obst) | N/A |
-| 38 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 39 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
-| 40 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 41 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
-| 42 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 43 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 44 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 45 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 46 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 47 | [Szene](http://twitter.com/search?q=Szene) | N/A |
-| 48 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 49 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
-| 50 | [lockdown für ungeimpfte](http://twitter.com/search?q=lockdown+f%c3%bcr+ungeimpfte) | N/A |
+| 36 | [Obst](http://twitter.com/search?q=Obst) | N/A |
+| 37 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 38 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 39 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 40 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 41 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 42 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 43 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
+| 44 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 45 | [Szene](http://twitter.com/search?q=Szene) | N/A |
+| 46 | [Dauer](http://twitter.com/search?q=Dauer) | N/A |
+| 47 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 48 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 49 | [lockdown für ungeimpfte](http://twitter.com/search?q=lockdown+f%c3%bcr+ungeimpfte) | N/A |
+| 50 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 
 
 

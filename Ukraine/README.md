@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-17 22:16:49 UTC`
+📆 Last Updated: `2023-02-17 23:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Ukraine
 | 18 | [Плачу](http://twitter.com/search?q=%d0%9f%d0%bb%d0%b0%d1%87%d1%83) | N/A |
 | 19 | [Azovstal](http://twitter.com/search?q=Azovstal) | N/A |
 | 20 | [Московия](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
-| 21 | [Отак](http://twitter.com/search?q=%d0%9e%d1%82%d0%b0%d0%ba) | N/A |
-| 22 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 21 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 22 | [Отак](http://twitter.com/search?q=%d0%9e%d1%82%d0%b0%d0%ba) | N/A |
 | 23 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 24 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
 | 25 | [бордюр](http://twitter.com/search?q=%d0%b1%d0%be%d1%80%d0%b4%d1%8e%d1%80) | N/A |
-| 26 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 27 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 28 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 29 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 30 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 27 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 28 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 29 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 30 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 31 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 32 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 33 | [Соловьева](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2%d0%b0) | N/A |
 | 34 | [Якщо](http://twitter.com/search?q=%d0%af%d0%ba%d1%89%d0%be) | N/A |
 | 35 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
 | 36 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
 | 37 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 38 | [зате](http://twitter.com/search?q=%d0%b7%d0%b0%d1%82%d0%b5) | N/A |
-| 39 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
-| 40 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
-| 41 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 42 | [Таак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%ba) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [зате](http://twitter.com/search?q=%d0%b7%d0%b0%d1%82%d0%b5) | N/A |
+| 40 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
+| 41 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
+| 42 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 43 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 44 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 46 | [Класика](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d0%b8%d0%ba%d0%b0) | N/A |
-| 47 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 48 | [Gazprom](http://twitter.com/search?q=Gazprom) | N/A |
-| 49 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 50 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 44 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 45 | [класика](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d0%b8%d0%ba%d0%b0) | N/A |
+| 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 47 | [Gazprom](http://twitter.com/search?q=Gazprom) | N/A |
+| 48 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 49 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 

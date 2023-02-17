@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-17 22:16:12 UTC`
+📆 Last Updated: `2023-02-17 23:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 2 | [#HLFC2023](http://twitter.com/search?q=%23HLFC2023) | N/A |
-| 3 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#222MillionDreams](http://twitter.com/search?q=%23222MillionDreams) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#222MillionDreams](http://twitter.com/search?q=%23222MillionDreams) | N/A |
+| 5 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
 | 6 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 7 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
 | 8 | [schnute](http://twitter.com/search?q=schnute) | N/A |
@@ -34,35 +34,35 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 | 18 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
 | 19 | [Ansichten](http://twitter.com/search?q=Ansichten) | N/A |
-| 20 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 21 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
-| 22 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 23 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 24 | [Nachfrage](http://twitter.com/search?q=Nachfrage) | N/A |
-| 25 | [Vero](http://twitter.com/search?q=Vero) | N/A |
-| 26 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 27 | [Lieben Dank](http://twitter.com/search?q=Lieben+Dank) | N/A |
-| 28 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
-| 29 | [Faeser](http://twitter.com/search?q=Faeser) | N/A |
-| 30 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 31 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Untersuchung](http://twitter.com/search?q=Untersuchung) | N/A |
-| 34 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
-| 35 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
-| 36 | [Infektion](http://twitter.com/search?q=Infektion) | N/A |
-| 37 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
-| 38 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 39 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 40 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 41 | [London](http://twitter.com/search?q=London) | N/A |
-| 42 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
-| 43 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
-| 44 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 45 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 46 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 47 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
-| 48 | [Beine](http://twitter.com/search?q=Beine) | N/A |
+| 20 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
+| 21 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 22 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 23 | [Nachfrage](http://twitter.com/search?q=Nachfrage) | N/A |
+| 24 | [Vero](http://twitter.com/search?q=Vero) | N/A |
+| 25 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 26 | [Lieben Dank](http://twitter.com/search?q=Lieben+Dank) | N/A |
+| 27 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
+| 28 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [Faeser](http://twitter.com/search?q=Faeser) | N/A |
+| 31 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 32 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 34 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 35 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 36 | [Untersuchung](http://twitter.com/search?q=Untersuchung) | N/A |
+| 37 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
+| 38 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
+| 39 | [Infektion](http://twitter.com/search?q=Infektion) | N/A |
+| 40 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
+| 41 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
+| 42 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 43 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 44 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 45 | [Farben](http://twitter.com/search?q=Farben) | N/A |
+| 46 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 47 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
+| 48 | [Presse](http://twitter.com/search?q=Presse) | N/A |
 
 
 

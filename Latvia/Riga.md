@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-17 22:16:12 UTC`
+📆 Last Updated: `2023-02-17 23:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Latvia](</Latvia>)
 | 6 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
 | 7 | [Ņemot](http://twitter.com/search?q=%c5%85emot) | N/A |
 | 8 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
-| 9 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
-| 10 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 11 | [Klau](http://twitter.com/search?q=Klau) | N/A |
-| 12 | [#Ukraina](http://twitter.com/search?q=%23Ukraina) | N/A |
-| 13 | [beidz](http://twitter.com/search?q=beidz) | N/A |
-| 14 | [#krievija](http://twitter.com/search?q=%23krievija) | N/A |
-| 15 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 16 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 17 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
-| 18 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 19 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
-| 20 | [turcijas](http://twitter.com/search?q=turcijas) | N/A |
-| 21 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
-| 22 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
-| 23 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 24 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 25 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 26 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 27 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 28 | [Liels](http://twitter.com/search?q=Liels) | N/A |
-| 29 | [putinu](http://twitter.com/search?q=putinu) | N/A |
-| 30 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
-| 31 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 32 | [piedod](http://twitter.com/search?q=piedod) | N/A |
-| 33 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
-| 34 | [Varu](http://twitter.com/search?q=Varu) | N/A |
-| 35 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
-| 36 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 37 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
-| 38 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 39 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 40 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 41 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 42 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 43 | [Vienīgais](http://twitter.com/search?q=Vien%c4%abgais) | N/A |
-| 44 | [Labi](http://twitter.com/search?q=Labi) | N/A |
-| 45 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 46 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
-| 47 | [Kādas](http://twitter.com/search?q=K%c4%81das) | N/A |
-| 48 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
-| 49 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
-| 50 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 9 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
+| 10 | [Klau](http://twitter.com/search?q=Klau) | N/A |
+| 11 | [#Ukraina](http://twitter.com/search?q=%23Ukraina) | N/A |
+| 12 | [beidz](http://twitter.com/search?q=beidz) | N/A |
+| 13 | [#krievija](http://twitter.com/search?q=%23krievija) | N/A |
+| 14 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 15 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 16 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
+| 17 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 18 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
+| 19 | [turcijas](http://twitter.com/search?q=turcijas) | N/A |
+| 20 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
+| 21 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
+| 22 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 23 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 24 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
+| 25 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 26 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
+| 27 | [Liels](http://twitter.com/search?q=Liels) | N/A |
+| 28 | [putinu](http://twitter.com/search?q=putinu) | N/A |
+| 29 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 30 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 31 | [piedod](http://twitter.com/search?q=piedod) | N/A |
+| 32 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
+| 33 | [Varu](http://twitter.com/search?q=Varu) | N/A |
+| 34 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 35 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
+| 36 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 37 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 38 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 39 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
+| 40 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
+| 41 | [Labi](http://twitter.com/search?q=Labi) | N/A |
+| 42 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
+| 43 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 44 | [Kādas](http://twitter.com/search?q=K%c4%81das) | N/A |
+| 45 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 46 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
+| 47 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 48 | [Pagaidām](http://twitter.com/search?q=Pagaid%c4%81m) | N/A |
+| 49 | [šito](http://twitter.com/search?q=%c5%a1ito) | N/A |
+| 50 | [atkal](http://twitter.com/search?q=atkal) | N/A |
 
 
 

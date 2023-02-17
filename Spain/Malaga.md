@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-17 22:16:11 UTC`
+📆 Last Updated: `2023-02-17 23:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023Final](http://twitter.com/search?q=%23COAC2023Final) | N/A |
-| 2 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
+| 2 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
 | 3 | [#33Finales](http://twitter.com/search?q=%2333Finales) | N/A |
-| 4 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
+| 4 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
 | 5 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 6 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 7 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 6 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 7 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 8 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 9 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 10 | [#ElDesafío6](http://twitter.com/search?q=%23ElDesaf%c3%ado6) | N/A |
-| 11 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
-| 12 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
-| 13 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 14 | [Zaza](http://twitter.com/search?q=Zaza) | N/A |
-| 15 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
-| 16 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 17 | [Formiga](http://twitter.com/search?q=Formiga) | N/A |
-| 18 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 19 | [Koba](http://twitter.com/search?q=Koba) | N/A |
-| 20 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
-| 21 | [Aleix García](http://twitter.com/search?q=Aleix+Garc%c3%ada) | N/A |
-| 22 | [Edye](http://twitter.com/search?q=Edye) | N/A |
-| 23 | [Babic](http://twitter.com/search?q=Babic) | N/A |
-| 24 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 25 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 26 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
-| 27 | [Falla](http://twitter.com/search?q=Falla) | N/A |
-| 28 | [Tsygankov](http://twitter.com/search?q=Tsygankov) | N/A |
+| 9 | [#ElDesafío6](http://twitter.com/search?q=%23ElDesaf%c3%ado6) | N/A |
+| 10 | [Noly](http://twitter.com/search?q=Noly) | N/A |
+| 11 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 12 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 13 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 14 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 15 | [Robertone](http://twitter.com/search?q=Robertone) | N/A |
+| 16 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
+| 17 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 18 | [Koba](http://twitter.com/search?q=Koba) | N/A |
+| 19 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 20 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 21 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
+| 22 | [Zaza](http://twitter.com/search?q=Zaza) | N/A |
+| 23 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
+| 24 | [Joventut](http://twitter.com/search?q=Joventut) | N/A |
+| 25 | [Formiga](http://twitter.com/search?q=Formiga) | N/A |
+| 26 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
+| 27 | [Ante Tomic](http://twitter.com/search?q=Ante+Tomic) | N/A |
+| 28 | [2vs1](http://twitter.com/search?q=2vs1) | N/A |
 | 29 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 30 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
-| 31 | [Mireia](http://twitter.com/search?q=Mireia) | N/A |
-| 32 | [2vs1](http://twitter.com/search?q=2vs1) | N/A |
-| 33 | [Selu](http://twitter.com/search?q=Selu) | N/A |
-| 34 | [Penya](http://twitter.com/search?q=Penya) | N/A |
-| 35 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
-| 36 | [Jorge Salvaje](http://twitter.com/search?q=Jorge+Salvaje) | N/A |
-| 37 | [Goliat](http://twitter.com/search?q=Goliat) | N/A |
-| 38 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 39 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 40 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 41 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 42 | [Dejo Twitter](http://twitter.com/search?q=Dejo+Twitter) | N/A |
-| 43 | [Lenovo Tenerife](http://twitter.com/search?q=Lenovo+Tenerife) | N/A |
-| 44 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
-| 45 | [Granca](http://twitter.com/search?q=Granca) | N/A |
-| 46 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
-| 47 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 48 | [Carnaval de Cádiz](http://twitter.com/search?q=Carnaval+de+C%c3%a1diz) | N/A |
-| 49 | [Jaime Fernández](http://twitter.com/search?q=Jaime+Fern%c3%a1ndez) | N/A |
-| 50 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 30 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 31 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 32 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 33 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
+| 34 | [Aleix García](http://twitter.com/search?q=Aleix+Garc%c3%ada) | N/A |
+| 35 | [Penya](http://twitter.com/search?q=Penya) | N/A |
+| 36 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 37 | [Peñarroya](http://twitter.com/search?q=Pe%c3%b1arroya) | N/A |
+| 38 | [Jorge Salvaje](http://twitter.com/search?q=Jorge+Salvaje) | N/A |
+| 39 | [Babic](http://twitter.com/search?q=Babic) | N/A |
+| 40 | [Tsygankov](http://twitter.com/search?q=Tsygankov) | N/A |
+| 41 | [Viti](http://twitter.com/search?q=Viti) | N/A |
+| 42 | [Musto](http://twitter.com/search?q=Musto) | N/A |
+| 43 | [Edye](http://twitter.com/search?q=Edye) | N/A |
+| 44 | [Borja Valle](http://twitter.com/search?q=Borja+Valle) | N/A |
+| 45 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 46 | [Selu](http://twitter.com/search?q=Selu) | N/A |
+| 47 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 48 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 49 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
+| 50 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-17 22:16:42 UTC`
+📆 Last Updated: `2023-02-17 23:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 2 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 4 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 3 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 4 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 5 | [Гомеле](http://twitter.com/search?q=%d0%93%d0%be%d0%bc%d0%b5%d0%bb%d0%b5) | N/A |
 | 6 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 7 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
@@ -36,10 +36,12 @@ This is top 50 for Belarus
 | 19 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 20 | [#cryptonews](http://twitter.com/search?q=%23cryptonews) | N/A |
 | 21 | [#nftart](http://twitter.com/search?q=%23nftart) | N/A |
-| 22 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
-| 23 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 24 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 25 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 22 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
+| 23 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 24 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
+| 25 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 26 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 27 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 
 
 

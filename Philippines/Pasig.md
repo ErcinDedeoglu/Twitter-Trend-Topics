@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-17 22:16:20 UTC`
+📆 Last Updated: `2023-02-17 23:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 6 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
 | 7 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 8 | [tracklist for readytobe](http://twitter.com/search?q=tracklist+for+readytobe) | N/A |
-| 9 | [hansol](http://twitter.com/search?q=hansol) | N/A |
-| 10 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 11 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 12 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 13 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 14 | [jc hints](http://twitter.com/search?q=jc+hints) | N/A |
-| 15 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 16 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 17 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 18 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 19 | [jc silently listens](http://twitter.com/search?q=jc+silently+listens) | N/A |
-| 20 | [global visual kim day](http://twitter.com/search?q=global+visual+kim+day) | N/A |
-| 21 | [filay damagecontrol](http://twitter.com/search?q=filay+damagecontrol) | N/A |
-| 22 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 23 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
-| 24 | [deekay](http://twitter.com/search?q=deekay) | N/A |
-| 25 | [david forbluewaterspa](http://twitter.com/search?q=david+forbluewaterspa) | N/A |
-| 26 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 27 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 28 | [NONIE](http://twitter.com/search?q=NONIE) | N/A |
-| 29 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 30 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 31 | [happy furday naya](http://twitter.com/search?q=happy+furday+naya) | N/A |
-| 32 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
-| 33 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
-| 34 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
-| 35 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
-| 36 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 37 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 38 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
-| 39 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 40 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 41 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 42 | [Super King Cow Baby](http://twitter.com/search?q=Super+King+Cow+Baby) | N/A |
-| 43 | [Raica](http://twitter.com/search?q=Raica) | N/A |
-| 44 | [Our Hope](http://twitter.com/search?q=Our+Hope) | N/A |
-| 45 | [Hoba](http://twitter.com/search?q=Hoba) | N/A |
-| 46 | [Godbless](http://twitter.com/search?q=Godbless) | N/A |
-| 47 | [Sope](http://twitter.com/search?q=Sope) | N/A |
-| 48 | [Bunso](http://twitter.com/search?q=Bunso) | N/A |
-| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [ALDENx2023 StaRosaSikhayan](http://twitter.com/search?q=ALDENx2023+StaRosaSikhayan) | N/A |
+| 9 | [tracklist for readytobe](http://twitter.com/search?q=tracklist+for+readytobe) | N/A |
+| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 11 | [hansol](http://twitter.com/search?q=hansol) | N/A |
+| 12 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
+| 13 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 14 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
+| 15 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 16 | [jc hints](http://twitter.com/search?q=jc+hints) | N/A |
+| 17 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 18 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 19 | [happy birthday ate mac](http://twitter.com/search?q=happy+birthday+ate+mac) | N/A |
+| 20 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 21 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
+| 22 | [global visual kim day](http://twitter.com/search?q=global+visual+kim+day) | N/A |
+| 23 | [filay damagecontrol](http://twitter.com/search?q=filay+damagecontrol) | N/A |
+| 24 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 25 | [HAPPY BIRTHDAY SUNSHINE](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE) | N/A |
+| 26 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
+| 27 | [david forbluewaterspa](http://twitter.com/search?q=david+forbluewaterspa) | N/A |
+| 28 | [Nonie](http://twitter.com/search?q=Nonie) | N/A |
+| 29 | [DEEKAY](http://twitter.com/search?q=DEEKAY) | N/A |
+| 30 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 31 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [happy furday naya](http://twitter.com/search?q=happy+furday+naya) | N/A |
+| 34 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
+| 35 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 36 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
+| 37 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
+| 38 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
+| 39 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 40 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
+| 41 | [dokyeom](http://twitter.com/search?q=dokyeom) | N/A |
+| 42 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
+| 43 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 44 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 45 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 46 | [218 Bros](http://twitter.com/search?q=218+Bros) | N/A |
+| 47 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 48 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 49 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 
 
 

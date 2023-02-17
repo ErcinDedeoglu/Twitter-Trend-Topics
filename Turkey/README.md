@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-17 22:16:49 UTC`
+📆 Last Updated: `2023-02-17 23:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Turkey
 | 1 | [#Konya](http://twitter.com/search?q=%23Konya) | N/A |
 | 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
 | 3 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 4 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
+| 4 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
 | 5 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 6 | [#notalın](http://twitter.com/search?q=%23notal%c4%b1n) | N/A |
-| 7 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 6 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
+| 7 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
 | 8 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
 | 9 | [Selçuklu](http://twitter.com/search?q=Sel%c3%a7uklu) | N/A |
 | 10 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 11 | [Miraç](http://twitter.com/search?q=Mira%c3%a7) | N/A |
-| 12 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
-| 13 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 11 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 12 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 13 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
 | 14 | [İslam](http://twitter.com/search?q=%c4%b0slam) | N/A |
 | 15 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 16 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 17 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
-| 18 | [İyi Geceler](http://twitter.com/search?q=%c4%b0yi+Geceler) | N/A |
+| 16 | [Tuzla](http://twitter.com/search?q=Tuzla) | N/A |
+| 17 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 18 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
 | 19 | [Arınç](http://twitter.com/search?q=Ar%c4%b1n%c3%a7) | N/A |
-| 20 | [Biride](http://twitter.com/search?q=Biride) | N/A |
-| 21 | [Tuzla](http://twitter.com/search?q=Tuzla) | N/A |
+| 20 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 21 | [Biride](http://twitter.com/search?q=Biride) | N/A |
 | 22 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 23 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 24 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
-| 25 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 23 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 24 | [Memleket Partisi](http://twitter.com/search?q=Memleket+Partisi) | N/A |
+| 25 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
 | 26 | [Güzem](http://twitter.com/search?q=G%c3%bczem) | N/A |
 | 27 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 28 | [Pendik](http://twitter.com/search?q=Pendik) | N/A |
-| 29 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 30 | [Memleket Partisi](http://twitter.com/search?q=Memleket+Partisi) | N/A |
-| 31 | [Kartal](http://twitter.com/search?q=Kartal) | N/A |
-| 32 | [Isra](http://twitter.com/search?q=Isra) | N/A |
-| 33 | [Rektör](http://twitter.com/search?q=Rekt%c3%b6r) | N/A |
-| 34 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 35 | [Askim](http://twitter.com/search?q=Askim) | N/A |
-| 36 | [Akılları](http://twitter.com/search?q=Ak%c4%b1llar%c4%b1) | N/A |
-| 37 | [Muhittin](http://twitter.com/search?q=Muhittin) | N/A |
-| 38 | [Hakan Yasinoğlu](http://twitter.com/search?q=Hakan+Yasino%c4%9flu) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 41 | [Josef de Souza](http://twitter.com/search?q=Josef+de+Souza) | N/A |
-| 42 | [İlahiyatçı](http://twitter.com/search?q=%c4%b0lahiyat%c3%a7%c4%b1) | N/A |
-| 43 | [Dekan](http://twitter.com/search?q=Dekan) | N/A |
-| 44 | [Mimarlık](http://twitter.com/search?q=Mimarl%c4%b1k) | N/A |
-| 45 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
-| 46 | [Kızın](http://twitter.com/search?q=K%c4%b1z%c4%b1n) | N/A |
-| 47 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 48 | [Hayirli](http://twitter.com/search?q=Hayirli) | N/A |
-| 49 | [Peygamber Efendimizin](http://twitter.com/search?q=Peygamber+Efendimizin) | N/A |
-| 50 | [Benimki](http://twitter.com/search?q=Benimki) | N/A |
+| 28 | [Askim](http://twitter.com/search?q=Askim) | N/A |
+| 29 | [Kartal](http://twitter.com/search?q=Kartal) | N/A |
+| 30 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
+| 31 | [Isra](http://twitter.com/search?q=Isra) | N/A |
+| 32 | [Akılları](http://twitter.com/search?q=Ak%c4%b1llar%c4%b1) | N/A |
+| 33 | [Benimki](http://twitter.com/search?q=Benimki) | N/A |
+| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 35 | [Muhittin](http://twitter.com/search?q=Muhittin) | N/A |
+| 36 | [Josef de Souza](http://twitter.com/search?q=Josef+de+Souza) | N/A |
+| 37 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
+| 38 | [İlahiyatçı](http://twitter.com/search?q=%c4%b0lahiyat%c3%a7%c4%b1) | N/A |
+| 39 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
+| 40 | [Kızın](http://twitter.com/search?q=K%c4%b1z%c4%b1n) | N/A |
+| 41 | [Peygamber Efendimizin](http://twitter.com/search?q=Peygamber+Efendimizin) | N/A |
+| 42 | [#notalın](http://twitter.com/search?q=%23notal%c4%b1n) | N/A |
+| 43 | [#BingölAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Bing%c3%b6lAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 44 | [#Benidenotedin](http://twitter.com/search?q=%23Benidenotedin) | N/A |
+| 45 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 46 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 47 | [#Miracgecemiz](http://twitter.com/search?q=%23Miracgecemiz) | N/A |
+| 48 | [#DepremÇocuklarıGüvendeMi](http://twitter.com/search?q=%23Deprem%c3%87ocuklar%c4%b1G%c3%bcvendeMi) | N/A |
+| 49 | [#tehdit](http://twitter.com/search?q=%23tehdit) | N/A |
+| 50 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
 
 
 

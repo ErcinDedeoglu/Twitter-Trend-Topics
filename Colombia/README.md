@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-17 22:16:43 UTC`
+📆 Last Updated: `2023-02-17 23:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Colombia
 | 10 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 | 11 | [#LaProcuraduriaEs](http://twitter.com/search?q=%23LaProcuraduriaEs) | N/A |
 | 12 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 13 | [Pedro Gómez](http://twitter.com/search?q=Pedro+G%c3%b3mez) | N/A |
+| 13 | [Pedro Gómez Barrero](http://twitter.com/search?q=Pedro+G%c3%b3mez+Barrero) | N/A |
 | 14 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 15 | [Educar](http://twitter.com/search?q=Educar) | N/A |
 | 16 | [Las JAC](http://twitter.com/search?q=Las+JAC) | N/A |
-| 17 | [Autori](http://twitter.com/search?q=Autori) | N/A |
-| 18 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 19 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 20 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 21 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 17 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 18 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
+| 19 | [Autori](http://twitter.com/search?q=Autori) | N/A |
+| 20 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 21 | [Matador](http://twitter.com/search?q=Matador) | N/A |
 | 22 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 23 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 24 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
-| 25 | [Alejandro Restrepo](http://twitter.com/search?q=Alejandro+Restrepo) | N/A |
-| 26 | [UNA NOCHE CON YATRA](http://twitter.com/search?q=UNA+NOCHE+CON+YATRA) | N/A |
-| 27 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 28 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
-| 29 | [Mi Casa Ya](http://twitter.com/search?q=Mi+Casa+Ya) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 34 | [Botero](http://twitter.com/search?q=Botero) | N/A |
-| 35 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 36 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 37 | [Opeth](http://twitter.com/search?q=Opeth) | N/A |
-| 38 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
-| 39 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 40 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 41 | [ICOPOR](http://twitter.com/search?q=ICOPOR) | N/A |
-| 42 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
-| 43 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
-| 44 | [Karen Abudinen](http://twitter.com/search?q=Karen+Abudinen) | N/A |
-| 45 | [Unicentro](http://twitter.com/search?q=Unicentro) | N/A |
-| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 48 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 50 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
+| 23 | [Alejandro Restrepo](http://twitter.com/search?q=Alejandro+Restrepo) | N/A |
+| 24 | [Unicentro](http://twitter.com/search?q=Unicentro) | N/A |
+| 25 | [UNA NOCHE CON YATRA](http://twitter.com/search?q=UNA+NOCHE+CON+YATRA) | N/A |
+| 26 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
+| 27 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 28 | [Mi Casa Ya](http://twitter.com/search?q=Mi+Casa+Ya) | N/A |
+| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [Botero](http://twitter.com/search?q=Botero) | N/A |
+| 32 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 33 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 34 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 35 | [Opeth](http://twitter.com/search?q=Opeth) | N/A |
+| 36 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 37 | [Karen Abudinen](http://twitter.com/search?q=Karen+Abudinen) | N/A |
+| 38 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 39 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 40 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
+| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 42 | [ICOPOR](http://twitter.com/search?q=ICOPOR) | N/A |
+| 43 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 44 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 46 | [jerarquía](http://twitter.com/search?q=jerarqu%c3%ada) | N/A |
+| 47 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 48 | [Guanumen](http://twitter.com/search?q=Guanumen) | N/A |
+| 49 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 50 | [Hollman](http://twitter.com/search?q=Hollman) | N/A |
 
 
 

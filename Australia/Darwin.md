@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-17 22:16:15 UTC`
+📆 Last Updated: `2023-02-17 23:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 5 | [#Wordle609](http://twitter.com/search?q=%23Wordle609) | N/A |
-| 6 | [Agar](http://twitter.com/search?q=Agar) | N/A |
-| 7 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 8 | [#nrlroostersmanly](http://twitter.com/search?q=%23nrlroostersmanly) | N/A |
-| 9 | [#wunvwel](http://twitter.com/search?q=%23wunvwel) | N/A |
-| 10 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
-| 11 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 12 | [Deane](http://twitter.com/search?q=Deane) | N/A |
-| 13 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
-| 14 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 16 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 17 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 18 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 19 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 20 | [Labor and the Greens](http://twitter.com/search?q=Labor+and+the+Greens) | N/A |
-| 21 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 23 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
-| 24 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 25 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 26 | [todd murphy](http://twitter.com/search?q=todd+murphy) | N/A |
-| 27 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 28 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 29 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 30 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 31 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
-| 32 | [cprs](http://twitter.com/search?q=cprs) | N/A |
-| 33 | [james sicily](http://twitter.com/search?q=james+sicily) | N/A |
-| 34 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 35 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
-| 36 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 37 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 38 | [chase buford](http://twitter.com/search?q=chase+buford) | N/A |
-| 39 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 40 | [Soares](http://twitter.com/search?q=Soares) | N/A |
-| 41 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 42 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
-| 43 | [Tudehope](http://twitter.com/search?q=Tudehope) | N/A |
-| 44 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 45 | [Scott Morrison](http://twitter.com/search?q=Scott+Morrison) | N/A |
-| 46 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 47 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
-| 48 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 49 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
-| 50 | [moonee valley](http://twitter.com/search?q=moonee+valley) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
+| 5 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 6 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
+| 7 | [#Wordle609](http://twitter.com/search?q=%23Wordle609) | N/A |
+| 8 | [On Dutton](http://twitter.com/search?q=On+Dutton) | N/A |
+| 9 | [#nrlroostersmanly](http://twitter.com/search?q=%23nrlroostersmanly) | N/A |
+| 10 | [#wunvwel](http://twitter.com/search?q=%23wunvwel) | N/A |
+| 11 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
+| 12 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 13 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 14 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
+| 15 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
+| 16 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 17 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 18 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
+| 19 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
+| 20 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
+| 21 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 22 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 23 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 24 | [Shower](http://twitter.com/search?q=Shower) | N/A |
+| 25 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
+| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 27 | [Flemington](http://twitter.com/search?q=Flemington) | N/A |
+| 28 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 29 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
+| 30 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 31 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 32 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
+| 33 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 34 | [todd murphy](http://twitter.com/search?q=todd+murphy) | N/A |
+| 35 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 36 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 37 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 38 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
+| 39 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 40 | [james sicily](http://twitter.com/search?q=james+sicily) | N/A |
+| 41 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 42 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 43 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 44 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 45 | [chase buford](http://twitter.com/search?q=chase+buford) | N/A |
+| 46 | [Tudehope](http://twitter.com/search?q=Tudehope) | N/A |
+| 47 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 48 | [Soares](http://twitter.com/search?q=Soares) | N/A |
+| 49 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
+| 50 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-17 22:16:13 UTC`
+📆 Last Updated: `2023-02-17 23:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 2 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 6 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
-| 7 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
-| 8 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
-| 9 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 5 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 6 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
+| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 8 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 10 | [kjenner](http://twitter.com/search?q=kjenner) | N/A |
-| 11 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 11 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 12 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 13 | [Kristoffersen](http://twitter.com/search?q=Kristoffersen) | N/A |
-| 14 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 15 | [Rystad](http://twitter.com/search?q=Rystad) | N/A |
+| 13 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 14 | [Kristoffersen](http://twitter.com/search?q=Kristoffersen) | N/A |
+| 15 | [rystad](http://twitter.com/search?q=rystad) | N/A |
 | 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 17 | [lundteigen](http://twitter.com/search?q=lundteigen) | N/A |
+| 17 | [Krim](http://twitter.com/search?q=Krim) | N/A |
 | 18 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 | 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 21 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 24 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
-| 25 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 26 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 27 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 28 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 29 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 30 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 22 | [Azov](http://twitter.com/search?q=Azov) | N/A |
+| 23 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 24 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 25 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 26 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 27 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 28 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 29 | [Raudt](http://twitter.com/search?q=Raudt) | N/A |
+| 30 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
 | 31 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
 | 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 33 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 34 | [Raudt](http://twitter.com/search?q=Raudt) | N/A |
-| 35 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
-| 36 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 34 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 35 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 36 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
 | 37 | [TV2 Play](http://twitter.com/search?q=TV2+Play) | N/A |
 | 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 39 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 40 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
-| 41 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 42 | [England](http://twitter.com/search?q=England) | N/A |
-| 43 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 44 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 45 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
-| 46 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 47 | [Samtidig](http://twitter.com/search?q=Samtidig) | N/A |
-| 48 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 49 | [Marius](http://twitter.com/search?q=Marius) | N/A |
-| 50 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 39 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
+| 40 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 41 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 42 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 43 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 44 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 45 | [Samtidig](http://twitter.com/search?q=Samtidig) | N/A |
+| 46 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 47 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 48 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 49 | [Frelsesarmeen](http://twitter.com/search?q=Frelsesarmeen) | N/A |
+| 50 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 
 
 
