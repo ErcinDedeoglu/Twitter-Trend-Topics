@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-17 05:16:25 UTC`
+📆 Last Updated: `2023-02-17 06:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,39 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 2 | [Tomás Ángel](http://twitter.com/search?q=Tom%c3%a1s+%c3%81ngel) | N/A |
-| 3 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 4 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 3 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 4 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
 | 5 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
 | 6 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 7 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 8 | [Alejandro Restrepo](http://twitter.com/search?q=Alejandro+Restrepo) | N/A |
-| 9 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
+| 7 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 8 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 9 | [Alejandro Restrepo](http://twitter.com/search?q=Alejandro+Restrepo) | N/A |
 | 10 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 11 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
+| 11 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
 | 12 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 13 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
-| 14 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 13 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
+| 14 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
 | 15 | [#SDVSF](http://twitter.com/search?q=%23SDVSF) | N/A |
 | 16 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
 | 17 | [Memin](http://twitter.com/search?q=Memin) | N/A |
 | 18 | [Arley Rodríguez](http://twitter.com/search?q=Arley+Rodr%c3%adguez) | N/A |
 | 19 | [Zuluaga](http://twitter.com/search?q=Zuluaga) | N/A |
 | 20 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
-| 21 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
-| 22 | [Yesus Cabrera](http://twitter.com/search?q=Yesus+Cabrera) | N/A |
-| 23 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 24 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 25 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 26 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 27 | [#ESPNF90Colombia](http://twitter.com/search?q=%23ESPNF90Colombia) | N/A |
-| 28 | [Solis](http://twitter.com/search?q=Solis) | N/A |
-| 29 | [Campeón](http://twitter.com/search?q=Campe%c3%b3n) | N/A |
-| 30 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 31 | [Penal](http://twitter.com/search?q=Penal) | N/A |
-| 32 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 33 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 34 | [#VamosNacional](http://twitter.com/search?q=%23VamosNacional) | N/A |
-| 35 | [Verde](http://twitter.com/search?q=Verde) | N/A |
-| 36 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 37 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 38 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 39 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 40 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
+| 21 | [Opeth](http://twitter.com/search?q=Opeth) | N/A |
+| 22 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 23 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
+| 24 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 25 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 26 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 27 | [Solis](http://twitter.com/search?q=Solis) | N/A |
+| 28 | [Campeón](http://twitter.com/search?q=Campe%c3%b3n) | N/A |
+| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 30 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 31 | [Verde](http://twitter.com/search?q=Verde) | N/A |
+| 32 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 33 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 34 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 35 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-17 05:16:53 UTC`
+📆 Last Updated: `2023-02-17 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,11 +22,11 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#KKvIU](http://twitter.com/search?q=%23KKvIU) | N/A |
 | 6 | [Islamabad united](http://twitter.com/search?q=Islamabad+united) | N/A |
 | 7 | [haider ali](http://twitter.com/search?q=haider+ali) | N/A |
-| 8 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 9 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 10 | [MUNRO](http://twitter.com/search?q=MUNRO) | N/A |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
+| 8 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 9 | [Munro](http://twitter.com/search?q=Munro) | N/A |
+| 10 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 11 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
+| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 13 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
 | 14 | [deception is not](http://twitter.com/search?q=deception+is+not) | N/A |
 | 15 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 17 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
 | 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 19 | [usman yousuf](http://twitter.com/search?q=usman+yousuf) | N/A |
-| 20 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
-| 21 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 22 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
-| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 20 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 21 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
+| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 23 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 24 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
 | 25 | [rumman raees](http://twitter.com/search?q=rumman+raees) | N/A |
-| 26 | [rs 150 to rs 272](http://twitter.com/search?q=rs+150+to+rs+272) | N/A |
-| 27 | [rs 16](http://twitter.com/search?q=rs+16) | N/A |
-| 28 | [rs 44](http://twitter.com/search?q=rs+44) | N/A |
-| 29 | ["Shaddy"](http://twitter.com/search?q=%22Shaddy%22) | N/A |
-| 30 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 31 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 26 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 27 | [shaddy](http://twitter.com/search?q=shaddy) | N/A |
+| 28 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
+| 29 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 30 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 31 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
 | 32 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 33 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
 | 34 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
-| 35 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
-| 36 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 37 | [Babul Hawaij](http://twitter.com/search?q=Babul+Hawaij) | N/A |
+| 35 | [Rs 272](http://twitter.com/search?q=Rs+272) | N/A |
+| 36 | [Babul Hawaij](http://twitter.com/search?q=Babul+Hawaij) | N/A |
+| 37 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
 | 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 39 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 40 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 41 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 42 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 43 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 45 | [Pakistanis](http://twitter.com/search?q=Pakistanis) | N/A |
-| 46 | [Baji](http://twitter.com/search?q=Baji) | N/A |
-| 47 | [Pagal](http://twitter.com/search?q=Pagal) | N/A |
-| 48 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 49 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 50 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 39 | [Rs 16](http://twitter.com/search?q=Rs+16) | N/A |
+| 40 | [Rs 44](http://twitter.com/search?q=Rs+44) | N/A |
+| 41 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 42 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 43 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 44 | [Rs 130](http://twitter.com/search?q=Rs+130) | N/A |
+| 45 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 46 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 47 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 48 | [Rs 266](http://twitter.com/search?q=Rs+266) | N/A |
+| 49 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 50 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
 
 
 

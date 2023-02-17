@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-17 05:16:32 UTC`
+📆 Last Updated: `2023-02-17 06:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 3 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 4 | [#B04ASM](http://twitter.com/search?q=%23B04ASM) | N/A |
+| 3 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 4 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
 | 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 6 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 8 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 9 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 10 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 12 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 13 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 14 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 15 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 17 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 18 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 19 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 20 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 21 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 22 | [jecken](http://twitter.com/search?q=jecken) | N/A |
-| 23 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 24 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 25 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 26 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 27 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 28 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 29 | [steuererhöhungen](http://twitter.com/search?q=steuererh%c3%b6hungen) | N/A |
-| 30 | [herr gersemann](http://twitter.com/search?q=herr+gersemann) | N/A |
-| 31 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 32 | [schuldenbremse](http://twitter.com/search?q=schuldenbremse) | N/A |
-| 33 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
-| 34 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 35 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 36 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 37 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
-| 38 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
-| 39 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 40 | [eigenheim](http://twitter.com/search?q=eigenheim) | N/A |
-| 41 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 42 | [Designer](http://twitter.com/search?q=Designer) | N/A |
-| 43 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
-| 44 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
-| 45 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 46 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 47 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
-| 48 | [Dagmar](http://twitter.com/search?q=Dagmar) | N/A |
+| 6 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
+| 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 8 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 11 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 12 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 13 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 14 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 15 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 16 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 17 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 18 | [Guten Morgen Jenny](http://twitter.com/search?q=Guten+Morgen+Jenny) | N/A |
+| 19 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 20 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 21 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 22 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 23 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 24 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 25 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 26 | [jecken](http://twitter.com/search?q=jecken) | N/A |
+| 27 | [Guten Morgen Sabine](http://twitter.com/search?q=Guten+Morgen+Sabine) | N/A |
+| 28 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
+| 29 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 30 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 32 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 33 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 34 | [steuererhöhungen](http://twitter.com/search?q=steuererh%c3%b6hungen) | N/A |
+| 35 | [herr gersemann](http://twitter.com/search?q=herr+gersemann) | N/A |
+| 36 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 37 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 38 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 39 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 40 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 41 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 42 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 43 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 44 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 45 | [Ostdeutschland](http://twitter.com/search?q=Ostdeutschland) | N/A |
+| 46 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
+| 47 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 48 | [Siegfried](http://twitter.com/search?q=Siegfried) | N/A |
 
 
 

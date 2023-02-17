@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-02-17 05:17:04 UTC`
+📆 Last Updated: `2023-02-17 06:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Senator](http://twitter.com/search?q=Senator) | N/A |
-| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 3 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 4 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 5 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 1 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 2 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 3 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 5 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
 | 6 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 8 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 9 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 10 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 11 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 12 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 13 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 14 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
-| 15 | [#OrganizedCrime](http://twitter.com/search?q=%23OrganizedCrime) | N/A |
-| 16 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 7 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 8 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 9 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 10 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 11 | [#VegasBorn](http://twitter.com/search?q=%23VegasBorn) | N/A |
+| 12 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 13 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 14 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 15 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 16 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
 | 17 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 18 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 19 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 20 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
-| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 23 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 24 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 25 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 26 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 27 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 28 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 29 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 30 | [Paul Cotter](http://twitter.com/search?q=Paul+Cotter) | N/A |
-| 31 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 32 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 33 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 34 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 35 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 36 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 37 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 38 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
-| 39 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 40 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 41 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 42 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
-| 43 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 44 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 45 | [Mason Plumlee](http://twitter.com/search?q=Mason+Plumlee) | N/A |
-| 46 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 47 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 48 | [Ayanna](http://twitter.com/search?q=Ayanna) | N/A |
-| 49 | [Duel 2](http://twitter.com/search?q=Duel+2) | N/A |
+| 18 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
+| 19 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 20 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 21 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 22 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 24 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 25 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 26 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 27 | [Paul Cotter](http://twitter.com/search?q=Paul+Cotter) | N/A |
+| 28 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
+| 29 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 30 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 31 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 32 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 33 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 34 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 35 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 36 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 37 | [Kahkonen](http://twitter.com/search?q=Kahkonen) | N/A |
+| 38 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 39 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 40 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 41 | [Quest For Fire](http://twitter.com/search?q=Quest+For+Fire) | N/A |
+| 42 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 43 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 44 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 45 | [NIALL JAMES HORAN](http://twitter.com/search?q=NIALL+JAMES+HORAN) | N/A |
+| 46 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 47 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 48 | [T Ross](http://twitter.com/search?q=T+Ross) | N/A |
+| 49 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
 
 
 

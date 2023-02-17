@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-17 05:16:58 UTC`
+📆 Last Updated: `2023-02-17 06:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#trapnbeepv](http://twitter.com/search?q=%23trapnbeepv) | N/A |
-| 2 | [#P1ONEERinDallas](http://twitter.com/search?q=%23P1ONEERinDallas) | N/A |
-| 3 | [#p1harmonyindallas](http://twitter.com/search?q=%23p1harmonyindallas) | N/A |
-| 4 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 5 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 1 | [#P1ONEERinDallas](http://twitter.com/search?q=%23P1ONEERinDallas) | N/A |
+| 2 | [#p1harmonyindallas](http://twitter.com/search?q=%23p1harmonyindallas) | N/A |
+| 3 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
+| 4 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 5 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
 | 6 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 7 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 8 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 7 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
 | 9 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 | 10 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 11 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
 | 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
 | 14 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 15 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 17 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 18 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 19 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
-| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 15 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 16 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 17 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 18 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 19 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 20 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
 | 21 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 22 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 23 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 24 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 22 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
+| 23 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 24 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
 | 25 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 26 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 27 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 29 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 30 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 31 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 32 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 33 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 34 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 35 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 36 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 37 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 38 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 39 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 40 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 41 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
+| 26 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 27 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 28 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 29 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 30 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 31 | [Paul Cotter](http://twitter.com/search?q=Paul+Cotter) | N/A |
+| 32 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
+| 33 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 34 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 35 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 36 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 37 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 38 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 39 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 40 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 41 | [Kahkonen](http://twitter.com/search?q=Kahkonen) | N/A |
 | 42 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 43 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 44 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 45 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
-| 46 | [Cotter](http://twitter.com/search?q=Cotter) | N/A |
-| 47 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 48 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 49 | [Mason Plumlee](http://twitter.com/search?q=Mason+Plumlee) | N/A |
+| 43 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 44 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 45 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 46 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 47 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 48 | [Quest For Fire](http://twitter.com/search?q=Quest+For+Fire) | N/A |
+| 49 | [NIALL JAMES HORAN](http://twitter.com/search?q=NIALL+JAMES+HORAN) | N/A |
 
 
 
