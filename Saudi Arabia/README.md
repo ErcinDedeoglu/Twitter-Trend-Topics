@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-02-17 07:17:25 UTC`
+📆 Last Updated: `2023-02-17 08:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Saudi Arabia
 | 8 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
 | 9 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
 | 10 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 11 | [كوستا](http://twitter.com/search?q=%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | كوستا (Kosta) is a common Arabic name, derived from the Greek name Constantine. It means "steadfast" or "constant" in English. |
-| 12 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 13 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 14 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 15 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 16 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 17 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 18 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 11 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 12 | [كوستا](http://twitter.com/search?q=%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | كوستا (Kosta) is a common Arabic name, derived from the Greek name Constantine. It means "steadfast" or "constant" in English. |
+| 13 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 14 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 15 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 16 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 17 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
+| 18 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 19 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 20 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 21 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
-| 22 | [قول روما](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 23 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 24 | [يابو ناصر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 25 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 26 | [اخبار الهلال](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 20 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 21 | [قول روما](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 22 | [يابو ناصر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 23 | [اخبار الهلال](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 24 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 25 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 26 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
 | 27 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 28 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
-| 29 | [داون تاون](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d9%86+%d8%aa%d8%a7%d9%88%d9%86) | N/A |
-| 30 | [موسي بن جعفر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 31 | [الزويهري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d9%8a%d9%87%d8%b1%d9%8a) | N/A |
-| 32 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 33 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
-| 34 | [كريستنسن](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%86%d8%b3%d9%86) | N/A |
-| 35 | [كمارا الثالث](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 36 | [هارون كمارا](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%88%d9%86+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
-| 37 | [قول كمارا](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
-| 38 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 39 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 40 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 41 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 42 | [ابو مطلق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b7%d9%84%d9%82) | N/A |
-| 43 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 44 | [الشنقيطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d9%82%d9%8a%d8%b7%d9%8a) | N/A |
-| 45 | [المقطع المفبرك](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b7%d8%b9+%d8%a7%d9%84%d9%85%d9%81%d8%a8%d8%b1%d9%83) | N/A |
-| 46 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 47 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 48 | [احمد الغامدي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%af%d9%8a) | N/A |
-| 49 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 50 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
+| 28 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 29 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
+| 30 | [داون تاون](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d9%86+%d8%aa%d8%a7%d9%88%d9%86) | N/A |
+| 31 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 32 | [موسي بن جعفر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
+| 33 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 34 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 35 | [الزويهري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d9%8a%d9%87%d8%b1%d9%8a) | N/A |
+| 36 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 37 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
+| 38 | [كريستنسن](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%86%d8%b3%d9%86) | N/A |
+| 39 | [كمارا الثالث](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 40 | [قول كمارا](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 41 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 42 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 43 | [ابو مطلق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b7%d9%84%d9%82) | N/A |
+| 44 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 45 | [هارون كمارا](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%88%d9%86+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 46 | [الشنقيطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d9%82%d9%8a%d8%b7%d9%8a) | N/A |
+| 47 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 48 | [الانفس الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b3+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 49 | [المقطع المفبرك](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b7%d8%b9+%d8%a7%d9%84%d9%85%d9%81%d8%a8%d8%b1%d9%83) | N/A |
+| 50 | [احمد الغامدي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%af%d9%8a) | N/A |
 
 
 

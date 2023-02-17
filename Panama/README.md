@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-17 07:17:25 UTC`
+📆 Last Updated: `2023-02-17 08:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,11 +23,11 @@ This is top 50 for Panama
 | 6 | [Darien](http://twitter.com/search?q=Darien) | N/A |
 | 7 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 10 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
+| 9 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
+| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 11 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 12 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 16 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
@@ -47,16 +47,16 @@ This is top 50 for Panama
 | 30 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
 | 31 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 32 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 33 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
-| 34 | [veraguas](http://twitter.com/search?q=veraguas) | N/A |
-| 35 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 36 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
-| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 38 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
-| 39 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
-| 40 | [ancón](http://twitter.com/search?q=anc%c3%b3n) | N/A |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 33 | [veraguas](http://twitter.com/search?q=veraguas) | N/A |
+| 34 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 35 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
+| 38 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
+| 39 | [ancón](http://twitter.com/search?q=anc%c3%b3n) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 42 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
 | 43 | [puente de las américas](http://twitter.com/search?q=puente+de+las+am%c3%a9ricas) | N/A |
 | 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 45 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-17 07:17:07 UTC`
+📆 Last Updated: `2023-02-17 08:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,27 +16,36 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
-| 2 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 3 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
-| 4 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
-| 5 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 6 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 7 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 9 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
-| 10 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
-| 11 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
-| 12 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
-| 13 | [Mustafa Avcı](http://twitter.com/search?q=Mustafa+Avc%c4%b1) | N/A |
-| 14 | [Efendimiz](http://twitter.com/search?q=Efendimiz) | N/A |
-| 15 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
-| 16 | [Osman](http://twitter.com/search?q=Osman) | N/A |
-| 17 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 18 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 19 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 20 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 21 | [#trabzon](http://twitter.com/search?q=%23trabzon) | N/A |
-| 22 | [#HepBirlikteKazandık](http://twitter.com/search?q=%23HepBirlikteKazand%c4%b1k) | N/A |
+| 2 | [HamitDuras BilenKazanırda](http://twitter.com/search?q=HamitDuras+BilenKazan%c4%b1rda) | N/A |
+| 3 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 4 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 5 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
+| 6 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
+| 7 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 8 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 9 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 11 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
+| 12 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 13 | [#NeredesinSen](http://twitter.com/search?q=%23NeredesinSen) | N/A |
+| 14 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
+| 15 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
+| 16 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 17 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
+| 18 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 19 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
+| 20 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
+| 21 | [Mustafa Avcı](http://twitter.com/search?q=Mustafa+Avc%c4%b1) | N/A |
+| 22 | [Efendimiz](http://twitter.com/search?q=Efendimiz) | N/A |
+| 23 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
+| 24 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 25 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
+| 26 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
+| 27 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 28 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 29 | [#trabzon](http://twitter.com/search?q=%23trabzon) | N/A |
+| 30 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 31 | [#HepBirlikteKazandık](http://twitter.com/search?q=%23HepBirlikteKazand%c4%b1k) | N/A |
 
 
 

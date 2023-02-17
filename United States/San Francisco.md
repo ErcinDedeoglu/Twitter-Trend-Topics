@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-17 07:17:16 UTC`
+📆 Last Updated: `2023-02-17 08:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#GU23](http://twitter.com/search?q=%23GU23) | N/A |
 | 2 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 3 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 4 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 5 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 6 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
-| 7 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 3 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 4 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 5 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 6 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 7 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
 | 8 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 10 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 11 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 12 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 13 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 9 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 10 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 11 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
+| 12 | [#OhioChemicalDisaster](http://twitter.com/search?q=%23OhioChemicalDisaster) | N/A |
+| 13 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
 | 14 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 15 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 16 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 17 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 18 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 19 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 21 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 22 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 23 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 25 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 26 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 27 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 28 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 29 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 30 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 31 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 32 | [Paul Cotter](http://twitter.com/search?q=Paul+Cotter) | N/A |
+| 15 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 16 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 17 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 18 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 19 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 20 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 21 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 22 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 23 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 24 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 25 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 27 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 30 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 31 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 32 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
 | 33 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
-| 34 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 35 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 36 | [Seized](http://twitter.com/search?q=Seized) | N/A |
-| 37 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 38 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 39 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 40 | [Kahkonen](http://twitter.com/search?q=Kahkonen) | N/A |
-| 41 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
-| 42 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 43 | [D Savage](http://twitter.com/search?q=D+Savage) | N/A |
-| 44 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 45 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 46 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 47 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 48 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 49 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 50 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 34 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 35 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 36 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 37 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 38 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 40 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 41 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 42 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 43 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 44 | [D Savage](http://twitter.com/search?q=D+Savage) | N/A |
+| 45 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 46 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 47 | [Band Geeks](http://twitter.com/search?q=Band+Geeks) | N/A |
+| 48 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 49 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 50 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
 
 
 

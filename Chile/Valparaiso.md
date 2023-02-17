@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-17 07:16:29 UTC`
+📆 Last Updated: `2023-02-17 08:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 2 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 3 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 4 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
-| 5 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
+| 2 | [#LaRojaFemenina](http://twitter.com/search?q=%23LaRojaFemenina) | N/A |
+| 3 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 4 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
+| 5 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 6 | [Armada](http://twitter.com/search?q=Armada) | N/A |
 | 7 | [#thedreamshow2_in_chile](http://twitter.com/search?q=%23thedreamshow2_in_chile) | N/A |
 | 8 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
-| 9 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
-| 10 | [Cochamó](http://twitter.com/search?q=Cocham%c3%b3) | N/A |
-| 11 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 12 | [Zapallar](http://twitter.com/search?q=Zapallar) | N/A |
-| 13 | [Copiapó](http://twitter.com/search?q=Copiap%c3%b3) | Copiapó is a city and commune in the Atacama Region of northern Chile. It is the capital of the Copiapó Province and the Atacama Region. The name Copiapó comes from the language of the indigenous Diaguita people, and it means "place of red earth". |
-| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [Changbin for Samsung S23](http://twitter.com/search?q=Changbin+for+Samsung+S23) | N/A |
+| 10 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
+| 11 | [Cochamó](http://twitter.com/search?q=Cocham%c3%b3) | N/A |
+| 12 | [zapallar](http://twitter.com/search?q=zapallar) | N/A |
+| 13 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 14 | [Copiapó](http://twitter.com/search?q=Copiap%c3%b3) | Copiapó is a city and commune in the Atacama Region of northern Chile. It is the capital of the Copiapó Province and the Atacama Region. The name Copiapó comes from the language of the indigenous Diaguita people, and it means "place of red earth". |
 | 15 | [Matías](http://twitter.com/search?q=Mat%c3%adas) | N/A |
 | 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 19 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 20 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 21 | [Felipe Bulnes](http://twitter.com/search?q=Felipe+Bulnes) | N/A |
-| 22 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 23 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 24 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
-| 25 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 27 | [Me-o](http://twitter.com/search?q=Me-o) | N/A |
-| 28 | [UNA NOCHE CON YATRA](http://twitter.com/search?q=UNA+NOCHE+CON+YATRA) | N/A |
-| 29 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 19 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 20 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 21 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 22 | [felipe bulnes](http://twitter.com/search?q=felipe+bulnes) | N/A |
+| 23 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
+| 24 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 25 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
+| 26 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 28 | [ME-O](http://twitter.com/search?q=ME-O) | N/A |
+| 29 | [UNA NOCHE CON YATRA](http://twitter.com/search?q=UNA+NOCHE+CON+YATRA) | N/A |
 | 30 | [CUPIDO ALBUM OUT NOW](http://twitter.com/search?q=CUPIDO+ALBUM+OUT+NOW) | N/A |
 | 31 | [primera línea](http://twitter.com/search?q=primera+l%c3%adnea) | N/A |
 | 32 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
 | 33 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 34 | [Joan Cruz](http://twitter.com/search?q=Joan+Cruz) | Joan Cruz is a Spanish name derived from the Latin name Iohannes, which means "God is gracious". It is a combination of the names Jo and Ann, and can be used as either a masculine or feminine name. |
+| 34 | [joan cruz](http://twitter.com/search?q=joan+cruz) | N/A |
 | 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 36 | [Aníbal Palma](http://twitter.com/search?q=An%c3%adbal+Palma) | N/A |
+| 36 | [aníbal palma](http://twitter.com/search?q=an%c3%adbal+palma) | N/A |
 | 37 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 38 | [eleanor](http://twitter.com/search?q=eleanor) | Eleanor is a female given name of French origin, derived from the Old French name Aliénor, which is composed of two Germanic elements: ali, meaning “other” or “foreign” and ner, meaning “strength”. It is often translated to mean “light” or “shining one”. |
-| 39 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 40 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 41 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
-| 42 | [curicó unido](http://twitter.com/search?q=curic%c3%b3+unido) | N/A |
-| 43 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 44 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Salas](http://twitter.com/search?q=Salas) | N/A |
-| 47 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 38 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 39 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
+| 40 | [curicó unido](http://twitter.com/search?q=curic%c3%b3+unido) | N/A |
+| 41 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 42 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
+| 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 44 | [Salas](http://twitter.com/search?q=Salas) | N/A |
+| 45 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 46 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
+| 47 | [La Red](http://twitter.com/search?q=La+Red) | N/A |
 
 
 

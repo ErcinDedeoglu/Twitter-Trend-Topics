@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-17 07:17:21 UTC`
+📆 Last Updated: `2023-02-17 08:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,7 +60,7 @@ This is top 50 for Guatemala
 | 43 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 44 | [Prohibidox](http://twitter.com/search?q=Prohibidox) | N/A |
 | 45 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 46 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
+| 46 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 47 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
 | 48 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 49 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
