@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-17 14:17:25 UTC`
+📆 Last Updated: `2023-02-17 15:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 2 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 4 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
-| 5 | [#Racing365](http://twitter.com/search?q=%23Racing365) | N/A |
-| 6 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
-| 7 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 4 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
+| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 7 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
 | 8 | [David Smith](http://twitter.com/search?q=David+Smith) | N/A |
-| 9 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 10 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 11 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
-| 12 | [Tyrone Mings](http://twitter.com/search?q=Tyrone+Mings) | N/A |
-| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 14 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 16 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
-| 17 | [Calvin Ramsay](http://twitter.com/search?q=Calvin+Ramsay) | N/A |
-| 18 | [Barry Martin](http://twitter.com/search?q=Barry+Martin) | Barry Martin is a name, and it has no particular meaning in English. |
-| 19 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
-| 20 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 21 | [David Harrison](http://twitter.com/search?q=David+Harrison) | N/A |
-| 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 23 | [Tom Scudamore](http://twitter.com/search?q=Tom+Scudamore) | N/A |
+| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 10 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 11 | [Tyrone Mings](http://twitter.com/search?q=Tyrone+Mings) | N/A |
+| 12 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
+| 13 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 14 | [Barry Martin](http://twitter.com/search?q=Barry+Martin) | Barry Martin is a name, and it has no particular meaning in English. |
+| 15 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 16 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
+| 17 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 18 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 20 | [Calvin Ramsay](http://twitter.com/search?q=Calvin+Ramsay) | N/A |
+| 21 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
+| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 23 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
 | 24 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 25 | [Kwasi](http://twitter.com/search?q=Kwasi) | N/A |
-| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 28 | [jill scott](http://twitter.com/search?q=jill+scott) | N/A |
-| 29 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
-| 30 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 31 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 32 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 33 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 34 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 35 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
-| 36 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 37 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 38 | [Daps](http://twitter.com/search?q=Daps) | N/A |
-| 39 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 40 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 41 | [Nighthawk](http://twitter.com/search?q=Nighthawk) | N/A |
-| 42 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 43 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 44 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 45 | [Plimsolls](http://twitter.com/search?q=Plimsolls) | N/A |
-| 46 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 47 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 48 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 49 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 25 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
+| 26 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 27 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 28 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 29 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 30 | [Kwasi](http://twitter.com/search?q=Kwasi) | N/A |
+| 31 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 32 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 33 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 34 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 35 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 36 | [Serco](http://twitter.com/search?q=Serco) | N/A |
+| 37 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
+| 38 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
+| 39 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
+| 40 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 41 | [Daps](http://twitter.com/search?q=Daps) | N/A |
+| 42 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 43 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 44 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 45 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 46 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
+| 47 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 48 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 49 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
 
 
 

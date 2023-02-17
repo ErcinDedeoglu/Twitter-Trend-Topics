@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-17 14:17:35 UTC`
+📆 Last Updated: `2023-02-17 15:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
-| 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 4 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 5 | [#Heaven](http://twitter.com/search?q=%23Heaven) | N/A |
-| 6 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 7 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 2 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
+| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 4 | [#TlustyCzwartek](http://twitter.com/search?q=%23TlustyCzwartek) | N/A |
+| 5 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 6 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 7 | [tsue](http://twitter.com/search?q=tsue) | N/A |
 | 8 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 9 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 10 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 11 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 12 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 13 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 14 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 15 | [szczątki](http://twitter.com/search?q=szcz%c4%85tki) | N/A |
-| 16 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 17 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
+| 9 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 10 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
+| 11 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 12 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 13 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
+| 16 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
+| 17 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 18 | [Fat Thursday](http://twitter.com/search?q=Fat+Thursday) | N/A |
+| 19 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 20 | [Przegląd Sportowy](http://twitter.com/search?q=Przegl%c4%85d+Sportowy) | N/A |
 | 21 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 22 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 23 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 24 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
-| 25 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 26 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 27 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 28 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 29 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 30 | [tłustego czwartku](http://twitter.com/search?q=t%c5%82ustego+czwartku) | N/A |
-| 31 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 22 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
+| 23 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 24 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 25 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 26 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 27 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 28 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 29 | [tłustego czwartku](http://twitter.com/search?q=t%c5%82ustego+czwartku) | N/A |
+| 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 31 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
 | 32 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
 | 33 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
 | 34 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
-| 35 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 36 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 37 | [velde](http://twitter.com/search?q=velde) | N/A |
-| 38 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 39 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
-| 42 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 43 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 44 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 47 | [RODO](http://twitter.com/search?q=RODO) | N/A |
-| 48 | [gessler](http://twitter.com/search?q=gessler) | N/A |
-| 49 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
+| 35 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
+| 36 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 37 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 38 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 39 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 40 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 42 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 43 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 44 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 45 | [Banki](http://twitter.com/search?q=Banki) | N/A |
+| 46 | [Ludzkie](http://twitter.com/search?q=Ludzkie) | N/A |
+| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 48 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 49 | [żalek](http://twitter.com/search?q=%c5%bcalek) | N/A |
 
 
 

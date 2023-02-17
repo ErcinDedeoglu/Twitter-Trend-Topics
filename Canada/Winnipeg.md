@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-17 14:17:23 UTC`
+📆 Last Updated: `2023-02-17 15:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 2 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 6 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 7 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 8 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 9 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 5 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 7 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 8 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 9 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 11 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
 | 12 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
 | 13 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 14 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 15 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 16 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 17 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 20 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 14 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 16 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
+| 17 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 18 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 19 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
+| 20 | [Globe](http://twitter.com/search?q=Globe) | N/A |
 | 21 | [Lucki](http://twitter.com/search?q=Lucki) | N/A |
-| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 23 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
-| 24 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 25 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 27 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 28 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 28 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
 | 29 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 31 | [Bill Blair](http://twitter.com/search?q=Bill+Blair) | N/A |
-| 32 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 35 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 32 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 33 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 34 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 35 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 36 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 37 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 39 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
 | 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 42 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 43 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
-| 44 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 45 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 46 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 47 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 48 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 49 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 41 | [Singh](http://twitter.com/search?q=Singh) | N/A |
+| 42 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 43 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 44 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 45 | [Cam Ward](http://twitter.com/search?q=Cam+Ward) | N/A |
+| 46 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 48 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
+| 49 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
 | 50 | [Kotkaniemi](http://twitter.com/search?q=Kotkaniemi) | N/A |
 
 

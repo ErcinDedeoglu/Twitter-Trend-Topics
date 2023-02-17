@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-17 14:18:04 UTC`
+📆 Last Updated: `2023-02-17 15:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 2 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 4 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 5 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 6 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 7 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 8 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 9 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 10 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 11 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 12 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 13 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
-| 14 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 17 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
-| 18 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 19 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 20 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 21 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 22 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 23 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
-| 24 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 25 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 26 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 27 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 28 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 29 | [Fox "News"](http://twitter.com/search?q=Fox+%22News%22) | N/A |
-| 30 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
-| 31 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 32 | [Presidents Day](http://twitter.com/search?q=Presidents+Day) | N/A |
-| 33 | [College Baseball](http://twitter.com/search?q=College+Baseball) | N/A |
-| 34 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 35 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 36 | [Challenger](http://twitter.com/search?q=Challenger) | N/A |
-| 37 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
-| 38 | [Sidney Powell](http://twitter.com/search?q=Sidney+Powell) | N/A |
-| 39 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 40 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 41 | [Endgame](http://twitter.com/search?q=Endgame) | N/A |
-| 42 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 43 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 44 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
-| 45 | [Earl Campbell](http://twitter.com/search?q=Earl+Campbell) | N/A |
-| 46 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 47 | [Historically](http://twitter.com/search?q=Historically) | N/A |
+| 5 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 6 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 8 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 9 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 10 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 11 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 13 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 14 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 15 | [Angelo Cataldi](http://twitter.com/search?q=Angelo+Cataldi) | N/A |
+| 16 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 17 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
+| 18 | [daily quordle 389](http://twitter.com/search?q=daily+quordle+389) | N/A |
+| 19 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 20 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 21 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
+| 22 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 23 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 24 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
+| 25 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
+| 26 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 27 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
+| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 29 | [Destra](http://twitter.com/search?q=Destra) | N/A |
+| 30 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 31 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 32 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 33 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 34 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 35 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 36 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 37 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 38 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 39 | [Super Chump](http://twitter.com/search?q=Super+Chump) | N/A |
+| 40 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
+| 41 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 42 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 43 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
+| 44 | [College Baseball](http://twitter.com/search?q=College+Baseball) | N/A |
+| 45 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 46 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 47 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
 
 
 

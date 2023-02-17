@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-17 14:18:15 UTC`
+📆 Last Updated: `2023-02-17 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCISanibPuwersa](http://twitter.com/search?q=%23MCISanibPuwersa) | N/A |
-| 2 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 3 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 4 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 5 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 6 | [SEVENTEEN DK & VERNON DAY](http://twitter.com/search?q=SEVENTEEN+DK+%26+VERNON+DAY) | N/A |
-| 7 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 10 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 11 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 12 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
-| 13 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 14 | [FILAY DamageControl](http://twitter.com/search?q=FILAY+DamageControl) | N/A |
-| 15 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 16 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 17 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 18 | [PIEhinga with Prince](http://twitter.com/search?q=PIEhinga+with+Prince) | N/A |
-| 19 | [kodrea teenclash at upfair](http://twitter.com/search?q=kodrea+teenclash+at+upfair) | N/A |
-| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 21 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 22 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 23 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 24 | [Hannie](http://twitter.com/search?q=Hannie) | N/A |
-| 25 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 26 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 27 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 28 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 29 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 30 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 31 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 32 | [ang ganda](http://twitter.com/search?q=ang+ganda) | N/A |
-| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 34 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 35 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 36 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 37 | [#DLBypass](http://twitter.com/search?q=%23DLBypass) | N/A |
-| 38 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
-| 39 | [#LuvIsPartyParty](http://twitter.com/search?q=%23LuvIsPartyParty) | N/A |
-| 40 | [#BarcodeHSGraduation](http://twitter.com/search?q=%23BarcodeHSGraduation) | N/A |
-| 41 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 42 | [#DreamChasersPIESaya](http://twitter.com/search?q=%23DreamChasersPIESaya) | N/A |
-| 43 | [#approvedkanaba](http://twitter.com/search?q=%23approvedkanaba) | N/A |
-| 44 | [#FPJBQKastigo](http://twitter.com/search?q=%23FPJBQKastigo) | N/A |
-| 45 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
-| 46 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
-| 47 | [#RoyalNaLoyalKayPrince](http://twitter.com/search?q=%23RoyalNaLoyalKayPrince) | N/A |
-| 48 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 49 | [#MIDZYFM](http://twitter.com/search?q=%23MIDZYFM) | N/A |
-| 50 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
+| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 4 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 5 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
+| 6 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
+| 7 | [hansol](http://twitter.com/search?q=hansol) | N/A |
+| 8 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 9 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 11 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
+| 12 | [HAPPY BIRTHDAY DK](http://twitter.com/search?q=HAPPY+BIRTHDAY+DK) | N/A |
+| 13 | [NONIE](http://twitter.com/search?q=NONIE) | N/A |
+| 14 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 15 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
+| 16 | [DEEKAY](http://twitter.com/search?q=DEEKAY) | N/A |
+| 17 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
+| 18 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 19 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
+| 20 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 21 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 22 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
+| 23 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
+| 24 | [Sunshine](http://twitter.com/search?q=Sunshine) | N/A |
+| 25 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 26 | [FILAY DamageControl](http://twitter.com/search?q=FILAY+DamageControl) | N/A |
+| 27 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 28 | [PIEhinga with Prince](http://twitter.com/search?q=PIEhinga+with+Prince) | N/A |
+| 29 | [KODREA TEENCLASH AT UPFAIR](http://twitter.com/search?q=KODREA+TEENCLASH+AT+UPFAIR) | N/A |
+| 30 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
+| 31 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 32 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 33 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
+| 34 | [Chris Lee](http://twitter.com/search?q=Chris+Lee) | N/A |
+| 35 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 36 | [becbec](http://twitter.com/search?q=becbec) | N/A |
+| 37 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 38 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 39 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 40 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 41 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 42 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 43 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
+| 44 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
+| 45 | [#MCISanibPuwersa](http://twitter.com/search?q=%23MCISanibPuwersa) | N/A |
+| 46 | [#DLBypass](http://twitter.com/search?q=%23DLBypass) | N/A |
+| 47 | [#StayStrongBible](http://twitter.com/search?q=%23StayStrongBible) | N/A |
+| 48 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 49 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 50 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
 
 
 
