@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-17 09:16:00 UTC`
+📆 Last Updated: `2023-02-17 10:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 2 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
-| 3 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 5 | [#Fluechtlingsgipfel](http://twitter.com/search?q=%23Fluechtlingsgipfel) | N/A |
-| 6 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 2 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 3 | [#Fluechtlingsgipfel](http://twitter.com/search?q=%23Fluechtlingsgipfel) | N/A |
+| 4 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 7 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 8 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 9 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 10 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 11 | [cassy](http://twitter.com/search?q=cassy) | N/A |
-| 12 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 9 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 10 | [cassy](http://twitter.com/search?q=cassy) | N/A |
+| 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 12 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
 | 13 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 14 | [Start in den Freitag](http://twitter.com/search?q=Start+in+den+Freitag) | N/A |
-| 15 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 16 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 17 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 18 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 19 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
-| 20 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 21 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 22 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 23 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
-| 24 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
-| 25 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 26 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 27 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 28 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 29 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 30 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 31 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
-| 32 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 33 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 34 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 35 | [Heinrich Heine](http://twitter.com/search?q=Heinrich+Heine) | N/A |
-| 36 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
-| 37 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
-| 38 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 39 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 40 | [Guten Morgen Lena](http://twitter.com/search?q=Guten+Morgen+Lena) | N/A |
-| 41 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 42 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
-| 43 | [Welten](http://twitter.com/search?q=Welten) | N/A |
-| 44 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 45 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 46 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 47 | [Moin Schubsi](http://twitter.com/search?q=Moin+Schubsi) | N/A |
-| 48 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 14 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 15 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 16 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
+| 17 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 18 | [Schuldenbremse](http://twitter.com/search?q=Schuldenbremse) | N/A |
+| 19 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 20 | [Regionalexpertise](http://twitter.com/search?q=Regionalexpertise) | N/A |
+| 21 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 22 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 23 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 24 | [Warnschüsse](http://twitter.com/search?q=Warnsch%c3%bcsse) | N/A |
+| 25 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 26 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 27 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 28 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 29 | [Herr Gersemann](http://twitter.com/search?q=Herr+Gersemann) | N/A |
+| 30 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
+| 31 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 32 | [Hradecky](http://twitter.com/search?q=Hradecky) | N/A |
+| 33 | [Guten Morgen Lena](http://twitter.com/search?q=Guten+Morgen+Lena) | N/A |
+| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 35 | [Luftnummer](http://twitter.com/search?q=Luftnummer) | N/A |
+| 36 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 37 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 38 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 39 | [Flieder](http://twitter.com/search?q=Flieder) | N/A |
+| 40 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 41 | [tom gregory](http://twitter.com/search?q=tom+gregory) | N/A |
+| 42 | [Welten](http://twitter.com/search?q=Welten) | N/A |
+| 43 | [Jecken](http://twitter.com/search?q=Jecken) | N/A |
+| 44 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 45 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 46 | [Verfassungsfeinde](http://twitter.com/search?q=Verfassungsfeinde) | N/A |
+| 47 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 48 | [Guten Morgen Peter](http://twitter.com/search?q=Guten+Morgen+Peter) | N/A |
 
 
 

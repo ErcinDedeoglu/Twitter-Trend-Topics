@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-17 09:16:13 UTC`
+📆 Last Updated: `2023-02-17 10:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 2 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 3 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 4 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 5 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 6 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 8 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
-| 9 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 10 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 11 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
-| 12 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 13 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 14 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
-| 15 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
-| 16 | [kodrea on teenclashcon](http://twitter.com/search?q=kodrea+on+teenclashcon) | N/A |
-| 17 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
-| 18 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
-| 19 | [DAVID ForBluewaterSpa](http://twitter.com/search?q=DAVID+ForBluewaterSpa) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [congratulations bss](http://twitter.com/search?q=congratulations+bss) | N/A |
-| 22 | [MODEL JEONGYEON IS BACK](http://twitter.com/search?q=MODEL+JEONGYEON+IS+BACK) | N/A |
-| 23 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 24 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 25 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
-| 26 | [kdlex one sweet day](http://twitter.com/search?q=kdlex+one+sweet+day) | N/A |
-| 27 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 28 | [KAI COMEBACK](http://twitter.com/search?q=KAI+COMEBACK) | N/A |
-| 29 | [SEOJINS HIGHLIGHT REVEAL](http://twitter.com/search?q=SEOJINS+HIGHLIGHT+REVEAL) | N/A |
-| 30 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 31 | [Oblation Run](http://twitter.com/search?q=Oblation+Run) | N/A |
-| 32 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
-| 33 | [Plane](http://twitter.com/search?q=Plane) | N/A |
-| 34 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
-| 35 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
-| 36 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
-| 37 | [KAZUHA LADOR MUSE](http://twitter.com/search?q=KAZUHA+LADOR+MUSE) | N/A |
-| 38 | [KIM MINGYU](http://twitter.com/search?q=KIM+MINGYU) | N/A |
-| 39 | [Taipei](http://twitter.com/search?q=Taipei) | N/A |
-| 40 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 41 | [NO MORE TUNA](http://twitter.com/search?q=NO+MORE+TUNA) | N/A |
-| 42 | [Masungi](http://twitter.com/search?q=Masungi) | N/A |
-| 43 | [Masbate](http://twitter.com/search?q=Masbate) | N/A |
-| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 45 | [Dyosa](http://twitter.com/search?q=Dyosa) | N/A |
-| 46 | [Brave Girls](http://twitter.com/search?q=Brave+Girls) | N/A |
-| 47 | [Congratulations Taehyung](http://twitter.com/search?q=Congratulations+Taehyung) | N/A |
-| 48 | [FULL ALBUM](http://twitter.com/search?q=FULL+ALBUM) | N/A |
-| 49 | [Toni Fowler](http://twitter.com/search?q=Toni+Fowler) | N/A |
+| 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 3 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
+| 4 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 5 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 6 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
+| 7 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
+| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 9 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
+| 10 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
+| 11 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
+| 12 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
+| 13 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 14 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
+| 15 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
+| 16 | [Dahyun](http://twitter.com/search?q=Dahyun) | N/A |
+| 17 | [Version 2](http://twitter.com/search?q=Version+2) | N/A |
+| 18 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 21 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 22 | [kodrea on teenclashcon](http://twitter.com/search?q=kodrea+on+teenclashcon) | N/A |
+| 23 | [GLOBAL VISUAL KIM DAY](http://twitter.com/search?q=GLOBAL+VISUAL+KIM+DAY) | N/A |
+| 24 | [MODEL JEONGYEON IS BACK](http://twitter.com/search?q=MODEL+JEONGYEON+IS+BACK) | N/A |
+| 25 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
+| 26 | [DAVID ForBluewaterSpa](http://twitter.com/search?q=DAVID+ForBluewaterSpa) | N/A |
+| 27 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
+| 28 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
+| 29 | [HAPPY BIRTHDAY CHIQUITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHIQUITA) | N/A |
+| 30 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 31 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 32 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
+| 33 | [kai comeback](http://twitter.com/search?q=kai+comeback) | N/A |
+| 34 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 35 | [Jay Chang](http://twitter.com/search?q=Jay+Chang) | N/A |
+| 36 | [contented with robxine](http://twitter.com/search?q=contented+with+robxine) | N/A |
+| 37 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 38 | [Plane](http://twitter.com/search?q=Plane) | N/A |
+| 39 | [Anne Curtis](http://twitter.com/search?q=Anne+Curtis) | N/A |
+| 40 | [KAZUHA LADOR MUSE](http://twitter.com/search?q=KAZUHA+LADOR+MUSE) | N/A |
+| 41 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
+| 42 | [KD and Alexa](http://twitter.com/search?q=KD+and+Alexa) | N/A |
+| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 44 | [SEOJINS HIGHLIGHT REVEAL](http://twitter.com/search?q=SEOJINS+HIGHLIGHT+REVEAL) | N/A |
+| 45 | [Tenyong](http://twitter.com/search?q=Tenyong) | N/A |
+| 46 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 47 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 48 | [CONGRATS BSS](http://twitter.com/search?q=CONGRATS+BSS) | N/A |
+| 49 | [ITS SO PRETTY](http://twitter.com/search?q=ITS+SO+PRETTY) | N/A |
 
 
 

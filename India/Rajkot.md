@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-02-17 09:16:23 UTC`
+📆 Last Updated: `2023-02-17 10:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#hotstar](http://twitter.com/search?q=%23hotstar) | N/A |
-| 2 | [#ILoveShehzada](http://twitter.com/search?q=%23ILoveShehzada) | N/A |
-| 3 | [#GeorgeSoros](http://twitter.com/search?q=%23GeorgeSoros) | N/A |
-| 4 | [#Kivimelehoova](http://twitter.com/search?q=%23Kivimelehoova) | N/A |
+| 2 | [#GeorgeSoros](http://twitter.com/search?q=%23GeorgeSoros) | N/A |
+| 3 | [#CancelCareLicense](http://twitter.com/search?q=%23CancelCareLicense) | N/A |
+| 4 | [#ILoveShehzada](http://twitter.com/search?q=%23ILoveShehzada) | N/A |
 | 5 | [#GameOverImpact](http://twitter.com/search?q=%23GameOverImpact) | N/A |
 | 6 | [जॉर्ज सोरोस](http://twitter.com/search?q=%e0%a4%9c%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9c+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%b8) | N/A |
-| 7 | [Travel Deals On EaseMyTrip](http://twitter.com/search?q=Travel+Deals+On+EaseMyTrip) | N/A |
-| 8 | [चेतन शर्मा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 7 | [चेतन शर्मा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 8 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
 | 9 | [SHIV EARNS 2M IG FAM](http://twitter.com/search?q=SHIV+EARNS+2M+IG+FAM) | N/A |
-| 10 | [कर्पूरी ठाकुर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%80+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
-| 11 | [Jio TV](http://twitter.com/search?q=Jio+TV) | N/A |
-| 12 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 13 | [Domain](http://twitter.com/search?q=Domain) | N/A |
-| 14 | [Tom Blundell](http://twitter.com/search?q=Tom+Blundell) | N/A |
-| 15 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 16 | [PATHAAN TICKETS AT RS 110](http://twitter.com/search?q=PATHAAN+TICKETS+AT+RS+110) | N/A |
-| 17 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 18 | [Kartik](http://twitter.com/search?q=Kartik) | N/A |
-| 19 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
-| 20 | [India Nepal Friendship](http://twitter.com/search?q=India+Nepal+Friendship) | N/A |
-| 21 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
-| 22 | [SSR Eliminated By Syndicate](http://twitter.com/search?q=SSR+Eliminated+By+Syndicate) | N/A |
-| 23 | [नील मोहन](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b2+%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8) | N/A |
-| 24 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
-| 25 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 26 | [Ashwin Anna](http://twitter.com/search?q=Ashwin+Anna) | N/A |
-| 27 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 28 | [CEO of YouTube](http://twitter.com/search?q=CEO+of+YouTube) | N/A |
-| 29 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 30 | [भगवान कृष्ण](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 31 | [Labuschagne](http://twitter.com/search?q=Labuschagne) | N/A |
-| 32 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 33 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 34 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 35 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 36 | [सशस्त्र क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b6%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
-| 37 | [वासुदेव बलवंत फड़के](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%b5%e0%a4%82%e0%a4%a4+%e0%a4%ab%e0%a4%a1%e0%a4%bc%e0%a4%95%e0%a5%87) | N/A |
+| 10 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
+| 11 | [कर्पूरी ठाकुर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%80+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
+| 12 | [Jio TV](http://twitter.com/search?q=Jio+TV) | N/A |
+| 13 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 14 | [Domain](http://twitter.com/search?q=Domain) | N/A |
+| 15 | [SSR Eliminated By Syndicate](http://twitter.com/search?q=SSR+Eliminated+By+Syndicate) | N/A |
+| 16 | [Kartik](http://twitter.com/search?q=Kartik) | N/A |
+| 17 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 18 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 19 | [नील मोहन](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b2+%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8) | N/A |
+| 20 | [भगवान कृष्ण](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
+| 21 | [India Nepal Friendship](http://twitter.com/search?q=India+Nepal+Friendship) | N/A |
+| 22 | [Tom Blundell](http://twitter.com/search?q=Tom+Blundell) | N/A |
+| 23 | [PATHAAN TICKETS AT RS 110](http://twitter.com/search?q=PATHAAN+TICKETS+AT+RS+110) | N/A |
+| 24 | [Ashwin Anna](http://twitter.com/search?q=Ashwin+Anna) | N/A |
+| 25 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
+| 26 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 27 | [हरियाणा पुलिस](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 28 | [Labuschagne](http://twitter.com/search?q=Labuschagne) | N/A |
+| 29 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 32 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 33 | [दक्षिण भारत](http://twitter.com/search?q=%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 34 | [CEO of YouTube](http://twitter.com/search?q=CEO+of+YouTube) | N/A |
+| 35 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 36 | [Zee News](http://twitter.com/search?q=Zee+News) | N/A |
+| 37 | [#KiviMeleHoova](http://twitter.com/search?q=%23KiviMeleHoova) | N/A |
 | 38 | [#karnatakabudget2023](http://twitter.com/search?q=%23karnatakabudget2023) | N/A |
-| 39 | [#AjayDevgn](http://twitter.com/search?q=%23AjayDevgn) | N/A |
-| 40 | [#youtubeceo](http://twitter.com/search?q=%23youtubeceo) | N/A |
-| 41 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 42 | [#Thangalaan](http://twitter.com/search?q=%23Thangalaan) | N/A |
-| 43 | [#ಜನಸ್ನೇಹಿಬಜೆಟ್](http://twitter.com/search?q=%23%e0%b2%9c%e0%b2%a8%e0%b2%b8%e0%b3%8d%e0%b2%a8%e0%b3%87%e0%b2%b9%e0%b2%bf%e0%b2%ac%e0%b2%9c%e0%b3%86%e0%b2%9f%e0%b3%8d) | N/A |
-| 44 | [#CG_बनता_अपराधगढ़](http://twitter.com/search?q=%23CG_%e0%a4%ac%e0%a4%a8%e0%a4%a4%e0%a4%be_%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a4%97%e0%a4%a2%e0%a4%bc) | N/A |
-| 45 | [#BharavaseyaBudget2023](http://twitter.com/search?q=%23BharavaseyaBudget2023) | N/A |
-| 46 | [#ChetanSharma](http://twitter.com/search?q=%23ChetanSharma) | N/A |
-| 47 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 48 | [#ItsMyStyle](http://twitter.com/search?q=%23ItsMyStyle) | N/A |
-| 49 | [#smritiirani](http://twitter.com/search?q=%23smritiirani) | N/A |
-| 50 | [#NealMohan](http://twitter.com/search?q=%23NealMohan) | N/A |
+| 39 | [#Thangalaan](http://twitter.com/search?q=%23Thangalaan) | N/A |
+| 40 | [#ItsMyStyle](http://twitter.com/search?q=%23ItsMyStyle) | N/A |
+| 41 | [#smritiirani](http://twitter.com/search?q=%23smritiirani) | N/A |
+| 42 | [#ಜನಸ್ನೇಹಿಬಜೆಟ್](http://twitter.com/search?q=%23%e0%b2%9c%e0%b2%a8%e0%b2%b8%e0%b3%8d%e0%b2%a8%e0%b3%87%e0%b2%b9%e0%b2%bf%e0%b2%ac%e0%b2%9c%e0%b3%86%e0%b2%9f%e0%b3%8d) | N/A |
+| 43 | [#vivoY100giveaway](http://twitter.com/search?q=%23vivoY100giveaway) | N/A |
+| 44 | [#BharavaseyaBudget2023](http://twitter.com/search?q=%23BharavaseyaBudget2023) | N/A |
+| 45 | [#TheNightManagerNowStreaming](http://twitter.com/search?q=%23TheNightManagerNowStreaming) | N/A |
+| 46 | [#youtubeceo](http://twitter.com/search?q=%23youtubeceo) | N/A |
+| 47 | [#SwaraBhaskerWedding](http://twitter.com/search?q=%23SwaraBhaskerWedding) | N/A |
+| 48 | [#Arrest_Monu_Manesar](http://twitter.com/search?q=%23Arrest_Monu_Manesar) | N/A |
+| 49 | [#Justice_for_Nasir_junaid](http://twitter.com/search?q=%23Justice_for_Nasir_junaid) | N/A |
+| 50 | [#CG_बनता_अपराधगढ़](http://twitter.com/search?q=%23CG_%e0%a4%ac%e0%a4%a8%e0%a4%a4%e0%a4%be_%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a4%97%e0%a4%a2%e0%a4%bc) | N/A |
 
 
 

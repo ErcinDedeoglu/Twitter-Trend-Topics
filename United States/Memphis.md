@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-17 09:16:30 UTC`
+📆 Last Updated: `2023-02-17 10:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 2 | [#Preds](http://twitter.com/search?q=%23Preds) | N/A |
-| 3 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 4 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 5 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 6 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 7 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 8 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 9 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 10 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 13 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 14 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 15 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 16 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 17 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 18 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 19 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 20 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 21 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 23 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 24 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
-| 25 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 26 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 27 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 28 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 29 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
-| 30 | [Band Geeks](http://twitter.com/search?q=Band+Geeks) | N/A |
-| 31 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 32 | [Seized](http://twitter.com/search?q=Seized) | N/A |
-| 33 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 34 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 35 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 36 | [D Savage](http://twitter.com/search?q=D+Savage) | N/A |
-| 37 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 38 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 39 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 40 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
-| 41 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 42 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 43 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 44 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
-| 45 | [Challenger](http://twitter.com/search?q=Challenger) | N/A |
-| 46 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 47 | [Everybody's Something](http://twitter.com/search?q=Everybody%27s+Something) | N/A |
-| 48 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 49 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 50 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
+| 5 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 6 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 9 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 11 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 12 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 13 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 14 | [Syndicated](http://twitter.com/search?q=Syndicated) | N/A |
+| 15 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 16 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 17 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 19 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
+| 20 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 22 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 23 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 24 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
+| 25 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 26 | [Toosii](http://twitter.com/search?q=Toosii) | N/A |
+| 27 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 28 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 29 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
+| 30 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 31 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 32 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 33 | [Band Geeks](http://twitter.com/search?q=Band+Geeks) | N/A |
+| 34 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 35 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 36 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 37 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 38 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 39 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 40 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 41 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 42 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 43 | [Aggretsuko](http://twitter.com/search?q=Aggretsuko) | N/A |
+| 44 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 45 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 46 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 47 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 48 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 49 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 50 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
 
 
 
