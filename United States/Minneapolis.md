@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-17 13:21:23 UTC`
+📆 Last Updated: `2023-02-17 14:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Finch](http://twitter.com/search?q=Finch) | N/A |
 | 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
 | 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 8 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 9 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 7 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
+| 8 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 9 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 | 10 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 11 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 12 | [Aaron Jones](http://twitter.com/search?q=Aaron+Jones) | Aaron Jones is a common English name. It is derived from the Hebrew name Aharon, which means "mountain of strength" or "exalted one". |
-| 13 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
-| 14 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 11 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 12 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 13 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 14 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
 | 15 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
 | 16 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 17 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 20 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 21 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
-| 22 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
-| 23 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 24 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 25 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 26 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 17 | [TruthGPT](http://twitter.com/search?q=TruthGPT) | N/A |
+| 18 | [Happy 60th](http://twitter.com/search?q=Happy+60th) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Ann Coulter](http://twitter.com/search?q=Ann+Coulter) | N/A |
+| 21 | [Happy Birthday Larry](http://twitter.com/search?q=Happy+Birthday+Larry) | N/A |
+| 22 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 23 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 24 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 25 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 26 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 | 27 | [Michelle Pfeiffer](http://twitter.com/search?q=Michelle+Pfeiffer) | N/A |
 | 28 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 29 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 30 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
-| 31 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 32 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
-| 33 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 34 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 35 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 36 | [Sidney Powell](http://twitter.com/search?q=Sidney+Powell) | N/A |
-| 37 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 38 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 39 | [Fox "News"](http://twitter.com/search?q=Fox+%22News%22) | N/A |
+| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 30 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 31 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 32 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 33 | [Fox "News"](http://twitter.com/search?q=Fox+%22News%22) | N/A |
+| 34 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
+| 35 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 36 | [Presidents Day](http://twitter.com/search?q=Presidents+Day) | N/A |
+| 37 | [College Baseball](http://twitter.com/search?q=College+Baseball) | N/A |
+| 38 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 39 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
 | 40 | [Challenger](http://twitter.com/search?q=Challenger) | N/A |
-| 41 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 42 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 43 | [eric dickerson](http://twitter.com/search?q=eric+dickerson) | N/A |
-| 44 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 45 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 46 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 47 | [Historically](http://twitter.com/search?q=Historically) | N/A |
-| 48 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 49 | [Seized](http://twitter.com/search?q=Seized) | N/A |
-| 50 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 41 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 42 | [Sidney Powell](http://twitter.com/search?q=Sidney+Powell) | N/A |
+| 43 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 44 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 45 | [Endgame](http://twitter.com/search?q=Endgame) | N/A |
+| 46 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 47 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 48 | [Inartful](http://twitter.com/search?q=Inartful) | N/A |
+| 49 | [Earl Campbell](http://twitter.com/search?q=Earl+Campbell) | N/A |
+| 50 | [NHTSA](http://twitter.com/search?q=NHTSA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-17 13:20:52 UTC`
+📆 Last Updated: `2023-02-17 14:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 2 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
-| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 4 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 4 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
 | 5 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 6 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 7 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 8 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 9 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 10 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 11 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 7 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 8 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 9 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 10 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 11 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
 | 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 14 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 15 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 16 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 17 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 18 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 19 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 22 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 23 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 25 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 27 | [404billy](http://twitter.com/search?q=404billy) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 30 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
-| 31 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 32 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 14 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 15 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 16 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 17 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 18 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 19 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 21 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 25 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 26 | [404billy](http://twitter.com/search?q=404billy) | N/A |
+| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 28 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
+| 29 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 30 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 33 | [Turin](http://twitter.com/search?q=Turin) | N/A |
 | 34 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 35 | [I LOVE U](http://twitter.com/search?q=I+LOVE+U) | N/A |
-| 36 | [Lancôme](http://twitter.com/search?q=Lanc%c3%b4me) | N/A |
-| 37 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
-| 38 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 39 | [Albedo](http://twitter.com/search?q=Albedo) | N/A |
-| 40 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 41 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
-| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 43 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 44 | [Ckay](http://twitter.com/search?q=Ckay) | N/A |
-| 45 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 46 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 47 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 48 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 49 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 35 | [Lancôme](http://twitter.com/search?q=Lanc%c3%b4me) | N/A |
+| 36 | [I LOVE U](http://twitter.com/search?q=I+LOVE+U) | N/A |
+| 37 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 38 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 39 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
+| 40 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 41 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
+| 42 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 43 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 44 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
+| 45 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 46 | [Mulliez](http://twitter.com/search?q=Mulliez) | N/A |
+| 47 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 48 | [Cocoro](http://twitter.com/search?q=Cocoro) | N/A |
+| 49 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
 
 
 

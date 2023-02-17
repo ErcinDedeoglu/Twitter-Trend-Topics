@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-17 13:21:06 UTC`
+📆 Last Updated: `2023-02-17 14:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ANG GANDA](http://twitter.com/search?q=ANG+GANDA) | N/A |
-| 2 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 3 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 1 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
+| 2 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
+| 3 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 4 | [#MCISanibPuwersa](http://twitter.com/search?q=%23MCISanibPuwersa) | N/A |
-| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 6 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 7 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 5 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 7 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
 | 8 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 9 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 10 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 11 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 12 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
-| 13 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 14 | [#approvedkanaba](http://twitter.com/search?q=%23approvedkanaba) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 17 | [FILAY DamageControl](http://twitter.com/search?q=FILAY+DamageControl) | N/A |
-| 18 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 19 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 21 | [KODREA TEENCLASH AT UPFAIR](http://twitter.com/search?q=KODREA+TEENCLASH+AT+UPFAIR) | N/A |
-| 22 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 23 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 9 | [SEVENTEEN DK & VERNON DAY](http://twitter.com/search?q=SEVENTEEN+DK+%26+VERNON+DAY) | N/A |
+| 10 | [HWANDERFUL YEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFUL+YEARS+WITH+JUNGHWAN) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 13 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 14 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
+| 15 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
+| 16 | [FILAY DamageControl](http://twitter.com/search?q=FILAY+DamageControl) | N/A |
+| 17 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 18 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 19 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 20 | [PIEhinga with Prince](http://twitter.com/search?q=PIEhinga+with+Prince) | N/A |
+| 21 | [kodrea teenclash at upfair](http://twitter.com/search?q=kodrea+teenclash+at+upfair) | N/A |
+| 22 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 23 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
 | 24 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
 | 25 | [Hannie](http://twitter.com/search?q=Hannie) | N/A |
 | 26 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 27 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 28 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 29 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 30 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
-| 31 | [Caratbong V3](http://twitter.com/search?q=Caratbong+V3) | N/A |
-| 32 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 33 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 27 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 28 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 29 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 31 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 32 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 33 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 34 | [ang ganda](http://twitter.com/search?q=ang+ganda) | N/A |
 | 35 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 36 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 37 | [#FPJBQKastigo](http://twitter.com/search?q=%23FPJBQKastigo) | N/A |
-| 38 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 39 | [#LuvIsPartyParty](http://twitter.com/search?q=%23LuvIsPartyParty) | N/A |
-| 40 | [#DreamChasersPIESaya](http://twitter.com/search?q=%23DreamChasersPIESaya) | N/A |
-| 41 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 42 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
-| 43 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 44 | [#RoyalNaLoyalKayPrince](http://twitter.com/search?q=%23RoyalNaLoyalKayPrince) | N/A |
-| 45 | [#Fighting3rdWin](http://twitter.com/search?q=%23Fighting3rdWin) | N/A |
-| 46 | [#BSS3rdWin](http://twitter.com/search?q=%23BSS3rdWin) | N/A |
-| 47 | [#부석순_뮤직뱅크_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%eb%ae%a4%ec%a7%81%eb%b1%85%ed%81%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 48 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
-| 49 | [#TheVampsMNL](http://twitter.com/search?q=%23TheVampsMNL) | N/A |
-| 50 | [#TDS2KyoceraDome_DAY1](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY1) | N/A |
+| 37 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
+| 38 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 39 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
+| 40 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 41 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
+| 42 | [#DLBypass](http://twitter.com/search?q=%23DLBypass) | N/A |
+| 43 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
+| 44 | [#LuvIsPartyParty](http://twitter.com/search?q=%23LuvIsPartyParty) | N/A |
+| 45 | [#BarcodeHSGraduation](http://twitter.com/search?q=%23BarcodeHSGraduation) | N/A |
+| 46 | [#approvedkanaba](http://twitter.com/search?q=%23approvedkanaba) | N/A |
+| 47 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
+| 48 | [#DreamChasersPIESaya](http://twitter.com/search?q=%23DreamChasersPIESaya) | N/A |
+| 49 | [#FPJBQKastigo](http://twitter.com/search?q=%23FPJBQKastigo) | N/A |
+| 50 | [#PainterOfTheNight](http://twitter.com/search?q=%23PainterOfTheNight) | N/A |
 
 
 
