@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-17 10:16:40 UTC`
+📆 Last Updated: `2023-02-17 11:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
-| 2 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 3 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 4 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 5 | [FlokiGrow](http://twitter.com/search?q=FlokiGrow) | N/A |
-| 6 | [HamitDuras BilenKazanırda](http://twitter.com/search?q=HamitDuras+BilenKazan%c4%b1rda) | N/A |
-| 7 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 2 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 3 | [FlokiGrow](http://twitter.com/search?q=FlokiGrow) | N/A |
+| 4 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 5 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 6 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 7 | [hamitduras bilenkazanırda](http://twitter.com/search?q=hamitduras+bilenkazan%c4%b1rda) | N/A |
 | 8 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 9 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
-| 10 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 11 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
-| 12 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
-| 13 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 14 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 15 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
-| 16 | [Arınç](http://twitter.com/search?q=Ar%c4%b1n%c3%a7) | N/A |
-| 17 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 18 | [Danıştay](http://twitter.com/search?q=Dan%c4%b1%c5%9ftay) | N/A |
-| 19 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 20 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 9 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 10 | [#ParaciKurumDegilAraciKurumOl](http://twitter.com/search?q=%23ParaciKurumDegilAraciKurumOl) | N/A |
+| 11 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 12 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
+| 13 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 14 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 15 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
+| 16 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 17 | [tüik](http://twitter.com/search?q=t%c3%bcik) | N/A |
+| 18 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
+| 19 | [Türkiye Uzay Ajansı](http://twitter.com/search?q=T%c3%bcrkiye+Uzay+Ajans%c4%b1) | N/A |
+| 20 | [Kanun](http://twitter.com/search?q=Kanun) | N/A |
 | 21 | [Aziz Milletimizin](http://twitter.com/search?q=Aziz+Milletimizin) | N/A |
-| 22 | [Mescid-i Aksa'ya](http://twitter.com/search?q=Mescid-i+Aksa%27ya) | N/A |
-| 23 | [Kanun](http://twitter.com/search?q=Kanun) | N/A |
-| 24 | [Ahmet Davutoğlu](http://twitter.com/search?q=Ahmet+Davuto%c4%9flu) | N/A |
-| 25 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 26 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
-| 27 | [Mescid-i Haram'dan](http://twitter.com/search?q=Mescid-i+Haram%27dan) | N/A |
-| 28 | [Ruhat](http://twitter.com/search?q=Ruhat) | N/A |
-| 29 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 30 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
-| 31 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 32 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
-| 33 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 34 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
-| 35 | [Ey Rabbimiz](http://twitter.com/search?q=Ey+Rabbimiz) | N/A |
-| 36 | [Bilmukabele](http://twitter.com/search?q=Bilmukabele) | N/A |
-| 37 | [Erden](http://twitter.com/search?q=Erden) | N/A |
-| 38 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 39 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 40 | [Efendimiz](http://twitter.com/search?q=Efendimiz) | N/A |
-| 41 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 42 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
-| 43 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 44 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
-| 45 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
-| 46 | [#yuzyuzeegitim](http://twitter.com/search?q=%23yuzyuzeegitim) | N/A |
-| 47 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 48 | [#NeredesinSen](http://twitter.com/search?q=%23NeredesinSen) | N/A |
-| 49 | [#BORSA](http://twitter.com/search?q=%23BORSA) | N/A |
-| 50 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 22 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 23 | [Danıştay](http://twitter.com/search?q=Dan%c4%b1%c5%9ftay) | N/A |
+| 24 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 25 | [Sezgin Baran Korkmaz](http://twitter.com/search?q=Sezgin+Baran+Korkmaz) | N/A |
+| 26 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 27 | [Mescid-i Aksa'ya](http://twitter.com/search?q=Mescid-i+Aksa%27ya) | N/A |
+| 28 | [Titanyum](http://twitter.com/search?q=Titanyum) | N/A |
+| 29 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
+| 30 | [Ahmet Davutoğlu](http://twitter.com/search?q=Ahmet+Davuto%c4%9flu) | N/A |
+| 31 | [Erden](http://twitter.com/search?q=Erden) | N/A |
+| 32 | [Mescid-i Haram'dan](http://twitter.com/search?q=Mescid-i+Haram%27dan) | N/A |
+| 33 | [Ruhat](http://twitter.com/search?q=Ruhat) | N/A |
+| 34 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 35 | [Aminn](http://twitter.com/search?q=Aminn) | N/A |
+| 36 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
+| 37 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 38 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
+| 39 | [Azra Duru Malaç](http://twitter.com/search?q=Azra+Duru+Mala%c3%a7) | N/A |
+| 40 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 41 | [Bilmukabele](http://twitter.com/search?q=Bilmukabele) | N/A |
+| 42 | [Ey Rabbimiz](http://twitter.com/search?q=Ey+Rabbimiz) | N/A |
+| 43 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 44 | [İsa](http://twitter.com/search?q=%c4%b0sa) | N/A |
+| 45 | [#yuzyuze](http://twitter.com/search?q=%23yuzyuze) | N/A |
+| 46 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 47 | [#kiralarkontrolaltınaalınsın](http://twitter.com/search?q=%23kiralarkontrolalt%c4%b1naal%c4%b1ns%c4%b1n) | N/A |
+| 48 | [#StajyerCandır](http://twitter.com/search?q=%23StajyerCand%c4%b1r) | N/A |
+| 49 | [#bingöl](http://twitter.com/search?q=%23bing%c3%b6l) | N/A |
+| 50 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
 
 
 

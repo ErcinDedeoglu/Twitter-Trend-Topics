@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-02-17 10:16:37 UTC`
+📆 Last Updated: `2023-02-17 11:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Oman](</Oman>)
 | 3 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 4 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 5 | [القوه الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 6 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 7 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 6 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 7 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 8 | [#البزنس72](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b372) | N/A |
-| 9 | [#منظومه_الحمايه_الاجتماعيه](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b8%d9%88%d9%85%d9%87_%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 10 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 9 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 10 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
 | 11 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 12 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 13 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 14 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 15 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 12 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 13 | [#قابوس_بن_سعيد](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%a8%d9%88%d8%b3_%d8%a8%d9%86_%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 14 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 15 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
 | 16 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 17 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 18 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
 | 19 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 20 | [المحكمه العليا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
 | 21 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 22 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 23 | [الثقه الساميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 24 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 25 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 26 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 27 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
-| 28 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 29 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 30 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 31 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 24 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 25 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 26 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 27 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 28 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 29 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 30 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
 | 32 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 33 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
-| 34 | [المملكة المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 35 | [الهيدروجين النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
-| 36 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 37 | [الارسنال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 38 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 39 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 40 | [الساعه الحاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 41 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
-| 42 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 43 | [يوسف سيف](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b3%d9%8a%d9%81) | N/A |
-| 44 | [ابو عزان](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%b2%d8%a7%d9%86) | N/A |
-| 45 | [الستي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%aa%d9%8a) | N/A |
-| 46 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 47 | [مجلس عمان](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 48 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 49 | [16 فبراير 2023](http://twitter.com/search?q=16+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 50 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 33 | [هاني](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a) | هاني is an Arabic name meaning "graceful" or "gracious". |
+| 34 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
+| 35 | [المملكة المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 36 | [الهيدروجين النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
+| 37 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 38 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 39 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 40 | [الارسنال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
+| 41 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 42 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 43 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 44 | [الساعه الحاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 45 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
+| 46 | [ابو عزان](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%b2%d8%a7%d9%86) | N/A |
+| 47 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 48 | [الستي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%aa%d9%8a) | N/A |
+| 49 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 50 | [16 فبراير 2023](http://twitter.com/search?q=16+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
 
 
 

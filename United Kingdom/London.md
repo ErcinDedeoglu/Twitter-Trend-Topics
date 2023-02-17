@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-17 10:16:05 UTC`
+📆 Last Updated: `2023-02-17 11:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 2 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 3 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [#stormotto](http://twitter.com/search?q=%23stormotto) | N/A |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
-| 8 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
-| 9 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 10 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
-| 11 | [Nighthawk](http://twitter.com/search?q=Nighthawk) | N/A |
-| 12 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 13 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 14 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
-| 15 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
-| 16 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 17 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 18 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 21 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 23 | [Plimsolls](http://twitter.com/search?q=Plimsolls) | N/A |
-| 24 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 25 | [Nurses](http://twitter.com/search?q=Nurses) | N/A |
-| 26 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 28 | [Stonewall](http://twitter.com/search?q=Stonewall) | N/A |
-| 29 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 30 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
-| 31 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 32 | [Skye](http://twitter.com/search?q=Skye) | N/A |
-| 33 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 34 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 35 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 36 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 37 | [Lionel Shriver](http://twitter.com/search?q=Lionel+Shriver) | N/A |
-| 38 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 39 | [#ASongOrMovieForStreetsOrRoads](http://twitter.com/search?q=%23ASongOrMovieForStreetsOrRoads) | N/A |
-| 40 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 41 | [#CareDay23](http://twitter.com/search?q=%23CareDay23) | N/A |
-| 42 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 43 | [#jhopeINTHEBOX](http://twitter.com/search?q=%23jhopeINTHEBOX) | N/A |
-| 44 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 45 | [#flowersonfriday](http://twitter.com/search?q=%23flowersonfriday) | N/A |
-| 46 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
-| 47 | [#BeKind](http://twitter.com/search?q=%23BeKind) | N/A |
-| 48 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
-| 49 | [#ToriesOut225](http://twitter.com/search?q=%23ToriesOut225) | N/A |
+| 1 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
+| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 3 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 4 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 5 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
+| 6 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 7 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 8 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 9 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 10 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 11 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 12 | [Contract Dave](http://twitter.com/search?q=Contract+Dave) | N/A |
+| 13 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
+| 14 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 15 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 16 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
+| 17 | [Nighthawk](http://twitter.com/search?q=Nighthawk) | N/A |
+| 18 | [NatWest](http://twitter.com/search?q=NatWest) | N/A |
+| 19 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
+| 20 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 21 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 22 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 23 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 24 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 25 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [Hislop](http://twitter.com/search?q=Hislop) | N/A |
+| 28 | [Golders Green](http://twitter.com/search?q=Golders+Green) | N/A |
+| 29 | [Plimsolls](http://twitter.com/search?q=Plimsolls) | N/A |
+| 30 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 31 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 32 | [Nurses](http://twitter.com/search?q=Nurses) | N/A |
+| 33 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 34 | [Window](http://twitter.com/search?q=Window) | N/A |
+| 35 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 36 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 37 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 38 | [Stonewall](http://twitter.com/search?q=Stonewall) | N/A |
+| 39 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 40 | [Finsbury Park](http://twitter.com/search?q=Finsbury+Park) | N/A |
+| 41 | [Skye](http://twitter.com/search?q=Skye) | N/A |
+| 42 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 43 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 44 | [Qataris](http://twitter.com/search?q=Qataris) | N/A |
+| 45 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 46 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 47 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 48 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 49 | [#stormotto](http://twitter.com/search?q=%23stormotto) | N/A |
 
 
 

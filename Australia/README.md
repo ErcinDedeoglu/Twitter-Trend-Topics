@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-17 10:16:50 UTC`
+📆 Last Updated: `2023-02-17 11:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#WUNvWEL](http://twitter.com/search?q=%23WUNvWEL) | N/A |
-| 3 | [#NRLRoostersManly](http://twitter.com/search?q=%23NRLRoostersManly) | N/A |
-| 4 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 5 | [#melbourneweather](http://twitter.com/search?q=%23melbourneweather) | N/A |
-| 6 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 7 | [Agar](http://twitter.com/search?q=Agar) | N/A |
-| 8 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 9 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
-| 10 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
-| 11 | [#NRLKnightsEels](http://twitter.com/search?q=%23NRLKnightsEels) | N/A |
-| 12 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 13 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
-| 14 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 15 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 16 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 17 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 18 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 19 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 20 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 21 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 22 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
-| 23 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 24 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 25 | [Shaun Lane](http://twitter.com/search?q=Shaun+Lane) | N/A |
-| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 27 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 28 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 29 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 30 | [Tudehope](http://twitter.com/search?q=Tudehope) | N/A |
-| 31 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 32 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 33 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 34 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 2 | [#nrlroostersmanly](http://twitter.com/search?q=%23nrlroostersmanly) | N/A |
+| 3 | [#WUNvWEL](http://twitter.com/search?q=%23WUNvWEL) | N/A |
+| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 5 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 6 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
+| 7 | [Soares](http://twitter.com/search?q=Soares) | N/A |
+| 8 | [Buford](http://twitter.com/search?q=Buford) | N/A |
+| 9 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 10 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 11 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 12 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
+| 13 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 14 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 15 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
+| 16 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 17 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Shower](http://twitter.com/search?q=Shower) | N/A |
+| 20 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 21 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 22 | [Cairns](http://twitter.com/search?q=Cairns) | N/A |
+| 23 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
+| 24 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 25 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 26 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 27 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 28 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 29 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 30 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 31 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 32 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
+| 33 | [Tudehope](http://twitter.com/search?q=Tudehope) | N/A |
+| 34 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
 | 35 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
-| 36 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 37 | [Scott Morrison](http://twitter.com/search?q=Scott+Morrison) | N/A |
-| 38 | [CPRS](http://twitter.com/search?q=CPRS) | N/A |
-| 39 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 40 | [Port Lincoln](http://twitter.com/search?q=Port+Lincoln) | N/A |
-| 41 | [James Sicily](http://twitter.com/search?q=James+Sicily) | N/A |
-| 42 | [Terry Campese](http://twitter.com/search?q=Terry+Campese) | N/A |
-| 43 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 44 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 45 | [China to Munich](http://twitter.com/search?q=China+to+Munich) | N/A |
-| 46 | [Broad](http://twitter.com/search?q=Broad) | N/A |
-| 47 | [OCIC](http://twitter.com/search?q=OCIC) | N/A |
-| 48 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 49 | [Gosford](http://twitter.com/search?q=Gosford) | N/A |
-| 50 | [Wieambilla](http://twitter.com/search?q=Wieambilla) | N/A |
+| 36 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 37 | [Tracey](http://twitter.com/search?q=Tracey) | N/A |
+| 38 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 39 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 40 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 41 | [Scott Morrison](http://twitter.com/search?q=Scott+Morrison) | N/A |
+| 42 | [Port Lincoln](http://twitter.com/search?q=Port+Lincoln) | N/A |
+| 43 | [CPRS](http://twitter.com/search?q=CPRS) | N/A |
+| 44 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 45 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 46 | [James Sicily](http://twitter.com/search?q=James+Sicily) | N/A |
+| 47 | [terry campese](http://twitter.com/search?q=terry+campese) | N/A |
+| 48 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 49 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 50 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
 
 
 
