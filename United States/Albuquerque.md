@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-17 21:17:19 UTC`
+📆 Last Updated: `2023-02-17 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 2 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 3 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 6 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 1 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 4 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 5 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 6 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 7 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
 | 8 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 9 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 10 | [Matthew Slater](http://twitter.com/search?q=Matthew+Slater) | N/A |
-| 11 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 12 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 13 | [Rush](http://twitter.com/search?q=Rush) | N/A |
-| 14 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 15 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
-| 16 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 17 | [Team OG](http://twitter.com/search?q=Team+OG) | N/A |
-| 18 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 19 | [#NBATopShotThis](http://twitter.com/search?q=%23NBATopShotThis) | N/A |
-| 20 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
-| 21 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 11 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
+| 12 | [Matthew Slater](http://twitter.com/search?q=Matthew+Slater) | N/A |
+| 13 | [Rush Limbaugh](http://twitter.com/search?q=Rush+Limbaugh) | N/A |
+| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 15 | [Tommy White](http://twitter.com/search?q=Tommy+White) | N/A |
+| 16 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
+| 17 | [#NBATopShotThis](http://twitter.com/search?q=%23NBATopShotThis) | N/A |
+| 18 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 19 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 20 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 21 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
 | 22 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 25 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 26 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 27 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
-| 28 | [Rolen](http://twitter.com/search?q=Rolen) | N/A |
-| 29 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
-| 30 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 31 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
-| 32 | [Blueface and Chrisean](http://twitter.com/search?q=Blueface+and+Chrisean) | N/A |
-| 33 | [Miss Amtrak](http://twitter.com/search?q=Miss+Amtrak) | N/A |
-| 34 | [Charlie Sheen](http://twitter.com/search?q=Charlie+Sheen) | N/A |
-| 35 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 36 | [Dune 2](http://twitter.com/search?q=Dune+2) | N/A |
-| 37 | [Breezy](http://twitter.com/search?q=Breezy) | N/A |
-| 38 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 39 | [McGriff](http://twitter.com/search?q=McGriff) | N/A |
-| 40 | [Attack of the Clones](http://twitter.com/search?q=Attack+of+the+Clones) | N/A |
-| 41 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 42 | [Rogue One](http://twitter.com/search?q=Rogue+One) | N/A |
-| 43 | [Declaration of Independence](http://twitter.com/search?q=Declaration+of+Independence) | N/A |
-| 44 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 45 | [White Fragility](http://twitter.com/search?q=White+Fragility) | N/A |
-| 46 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 47 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 48 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 23 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 24 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 25 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 26 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 27 | [Team OG](http://twitter.com/search?q=Team+OG) | N/A |
+| 28 | [Charlie Sheen](http://twitter.com/search?q=Charlie+Sheen) | N/A |
+| 29 | [Earl Weaver](http://twitter.com/search?q=Earl+Weaver) | N/A |
+| 30 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 31 | [Breezy](http://twitter.com/search?q=Breezy) | N/A |
+| 32 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 33 | [Arkabutla](http://twitter.com/search?q=Arkabutla) | N/A |
+| 34 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
+| 35 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 36 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
+| 37 | [Bob McGinn](http://twitter.com/search?q=Bob+McGinn) | N/A |
+| 38 | [Kiely](http://twitter.com/search?q=Kiely) | N/A |
+| 39 | [The Nutty Professor](http://twitter.com/search?q=The+Nutty+Professor) | N/A |
+| 40 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 41 | [Thomas Brown](http://twitter.com/search?q=Thomas+Brown) | N/A |
+| 42 | [UPDATE WAP](http://twitter.com/search?q=UPDATE+WAP) | N/A |
+| 43 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 44 | [President's Day](http://twitter.com/search?q=President%27s+Day) | N/A |
+| 45 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 46 | [Rolen](http://twitter.com/search?q=Rolen) | N/A |
+| 47 | [Attack of the Clones](http://twitter.com/search?q=Attack+of+the+Clones) | N/A |
+| 48 | [Revenge of the Sith](http://twitter.com/search?q=Revenge+of+the+Sith) | N/A |
 
 
 

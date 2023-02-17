@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Volgograd
 
-📆 Last Updated: `2023-02-17 21:17:13 UTC`
+📆 Last Updated: `2023-02-17 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Russia](</Russia>)
 | 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 5 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 6 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 5 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 6 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
 | 7 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
 | 8 | [Байдена](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd%d0%b0) | N/A |
 | 9 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
@@ -29,23 +29,23 @@ This is top 50 for [Russia](</Russia>)
 | 12 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
 | 13 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
 | 14 | [дайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 15 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
-| 16 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
-| 17 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
+| 17 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
 | 18 | [Огайо](http://twitter.com/search?q=%d0%9e%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
 | 19 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 20 | [С Днём Рождения](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc+%d0%a0%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 21 | [Ужасно](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
-| 22 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
-| 23 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 24 | [Офигеть](http://twitter.com/search?q=%d0%9e%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
-| 25 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 26 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
-| 27 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 28 | [Мммм](http://twitter.com/search?q=%d0%9c%d0%bc%d0%bc%d0%bc) | N/A |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 21 | [Постоянно](http://twitter.com/search?q=%d0%9f%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%bd%d0%be) | N/A |
+| 22 | [С Днём Рождения](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc+%d0%a0%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 23 | [Ужасно](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
+| 24 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
+| 25 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 26 | [Офигеть](http://twitter.com/search?q=%d0%9e%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
+| 27 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
+| 28 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
+| 29 | [Мммм](http://twitter.com/search?q=%d0%9c%d0%bc%d0%bc%d0%bc) | N/A |
 | 30 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
-| 31 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 31 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 32 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
 | 33 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 34 | [Сложно](http://twitter.com/search?q=%d0%a1%d0%bb%d0%be%d0%b6%d0%bd%d0%be) | N/A |
@@ -53,18 +53,17 @@ This is top 50 for [Russia](</Russia>)
 | 36 | [Любовь](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
 | 37 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
 | 38 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 39 | [РЕАЛЬНО](http://twitter.com/search?q=%d0%a0%d0%95%d0%90%d0%9b%d0%ac%d0%9d%d0%9e) | N/A |
-| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 41 | [Костомарова](http://twitter.com/search?q=%d0%9a%d0%be%d1%81%d1%82%d0%be%d0%bc%d0%b0%d1%80%d0%be%d0%b2%d0%b0) | N/A |
-| 42 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 43 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
-| 44 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 45 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 46 | [В Турции](http://twitter.com/search?q=%d0%92+%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 47 | [ЛЮБЛЮ ТЕБЯ](http://twitter.com/search?q=%d0%9b%d0%ae%d0%91%d0%9b%d0%ae+%d0%a2%d0%95%d0%91%d0%af) | N/A |
-| 48 | [ВАЩЕ](http://twitter.com/search?q=%d0%92%d0%90%d0%a9%d0%95) | N/A |
-| 49 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 39 | [Костомарова](http://twitter.com/search?q=%d0%9a%d0%be%d1%81%d1%82%d0%be%d0%bc%d0%b0%d1%80%d0%be%d0%b2%d0%b0) | N/A |
+| 40 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 41 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
+| 42 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
+| 43 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
+| 44 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 45 | [В Турции](http://twitter.com/search?q=%d0%92+%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 46 | [ЛЮБЛЮ ТЕБЯ](http://twitter.com/search?q=%d0%9b%d0%ae%d0%91%d0%9b%d0%ae+%d0%a2%d0%95%d0%91%d0%af) | N/A |
+| 47 | [ВАЩЕ](http://twitter.com/search?q=%d0%92%d0%90%d0%a9%d0%95) | N/A |
+| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [Сильно](http://twitter.com/search?q=%d0%a1%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 
 
 

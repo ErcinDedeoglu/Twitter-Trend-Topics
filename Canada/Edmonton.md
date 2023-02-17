@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-17 21:16:31 UTC`
+📆 Last Updated: `2023-02-17 22:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
-| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 3 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 6 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 1 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 2 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 5 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 6 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
 | 7 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 8 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 9 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 10 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 11 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
-| 12 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 13 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 14 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
-| 18 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 19 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 20 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 21 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 22 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 23 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 24 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 25 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 26 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 27 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 28 | [TVA Sports](http://twitter.com/search?q=TVA+Sports) | N/A |
-| 29 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 8 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 9 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 10 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 11 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 12 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 13 | [#CanadaHasFallen](http://twitter.com/search?q=%23CanadaHasFallen) | N/A |
+| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 15 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 16 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 17 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 18 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 19 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 22 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 23 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 24 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 25 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 26 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 27 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 28 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 29 | [PM Trudeau](http://twitter.com/search?q=PM+Trudeau) | N/A |
 | 30 | [Trudeaus](http://twitter.com/search?q=Trudeaus) | N/A |
-| 31 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 32 | [Shocker](http://twitter.com/search?q=Shocker) | N/A |
-| 33 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 34 | [PM Trudeau](http://twitter.com/search?q=PM+Trudeau) | N/A |
-| 35 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 36 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 37 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 38 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
-| 39 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 40 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
-| 41 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
-| 42 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 43 | [#FordfailedOntario](http://twitter.com/search?q=%23FordfailedOntario) | N/A |
-| 44 | [#RandomActsOfKindness](http://twitter.com/search?q=%23RandomActsOfKindness) | N/A |
-| 45 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 46 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 47 | [#FORDmustRESIGN](http://twitter.com/search?q=%23FORDmustRESIGN) | N/A |
-| 48 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
-| 49 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 50 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 31 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 32 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 33 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 34 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 35 | [Charter](http://twitter.com/search?q=Charter) | N/A |
+| 36 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
+| 37 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 38 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 39 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
+| 40 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 41 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 42 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 43 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 44 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 45 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 46 | [#RandomActsOfKindness](http://twitter.com/search?q=%23RandomActsOfKindness) | N/A |
+| 47 | [#FordfailedOntario](http://twitter.com/search?q=%23FordfailedOntario) | N/A |
+| 48 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 49 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 50 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
 
 
 

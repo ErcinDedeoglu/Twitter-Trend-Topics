@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-17 21:17:38 UTC`
+📆 Last Updated: `2023-02-17 22:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Sweden
 | 1 | [Videll](http://twitter.com/search?q=Videll) | N/A |
 | 2 | [Otto](http://twitter.com/search?q=Otto) | N/A |
 | 3 | [Annie Lööf](http://twitter.com/search?q=Annie+L%c3%b6%c3%b6f) | N/A |
-| 4 | [#påspåret](http://twitter.com/search?q=%23p%c3%a5sp%c3%a5ret) | N/A |
+| 4 | [SIDA](http://twitter.com/search?q=SIDA) | N/A |
 | 5 | [Niederbach](http://twitter.com/search?q=Niederbach) | N/A |
-| 6 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 7 | [SIDA](http://twitter.com/search?q=SIDA) | N/A |
-| 8 | [Jämtin](http://twitter.com/search?q=J%c3%a4mtin) | N/A |
-| 9 | [Lööke](http://twitter.com/search?q=L%c3%b6%c3%b6ke) | N/A |
-| 10 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 6 | [#påspåret](http://twitter.com/search?q=%23p%c3%a5sp%c3%a5ret) | N/A |
+| 7 | [Jämtin](http://twitter.com/search?q=J%c3%a4mtin) | N/A |
+| 8 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 9 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 10 | [Lööke](http://twitter.com/search?q=L%c3%b6%c3%b6ke) | N/A |
 | 11 | [Löven](http://twitter.com/search?q=L%c3%b6ven) | N/A |
 | 12 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 13 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 14 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Blågula](http://twitter.com/search?q=Bl%c3%a5gula) | N/A |
-| 17 | [Mujo](http://twitter.com/search?q=Mujo) | N/A |
-| 18 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Centern](http://twitter.com/search?q=Centern) | N/A |
-| 21 | [Holmberg](http://twitter.com/search?q=Holmberg) | N/A |
-| 22 | [Tankovic](http://twitter.com/search?q=Tankovic) | N/A |
-| 23 | [Gudrun](http://twitter.com/search?q=Gudrun) | N/A |
-| 24 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 25 | [Lindbom](http://twitter.com/search?q=Lindbom) | N/A |
-| 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 27 | [#ProphetMuhammad](http://twitter.com/search?q=%23ProphetMuhammad) | N/A |
-| 28 | [Utrensning](http://twitter.com/search?q=Utrensning) | N/A |
-| 29 | [Expo](http://twitter.com/search?q=Expo) | N/A |
-| 30 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Sanningen](http://twitter.com/search?q=Sanningen) | N/A |
-| 33 | [ETCs](http://twitter.com/search?q=ETCs) | N/A |
-| 34 | [Blåser](http://twitter.com/search?q=Bl%c3%a5ser) | N/A |
-| 35 | [Ekeroth](http://twitter.com/search?q=Ekeroth) | N/A |
-| 36 | [Sjöbo](http://twitter.com/search?q=Sj%c3%b6bo) | N/A |
-| 37 | [Lindström](http://twitter.com/search?q=Lindstr%c3%b6m) | N/A |
-| 38 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 39 | [sagax](http://twitter.com/search?q=sagax) | N/A |
-| 40 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
-| 41 | [Engsund](http://twitter.com/search?q=Engsund) | N/A |
-| 42 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [Olle Liss](http://twitter.com/search?q=Olle+Liss) | N/A |
+| 15 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 16 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 17 | [blågula](http://twitter.com/search?q=bl%c3%a5gula) | N/A |
+| 18 | [Gudrun](http://twitter.com/search?q=Gudrun) | N/A |
+| 19 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 22 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
+| 23 | [Mujo](http://twitter.com/search?q=Mujo) | N/A |
+| 24 | [Centern](http://twitter.com/search?q=Centern) | N/A |
+| 25 | [Holmberg](http://twitter.com/search?q=Holmberg) | N/A |
+| 26 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 29 | [Blåser](http://twitter.com/search?q=Bl%c3%a5ser) | N/A |
+| 30 | [#ProphetMuhammad](http://twitter.com/search?q=%23ProphetMuhammad) | N/A |
+| 31 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 32 | [Utrensning](http://twitter.com/search?q=Utrensning) | N/A |
+| 33 | [Expo](http://twitter.com/search?q=Expo) | N/A |
+| 34 | [etcs](http://twitter.com/search?q=etcs) | N/A |
+| 35 | [Tankovic](http://twitter.com/search?q=Tankovic) | N/A |
+| 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 37 | [Sjöbo](http://twitter.com/search?q=Sj%c3%b6bo) | N/A |
+| 38 | [Lindström](http://twitter.com/search?q=Lindstr%c3%b6m) | N/A |
+| 39 | [Lindbom](http://twitter.com/search?q=Lindbom) | N/A |
+| 40 | [sagax](http://twitter.com/search?q=sagax) | N/A |
+| 41 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
+| 42 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
 | 43 | [bredäng](http://twitter.com/search?q=bred%c3%a4ng) | N/A |
-| 44 | [svff](http://twitter.com/search?q=svff) | N/A |
-| 45 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
-| 46 | [sandra näslund](http://twitter.com/search?q=sandra+n%c3%a4slund) | N/A |
-| 47 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
-| 48 | [Tonen](http://twitter.com/search?q=Tonen) | N/A |
-| 49 | [Berglund](http://twitter.com/search?q=Berglund) | N/A |
-| 50 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 44 | [Sanningen](http://twitter.com/search?q=Sanningen) | N/A |
+| 45 | [Kent Ekeroth](http://twitter.com/search?q=Kent+Ekeroth) | N/A |
+| 46 | [svff](http://twitter.com/search?q=svff) | N/A |
+| 47 | [Tonen](http://twitter.com/search?q=Tonen) | N/A |
+| 48 | [sandra näslund](http://twitter.com/search?q=sandra+n%c3%a4slund) | N/A |
+| 49 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
+| 50 | [Berglund](http://twitter.com/search?q=Berglund) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-17 21:16:53 UTC`
+📆 Last Updated: `2023-02-17 22:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023Final](http://twitter.com/search?q=%23COAC2023Final) | N/A |
-| 2 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
+| 2 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
 | 3 | [#33Finales](http://twitter.com/search?q=%2333Finales) | N/A |
-| 4 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 5 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
-| 6 | [#FirstDates17F](http://twitter.com/search?q=%23FirstDates17F) | N/A |
-| 7 | [#Pasapalabra707](http://twitter.com/search?q=%23Pasapalabra707) | N/A |
-| 8 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 9 | [Tsygankov](http://twitter.com/search?q=Tsygankov) | N/A |
-| 10 | [Koba](http://twitter.com/search?q=Koba) | N/A |
-| 11 | [2vs1](http://twitter.com/search?q=2vs1) | N/A |
-| 12 | [Mireia](http://twitter.com/search?q=Mireia) | N/A |
-| 13 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
-| 14 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 15 | [Babic](http://twitter.com/search?q=Babic) | N/A |
-| 16 | [Dejo Twitter](http://twitter.com/search?q=Dejo+Twitter) | N/A |
-| 17 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
-| 18 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 20 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
-| 21 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 22 | [Jorge Salvaje](http://twitter.com/search?q=Jorge+Salvaje) | N/A |
-| 23 | [Granca](http://twitter.com/search?q=Granca) | N/A |
-| 24 | [Lenovo Tenerife](http://twitter.com/search?q=Lenovo+Tenerife) | N/A |
-| 25 | [Jaime Fernández](http://twitter.com/search?q=Jaime+Fern%c3%a1ndez) | N/A |
-| 26 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 27 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 28 | [Feliz Carnaval](http://twitter.com/search?q=Feliz+Carnaval) | N/A |
-| 29 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 31 | [Selu](http://twitter.com/search?q=Selu) | N/A |
-| 32 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 33 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 34 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 35 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 36 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 37 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 38 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 39 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 40 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 41 | [Chema](http://twitter.com/search?q=Chema) | N/A |
-| 42 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 43 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 44 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 45 | [Nesquik](http://twitter.com/search?q=Nesquik) | N/A |
-| 46 | [La Palma](http://twitter.com/search?q=La+Palma) | N/A |
-| 47 | [Buenos Aires](http://twitter.com/search?q=Buenos+Aires) | N/A |
-| 48 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 4 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
+| 5 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
+| 6 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 7 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 8 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 9 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 10 | [#ElDesafío6](http://twitter.com/search?q=%23ElDesaf%c3%ado6) | N/A |
+| 11 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
+| 12 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
+| 13 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 14 | [Zaza](http://twitter.com/search?q=Zaza) | N/A |
+| 15 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
+| 16 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 17 | [Formiga](http://twitter.com/search?q=Formiga) | N/A |
+| 18 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 19 | [Koba](http://twitter.com/search?q=Koba) | N/A |
+| 20 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
+| 21 | [Aleix García](http://twitter.com/search?q=Aleix+Garc%c3%ada) | N/A |
+| 22 | [Edye](http://twitter.com/search?q=Edye) | N/A |
+| 23 | [Babic](http://twitter.com/search?q=Babic) | N/A |
+| 24 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 25 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 26 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
+| 27 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 28 | [Tsygankov](http://twitter.com/search?q=Tsygankov) | N/A |
+| 29 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 30 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 31 | [Mireia](http://twitter.com/search?q=Mireia) | N/A |
+| 32 | [2vs1](http://twitter.com/search?q=2vs1) | N/A |
+| 33 | [Selu](http://twitter.com/search?q=Selu) | N/A |
+| 34 | [Jorge Salvaje](http://twitter.com/search?q=Jorge+Salvaje) | N/A |
+| 35 | [Penya](http://twitter.com/search?q=Penya) | N/A |
+| 36 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
+| 37 | [Goliat](http://twitter.com/search?q=Goliat) | N/A |
+| 38 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 39 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 40 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 41 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 42 | [Dejo Twitter](http://twitter.com/search?q=Dejo+Twitter) | N/A |
+| 43 | [Lenovo Tenerife](http://twitter.com/search?q=Lenovo+Tenerife) | N/A |
+| 44 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 45 | [Granca](http://twitter.com/search?q=Granca) | N/A |
+| 46 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 47 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 48 | [Carnaval de Cádiz](http://twitter.com/search?q=Carnaval+de+C%c3%a1diz) | N/A |
 
 
 

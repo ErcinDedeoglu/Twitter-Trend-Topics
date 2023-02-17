@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-17 21:16:46 UTC`
+📆 Last Updated: `2023-02-17 22:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
-| 2 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 4 | [#WIDSLA](http://twitter.com/search?q=%23WIDSLA) | N/A |
-| 5 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 6 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 7 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 8 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 9 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 10 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 1 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
+| 2 | [#WIDŚLĄ](http://twitter.com/search?q=%23WID%c5%9aL%c4%84) | N/A |
+| 3 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 5 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 6 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 7 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 8 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 9 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 10 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 11 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 12 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 13 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 14 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
-| 15 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 18 | [Stali](http://twitter.com/search?q=Stali) | N/A |
-| 19 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
+| 12 | [pączek](http://twitter.com/search?q=p%c4%85czek) | N/A |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 15 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 16 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 17 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
+| 18 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
+| 19 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
 | 20 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 21 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 22 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 25 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 26 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 27 | [Kakabadze](http://twitter.com/search?q=Kakabadze) | N/A |
-| 28 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
-| 29 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [Anwilu](http://twitter.com/search?q=Anwilu) | N/A |
+| 21 | [Ruch](http://twitter.com/search?q=Ruch) | N/A |
+| 22 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 23 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 24 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 27 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 28 | [Kakabadze](http://twitter.com/search?q=Kakabadze) | N/A |
+| 29 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
+| 30 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 31 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
 | 32 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 33 | [Pomarańczowy](http://twitter.com/search?q=Pomara%c5%84czowy) | N/A |
-| 34 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 35 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 36 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 37 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 38 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 39 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 40 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 41 | [Banki](http://twitter.com/search?q=Banki) | N/A |
-| 42 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 43 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
-| 44 | [Pegulą](http://twitter.com/search?q=Pegul%c4%85) | N/A |
-| 45 | [Holandię](http://twitter.com/search?q=Holandi%c4%99) | N/A |
-| 46 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 47 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
-| 48 | [gessler](http://twitter.com/search?q=gessler) | N/A |
-| 49 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
+| 33 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 34 | [Anwilu](http://twitter.com/search?q=Anwilu) | N/A |
+| 35 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 36 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 37 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 38 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 39 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 40 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
+| 41 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 42 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
+| 43 | [Pomarańczowy](http://twitter.com/search?q=Pomara%c5%84czowy) | N/A |
+| 44 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 45 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 46 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 47 | [Banki](http://twitter.com/search?q=Banki) | N/A |
+| 48 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 49 | [Pegulą](http://twitter.com/search?q=Pegul%c4%85) | N/A |
 
 
 

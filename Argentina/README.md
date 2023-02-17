@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-17 21:17:30 UTC`
+📆 Last Updated: `2023-02-17 22:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 2 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
-| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [#ARGENTINAwantsATEEZ](http://twitter.com/search?q=%23ARGENTINAwantsATEEZ) | N/A |
-| 5 | [#ATEEZinARGENTINA](http://twitter.com/search?q=%23ATEEZinARGENTINA) | N/A |
-| 6 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 7 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 8 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 9 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
-| 10 | [#FrodoVuelve](http://twitter.com/search?q=%23FrodoVuelve) | N/A |
-| 11 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 14 | [Dupuy](http://twitter.com/search?q=Dupuy) | N/A |
-| 15 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 16 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
-| 17 | [Vecchio](http://twitter.com/search?q=Vecchio) | N/A |
-| 18 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
-| 19 | [Vigliano](http://twitter.com/search?q=Vigliano) | N/A |
-| 20 | [Mi Provincia Recicla](http://twitter.com/search?q=Mi+Provincia+Recicla) | N/A |
-| 21 | [Closs](http://twitter.com/search?q=Closs) | N/A |
+| 1 | [#integracionlouie](http://twitter.com/search?q=%23integracionlouie) | N/A |
+| 2 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 3 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 5 | [#SheIsBeautyWeAreWorldClass](http://twitter.com/search?q=%23SheIsBeautyWeAreWorldClass) | N/A |
+| 6 | [#ARGENTINAwantsATEEZ](http://twitter.com/search?q=%23ARGENTINAwantsATEEZ) | N/A |
+| 7 | [#ATEEZinARGENTINA](http://twitter.com/search?q=%23ATEEZinARGENTINA) | N/A |
+| 8 | [Bochi](http://twitter.com/search?q=Bochi) | N/A |
+| 9 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 10 | [Cuti](http://twitter.com/search?q=Cuti) | N/A |
+| 11 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
+| 12 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 13 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 14 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 15 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 16 | [Dupuy](http://twitter.com/search?q=Dupuy) | N/A |
+| 17 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Contin](http://twitter.com/search?q=Contin) | N/A |
+| 20 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
+| 21 | [Vigliano](http://twitter.com/search?q=Vigliano) | N/A |
 | 22 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 23 | [Perdóname](http://twitter.com/search?q=Perd%c3%b3name) | N/A |
-| 24 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 25 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
-| 26 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 27 | [Lollo](http://twitter.com/search?q=Lollo) | N/A |
-| 28 | [Taser](http://twitter.com/search?q=Taser) | N/A |
-| 29 | [Magdalena Espósito Valenti](http://twitter.com/search?q=Magdalena+Esp%c3%b3sito+Valenti) | N/A |
-| 30 | [Abigail Páez](http://twitter.com/search?q=Abigail+P%c3%a1ez) | N/A |
-| 31 | [Fideo](http://twitter.com/search?q=Fideo) | N/A |
-| 32 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 33 | [ODIO EL FRIO](http://twitter.com/search?q=ODIO+EL+FRIO) | N/A |
-| 34 | [Invierno](http://twitter.com/search?q=Invierno) | N/A |
-| 35 | [Policía de la Ciudad](http://twitter.com/search?q=Polic%c3%ada+de+la+Ciudad) | N/A |
-| 36 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
-| 37 | [#AgustinVuelve](http://twitter.com/search?q=%23AgustinVuelve) | N/A |
-| 38 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 39 | [#Instituto](http://twitter.com/search?q=%23Instituto) | N/A |
-| 40 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
-| 41 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
-| 42 | [#JusticiaPorLucio](http://twitter.com/search?q=%23JusticiaPorLucio) | N/A |
-| 43 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
-| 44 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 23 | [Closs](http://twitter.com/search?q=Closs) | N/A |
+| 24 | [AGUSTIN VUELVE](http://twitter.com/search?q=AGUSTIN+VUELVE) | N/A |
+| 25 | [Vecchio](http://twitter.com/search?q=Vecchio) | N/A |
+| 26 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 27 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
+| 28 | [Perdóname](http://twitter.com/search?q=Perd%c3%b3name) | N/A |
+| 29 | [Bosque](http://twitter.com/search?q=Bosque) | N/A |
+| 30 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 31 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
+| 32 | [Fideo](http://twitter.com/search?q=Fideo) | N/A |
+| 33 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 34 | [Lollo](http://twitter.com/search?q=Lollo) | N/A |
+| 35 | [Argentina Open](http://twitter.com/search?q=Argentina+Open) | N/A |
+| 36 | [Invierno](http://twitter.com/search?q=Invierno) | N/A |
+| 37 | [#Instituto](http://twitter.com/search?q=%23Instituto) | N/A |
+| 38 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 39 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
+| 40 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 41 | [#FrodoVuelve](http://twitter.com/search?q=%23FrodoVuelve) | N/A |
+| 42 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
+| 43 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 44 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
 | 45 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 46 | [#FederalA](http://twitter.com/search?q=%23FederalA) | N/A |
-| 47 | [#GranPrimo](http://twitter.com/search?q=%23GranPrimo) | N/A |
+| 46 | [#JusticiaPorLucio](http://twitter.com/search?q=%23JusticiaPorLucio) | N/A |
+| 47 | [#FederalA](http://twitter.com/search?q=%23FederalA) | N/A |
+| 48 | [#TNCentral](http://twitter.com/search?q=%23TNCentral) | N/A |
+| 49 | [#GranPrimo](http://twitter.com/search?q=%23GranPrimo) | N/A |
 
 
 

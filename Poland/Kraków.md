@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-17 21:16:45 UTC`
+📆 Last Updated: `2023-02-17 22:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
 | 2 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 4 | [#WIDSLA](http://twitter.com/search?q=%23WIDSLA) | N/A |
-| 5 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 6 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 7 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 8 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 9 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 10 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 11 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 3 | [#WIDŚLĄ](http://twitter.com/search?q=%23WID%c5%9aL%c4%84) | N/A |
+| 4 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 6 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 7 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 8 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 9 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 10 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 12 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 13 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 14 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 15 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 18 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 19 | [Stali](http://twitter.com/search?q=Stali) | N/A |
-| 20 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
+| 13 | [pączek](http://twitter.com/search?q=p%c4%85czek) | N/A |
+| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 15 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 16 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 17 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 18 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
+| 19 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
+| 20 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
 | 21 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 22 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 23 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 25 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 26 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 27 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 28 | [Kakabadze](http://twitter.com/search?q=Kakabadze) | N/A |
-| 29 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
-| 30 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 31 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 32 | [Anwilu](http://twitter.com/search?q=Anwilu) | N/A |
+| 22 | [Ruch](http://twitter.com/search?q=Ruch) | N/A |
+| 23 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 24 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 25 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 27 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 28 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 29 | [Kakabadze](http://twitter.com/search?q=Kakabadze) | N/A |
+| 30 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
+| 31 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 32 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
 | 33 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 34 | [Pomarańczowy](http://twitter.com/search?q=Pomara%c5%84czowy) | N/A |
-| 35 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 36 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 37 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 38 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 39 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 40 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 41 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 42 | [Banki](http://twitter.com/search?q=Banki) | N/A |
-| 43 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 44 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
-| 45 | [Pegulą](http://twitter.com/search?q=Pegul%c4%85) | N/A |
-| 46 | [Holandię](http://twitter.com/search?q=Holandi%c4%99) | N/A |
-| 47 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 48 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
-| 49 | [gessler](http://twitter.com/search?q=gessler) | N/A |
-| 50 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
+| 34 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 35 | [Anwilu](http://twitter.com/search?q=Anwilu) | N/A |
+| 36 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 37 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 38 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 39 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 41 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
+| 42 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 43 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
+| 44 | [Pomarańczowy](http://twitter.com/search?q=Pomara%c5%84czowy) | N/A |
+| 45 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 46 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 47 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 48 | [Banki](http://twitter.com/search?q=Banki) | N/A |
+| 49 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 50 | [Pegulą](http://twitter.com/search?q=Pegul%c4%85) | N/A |
 
 
 
