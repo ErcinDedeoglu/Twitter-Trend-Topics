@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-17 04:17:10 UTC`
+📆 Last Updated: `2023-02-17 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,12 +20,12 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [#AJAfcu](http://twitter.com/search?q=%23AJAfcu) | N/A |
 | 4 | [#ajaube](http://twitter.com/search?q=%23ajaube) | N/A |
 | 5 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
+| 6 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
 | 7 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 8 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 9 | [Teze](http://twitter.com/search?q=Teze) | N/A |
 | 10 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 11 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 11 | [saibari](http://twitter.com/search?q=saibari) | N/A |
 | 12 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
 | 13 | [rensch](http://twitter.com/search?q=rensch) | N/A |
 | 14 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
@@ -37,33 +37,33 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
 | 21 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
 | 22 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 23 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 24 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 25 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
-| 26 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 23 | [Goedemorgen Sonja](http://twitter.com/search?q=Goedemorgen+Sonja) | N/A |
+| 24 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 25 | [veerman](http://twitter.com/search?q=veerman) | N/A |
+| 26 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
 | 27 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 28 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
 | 29 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
 | 30 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 31 | [roethof](http://twitter.com/search?q=roethof) | N/A |
-| 32 | [fvd'er](http://twitter.com/search?q=fvd%27er) | N/A |
-| 33 | [Evert](http://twitter.com/search?q=Evert) | N/A |
-| 34 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 35 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 37 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 31 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 32 | [Roethof](http://twitter.com/search?q=Roethof) | N/A |
+| 33 | [fvd'er](http://twitter.com/search?q=fvd%27er) | N/A |
+| 34 | [Evert](http://twitter.com/search?q=Evert) | N/A |
+| 35 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 36 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 37 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 39 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 40 | [old amsterdam](http://twitter.com/search?q=old+amsterdam) | N/A |
 | 41 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 42 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 43 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 44 | [marinus](http://twitter.com/search?q=marinus) | N/A |
-| 45 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 46 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 47 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
-| 48 | [2 van Duitsland](http://twitter.com/search?q=2+van+Duitsland) | N/A |
-| 49 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 43 | [marinus](http://twitter.com/search?q=marinus) | N/A |
+| 44 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 45 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
+| 46 | [2 van Duitsland](http://twitter.com/search?q=2+van+Duitsland) | N/A |
+| 47 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 48 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 49 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
 | 50 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 
 

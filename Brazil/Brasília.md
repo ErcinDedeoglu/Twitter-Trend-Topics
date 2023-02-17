@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-17 04:17:02 UTC`
+📆 Last Updated: `2023-02-17 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
 | 5 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 6 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 7 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 8 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 9 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 10 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
-| 11 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 12 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 13 | [Péricles](http://twitter.com/search?q=P%c3%a9ricles) | N/A |
-| 14 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 7 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 8 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 9 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 10 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 11 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
+| 12 | [Péricles](http://twitter.com/search?q=P%c3%a9ricles) | N/A |
+| 13 | [#SearaNoBBB23](http://twitter.com/search?q=%23SearaNoBBB23) | N/A |
+| 14 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
 | 15 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 16 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 17 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 16 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 17 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
 | 18 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
 | 19 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 20 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 21 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 20 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 21 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
 | 22 | [#LadyNight](http://twitter.com/search?q=%23LadyNight) | N/A |
 | 23 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 24 | [Tony Ramos](http://twitter.com/search?q=Tony+Ramos) | N/A |
-| 25 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 26 | [#SearaNoBBB23](http://twitter.com/search?q=%23SearaNoBBB23) | N/A |
-| 27 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 28 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
-| 29 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 30 | [FRED NICÁCIO INOCENTE](http://twitter.com/search?q=FRED+NIC%c3%81CIO+INOCENTE) | N/A |
-| 31 | [#TimaoNaTNTSports](http://twitter.com/search?q=%23TimaoNaTNTSports) | N/A |
-| 32 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 33 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 34 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 24 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 25 | [FRED NICÁCIO INOCENTE](http://twitter.com/search?q=FRED+NIC%c3%81CIO+INOCENTE) | N/A |
+| 26 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 27 | [Tony Ramos](http://twitter.com/search?q=Tony+Ramos) | N/A |
+| 28 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 29 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 30 | [#TimaoNaTNTSports](http://twitter.com/search?q=%23TimaoNaTNTSports) | N/A |
+| 31 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 32 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 33 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
+| 34 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
 | 35 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 36 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
-| 37 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 38 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
-| 39 | [Fábio Santos](http://twitter.com/search?q=F%c3%a1bio+Santos) | Fábio Santos is a Portuguese name. It is derived from the Latin name Fabius, which means "bean grower" or "bean farmer". In English, it can be translated to mean "Bean Farmer". |
-| 40 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 41 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 42 | [Kombi](http://twitter.com/search?q=Kombi) | N/A |
-| 43 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
-| 44 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 45 | [Adryelson](http://twitter.com/search?q=Adryelson) | N/A |
-| 46 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 47 | [Pericão](http://twitter.com/search?q=Peric%c3%a3o) | N/A |
-| 48 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
-| 49 | [O Gil](http://twitter.com/search?q=O+Gil) | N/A |
-| 50 | [Perri](http://twitter.com/search?q=Perri) | N/A |
+| 36 | [Kombi](http://twitter.com/search?q=Kombi) | N/A |
+| 37 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 38 | [Periclão](http://twitter.com/search?q=Pericl%c3%a3o) | N/A |
+| 39 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 40 | [Fábio Santos](http://twitter.com/search?q=F%c3%a1bio+Santos) | Fábio Santos is a Portuguese name. It is derived from the Latin name Fabius, which means "bean grower" or "bean farmer". In English, it can be translated to mean "Bean Farmer". |
+| 41 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
+| 42 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 43 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 44 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 45 | [SAMBA DA MARIA](http://twitter.com/search?q=SAMBA+DA+MARIA) | N/A |
+| 46 | [Adryelson](http://twitter.com/search?q=Adryelson) | N/A |
+| 47 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 48 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 49 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 50 | [O Gil](http://twitter.com/search?q=O+Gil) | N/A |
 
 
 

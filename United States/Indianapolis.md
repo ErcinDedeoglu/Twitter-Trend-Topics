@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-17 04:17:37 UTC`
+📆 Last Updated: `2023-02-17 05:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
 | 2 | [Painter](http://twitter.com/search?q=Painter) | N/A |
-| 3 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 3 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
 | 4 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
 | 5 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 6 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 7 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 8 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 9 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 10 | [#OrganizedCrime](http://twitter.com/search?q=%23OrganizedCrime) | N/A |
-| 11 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 12 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 14 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 15 | [#NikkiBellaSaysIDo](http://twitter.com/search?q=%23NikkiBellaSaysIDo) | N/A |
-| 16 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 17 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
-| 18 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 19 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 20 | [#GUHH](http://twitter.com/search?q=%23GUHH) | N/A |
-| 21 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 7 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 8 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 9 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 11 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 12 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 13 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 15 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 16 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 17 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
+| 18 | [#OrganizedCrime](http://twitter.com/search?q=%23OrganizedCrime) | N/A |
+| 19 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 20 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 21 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
 | 22 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 23 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 24 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 25 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 23 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 25 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 26 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 27 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
-| 28 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 29 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 30 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 31 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
-| 32 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 33 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 34 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
-| 35 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
-| 36 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
-| 37 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 38 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
-| 39 | [Ayanna](http://twitter.com/search?q=Ayanna) | N/A |
-| 40 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 41 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
-| 42 | [T Ross](http://twitter.com/search?q=T+Ross) | N/A |
-| 43 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 44 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 45 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 46 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 47 | [Everybody's Something](http://twitter.com/search?q=Everybody%27s+Something) | N/A |
-| 48 | [Zed Key](http://twitter.com/search?q=Zed+Key) | N/A |
-| 49 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 50 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
+| 27 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 28 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 29 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 30 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 31 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 32 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 33 | [Paul Cotter](http://twitter.com/search?q=Paul+Cotter) | N/A |
+| 34 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 35 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 36 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 37 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 38 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 39 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 40 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 41 | [Connor McCaffery](http://twitter.com/search?q=Connor+McCaffery) | N/A |
+| 42 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 43 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 44 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 45 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
+| 46 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 47 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 48 | [Mason Plumlee](http://twitter.com/search?q=Mason+Plumlee) | N/A |
+| 49 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 50 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
 
 
 

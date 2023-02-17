@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-17 04:17:11 UTC`
+📆 Last Updated: `2023-02-17 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 7 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 8 | [Teze](http://twitter.com/search?q=Teze) | N/A |
 | 9 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 10 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 10 | [saibari](http://twitter.com/search?q=saibari) | N/A |
 | 11 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
 | 12 | [rensch](http://twitter.com/search?q=rensch) | N/A |
 | 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
@@ -36,33 +36,33 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 19 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
 | 20 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
 | 21 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 22 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 23 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 24 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
-| 25 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 22 | [Goedemorgen Sonja](http://twitter.com/search?q=Goedemorgen+Sonja) | N/A |
+| 23 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 24 | [veerman](http://twitter.com/search?q=veerman) | N/A |
+| 25 | [Ahold](http://twitter.com/search?q=Ahold) | N/A |
 | 26 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 27 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
 | 28 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
 | 29 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 30 | [roethof](http://twitter.com/search?q=roethof) | N/A |
+| 30 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 31 | [fvd'er](http://twitter.com/search?q=fvd%27er) | N/A |
 | 32 | [Evert](http://twitter.com/search?q=Evert) | N/A |
 | 33 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
 | 34 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 36 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 36 | [Roethof](http://twitter.com/search?q=Roethof) | N/A |
 | 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 38 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 39 | [old amsterdam](http://twitter.com/search?q=old+amsterdam) | N/A |
 | 40 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 41 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 42 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 43 | [marinus](http://twitter.com/search?q=marinus) | N/A |
-| 44 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 45 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 46 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
-| 47 | [2 van Duitsland](http://twitter.com/search?q=2+van+Duitsland) | N/A |
-| 48 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 42 | [marinus](http://twitter.com/search?q=marinus) | N/A |
+| 43 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 44 | [Rachel Hazes](http://twitter.com/search?q=Rachel+Hazes) | N/A |
+| 45 | [2 van Duitsland](http://twitter.com/search?q=2+van+Duitsland) | N/A |
+| 46 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 47 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 48 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
 | 49 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 
 

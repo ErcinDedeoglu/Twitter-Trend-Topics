@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-17 04:16:58 UTC`
+📆 Last Updated: `2023-02-17 05:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 3 | [#10MdeBroers](http://twitter.com/search?q=%2310MdeBroers) | N/A |
-| 4 | [#JuanTop1Latam](http://twitter.com/search?q=%23JuanTop1Latam) | N/A |
-| 5 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
-| 6 | [#JuevesAllStar](http://twitter.com/search?q=%23JuevesAllStar) | N/A |
-| 7 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 8 | [JUMPER MEDALIST](http://twitter.com/search?q=JUMPER+MEDALIST) | N/A |
-| 9 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
-| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 3 | [#JuevesAllStar](http://twitter.com/search?q=%23JuevesAllStar) | N/A |
+| 4 | [#10MdeBroers](http://twitter.com/search?q=%2310MdeBroers) | N/A |
+| 5 | [#JuanTop1Latam](http://twitter.com/search?q=%23JuanTop1Latam) | N/A |
+| 6 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
+| 7 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 8 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 9 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 10 | [JUMPER MEDALIST](http://twitter.com/search?q=JUMPER+MEDALIST) | N/A |
 | 11 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 12 | [Paso del Toro](http://twitter.com/search?q=Paso+del+Toro) | N/A |
-| 13 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 18 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 19 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
-| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 21 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 22 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 23 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
-| 24 | [Comité Técnico de Evaluación](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+Evaluaci%c3%b3n) | N/A |
-| 25 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 26 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
-| 27 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 28 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
-| 29 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
-| 30 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 31 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 32 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 33 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 34 | [Pueblos](http://twitter.com/search?q=Pueblos) | N/A |
-| 35 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 36 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
-| 37 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 38 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 39 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
-| 40 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
-| 41 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
-| 42 | [#graciasquackity](http://twitter.com/search?q=%23graciasquackity) | N/A |
-| 43 | [#NuevaInglaterra](http://twitter.com/search?q=%23NuevaInglaterra) | N/A |
-| 44 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
-| 45 | [#FeriaTecomatlán2023](http://twitter.com/search?q=%23FeriaTecomatl%c3%a1n2023) | N/A |
-| 46 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
-| 47 | [#Sincerándome](http://twitter.com/search?q=%23Sincer%c3%a1ndome) | N/A |
-| 48 | [#YasminFueraDeLaSCJN](http://twitter.com/search?q=%23YasminFueraDeLaSCJN) | N/A |
-| 49 | [#MinistraPirata](http://twitter.com/search?q=%23MinistraPirata) | N/A |
+| 12 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 13 | [Nueva Inglaterra](http://twitter.com/search?q=Nueva+Inglaterra) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 16 | [Paso del Toro](http://twitter.com/search?q=Paso+del+Toro) | N/A |
+| 17 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 18 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 19 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
+| 20 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 21 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 22 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 23 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 24 | [Rebeca](http://twitter.com/search?q=Rebeca) | N/A |
+| 25 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 26 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 27 | [Comité Técnico de Evaluación](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+Evaluaci%c3%b3n) | N/A |
+| 28 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
+| 29 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
+| 30 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
+| 31 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
+| 32 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 33 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
+| 34 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
+| 35 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 36 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 37 | [Pueblos](http://twitter.com/search?q=Pueblos) | N/A |
+| 38 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 39 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 40 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 41 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
+| 42 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 43 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 44 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
+| 45 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 46 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
+| 47 | [#graciasquackity](http://twitter.com/search?q=%23graciasquackity) | N/A |
+| 48 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 49 | [#Sincerándome](http://twitter.com/search?q=%23Sincer%c3%a1ndome) | N/A |
 
 
 

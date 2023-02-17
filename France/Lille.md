@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-17 04:17:06 UTC`
+📆 Last Updated: `2023-02-17 05:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
 | 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 3 | [#JUVFCN](http://twitter.com/search?q=%23JUVFCN) | N/A |
-| 4 | [#JUVFCN](http://twitter.com/search?q=%23JUVFCN) | N/A |
-| 5 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
-| 6 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 8 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 9 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
-| 10 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 11 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 12 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 13 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
+| 5 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 6 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 7 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
+| 8 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 9 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 10 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 11 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 12 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
 | 15 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 17 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 18 | [CKay](http://twitter.com/search?q=CKay) | N/A |
-| 19 | [beaujoire](http://twitter.com/search?q=beaujoire) | N/A |
-| 20 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 21 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 23 | [Turin](http://twitter.com/search?q=Turin) | N/A |
-| 24 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 25 | [Cocoro](http://twitter.com/search?q=Cocoro) | N/A |
-| 26 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 27 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 28 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 29 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 30 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 31 | [genesio](http://twitter.com/search?q=genesio) | N/A |
-| 32 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 33 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 41 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 42 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 46 | [I Love U](http://twitter.com/search?q=I+Love+U) | N/A |
-| 47 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 48 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 49 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 50 | [404billy](http://twitter.com/search?q=404billy) | N/A |
+| 16 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 17 | [beaujoire](http://twitter.com/search?q=beaujoire) | N/A |
+| 18 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 20 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 21 | [Turin](http://twitter.com/search?q=Turin) | N/A |
+| 22 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 23 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 25 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 26 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 27 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 28 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 29 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 30 | [genesio](http://twitter.com/search?q=genesio) | N/A |
+| 31 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 33 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 36 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 39 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 40 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 41 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 42 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 44 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 45 | [I LOVE U](http://twitter.com/search?q=I+LOVE+U) | N/A |
+| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 47 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 48 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 49 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 50 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
 
 
 

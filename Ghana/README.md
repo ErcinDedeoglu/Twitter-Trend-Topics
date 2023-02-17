@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-17 04:17:45 UTC`
+📆 Last Updated: `2023-02-17 05:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,20 +21,20 @@ This is top 50 for Ghana
 | 4 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 5 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 6 | [#ARSMCI](http://twitter.com/search?q=%23ARSMCI) | N/A |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 9 | [Fufu](http://twitter.com/search?q=Fufu) | N/A |
 | 10 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 11 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
 | 12 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 13 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 14 | [#pizzamantwanadi](http://twitter.com/search?q=%23pizzamantwanadi) | N/A |
-| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 16 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 17 | [#HMMHM](http://twitter.com/search?q=%23HMMHM) | N/A |
-| 18 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 19 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 20 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 14 | [#TheCalling](http://twitter.com/search?q=%23TheCalling) | N/A |
+| 15 | [#pizzamantwanadi](http://twitter.com/search?q=%23pizzamantwanadi) | N/A |
+| 16 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 17 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 18 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 19 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
 | 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 22 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
 | 23 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
@@ -43,7 +43,7 @@ This is top 50 for Ghana
 | 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 27 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 28 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 29 | [UPSA](http://twitter.com/search?q=UPSA) | N/A |
+| 29 | [upsa](http://twitter.com/search?q=upsa) | N/A |
 | 30 | [National Security](http://twitter.com/search?q=National+Security) | N/A |
 | 31 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
 | 32 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
@@ -56,15 +56,15 @@ This is top 50 for Ghana
 | 39 | [Rema](http://twitter.com/search?q=Rema) | N/A |
 | 40 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 41 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 43 | [Soursop](http://twitter.com/search?q=Soursop) | N/A |
-| 44 | [Delay](http://twitter.com/search?q=Delay) | N/A |
-| 45 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 46 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 47 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 48 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 49 | [Nkrumah](http://twitter.com/search?q=Nkrumah) | N/A |
-| 50 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 42 | [Soursop](http://twitter.com/search?q=Soursop) | N/A |
+| 43 | [Delay](http://twitter.com/search?q=Delay) | N/A |
+| 44 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 47 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 48 | [Nkrumah](http://twitter.com/search?q=Nkrumah) | N/A |
+| 49 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 50 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-17 04:17:49 UTC`
+📆 Last Updated: `2023-02-17 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for Panama
 | 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 12 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
 | 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
-| 16 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 17 | [Gurú](http://twitter.com/search?q=Gur%c3%ba) | N/A |
-| 18 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 19 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 20 | [Balboa](http://twitter.com/search?q=Balboa) | N/A |
-| 21 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 23 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 24 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 25 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 26 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 27 | [Peke](http://twitter.com/search?q=Peke) | N/A |
+| 14 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 16 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
+| 17 | [Balboa](http://twitter.com/search?q=Balboa) | N/A |
+| 18 | [Gurú](http://twitter.com/search?q=Gur%c3%ba) | N/A |
+| 19 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 20 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 21 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 23 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 24 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 25 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 26 | [Peke](http://twitter.com/search?q=Peke) | N/A |
+| 27 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 28 | [guillermo ferrufino](http://twitter.com/search?q=guillermo+ferrufino) | N/A |
 | 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 30 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 31 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 32 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 33 | [Veraguas](http://twitter.com/search?q=Veraguas) | N/A |
-| 34 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 35 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 36 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
-| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 38 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
-| 39 | [Ancón](http://twitter.com/search?q=Anc%c3%b3n) | N/A |
-| 40 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Lamentablemente](http://twitter.com/search?q=Lamentablemente) | N/A |
-| 43 | [Puente de Las Américas](http://twitter.com/search?q=Puente+de+Las+Am%c3%a9ricas) | N/A |
-| 44 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 45 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 46 | [Mides](http://twitter.com/search?q=Mides) | N/A |
-| 47 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 48 | [dj black](http://twitter.com/search?q=dj+black) | N/A |
-| 49 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 31 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 32 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 33 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 34 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
+| 35 | [veraguas](http://twitter.com/search?q=veraguas) | N/A |
+| 36 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 37 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
+| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 39 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
+| 40 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
+| 41 | [Ancón](http://twitter.com/search?q=Anc%c3%b3n) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 44 | [puente de las américas](http://twitter.com/search?q=puente+de+las+am%c3%a9ricas) | N/A |
+| 45 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 46 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 47 | [Mides](http://twitter.com/search?q=Mides) | N/A |
+| 48 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 49 | [dj black](http://twitter.com/search?q=dj+black) | N/A |
 | 50 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 
 

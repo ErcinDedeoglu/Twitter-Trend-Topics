@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-17 04:17:45 UTC`
+📆 Last Updated: `2023-02-17 05:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for Denmark
 | 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [#midtjylland](http://twitter.com/search?q=%23midtjylland) | N/A |
-| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 10 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 11 | [#SCPFCM](http://twitter.com/search?q=%23SCPFCM) | N/A |
+| 8 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 9 | [#midtjylland](http://twitter.com/search?q=%23midtjylland) | N/A |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [#scpfcm](http://twitter.com/search?q=%23scpfcm) | N/A |
 | 12 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 14 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
@@ -56,7 +56,7 @@ This is top 50 for Denmark
 | 39 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 40 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 42 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
 | 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 44 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 45 | [Paris](http://twitter.com/search?q=Paris) | N/A |

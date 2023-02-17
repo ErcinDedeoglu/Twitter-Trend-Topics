@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-17 04:17:06 UTC`
+📆 Last Updated: `2023-02-17 05:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 20 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 22 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 23 | [Tom Parsons](http://twitter.com/search?q=Tom+Parsons) | N/A |
+| 23 | [tom parsons](http://twitter.com/search?q=tom+parsons) | N/A |
 | 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 25 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 26 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |

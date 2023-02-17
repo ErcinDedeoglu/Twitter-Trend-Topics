@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-02-17 04:17:16 UTC`
+📆 Last Updated: `2023-02-17 05:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 1 | [小田急線](http://twitter.com/search?q=%e5%b0%8f%e7%94%b0%e6%80%a5%e7%b7%9a) | 小田急線 is a railway line operated by Odakyu Electric Railway in Japan. It runs between Tokyo and Odawara, with many stops along the way. In English, it is known as the Odakyu Line. |
 | 2 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
-| 3 | [ジョジョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7) | N/A |
-| 4 | [ドリショ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%82%b7%e3%83%a7) | N/A |
-| 5 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
-| 6 | [ダンベル](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%99%e3%83%ab) | N/A |
-| 7 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 8 | [#セブンの冷凍食品当たった](http://twitter.com/search?q=%23%e3%82%bb%e3%83%96%e3%83%b3%e3%81%ae%e5%86%b7%e5%87%8d%e9%a3%9f%e5%93%81%e5%bd%93%e3%81%9f%e3%81%a3%e3%81%9f) | "#セブンの冷凍食品当たった" is a hashtag used on social media in Japan. It translates to "I won Seven's frozen food". Seven is a convenience store chain in Japan, and this hashtag is used when someone has won a prize from the store. |
-| 9 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 10 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 11 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
-| 12 | [あおぎり高校](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%8e%e3%82%8a%e9%ab%98%e6%a0%a1) | N/A |
-| 13 | [発射失敗](http://twitter.com/search?q=%e7%99%ba%e5%b0%84%e5%a4%b1%e6%95%97) | N/A |
-| 14 | [ホエルオー](http://twitter.com/search?q=%e3%83%9b%e3%82%a8%e3%83%ab%e3%82%aa%e3%83%bc) | N/A |
-| 15 | [メインエンジン](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
-| 16 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 17 | [アントマン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
-| 18 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 19 | [緊急停止](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e5%81%9c%e6%ad%a2) | N/A |
-| 20 | [EGOIST](http://twitter.com/search?q=EGOIST) | N/A |
-| 21 | [ワイルドハーツ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89%e3%83%8f%e3%83%bc%e3%83%84) | N/A |
-| 22 | [ジョディオ・ジョースター](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%87%e3%82%a3%e3%82%aa%e3%83%bb%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 23 | [世界配信](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e9%85%8d%e4%bf%a1) | N/A |
-| 24 | [赤楚くん](http://twitter.com/search?q=%e8%b5%a4%e6%a5%9a%e3%81%8f%e3%82%93) | 赤楚くん is a nickname given to the Japanese actor and singer, Kento Nakajima. It is derived from the phrase "赤い楚々", which means "bold and brave". In English, it can be translated to mean "Red-Bold Nakajima". |
-| 25 | [JAXA](http://twitter.com/search?q=JAXA) | N/A |
-| 26 | [レアコレ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%82%b3%e3%83%ac) | N/A |
-| 27 | [ラウンド1](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%891) | ラウンド1 is a term used in sports and other competitions to refer to the first round of a tournament or match. In English, it can be translated as "Round 1". |
-| 28 | [原因究明](http://twitter.com/search?q=%e5%8e%9f%e5%9b%a0%e7%a9%b6%e6%98%8e) | N/A |
-| 29 | [だいち3号](http://twitter.com/search?q=%e3%81%a0%e3%81%84%e3%81%a13%e5%8f%b7) | N/A |
-| 30 | [ブースター着火](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e7%9d%80%e7%81%ab) | N/A |
-| 31 | [ヤリスベース](http://twitter.com/search?q=%e3%83%a4%e3%83%aa%e3%82%b9%e3%83%99%e3%83%bc%e3%82%b9) | N/A |
-| 32 | [キョウリュウジャー](http://twitter.com/search?q=%e3%82%ad%e3%83%a7%e3%82%a6%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 33 | [SRB3](http://twitter.com/search?q=SRB3) | N/A |
-| 34 | [ALOS-3](http://twitter.com/search?q=ALOS-3) | N/A |
-| 35 | [Aグループ](http://twitter.com/search?q=A%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | Aグループ is a Japanese term that refers to a group of people who share similar interests or goals. In English, it could be translated as "Group A" or "Group of A". |
-| 36 | [狡噛さん](http://twitter.com/search?q=%e7%8b%a1%e5%99%9b%e3%81%95%e3%82%93) | N/A |
-| 37 | [ももちさん](http://twitter.com/search?q=%e3%82%82%e3%82%82%e3%81%a1%e3%81%95%e3%82%93) | N/A |
-| 38 | [ブルース・ウィリス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%b9) | N/A |
-| 39 | [当落何時](http://twitter.com/search?q=%e5%bd%93%e8%90%bd%e4%bd%95%e6%99%82) | N/A |
-| 40 | [朱ちゃん](http://twitter.com/search?q=%e6%9c%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [先進光学衛星](http://twitter.com/search?q=%e5%85%88%e9%80%b2%e5%85%89%e5%ad%a6%e8%a1%9b%e6%98%9f) | N/A |
-| 42 | [あさイチ](http://twitter.com/search?q=%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | N/A |
-| 43 | [マルゲリータ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b2%e3%83%aa%e3%83%bc%e3%82%bf) | N/A |
-| 44 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 45 | [発射中止](http://twitter.com/search?q=%e7%99%ba%e5%b0%84%e4%b8%ad%e6%ad%a2) | N/A |
-| 46 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 47 | [マイナポイント第2弾](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e7%ac%ac2%e5%bc%be) | N/A |
-| 48 | [バラムツ](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%a0%e3%83%84) | N/A |
-| 49 | [会社のPC](http://twitter.com/search?q=%e4%bc%9a%e7%a4%be%e3%81%aePC) | N/A |
+| 3 | [秋月さん](http://twitter.com/search?q=%e7%a7%8b%e6%9c%88%e3%81%95%e3%82%93) | N/A |
+| 4 | [#藤井風](http://twitter.com/search?q=%23%e8%97%a4%e4%ba%95%e9%a2%a8) | N/A |
+| 5 | [ドリショ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%82%b7%e3%83%a7) | N/A |
+| 6 | [ジョジョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7) | N/A |
+| 7 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 8 | [ダンベル](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%99%e3%83%ab) | N/A |
+| 9 | [#セブンの冷凍食品当たった](http://twitter.com/search?q=%23%e3%82%bb%e3%83%96%e3%83%b3%e3%81%ae%e5%86%b7%e5%87%8d%e9%a3%9f%e5%93%81%e5%bd%93%e3%81%9f%e3%81%a3%e3%81%9f) | "#セブンの冷凍食品当たった" is a hashtag used on social media in Japan. It translates to "I won Seven's frozen food". Seven is a convenience store chain in Japan, and this hashtag is used when someone has won a prize from the store. |
+| 10 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 11 | [あおぎり高校](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%8e%e3%82%8a%e9%ab%98%e6%a0%a1) | N/A |
+| 12 | [ロケット](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 13 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
+| 14 | [アントマン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
+| 15 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
+| 16 | [AIコスプレイヤー](http://twitter.com/search?q=AI%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc) | N/A |
+| 17 | [#アクエリアス杯](http://twitter.com/search?q=%23%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | N/A |
+| 18 | [ホエルオー](http://twitter.com/search?q=%e3%83%9b%e3%82%a8%e3%83%ab%e3%82%aa%e3%83%bc) | N/A |
+| 19 | [発射失敗](http://twitter.com/search?q=%e7%99%ba%e5%b0%84%e5%a4%b1%e6%95%97) | N/A |
+| 20 | [打ち上げ失敗](http://twitter.com/search?q=%e6%89%93%e3%81%a1%e4%b8%8a%e3%81%92%e5%a4%b1%e6%95%97) | N/A |
+| 21 | [メインエンジン](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
+| 22 | [ワイルドハーツ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89%e3%83%8f%e3%83%bc%e3%83%84) | N/A |
+| 23 | [緊急停止](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e5%81%9c%e6%ad%a2) | N/A |
+| 24 | [EGOIST](http://twitter.com/search?q=EGOIST) | N/A |
+| 25 | [ジョディオ・ジョースター](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%87%e3%82%a3%e3%82%aa%e3%83%bb%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 26 | [呪いの28歳](http://twitter.com/search?q=%e5%91%aa%e3%81%84%e3%81%ae28%e6%ad%b3) | N/A |
+| 27 | [レアコレ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%82%b3%e3%83%ac) | N/A |
+| 28 | [ゲーチス](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%81%e3%82%b9) | N/A |
+| 29 | [当落何時](http://twitter.com/search?q=%e5%bd%93%e8%90%bd%e4%bd%95%e6%99%82) | N/A |
+| 30 | [世界配信](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e9%85%8d%e4%bf%a1) | N/A |
+| 31 | [Aグループ](http://twitter.com/search?q=A%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | Aグループ is a Japanese term that refers to a group of people who share similar interests or goals. In English, it could be translated as "Group A" or "Group of A". |
+| 32 | [JAXA](http://twitter.com/search?q=JAXA) | N/A |
+| 33 | [制作開放](http://twitter.com/search?q=%e5%88%b6%e4%bd%9c%e9%96%8b%e6%94%be) | 制作開放 (zhi zuo kai fang) is a Chinese phrase that translates to "open production" in English. It refers to the practice of allowing people to freely create and share their own content, such as videos, music, or artwork. This concept is often associated with the open source movement, which encourages collaboration and sharing of resources. |
+| 34 | [ラウンド1](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%891) | ラウンド1 is a term used in sports and other competitions to refer to the first round of a tournament or match. In English, it can be translated as "Round 1". |
+| 35 | [タロット](http://twitter.com/search?q=%e3%82%bf%e3%83%ad%e3%83%83%e3%83%88) | タロット is a type of divination that uses a deck of 78 cards. It is based on the belief that each card has its own unique meaning and can be used to interpret the past, present, and future. In English, it is known as Tarot. |
+| 36 | [ヤリスベース](http://twitter.com/search?q=%e3%83%a4%e3%83%aa%e3%82%b9%e3%83%99%e3%83%bc%e3%82%b9) | N/A |
+| 37 | [マルゲリータ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b2%e3%83%aa%e3%83%bc%e3%82%bf) | N/A |
+| 38 | [ジェイミー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%83%9f%e3%83%bc) | N/A |
+| 39 | [キョウリュウジャー](http://twitter.com/search?q=%e3%82%ad%e3%83%a7%e3%82%a6%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 40 | [ブースター着火](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e7%9d%80%e7%81%ab) | N/A |
+| 41 | [赤楚くん](http://twitter.com/search?q=%e8%b5%a4%e6%a5%9a%e3%81%8f%e3%82%93) | 赤楚くん is a nickname given to the Japanese actor and singer, Kento Nakajima. It is derived from the phrase "赤い楚々", which means "bold and brave". In English, it can be translated to mean "Red-Bold Nakajima". |
+| 42 | [クアントマニア](http://twitter.com/search?q=%e3%82%af%e3%82%a2%e3%83%b3%e3%83%88%e3%83%9e%e3%83%8b%e3%82%a2) | N/A |
+| 43 | [ももちさん](http://twitter.com/search?q=%e3%82%82%e3%82%82%e3%81%a1%e3%81%95%e3%82%93) | N/A |
+| 44 | [ブルース・ウィリス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%b9) | N/A |
+| 45 | [バラムツ](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%a0%e3%83%84) | N/A |
+| 46 | [狡噛さん](http://twitter.com/search?q=%e7%8b%a1%e5%99%9b%e3%81%95%e3%82%93) | N/A |
+| 47 | [朱ちゃん](http://twitter.com/search?q=%e6%9c%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [原因究明](http://twitter.com/search?q=%e5%8e%9f%e5%9b%a0%e7%a9%b6%e6%98%8e) | N/A |
+| 49 | [マイナポイント第2弾](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e7%ac%ac2%e5%bc%be) | N/A |
 
 
 
