@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-02-17 02:43:04 UTC`
+📆 Last Updated: `2023-02-17 03:21:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#16Feb](http://twitter.com/search?q=%2316Feb) | N/A |
 | 2 | [#CarnavalesFelices2023](http://twitter.com/search?q=%23CarnavalesFelices2023) | N/A |
 | 3 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
-| 4 | [TOUR SOY REBELDE VENEZUELA](http://twitter.com/search?q=TOUR+SOY+REBELDE+VENEZUELA) | N/A |
+| 4 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
 | 5 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
 | 6 | [Alí Primera](http://twitter.com/search?q=Al%c3%ad+Primera) | N/A |
-| 7 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 8 | [#CeseALasSanciones](http://twitter.com/search?q=%23CeseALasSanciones) | N/A |
-| 9 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 10 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 7 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
+| 8 | [TOUR SOY REBELDE VENEZUELA](http://twitter.com/search?q=TOUR+SOY+REBELDE+VENEZUELA) | N/A |
+| 9 | [#CeseALasSanciones](http://twitter.com/search?q=%23CeseALasSanciones) | N/A |
+| 10 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
-| 13 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 14 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
-| 15 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 16 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
-| 17 | [#LaPrimariaVa](http://twitter.com/search?q=%23LaPrimariaVa) | N/A |
-| 18 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 19 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 20 | [Dodge Dart](http://twitter.com/search?q=Dodge+Dart) | N/A |
-| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 22 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 23 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
-| 24 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 25 | [Maduro y Petro](http://twitter.com/search?q=Maduro+y+Petro) | N/A |
-| 26 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 27 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 28 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 30 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
-| 33 | [Cantor del Pueblo](http://twitter.com/search?q=Cantor+del+Pueblo) | N/A |
-| 34 | [Feliz San Valentín](http://twitter.com/search?q=Feliz+San+Valent%c3%adn) | N/A |
+| 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 13 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 14 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 15 | [UNEFA](http://twitter.com/search?q=UNEFA) | N/A |
+| 16 | [dodge dart](http://twitter.com/search?q=dodge+dart) | N/A |
+| 17 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 20 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 21 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
+| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 23 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 24 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 25 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 26 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 28 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 29 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
+| 30 | [Feliz San Valentín](http://twitter.com/search?q=Feliz+San+Valent%c3%adn) | N/A |
+| 31 | [Luis Brito García](http://twitter.com/search?q=Luis+Brito+Garc%c3%ada) | N/A |
+| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 33 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
+| 34 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
 | 35 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 37 | [Luis Brito García](http://twitter.com/search?q=Luis+Brito+Garc%c3%ada) | N/A |
-| 38 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
-| 39 | [Parque del Este](http://twitter.com/search?q=Parque+del+Este) | N/A |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
-| 43 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
-| 44 | [Richard Burton](http://twitter.com/search?q=Richard+Burton) | N/A |
-| 45 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 46 | [Supersónicos](http://twitter.com/search?q=Supers%c3%b3nicos) | N/A |
-| 47 | [Datanalisis](http://twitter.com/search?q=Datanalisis) | N/A |
-| 48 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
-| 49 | [Farías](http://twitter.com/search?q=Far%c3%adas) | N/A |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [Parque del Este](http://twitter.com/search?q=Parque+del+Este) | N/A |
+| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 39 | [Richard Burton](http://twitter.com/search?q=Richard+Burton) | N/A |
+| 40 | [Cantor del Pueblo](http://twitter.com/search?q=Cantor+del+Pueblo) | N/A |
+| 41 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 42 | [Supersónicos](http://twitter.com/search?q=Supers%c3%b3nicos) | N/A |
+| 43 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
+| 44 | [Gustavo Petro](http://twitter.com/search?q=Gustavo+Petro) | N/A |
+| 45 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
+| 46 | [Datanalisis](http://twitter.com/search?q=Datanalisis) | N/A |
+| 47 | [Farías](http://twitter.com/search?q=Far%c3%adas) | N/A |
+| 48 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
+| 49 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 
 
 

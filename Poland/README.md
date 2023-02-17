@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-17 02:43:47 UTC`
+📆 Last Updated: `2023-02-17 03:22:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Poland
 | 14 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
 | 15 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 16 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 17 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
-| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 19 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
 | 20 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
 | 21 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 22 | [słodkiego](http://twitter.com/search?q=s%c5%82odkiego) | N/A |
 | 23 | [faworki](http://twitter.com/search?q=faworki) | N/A |
-| 24 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 25 | [gessler](http://twitter.com/search?q=gessler) | N/A |
-| 26 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [gessler](http://twitter.com/search?q=gessler) | N/A |
+| 25 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [matecki](http://twitter.com/search?q=matecki) | N/A |
 | 28 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 29 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 30 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
-| 31 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 33 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 34 | [Bułgarskiej](http://twitter.com/search?q=Bu%c5%82garskiej) | N/A |
-| 35 | [wcisło](http://twitter.com/search?q=wcis%c5%82o) | N/A |
-| 36 | [schetyna](http://twitter.com/search?q=schetyna) | N/A |
-| 37 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 39 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 40 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
-| 41 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 29 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 30 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 31 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 32 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 33 | [Bułgarskiej](http://twitter.com/search?q=Bu%c5%82garskiej) | N/A |
+| 34 | [wcisło](http://twitter.com/search?q=wcis%c5%82o) | N/A |
+| 35 | [schetyna](http://twitter.com/search?q=schetyna) | N/A |
+| 36 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 38 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 39 | [Nialla](http://twitter.com/search?q=Nialla) | N/A |
+| 40 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 41 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
 | 42 | [paczków](http://twitter.com/search?q=paczk%c3%b3w) | N/A |
-| 43 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 44 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 45 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 46 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 47 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
-| 48 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 49 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
-| 50 | [Airly](http://twitter.com/search?q=Airly) | N/A |
+| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 44 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 45 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 47 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 48 | [Airly](http://twitter.com/search?q=Airly) | N/A |
+| 49 | [grzegorz skrzecz](http://twitter.com/search?q=grzegorz+skrzecz) | N/A |
+| 50 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
 
 
 

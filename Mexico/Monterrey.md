@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-17 02:43:01 UTC`
+📆 Last Updated: `2023-02-17 03:21:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,48 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 2 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 4 | [#Changbin](http://twitter.com/search?q=%23Changbin) | N/A |
-| 5 | [#FeriaTecomatlán2023](http://twitter.com/search?q=%23FeriaTecomatl%c3%a1n2023) | N/A |
-| 6 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 7 | [#NuevaInglaterra](http://twitter.com/search?q=%23NuevaInglaterra) | N/A |
-| 8 | [#graciasquackity](http://twitter.com/search?q=%23graciasquackity) | N/A |
+| 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 3 | [#10MdeBroers](http://twitter.com/search?q=%2310MdeBroers) | N/A |
+| 4 | [#JuanTop1Latam](http://twitter.com/search?q=%23JuanTop1Latam) | N/A |
+| 5 | [#ChangbinxSamsungKR](http://twitter.com/search?q=%23ChangbinxSamsungKR) | N/A |
+| 6 | [#JuevesAllStar](http://twitter.com/search?q=%23JuevesAllStar) | N/A |
+| 7 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 8 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 9 | [YATRA](http://twitter.com/search?q=YATRA) | N/A |
-| 10 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 11 | [La Feria de la Unidad](http://twitter.com/search?q=La+Feria+de+la+Unidad) | N/A |
-| 12 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 13 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 14 | [CARLOS RIVERA](http://twitter.com/search?q=CARLOS+RIVERA) | N/A |
-| 15 | [NODAL CUMBIERO](http://twitter.com/search?q=NODAL+CUMBIERO) | N/A |
-| 16 | [UN CUMBIÓN DOLIDO](http://twitter.com/search?q=UN+CUMBI%c3%93N+DOLIDO) | N/A |
+| 10 | [La Feria de la Unidad](http://twitter.com/search?q=La+Feria+de+la+Unidad) | N/A |
+| 11 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 12 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 13 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
+| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Comité Técnico de Evaluación](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+Evaluaci%c3%b3n) | N/A |
-| 19 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
-| 20 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 21 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
-| 22 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 18 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
+| 19 | [Comité Técnico de Evaluación](http://twitter.com/search?q=Comit%c3%a9+T%c3%a9cnico+de+Evaluaci%c3%b3n) | N/A |
+| 20 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
+| 21 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
+| 22 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
 | 23 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 24 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
+| 24 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
 | 25 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 26 | [Pueblos](http://twitter.com/search?q=Pueblos) | N/A |
-| 27 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 28 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 29 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 30 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
-| 31 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 32 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 34 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 35 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 36 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 37 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
-| 38 | [Cesar de Castro](http://twitter.com/search?q=Cesar+de+Castro) | N/A |
-| 39 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 40 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [#Sincerandome](http://twitter.com/search?q=%23Sincerandome) | N/A |
-| 43 | [#enhorabuenasuper](http://twitter.com/search?q=%23enhorabuenasuper) | N/A |
-| 44 | [#MinistraPlagiaria](http://twitter.com/search?q=%23MinistraPlagiaria) | N/A |
-| 45 | [#YasminFueraDeLaSCJN](http://twitter.com/search?q=%23YasminFueraDeLaSCJN) | N/A |
-| 46 | [#ProteoHeroe](http://twitter.com/search?q=%23ProteoHeroe) | N/A |
+| 26 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 27 | [Pueblos](http://twitter.com/search?q=Pueblos) | N/A |
+| 28 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 29 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 30 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 31 | [Coacalco](http://twitter.com/search?q=Coacalco) | N/A |
+| 32 | [Hola Fer](http://twitter.com/search?q=Hola+Fer) | N/A |
+| 33 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
+| 34 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 35 | [#graciasquackity](http://twitter.com/search?q=%23graciasquackity) | N/A |
+| 36 | [#NuevaInglaterra](http://twitter.com/search?q=%23NuevaInglaterra) | N/A |
+| 37 | [#FeriaTecomatlán2023](http://twitter.com/search?q=%23FeriaTecomatl%c3%a1n2023) | N/A |
+| 38 | [#Sincerándome](http://twitter.com/search?q=%23Sincer%c3%a1ndome) | N/A |
+| 39 | [#MinistraPlagiaria](http://twitter.com/search?q=%23MinistraPlagiaria) | N/A |
+| 40 | [#ProteoHeroe](http://twitter.com/search?q=%23ProteoHeroe) | N/A |
+| 41 | [#YasminFueraDeLaSCJN](http://twitter.com/search?q=%23YasminFueraDeLaSCJN) | N/A |
+| 42 | [#MORENAEsUnASCO](http://twitter.com/search?q=%23MORENAEsUnASCO) | N/A |
+| 43 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
 
 
 

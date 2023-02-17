@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-17 02:42:56 UTC`
+📆 Last Updated: `2023-02-17 03:21:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 7 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 8 | [Layla](http://twitter.com/search?q=Layla) | N/A |
 | 9 | [Lionel Shriver](http://twitter.com/search?q=Lionel+Shriver) | N/A |
-| 10 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 11 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 12 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 13 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 10 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 11 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 12 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 13 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 14 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 15 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 16 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
-| 17 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 18 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 19 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
-| 20 | [Ruth Wishart](http://twitter.com/search?q=Ruth+Wishart) | N/A |
-| 21 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 22 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 23 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 24 | [Stephen Kinnock](http://twitter.com/search?q=Stephen+Kinnock) | N/A |
-| 25 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 26 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 27 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
-| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 29 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 30 | [Dami](http://twitter.com/search?q=Dami) | N/A |
-| 31 | [Lana and Ron](http://twitter.com/search?q=Lana+and+Ron) | Lana and Ron is a phrase used to refer to a couple in a romantic relationship. It is derived from the names of two popular characters in the television show, "Archer" - Lana Kane and Ron Cadillac. The phrase is often used as a term of endearment for couples who share a strong bond. |
-| 32 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 33 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 34 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 37 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 39 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 40 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 41 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 42 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 43 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 44 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 47 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
-| 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 49 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 15 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 16 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 17 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 18 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 19 | [#QuestionTime](http://twitter.com/search?q=%23QuestionTime) | N/A |
+| 20 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 21 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 22 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 23 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
+| 24 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 25 | [Dami](http://twitter.com/search?q=Dami) | N/A |
+| 26 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 27 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 30 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 31 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 32 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 33 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 34 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
+| 35 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 36 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 37 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 38 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 39 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 40 | [Lynda](http://twitter.com/search?q=Lynda) | N/A |
+| 41 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
+| 42 | [#RegularRecap](http://twitter.com/search?q=%23RegularRecap) | N/A |
+| 43 | [#PicardSeason3](http://twitter.com/search?q=%23PicardSeason3) | N/A |
+| 44 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 45 | [#CasaAmor](http://twitter.com/search?q=%23CasaAmor) | N/A |
+| 46 | [#GenesisInvitational](http://twitter.com/search?q=%23GenesisInvitational) | N/A |
+| 47 | [#ArnoldClarkCup](http://twitter.com/search?q=%23ArnoldClarkCup) | N/A |
+| 48 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 49 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
 
 
 

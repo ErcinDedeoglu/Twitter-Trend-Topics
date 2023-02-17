@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-17 02:43:08 UTC`
+📆 Last Updated: `2023-02-17 03:22:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
-| 2 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 3 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 4 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 5 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 6 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 7 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 8 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 9 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 10 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 11 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 12 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 13 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#JUVFCN](http://twitter.com/search?q=%23JUVFCN) | N/A |
+| 4 | [#JUVFCN](http://twitter.com/search?q=%23JUVFCN) | N/A |
+| 5 | [#greve16fevrier](http://twitter.com/search?q=%23greve16fevrier) | N/A |
+| 6 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 7 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 8 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 10 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 11 | [#JUVNAN](http://twitter.com/search?q=%23JUVNAN) | N/A |
+| 12 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 13 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
 | 14 | [I Love U](http://twitter.com/search?q=I+Love+U) | N/A |
-| 15 | [#JUVFCN](http://twitter.com/search?q=%23JUVFCN) | N/A |
-| 16 | [Ckay](http://twitter.com/search?q=Ckay) | N/A |
-| 17 | [Cocoro](http://twitter.com/search?q=Cocoro) | N/A |
-| 18 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 19 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 20 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
-| 21 | [404billy](http://twitter.com/search?q=404billy) | N/A |
-| 22 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
-| 23 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 24 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 25 | [Sincèrement](http://twitter.com/search?q=Sinc%c3%a8rement) | N/A |
-| 26 | [2zer](http://twitter.com/search?q=2zer) | N/A |
-| 27 | [8ruki](http://twitter.com/search?q=8ruki) | N/A |
-| 28 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 29 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 30 | [Ludovic Blas](http://twitter.com/search?q=Ludovic+Blas) | N/A |
-| 31 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 32 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 33 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 34 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 35 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 36 | [Turin](http://twitter.com/search?q=Turin) | N/A |
-| 37 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 38 | [Jodio](http://twitter.com/search?q=Jodio) | N/A |
-| 39 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
-| 40 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 41 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 42 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 43 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 44 | [#B04ASM](http://twitter.com/search?q=%23B04ASM) | N/A |
-| 45 | [#theroseinparis](http://twitter.com/search?q=%23theroseinparis) | N/A |
-| 46 | [#LFLCICDay](http://twitter.com/search?q=%23LFLCICDay) | N/A |
-| 47 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 48 | [#VITWIN](http://twitter.com/search?q=%23VITWIN) | N/A |
-| 49 | [#LFLDays](http://twitter.com/search?q=%23LFLDays) | N/A |
-| 50 | [#BarcaMUFC](http://twitter.com/search?q=%23BarcaMUFC) | N/A |
+| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 18 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 19 | [Ckay](http://twitter.com/search?q=Ckay) | N/A |
+| 20 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 21 | [beaujoire](http://twitter.com/search?q=beaujoire) | N/A |
+| 22 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 23 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Turin](http://twitter.com/search?q=Turin) | N/A |
+| 27 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 28 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 29 | [Cocoro](http://twitter.com/search?q=Cocoro) | N/A |
+| 30 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 31 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 32 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 33 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 34 | [Plus Jamais La Même](http://twitter.com/search?q=Plus+Jamais+La+M%c3%aame) | N/A |
+| 35 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 36 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
+| 37 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 38 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 41 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 43 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 44 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 45 | [Raquel Welch](http://twitter.com/search?q=Raquel+Welch) | N/A |
+| 46 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 47 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 49 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 50 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-17 02:42:57 UTC`
+📆 Last Updated: `2023-02-17 03:21:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 2 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 3 | [#BarcaMUFC](http://twitter.com/search?q=%23BarcaMUFC) | N/A |
+| 1 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 2 | [#BarcaMUFC](http://twitter.com/search?q=%23BarcaMUFC) | N/A |
+| 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 4 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
 | 5 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 6 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
@@ -28,43 +28,43 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 11 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 12 | [Layla](http://twitter.com/search?q=Layla) | N/A |
 | 13 | [Lionel Shriver](http://twitter.com/search?q=Lionel+Shriver) | N/A |
-| 14 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 15 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 16 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 17 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 14 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 15 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 16 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 17 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 18 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 19 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 20 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 19 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 20 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
 | 21 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 22 | [Ruth Wishart](http://twitter.com/search?q=Ruth+Wishart) | N/A |
-| 23 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 24 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 25 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 26 | [Stephen Kinnock](http://twitter.com/search?q=Stephen+Kinnock) | N/A |
-| 27 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 28 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 29 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
-| 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 31 | [Dami](http://twitter.com/search?q=Dami) | N/A |
-| 32 | [Lana and Ron](http://twitter.com/search?q=Lana+and+Ron) | Lana and Ron is a phrase used to refer to a couple in a romantic relationship. It is derived from the names of two popular characters in the television show, "Archer" - Lana Kane and Ron Cadillac. The phrase is often used as a term of endearment for couples who share a strong bond. |
-| 33 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 34 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [Pumps](http://twitter.com/search?q=Pumps) | N/A |
-| 37 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 39 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 40 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 41 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 42 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 43 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 44 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 47 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
-| 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 49 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
-| 50 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 23 | [Stephen Kinnock](http://twitter.com/search?q=Stephen+Kinnock) | N/A |
+| 24 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 25 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 26 | [NIALL HORAN](http://twitter.com/search?q=NIALL+HORAN) | N/A |
+| 27 | [Sohail](http://twitter.com/search?q=Sohail) | N/A |
+| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 29 | [Dami](http://twitter.com/search?q=Dami) | N/A |
+| 30 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 31 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 33 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 34 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 35 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 36 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 37 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 38 | [Nou Camp](http://twitter.com/search?q=Nou+Camp) | N/A |
+| 39 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 40 | [Tetris](http://twitter.com/search?q=Tetris) | N/A |
+| 41 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 42 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 43 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 44 | [Lynda](http://twitter.com/search?q=Lynda) | N/A |
+| 45 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
+| 46 | [#HEAVEN](http://twitter.com/search?q=%23HEAVEN) | N/A |
+| 47 | [#QuestionTime](http://twitter.com/search?q=%23QuestionTime) | N/A |
+| 48 | [#RegularRecap](http://twitter.com/search?q=%23RegularRecap) | N/A |
+| 49 | [#PicardSeason3](http://twitter.com/search?q=%23PicardSeason3) | N/A |
+| 50 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
 
 
 

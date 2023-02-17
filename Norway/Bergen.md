@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-17 02:43:14 UTC`
+📆 Last Updated: `2023-02-17 03:22:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,41 +28,41 @@ This is top 50 for [Norway](</Norway>)
 | 11 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
 | 12 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 14 | [Natos](http://twitter.com/search?q=Natos) | N/A |
+| 14 | [NATOs](http://twitter.com/search?q=NATOs) | N/A |
 | 15 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 17 | [Frelsesarmeen](http://twitter.com/search?q=Frelsesarmeen) | N/A |
-| 18 | [Lundteigen](http://twitter.com/search?q=Lundteigen) | N/A |
-| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 23 | [Kjenner](http://twitter.com/search?q=Kjenner) | N/A |
-| 24 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 25 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 26 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 27 | [zelenskyj](http://twitter.com/search?q=zelenskyj) | N/A |
-| 28 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
-| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 30 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
+| 17 | [frelsesarmeen](http://twitter.com/search?q=frelsesarmeen) | N/A |
+| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 21 | [lundteigen](http://twitter.com/search?q=lundteigen) | N/A |
+| 22 | [kjenner](http://twitter.com/search?q=kjenner) | N/A |
+| 23 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 24 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 25 | [zelenskyj](http://twitter.com/search?q=zelenskyj) | N/A |
+| 26 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
+| 27 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
+| 28 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 29 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 30 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
 | 31 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
 | 32 | [#esnsykkel](http://twitter.com/search?q=%23esnsykkel) | N/A |
-| 33 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 34 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 35 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 36 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 33 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 34 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 35 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 36 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 37 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 38 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 38 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
 | 39 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 40 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 41 | [Mener](http://twitter.com/search?q=Mener) | N/A |
-| 42 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 43 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
-| 44 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 45 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 46 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 47 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
-| 48 | [Marius](http://twitter.com/search?q=Marius) | N/A |
+| 40 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 41 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 42 | [Mener](http://twitter.com/search?q=Mener) | N/A |
+| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 44 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
+| 45 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 46 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 47 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 48 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
 
 
 

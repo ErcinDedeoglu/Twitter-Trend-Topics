@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-17 02:43:29 UTC`
+📆 Last Updated: `2023-02-17 03:22:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,14 +21,14 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#مہنگائی_کاکہرام_مظلوم_عوام](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%da%a9%d8%a7%da%a9%db%81%d8%b1%d8%a7%d9%85_%d9%85%d8%b8%d9%84%d9%88%d9%85_%d8%b9%d9%88%d8%a7%d9%85) | N/A |
 | 5 | [#KKvIU](http://twitter.com/search?q=%23KKvIU) | N/A |
 | 6 | [Islamabad united](http://twitter.com/search?q=Islamabad+united) | N/A |
-| 7 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 7 | [haider ali](http://twitter.com/search?q=haider+ali) | N/A |
 | 8 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 10 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
 | 11 | [Munro](http://twitter.com/search?q=Munro) | N/A |
 | 12 | [Rs 145 to Rs 280](http://twitter.com/search?q=Rs+145+to+Rs+280) | N/A |
-| 13 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 14 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
+| 13 | [vasilisa marinchuk](http://twitter.com/search?q=vasilisa+marinchuk) | N/A |
+| 14 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
 | 15 | [deception is not](http://twitter.com/search?q=deception+is+not) | N/A |
 | 16 | [neil ford](http://twitter.com/search?q=neil+ford) | N/A |
 | 17 | [Director of Growth](http://twitter.com/search?q=Director+of+Growth) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 20 | [usman yousuf](http://twitter.com/search?q=usman+yousuf) | N/A |
 | 21 | [Muneeba Ali](http://twitter.com/search?q=Muneeba+Ali) | N/A |
-| 22 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
-| 23 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 22 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 25 | [Rs 150 to Rs 272](http://twitter.com/search?q=Rs+150+to+Rs+272) | N/A |
+| 25 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
 | 26 | [rumman raees](http://twitter.com/search?q=rumman+raees) | N/A |
-| 27 | [babul hawaij](http://twitter.com/search?q=babul+hawaij) | N/A |
-| 28 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
-| 29 | [rs 16](http://twitter.com/search?q=rs+16) | N/A |
-| 30 | ["Shaddy"](http://twitter.com/search?q=%22Shaddy%22) | N/A |
+| 27 | [Rs 150 to Rs 272](http://twitter.com/search?q=Rs+150+to+Rs+272) | N/A |
+| 28 | [babul hawaij](http://twitter.com/search?q=babul+hawaij) | N/A |
+| 29 | [Rs 178 to Rs 270](http://twitter.com/search?q=Rs+178+to+Rs+270) | N/A |
+| 30 | [rs 16](http://twitter.com/search?q=rs+16) | N/A |
 | 31 | [rs 44](http://twitter.com/search?q=rs+44) | N/A |
-| 32 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
-| 33 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 34 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 35 | [WASIM](http://twitter.com/search?q=WASIM) | N/A |
-| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 37 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 38 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 39 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 40 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 41 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 42 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 43 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 44 | [Kaptaan](http://twitter.com/search?q=Kaptaan) | N/A |
-| 45 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 46 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 47 | [Mere](http://twitter.com/search?q=Mere) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Yahan](http://twitter.com/search?q=Yahan) | N/A |
-| 50 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 32 | ["Shaddy"](http://twitter.com/search?q=%22Shaddy%22) | N/A |
+| 33 | [Ghareeb Ul Watan](http://twitter.com/search?q=Ghareeb+Ul+Watan) | N/A |
+| 34 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 35 | [ASIF ALI](http://twitter.com/search?q=ASIF+ALI) | N/A |
+| 36 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 38 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 41 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 42 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
+| 43 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 44 | [Baji](http://twitter.com/search?q=Baji) | N/A |
+| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 46 | [Kaptaan](http://twitter.com/search?q=Kaptaan) | N/A |
+| 47 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 48 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 49 | [Mere](http://twitter.com/search?q=Mere) | N/A |
+| 50 | [Generals](http://twitter.com/search?q=Generals) | N/A |
 
 
 

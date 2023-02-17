@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-17 02:43:38 UTC`
+📆 Last Updated: `2023-02-17 03:22:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 1 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
 | 3 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
 | 4 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 5 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 6 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 7 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 8 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 9 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
-| 10 | [#ranboowedding](http://twitter.com/search?q=%23ranboowedding) | N/A |
-| 11 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 12 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 13 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 14 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 17 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
-| 18 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 19 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 20 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 21 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 22 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
-| 23 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 24 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 25 | [Lauzon](http://twitter.com/search?q=Lauzon) | N/A |
-| 26 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 27 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
-| 28 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 29 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
-| 30 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
-| 31 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 32 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
-| 33 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 34 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
-| 35 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 36 | [Happy Gilmore](http://twitter.com/search?q=Happy+Gilmore) | N/A |
-| 37 | [The Money Team](http://twitter.com/search?q=The+Money+Team) | N/A |
-| 38 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 40 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 41 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 42 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
-| 43 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 44 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
-| 45 | [Colin White](http://twitter.com/search?q=Colin+White) | N/A |
+| 6 | [Conor Daly](http://twitter.com/search?q=Conor+Daly) | N/A |
+| 7 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 8 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 9 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 11 | [#GUHH](http://twitter.com/search?q=%23GUHH) | N/A |
+| 12 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 13 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 14 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 15 | [Cocoa Butter Kisses](http://twitter.com/search?q=Cocoa+Butter+Kisses) | N/A |
+| 16 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 17 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 18 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 19 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 20 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 21 | [Jevon Carter](http://twitter.com/search?q=Jevon+Carter) | N/A |
+| 22 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 23 | [Favorite Song](http://twitter.com/search?q=Favorite+Song) | N/A |
+| 24 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 25 | [Smoke Again](http://twitter.com/search?q=Smoke+Again) | N/A |
+| 26 | [Pusha Man](http://twitter.com/search?q=Pusha+Man) | N/A |
+| 27 | [Chain Smoker](http://twitter.com/search?q=Chain+Smoker) | N/A |
+| 28 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 29 | [Dalen Terry](http://twitter.com/search?q=Dalen+Terry) | N/A |
+| 30 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 31 | [Seth Jarvis](http://twitter.com/search?q=Seth+Jarvis) | N/A |
+| 32 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 33 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 34 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 35 | [Acid Rain](http://twitter.com/search?q=Acid+Rain) | N/A |
+| 36 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 37 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 38 | [Cornbread](http://twitter.com/search?q=Cornbread) | N/A |
+| 39 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 40 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 41 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 42 | [Lauzon](http://twitter.com/search?q=Lauzon) | N/A |
+| 43 | [Everybody's Something](http://twitter.com/search?q=Everybody%27s+Something) | N/A |
+| 44 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 45 | [Tim McCarver](http://twitter.com/search?q=Tim+McCarver) | N/A |
 
 
 
