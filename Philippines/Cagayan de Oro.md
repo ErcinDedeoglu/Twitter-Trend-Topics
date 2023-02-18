@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-18 13:19:50 UTC`
+📆 Last Updated: `2023-02-18 14:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
-| 3 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
-| 4 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 5 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 6 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
-| 7 | [#ENHYPENon2022CCMA](http://twitter.com/search?q=%23ENHYPENon2022CCMA) | N/A |
-| 8 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 2 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 3 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 4 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
+| 5 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 6 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 7 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
+| 8 | [#PCDwithYesulbang](http://twitter.com/search?q=%23PCDwithYesulbang) | N/A |
 | 9 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 10 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
-| 11 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 12 | [#RegineSOLOday2](http://twitter.com/search?q=%23RegineSOLOday2) | N/A |
-| 13 | [#KokoyOnMPK](http://twitter.com/search?q=%23KokoyOnMPK) | N/A |
+| 10 | [Congratulations F2](http://twitter.com/search?q=Congratulations+F2) | N/A |
+| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 12 | [BINI SA COSMOS 2023](http://twitter.com/search?q=BINI+SA+COSMOS+2023) | N/A |
+| 13 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
 | 14 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 15 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 16 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
-| 17 | [JUST DO IT](http://twitter.com/search?q=JUST+DO+IT) | N/A |
-| 18 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 19 | [Renejay](http://twitter.com/search?q=Renejay) | N/A |
-| 20 | [GO F2](http://twitter.com/search?q=GO+F2) | N/A |
-| 21 | [Hot Performance of the Year](http://twitter.com/search?q=Hot+Performance+of+the+Year) | N/A |
-| 22 | [ZACHAM CHOS3N BARKADA](http://twitter.com/search?q=ZACHAM+CHOS3N+BARKADA) | N/A |
-| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 24 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
-| 25 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 26 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 27 | [MALE GROUP OF THE YEAR](http://twitter.com/search?q=MALE+GROUP+OF+THE+YEAR) | N/A |
-| 28 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 29 | [BooSeokSoon](http://twitter.com/search?q=BooSeokSoon) | N/A |
-| 30 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 31 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 32 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
-| 33 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 34 | [Lacsina](http://twitter.com/search?q=Lacsina) | N/A |
-| 35 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
-| 36 | [Yena](http://twitter.com/search?q=Yena) | N/A |
-| 37 | [ZACH CHARMS PANGASINAN](http://twitter.com/search?q=ZACH+CHARMS+PANGASINAN) | N/A |
-| 38 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
+| 15 | [#BINIatUPFair2023](http://twitter.com/search?q=%23BINIatUPFair2023) | N/A |
+| 16 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 17 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 18 | [#KokoyOnMPK](http://twitter.com/search?q=%23KokoyOnMPK) | N/A |
+| 19 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
+| 20 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 21 | [Next Level](http://twitter.com/search?q=Next+Level) | N/A |
+| 22 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 23 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 24 | [BooSeokSoon](http://twitter.com/search?q=BooSeokSoon) | N/A |
+| 25 | [Ivy Lacsina](http://twitter.com/search?q=Ivy+Lacsina) | N/A |
+| 26 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 27 | [F2 Logistics](http://twitter.com/search?q=F2+Logistics) | N/A |
+| 28 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
+| 29 | [JUST DO IT](http://twitter.com/search?q=JUST+DO+IT) | N/A |
+| 30 | [F2 vs CCS](http://twitter.com/search?q=F2+vs+CCS) | N/A |
+| 31 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
+| 32 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
+| 33 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 34 | [Go F2](http://twitter.com/search?q=Go+F2) | N/A |
+| 35 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 36 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 37 | [Male Group of the Year](http://twitter.com/search?q=Male+Group+of+the+Year) | N/A |
+| 38 | [Karina](http://twitter.com/search?q=Karina) | N/A |
 | 39 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 40 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
-| 41 | [KODREA AT ENCHANTED KINGDOM](http://twitter.com/search?q=KODREA+AT+ENCHANTED+KINGDOM) | N/A |
-| 42 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
-| 43 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
-| 44 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
-| 45 | [BSS FIGHTING AT CIRCLE CHART](http://twitter.com/search?q=BSS+FIGHTING+AT+CIRCLE+CHART) | N/A |
-| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 47 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 48 | [#NAYEON_BestFemaleSoloist](http://twitter.com/search?q=%23NAYEON_BestFemaleSoloist) | N/A |
-| 49 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
+| 40 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 41 | [ZACHAM CHOS3N BARKADA](http://twitter.com/search?q=ZACHAM+CHOS3N+BARKADA) | N/A |
+| 42 | [Yena](http://twitter.com/search?q=Yena) | N/A |
+| 43 | [CONGRATS BOYS](http://twitter.com/search?q=CONGRATS+BOYS) | N/A |
+| 44 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 45 | [HOT PERFORMANCE OF THE YEAR](http://twitter.com/search?q=HOT+PERFORMANCE+OF+THE+YEAR) | N/A |
+| 46 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 47 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
+| 48 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 49 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
+| 50 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
 
 
 

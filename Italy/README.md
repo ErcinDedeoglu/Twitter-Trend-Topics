@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-18 13:20:20 UTC`
+📆 Last Updated: `2023-02-18 14:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Italy
 | 4 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
 | 5 | [#festadelgatto](http://twitter.com/search?q=%23festadelgatto) | N/A |
 | 6 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 7 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 8 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 9 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 10 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 11 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 14 | [gedi](http://twitter.com/search?q=gedi) | N/A |
-| 15 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 16 | [Consigli](http://twitter.com/search?q=Consigli) | N/A |
-| 17 | [Giordano Bruno](http://twitter.com/search?q=Giordano+Bruno) | N/A |
-| 18 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 19 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 20 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 21 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 22 | [Swarovski](http://twitter.com/search?q=Swarovski) | N/A |
-| 23 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 24 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 25 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 26 | [Fedez e Chiara Ferragni](http://twitter.com/search?q=Fedez+e+Chiara+Ferragni) | N/A |
-| 27 | [Zeman](http://twitter.com/search?q=Zeman) | N/A |
-| 28 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
-| 29 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 30 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 31 | [Kakà](http://twitter.com/search?q=Kak%c3%a0) | N/A |
-| 32 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 33 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 34 | [Marchisio](http://twitter.com/search?q=Marchisio) | N/A |
-| 35 | [Fabrizio De André](http://twitter.com/search?q=Fabrizio+De+Andr%c3%a9) | N/A |
-| 36 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 37 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 38 | [Eurostat](http://twitter.com/search?q=Eurostat) | N/A |
-| 39 | [Galeone](http://twitter.com/search?q=Galeone) | N/A |
-| 40 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 41 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 42 | [Delmastro](http://twitter.com/search?q=Delmastro) | N/A |
-| 43 | [Fascisti](http://twitter.com/search?q=Fascisti) | N/A |
-| 44 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 45 | [Il PPE](http://twitter.com/search?q=Il+PPE) | N/A |
-| 46 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 47 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
-| 48 | [Il 18](http://twitter.com/search?q=Il+18) | N/A |
-| 49 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 50 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
+| 7 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 8 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 9 | [Verre](http://twitter.com/search?q=Verre) | N/A |
+| 10 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 11 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 12 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 13 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 14 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 15 | [Consigli](http://twitter.com/search?q=Consigli) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Gedi](http://twitter.com/search?q=Gedi) | N/A |
+| 18 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
+| 19 | [Giordano Bruno](http://twitter.com/search?q=Giordano+Bruno) | N/A |
+| 20 | [fabbian](http://twitter.com/search?q=fabbian) | N/A |
+| 21 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 22 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 23 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 24 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 25 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 26 | [Zeman](http://twitter.com/search?q=Zeman) | N/A |
+| 27 | [Swarovski](http://twitter.com/search?q=Swarovski) | N/A |
+| 28 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
+| 29 | [Fedez e Chiara Ferragni](http://twitter.com/search?q=Fedez+e+Chiara+Ferragni) | N/A |
+| 30 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
+| 31 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 33 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 34 | [Kakà](http://twitter.com/search?q=Kak%c3%a0) | N/A |
+| 35 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
+| 36 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 37 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 38 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 39 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 40 | [Eurostat](http://twitter.com/search?q=Eurostat) | N/A |
+| 41 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 42 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 43 | [Galeone](http://twitter.com/search?q=Galeone) | N/A |
+| 44 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 45 | [Rugani](http://twitter.com/search?q=Rugani) | N/A |
+| 46 | [marchisio](http://twitter.com/search?q=marchisio) | N/A |
+| 47 | [tudor](http://twitter.com/search?q=tudor) | N/A |
+| 48 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 49 | [Delmastro](http://twitter.com/search?q=Delmastro) | N/A |
+| 50 | [Perin](http://twitter.com/search?q=Perin) | N/A |
 
 
 

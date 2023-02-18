@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-18 13:19:38 UTC`
+📆 Last Updated: `2023-02-18 14:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 2 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 3 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 4 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
-| 5 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
-| 8 | [#ADOPEC](http://twitter.com/search?q=%23ADOPEC) | N/A |
-| 9 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 10 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 11 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 2 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 5 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
+| 6 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 8 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 9 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 10 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 11 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 13 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 14 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
-| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 16 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 17 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
-| 18 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
-| 19 | [Zorginstellingen](http://twitter.com/search?q=Zorginstellingen) | N/A |
-| 20 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 21 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
-| 22 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 23 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 14 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
+| 17 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
+| 18 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 19 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 22 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 23 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
 | 24 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
-| 25 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 26 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 27 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 28 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 29 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
-| 30 | [klappertjes](http://twitter.com/search?q=klappertjes) | N/A |
-| 31 | [zelenski in kiev](http://twitter.com/search?q=zelenski+in+kiev) | N/A |
-| 32 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
-| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 34 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
-| 35 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 36 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 37 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 38 | [ado den haag](http://twitter.com/search?q=ado+den+haag) | N/A |
-| 39 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 42 | [Minder D66](http://twitter.com/search?q=Minder+D66) | N/A |
-| 43 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 44 | [Bouterse](http://twitter.com/search?q=Bouterse) | N/A |
-| 45 | [liesje](http://twitter.com/search?q=liesje) | N/A |
-| 46 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 47 | [Vaessen](http://twitter.com/search?q=Vaessen) | N/A |
-| 48 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 25 | [Zorginstellingen](http://twitter.com/search?q=Zorginstellingen) | N/A |
+| 26 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 27 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 28 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
+| 29 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 30 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 31 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 32 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 33 | [klappertjes](http://twitter.com/search?q=klappertjes) | N/A |
+| 34 | [zelenski in kiev](http://twitter.com/search?q=zelenski+in+kiev) | N/A |
+| 35 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
+| 36 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
+| 37 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 38 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 39 | [Minder D66](http://twitter.com/search?q=Minder+D66) | N/A |
+| 40 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 41 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 42 | [Bouterse](http://twitter.com/search?q=Bouterse) | N/A |
+| 43 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 44 | [Ivo Niehe](http://twitter.com/search?q=Ivo+Niehe) | N/A |
+| 45 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 46 | [Vaessen](http://twitter.com/search?q=Vaessen) | N/A |
+| 47 | [Liesje](http://twitter.com/search?q=Liesje) | N/A |
+| 48 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 49 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
-| 50 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
 
 
 

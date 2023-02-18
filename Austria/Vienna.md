@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-18 13:19:32 UTC`
+📆 Last Updated: `2023-02-18 14:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 2 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 3 | [#opernball](http://twitter.com/search?q=%23opernball) | N/A |
+| 1 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 2 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 3 | [#Opernball](http://twitter.com/search?q=%23Opernball) | N/A |
 | 4 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 5 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 6 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
-| 9 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 10 | [#orfsteuer](http://twitter.com/search?q=%23orfsteuer) | N/A |
-| 11 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 6 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 7 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [#ORFSteuer](http://twitter.com/search?q=%23ORFSteuer) | N/A |
+| 12 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
 | 15 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 16 | [Zwangsabgabe](http://twitter.com/search?q=Zwangsabgabe) | N/A |
 | 17 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
-| 18 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 19 | [Kater](http://twitter.com/search?q=Kater) | N/A |
-| 20 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 21 | [Obst](http://twitter.com/search?q=Obst) | N/A |
-| 22 | [Kennzeichen](http://twitter.com/search?q=Kennzeichen) | N/A |
-| 23 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 18 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 19 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 20 | [Kater](http://twitter.com/search?q=Kater) | N/A |
+| 21 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 22 | [Obst](http://twitter.com/search?q=Obst) | N/A |
+| 23 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
 | 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 25 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 26 | [Bargeld](http://twitter.com/search?q=Bargeld) | Bargeld is a German word meaning "cash" or "money". It is used to refer to physical money, such as coins and banknotes, rather than electronic payments. |
-| 27 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
-| 28 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 29 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 30 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 31 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
-| 32 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
-| 33 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
-| 34 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 35 | [Berge](http://twitter.com/search?q=Berge) | N/A |
-| 36 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
-| 37 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 38 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
-| 39 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 40 | [Paywall](http://twitter.com/search?q=Paywall) | N/A |
-| 41 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 42 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 43 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 44 | [lugner](http://twitter.com/search?q=lugner) | N/A |
-| 45 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [nadja bernhard](http://twitter.com/search?q=nadja+bernhard) | N/A |
-| 48 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 25 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
+| 26 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 27 | [Bargeld](http://twitter.com/search?q=Bargeld) | Bargeld is a German word meaning "cash" or "money". It is used to refer to physical money, such as coins and banknotes, rather than electronic payments. |
+| 28 | [flaschen](http://twitter.com/search?q=flaschen) | N/A |
+| 29 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
+| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 31 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 32 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 33 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 34 | [Texte](http://twitter.com/search?q=Texte) | N/A |
+| 35 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 36 | [Jane](http://twitter.com/search?q=Jane) | N/A |
+| 37 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 38 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
+| 39 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 40 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
+| 41 | [Paywall](http://twitter.com/search?q=Paywall) | N/A |
+| 42 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 43 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
+| 44 | [Berge](http://twitter.com/search?q=Berge) | N/A |
+| 45 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
+| 46 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [nadja bernhard](http://twitter.com/search?q=nadja+bernhard) | N/A |
 | 49 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 50 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 50 | [Gewessler](http://twitter.com/search?q=Gewessler) | N/A |
 
 
 

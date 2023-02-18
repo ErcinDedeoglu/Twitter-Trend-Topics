@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-18 13:19:55 UTC`
+📆 Last Updated: `2023-02-18 14:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 2 | [كوتينهو](http://twitter.com/search?q=%d9%83%d9%88%d8%aa%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 1 | [#سميه_الناصر](http://twitter.com/search?q=%23%d8%b3%d9%85%d9%8a%d9%87_%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 2 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
 | 3 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 4 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 5 | [#ند_ال](http://twitter.com/search?q=%23%d9%86%d8%af_%d8%a7%d9%84) | N/A |
-| 6 | [#البزنس73](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b373) | N/A |
-| 7 | [#لف_البس](http://twitter.com/search?q=%23%d9%84%d9%81_%d8%a7%d9%84%d8%a8%d8%b3) | N/A |
-| 8 | [#الليله_الماسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 9 | [يوسف الثنيان](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
-| 10 | [علي الحارس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3) | N/A |
-| 11 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 12 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 13 | [ايمري](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d9%8a) | N/A |
-| 14 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 15 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 16 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 17 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 18 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 19 | [ساكا التعادل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%83%d8%a7+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 20 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 21 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
-| 22 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 23 | [واتكينز الاول](http://twitter.com/search?q=%d9%88%d8%a7%d8%aa%d9%83%d9%8a%d9%86%d8%b2+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 24 | [قول غريب](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 25 | [لاري كينغ](http://twitter.com/search?q=%d9%84%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86%d8%ba) | N/A |
-| 26 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 27 | [قول واتكينز](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%88%d8%a7%d8%aa%d9%83%d9%8a%d9%86%d8%b2) | N/A |
-| 28 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 29 | [حاجب الرويه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%ac%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87) | N/A |
-| 30 | [فيلا الاول](http://twitter.com/search?q=%d9%81%d9%8a%d9%84%d8%a7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 31 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 32 | [فيصل البلوي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
-| 33 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 34 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 35 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 36 | [ماهر](http://twitter.com/search?q=%d9%85%d8%a7%d9%87%d8%b1) | N/A |
-| 37 | [طارق التايب](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
-| 38 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 39 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 40 | [ميدران](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%b1%d8%a7%d9%86) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 43 | [علي الحسن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 44 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 45 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
-| 46 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 47 | [المقابلات الوظيفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a%d9%87) | N/A |
-| 48 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 49 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 50 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 4 | [كوتينهو](http://twitter.com/search?q=%d9%83%d9%88%d8%aa%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 5 | [#تطبيق_حنا_بدو_للابل](http://twitter.com/search?q=%23%d8%aa%d8%b7%d8%a8%d9%8a%d9%82_%d8%ad%d9%86%d8%a7_%d8%a8%d8%af%d9%88_%d9%84%d9%84%d8%a7%d8%a8%d9%84) | N/A |
+| 6 | [#_الرايد](http://twitter.com/search?q=%23_%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%af) | N/A |
+| 7 | [#متصدر_لاتكلمني](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%b5%d8%af%d8%b1_%d9%84%d8%a7%d8%aa%d9%83%d9%84%d9%85%d9%86%d9%8a) | N/A |
+| 8 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 9 | [#تفريج_كربه_والد_رووحح](http://twitter.com/search?q=%23%d8%aa%d9%81%d8%b1%d9%8a%d8%ac_%d9%83%d8%b1%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%af_%d8%b1%d9%88%d9%88%d8%ad%d8%ad) | N/A |
+| 10 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
+| 11 | [ايمري](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d9%8a) | N/A |
+| 12 | [بايلي](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d9%84%d9%8a) | N/A |
+| 13 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 14 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 15 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 16 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 17 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
+| 18 | [لاري كينغ](http://twitter.com/search?q=%d9%84%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86%d8%ba) | N/A |
+| 19 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 22 | [تويتر بلو](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1+%d8%a8%d9%84%d9%88) | N/A |
+| 23 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
+| 24 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 25 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 26 | [#تركيا_تشكر_العرب](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d8%aa%d8%b4%d9%83%d8%b1_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 27 | [#موهبه_اللاعب_هاني_الزيد](http://twitter.com/search?q=%23%d9%85%d9%88%d9%87%d8%a8%d9%87_%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8_%d9%87%d8%a7%d9%86%d9%8a_%d8%a7%d9%84%d8%b2%d9%8a%d8%af) | N/A |
+| 28 | [#البزنس74](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b374) | N/A |
+| 29 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 30 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 31 | [#رساله_اليوم](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 32 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 33 | [#الاثنين_باذن_الله_فايزين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86_%d8%a8%d8%a7%d8%b0%d9%86_%d8%a7%d9%84%d9%84%d9%87_%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
+| 34 | [#الهلال_شباب_الاهلي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 35 | [#بيت_العايله_الابراهيميه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%aa_%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 36 | [#زد_رصيدك26](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8326) | N/A |
+| 37 | [#تحالف_البس_والفار](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%a7%d9%84%d9%81_%d8%a7%d9%84%d8%a8%d8%b3_%d9%88%d8%a7%d9%84%d9%81%d8%a7%d8%b1) | N/A |
+| 38 | [#كرستيانو_رونالدو](http://twitter.com/search?q=%23%d9%83%d8%b1%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88_%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
+| 39 | [#هند_القحطاني](http://twitter.com/search?q=%23%d9%87%d9%86%d8%af_%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [#الحب_ميم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a8_%d9%85%d9%8a%d9%85) | N/A |
+| 41 | [#احلام_الشامسي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%84%d8%a7%d9%85_%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
+| 42 | [#الاهلي_احد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d8%ad%d8%af) | N/A |
+| 43 | [#الفتح_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
 
 
 

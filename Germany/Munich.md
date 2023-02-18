@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-02-18 13:19:36 UTC`
+📆 Last Updated: `2023-02-18 14:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 2 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 3 | [#MainzbleibtMainz](http://twitter.com/search?q=%23MainzbleibtMainz) | N/A |
+| 1 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 2 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 3 | [#fcmfcsp](http://twitter.com/search?q=%23fcmfcsp) | N/A |
 | 4 | [#SSVH96](http://twitter.com/search?q=%23SSVH96) | N/A |
-| 5 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 6 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 7 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
-| 8 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 11 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
-| 12 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 13 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 16 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
+| 5 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
+| 6 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [#SGFF95](http://twitter.com/search?q=%23SGFF95) | N/A |
+| 9 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
+| 10 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 11 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 12 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 13 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 14 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
+| 15 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 16 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
 | 17 | [Wang Yi](http://twitter.com/search?q=Wang+Yi) | N/A |
-| 18 | ['Streifen'](http://twitter.com/search?q=%27Streifen%27) | N/A |
-| 19 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 22 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 23 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 24 | [Brösel](http://twitter.com/search?q=Br%c3%b6sel) | N/A |
-| 25 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 26 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 27 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 28 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 29 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 30 | [Munich Security Conference](http://twitter.com/search?q=Munich+Security+Conference) | N/A |
-| 31 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
-| 32 | [Partei Deutschlands](http://twitter.com/search?q=Partei+Deutschlands) | N/A |
-| 33 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 34 | [Tony Marshall](http://twitter.com/search?q=Tony+Marshall) | N/A |
-| 35 | [2FA über SMS](http://twitter.com/search?q=2FA+%c3%bcber+SMS) | N/A |
-| 36 | [The Ukraine](http://twitter.com/search?q=The+Ukraine) | N/A |
-| 37 | [Yubikey](http://twitter.com/search?q=Yubikey) | N/A |
-| 38 | [Salate](http://twitter.com/search?q=Salate) | N/A |
-| 39 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
-| 40 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 41 | [Lars Reichow](http://twitter.com/search?q=Lars+Reichow) | N/A |
-| 42 | [Nationalität](http://twitter.com/search?q=Nationalit%c3%a4t) | N/A |
-| 43 | [Bestimmte Gruppen](http://twitter.com/search?q=Bestimmte+Gruppen) | N/A |
-| 44 | [schöne maid](http://twitter.com/search?q=sch%c3%b6ne+maid) | N/A |
-| 45 | [Zwei-Faktor-Authentifizierung](http://twitter.com/search?q=Zwei-Faktor-Authentifizierung) | N/A |
-| 46 | [Vornamen](http://twitter.com/search?q=Vornamen) | N/A |
-| 47 | [Rassismus-Problem](http://twitter.com/search?q=Rassismus-Problem) | N/A |
-| 48 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 49 | [Habermas](http://twitter.com/search?q=Habermas) | N/A |
-| 50 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 18 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 19 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 20 | ['Streifen'](http://twitter.com/search?q=%27Streifen%27) | N/A |
+| 21 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 22 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [Shop](http://twitter.com/search?q=Shop) | N/A |
+| 25 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 26 | [Paywall](http://twitter.com/search?q=Paywall) | N/A |
+| 27 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 28 | [Apps](http://twitter.com/search?q=Apps) | N/A |
+| 29 | [Veganer](http://twitter.com/search?q=Veganer) | N/A |
+| 30 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 31 | [#muc1802](http://twitter.com/search?q=%23muc1802) | N/A |
+| 32 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
+| 33 | [#VfBKOE](http://twitter.com/search?q=%23VfBKOE) | N/A |
+| 34 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
+| 35 | [#SGDVIK](http://twitter.com/search?q=%23SGDVIK) | N/A |
+| 36 | [#Sondertrikot](http://twitter.com/search?q=%23Sondertrikot) | N/A |
+| 37 | [#WOBRBL](http://twitter.com/search?q=%23WOBRBL) | N/A |
+| 38 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
+| 39 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 40 | [#SGESVW](http://twitter.com/search?q=%23SGESVW) | N/A |
+| 41 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
+| 42 | [#ManifestfuerFrieden](http://twitter.com/search?q=%23ManifestfuerFrieden) | N/A |
+| 43 | [#Sicherheitskonferenz](http://twitter.com/search?q=%23Sicherheitskonferenz) | N/A |
+| 44 | [#München](http://twitter.com/search?q=%23M%c3%bcnchen) | N/A |
 
 
 

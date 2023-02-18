@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-02-18 13:19:52 UTC`
+📆 Last Updated: `2023-02-18 14:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 2 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 3 | [#100MillionManMarchForObiDatti](http://twitter.com/search?q=%23100MillionManMarchForObiDatti) | N/A |
-| 4 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 5 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 6 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 7 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 8 | [#MyLifeMyScript](http://twitter.com/search?q=%23MyLifeMyScript) | N/A |
-| 9 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 10 | [#GoldenPennySemovita](http://twitter.com/search?q=%23GoldenPennySemovita) | N/A |
-| 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 12 | [#TinubuInBorno](http://twitter.com/search?q=%23TinubuInBorno) | N/A |
-| 13 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 14 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 15 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 16 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 17 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 18 | [Layi](http://twitter.com/search?q=Layi) | N/A |
-| 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 20 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 21 | [KANAGA JNR IS MY FOCUS](http://twitter.com/search?q=KANAGA+JNR+IS+MY+FOCUS) | N/A |
-| 22 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 23 | [Cross](http://twitter.com/search?q=Cross) | N/A |
-| 24 | [JIVE WITH YEMI CREGX](http://twitter.com/search?q=JIVE+WITH+YEMI+CREGX) | N/A |
-| 25 | [THE YEMI CREGX EXPERIENCE](http://twitter.com/search?q=THE+YEMI+CREGX+EXPERIENCE) | N/A |
-| 26 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 27 | [UNITED FOR KANAGA JNR](http://twitter.com/search?q=UNITED+FOR+KANAGA+JNR) | N/A |
-| 28 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 29 | [Bola](http://twitter.com/search?q=Bola) | N/A |
-| 30 | [James Nwafor](http://twitter.com/search?q=James+Nwafor) | N/A |
-| 31 | [Christ Embassy](http://twitter.com/search?q=Christ+Embassy) | N/A |
+| 2 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 3 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 4 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 5 | [#ASVARS](http://twitter.com/search?q=%23ASVARS) | N/A |
+| 6 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 7 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 8 | [#100MillionManMarchForObiDatti](http://twitter.com/search?q=%23100MillionManMarchForObiDatti) | N/A |
+| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 10 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 11 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 12 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 13 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 14 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 17 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 18 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 19 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 20 | [#goldenpennysemovita](http://twitter.com/search?q=%23goldenpennysemovita) | N/A |
+| 21 | [#TinubuInBorno](http://twitter.com/search?q=%23TinubuInBorno) | N/A |
+| 22 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 23 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 24 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 25 | [The Arsenal](http://twitter.com/search?q=The+Arsenal) | N/A |
+| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 27 | [Omojuwa](http://twitter.com/search?q=Omojuwa) | N/A |
+| 28 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 29 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 30 | [Good Ebening](http://twitter.com/search?q=Good+Ebening) | Good Ebening is not a real phrase in English. It is likely a typo of the phrase "Good Evening," which is a polite greeting used in the evening hours. |
+| 31 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
 | 32 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 33 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 34 | [PRAY FOR PHYNA](http://twitter.com/search?q=PRAY+FOR+PHYNA) | N/A |
-| 35 | [Qataris](http://twitter.com/search?q=Qataris) | N/A |
-| 36 | [PHYNATION WATCHERS PARTY](http://twitter.com/search?q=PHYNATION+WATCHERS+PARTY) | N/A |
-| 37 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 38 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 39 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 40 | [Holy Ghost](http://twitter.com/search?q=Holy+Ghost) | N/A |
-| 41 | [CSP Patrick](http://twitter.com/search?q=CSP+Patrick) | N/A |
-| 42 | [Pastor Chris](http://twitter.com/search?q=Pastor+Chris) | N/A |
-| 43 | [BBnaija](http://twitter.com/search?q=BBnaija) | N/A |
-| 44 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 45 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 46 | [Gistlover](http://twitter.com/search?q=Gistlover) | N/A |
-| 47 | [#Yaman4Governor](http://twitter.com/search?q=%23Yaman4Governor) | N/A |
-| 48 | [#ASVARS](http://twitter.com/search?q=%23ASVARS) | N/A |
-| 49 | [#BrookfieldHomebuildersng](http://twitter.com/search?q=%23BrookfieldHomebuildersng) | N/A |
-| 50 | [#SimFubara](http://twitter.com/search?q=%23SimFubara) | N/A |
+| 33 | [Layi](http://twitter.com/search?q=Layi) | N/A |
+| 34 | [JIVE WITH YEMI CREGX](http://twitter.com/search?q=JIVE+WITH+YEMI+CREGX) | N/A |
+| 35 | [THE YEMI CREGX EXPERIENCE](http://twitter.com/search?q=THE+YEMI+CREGX+EXPERIENCE) | N/A |
+| 36 | [Cross](http://twitter.com/search?q=Cross) | N/A |
+| 37 | [Assnal](http://twitter.com/search?q=Assnal) | N/A |
+| 38 | [KANAGA JNR IS MY FOCUS](http://twitter.com/search?q=KANAGA+JNR+IS+MY+FOCUS) | N/A |
+| 39 | [Tonto](http://twitter.com/search?q=Tonto) | N/A |
+| 40 | [UNITED FOR KANAGA JNR](http://twitter.com/search?q=UNITED+FOR+KANAGA+JNR) | N/A |
+| 41 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 42 | [Bola](http://twitter.com/search?q=Bola) | N/A |
+| 43 | [PRAY FOR PHYNA](http://twitter.com/search?q=PRAY+FOR+PHYNA) | N/A |
+| 44 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 45 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 46 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 47 | [James Nwafor](http://twitter.com/search?q=James+Nwafor) | N/A |
+| 48 | [Christ Embassy](http://twitter.com/search?q=Christ+Embassy) | N/A |
+| 49 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 50 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
 
 
 
