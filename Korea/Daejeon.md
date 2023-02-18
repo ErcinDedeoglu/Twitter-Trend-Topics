@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daejeon
 
-📆 Last Updated: `2023-02-18 20:36:22 UTC`
+📆 Last Updated: `2023-02-18 21:39:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Korea](</Korea>)
 | 3 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
 | 4 | [써클차트](http://twitter.com/search?q=%ec%8d%a8%ed%81%b4%ec%b0%a8%ed%8a%b8) | 써클차트 (Circle Chart) is a type of chart or graph that uses circles to represent data. It is used to compare proportions or percentages between different categories of data. In English, it is also known as a Pie Chart. |
 | 5 | [#어둠속_한줄기_빛은_제이홉](http://twitter.com/search?q=%23%ec%96%b4%eb%91%a0%ec%86%8d_%ed%95%9c%ec%a4%84%ea%b8%b0_%eb%b9%9b%ec%9d%80_%ec%a0%9c%ec%9d%b4%ed%99%89) | N/A |
-| 6 | [마요르카](http://twitter.com/search?q=%eb%a7%88%ec%9a%94%eb%a5%b4%ec%b9%b4) | 마요르카 (Ma-yo-reu-ka) is a Korean word that means "let's go" or "come on". It is often used as an encouragement or to express enthusiasm. In English, it could be translated as "Let's go!" or "Come on!" |
-| 7 | [#HAPPYJHOPEDAY](http://twitter.com/search?q=%23HAPPYJHOPEDAY) | N/A |
+| 6 | [#HAPPYJHOPEDAY](http://twitter.com/search?q=%23HAPPYJHOPEDAY) | N/A |
+| 7 | [마요르카](http://twitter.com/search?q=%eb%a7%88%ec%9a%94%eb%a5%b4%ec%b9%b4) | 마요르카 (Ma-yo-reu-ka) is a Korean word that means "let's go" or "come on". It is often used as an encouragement or to express enthusiasm. In English, it could be translated as "Let's go!" or "Come on!" |
 | 8 | [부석순 무대](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c+%eb%ac%b4%eb%8c%80) | N/A |
 | 9 | [정우 생일](http://twitter.com/search?q=%ec%a0%95%ec%9a%b0+%ec%83%9d%ec%9d%bc) | N/A |
 | 10 | [모범택시](http://twitter.com/search?q=%eb%aa%a8%eb%b2%94%ed%83%9d%ec%8b%9c) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [Korea](</Korea>)
 | 21 | [꼬들 414](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+414) | N/A |
 | 22 | [mbti 유형별](http://twitter.com/search?q=mbti+%ec%9c%a0%ed%98%95%eb%b3%84) | N/A |
 | 23 | [로즈마리](http://twitter.com/search?q=%eb%a1%9c%ec%a6%88%eb%a7%88%eb%a6%ac) | N/A |
-| 24 | [탐라 포지션](http://twitter.com/search?q=%ed%83%90%eb%9d%bc+%ed%8f%ac%ec%a7%80%ec%85%98) | N/A |
-| 25 | [부석순이](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%b4) | N/A |
+| 24 | [부석순이](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%b4) | N/A |
+| 25 | [탐라 포지션](http://twitter.com/search?q=%ed%83%90%eb%9d%bc+%ed%8f%ac%ec%a7%80%ec%85%98) | N/A |
 | 26 | [사람 인형](http://twitter.com/search?q=%ec%82%ac%eb%9e%8c+%ec%9d%b8%ed%98%95) | N/A |
 | 27 | [아이돌플러스](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%8f%8c%ed%94%8c%eb%9f%ac%ec%8a%a4) | N/A |
 | 28 | [특전 소진](http://twitter.com/search?q=%ed%8a%b9%ec%a0%84+%ec%86%8c%ec%a7%84) | N/A |
 | 29 | [슬램덩크 특전](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac+%ed%8a%b9%ec%a0%84) | N/A |
 | 30 | [듀얼리티](http://twitter.com/search?q=%eb%93%80%ec%96%bc%eb%a6%ac%ed%8b%b0) | N/A |
-| 31 | [조르지뉴](http://twitter.com/search?q=%ec%a1%b0%eb%a5%b4%ec%a7%80%eb%89%b4) | N/A |
-| 32 | [서열정리](http://twitter.com/search?q=%ec%84%9c%ec%97%b4%ec%a0%95%eb%a6%ac) | N/A |
+| 31 | [서열정리](http://twitter.com/search?q=%ec%84%9c%ec%97%b4%ec%a0%95%eb%a6%ac) | N/A |
+| 32 | [조르지뉴](http://twitter.com/search?q=%ec%a1%b0%eb%a5%b4%ec%a7%80%eb%89%b4) | N/A |
 | 33 | [화귀 세계관](http://twitter.com/search?q=%ed%99%94%ea%b7%80+%ec%84%b8%ea%b3%84%ea%b4%80) | N/A |
 | 34 | [부석순 콘서트](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c+%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
 | 35 | [간장게장](http://twitter.com/search?q=%ea%b0%84%ec%9e%a5%ea%b2%8c%ec%9e%a5) | N/A |
 | 36 | [아돈띵댓](http://twitter.com/search?q=%ec%95%84%eb%8f%88%eb%9d%b5%eb%8c%93) | N/A |
 | 37 | [강아지 생일](http://twitter.com/search?q=%ea%b0%95%ec%95%84%ec%a7%80+%ec%83%9d%ec%9d%bc) | N/A |
 | 38 | [사사게로](http://twitter.com/search?q=%ec%82%ac%ec%82%ac%ea%b2%8c%eb%a1%9c) | N/A |
-| 39 | [이강인 생일](http://twitter.com/search?q=%ec%9d%b4%ea%b0%95%ec%9d%b8+%ec%83%9d%ec%9d%bc) | N/A |
-| 40 | [넥스트레벨](http://twitter.com/search?q=%eb%84%a5%ec%8a%a4%ed%8a%b8%eb%a0%88%eb%b2%a8) | N/A |
+| 39 | [넥스트레벨](http://twitter.com/search?q=%eb%84%a5%ec%8a%a4%ed%8a%b8%eb%a0%88%eb%b2%a8) | N/A |
+| 40 | [이강인 생일](http://twitter.com/search?q=%ec%9d%b4%ea%b0%95%ec%9d%b8+%ec%83%9d%ec%9d%bc) | N/A |
 | 41 | [비티 팬콘](http://twitter.com/search?q=%eb%b9%84%ed%8b%b0+%ed%8c%ac%ec%bd%98) | N/A |
 | 42 | [세븐틴 콘서트](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
 | 43 | [음중 1위](http://twitter.com/search?q=%ec%9d%8c%ec%a4%91+1%ec%9c%84) | N/A |
 | 44 | [비비스테](http://twitter.com/search?q=%eb%b9%84%eb%b9%84%ec%8a%a4%ed%85%8c) | N/A |
 | 45 | [리락쿠마](http://twitter.com/search?q=%eb%a6%ac%eb%9d%bd%ec%bf%a0%eb%a7%88) | N/A |
 | 46 | [탄도미사일](http://twitter.com/search?q=%ed%83%84%eb%8f%84%eb%af%b8%ec%82%ac%ec%9d%bc) | N/A |
-| 47 | [메이드카페](http://twitter.com/search?q=%eb%a9%94%ec%9d%b4%eb%93%9c%ec%b9%b4%ed%8e%98) | N/A |
-| 48 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
-| 49 | [갑타 유료](http://twitter.com/search?q=%ea%b0%91%ed%83%80+%ec%9c%a0%eb%a3%8c) | N/A |
+| 47 | [갑타 유료](http://twitter.com/search?q=%ea%b0%91%ed%83%80+%ec%9c%a0%eb%a3%8c) | N/A |
+| 48 | [코믹월드](http://twitter.com/search?q=%ec%bd%94%eb%af%b9%ec%9b%94%eb%93%9c) | N/A |
+| 49 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
 
 
 

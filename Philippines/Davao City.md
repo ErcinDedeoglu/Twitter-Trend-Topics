@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-18 20:36:10 UTC`
+📆 Last Updated: `2023-02-18 21:38:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
 | 8 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
 | 9 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 10 | [MYLA PABLO](http://twitter.com/search?q=MYLA+PABLO) | N/A |
+| 10 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
 | 11 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
 | 12 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
 | 13 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
 | 14 | [stax](http://twitter.com/search?q=stax) | N/A |
 | 15 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
-| 16 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 17 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
+| 16 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 17 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
 | 18 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
-| 19 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 20 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 21 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 22 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 23 | [Hot Performance of the Year](http://twitter.com/search?q=Hot+Performance+of+the+Year) | N/A |
-| 24 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 25 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 19 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 20 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
+| 21 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
+| 22 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
+| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 24 | [HOT PERFORMANCE OF THE YEAR](http://twitter.com/search?q=HOT+PERFORMANCE+OF+THE+YEAR) | N/A |
+| 25 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
 | 26 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
 | 27 | [papangmasa with anji](http://twitter.com/search?q=papangmasa+with+anji) | N/A |
 | 28 | [Tots](http://twitter.com/search?q=Tots) | N/A |
 | 29 | [zacham chos3n barkada](http://twitter.com/search?q=zacham+chos3n+barkada) | N/A |
-| 30 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
-| 31 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 32 | [Hansol](http://twitter.com/search?q=Hansol) | N/A |
+| 30 | [One in a Billion](http://twitter.com/search?q=One+in+a+Billion) | N/A |
+| 31 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
+| 32 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
 | 33 | [congratulations f2](http://twitter.com/search?q=congratulations+f2) | N/A |
 | 34 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 35 | [showtime jona on fire](http://twitter.com/search?q=showtime+jona+on+fire) | N/A |
-| 36 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 37 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
-| 38 | [Happy Birthday Dk](http://twitter.com/search?q=Happy+Birthday+Dk) | N/A |
-| 39 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
-| 40 | [KODREA AT ENCHANTED KINGDOM](http://twitter.com/search?q=KODREA+AT+ENCHANTED+KINGDOM) | N/A |
-| 41 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
-| 42 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 43 | [happy 218](http://twitter.com/search?q=happy+218) | N/A |
-| 44 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 35 | [Hansol](http://twitter.com/search?q=Hansol) | N/A |
+| 36 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
+| 37 | [nica santos](http://twitter.com/search?q=nica+santos) | N/A |
+| 38 | [showtime jona on fire](http://twitter.com/search?q=showtime+jona+on+fire) | N/A |
+| 39 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 40 | [kodrea at enchanted kingdom](http://twitter.com/search?q=kodrea+at+enchanted+kingdom) | N/A |
+| 41 | [Seokmin](http://twitter.com/search?q=Seokmin) | N/A |
+| 42 | [Happy Birthday DK](http://twitter.com/search?q=Happy+Birthday+DK) | N/A |
+| 43 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 44 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
 | 45 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
-| 46 | [Joji](http://twitter.com/search?q=Joji) | N/A |
-| 47 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 46 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 47 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
 
 
 

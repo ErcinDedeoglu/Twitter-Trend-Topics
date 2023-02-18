@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-18 20:36:35 UTC`
+📆 Last Updated: `2023-02-18 21:39:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InterUdinese](http://twitter.com/search?q=%23InterUdinese) | N/A |
-| 2 | [#MonzaMilan](http://twitter.com/search?q=%23MonzaMilan) | N/A |
-| 3 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 4 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 5 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 6 | [#tommasozorzi](http://twitter.com/search?q=%23tommasozorzi) | N/A |
-| 7 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 8 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
-| 9 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 10 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 11 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 12 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 1 | [#CePostaPerTe](http://twitter.com/search?q=%23CePostaPerTe) | #CePostaPerTe is an Italian hashtag that translates to "This Post Is For You". It is often used on social media to share content with a specific person or group of people. |
+| 2 | [#InterUdinese](http://twitter.com/search?q=%23InterUdinese) | N/A |
+| 3 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
+| 4 | [#TommasoZorzi](http://twitter.com/search?q=%23TommasoZorzi) | N/A |
+| 5 | [#MonzaMilan](http://twitter.com/search?q=%23MonzaMilan) | N/A |
+| 6 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
+| 7 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 8 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 9 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 10 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 11 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 12 | [Mkhitaryan](http://twitter.com/search?q=Mkhitaryan) | N/A |
 | 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 14 | [Di Gregorio](http://twitter.com/search?q=Di+Gregorio) | N/A |
-| 15 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 16 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 17 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 19 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 20 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
-| 21 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 22 | [Cassazione](http://twitter.com/search?q=Cassazione) | N/A |
-| 23 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 24 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
-| 25 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
-| 26 | [#Firenze](http://twitter.com/search?q=%23Firenze) | N/A |
-| 27 | [#Castagner](http://twitter.com/search?q=%23Castagner) | N/A |
-| 28 | [#fedayn](http://twitter.com/search?q=%23fedayn) | N/A |
-| 29 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
-| 30 | [#matrice](http://twitter.com/search?q=%23matrice) | N/A |
-| 31 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 32 | [#meteorite](http://twitter.com/search?q=%23meteorite) | N/A |
-| 33 | [#LBAF82023](http://twitter.com/search?q=%23LBAF82023) | N/A |
-| 34 | [#BariCagliari](http://twitter.com/search?q=%23BariCagliari) | N/A |
-| 35 | [#SempreMilan](http://twitter.com/search?q=%23SempreMilan) | N/A |
-| 36 | [#ACMilan](http://twitter.com/search?q=%23ACMilan) | N/A |
-| 37 | [#Investigatrici](http://twitter.com/search?q=%23Investigatrici) | N/A |
-| 38 | [#SampdoriaBologna](http://twitter.com/search?q=%23SampdoriaBologna) | N/A |
-| 39 | [#18febbraio](http://twitter.com/search?q=%2318febbraio) | N/A |
-| 40 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 41 | [#Oberhof23](http://twitter.com/search?q=%23Oberhof23) | N/A |
-| 42 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
-| 43 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
-| 44 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 45 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
-| 46 | [#Inzaghi](http://twitter.com/search?q=%23Inzaghi) | N/A |
+| 14 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 15 | [Orietta Berti](http://twitter.com/search?q=Orietta+Berti) | N/A |
+| 16 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
+| 17 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 18 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 19 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 20 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 21 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 22 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 23 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
+| 24 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 25 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 26 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 27 | [Matera](http://twitter.com/search?q=Matera) | N/A |
+| 28 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 29 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 30 | [Montaruli](http://twitter.com/search?q=Montaruli) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 33 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 34 | [Cassazione](http://twitter.com/search?q=Cassazione) | N/A |
+| 35 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 36 | [#taleequaleshow](http://twitter.com/search?q=%23taleequaleshow) | N/A |
+| 37 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 38 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 39 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
+| 40 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 41 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
+| 42 | [#Firenze](http://twitter.com/search?q=%23Firenze) | N/A |
+| 43 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 44 | [#pierpaolopretelli](http://twitter.com/search?q=%23pierpaolopretelli) | N/A |
+| 45 | [#SerieATipo](http://twitter.com/search?q=%23SerieATipo) | N/A |
+| 46 | [#LBAF82023](http://twitter.com/search?q=%23LBAF82023) | N/A |
+| 47 | [#Castagner](http://twitter.com/search?q=%23Castagner) | N/A |
+| 48 | [#atprotterdam](http://twitter.com/search?q=%23atprotterdam) | N/A |
+| 49 | [#matrice](http://twitter.com/search?q=%23matrice) | N/A |
+| 50 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
 
 
 

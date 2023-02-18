@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-18 20:35:41 UTC`
+📆 Last Updated: `2023-02-18 21:38:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 3 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
-| 4 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 8 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 11 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 12 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 13 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 14 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
-| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 18 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 19 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 20 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 21 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 22 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 23 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 25 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 26 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 27 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 29 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 30 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 31 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 32 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 33 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 1 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 2 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 3 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 4 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 5 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 6 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 7 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 9 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 10 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 11 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 14 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
+| 15 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 16 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 19 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 20 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 21 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 22 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 27 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 31 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 33 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 34 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 35 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 36 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 37 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
-| 38 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 39 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 40 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 41 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 42 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
+| 35 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 36 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 38 | [Perfetti](http://twitter.com/search?q=Perfetti) | N/A |
+| 39 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 40 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 41 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 42 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 43 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 44 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 45 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 46 | [Uncle Paul](http://twitter.com/search?q=Uncle+Paul) | N/A |
+| 47 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 48 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 49 | [Authy](http://twitter.com/search?q=Authy) | N/A |
 
 
 

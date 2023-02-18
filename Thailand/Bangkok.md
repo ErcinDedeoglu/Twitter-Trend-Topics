@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-18 20:36:11 UTC`
+📆 Last Updated: `2023-02-18 21:38:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,41 @@ This is top 50 for [Thailand](</Thailand>)
 | 13 | [win x hk](http://twitter.com/search?q=win+x+hk) | N/A |
 | 14 | [702 menu challenge](http://twitter.com/search?q=702+menu+challenge) | N/A |
 | 15 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
-| 18 | [mc doyoung circle chart awards](http://twitter.com/search?q=mc+doyoung+circle+chart+awards) | N/A |
-| 19 | [Night Cherprang](http://twitter.com/search?q=Night+Cherprang) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 22 | [ISTJ](http://twitter.com/search?q=ISTJ) | N/A |
-| 23 | [Classic](http://twitter.com/search?q=Classic) | N/A |
-| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 25 | [#DestinyclinicxGF](http://twitter.com/search?q=%23DestinyclinicxGF) | N/A |
-| 26 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
-| 27 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 16 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
+| 17 | [mc doyoung circle chart awards](http://twitter.com/search?q=mc+doyoung+circle+chart+awards) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [ISTJ](http://twitter.com/search?q=ISTJ) | N/A |
+| 21 | [Classic](http://twitter.com/search?q=Classic) | N/A |
+| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 23 | [#DestinyclinicxGF](http://twitter.com/search?q=%23DestinyclinicxGF) | N/A |
+| 24 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 25 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 26 | [#น้ําหนึ่งเนย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
+| 27 | [#สบู่ทับทิมนัมเบอร์วันxอิงล็อต](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%97%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b4%e0%b8%a1%e0%b8%99%e0%b8%b1%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a7%e0%b8%b1%e0%b8%99x%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 28 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 29 | [#น้ําหนึ่งเนย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
-| 30 | [#สบู่ทับทิมนัมเบอร์วันxอิงล็อต](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%97%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b4%e0%b8%a1%e0%b8%99%e0%b8%b1%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a7%e0%b8%b1%e0%b8%99x%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 31 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 32 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 33 | [#HAPPYJUNGWOODAY](http://twitter.com/search?q=%23HAPPYJUNGWOODAY) | N/A |
-| 34 | [#TOYOTAFESTIVALxYIN](http://twitter.com/search?q=%23TOYOTAFESTIVALxYIN) | N/A |
-| 35 | [#ShootingStarInHK](http://twitter.com/search?q=%23ShootingStarInHK) | N/A |
-| 36 | [#CHAMEGenMexZeeNunew](http://twitter.com/search?q=%23CHAMEGenMexZeeNunew) | N/A |
-| 37 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 38 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
-| 39 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 40 | [#18กุมภากดบัตรคอนเนเน่](http://twitter.com/search?q=%2318%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88) | N/A |
-| 41 | [#ทอล์กกะเทยส์xTRINITY](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%ad%e0%b8%a5%e0%b9%8c%e0%b8%81%e0%b8%81%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a2%e0%b8%aa%e0%b9%8cxTRINITY) | N/A |
-| 42 | [#OPPOReno8T5GxPP](http://twitter.com/search?q=%23OPPOReno8T5GxPP) | N/A |
-| 43 | [#FinalMissGrandSamutprakan2023](http://twitter.com/search?q=%23FinalMissGrandSamutprakan2023) | N/A |
-| 44 | [#PotterOut](http://twitter.com/search?q=%23PotterOut) | N/A |
-| 45 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
-| 46 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
-| 47 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
-| 48 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
+| 29 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 30 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 31 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 32 | [#HAPPYJUNGWOODAY](http://twitter.com/search?q=%23HAPPYJUNGWOODAY) | N/A |
+| 33 | [#ShootingStarInHK](http://twitter.com/search?q=%23ShootingStarInHK) | N/A |
+| 34 | [#CHAMEGenMexZeeNunew](http://twitter.com/search?q=%23CHAMEGenMexZeeNunew) | N/A |
+| 35 | [#TOYOTAFESTIVALxYIN](http://twitter.com/search?q=%23TOYOTAFESTIVALxYIN) | N/A |
+| 36 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 37 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
+| 38 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 39 | [#18กุมภากดบัตรคอนเนเน่](http://twitter.com/search?q=%2318%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88) | N/A |
+| 40 | [#OPPOReno8T5GxPP](http://twitter.com/search?q=%23OPPOReno8T5GxPP) | N/A |
+| 41 | [#FinalMissGrandSamutprakan2023](http://twitter.com/search?q=%23FinalMissGrandSamutprakan2023) | N/A |
+| 42 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
+| 43 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
+| 44 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 45 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
+| 46 | [#26thHappyBDPlan](http://twitter.com/search?q=%2326thHappyBDPlan) | N/A |
+| 47 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
+| 48 | [#วอร์คราฟLV22xMLifestore](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%9fLV22xMLifestore) | N/A |
+| 49 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 50 | [#ไม่หลับไม่นอนส่งปอนด์ภูวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
 
 
 

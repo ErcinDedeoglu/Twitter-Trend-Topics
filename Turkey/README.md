@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-18 20:36:39 UTC`
+📆 Last Updated: `2023-02-18 21:39:18 UTC`
 
 🔧 Updated every 1 hour!
 

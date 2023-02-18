@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-18 20:36:36 UTC`
+📆 Last Updated: `2023-02-18 21:39:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Lebanon
 | 14 | [الدبابه الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
 | 15 | [زهير شحادة](http://twitter.com/search?q=%d8%b2%d9%87%d9%8a%d8%b1+%d8%b4%d8%ad%d8%a7%d8%af%d8%a9) | N/A |
 | 16 | [باسم ربك](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%b1%d8%a8%d9%83) | N/A |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [الاتحاد الافريقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | N/A |
-| 19 | [مكارم الاخلاق](http://twitter.com/search?q=%d9%85%d9%83%d8%a7%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
-| 20 | [٢٧ رجب](http://twitter.com/search?q=%d9%a2%d9%a7+%d8%b1%d8%ac%d8%a8) | N/A |
-| 21 | [دكتور فود](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d9%81%d9%88%d8%af) | N/A |
-| 22 | [شربل](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
-| 23 | [الطريق المستقيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d9%8a%d9%85) | N/A |
-| 24 | [الدين القويم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d9%88%d9%8a%d9%85) | N/A |
-| 25 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
-| 26 | [راغب حرب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%ba%d8%a8+%d8%ad%d8%b1%d8%a8) | N/A |
-| 27 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 28 | [فاطمه الزهراء](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d9%87+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1) | N/A |
-| 29 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 30 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
-| 31 | [27 رجب](http://twitter.com/search?q=27+%d8%b1%d8%ac%d8%a8) | N/A |
+| 17 | [مكارم الاخلاق](http://twitter.com/search?q=%d9%85%d9%83%d8%a7%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
+| 18 | [٢٧ رجب](http://twitter.com/search?q=%d9%a2%d9%a7+%d8%b1%d8%ac%d8%a8) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [دكتور فود](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d9%81%d9%88%d8%af) | N/A |
+| 21 | [الطريق المستقيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d9%8a%d9%85) | N/A |
+| 22 | [الدين القويم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d9%88%d9%8a%d9%85) | N/A |
+| 23 | [الاتحاد الافريقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | N/A |
+| 24 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
+| 25 | [راغب حرب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%ba%d8%a8+%d8%ad%d8%b1%d8%a8) | N/A |
+| 26 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 27 | [فاطمه الزهراء](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d9%87+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1) | N/A |
+| 28 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 29 | [شربل](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
+| 30 | [27 رجب](http://twitter.com/search?q=27+%d8%b1%d8%ac%d8%a8) | N/A |
+| 31 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 32 | [يوسف خليل](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 33 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
 | 34 | [جنرال](http://twitter.com/search?q=%d8%ac%d9%86%d8%b1%d8%a7%d9%84) | N/A |
 | 35 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 36 | [الامام الخامنيي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
+| 36 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
 | 37 | [موسى الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
 | 38 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
-| 39 | [القافله الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%81%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 40 | [تاج راسك](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac+%d8%b1%d8%a7%d8%b3%d9%83) | N/A |
-| 41 | [ملكه الاحساس](http://twitter.com/search?q=%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%b3) | N/A |
-| 42 | [المسح البييي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ad+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%8a) | N/A |
-| 43 | [جدول الاعمال](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 44 | [تجار المخدرات](http://twitter.com/search?q=%d8%aa%d8%ac%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa) | N/A |
-| 45 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 39 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 40 | [القافله الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%81%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 41 | [تاج راسك](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac+%d8%b1%d8%a7%d8%b3%d9%83) | N/A |
+| 42 | [ملكه الاحساس](http://twitter.com/search?q=%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%b3) | N/A |
+| 43 | [المسح البييي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ad+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%8a) | N/A |
+| 44 | [جدول الاعمال](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 45 | [تجار المخدرات](http://twitter.com/search?q=%d8%aa%d8%ac%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa) | N/A |
 | 46 | [اللقاء الخماسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d8%ae%d9%85%d8%a7%d8%b3%d9%8a) | N/A |
-| 47 | [مصرف لبنان](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 48 | [الحرس الثوري الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%b3+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 49 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 50 | [ماجد](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 47 | [الحرس الثوري الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%b3+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 48 | [ماجد](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 49 | [الهزات الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 50 | [الرسول الاكرم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85) | N/A |
 
 
 

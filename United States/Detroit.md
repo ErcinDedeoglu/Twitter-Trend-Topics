@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-18 20:36:24 UTC`
+📆 Last Updated: `2023-02-18 21:39:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 3 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 4 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
-| 5 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Jalen Graham](http://twitter.com/search?q=Jalen+Graham) | N/A |
-| 13 | [#ARCA](http://twitter.com/search?q=%23ARCA) | N/A |
-| 14 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 15 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
-| 16 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 17 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 18 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 19 | [Vegas Vipers](http://twitter.com/search?q=Vegas+Vipers) | N/A |
-| 20 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
-| 21 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 22 | [Vic Beasley](http://twitter.com/search?q=Vic+Beasley) | N/A |
-| 23 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 24 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
-| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 26 | [Livingston](http://twitter.com/search?q=Livingston) | N/A |
-| 27 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 28 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
-| 29 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 30 | [Style Theory](http://twitter.com/search?q=Style+Theory) | N/A |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 33 | [Martavis Bryant](http://twitter.com/search?q=Martavis+Bryant) | N/A |
-| 34 | [Mashack](http://twitter.com/search?q=Mashack) | N/A |
-| 35 | [Tim Richmond](http://twitter.com/search?q=Tim+Richmond) | N/A |
-| 36 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 37 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 38 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 39 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
-| 40 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 41 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 42 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 43 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
-| 44 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 45 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 46 | [Frankie Muniz](http://twitter.com/search?q=Frankie+Muniz) | N/A |
-| 47 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 48 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
-| 49 | [Cam Spencer](http://twitter.com/search?q=Cam+Spencer) | Cam Spencer is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came in like a wrecking ball," which implies that the person is so confident that they can take on any challenge. In English, it means someone who is overly confident and arrogant. |
+| 2 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 3 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 4 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 5 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 6 | [ARCA](http://twitter.com/search?q=ARCA) | N/A |
+| 7 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
+| 8 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 9 | [Greg Van Alst](http://twitter.com/search?q=Greg+Van+Alst) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [Jeff Badet](http://twitter.com/search?q=Jeff+Badet) | N/A |
+| 12 | [Clayton Carpenter](http://twitter.com/search?q=Clayton+Carpenter) | N/A |
+| 13 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 14 | [Jalen Graham](http://twitter.com/search?q=Jalen+Graham) | N/A |
+| 15 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 16 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
+| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 18 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Frankie Muniz](http://twitter.com/search?q=Frankie+Muniz) | N/A |
+| 21 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
+| 22 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Vic Beasley](http://twitter.com/search?q=Vic+Beasley) | N/A |
+| 25 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 26 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 27 | [Lipsey](http://twitter.com/search?q=Lipsey) | N/A |
+| 28 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 29 | [Rosalynn](http://twitter.com/search?q=Rosalynn) | N/A |
+| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 31 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 32 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 33 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 34 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 37 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 38 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 39 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 40 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 41 | [Drew Plitt](http://twitter.com/search?q=Drew+Plitt) | N/A |
+| 42 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 43 | [Tim Richmond](http://twitter.com/search?q=Tim+Richmond) | N/A |
+| 44 | [Martavis Bryant](http://twitter.com/search?q=Martavis+Bryant) | N/A |
+| 45 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
+| 46 | [Ferris Bueller](http://twitter.com/search?q=Ferris+Bueller) | N/A |
+| 47 | [Style Theory](http://twitter.com/search?q=Style+Theory) | N/A |
+| 48 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 49 | [Daytona](http://twitter.com/search?q=Daytona) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-18 20:35:54 UTC`
+📆 Last Updated: `2023-02-18 21:38:39 UTC`
 
 🔧 Updated every 1 hour!
 

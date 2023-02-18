@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-18 20:36:00 UTC`
+📆 Last Updated: `2023-02-18 21:38:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 2 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 3 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
-| 4 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
-| 5 | [#ListosParaRomperla](http://twitter.com/search?q=%23ListosParaRomperla) | N/A |
-| 6 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 7 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
-| 8 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 9 | [#Llorona](http://twitter.com/search?q=%23Llorona) | N/A |
-| 10 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
-| 11 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 12 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
-| 13 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 14 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 15 | [Paul Rey](http://twitter.com/search?q=Paul+Rey) | N/A |
-| 16 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
-| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 18 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
-| 19 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 20 | [Masip](http://twitter.com/search?q=Masip) | N/A |
-| 21 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 22 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 23 | [Hanga](http://twitter.com/search?q=Hanga) | N/A |
-| 24 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
-| 25 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
-| 26 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 27 | [Llull](http://twitter.com/search?q=Llull) | Llull is a Catalan surname derived from the given name Lluís. It is also the name of a 14th-century Spanish philosopher and mystic, Ramon Llull. In English, it is pronounced "yoo-yee". |
-| 28 | [Azpilicueta](http://twitter.com/search?q=Azpilicueta) | N/A |
-| 29 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 30 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 31 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
-| 32 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 33 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 34 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 35 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 36 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 37 | [Prowse](http://twitter.com/search?q=Prowse) | N/A |
-| 38 | [Hongla](http://twitter.com/search?q=Hongla) | N/A |
-| 39 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 40 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
-| 41 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
-| 42 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
-| 43 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 44 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 47 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 49 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
-| 50 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
+| 1 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 2 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 3 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 4 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 5 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 6 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
+| 7 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
+| 8 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 9 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
+| 10 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
+| 11 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 12 | [Paul Rey](http://twitter.com/search?q=Paul+Rey) | N/A |
+| 13 | [#firstdates18f](http://twitter.com/search?q=%23firstdates18f) | N/A |
+| 14 | [#ListosParaRomperla](http://twitter.com/search?q=%23ListosParaRomperla) | N/A |
+| 15 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
+| 16 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 17 | [Lituania](http://twitter.com/search?q=Lituania) | N/A |
+| 18 | [#PabandomIsNaujo](http://twitter.com/search?q=%23PabandomIsNaujo) | N/A |
+| 19 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
+| 20 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
+| 21 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 22 | [Roja](http://twitter.com/search?q=Roja) | N/A |
+| 23 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
+| 24 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 25 | [El Mallorca](http://twitter.com/search?q=El+Mallorca) | N/A |
+| 26 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 27 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
+| 28 | [Hanga](http://twitter.com/search?q=Hanga) | N/A |
+| 29 | [Masip](http://twitter.com/search?q=Masip) | N/A |
+| 30 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 32 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 33 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 34 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 35 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
+| 36 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 37 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 38 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
+| 39 | [Llull](http://twitter.com/search?q=Llull) | Llull is a Catalan surname derived from the given name Lluís. It is also the name of a 14th-century Spanish philosopher and mystic, Ramon Llull. In English, it is pronounced "yoo-yee". |
+| 40 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 41 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 42 | [Azpilicueta](http://twitter.com/search?q=Azpilicueta) | N/A |
+| 43 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 44 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
+| 45 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
+| 46 | [Euroliga](http://twitter.com/search?q=Euroliga) | N/A |
+| 47 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 48 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
+| 49 | [Cyle Larin](http://twitter.com/search?q=Cyle+Larin) | N/A |
+| 50 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
 
 
 
