@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-18 15:17:05 UTC`
+📆 Last Updated: `2023-02-18 16:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 5 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 6 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 8 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 9 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 10 | [Viernes Negro](http://twitter.com/search?q=Viernes+Negro) | N/A |
-| 11 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
-| 12 | [Hans Asperger](http://twitter.com/search?q=Hans+Asperger) | N/A |
-| 13 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
-| 14 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 7 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 8 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 9 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 10 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
+| 11 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
+| 12 | [Viernes Negro](http://twitter.com/search?q=Viernes+Negro) | N/A |
+| 13 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 14 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 | 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 16 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
 | 17 | [Humberto Fernández Morán](http://twitter.com/search?q=Humberto+Fern%c3%a1ndez+Mor%c3%a1n) | N/A |
-| 18 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
+| 18 | [Hans Asperger](http://twitter.com/search?q=Hans+Asperger) | N/A |
 | 19 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
-| 20 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
-| 21 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 22 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 23 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
-| 24 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 25 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 28 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 29 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 30 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
-| 31 | [Torbes](http://twitter.com/search?q=Torbes) | N/A |
-| 32 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
-| 33 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
-| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 35 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
-| 36 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
-| 37 | [La Hormiga Atómica](http://twitter.com/search?q=La+Hormiga+At%c3%b3mica) | N/A |
-| 38 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
+| 20 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
+| 21 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 22 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
+| 23 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 24 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 25 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 26 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 27 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 28 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
+| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 30 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
+| 31 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
+| 32 | [Torbes](http://twitter.com/search?q=Torbes) | N/A |
+| 33 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 34 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
+| 35 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
+| 36 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
+| 37 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
+| 38 | [jesús farías](http://twitter.com/search?q=jes%c3%bas+far%c3%adas) | N/A |
 | 39 | [paz y soberanía](http://twitter.com/search?q=paz+y+soberan%c3%ada) | N/A |
-| 40 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
+| 40 | [La Hormiga Atómica](http://twitter.com/search?q=La+Hormiga+At%c3%b3mica) | N/A |
 | 41 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 42 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 43 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
-| 44 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
-| 45 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
-| 46 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
-| 47 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 48 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 49 | [Insight Crime](http://twitter.com/search?q=Insight+Crime) | N/A |
-| 50 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 42 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
+| 43 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
+| 44 | [Día Mundial de la Mujer](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Mujer) | N/A |
+| 45 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 46 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
+| 47 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 48 | [bendición divina](http://twitter.com/search?q=bendici%c3%b3n+divina) | N/A |
+| 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 50 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
 
 
 
