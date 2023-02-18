@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-02-18 19:27:14 UTC`
+📆 Last Updated: `2023-02-18 20:36:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
 | 2 | [Har Har Mahadev](http://twitter.com/search?q=Har+Har+Mahadev) | N/A |
-| 3 | [#TarakaRatna](http://twitter.com/search?q=%23TarakaRatna) | N/A |
+| 3 | [#AskSadhguru](http://twitter.com/search?q=%23AskSadhguru) | N/A |
 | 4 | [#ShivaShivaAllNight](http://twitter.com/search?q=%23ShivaShivaAllNight) | N/A |
-| 5 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 8 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
-| 9 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
-| 10 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 14 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 5 | [#TarakaRatna](http://twitter.com/search?q=%23TarakaRatna) | N/A |
+| 6 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
+| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 11 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 12 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 13 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 14 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 17 | [Om Shanthi](http://twitter.com/search?q=Om+Shanthi) | N/A |
-| 18 | [Azpi](http://twitter.com/search?q=Azpi) | Azpi is a Basque name meaning "hawk". It is also a surname in the Basque region of Spain. |
-| 19 | [Garu](http://twitter.com/search?q=Garu) | N/A |
+| 16 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 20 | [Mahadev Bhakt Sushant](http://twitter.com/search?q=Mahadev+Bhakt+Sushant) | N/A |
-| 21 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 22 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 23 | [ZIDDIANS DEMAND ZDMN2](http://twitter.com/search?q=ZIDDIANS+DEMAND+ZDMN2) | N/A |
-| 24 | [NITI HITS 4M](http://twitter.com/search?q=NITI+HITS+4M) | N/A |
-| 25 | [वर्ल्ड रिकॉर्ड](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a5%8d%e0%a4%a1+%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 26 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 27 | [Emi Martinez](http://twitter.com/search?q=Emi+Martinez) | N/A |
-| 28 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
-| 29 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 30 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 31 | [Isha](http://twitter.com/search?q=Isha) | N/A |
-| 32 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
-| 33 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 34 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 35 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 36 | [शिव बारात](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
-| 37 | [HUMARI ANU KA BIRTHDAY](http://twitter.com/search?q=HUMARI+ANU+KA+BIRTHDAY) | N/A |
-| 38 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 39 | [England](http://twitter.com/search?q=England) | N/A |
-| 40 | [शिव ज्योति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf) | N/A |
-| 41 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 42 | [नगरी उज्जैन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a5%80+%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
-| 43 | [जनसंख्या नियंत्रण](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a3) | N/A |
-| 44 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 45 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 46 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 47 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
-| 48 | [Chole Bhature](http://twitter.com/search?q=Chole+Bhature) | N/A |
-| 49 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 50 | [असदुद्दीन ओवैसी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%a6%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a6%e0%a5%80%e0%a4%a8+%e0%a4%93%e0%a4%b5%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
+| 21 | [Garu](http://twitter.com/search?q=Garu) | N/A |
+| 22 | [ZIDDIANS DEMAND ZDMN2](http://twitter.com/search?q=ZIDDIANS+DEMAND+ZDMN2) | N/A |
+| 23 | [Azpi](http://twitter.com/search?q=Azpi) | Azpi is a Basque name meaning "hawk". It is also a surname in the Basque region of Spain. |
+| 24 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 25 | [Richa](http://twitter.com/search?q=Richa) | N/A |
+| 26 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 27 | [HUMARI ANU KA BIRTHDAY](http://twitter.com/search?q=HUMARI+ANU+KA+BIRTHDAY) | N/A |
+| 28 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 29 | [शिव ज्योति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf) | N/A |
+| 30 | [शिव बारात](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
+| 31 | [England](http://twitter.com/search?q=England) | N/A |
+| 32 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 33 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 34 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
+| 35 | [#indvseng](http://twitter.com/search?q=%23indvseng) | N/A |
+| 36 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 37 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 38 | [#omshanti](http://twitter.com/search?q=%23omshanti) | N/A |
+| 39 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 40 | [#IndiaNeedsAOTV](http://twitter.com/search?q=%23IndiaNeedsAOTV) | N/A |
+| 41 | [#Adiyogi](http://twitter.com/search?q=%23Adiyogi) | N/A |
+| 42 | [#ContentWithOne](http://twitter.com/search?q=%23ContentWithOne) | N/A |
+| 43 | [#सन्दीप_सिंह_मादरजात](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80%e0%a4%aa_%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9_%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%b0%e0%a4%9c%e0%a4%be%e0%a4%a4) | N/A |
+| 44 | [#EWS_राजस्थान_मॉडल_लागू_करो](http://twitter.com/search?q=%23EWS_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ae%e0%a5%89%e0%a4%a1%e0%a4%b2_%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a5%82_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 45 | [#शिव_ज्योति_अर्पणम_उज्जैन](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5_%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf_%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%a3%e0%a4%ae_%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 46 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 47 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 48 | [#Ishafoundation](http://twitter.com/search?q=%23Ishafoundation) | N/A |
+| 49 | [#shabemeraj](http://twitter.com/search?q=%23shabemeraj) | N/A |
+| 50 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
 
 
 

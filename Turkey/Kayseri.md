@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-18 19:27:17 UTC`
+📆 Last Updated: `2023-02-18 20:36:21 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-18 19:26:52 UTC`
+📆 Last Updated: `2023-02-18 20:35:54 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-18 19:27:16 UTC`
+📆 Last Updated: `2023-02-18 20:36:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
-| 2 | [#EvimYuvanOlsun](http://twitter.com/search?q=%23EvimYuvanOlsun) | N/A |
-| 3 | [#isiasınhesabısorulacak](http://twitter.com/search?q=%23isias%c4%b1nhesab%c4%b1sorulacak) | N/A |
-| 4 | [#AsrınFelaketiSizsiniz](http://twitter.com/search?q=%23Asr%c4%b1nFelaketiSizsiniz) | N/A |
+| 1 | [#EvimYuvanOlsun](http://twitter.com/search?q=%23EvimYuvanOlsun) | N/A |
+| 2 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
+| 3 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
+| 4 | [#isiasınhesabısorulacak](http://twitter.com/search?q=%23isias%c4%b1nhesab%c4%b1sorulacak) | N/A |
 | 5 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 6 | [Özkan Sümer](http://twitter.com/search?q=%c3%96zkan+S%c3%bcmer) | N/A |
-| 7 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
-| 8 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 9 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 10 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
-| 11 | [Efsane](http://twitter.com/search?q=Efsane) | N/A |
-| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 13 | [Berfin](http://twitter.com/search?q=Berfin) | N/A |
-| 14 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 15 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 16 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 17 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 22 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
-| 23 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 24 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 25 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
-| 26 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
-| 27 | [Her Zaman Umut](http://twitter.com/search?q=Her+Zaman+Umut) | N/A |
+| 6 | [#Nurdağı](http://twitter.com/search?q=%23Nurda%c4%9f%c4%b1) | N/A |
+| 7 | [Kayseri'de](http://twitter.com/search?q=Kayseri%27de) | N/A |
+| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 9 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
+| 10 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 11 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
+| 12 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
+| 13 | [Özkan Sümer](http://twitter.com/search?q=%c3%96zkan+S%c3%bcmer) | N/A |
+| 14 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 15 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 16 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
+| 19 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 20 | [Efsane](http://twitter.com/search?q=Efsane) | N/A |
+| 21 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 22 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 23 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
 | 28 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
-| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 30 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 31 | [Huzurlu](http://twitter.com/search?q=Huzurlu) | N/A |
-| 32 | [Kırgız](http://twitter.com/search?q=K%c4%b1rg%c4%b1z) | N/A |
-| 33 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 34 | [Semerkand Takvimi](http://twitter.com/search?q=Semerkand+Takvimi) | N/A |
-| 35 | [Timsah](http://twitter.com/search?q=Timsah) | N/A |
-| 36 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 37 | [Kaptan](http://twitter.com/search?q=Kaptan) | N/A |
-| 38 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
-| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 40 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
-| 41 | [#İyileşmekİçinYüzyüzeEğitim](http://twitter.com/search?q=%23%c4%b0yile%c5%9fmek%c4%b0%c3%a7inY%c3%bczy%c3%bczeE%c4%9fitim) | N/A |
-| 42 | [#GündemÖtesi](http://twitter.com/search?q=%23G%c3%bcndem%c3%96tesi) | N/A |
-| 43 | [#okul](http://twitter.com/search?q=%23okul) | N/A |
-| 44 | [#AyTol](http://twitter.com/search?q=%23AyTol) | N/A |
-| 45 | [#EmeklilikteYaşaTakıIanIar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1IanIar) | N/A |
-| 46 | [#çorum](http://twitter.com/search?q=%23%c3%a7orum) | N/A |
-| 47 | [#AşçıYrdHizmetliDeğil](http://twitter.com/search?q=%23A%c5%9f%c3%a7%c4%b1YrdHizmetliDe%c4%9fil) | N/A |
-| 48 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
+| 29 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
+| 30 | [#AsrınFelaketiSizsiniz](http://twitter.com/search?q=%23Asr%c4%b1nFelaketiSizsiniz) | N/A |
+| 31 | [#İyileşmekİçinYüzyüzeEğitim](http://twitter.com/search?q=%23%c4%b0yile%c5%9fmek%c4%b0%c3%a7inY%c3%bczy%c3%bczeE%c4%9fitim) | N/A |
+| 32 | [#EmeklilikteYaşaTakıIanIar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1IanIar) | N/A |
+| 33 | [#GündemÖtesi](http://twitter.com/search?q=%23G%c3%bcndem%c3%96tesi) | N/A |
+| 34 | [#okul](http://twitter.com/search?q=%23okul) | N/A |
+| 35 | [#DepremCocuklarıGuevendemi](http://twitter.com/search?q=%23DepremCocuklar%c4%b1Guevendemi) | N/A |
+| 36 | [#AşçıYrdHizmetliDeğil](http://twitter.com/search?q=%23A%c5%9f%c3%a7%c4%b1YrdHizmetliDe%c4%9fil) | N/A |
+| 37 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
+| 38 | [#kismetseolur](http://twitter.com/search?q=%23kismetseolur) | N/A |
+| 39 | [#MEBÖğrencileriDuy](http://twitter.com/search?q=%23MEB%c3%96%c4%9frencileriDuy) | N/A |
+| 40 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
+| 41 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 42 | [#ElifNurYel](http://twitter.com/search?q=%23ElifNurYel) | N/A |
+| 43 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 44 | [#NisandeğilMart](http://twitter.com/search?q=%23Nisande%c4%9filMart) | N/A |
+| 45 | [#KademeliPrimİstemiyoruz](http://twitter.com/search?q=%23KademeliPrim%c4%b0stemiyoruz) | N/A |
+| 46 | [#EhliyetAffı](http://twitter.com/search?q=%23EhliyetAff%c4%b1) | N/A |
 
 
 

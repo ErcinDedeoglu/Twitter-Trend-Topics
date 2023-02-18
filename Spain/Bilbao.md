@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-18 19:26:57 UTC`
+📆 Last Updated: `2023-02-18 20:35:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 2 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 3 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 4 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
-| 5 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 6 | [Masip](http://twitter.com/search?q=Masip) | N/A |
-| 7 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
-| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 9 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 10 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 11 | [Azpilicueta](http://twitter.com/search?q=Azpilicueta) | N/A |
-| 12 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 13 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
-| 14 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
-| 15 | [Prowse](http://twitter.com/search?q=Prowse) | N/A |
-| 16 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
-| 19 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 20 | [#ListosParaRomperla](http://twitter.com/search?q=%23ListosParaRomperla) | N/A |
-| 21 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 22 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 23 | [Monchu](http://twitter.com/search?q=Monchu) | N/A |
-| 24 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 25 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 26 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
-| 27 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
-| 28 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
-| 29 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
-| 30 | [Hongla](http://twitter.com/search?q=Hongla) | N/A |
-| 31 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 32 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
-| 33 | [Víctor Ruiz](http://twitter.com/search?q=V%c3%adctor+Ruiz) | Víctor Ruiz is a Spanish masculine given name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, the name Victor Ruiz would be translated as "Victor the Conqueror". |
-| 34 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
-| 35 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
-| 36 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
-| 37 | [#PorLosTuyos](http://twitter.com/search?q=%23PorLosTuyos) | N/A |
-| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 39 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 42 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 43 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 44 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
-| 45 | [Ortiz Arias](http://twitter.com/search?q=Ortiz+Arias) | N/A |
-| 46 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 47 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
-| 48 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 49 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
+| 1 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 2 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 3 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
+| 4 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 5 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
+| 6 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 7 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 8 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 9 | [#ListosParaRomperla](http://twitter.com/search?q=%23ListosParaRomperla) | N/A |
+| 10 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
+| 11 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
+| 12 | [#Llorona](http://twitter.com/search?q=%23Llorona) | N/A |
+| 13 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
+| 14 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
+| 15 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 16 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 17 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 18 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
+| 19 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 21 | [Masip](http://twitter.com/search?q=Masip) | N/A |
+| 22 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 23 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
+| 24 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
+| 25 | [Barça y Madrid](http://twitter.com/search?q=Bar%c3%a7a+y+Madrid) | N/A |
+| 26 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 27 | [Hanga](http://twitter.com/search?q=Hanga) | N/A |
+| 28 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 29 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
+| 30 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
+| 31 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
+| 32 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 33 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 34 | [Llull](http://twitter.com/search?q=Llull) | Llull is a Catalan surname derived from the given name Lluís. It is also the name of a 14th-century Spanish philosopher and mystic, Ramon Llull. In English, it is pronounced "yoo-yee". |
+| 35 | [Azpilicueta](http://twitter.com/search?q=Azpilicueta) | N/A |
+| 36 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 37 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 38 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 39 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 40 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
+| 41 | [Prowse](http://twitter.com/search?q=Prowse) | N/A |
+| 42 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 45 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 46 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 47 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
+| 48 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 49 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 50 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
 
 
 
