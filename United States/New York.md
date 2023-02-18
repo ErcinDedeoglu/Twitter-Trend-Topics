@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-17 23:16:56 UTC`
+📆 Last Updated: `2023-02-18 00:29:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 2 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 3 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 5 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 6 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 9 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 10 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 11 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 12 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 13 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
+| 1 | [Times Square](http://twitter.com/search?q=Times+Square) | N/A |
+| 2 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 3 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 4 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 5 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 6 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 7 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 8 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 9 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 11 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 12 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 13 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 14 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 15 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 16 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
-| 17 | [Thomas Brown](http://twitter.com/search?q=Thomas+Brown) | N/A |
-| 18 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 21 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 22 | [Rush](http://twitter.com/search?q=Rush) | N/A |
-| 23 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 24 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 25 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 26 | [Earl Weaver](http://twitter.com/search?q=Earl+Weaver) | N/A |
-| 27 | [#NBATopShotThis](http://twitter.com/search?q=%23NBATopShotThis) | N/A |
-| 28 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 29 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 30 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 31 | [Matthew Slater](http://twitter.com/search?q=Matthew+Slater) | N/A |
-| 32 | [Jumba](http://twitter.com/search?q=Jumba) | N/A |
-| 33 | [#CashAppFriday](http://twitter.com/search?q=%23CashAppFriday) | N/A |
-| 34 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
-| 35 | [Tommy White](http://twitter.com/search?q=Tommy+White) | N/A |
-| 36 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
-| 39 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
-| 40 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 41 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 42 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 43 | [Charlie Sheen](http://twitter.com/search?q=Charlie+Sheen) | N/A |
-| 44 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 45 | [Amani Larry](http://twitter.com/search?q=Amani+Larry) | N/A |
-| 46 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
-| 47 | [Breezy](http://twitter.com/search?q=Breezy) | N/A |
-| 48 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
-| 49 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 50 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 15 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 16 | [#RufflesCelebGame](http://twitter.com/search?q=%23RufflesCelebGame) | N/A |
+| 17 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 18 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
+| 19 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 20 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 21 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 22 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
+| 23 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 24 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
+| 25 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
+| 26 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 27 | [Thomas Brown](http://twitter.com/search?q=Thomas+Brown) | N/A |
+| 28 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 29 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 30 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
+| 31 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 32 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 33 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
+| 36 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 37 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 38 | [Jumba](http://twitter.com/search?q=Jumba) | N/A |
+| 39 | [Calvin Johnson](http://twitter.com/search?q=Calvin+Johnson) | N/A |
+| 40 | [Celebrity Game](http://twitter.com/search?q=Celebrity+Game) | N/A |
+| 41 | [Earl Weaver](http://twitter.com/search?q=Earl+Weaver) | N/A |
+| 42 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
+| 43 | [alison brie](http://twitter.com/search?q=alison+brie) | N/A |
+| 44 | [Rush](http://twitter.com/search?q=Rush) | N/A |
+| 45 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
+| 46 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 47 | [Amani Larry](http://twitter.com/search?q=Amani+Larry) | N/A |
+| 48 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 49 | [The Nutty Professor](http://twitter.com/search?q=The+Nutty+Professor) | N/A |
+| 50 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-17 23:16:11 UTC`
+📆 Last Updated: `2023-02-18 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cdnpoli](http://twitter.com/search?q=%23cdnpoli) | N/A |
-| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 3 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 6 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 7 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 8 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 9 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 11 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 12 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
-| 13 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 15 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 16 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 17 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 18 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 19 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 22 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 23 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 24 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 25 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 26 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 27 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 28 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
-| 29 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 3 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 4 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 5 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 6 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 8 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 9 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 12 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 13 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 15 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 16 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 17 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 18 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 19 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 20 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 23 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 24 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 25 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 26 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 27 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 28 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 31 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 32 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 33 | [PM Trudeau](http://twitter.com/search?q=PM+Trudeau) | N/A |
-| 34 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 35 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 36 | [Trudeaus](http://twitter.com/search?q=Trudeaus) | N/A |
+| 31 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 32 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
+| 33 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 34 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 35 | [PM Trudeau](http://twitter.com/search?q=PM+Trudeau) | N/A |
+| 36 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
 | 37 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 38 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 39 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 40 | [Charter](http://twitter.com/search?q=Charter) | N/A |
-| 41 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
-| 42 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 43 | [#CanadaHasFallen](http://twitter.com/search?q=%23CanadaHasFallen) | N/A |
-| 44 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 45 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
-| 46 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
-| 47 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 48 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
-| 49 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
-| 50 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 38 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
+| 39 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 40 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 41 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
+| 42 | [#FreeDumbConvoy](http://twitter.com/search?q=%23FreeDumbConvoy) | N/A |
+| 43 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 44 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 45 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 46 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 47 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 48 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 49 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 50 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 
 
 

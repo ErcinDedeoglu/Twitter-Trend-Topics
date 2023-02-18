@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-17 23:17:01 UTC`
+📆 Last Updated: `2023-02-18 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 2 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 3 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 4 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 5 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 7 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
-| 8 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
-| 9 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 10 | [Tuyz](http://twitter.com/search?q=Tuyz) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Tiraram a Paula](http://twitter.com/search?q=Tiraram+a+Paula) | N/A |
-| 13 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 14 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 15 | [#TresVezesAna015](http://twitter.com/search?q=%23TresVezesAna015) | N/A |
-| 16 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
-| 17 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 18 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 19 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 20 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
-| 21 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 22 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
-| 23 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 24 | [Força Bruno](http://twitter.com/search?q=For%c3%a7a+Bruno) | N/A |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 27 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 28 | [Enner Valência](http://twitter.com/search?q=Enner+Val%c3%aancia) | N/A |
-| 29 | [tutu](http://twitter.com/search?q=tutu) | N/A |
-| 30 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 31 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 32 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
-| 33 | [RAFAK NORVINA COLLECTION](http://twitter.com/search?q=RAFAK+NORVINA+COLLECTION) | N/A |
-| 34 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 35 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 36 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 37 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 38 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 39 | [ELA NÃO VEM MAIS](http://twitter.com/search?q=ELA+N%c3%83O+VEM+MAIS) | N/A |
-| 40 | [shadow and bone](http://twitter.com/search?q=shadow+and+bone) | N/A |
-| 41 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 42 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 43 | [Maria Gladys](http://twitter.com/search?q=Maria+Gladys) | N/A |
-| 44 | [Saadhak](http://twitter.com/search?q=Saadhak) | N/A |
-| 45 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 46 | [Eliminaram a Paula](http://twitter.com/search?q=Eliminaram+a+Paula) | N/A |
-| 47 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 48 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 49 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 50 | [Bell Marques](http://twitter.com/search?q=Bell+Marques) | N/A |
+| 1 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 2 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 3 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 4 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 5 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 6 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 7 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 8 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 9 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
+| 10 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 11 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
+| 12 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 13 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
+| 14 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 15 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
+| 16 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
+| 17 | [CRB x Ceará](http://twitter.com/search?q=CRB+x+Cear%c3%a1) | N/A |
+| 18 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
+| 19 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 20 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 21 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 22 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [aspas](http://twitter.com/search?q=aspas) | N/A |
+| 25 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 26 | [Força Bruno](http://twitter.com/search?q=For%c3%a7a+Bruno) | N/A |
+| 27 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
+| 28 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 29 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 30 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 31 | [Tiraram a Paula](http://twitter.com/search?q=Tiraram+a+Paula) | N/A |
+| 32 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 33 | [O Itaú](http://twitter.com/search?q=O+Ita%c3%ba) | N/A |
+| 34 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 35 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
+| 36 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 37 | [Luba](http://twitter.com/search?q=Luba) | N/A |
+| 38 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
+| 39 | [Bom Carnaval](http://twitter.com/search?q=Bom+Carnaval) | N/A |
+| 40 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 41 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
+| 42 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 43 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 44 | [TUTU](http://twitter.com/search?q=TUTU) | N/A |
+| 45 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 46 | [RAFAK NORVINA COLLECTION](http://twitter.com/search?q=RAFAK+NORVINA+COLLECTION) | N/A |
+| 47 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 48 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 49 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 50 | [ELA NÃO VEM MAIS](http://twitter.com/search?q=ELA+N%c3%83O+VEM+MAIS) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-17 23:17:03 UTC`
+📆 Last Updated: `2023-02-18 00:29:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Indonesia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 2 | [#KKBTerorisPelanggarHAM](http://twitter.com/search?q=%23KKBTerorisPelanggarHAM) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 4 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 5 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 6 | [ada di dekade 08](http://twitter.com/search?q=ada+di+dekade+08) | N/A |
-| 7 | [prabowo fokus konsisten](http://twitter.com/search?q=prabowo+fokus+konsisten) | N/A |
-| 8 | [pastinya mending prabowo](http://twitter.com/search?q=pastinya+mending+prabowo) | N/A |
-| 9 | [indonesia kita terus maju](http://twitter.com/search?q=indonesia+kita+terus+maju) | N/A |
-| 10 | [Perkuat Keimanan](http://twitter.com/search?q=Perkuat+Keimanan) | N/A |
-| 11 | [Ketaqwaan](http://twitter.com/search?q=Ketaqwaan) | N/A |
-| 12 | [Allah Kuasa Atas Segalanya](http://twitter.com/search?q=Allah+Kuasa+Atas+Segalanya) | N/A |
-| 13 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 14 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 15 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 16 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 17 | [pevita pearce](http://twitter.com/search?q=pevita+pearce) | N/A |
-| 18 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 19 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 20 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
+| 2 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 3 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 4 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
+| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 6 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 7 | [pastinya mending prabowo](http://twitter.com/search?q=pastinya+mending+prabowo) | N/A |
+| 8 | [ada di dekade 08](http://twitter.com/search?q=ada+di+dekade+08) | N/A |
+| 9 | [prabowo fokus konsisten](http://twitter.com/search?q=prabowo+fokus+konsisten) | N/A |
+| 10 | [indonesia kita terus maju](http://twitter.com/search?q=indonesia+kita+terus+maju) | N/A |
+| 11 | [Perkuat Keimanan](http://twitter.com/search?q=Perkuat+Keimanan) | N/A |
+| 12 | [Ketaqwaan](http://twitter.com/search?q=Ketaqwaan) | N/A |
+| 13 | [Allah Kuasa Atas Segalanya](http://twitter.com/search?q=Allah+Kuasa+Atas+Segalanya) | N/A |
+| 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 15 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 16 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 17 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 18 | [pevita pearce](http://twitter.com/search?q=pevita+pearce) | N/A |
+| 19 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 20 | [danamon](http://twitter.com/search?q=danamon) | N/A |
 | 21 | [NCT DREAM KYOCERA DOME DAY1](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY1) | N/A |
-| 22 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 23 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
-| 24 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 25 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 26 | [Genta](http://twitter.com/search?q=Genta) | N/A |
-| 27 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 28 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 29 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
-| 30 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
-| 31 | [reformasi total sepakbola](http://twitter.com/search?q=reformasi+total+sepakbola) | N/A |
-| 32 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 33 | [enak aja mundur](http://twitter.com/search?q=enak+aja+mundur) | N/A |
-| 34 | [sudirman cup](http://twitter.com/search?q=sudirman+cup) | N/A |
-| 35 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 36 | [Danang](http://twitter.com/search?q=Danang) | N/A |
+| 22 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 23 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 24 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 25 | [Genta](http://twitter.com/search?q=Genta) | N/A |
+| 26 | [Ratu Tisha](http://twitter.com/search?q=Ratu+Tisha) | N/A |
+| 27 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
+| 28 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 29 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 30 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 31 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 32 | [Kimbum](http://twitter.com/search?q=Kimbum) | N/A |
+| 33 | [reformasi total sepakbola](http://twitter.com/search?q=reformasi+total+sepakbola) | N/A |
+| 34 | [enak aja mundur](http://twitter.com/search?q=enak+aja+mundur) | N/A |
+| 35 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 36 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
 | 37 | [spklu](http://twitter.com/search?q=spklu) | N/A |
-| 38 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 39 | [JITB ON DISNEY PLUS](http://twitter.com/search?q=JITB+ON+DISNEY+PLUS) | N/A |
-| 40 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 41 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 42 | [happy birthday chiquita](http://twitter.com/search?q=happy+birthday+chiquita) | N/A |
-| 43 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 44 | [apriyani](http://twitter.com/search?q=apriyani) | N/A |
-| 45 | [Papua](http://twitter.com/search?q=Papua) | N/A |
-| 46 | [fajri](http://twitter.com/search?q=fajri) | N/A |
-| 47 | [Ver 3](http://twitter.com/search?q=Ver+3) | N/A |
-| 48 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 49 | [Fase](http://twitter.com/search?q=Fase) | N/A |
-| 50 | [tanpa penonton](http://twitter.com/search?q=tanpa+penonton) | N/A |
+| 38 | [JITB ON DISNEY PLUS](http://twitter.com/search?q=JITB+ON+DISNEY+PLUS) | N/A |
+| 39 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 40 | [happy birthday chiquita](http://twitter.com/search?q=happy+birthday+chiquita) | N/A |
+| 41 | [apriyani](http://twitter.com/search?q=apriyani) | N/A |
+| 42 | [Bantal](http://twitter.com/search?q=Bantal) | N/A |
+| 43 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 44 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 45 | [Danang](http://twitter.com/search?q=Danang) | N/A |
+| 46 | [Minum](http://twitter.com/search?q=Minum) | N/A |
+| 47 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 48 | [Glazer](http://twitter.com/search?q=Glazer) | N/A |
+| 49 | [fajri](http://twitter.com/search?q=fajri) | N/A |
+| 50 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-17 23:16:50 UTC`
+📆 Last Updated: `2023-02-18 00:29:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Konya](http://twitter.com/search?q=%23Konya) | N/A |
-| 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 3 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 4 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 2 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
+| 3 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 4 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
 | 5 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 6 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
-| 7 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 8 | [Selçuklu](http://twitter.com/search?q=Sel%c3%a7uklu) | N/A |
-| 9 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 10 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 11 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 12 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
-| 13 | [İslam](http://twitter.com/search?q=%c4%b0slam) | N/A |
-| 14 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 15 | [İyi Geceler](http://twitter.com/search?q=%c4%b0yi+Geceler) | N/A |
-| 16 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
-| 17 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 18 | [Tuzla](http://twitter.com/search?q=Tuzla) | N/A |
-| 19 | [Arınç](http://twitter.com/search?q=Ar%c4%b1n%c3%a7) | N/A |
+| 6 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 7 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
+| 8 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 9 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
+| 10 | [Selçuklu](http://twitter.com/search?q=Sel%c3%a7uklu) | N/A |
+| 11 | [Sönmez](http://twitter.com/search?q=S%c3%b6nmez) | N/A |
+| 12 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 13 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 14 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 15 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
+| 16 | [Tuzla](http://twitter.com/search?q=Tuzla) | N/A |
+| 17 | [Evlat](http://twitter.com/search?q=Evlat) | N/A |
+| 18 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 19 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
 | 20 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 21 | [Biride](http://twitter.com/search?q=Biride) | N/A |
-| 22 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 23 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 21 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 22 | [Arınç](http://twitter.com/search?q=Ar%c4%b1n%c3%a7) | N/A |
+| 23 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
 | 24 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 25 | [Güzem](http://twitter.com/search?q=G%c3%bczem) | N/A |
-| 26 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 27 | [Memleket Partisi](http://twitter.com/search?q=Memleket+Partisi) | N/A |
-| 28 | [Askim](http://twitter.com/search?q=Askim) | N/A |
-| 29 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
-| 30 | [Kartal](http://twitter.com/search?q=Kartal) | N/A |
-| 31 | [Isra](http://twitter.com/search?q=Isra) | N/A |
-| 32 | [Akılları](http://twitter.com/search?q=Ak%c4%b1llar%c4%b1) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Muhittin](http://twitter.com/search?q=Muhittin) | N/A |
+| 25 | [Biride](http://twitter.com/search?q=Biride) | N/A |
+| 26 | [Kandil](http://twitter.com/search?q=Kandil) | N/A |
+| 27 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
+| 28 | [Dinden](http://twitter.com/search?q=Dinden) | N/A |
+| 29 | [Memleket Partisi](http://twitter.com/search?q=Memleket+Partisi) | N/A |
+| 30 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 31 | [Kartal](http://twitter.com/search?q=Kartal) | N/A |
+| 32 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 33 | [Askim](http://twitter.com/search?q=Askim) | N/A |
+| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 35 | [Benimki](http://twitter.com/search?q=Benimki) | N/A |
-| 36 | [Josef de Souza](http://twitter.com/search?q=Josef+de+Souza) | N/A |
-| 37 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 38 | [İlahiyatçı](http://twitter.com/search?q=%c4%b0lahiyat%c3%a7%c4%b1) | N/A |
-| 39 | [Dekan](http://twitter.com/search?q=Dekan) | N/A |
-| 40 | [Kozmik](http://twitter.com/search?q=Kozmik) | N/A |
-| 41 | [Kızın](http://twitter.com/search?q=K%c4%b1z%c4%b1n) | N/A |
-| 42 | [Peygamber Efendimizin](http://twitter.com/search?q=Peygamber+Efendimizin) | N/A |
-| 43 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 44 | [#notalın](http://twitter.com/search?q=%23notal%c4%b1n) | N/A |
-| 45 | [#BingölAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Bing%c3%b6lAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
-| 46 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
-| 47 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
-| 48 | [#Miracgecemiz](http://twitter.com/search?q=%23Miracgecemiz) | N/A |
-| 49 | [#DepremÇocuklarıGüvendeMi](http://twitter.com/search?q=%23Deprem%c3%87ocuklar%c4%b1G%c3%bcvendeMi) | N/A |
+| 36 | [İslamı](http://twitter.com/search?q=%c4%b0slam%c4%b1) | N/A |
+| 37 | [#notalın](http://twitter.com/search?q=%23notal%c4%b1n) | N/A |
+| 38 | [#BingölAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Bing%c3%b6lAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 39 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 40 | [#denizakkaya](http://twitter.com/search?q=%23denizakkaya) | N/A |
+| 41 | [#Miracgecemiz](http://twitter.com/search?q=%23Miracgecemiz) | N/A |
+| 42 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 43 | [#DepremÇocuklarıGüvendeMi](http://twitter.com/search?q=%23Deprem%c3%87ocuklar%c4%b1G%c3%bcvendeMi) | N/A |
+| 44 | [#depremzedesoruyor](http://twitter.com/search?q=%23depremzedesoruyor) | N/A |
+| 45 | [#KademeliPrimİstemiyoruz](http://twitter.com/search?q=%23KademeliPrim%c4%b0stemiyoruz) | N/A |
+| 46 | [#BagkurMeclise](http://twitter.com/search?q=%23BagkurMeclise) | N/A |
+| 47 | [#CerrahpaşaMezarOlmasın](http://twitter.com/search?q=%23Cerrahpa%c5%9faMezarOlmas%c4%b1n) | N/A |
+| 48 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 49 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 50 | [#YarabüyükAFşart](http://twitter.com/search?q=%23Yarab%c3%bcy%c3%bckAF%c5%9fart) | N/A |
 
 
 

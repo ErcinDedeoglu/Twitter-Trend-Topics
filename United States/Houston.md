@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-17 23:16:54 UTC`
+📆 Last Updated: `2023-02-18 00:29:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 2 | [#UILState](http://twitter.com/search?q=%23UILState) | N/A |
-| 3 | [#GoFrogs](http://twitter.com/search?q=%23GoFrogs) | N/A |
-| 4 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 5 | [#AntManAndTheWasp](http://twitter.com/search?q=%23AntManAndTheWasp) | N/A |
-| 6 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 2 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 3 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 5 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 6 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
 | 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 9 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 9 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 10 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 11 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 12 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 13 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
-| 14 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 15 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 16 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
-| 17 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 18 | [Thomas Brown](http://twitter.com/search?q=Thomas+Brown) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 21 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 22 | [Rush](http://twitter.com/search?q=Rush) | N/A |
-| 23 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 24 | [Earl Weaver](http://twitter.com/search?q=Earl+Weaver) | N/A |
-| 25 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 27 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 28 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 29 | [Matthew Slater](http://twitter.com/search?q=Matthew+Slater) | N/A |
-| 30 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 31 | [Jumba](http://twitter.com/search?q=Jumba) | N/A |
-| 32 | [Karrueche](http://twitter.com/search?q=Karrueche) | N/A |
-| 33 | [Tommy White](http://twitter.com/search?q=Tommy+White) | N/A |
-| 34 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
-| 37 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
-| 38 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 39 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 40 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 41 | [Charlie Sheen](http://twitter.com/search?q=Charlie+Sheen) | N/A |
-| 42 | [Amani Larry](http://twitter.com/search?q=Amani+Larry) | N/A |
-| 43 | [Toriko](http://twitter.com/search?q=Toriko) | N/A |
-| 44 | [Breezy](http://twitter.com/search?q=Breezy) | N/A |
-| 45 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
-| 46 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 47 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 48 | [The Nutty Professor](http://twitter.com/search?q=The+Nutty+Professor) | N/A |
-| 49 | [Mecole](http://twitter.com/search?q=Mecole) | N/A |
-| 50 | [Team OG](http://twitter.com/search?q=Team+OG) | N/A |
+| 11 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
+| 12 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 13 | [#RufflesCelebGame](http://twitter.com/search?q=%23RufflesCelebGame) | N/A |
+| 14 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 15 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
+| 16 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 17 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
+| 18 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 19 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 20 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
+| 21 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 22 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
+| 23 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 24 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 25 | [Thomas Brown](http://twitter.com/search?q=Thomas+Brown) | N/A |
+| 26 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 27 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
+| 28 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
+| 29 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 30 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 31 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 35 | [Jumba](http://twitter.com/search?q=Jumba) | N/A |
+| 36 | [Calvin Johnson](http://twitter.com/search?q=Calvin+Johnson) | N/A |
+| 37 | [Celebrity Game](http://twitter.com/search?q=Celebrity+Game) | N/A |
+| 38 | [alison brie](http://twitter.com/search?q=alison+brie) | N/A |
+| 39 | [Earl Weaver](http://twitter.com/search?q=Earl+Weaver) | N/A |
+| 40 | [Rush](http://twitter.com/search?q=Rush) | N/A |
+| 41 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
+| 42 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
+| 43 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 44 | [Amani Larry](http://twitter.com/search?q=Amani+Larry) | N/A |
+| 45 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 46 | [The Nutty Professor](http://twitter.com/search?q=The+Nutty+Professor) | N/A |
+| 47 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 48 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 49 | [Bryce Chance](http://twitter.com/search?q=Bryce+Chance) | N/A |
+| 50 | [Assistant HC](http://twitter.com/search?q=Assistant+HC) | N/A |
 
 
 

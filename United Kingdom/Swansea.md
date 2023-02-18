@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-17 23:16:14 UTC`
+📆 Last Updated: `2023-02-18 00:28:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
-| 3 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 1 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
+| 2 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 3 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 4 | [#deathinparadise](http://twitter.com/search?q=%23deathinparadise) | N/A |
-| 5 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 6 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 7 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 8 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 9 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 10 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 11 | [Ince](http://twitter.com/search?q=Ince) | N/A |
-| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 13 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
-| 14 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [Sawyers](http://twitter.com/search?q=Sawyers) | N/A |
+| 5 | [#GrahamNorton](http://twitter.com/search?q=%23GrahamNorton) | N/A |
+| 6 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 7 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 8 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 9 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 10 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 13 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 14 | [Ince](http://twitter.com/search?q=Ince) | N/A |
+| 15 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
+| 16 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
 | 17 | [Rhod Gilbert](http://twitter.com/search?q=Rhod+Gilbert) | N/A |
-| 18 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
-| 19 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
-| 20 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 21 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 22 | [Jarlath Burns](http://twitter.com/search?q=Jarlath+Burns) | N/A |
-| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 25 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 26 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
-| 27 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 28 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 29 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 30 | [Carroll](http://twitter.com/search?q=Carroll) | N/A |
-| 31 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 32 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 33 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 34 | [Ospreys](http://twitter.com/search?q=Ospreys) | Ospreys are large birds of prey that are found on every continent except Antarctica. They have a distinctive black and white plumage, long wings, and a hooked beak. Ospreys feed mainly on fish, which they catch by swooping down from the air and grabbing them with their talons. The name "osprey" comes from the Latin words for "bird of prey". |
-| 35 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 36 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 37 | [Scott Dann](http://twitter.com/search?q=Scott+Dann) | N/A |
-| 38 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
-| 39 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 40 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 41 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 42 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 43 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 45 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 46 | [Yorkie](http://twitter.com/search?q=Yorkie) | N/A |
-| 47 | [Doop](http://twitter.com/search?q=Doop) | N/A |
-| 48 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 49 | [Pickled](http://twitter.com/search?q=Pickled) | N/A |
+| 18 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 19 | [Judi Dench](http://twitter.com/search?q=Judi+Dench) | N/A |
+| 20 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 21 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 24 | [Sawyers](http://twitter.com/search?q=Sawyers) | N/A |
+| 25 | [Jarlath](http://twitter.com/search?q=Jarlath) | N/A |
+| 26 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
+| 27 | [Hugh Jackman](http://twitter.com/search?q=Hugh+Jackman) | N/A |
+| 28 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
+| 29 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 30 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 31 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 32 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 33 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 34 | [Ricky Gervais](http://twitter.com/search?q=Ricky+Gervais) | N/A |
+| 35 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 36 | [Yorkie](http://twitter.com/search?q=Yorkie) | N/A |
+| 37 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 38 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 39 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 40 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 41 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 42 | [Quins](http://twitter.com/search?q=Quins) | N/A |
+| 43 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 44 | [Jaws](http://twitter.com/search?q=Jaws) | N/A |
+| 45 | [Ospreys](http://twitter.com/search?q=Ospreys) | Ospreys are large birds of prey that are found on every continent except Antarctica. They have a distinctive black and white plumage, long wings, and a hooked beak. Ospreys feed mainly on fish, which they catch by swooping down from the air and grabbing them with their talons. The name "osprey" comes from the Latin words for "bird of prey". |
+| 46 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 47 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 48 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 49 | [Debt](http://twitter.com/search?q=Debt) | N/A |
 
 
 
