@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-02-18 05:16:44 UTC`
+📆 Last Updated: `2023-02-18 06:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,34 +19,34 @@ This is top 50 for Venezuela
 | 2 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
 | 3 | [#CarnavalesFelices2023](http://twitter.com/search?q=%23CarnavalesFelices2023) | N/A |
 | 4 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
-| 5 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
-| 6 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
-| 7 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 5 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 6 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 7 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
 | 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 10 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
-| 11 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
-| 12 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
+| 11 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
+| 12 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
 | 13 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 | 14 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
-| 15 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 16 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 17 | [tour soy rebelde venezuela](http://twitter.com/search?q=tour+soy+rebelde+venezuela) | N/A |
-| 18 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
-| 19 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 20 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
-| 21 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
-| 22 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
-| 23 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 24 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 25 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
-| 26 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
-| 27 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
+| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 16 | [tour soy rebelde venezuela](http://twitter.com/search?q=tour+soy+rebelde+venezuela) | N/A |
+| 17 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 18 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 19 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
+| 20 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
+| 21 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 22 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 23 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
+| 24 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
+| 25 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
+| 26 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
+| 27 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 29 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 30 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
 | 31 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 32 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
 | 33 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
 | 34 | [Metras](http://twitter.com/search?q=Metras) | N/A |
 | 35 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
@@ -59,12 +59,12 @@ This is top 50 for Venezuela
 | 42 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
 | 43 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
 | 44 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 45 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 46 | [Yonny Hernández](http://twitter.com/search?q=Yonny+Hern%c3%a1ndez) | N/A |
-| 47 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
-| 48 | [Tonga](http://twitter.com/search?q=Tonga) | N/A |
-| 49 | [130 Bs](http://twitter.com/search?q=130+Bs) | N/A |
-| 50 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
+| 45 | [Yonny Hernández](http://twitter.com/search?q=Yonny+Hern%c3%a1ndez) | N/A |
+| 46 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
+| 47 | [130 Bs](http://twitter.com/search?q=130+Bs) | N/A |
+| 48 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
+| 49 | [Alí Primera](http://twitter.com/search?q=Al%c3%ad+Primera) | N/A |
+| 50 | [Bendición Divina](http://twitter.com/search?q=Bendici%c3%b3n+Divina) | N/A |
 
 
 

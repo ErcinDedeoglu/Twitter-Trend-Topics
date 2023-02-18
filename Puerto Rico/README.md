@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puerto Rico
 
-📆 Last Updated: `2023-02-18 05:16:42 UTC`
+📆 Last Updated: `2023-02-18 06:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Puerto Rico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 4 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 3 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 4 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 5 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 6 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
-| 7 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 8 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 9 | [#KnuckleMania3](http://twitter.com/search?q=%23KnuckleMania3) | N/A |
+| 6 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 7 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 8 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
+| 9 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
 | 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 11 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
+| 11 | [#KnuckleMania3](http://twitter.com/search?q=%23KnuckleMania3) | N/A |
 | 12 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 13 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 14 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 15 | [Copley](http://twitter.com/search?q=Copley) | N/A |
-| 16 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 17 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 18 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 19 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
-| 20 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 21 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 22 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
-| 23 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 24 | [Worlds Apart](http://twitter.com/search?q=Worlds+Apart) | N/A |
-| 25 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
-| 26 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 27 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 28 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 29 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 30 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 31 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 13 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 14 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 15 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 16 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 17 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 18 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 19 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 20 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
+| 21 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 22 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 23 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 24 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 25 | [Worlds Apart](http://twitter.com/search?q=Worlds+Apart) | N/A |
+| 26 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 28 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 29 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 30 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 31 | [Judge Mathis](http://twitter.com/search?q=Judge+Mathis) | N/A |
 | 32 | [Diego Sanchez](http://twitter.com/search?q=Diego+Sanchez) | N/A |
-| 33 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 34 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 35 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 36 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 37 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 38 | [Austin Trout](http://twitter.com/search?q=Austin+Trout) | N/A |
-| 39 | [Angi](http://twitter.com/search?q=Angi) | N/A |
-| 40 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 41 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 42 | [Vatrano](http://twitter.com/search?q=Vatrano) | N/A |
-| 43 | [Brady Tygart](http://twitter.com/search?q=Brady+Tygart) | N/A |
-| 44 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
-| 45 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 46 | [Candace Parker](http://twitter.com/search?q=Candace+Parker) | Candace Parker is an American professional basketball player who currently plays for the Los Angeles Sparks of the Women's National Basketball Association (WNBA). She is a two-time WNBA MVP, a three-time WNBA champion, and a four-time WNBA All-Star. She is also the first woman to dunk in an NCAA tournament game and the first woman to win both an Olympic gold medal and a WNBA championship. |
+| 33 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 34 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 35 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 36 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 37 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 38 | [Angi](http://twitter.com/search?q=Angi) | N/A |
+| 39 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 40 | [Vatrano](http://twitter.com/search?q=Vatrano) | N/A |
+| 41 | [Austin Trout](http://twitter.com/search?q=Austin+Trout) | N/A |
+| 42 | [The Woman King](http://twitter.com/search?q=The+Woman+King) | The Woman King is a term used to refer to a female ruler or leader. It is often used to describe a female monarch, such as a queen or empress. The phrase can also be used to refer to any woman who has achieved great power and influence in her field. |
+| 43 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 44 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 45 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 46 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 47 | [Joakim](http://twitter.com/search?q=Joakim) | N/A |
-| 48 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
-| 49 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 50 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 48 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 49 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 50 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
 
 
 

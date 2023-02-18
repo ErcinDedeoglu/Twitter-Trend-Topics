@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-18 05:16:37 UTC`
+📆 Last Updated: `2023-02-18 06:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,19 +26,19 @@ This is top 50 for Belgium
 | 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 10 | [jambon](http://twitter.com/search?q=jambon) | N/A |
 | 11 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 12 | [timmy simons](http://twitter.com/search?q=timmy+simons) | N/A |
-| 13 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 12 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 13 | [Timmy Simons](http://twitter.com/search?q=Timmy+Simons) | N/A |
 | 14 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 15 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 16 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 17 | [paleizenstraat](http://twitter.com/search?q=paleizenstraat) | N/A |
-| 18 | [pairi daiza](http://twitter.com/search?q=pairi+daiza) | N/A |
+| 15 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 16 | [paleizenstraat](http://twitter.com/search?q=paleizenstraat) | N/A |
+| 17 | [pairi daiza](http://twitter.com/search?q=pairi+daiza) | N/A |
+| 18 | [Forum](http://twitter.com/search?q=Forum) | N/A |
 | 19 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
-| 20 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 21 | [la libre](http://twitter.com/search?q=la+libre) | N/A |
-| 22 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 23 | [Groot Licht](http://twitter.com/search?q=Groot+Licht) | N/A |
-| 24 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 20 | [la libre](http://twitter.com/search?q=la+libre) | N/A |
+| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 22 | [Groot Licht](http://twitter.com/search?q=Groot+Licht) | N/A |
+| 23 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 24 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
 | 25 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
 | 26 | [Ross](http://twitter.com/search?q=Ross) | N/A |
 | 27 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
@@ -46,17 +46,17 @@ This is top 50 for Belgium
 | 29 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
 | 30 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
 | 31 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 32 | [groen](http://twitter.com/search?q=groen) | N/A |
-| 33 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 34 | [ine van wymersch](http://twitter.com/search?q=ine+van+wymersch) | N/A |
-| 35 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
-| 36 | [I LOVE U](http://twitter.com/search?q=I+LOVE+U) | N/A |
-| 37 | [wenen](http://twitter.com/search?q=wenen) | N/A |
-| 38 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 39 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 40 | [ludogorets](http://twitter.com/search?q=ludogorets) | N/A |
-| 41 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 42 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
+| 32 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 33 | [ine van wymersch](http://twitter.com/search?q=ine+van+wymersch) | N/A |
+| 34 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
+| 35 | [I LOVE U](http://twitter.com/search?q=I+LOVE+U) | N/A |
+| 36 | [wenen](http://twitter.com/search?q=wenen) | N/A |
+| 37 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 38 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 39 | [ludogorets](http://twitter.com/search?q=ludogorets) | N/A |
+| 40 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 41 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
+| 42 | [Groen](http://twitter.com/search?q=Groen) | N/A |
 | 43 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
 | 44 | [leeuw](http://twitter.com/search?q=leeuw) | N/A |
 | 45 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |

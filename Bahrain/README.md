@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-02-18 05:16:37 UTC`
+📆 Last Updated: `2023-02-18 06:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Bahrain
 | ------- | ------------ | ------------ |
 | 1 | [#كاظم_الغيظ](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b8%d9%85_%d8%a7%d9%84%d8%ba%d9%8a%d8%b8) | N/A |
 | 2 | [#ماجورين](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%ac%d9%88%d8%b1%d9%8a%d9%86) | N/A |
-| 3 | [موسي بن جعفر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [#الليله_الماسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 3 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 4 | [#الليله_الماسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 5 | [موسي بن جعفر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
 | 6 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
 | 7 | [باب الحوايج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%8a%d8%ac) | N/A |
 | 8 | [علي المعذب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%b0%d8%a8) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Bahrain
 | 29 | [الساق المرضوض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d8%b6%d9%88%d8%b6) | N/A |
 | 30 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 31 | [الاتفاق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82) | N/A |
-| 32 | [كاسميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%85%d9%8a%d8%b1%d9%88) | N/A |
+| 32 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
 | 33 | [الدموع الغزيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%85%d9%88%d8%b9+%d8%a7%d9%84%d8%ba%d8%b2%d9%8a%d8%b1%d9%87) | N/A |
-| 34 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 35 | [علي البال](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d9%84) | N/A |
-| 36 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
-| 37 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
-| 38 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 39 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
-| 40 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 41 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 43 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 34 | [كاسميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%85%d9%8a%d8%b1%d9%88) | N/A |
+| 35 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 36 | [علي البال](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d9%84) | N/A |
+| 37 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 38 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
+| 39 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 40 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 41 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 42 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 44 | [الامام الصادق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82) | N/A |
 | 45 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 46 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
 | 47 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
 | 48 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
 | 49 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 50 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 50 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 
 
 

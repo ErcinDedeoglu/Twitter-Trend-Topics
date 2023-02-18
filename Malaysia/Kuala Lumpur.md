@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-02-18 05:16:14 UTC`
+📆 Last Updated: `2023-02-18 06:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 5 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 6 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
-| 7 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 8 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 9 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 12 | [wei wei](http://twitter.com/search?q=wei+wei) | N/A |
-| 13 | [Kamal](http://twitter.com/search?q=Kamal) | N/A |
-| 14 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
-| 15 | [jin wei](http://twitter.com/search?q=jin+wei) | N/A |
-| 16 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 17 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 18 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 19 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 20 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
-| 21 | [Klang](http://twitter.com/search?q=Klang) | N/A |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [RAIL MY LIFE](http://twitter.com/search?q=RAIL+MY+LIFE) | N/A |
-| 24 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 25 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 26 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 29 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 30 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 31 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
-| 32 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
-| 33 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
-| 34 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 35 | [anteater](http://twitter.com/search?q=anteater) | N/A |
-| 36 | [ZII JIA](http://twitter.com/search?q=ZII+JIA) | N/A |
-| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 38 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 39 | [Hearts of Harris 2.0](http://twitter.com/search?q=Hearts+of+Harris+2.0) | N/A |
-| 40 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
-| 41 | [centerpoint](http://twitter.com/search?q=centerpoint) | N/A |
-| 42 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
-| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 44 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
-| 45 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 46 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 1 | [#218BROSinTOWN](http://twitter.com/search?q=%23218BROSinTOWN) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
+| 5 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 7 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
+| 8 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 9 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 10 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 11 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 12 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [wei wei](http://twitter.com/search?q=wei+wei) | N/A |
+| 15 | [Kamal](http://twitter.com/search?q=Kamal) | N/A |
+| 16 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 17 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
+| 18 | [jin wei](http://twitter.com/search?q=jin+wei) | N/A |
+| 19 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 20 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 21 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
+| 24 | [RAIL MY LIFE](http://twitter.com/search?q=RAIL+MY+LIFE) | N/A |
+| 25 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 26 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 27 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 30 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 31 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 32 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 33 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
+| 34 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
+| 35 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 36 | [anteater](http://twitter.com/search?q=anteater) | N/A |
+| 37 | [ZII JIA](http://twitter.com/search?q=ZII+JIA) | N/A |
+| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 39 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 40 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 41 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
+| 42 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
+| 43 | [centerpoint](http://twitter.com/search?q=centerpoint) | N/A |
+| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 45 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 46 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 47 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
+| 48 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 50 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 

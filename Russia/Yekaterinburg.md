@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yekaterinburg
 
-📆 Last Updated: `2023-02-18 05:16:21 UTC`
+📆 Last Updated: `2023-02-18 06:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for [Russia](</Russia>)
 | 16 | [европа](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
 | 17 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
 | 18 | [огайо](http://twitter.com/search?q=%d0%be%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
-| 19 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 20 | [постоянно](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%bd%d0%be) | N/A |
-| 21 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 22 | [не могу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b3%d1%83) | N/A |
-| 23 | [дайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 24 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 25 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 19 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 20 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 21 | [постоянно](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%bd%d0%be) | N/A |
+| 22 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 23 | [не могу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b3%d1%83) | N/A |
+| 24 | [дайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 25 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
 | 26 | [Офигеть](http://twitter.com/search?q=%d0%9e%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
 | 27 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
 | 28 | [извините](http://twitter.com/search?q=%d0%b8%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
@@ -49,20 +49,22 @@ This is top 50 for [Russia](</Russia>)
 | 32 | [осталось](http://twitter.com/search?q=%d0%be%d1%81%d1%82%d0%b0%d0%bb%d0%be%d1%81%d1%8c) | N/A |
 | 33 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 34 | [сложно](http://twitter.com/search?q=%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 35 | [интересно](http://twitter.com/search?q=%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 36 | [Лучшая](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
-| 37 | [любовь](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
+| 35 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 36 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 37 | [Лучшая](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
 | 38 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
 | 39 | [костомарова](http://twitter.com/search?q=%d0%ba%d0%be%d1%81%d1%82%d0%be%d0%bc%d0%b0%d1%80%d0%be%d0%b2%d0%b0) | N/A |
 | 40 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 41 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
 | 42 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 43 | [В Турции](http://twitter.com/search?q=%d0%92+%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 44 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
-| 45 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
-| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 47 | [сильно](http://twitter.com/search?q=%d1%81%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 48 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 43 | [Любовь](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
+| 44 | [В Турции](http://twitter.com/search?q=%d0%92+%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 45 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
+| 46 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
+| 47 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 48 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
 
 
 

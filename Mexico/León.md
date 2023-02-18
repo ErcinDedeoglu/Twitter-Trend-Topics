@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-18 05:15:52 UTC`
+📆 Last Updated: `2023-02-18 06:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 2 | [#PorLaSupervivencia](http://twitter.com/search?q=%23PorLaSupervivencia) | N/A |
-| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 4 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 5 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 6 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 1 | [nexus](http://twitter.com/search?q=nexus) | N/A |
+| 2 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 3 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 4 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
+| 5 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 6 | [Morales](http://twitter.com/search?q=Morales) | N/A |
 | 7 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 8 | [nexus](http://twitter.com/search?q=nexus) | N/A |
-| 9 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 10 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 11 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 8 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
+| 9 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 10 | [MARIO B X LEON LEIDEN](http://twitter.com/search?q=MARIO+B+X+LEON+LEIDEN) | N/A |
+| 11 | [Baca](http://twitter.com/search?q=Baca) | N/A |
 | 12 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 13 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 14 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 15 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 16 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 17 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 18 | [Huiqui](http://twitter.com/search?q=Huiqui) | N/A |
-| 19 | [Goles](http://twitter.com/search?q=Goles) | N/A |
-| 20 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 21 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 22 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 23 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 24 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 25 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 26 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 27 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
-| 28 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 13 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 14 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 15 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 16 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 17 | [Huiqui](http://twitter.com/search?q=Huiqui) | N/A |
+| 18 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 19 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Goles](http://twitter.com/search?q=Goles) | N/A |
+| 22 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
+| 23 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 24 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 25 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 26 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 27 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
+| 28 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
 | 29 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 30 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 31 | [Sierra](http://twitter.com/search?q=Sierra) | N/A |
-| 32 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 33 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 34 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 30 | [Sierra](http://twitter.com/search?q=Sierra) | N/A |
+| 31 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 32 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 33 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 34 | [Cota](http://twitter.com/search?q=Cota) | N/A |
 | 35 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 36 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 37 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 38 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 39 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 40 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 41 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 42 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 43 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 44 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 45 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 46 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
+| 36 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
+| 37 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 38 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
+| 39 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 40 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 41 | [#PorLaSupervivencia](http://twitter.com/search?q=%23PorLaSupervivencia) | N/A |
+| 42 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
+| 43 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 44 | [#LigaMXxESPN](http://twitter.com/search?q=%23LigaMXxESPN) | N/A |
+| 45 | [#FuneralWaanjai](http://twitter.com/search?q=%23FuneralWaanjai) | N/A |
+| 46 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
 
 
 

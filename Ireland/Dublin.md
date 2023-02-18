@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-18 05:16:00 UTC`
+📆 Last Updated: `2023-02-18 06:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,21 +15,21 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUNvOSP](http://twitter.com/search?q=%23MUNvOSP) | N/A |
+| 1 | [#munvosp](http://twitter.com/search?q=%23munvosp) | N/A |
 | 2 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
-| 5 | [#ccfc84](http://twitter.com/search?q=%23ccfc84) | N/A |
-| 6 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 7 | [DJ Carey](http://twitter.com/search?q=DJ+Carey) | N/A |
-| 8 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 3 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 4 | [#ccfc84](http://twitter.com/search?q=%23ccfc84) | N/A |
+| 5 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 6 | [DJ Carey](http://twitter.com/search?q=DJ+Carey) | N/A |
+| 7 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 8 | [#greatestleagueintheworld](http://twitter.com/search?q=%23greatestleagueintheworld) | N/A |
 | 9 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 10 | [Jarlath Burns](http://twitter.com/search?q=Jarlath+Burns) | N/A |
 | 11 | [Ospreys](http://twitter.com/search?q=Ospreys) | Ospreys are large birds of prey that are found on every continent except Antarctica. They have a distinctive black and white plumage, long wings, and a hooked beak. Ospreys feed mainly on fish, which they catch by swooping down from the air and grabbing them with their talons. The name "osprey" comes from the Latin words for "bird of prey". |
 | 12 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
-| 13 | [€9.5m AIB](http://twitter.com/search?q=%e2%82%ac9.5m+AIB) | N/A |
+| 13 | [€9.5m aib](http://twitter.com/search?q=%e2%82%ac9.5m+aib) | N/A |
 | 14 | [richmond park](http://twitter.com/search?q=richmond+park) | N/A |
-| 15 | [premier division](http://twitter.com/search?q=premier+division) | N/A |
+| 15 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
 | 16 | [League of Ireland](http://twitter.com/search?q=League+of+Ireland) | N/A |
 | 17 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 18 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Ireland](</Ireland>)
 | 38 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
 | 39 | [cobh ramblers](http://twitter.com/search?q=cobh+ramblers) | N/A |
 | 40 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 41 | [Frisch](http://twitter.com/search?q=Frisch) | N/A |
-| 42 | [Ulster](http://twitter.com/search?q=Ulster) | N/A |
-| 43 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
-| 44 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 45 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 46 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 48 | [Declan Devine](http://twitter.com/search?q=Declan+Devine) | N/A |
-| 49 | [harps](http://twitter.com/search?q=harps) | N/A |
-| 50 | [Christy Moore](http://twitter.com/search?q=Christy+Moore) | N/A |
+| 41 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 42 | [Frisch](http://twitter.com/search?q=Frisch) | N/A |
+| 43 | [Ulster](http://twitter.com/search?q=Ulster) | N/A |
+| 44 | [croke park](http://twitter.com/search?q=croke+park) | N/A |
+| 45 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 46 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 47 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 49 | [Declan Devine](http://twitter.com/search?q=Declan+Devine) | N/A |
+| 50 | [Harps](http://twitter.com/search?q=Harps) | N/A |
 
 
 

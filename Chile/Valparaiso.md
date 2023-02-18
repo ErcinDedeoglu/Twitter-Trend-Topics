@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-18 05:15:54 UTC`
+📆 Last Updated: `2023-02-18 06:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [#NocheCero](http://twitter.com/search?q=%23NocheCero) | N/A |
 | 2 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
 | 3 | [Luli](http://twitter.com/search?q=Luli) | N/A |
-| 4 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
-| 5 | [#GALA](http://twitter.com/search?q=%23GALA) | N/A |
-| 6 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 7 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
-| 8 | [Vesta](http://twitter.com/search?q=Vesta) | N/A |
-| 9 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 10 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
+| 4 | [#GALA](http://twitter.com/search?q=%23GALA) | N/A |
+| 5 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
+| 6 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
+| 7 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 8 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 9 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
+| 10 | [Vesta](http://twitter.com/search?q=Vesta) | N/A |
 | 11 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 12 | [Loreto Aravena](http://twitter.com/search?q=Loreto+Aravena) | N/A |
-| 13 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
+| 12 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
+| 13 | [Loreto Aravena](http://twitter.com/search?q=Loreto+Aravena) | N/A |
 | 14 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
 | 15 | [Daniela Chávez](http://twitter.com/search?q=Daniela+Ch%c3%a1vez) | N/A |
-| 16 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 17 | [LOU LEE](http://twitter.com/search?q=LOU+LEE) | N/A |
+| 16 | [LOU LEE](http://twitter.com/search?q=LOU+LEE) | N/A |
+| 17 | [alba](http://twitter.com/search?q=alba) | N/A |
 | 18 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
-| 19 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 19 | [#Coronel](http://twitter.com/search?q=%23Coronel) | N/A |
 | 20 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
 | 21 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 22 | [Power Peralta](http://twitter.com/search?q=Power+Peralta) | N/A |
-| 23 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 24 | [#Coronel](http://twitter.com/search?q=%23Coronel) | N/A |
-| 25 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 22 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 23 | [Power Peralta](http://twitter.com/search?q=Power+Peralta) | N/A |
+| 24 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 25 | [Diana](http://twitter.com/search?q=Diana) | N/A |
 | 26 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
-| 27 | [Kika](http://twitter.com/search?q=Kika) | N/A |
-| 28 | [Eugenia Lemos](http://twitter.com/search?q=Eugenia+Lemos) | N/A |
-| 29 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
-| 30 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
-| 31 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
-| 32 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 33 | [#SDCL](http://twitter.com/search?q=%23SDCL) | N/A |
-| 34 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
-| 35 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
-| 36 | [Marlen](http://twitter.com/search?q=Marlen) | N/A |
-| 37 | [Cote López](http://twitter.com/search?q=Cote+L%c3%b3pez) | N/A |
-| 38 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
-| 39 | [Karen Paola](http://twitter.com/search?q=Karen+Paola) | N/A |
-| 40 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
-| 41 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 42 | [Polima](http://twitter.com/search?q=Polima) | N/A |
-| 43 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
-| 44 | [Blanca Lewin](http://twitter.com/search?q=Blanca+Lewin) | N/A |
-| 45 | [Briones](http://twitter.com/search?q=Briones) | N/A |
-| 46 | [Colombiano](http://twitter.com/search?q=Colombiano) | N/A |
-| 47 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 48 | [Belén Soto](http://twitter.com/search?q=Bel%c3%a9n+Soto) | N/A |
-| 49 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 50 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 27 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
+| 28 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
+| 29 | [pancho saavedra](http://twitter.com/search?q=pancho+saavedra) | N/A |
+| 30 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
+| 31 | [Eugenia Lemos](http://twitter.com/search?q=Eugenia+Lemos) | N/A |
+| 32 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
+| 33 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
+| 34 | [Polima](http://twitter.com/search?q=Polima) | N/A |
+| 35 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
+| 36 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
+| 37 | [Colombiano](http://twitter.com/search?q=Colombiano) | N/A |
+| 38 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
+| 39 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 40 | [Pancha Merino](http://twitter.com/search?q=Pancha+Merino) | N/A |
+| 41 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 42 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 43 | [Cecilia](http://twitter.com/search?q=Cecilia) | Cecilia is a female given name of Latin origin, derived from the word caecus, meaning “blind”. It is also the name of a saint in the Catholic Church. The name has been popular in Europe since the Middle Ages and is now common throughout the world. |
+| 44 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 45 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 46 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 47 | [Mary Rose](http://twitter.com/search?q=Mary+Rose) | N/A |
+| 48 | [Regia](http://twitter.com/search?q=Regia) | N/A |
+| 49 | [mino](http://twitter.com/search?q=mino) | N/A |
+| 50 | [Tonkita](http://twitter.com/search?q=Tonkita) | N/A |
 
 
 
