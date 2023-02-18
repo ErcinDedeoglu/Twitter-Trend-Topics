@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-18 02:38:05 UTC`
+📆 Last Updated: `2023-02-18 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 2 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 5 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 6 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 7 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
-| 8 | [#GrahamNorton](http://twitter.com/search?q=%23GrahamNorton) | N/A |
+| 2 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 3 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 6 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 7 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 8 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
 | 9 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 10 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 11 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 12 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 13 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 14 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 11 | [#deathinparadise](http://twitter.com/search?q=%23deathinparadise) | N/A |
+| 12 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 13 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 14 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
 | 15 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 16 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 16 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 18 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
-| 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 21 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 22 | [Ince](http://twitter.com/search?q=Ince) | N/A |
+| 18 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 19 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
+| 20 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
 | 23 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 24 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 25 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
-| 26 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
-| 27 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 28 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 29 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 30 | [Jarlath](http://twitter.com/search?q=Jarlath) | N/A |
-| 31 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 32 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 35 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 36 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 37 | [Hugh Jackman](http://twitter.com/search?q=Hugh+Jackman) | N/A |
-| 38 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 39 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 40 | [Jaws](http://twitter.com/search?q=Jaws) | N/A |
-| 41 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 42 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 43 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 44 | [Ulster](http://twitter.com/search?q=Ulster) | N/A |
-| 45 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 46 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 47 | [#deathinparadise](http://twitter.com/search?q=%23deathinparadise) | N/A |
-| 48 | [#larrytakeover](http://twitter.com/search?q=%23larrytakeover) | N/A |
-| 49 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 50 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 24 | [Ince](http://twitter.com/search?q=Ince) | N/A |
+| 25 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 26 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 27 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 28 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
+| 29 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 33 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 34 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 35 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 36 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 37 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 38 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
+| 39 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 40 | [#larrytakeover](http://twitter.com/search?q=%23larrytakeover) | N/A |
+| 41 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 42 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 43 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 44 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 45 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 46 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 47 | [#Nighthawk](http://twitter.com/search?q=%23Nighthawk) | N/A |
+| 48 | [#Bluebirds](http://twitter.com/search?q=%23Bluebirds) | N/A |
+| 49 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 50 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
 
 
 

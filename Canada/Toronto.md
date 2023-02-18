@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-18 02:38:03 UTC`
+📆 Last Updated: `2023-02-18 03:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 2 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 3 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 4 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
-| 5 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 6 | [#FORDmustRESIGN](http://twitter.com/search?q=%23FORDmustRESIGN) | N/A |
-| 7 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 10 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 11 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 12 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 13 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 14 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 15 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 16 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 17 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 18 | [Tim Peel](http://twitter.com/search?q=Tim+Peel) | N/A |
-| 19 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 20 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 21 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 1 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 2 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
+| 3 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 7 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 8 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 9 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 11 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 12 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 13 | [Derek Ryan](http://twitter.com/search?q=Derek+Ryan) | N/A |
+| 14 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
+| 15 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 16 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 17 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 18 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 19 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 20 | [Tim Peel](http://twitter.com/search?q=Tim+Peel) | N/A |
+| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 22 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 23 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 24 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 25 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 26 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 23 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 24 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 25 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 26 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
 | 27 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 28 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
-| 29 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 30 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 31 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 32 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 33 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 34 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
-| 35 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 36 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 37 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
-| 38 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
-| 39 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 40 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 41 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
-| 42 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 43 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
-| 44 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
-| 45 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 28 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 29 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 30 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
+| 31 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 32 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 33 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 34 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 35 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 36 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 37 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 38 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 39 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 40 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 41 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 42 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
+| 43 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 44 | [#Trudeauwasright](http://twitter.com/search?q=%23Trudeauwasright) | N/A |
+| 45 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 46 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 47 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 48 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
+| 49 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 50 | [#FreeDumbConvoy](http://twitter.com/search?q=%23FreeDumbConvoy) | N/A |
 
 
 

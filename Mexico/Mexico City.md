@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-18 02:38:08 UTC`
+📆 Last Updated: `2023-02-18 03:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
-| 2 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 4 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 5 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
-| 6 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 7 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
-| 8 | [#차은우_1위보이그룹개인브랜드_축하해요](http://twitter.com/search?q=%23%ec%b0%a8%ec%9d%80%ec%9a%b0_1%ec%9c%84%eb%b3%b4%ec%9d%b4%ea%b7%b8%eb%a3%b9%ea%b0%9c%ec%9d%b8%eb%b8%8c%eb%9e%9c%eb%93%9c_%ec%b6%95%ed%95%98%ed%95%b4%ec%9a%94) | N/A |
-| 9 | [#CHAEUNWOO_No1MALEIDOL](http://twitter.com/search?q=%23CHAEUNWOO_No1MALEIDOL) | N/A |
-| 10 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 11 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 12 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 13 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 14 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 15 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 16 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 17 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 18 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 19 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 20 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 21 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 22 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 23 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 24 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 25 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 28 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 29 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 30 | [Ormeño](http://twitter.com/search?q=Orme%c3%b1o) | N/A |
-| 31 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 1 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 2 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 3 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
+| 4 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 5 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 8 | [#PorLaSupervivencia](http://twitter.com/search?q=%23PorLaSupervivencia) | N/A |
+| 9 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
+| 10 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 11 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 12 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
+| 13 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 14 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 15 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 16 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 17 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 18 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 19 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
+| 20 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 21 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 22 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 23 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 24 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 25 | [Cota](http://twitter.com/search?q=Cota) | N/A |
+| 26 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 27 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 28 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 29 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 30 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 32 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 33 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 34 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
-| 35 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 36 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 37 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 38 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 39 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 40 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 41 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 42 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
-| 43 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 44 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
-| 45 | [#FuerzaJJ](http://twitter.com/search?q=%23FuerzaJJ) | N/A |
-| 46 | [#SheIsBeautyWeAreWorldClass](http://twitter.com/search?q=%23SheIsBeautyWeAreWorldClass) | N/A |
-| 47 | [#YasminEsquivelPlagiadora](http://twitter.com/search?q=%23YasminEsquivelPlagiadora) | N/A |
-| 48 | [#viernesdebonosplaydoit](http://twitter.com/search?q=%23viernesdebonosplaydoit) | N/A |
-| 49 | [#HappyHobiDay](http://twitter.com/search?q=%23HappyHobiDay) | N/A |
-| 50 | [#Tesla](http://twitter.com/search?q=%23Tesla) | N/A |
+| 33 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 34 | [Ormeño](http://twitter.com/search?q=Orme%c3%b1o) | N/A |
+| 35 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 36 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 37 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
+| 38 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 39 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 40 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
+| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 42 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 43 | [#차은우_1위보이그룹개인브랜드_축하해요](http://twitter.com/search?q=%23%ec%b0%a8%ec%9d%80%ec%9a%b0_1%ec%9c%84%eb%b3%b4%ec%9d%b4%ea%b7%b8%eb%a3%b9%ea%b0%9c%ec%9d%b8%eb%b8%8c%eb%9e%9c%eb%93%9c_%ec%b6%95%ed%95%98%ed%95%b4%ec%9a%94) | N/A |
+| 44 | [#CHAEUNWOO_No1MALEIDOL](http://twitter.com/search?q=%23CHAEUNWOO_No1MALEIDOL) | N/A |
+| 45 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 46 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 47 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 48 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 49 | [#FuerzaJJ](http://twitter.com/search?q=%23FuerzaJJ) | N/A |
+| 50 | [#JefaDeGobierno](http://twitter.com/search?q=%23JefaDeGobierno) | N/A |
 
 
 

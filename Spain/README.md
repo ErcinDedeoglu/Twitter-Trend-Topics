@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-18 02:39:03 UTC`
+📆 Last Updated: `2023-02-18 03:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,44 @@ This is top 50 for Spain
 | 4 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
 | 5 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
 | 6 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
-| 7 | [#Crisporta17F](http://twitter.com/search?q=%23Crisporta17F) | N/A |
-| 8 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 9 | [#LaCiudadInvisible](http://twitter.com/search?q=%23LaCiudadInvisible) | N/A |
-| 10 | [Luis Rivero](http://twitter.com/search?q=Luis+Rivero) | N/A |
-| 11 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
-| 12 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 14 | [Falla](http://twitter.com/search?q=Falla) | N/A |
-| 15 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 16 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 17 | [Los Desgraciaitos](http://twitter.com/search?q=Los+Desgraciaitos) | N/A |
+| 7 | [#LaCiudadInvisible](http://twitter.com/search?q=%23LaCiudadInvisible) | N/A |
+| 8 | [#Crisporta17F](http://twitter.com/search?q=%23Crisporta17F) | N/A |
+| 9 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 10 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 11 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 12 | [Luis Rivero](http://twitter.com/search?q=Luis+Rivero) | N/A |
+| 13 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
+| 14 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 15 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 16 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 18 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 19 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
+| 19 | [Molina](http://twitter.com/search?q=Molina) | N/A |
 | 20 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
 | 21 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 22 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 23 | [Los Esclavos](http://twitter.com/search?q=Los+Esclavos) | N/A |
-| 24 | [La Voz](http://twitter.com/search?q=La+Voz) | N/A |
-| 25 | [Noly](http://twitter.com/search?q=Noly) | N/A |
-| 26 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
-| 27 | [Canal Sur](http://twitter.com/search?q=Canal+Sur) | N/A |
-| 28 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 22 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 23 | [La Voz](http://twitter.com/search?q=La+Voz) | N/A |
+| 24 | [Noly](http://twitter.com/search?q=Noly) | N/A |
+| 25 | [Los Esclavos](http://twitter.com/search?q=Los+Esclavos) | N/A |
+| 26 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 27 | [Cadi](http://twitter.com/search?q=Cadi) | N/A |
+| 28 | [Canal Sur](http://twitter.com/search?q=Canal+Sur) | N/A |
 | 29 | [Selu](http://twitter.com/search?q=Selu) | N/A |
 | 30 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 31 | [Cadi](http://twitter.com/search?q=Cadi) | N/A |
+| 31 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
 | 32 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 33 | [Joventut](http://twitter.com/search?q=Joventut) | N/A |
-| 34 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 35 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 36 | [Penya](http://twitter.com/search?q=Penya) | N/A |
-| 37 | [Rubí](http://twitter.com/search?q=Rub%c3%ad) | N/A |
-| 38 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 39 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 40 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
-| 41 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
-| 42 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 43 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
-| 44 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 45 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 46 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 47 | [#nuevaporta](http://twitter.com/search?q=%23nuevaporta) | N/A |
-| 48 | [#YoMeRebelo18F](http://twitter.com/search?q=%23YoMeRebelo18F) | N/A |
-| 49 | [#Felices29Ana](http://twitter.com/search?q=%23Felices29Ana) | N/A |
-| 50 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 33 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 34 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 35 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
+| 36 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 37 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 38 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
+| 39 | [#YoMeRebelo18F](http://twitter.com/search?q=%23YoMeRebelo18F) | N/A |
+| 40 | [#nuevaporta](http://twitter.com/search?q=%23nuevaporta) | N/A |
+| 41 | [#Felices29Ana](http://twitter.com/search?q=%23Felices29Ana) | N/A |
+| 42 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 43 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 44 | [#ElDesafío6](http://twitter.com/search?q=%23ElDesaf%c3%ado6) | N/A |
 
 
 

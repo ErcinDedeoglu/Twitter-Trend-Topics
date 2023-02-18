@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-18 02:38:14 UTC`
+📆 Last Updated: `2023-02-18 03:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Lapa](http://twitter.com/search?q=Lapa) | N/A |
 | 2 | [rio das ostras](http://twitter.com/search?q=rio+das+ostras) | N/A |
 | 3 | [Otário](http://twitter.com/search?q=Ot%c3%a1rio) | N/A |
-| 4 | [Azul](http://twitter.com/search?q=Azul) | N/A |
-| 5 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 6 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
-| 7 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 8 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 9 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 10 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 11 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
-| 12 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 13 | [#GlobelezaIndependente](http://twitter.com/search?q=%23GlobelezaIndependente) | N/A |
-| 14 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 15 | [Lins Imperial](http://twitter.com/search?q=Lins+Imperial) | N/A |
-| 16 | [Arranco](http://twitter.com/search?q=Arranco) | N/A |
-| 17 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 18 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 19 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 5 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 6 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 7 | [#GlobelezaIndependente](http://twitter.com/search?q=%23GlobelezaIndependente) | N/A |
+| 8 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 9 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 10 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 11 | [Lins](http://twitter.com/search?q=Lins) | N/A |
+| 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 13 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 14 | [Independente Tricolor](http://twitter.com/search?q=Independente+Tricolor) | N/A |
+| 15 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 16 | [CRIS ESTAMOS COM VC](http://twitter.com/search?q=CRIS+ESTAMOS+COM+VC) | N/A |
+| 17 | [Arranco](http://twitter.com/search?q=Arranco) | N/A |
+| 18 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 19 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
 | 20 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 21 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 22 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 23 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 24 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
-| 25 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 26 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
-| 27 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 28 | [Independente Tricolor](http://twitter.com/search?q=Independente+Tricolor) | N/A |
-| 29 | [Zatanna](http://twitter.com/search?q=Zatanna) | N/A |
-| 30 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 31 | [AI PRETO](http://twitter.com/search?q=AI+PRETO) | AI PRETO is a Portuguese phrase meaning "the black one". It is often used to refer to a person of African descent. |
-| 32 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
-| 33 | [Coitada da Aline](http://twitter.com/search?q=Coitada+da+Aline) | N/A |
-| 34 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
-| 35 | [Madame Satã](http://twitter.com/search?q=Madame+Sat%c3%a3) | N/A |
-| 36 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 37 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
-| 38 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 39 | [oliver tree](http://twitter.com/search?q=oliver+tree) | N/A |
-| 40 | [Marcos Felipe](http://twitter.com/search?q=Marcos+Felipe) | N/A |
-| 41 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 42 | [Engenho de Dentro](http://twitter.com/search?q=Engenho+de+Dentro) | N/A |
-| 43 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
-| 44 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
-| 45 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 46 | [Atlético de Alagoinhas](http://twitter.com/search?q=Atl%c3%a9tico+de+Alagoinhas) | N/A |
-| 47 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
-| 48 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 49 | [Rodrigo Bocardi](http://twitter.com/search?q=Rodrigo+Bocardi) | N/A |
-| 50 | [Chico Pinheiro](http://twitter.com/search?q=Chico+Pinheiro) | N/A |
+| 21 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 22 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 23 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 24 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 25 | [Zatanna](http://twitter.com/search?q=Zatanna) | N/A |
+| 26 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
+| 27 | [Caetano Veloso](http://twitter.com/search?q=Caetano+Veloso) | N/A |
+| 28 | [Madame Satã](http://twitter.com/search?q=Madame+Sat%c3%a3) | N/A |
+| 29 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 30 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 31 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 32 | [Rodrigo Bocardi](http://twitter.com/search?q=Rodrigo+Bocardi) | N/A |
+| 33 | [AI PRETO](http://twitter.com/search?q=AI+PRETO) | AI PRETO is a Portuguese phrase meaning "the black one". It is often used to refer to a person of African descent. |
+| 34 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 35 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 36 | [Demétrio](http://twitter.com/search?q=Dem%c3%a9trio) | Demétrio is a Portuguese name derived from the Greek name Demetrius, which means “lover of the earth” or “follower of Demeter” (the Greek goddess of agriculture). In English, it is sometimes spelled Demetrius. |
+| 37 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 38 | [Chico Pinheiro](http://twitter.com/search?q=Chico+Pinheiro) | N/A |
+| 39 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
+| 40 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 41 | [Coitada da Aline](http://twitter.com/search?q=Coitada+da+Aline) | N/A |
+| 42 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
+| 43 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
+| 44 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 45 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 46 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 47 | [oliver tree](http://twitter.com/search?q=oliver+tree) | N/A |
+| 48 | [Marcos Felipe](http://twitter.com/search?q=Marcos+Felipe) | N/A |
+| 49 | [Ipatinga](http://twitter.com/search?q=Ipatinga) | N/A |
+| 50 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
 
 
 

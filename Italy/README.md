@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-18 02:38:59 UTC`
+📆 Last Updated: `2023-02-18 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Italy
 | 10 | [Giordano Bruno](http://twitter.com/search?q=Giordano+Bruno) | N/A |
 | 11 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 12 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 13 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
-| 14 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 15 | [Gedi](http://twitter.com/search?q=Gedi) | N/A |
-| 16 | [Consigli](http://twitter.com/search?q=Consigli) | N/A |
+| 13 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 14 | [Gedi](http://twitter.com/search?q=Gedi) | N/A |
+| 15 | [Consigli](http://twitter.com/search?q=Consigli) | N/A |
+| 16 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 17 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 19 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 20 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 21 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 22 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 23 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 24 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 25 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 26 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 27 | [Delmastro](http://twitter.com/search?q=Delmastro) | N/A |
-| 28 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 29 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 30 | [L'arbitro](http://twitter.com/search?q=L%27arbitro) | N/A |
-| 31 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 32 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 33 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 34 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 35 | [Wawrinka](http://twitter.com/search?q=Wawrinka) | N/A |
-| 36 | [Giovanni Rana](http://twitter.com/search?q=Giovanni+Rana) | N/A |
-| 37 | [jore](http://twitter.com/search?q=jore) | N/A |
-| 38 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 18 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 19 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 20 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 21 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 22 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 23 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 24 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 25 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 27 | [L'arbitro](http://twitter.com/search?q=L%27arbitro) | N/A |
+| 28 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 29 | [Delmastro](http://twitter.com/search?q=Delmastro) | N/A |
+| 30 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 31 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 32 | [Wawrinka](http://twitter.com/search?q=Wawrinka) | N/A |
+| 33 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 34 | [Giovanni Rana](http://twitter.com/search?q=Giovanni+Rana) | N/A |
+| 35 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 36 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 37 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 38 | [jore](http://twitter.com/search?q=jore) | N/A |
 | 39 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 40 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 41 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 42 | [Faraone](http://twitter.com/search?q=Faraone) | N/A |
-| 43 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 44 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 45 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 46 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 47 | [Giannino](http://twitter.com/search?q=Giannino) | N/A |
-| 48 | [Cesenatico](http://twitter.com/search?q=Cesenatico) | N/A |
-| 49 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 50 | [Kubra](http://twitter.com/search?q=Kubra) | N/A |
+| 40 | [Faraone](http://twitter.com/search?q=Faraone) | N/A |
+| 41 | [Giannino](http://twitter.com/search?q=Giannino) | N/A |
+| 42 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
+| 43 | [Cesenatico](http://twitter.com/search?q=Cesenatico) | N/A |
+| 44 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 45 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 46 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 47 | [Schifoso](http://twitter.com/search?q=Schifoso) | N/A |
+| 48 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 49 | [Dany](http://twitter.com/search?q=Dany) | N/A |
+| 50 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
 
 
 
