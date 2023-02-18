@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-18 01:44:20 UTC`
+📆 Last Updated: `2023-02-18 02:38:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Konya](http://twitter.com/search?q=%23Konya) | N/A |
-| 2 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 3 | [#balıkesir](http://twitter.com/search?q=%23bal%c4%b1kesir) | N/A |
-| 4 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 5 | [Panter](http://twitter.com/search?q=Panter) | N/A |
-| 6 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 7 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 8 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
-| 9 | [Sönmez](http://twitter.com/search?q=S%c3%b6nmez) | N/A |
-| 10 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
-| 11 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 12 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 13 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 14 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 15 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 16 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 17 | [Tuzla](http://twitter.com/search?q=Tuzla) | N/A |
-| 18 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
-| 19 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
-| 20 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 21 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 22 | [Alın](http://twitter.com/search?q=Al%c4%b1n) | N/A |
-| 23 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
-| 24 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 25 | [Kandil](http://twitter.com/search?q=Kandil) | N/A |
-| 26 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
-| 27 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 28 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 29 | [Kartal](http://twitter.com/search?q=Kartal) | N/A |
-| 30 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 31 | [Askim](http://twitter.com/search?q=Askim) | N/A |
-| 32 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 33 | [#Benidenotedin](http://twitter.com/search?q=%23Benidenotedin) | N/A |
-| 34 | [#denizakkaya](http://twitter.com/search?q=%23denizakkaya) | N/A |
-| 35 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 36 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
-| 37 | [#Miracgecemiz](http://twitter.com/search?q=%23Miracgecemiz) | N/A |
-| 38 | [#BingölAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Bing%c3%b6lAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
-| 39 | [#KademeliPrimİstemiyoruz](http://twitter.com/search?q=%23KademeliPrim%c4%b0stemiyoruz) | N/A |
-| 40 | [#DepremCocuklarıGuevendemi](http://twitter.com/search?q=%23DepremCocuklar%c4%b1Guevendemi) | N/A |
-| 41 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 42 | [#kismetseolur](http://twitter.com/search?q=%23kismetseolur) | N/A |
-| 43 | [#uygulamalı](http://twitter.com/search?q=%23uygulamal%c4%b1) | N/A |
+| 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
+| 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
+| 3 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 4 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 5 | [#Konya](http://twitter.com/search?q=%23Konya) | N/A |
+| 6 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 7 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 8 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 9 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 10 | [flokigrow](http://twitter.com/search?q=flokigrow) | N/A |
+| 11 | [hamitduras bilenkazanırda](http://twitter.com/search?q=hamitduras+bilenkazan%c4%b1rda) | N/A |
+| 12 | [fırsatçı prefabrikçiler](http://twitter.com/search?q=f%c4%b1rsat%c3%a7%c4%b1+prefabrik%c3%a7iler) | N/A |
+| 13 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 14 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 15 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 16 | [cumamız](http://twitter.com/search?q=cumam%c4%b1z) | N/A |
+| 17 | [birlikte aşacağız](http://twitter.com/search?q=birlikte+a%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 18 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 19 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 20 | [ahlaksız davutoğlu](http://twitter.com/search?q=ahlaks%c4%b1z+davuto%c4%9flu) | N/A |
+| 21 | [başarılar trabzonspor](http://twitter.com/search?q=ba%c5%9far%c4%b1lar+trabzonspor) | N/A |
+| 22 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 23 | [Panter](http://twitter.com/search?q=Panter) | N/A |
+| 24 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
+| 25 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 26 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
+| 27 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
+| 28 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
+| 29 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
+| 30 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 31 | [Muhittin Kapanşahin](http://twitter.com/search?q=Muhittin+Kapan%c5%9fahin) | N/A |
+| 32 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 33 | [Sönmez](http://twitter.com/search?q=S%c3%b6nmez) | N/A |
+| 34 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 35 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
+| 36 | [erol özvar](http://twitter.com/search?q=erol+%c3%b6zvar) | N/A |
+| 37 | [Namaza](http://twitter.com/search?q=Namaza) | N/A |
+| 38 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
+| 39 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
+| 40 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 41 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 42 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
+| 43 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
+| 44 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 45 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
+| 46 | [Alper Bahadır](http://twitter.com/search?q=Alper+Bahad%c4%b1r) | N/A |
+| 47 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
+| 48 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 49 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 50 | [İstiklal](http://twitter.com/search?q=%c4%b0stiklal) | N/A |
 
 
 

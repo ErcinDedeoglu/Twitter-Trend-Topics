@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-02-18 01:44:23 UTC`
+📆 Last Updated: `2023-02-18 02:38:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 2 | [#MCPhilly](http://twitter.com/search?q=%23MCPhilly) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 5 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 6 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 7 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 8 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
-| 9 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 10 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 11 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
-| 12 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 13 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 14 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
-| 15 | [Carlos Boozer](http://twitter.com/search?q=Carlos+Boozer) | N/A |
-| 16 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
-| 17 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 18 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 19 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
-| 20 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
-| 21 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 22 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
-| 23 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 24 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 25 | [Marc Davis](http://twitter.com/search?q=Marc+Davis) | N/A |
-| 26 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 27 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 28 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 29 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
-| 30 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 31 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 32 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 33 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 34 | [Kellie Pickler](http://twitter.com/search?q=Kellie+Pickler) | N/A |
-| 35 | [Megatron](http://twitter.com/search?q=Megatron) | N/A |
-| 36 | [Celebrity Game](http://twitter.com/search?q=Celebrity+Game) | N/A |
-| 37 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 38 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
-| 39 | [Deegan](http://twitter.com/search?q=Deegan) | N/A |
-| 40 | [Calvin Johnson](http://twitter.com/search?q=Calvin+Johnson) | N/A |
-| 41 | [Chris Tucker](http://twitter.com/search?q=Chris+Tucker) | N/A |
-| 42 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 43 | [Anders Lee](http://twitter.com/search?q=Anders+Lee) | N/A |
-| 44 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 45 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 46 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 47 | [Kyle Jacobs](http://twitter.com/search?q=Kyle+Jacobs) | N/A |
-| 48 | [Jesser](http://twitter.com/search?q=Jesser) | N/A |
-| 49 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
-| 50 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 1 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 2 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 3 | [#MCPhilly](http://twitter.com/search?q=%23MCPhilly) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 7 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
+| 8 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 9 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 10 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 11 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 12 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 13 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 14 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 15 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
+| 16 | [DWade](http://twitter.com/search?q=DWade) | N/A |
+| 17 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
+| 18 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
+| 19 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 20 | [Carlos Boozer](http://twitter.com/search?q=Carlos+Boozer) | N/A |
+| 21 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 22 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
+| 23 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 24 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 25 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 26 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 27 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 28 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 29 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 30 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
+| 31 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
+| 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 33 | [Fat Joe](http://twitter.com/search?q=Fat+Joe) | N/A |
+| 34 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 35 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 36 | [Kellie Pickler](http://twitter.com/search?q=Kellie+Pickler) | N/A |
+| 37 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 38 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 39 | [Marc Davis](http://twitter.com/search?q=Marc+Davis) | N/A |
+| 40 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 41 | [Hagen Smith](http://twitter.com/search?q=Hagen+Smith) | N/A |
+| 42 | [Friesen](http://twitter.com/search?q=Friesen) | N/A |
+| 43 | [Kyle Jacobs](http://twitter.com/search?q=Kyle+Jacobs) | N/A |
+| 44 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 45 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 46 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 47 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 48 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 49 | [Ariel Helwani](http://twitter.com/search?q=Ariel+Helwani) | N/A |
+| 50 | [Jesser](http://twitter.com/search?q=Jesser) | N/A |
 
 
 

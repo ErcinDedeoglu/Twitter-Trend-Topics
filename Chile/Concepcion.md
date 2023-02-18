@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-18 01:43:47 UTC`
+📆 Last Updated: `2023-02-18 02:38:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NocheCero](http://twitter.com/search?q=%23NocheCero) | N/A |
-| 2 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 3 | [#galavina2023](http://twitter.com/search?q=%23galavina2023) | N/A |
-| 4 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 5 | [#Tonkita](http://twitter.com/search?q=%23Tonkita) | N/A |
-| 6 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 7 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 8 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
-| 9 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
-| 10 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 11 | [#SMAvsIQUIxTNTSports](http://twitter.com/search?q=%23SMAvsIQUIxTNTSports) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 14 | [Francesco](http://twitter.com/search?q=Francesco) | N/A |
-| 15 | [Yamila Reyna](http://twitter.com/search?q=Yamila+Reyna) | N/A |
-| 16 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 17 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 18 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 19 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 20 | [Merlina](http://twitter.com/search?q=Merlina) | N/A |
-| 21 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
-| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 23 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 24 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 25 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
-| 26 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 27 | [Cisjordania](http://twitter.com/search?q=Cisjordania) | N/A |
-| 28 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
-| 29 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 30 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
-| 31 | [Armada](http://twitter.com/search?q=Armada) | N/A |
-| 32 | [Bizarro](http://twitter.com/search?q=Bizarro) | N/A |
-| 33 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 34 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 35 | [Guante](http://twitter.com/search?q=Guante) | N/A |
-| 36 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 37 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 38 | [Zapallar](http://twitter.com/search?q=Zapallar) | N/A |
-| 39 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 40 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 41 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
-| 42 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 43 | [Santa Laura](http://twitter.com/search?q=Santa+Laura) | Santa Laura is a traditional Chilean folk song that tells the story of a young girl who falls in love with a soldier. The song's title refers to the name of the girl, Santa Laura. In English, the title translates to "Saint Laura". |
-| 44 | [Patagual](http://twitter.com/search?q=Patagual) | N/A |
-| 45 | [Felipe Bulnes](http://twitter.com/search?q=Felipe+Bulnes) | N/A |
-| 46 | [Cochamó](http://twitter.com/search?q=Cocham%c3%b3) | N/A |
-| 47 | [Garate](http://twitter.com/search?q=Garate) | N/A |
-| 48 | [Aníbal Palma](http://twitter.com/search?q=An%c3%adbal+Palma) | N/A |
-| 49 | [Princesa Alba](http://twitter.com/search?q=Princesa+Alba) | N/A |
-| 50 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
+| 2 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
+| 3 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 4 | [#galavina2023](http://twitter.com/search?q=%23galavina2023) | N/A |
+| 5 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 6 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 7 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 8 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
+| 9 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
+| 10 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
+| 11 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
+| 12 | [Cote López](http://twitter.com/search?q=Cote+L%c3%b3pez) | N/A |
+| 13 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
+| 14 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
+| 15 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
+| 16 | [Federico Sánchez](http://twitter.com/search?q=Federico+S%c3%a1nchez) | N/A |
+| 17 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 18 | [Marlen](http://twitter.com/search?q=Marlen) | N/A |
+| 19 | [Pancha Merino](http://twitter.com/search?q=Pancha+Merino) | N/A |
+| 20 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
+| 21 | [Mary Rose](http://twitter.com/search?q=Mary+Rose) | N/A |
+| 22 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
+| 23 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
+| 24 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 25 | [Matías Assler](http://twitter.com/search?q=Mat%c3%adas+Assler) | N/A |
+| 26 | [#Tonkita](http://twitter.com/search?q=%23Tonkita) | N/A |
+| 27 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
+| 28 | [Blanca Lewin](http://twitter.com/search?q=Blanca+Lewin) | N/A |
+| 29 | [Colombiano](http://twitter.com/search?q=Colombiano) | N/A |
+| 30 | [Ivette](http://twitter.com/search?q=Ivette) | N/A |
+| 31 | [Flor de Rap](http://twitter.com/search?q=Flor+de+Rap) | N/A |
+| 32 | [#SMAvsIQUIxTNTSports](http://twitter.com/search?q=%23SMAvsIQUIxTNTSports) | N/A |
+| 33 | [Polima](http://twitter.com/search?q=Polima) | N/A |
+| 34 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
+| 35 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 36 | [Chico Eléctrico](http://twitter.com/search?q=Chico+El%c3%a9ctrico) | N/A |
+| 37 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
+| 38 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 39 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 40 | [Yamila Reyna](http://twitter.com/search?q=Yamila+Reyna) | N/A |
+| 41 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
+| 42 | [Regia](http://twitter.com/search?q=Regia) | N/A |
+| 43 | [Estupenda](http://twitter.com/search?q=Estupenda) | N/A |
+| 44 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 45 | [mino](http://twitter.com/search?q=mino) | N/A |
+| 46 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 47 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 48 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 49 | [#Canal13](http://twitter.com/search?q=%23Canal13) | N/A |
 
 
 

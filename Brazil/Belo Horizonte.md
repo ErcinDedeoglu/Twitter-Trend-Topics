@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-18 01:43:50 UTC`
+📆 Last Updated: `2023-02-18 02:38:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ipatinga](http://twitter.com/search?q=Ipatinga) | N/A |
-| 2 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 3 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 4 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 5 | [Arranco](http://twitter.com/search?q=Arranco) | N/A |
-| 6 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 7 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 8 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 9 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 11 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
-| 12 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 13 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 14 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 1 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 2 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 3 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 4 | [#GlobelezaIndependente](http://twitter.com/search?q=%23GlobelezaIndependente) | N/A |
+| 5 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 6 | [Lins Imperial](http://twitter.com/search?q=Lins+Imperial) | N/A |
+| 7 | [Arranco](http://twitter.com/search?q=Arranco) | N/A |
+| 8 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 10 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 11 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 12 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 13 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 14 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
 | 15 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 16 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
-| 17 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
-| 18 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
-| 19 | [Engenho de Dentro](http://twitter.com/search?q=Engenho+de+Dentro) | N/A |
-| 20 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
-| 21 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
-| 22 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 23 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 24 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 25 | [Borel](http://twitter.com/search?q=Borel) | N/A |
-| 26 | [O Itaú](http://twitter.com/search?q=O+Ita%c3%ba) | N/A |
-| 27 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
-| 28 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 29 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
-| 30 | [Guida](http://twitter.com/search?q=Guida) | N/A |
-| 31 | [CRB x Ceará](http://twitter.com/search?q=CRB+x+Cear%c3%a1) | N/A |
-| 32 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 33 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
-| 34 | [Kayky](http://twitter.com/search?q=Kayky) | N/A |
-| 35 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
-| 36 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 37 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 38 | [Raul Gustavo](http://twitter.com/search?q=Raul+Gustavo) | N/A |
-| 39 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 40 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
-| 41 | [Chrystian Barletta](http://twitter.com/search?q=Chrystian+Barletta) | N/A |
-| 42 | [Cloroquina](http://twitter.com/search?q=Cloroquina) | N/A |
-| 43 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 44 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
-| 45 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 46 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 47 | [General Heleno](http://twitter.com/search?q=General+Heleno) | N/A |
-| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 49 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 50 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 16 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
+| 17 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 18 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 19 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 20 | [Zatanna](http://twitter.com/search?q=Zatanna) | N/A |
+| 21 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 22 | [Independente Tricolor](http://twitter.com/search?q=Independente+Tricolor) | N/A |
+| 23 | [AI PRETO](http://twitter.com/search?q=AI+PRETO) | AI PRETO is a Portuguese phrase meaning "the black one". It is often used to refer to a person of African descent. |
+| 24 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 25 | [Coitada da Aline](http://twitter.com/search?q=Coitada+da+Aline) | N/A |
+| 26 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 27 | [Madame Satã](http://twitter.com/search?q=Madame+Sat%c3%a3) | N/A |
+| 28 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 29 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
+| 30 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 31 | [oliver tree](http://twitter.com/search?q=oliver+tree) | N/A |
+| 32 | [Marcos Felipe](http://twitter.com/search?q=Marcos+Felipe) | N/A |
+| 33 | [Engenho de Dentro](http://twitter.com/search?q=Engenho+de+Dentro) | N/A |
+| 34 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 35 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
+| 36 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
+| 37 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 38 | [Atlético de Alagoinhas](http://twitter.com/search?q=Atl%c3%a9tico+de+Alagoinhas) | N/A |
+| 39 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 40 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 41 | [Rodrigo Bocardi](http://twitter.com/search?q=Rodrigo+Bocardi) | N/A |
+| 42 | [Chico Pinheiro](http://twitter.com/search?q=Chico+Pinheiro) | N/A |
+| 43 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 44 | [Carnaval de SP](http://twitter.com/search?q=Carnaval+de+SP) | N/A |
+| 45 | [Carnaval de São Paulo](http://twitter.com/search?q=Carnaval+de+S%c3%a3o+Paulo) | N/A |
+| 46 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 47 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 48 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 49 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 50 | [O Itaú](http://twitter.com/search?q=O+Ita%c3%ba) | N/A |
 
 
 

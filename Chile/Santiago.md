@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-18 01:43:47 UTC`
+📆 Last Updated: `2023-02-18 02:38:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NocheCero](http://twitter.com/search?q=%23NocheCero) | N/A |
-| 2 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 3 | [#galavina2023](http://twitter.com/search?q=%23galavina2023) | N/A |
-| 4 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 5 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 6 | [#tonkita](http://twitter.com/search?q=%23tonkita) | N/A |
-| 7 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 8 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 9 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
-| 10 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
-| 13 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 14 | [Francesco](http://twitter.com/search?q=Francesco) | N/A |
-| 15 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 16 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 17 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 18 | [Merlina](http://twitter.com/search?q=Merlina) | N/A |
-| 19 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 20 | [Yamila](http://twitter.com/search?q=Yamila) | N/A |
-| 21 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
-| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 23 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 24 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
-| 25 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 26 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
-| 27 | [Neruda](http://twitter.com/search?q=Neruda) | N/A |
-| 28 | [Cisjordania](http://twitter.com/search?q=Cisjordania) | N/A |
-| 29 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
-| 30 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 31 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
-| 32 | [Armada](http://twitter.com/search?q=Armada) | N/A |
-| 33 | [Bizarro](http://twitter.com/search?q=Bizarro) | N/A |
-| 34 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 35 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 36 | [Guante](http://twitter.com/search?q=Guante) | N/A |
-| 37 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 38 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 39 | [Zapallar](http://twitter.com/search?q=Zapallar) | N/A |
-| 40 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 41 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 42 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
-| 43 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 44 | [Santa Laura](http://twitter.com/search?q=Santa+Laura) | Santa Laura is a traditional Chilean folk song that tells the story of a young girl who falls in love with a soldier. The song's title refers to the name of the girl, Santa Laura. In English, the title translates to "Saint Laura". |
-| 45 | [Patagual](http://twitter.com/search?q=Patagual) | N/A |
-| 46 | [Felipe Bulnes](http://twitter.com/search?q=Felipe+Bulnes) | N/A |
-| 47 | [Cochamó](http://twitter.com/search?q=Cocham%c3%b3) | N/A |
-| 48 | [Garate](http://twitter.com/search?q=Garate) | N/A |
-| 49 | [Aníbal Palma](http://twitter.com/search?q=An%c3%adbal+Palma) | N/A |
+| 1 | [Unión Española](http://twitter.com/search?q=Uni%c3%b3n+Espa%c3%b1ola) | N/A |
+| 2 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 3 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 4 | [#NocheCero](http://twitter.com/search?q=%23NocheCero) | N/A |
+| 5 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
+| 6 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 7 | [#galavina2023](http://twitter.com/search?q=%23galavina2023) | N/A |
+| 8 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 9 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 11 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
+| 12 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
+| 13 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
+| 14 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
+| 15 | [Cote López](http://twitter.com/search?q=Cote+L%c3%b3pez) | N/A |
+| 16 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
+| 17 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
+| 18 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
+| 19 | [Federico Sánchez](http://twitter.com/search?q=Federico+S%c3%a1nchez) | N/A |
+| 20 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 21 | [Marlen](http://twitter.com/search?q=Marlen) | N/A |
+| 22 | [Pancha Merino](http://twitter.com/search?q=Pancha+Merino) | N/A |
+| 23 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
+| 24 | [Mary Rose](http://twitter.com/search?q=Mary+Rose) | N/A |
+| 25 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
+| 26 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
+| 27 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 28 | [Matías Assler](http://twitter.com/search?q=Mat%c3%adas+Assler) | N/A |
+| 29 | [#Tonkita](http://twitter.com/search?q=%23Tonkita) | N/A |
+| 30 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
+| 31 | [Blanca Lewin](http://twitter.com/search?q=Blanca+Lewin) | N/A |
+| 32 | [Colombiano](http://twitter.com/search?q=Colombiano) | N/A |
+| 33 | [Ivette](http://twitter.com/search?q=Ivette) | N/A |
+| 34 | [Flor de Rap](http://twitter.com/search?q=Flor+de+Rap) | N/A |
+| 35 | [Polima](http://twitter.com/search?q=Polima) | N/A |
+| 36 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
+| 37 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 38 | [Chico Eléctrico](http://twitter.com/search?q=Chico+El%c3%a9ctrico) | N/A |
+| 39 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
+| 40 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 41 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 42 | [Yamila Reyna](http://twitter.com/search?q=Yamila+Reyna) | N/A |
+| 43 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
+| 44 | [Regia](http://twitter.com/search?q=Regia) | N/A |
+| 45 | [Estupenda](http://twitter.com/search?q=Estupenda) | N/A |
+| 46 | [mino](http://twitter.com/search?q=mino) | N/A |
+| 47 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 48 | [#SMAvsIQUIxTNTSports](http://twitter.com/search?q=%23SMAvsIQUIxTNTSports) | N/A |
+| 49 | [#Canal13](http://twitter.com/search?q=%23Canal13) | N/A |
 
 
 
