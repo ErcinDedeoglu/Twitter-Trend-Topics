@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-02-18 06:16:46 UTC`
+📆 Last Updated: `2023-02-18 07:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [nexus](http://twitter.com/search?q=nexus) | N/A |
-| 2 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 3 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 4 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 5 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 6 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 7 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 8 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 9 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 10 | [#PorLaSupervivencia](http://twitter.com/search?q=%23PorLaSupervivencia) | N/A |
-| 11 | [MARIO B X LEON LEIDEN](http://twitter.com/search?q=MARIO+B+X+LEON+LEIDEN) | N/A |
-| 12 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 13 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 14 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
-| 15 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 2 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 3 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 4 | [nexus](http://twitter.com/search?q=nexus) | N/A |
+| 5 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 6 | [MARIO B X LEON LEIDEN](http://twitter.com/search?q=MARIO+B+X+LEON+LEIDEN) | N/A |
+| 7 | [#PorLaSupervivencia](http://twitter.com/search?q=%23PorLaSupervivencia) | N/A |
+| 8 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 9 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 10 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 11 | [#FuneralWaanjai](http://twitter.com/search?q=%23FuneralWaanjai) | N/A |
+| 12 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 13 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 14 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 15 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
 | 16 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 17 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 18 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 19 | [Huiqui](http://twitter.com/search?q=Huiqui) | N/A |
-| 20 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 21 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Goles](http://twitter.com/search?q=Goles) | N/A |
-| 24 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 25 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 26 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 27 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 28 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 29 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 30 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 31 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 32 | [Sierra](http://twitter.com/search?q=Sierra) | N/A |
-| 33 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 34 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 35 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 36 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 37 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 38 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 39 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 40 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 41 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 42 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 43 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 44 | [#LigaMXxESPN](http://twitter.com/search?q=%23LigaMXxESPN) | N/A |
-| 45 | [#FuneralWaanjai](http://twitter.com/search?q=%23FuneralWaanjai) | N/A |
-| 46 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
-| 47 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
-| 48 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 49 | [#차은우_1위보이그룹개인브랜드_축하해요](http://twitter.com/search?q=%23%ec%b0%a8%ec%9d%80%ec%9a%b0_1%ec%9c%84%eb%b3%b4%ec%9d%b4%ea%b7%b8%eb%a3%b9%ea%b0%9c%ec%9d%b8%eb%b8%8c%eb%9e%9c%eb%93%9c_%ec%b6%95%ed%95%98%ed%95%b4%ec%9a%94) | N/A |
-| 50 | [#CHAEUNWOO_No1MALEIDOL](http://twitter.com/search?q=%23CHAEUNWOO_No1MALEIDOL) | N/A |
+| 17 | [Charly Rodríguez](http://twitter.com/search?q=Charly+Rodr%c3%adguez) | N/A |
+| 18 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Huiqui](http://twitter.com/search?q=Huiqui) | N/A |
+| 21 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 22 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 23 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 24 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 25 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 26 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
+| 27 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 28 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 29 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 30 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 31 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 32 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 33 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 34 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 35 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
+| 36 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 37 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 38 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 39 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 40 | [#AmasDeCasaMexiquense](http://twitter.com/search?q=%23AmasDeCasaMexiquense) | N/A |
+| 41 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 42 | [#MichaelJordan](http://twitter.com/search?q=%23MichaelJordan) | N/A |
 
 
 

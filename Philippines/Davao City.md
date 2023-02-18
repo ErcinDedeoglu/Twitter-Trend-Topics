@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-18 06:17:08 UTC`
+📆 Last Updated: `2023-02-18 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
 | 5 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
 | 6 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 7 | [SHOWTIME JONA ON FIRE](http://twitter.com/search?q=SHOWTIME+JONA+ON+FIRE) | N/A |
-| 8 | [Nica Santos](http://twitter.com/search?q=Nica+Santos) | N/A |
-| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 10 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 11 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 13 | [hansol](http://twitter.com/search?q=hansol) | N/A |
-| 14 | [STAND UP FOR THE PROM QUEENS](http://twitter.com/search?q=STAND+UP+FOR+THE+PROM+QUEENS) | N/A |
+| 7 | [Nica Santos](http://twitter.com/search?q=Nica+Santos) | N/A |
+| 8 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
+| 9 | [Kaye](http://twitter.com/search?q=Kaye) | N/A |
+| 10 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [RESPETO](http://twitter.com/search?q=RESPETO) | N/A |
+| 13 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 14 | [hansol](http://twitter.com/search?q=hansol) | N/A |
 | 15 | [ALDENx2023 StaRosaSikhayan](http://twitter.com/search?q=ALDENx2023+StaRosaSikhayan) | N/A |
-| 16 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 17 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 18 | [Kaye](http://twitter.com/search?q=Kaye) | N/A |
-| 19 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
-| 20 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
-| 21 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 24 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 25 | [FIREnalHataw GOFwithAC](http://twitter.com/search?q=FIREnalHataw+GOFwithAC) | N/A |
+| 16 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
+| 17 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 18 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
+| 19 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 20 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 21 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
+| 22 | [FIREnalHataw GOFwithAC](http://twitter.com/search?q=FIREnalHataw+GOFwithAC) | N/A |
+| 23 | [STAND UP FOR THE PROM QUEENS](http://twitter.com/search?q=STAND+UP+FOR+THE+PROM+QUEENS) | N/A |
+| 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 25 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
 | 26 | [Sunshine](http://twitter.com/search?q=Sunshine) | N/A |
-| 27 | [Nonie](http://twitter.com/search?q=Nonie) | N/A |
-| 28 | [MAINE MENDOZA EBSabado](http://twitter.com/search?q=MAINE+MENDOZA+EBSabado) | N/A |
-| 29 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 27 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 28 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 29 | [Nonie](http://twitter.com/search?q=Nonie) | N/A |
 | 30 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 31 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
-| 32 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
-| 33 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 34 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 35 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
-| 36 | [Hoba](http://twitter.com/search?q=Hoba) | N/A |
-| 37 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
-| 38 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 39 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 40 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 41 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
-| 42 | [Deekay](http://twitter.com/search?q=Deekay) | N/A |
-| 43 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 44 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
+| 31 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
+| 32 | [MAINE MENDOZA EBSabado](http://twitter.com/search?q=MAINE+MENDOZA+EBSabado) | N/A |
+| 33 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
+| 34 | [TAEJIN](http://twitter.com/search?q=TAEJIN) | N/A |
+| 35 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
+| 36 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
+| 37 | [Sheena](http://twitter.com/search?q=Sheena) | N/A |
+| 38 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 39 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
+| 40 | [Jelai](http://twitter.com/search?q=Jelai) | N/A |
+| 41 | [HIS VOICE](http://twitter.com/search?q=HIS+VOICE) | HIS VOICE is a phrase that refers to someone's particular way of speaking. It can be used to describe the sound of their voice, the tone they use, or the way they express themselves. |
+| 42 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
+| 43 | [Modu](http://twitter.com/search?q=Modu) | N/A |
+| 44 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
 | 45 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 46 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 47 | [Sheena](http://twitter.com/search?q=Sheena) | N/A |
+| 46 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 47 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
+| 48 | [Cessna](http://twitter.com/search?q=Cessna) | N/A |
 
 
 

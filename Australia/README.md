@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-18 06:17:30 UTC`
+📆 Last Updated: `2023-02-18 07:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 3 | [#CharityShield](http://twitter.com/search?q=%23CharityShield) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 7 | [Dragons](http://twitter.com/search?q=Dragons) | N/A |
-| 8 | [I Wish I Win](http://twitter.com/search?q=I+Wish+I+Win) | N/A |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [Nature Strip](http://twitter.com/search?q=Nature+Strip) | N/A |
-| 11 | [Higgins](http://twitter.com/search?q=Higgins) | Higgins is a slang term used to refer to someone who is very smart or intelligent. It can also be used to describe someone who is very well-informed or knowledgeable about a particular subject. |
-| 12 | [#SYDvBRI](http://twitter.com/search?q=%23SYDvBRI) | N/A |
-| 13 | [Coolangatta](http://twitter.com/search?q=Coolangatta) | N/A |
-| 14 | [#redv](http://twitter.com/search?q=%23redv) | N/A |
-| 15 | [Aft Cabin](http://twitter.com/search?q=Aft+Cabin) | Aft Cabin is a term used to describe a cabin located at the back of a boat or ship. It is typically the largest and most luxurious cabin on board, and is usually reserved for the captain or other high-ranking passengers. |
-| 16 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 17 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 18 | [Newmarket](http://twitter.com/search?q=Newmarket) | N/A |
-| 19 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
-| 20 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 21 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
-| 22 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 23 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 24 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 25 | [Annavisto](http://twitter.com/search?q=Annavisto) | N/A |
-| 26 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
-| 27 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
-| 28 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 29 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 30 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
-| 31 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 32 | [Agar](http://twitter.com/search?q=Agar) | N/A |
-| 33 | [On Dutton](http://twitter.com/search?q=On+Dutton) | N/A |
-| 34 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 36 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 37 | [Souths](http://twitter.com/search?q=Souths) | N/A |
-| 38 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 39 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 40 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 41 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
-| 42 | [Garry](http://twitter.com/search?q=Garry) | N/A |
-| 43 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
-| 44 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 1 | [#SYDvBRI](http://twitter.com/search?q=%23SYDvBRI) | N/A |
+| 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 3 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 4 | [#CharityShield](http://twitter.com/search?q=%23CharityShield) | N/A |
+| 5 | [Jack Ginnivan](http://twitter.com/search?q=Jack+Ginnivan) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Dragons](http://twitter.com/search?q=Dragons) | N/A |
+| 9 | [Higgins](http://twitter.com/search?q=Higgins) | Higgins is a slang term used to refer to someone who is very smart or intelligent. It can also be used to describe someone who is very well-informed or knowledgeable about a particular subject. |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [#MACvNEW](http://twitter.com/search?q=%23MACvNEW) | N/A |
+| 12 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [I Wish I Win](http://twitter.com/search?q=I+Wish+I+Win) | N/A |
+| 15 | [Nature Strip](http://twitter.com/search?q=Nature+Strip) | N/A |
+| 16 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 17 | [Sloan](http://twitter.com/search?q=Sloan) | N/A |
+| 18 | [Aft Cabin](http://twitter.com/search?q=Aft+Cabin) | Aft Cabin is a term used to describe a cabin located at the back of a boat or ship. It is typically the largest and most luxurious cabin on board, and is usually reserved for the captain or other high-ranking passengers. |
+| 19 | [Osipenko](http://twitter.com/search?q=Osipenko) | N/A |
+| 20 | [Newmarket](http://twitter.com/search?q=Newmarket) | N/A |
+| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
+| 23 | [Coolangatta](http://twitter.com/search?q=Coolangatta) | N/A |
+| 24 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 25 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
+| 26 | [Tim Clark](http://twitter.com/search?q=Tim+Clark) | N/A |
+| 27 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
+| 28 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 29 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 30 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 31 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
+| 32 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
+| 33 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 34 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
+| 35 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 36 | [On Dutton](http://twitter.com/search?q=On+Dutton) | N/A |
+| 37 | [Griffin](http://twitter.com/search?q=Griffin) | N/A |
+| 38 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 39 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
+| 40 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
+| 41 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 42 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 43 | [Garry](http://twitter.com/search?q=Garry) | N/A |
+| 44 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
 | 45 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 46 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 47 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 48 | [Kitching](http://twitter.com/search?q=Kitching) | N/A |
+| 46 | [Annavisto](http://twitter.com/search?q=Annavisto) | N/A |
+| 47 | [Kitching](http://twitter.com/search?q=Kitching) | N/A |
+| 48 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
 | 49 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 50 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 50 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-18 06:16:41 UTC`
+📆 Last Updated: `2023-02-18 07:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 2 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 3 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 4 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 5 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 6 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 7 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 8 | [#EmergenciesActInquiry](http://twitter.com/search?q=%23EmergenciesActInquiry) | N/A |
-| 9 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 10 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 11 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 12 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 13 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 14 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 15 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 16 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 17 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 18 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 19 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 20 | [O'Rielly](http://twitter.com/search?q=O%27Rielly) | N/A |
-| 21 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 22 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 23 | [#KnuckleMania3](http://twitter.com/search?q=%23KnuckleMania3) | N/A |
-| 24 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 2 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 3 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 4 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 5 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 6 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 7 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 8 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 9 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 10 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 12 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 13 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 14 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 15 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 17 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
+| 18 | [O'Rielly](http://twitter.com/search?q=O%27Rielly) | N/A |
+| 19 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 20 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 21 | [#KnuckleMania3](http://twitter.com/search?q=%23KnuckleMania3) | N/A |
+| 22 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 23 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 24 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
 | 25 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 26 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 27 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 28 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 29 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
-| 30 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 31 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 32 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 34 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 35 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 36 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 37 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 38 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
+| 26 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 27 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 28 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
+| 29 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 30 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 31 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 32 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 33 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [#BKFC](http://twitter.com/search?q=%23BKFC) | N/A |
+| 36 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
+| 37 | [Pierre Rouleau](http://twitter.com/search?q=Pierre+Rouleau) | N/A |
+| 38 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 | 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 40 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 41 | [Pierre Rouleau](http://twitter.com/search?q=Pierre+Rouleau) | N/A |
-| 42 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 43 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
-| 44 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 45 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 46 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 47 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 48 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 49 | [#BKFC](http://twitter.com/search?q=%23BKFC) | N/A |
-| 50 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 40 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
+| 41 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 42 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 43 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 44 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 45 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 46 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 47 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 48 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
 
 
 

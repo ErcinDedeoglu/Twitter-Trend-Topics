@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-18 06:16:55 UTC`
+📆 Last Updated: `2023-02-18 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,43 +23,43 @@ This is top 50 for [France](</France>)
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 7 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
 | 8 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 9 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 10 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 11 | [diomande](http://twitter.com/search?q=diomande) | N/A |
-| 12 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 13 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 14 | [lepenant](http://twitter.com/search?q=lepenant) | N/A |
-| 15 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 16 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 17 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 18 | [Bonjour Brigitte](http://twitter.com/search?q=Bonjour+Brigitte) | N/A |
-| 19 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 20 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 21 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 22 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
-| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 24 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 9 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 10 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 11 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 12 | [diomande](http://twitter.com/search?q=diomande) | N/A |
+| 13 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [La Marseillaise](http://twitter.com/search?q=La+Marseillaise) | N/A |
+| 17 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 18 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 19 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 20 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
+| 21 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 22 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 23 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 24 | [amin sarr](http://twitter.com/search?q=amin+sarr) | N/A |
 | 25 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
-| 26 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
-| 27 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 28 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
-| 29 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
-| 30 | [Passi](http://twitter.com/search?q=Passi) | N/A |
-| 31 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 32 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 33 | [pallois](http://twitter.com/search?q=pallois) | N/A |
-| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 35 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 36 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 37 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 38 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
-| 39 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 40 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
-| 41 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 42 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 43 | [alma dufour](http://twitter.com/search?q=alma+dufour) | N/A |
-| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 45 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 26 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 27 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 28 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 29 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
+| 30 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 31 | [Passi](http://twitter.com/search?q=Passi) | N/A |
+| 32 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 33 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
+| 34 | [pallois](http://twitter.com/search?q=pallois) | N/A |
+| 35 | [barcola](http://twitter.com/search?q=barcola) | N/A |
+| 36 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
+| 37 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 39 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
+| 40 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 41 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
+| 42 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 43 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
+| 44 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 45 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-18 06:16:56 UTC`
+📆 Last Updated: `2023-02-18 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 3 | [#mainzbleibtmainz](http://twitter.com/search?q=%23mainzbleibtmainz) | N/A |
-| 4 | [#FCATSG](http://twitter.com/search?q=%23FCATSG) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 8 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
-| 9 | [Brösel](http://twitter.com/search?q=Br%c3%b6sel) | N/A |
-| 10 | [tony marshall](http://twitter.com/search?q=tony+marshall) | N/A |
-| 11 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 12 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 13 | [Bestimmte Gruppen](http://twitter.com/search?q=Bestimmte+Gruppen) | N/A |
-| 14 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 15 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 16 | [Salate](http://twitter.com/search?q=Salate) | N/A |
-| 17 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 18 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 19 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 20 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 21 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 22 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
-| 23 | [Munich Security Conference](http://twitter.com/search?q=Munich+Security+Conference) | N/A |
-| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 25 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 26 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 27 | [hradecky](http://twitter.com/search?q=hradecky) | N/A |
+| 2 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 3 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
+| 4 | [#MainzbleibtMainz](http://twitter.com/search?q=%23MainzbleibtMainz) | N/A |
+| 5 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 8 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 9 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 12 | [Brösel](http://twitter.com/search?q=Br%c3%b6sel) | N/A |
+| 13 | [Tony Marshall](http://twitter.com/search?q=Tony+Marshall) | N/A |
+| 14 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
+| 15 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 16 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 17 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 18 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 19 | [Bestimmte Gruppen](http://twitter.com/search?q=Bestimmte+Gruppen) | N/A |
+| 20 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 21 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 22 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 23 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 24 | [Streikrecht](http://twitter.com/search?q=Streikrecht) | N/A |
+| 25 | [Munich Security Conference](http://twitter.com/search?q=Munich+Security+Conference) | N/A |
+| 26 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 27 | [Salate](http://twitter.com/search?q=Salate) | N/A |
 | 28 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 29 | [Nationalität](http://twitter.com/search?q=Nationalit%c3%a4t) | N/A |
-| 30 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 31 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 32 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
-| 33 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 34 | [kathrin](http://twitter.com/search?q=kathrin) | N/A |
-| 35 | [Vornamen](http://twitter.com/search?q=Vornamen) | N/A |
-| 36 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 37 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
-| 38 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
-| 39 | [obst und gemüse](http://twitter.com/search?q=obst+und+gem%c3%bcse) | N/A |
-| 40 | [Streiks](http://twitter.com/search?q=Streiks) | N/A |
+| 29 | [hradecky](http://twitter.com/search?q=hradecky) | N/A |
+| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 32 | [Nationalität](http://twitter.com/search?q=Nationalit%c3%a4t) | N/A |
+| 33 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 34 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
+| 35 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 36 | [Vornamen](http://twitter.com/search?q=Vornamen) | N/A |
+| 37 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 38 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 39 | [kathrin](http://twitter.com/search?q=kathrin) | N/A |
+| 40 | [Tagessätze](http://twitter.com/search?q=Tagess%c3%a4tze) | N/A |
 | 41 | [Großfamilien](http://twitter.com/search?q=Gro%c3%9ffamilien) | N/A |
-| 42 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 43 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 44 | [Warnschüsse](http://twitter.com/search?q=Warnsch%c3%bcsse) | N/A |
-| 45 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 46 | [Massimo](http://twitter.com/search?q=Massimo) | N/A |
-| 47 | [Aubergine](http://twitter.com/search?q=Aubergine) | N/A |
-| 48 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 49 | [Christian Schmidt](http://twitter.com/search?q=Christian+Schmidt) | N/A |
+| 42 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 43 | [obst und gemüse](http://twitter.com/search?q=obst+und+gem%c3%bcse) | N/A |
+| 44 | [Streiks](http://twitter.com/search?q=Streiks) | N/A |
+| 45 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 46 | [Krawatte](http://twitter.com/search?q=Krawatte) | N/A |
+| 47 | [Kindergrundsicherung](http://twitter.com/search?q=Kindergrundsicherung) | N/A |
+| 48 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 49 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 
 
 

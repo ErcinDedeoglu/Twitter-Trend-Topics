@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-18 06:17:20 UTC`
+📆 Last Updated: `2023-02-18 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
 | 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 3 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
-| 4 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 5 | [#Konya](http://twitter.com/search?q=%23Konya) | N/A |
-| 6 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 7 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 8 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 9 | [flokigrow](http://twitter.com/search?q=flokigrow) | N/A |
-| 10 | [hamitduras bilenkazanırda](http://twitter.com/search?q=hamitduras+bilenkazan%c4%b1rda) | N/A |
-| 11 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 12 | [fırsatçı prefabrikçiler](http://twitter.com/search?q=f%c4%b1rsat%c3%a7%c4%b1+prefabrik%c3%a7iler) | N/A |
-| 13 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 14 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 15 | [Murat Uzunmehmet](http://twitter.com/search?q=Murat+Uzunmehmet) | N/A |
-| 16 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 17 | [cumamız](http://twitter.com/search?q=cumam%c4%b1z) | N/A |
-| 18 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 19 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 20 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 21 | [ahlaksız davutoğlu](http://twitter.com/search?q=ahlaks%c4%b1z+davuto%c4%9flu) | N/A |
-| 22 | [başarılar trabzonspor](http://twitter.com/search?q=ba%c5%9far%c4%b1lar+trabzonspor) | N/A |
-| 23 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 24 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 25 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
-| 26 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 27 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 3 | [Şerefsiz Fahişçiler](http://twitter.com/search?q=%c5%9eerefsiz+Fahi%c5%9f%c3%a7iler) | N/A |
+| 4 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 5 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 6 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 7 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 8 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
+| 9 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 10 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 11 | [flokigrow](http://twitter.com/search?q=flokigrow) | N/A |
+| 12 | [hamitduras bilenkazanırda](http://twitter.com/search?q=hamitduras+bilenkazan%c4%b1rda) | N/A |
+| 13 | [fırsatçı prefabrikçiler](http://twitter.com/search?q=f%c4%b1rsat%c3%a7%c4%b1+prefabrik%c3%a7iler) | N/A |
+| 14 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 15 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 16 | [Murat Uzunmehmet](http://twitter.com/search?q=Murat+Uzunmehmet) | N/A |
+| 17 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 18 | [Cumamız](http://twitter.com/search?q=Cumam%c4%b1z) | N/A |
+| 19 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 20 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 21 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 22 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 23 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
+| 24 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
+| 25 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 26 | [başarılar trabzonspor](http://twitter.com/search?q=ba%c5%9far%c4%b1lar+trabzonspor) | N/A |
+| 27 | [ahlaksız davutoğlu](http://twitter.com/search?q=ahlaks%c4%b1z+davuto%c4%9flu) | N/A |
 | 28 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 29 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
-| 30 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
-| 31 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 32 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 33 | [Muhittin Kapanşahin](http://twitter.com/search?q=Muhittin+Kapan%c5%9fahin) | N/A |
-| 34 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 35 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
-| 36 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
-| 37 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
-| 38 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
-| 39 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 40 | [Sönmez](http://twitter.com/search?q=S%c3%b6nmez) | N/A |
-| 41 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 42 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
-| 43 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
-| 44 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 45 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 46 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 47 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 48 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
-| 49 | [Hassasiyetiniz](http://twitter.com/search?q=Hassasiyetiniz) | N/A |
+| 29 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 30 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 31 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 32 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
+| 33 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
+| 34 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 35 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 36 | [Mescid-i Harâm'dan](http://twitter.com/search?q=Mescid-i+Har%c3%a2m%27dan) | N/A |
+| 37 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 38 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 39 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 40 | [Muhittin Kapanşahin](http://twitter.com/search?q=Muhittin+Kapan%c5%9fahin) | N/A |
+| 41 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
+| 42 | [Lütfetmiş](http://twitter.com/search?q=L%c3%bctfetmi%c5%9f) | N/A |
+| 43 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 44 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
+| 45 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
+| 46 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
+| 47 | [Sönmez](http://twitter.com/search?q=S%c3%b6nmez) | N/A |
+| 48 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
+| 49 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
 | 50 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
 
 
