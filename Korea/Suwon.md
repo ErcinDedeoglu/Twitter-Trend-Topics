@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Suwon
 
-📆 Last Updated: `2023-02-18 21:38:52 UTC`
+📆 Last Updated: `2023-02-18 22:22:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,14 +33,14 @@ This is top 50 for [Korea](</Korea>)
 | 16 | [거짓말 탐지기](http://twitter.com/search?q=%ea%b1%b0%ec%a7%93%eb%a7%90+%ed%83%90%ec%a7%80%ea%b8%b0) | N/A |
 | 17 | [유두개발](http://twitter.com/search?q=%ec%9c%a0%eb%91%90%ea%b0%9c%eb%b0%9c) | N/A |
 | 18 | [슬덩 특전](http://twitter.com/search?q=%ec%8a%ac%eb%8d%a9+%ed%8a%b9%ec%a0%84) | N/A |
-| 19 | [나의 모습](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%eb%aa%a8%ec%8a%b5) | N/A |
-| 20 | [뉴뉴럿봉](http://twitter.com/search?q=%eb%89%b4%eb%89%b4%eb%9f%bf%eb%b4%89) | 뉴뉴럿봉 is a Korean slang term that is used to describe someone who is a newbie or inexperienced in something. It literally translates to "newbie bong" and is often used in a humorous way. |
-| 21 | [꼬들 414](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+414) | N/A |
-| 22 | [mbti 유형별](http://twitter.com/search?q=mbti+%ec%9c%a0%ed%98%95%eb%b3%84) | N/A |
-| 23 | [로즈마리](http://twitter.com/search?q=%eb%a1%9c%ec%a6%88%eb%a7%88%eb%a6%ac) | N/A |
-| 24 | [부석순이](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%b4) | N/A |
-| 25 | [탐라 포지션](http://twitter.com/search?q=%ed%83%90%eb%9d%bc+%ed%8f%ac%ec%a7%80%ec%85%98) | N/A |
-| 26 | [사람 인형](http://twitter.com/search?q=%ec%82%ac%eb%9e%8c+%ec%9d%b8%ed%98%95) | N/A |
+| 19 | [꼬들 414](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+414) | N/A |
+| 20 | [나의 모습](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%eb%aa%a8%ec%8a%b5) | N/A |
+| 21 | [mbti 유형별](http://twitter.com/search?q=mbti+%ec%9c%a0%ed%98%95%eb%b3%84) | N/A |
+| 22 | [로즈마리](http://twitter.com/search?q=%eb%a1%9c%ec%a6%88%eb%a7%88%eb%a6%ac) | N/A |
+| 23 | [부석순이](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%b4) | N/A |
+| 24 | [탐라 포지션](http://twitter.com/search?q=%ed%83%90%eb%9d%bc+%ed%8f%ac%ec%a7%80%ec%85%98) | N/A |
+| 25 | [사람 인형](http://twitter.com/search?q=%ec%82%ac%eb%9e%8c+%ec%9d%b8%ed%98%95) | N/A |
+| 26 | [뉴뉴럿봉](http://twitter.com/search?q=%eb%89%b4%eb%89%b4%eb%9f%bf%eb%b4%89) | 뉴뉴럿봉 is a Korean slang term that is used to describe someone who is a newbie or inexperienced in something. It literally translates to "newbie bong" and is often used in a humorous way. |
 | 27 | [아이돌플러스](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%8f%8c%ed%94%8c%eb%9f%ac%ec%8a%a4) | N/A |
 | 28 | [특전 소진](http://twitter.com/search?q=%ed%8a%b9%ec%a0%84+%ec%86%8c%ec%a7%84) | N/A |
 | 29 | [슬램덩크 특전](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac+%ed%8a%b9%ec%a0%84) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Korea](</Korea>)
 | 44 | [비비스테](http://twitter.com/search?q=%eb%b9%84%eb%b9%84%ec%8a%a4%ed%85%8c) | N/A |
 | 45 | [리락쿠마](http://twitter.com/search?q=%eb%a6%ac%eb%9d%bd%ec%bf%a0%eb%a7%88) | N/A |
 | 46 | [탄도미사일](http://twitter.com/search?q=%ed%83%84%eb%8f%84%eb%af%b8%ec%82%ac%ec%9d%bc) | N/A |
-| 47 | [갑타 유료](http://twitter.com/search?q=%ea%b0%91%ed%83%80+%ec%9c%a0%eb%a3%8c) | N/A |
-| 48 | [코믹월드](http://twitter.com/search?q=%ec%bd%94%eb%af%b9%ec%9b%94%eb%93%9c) | N/A |
-| 49 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
-| 50 | [협력진분들](http://twitter.com/search?q=%ed%98%91%eb%a0%a5%ec%a7%84%eb%b6%84%eb%93%a4) | N/A |
+| 47 | [코믹월드](http://twitter.com/search?q=%ec%bd%94%eb%af%b9%ec%9b%94%eb%93%9c) | N/A |
+| 48 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
+| 49 | [갑타 유료](http://twitter.com/search?q=%ea%b0%91%ed%83%80+%ec%9c%a0%eb%a3%8c) | N/A |
+| 50 | [메이드카페](http://twitter.com/search?q=%eb%a9%94%ec%9d%b4%eb%93%9c%ec%b9%b4%ed%8e%98) | N/A |
 
 
 

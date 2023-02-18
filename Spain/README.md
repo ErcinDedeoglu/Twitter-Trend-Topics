@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-18 21:39:18 UTC`
+📆 Last Updated: `2023-02-18 22:22:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 3 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 4 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 5 | [#XplicaDesigualdad](http://twitter.com/search?q=%23XplicaDesigualdad) | N/A |
-| 6 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
-| 7 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
-| 8 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 9 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
-| 10 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
-| 11 | [Lituania](http://twitter.com/search?q=Lituania) | N/A |
-| 12 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 13 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
-| 14 | [#firstdates18f](http://twitter.com/search?q=%23firstdates18f) | N/A |
-| 15 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
-| 16 | [#PabandomIsNaujo](http://twitter.com/search?q=%23PabandomIsNaujo) | N/A |
-| 17 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 18 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 19 | [Paul Rey](http://twitter.com/search?q=Paul+Rey) | N/A |
-| 20 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
-| 21 | [Moncayola](http://twitter.com/search?q=Moncayola) | N/A |
-| 22 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 23 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 24 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
+| 3 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 5 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 6 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 7 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 8 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 9 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 10 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 11 | [#XplicaDesigualdad](http://twitter.com/search?q=%23XplicaDesigualdad) | N/A |
+| 12 | [Sadar](http://twitter.com/search?q=Sadar) | N/A |
+| 13 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 14 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
+| 15 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
+| 16 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 17 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 18 | [#ChupChupKings7](http://twitter.com/search?q=%23ChupChupKings7) | N/A |
+| 19 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 20 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 21 | [#OSARMA](http://twitter.com/search?q=%23OSARMA) | N/A |
+| 22 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 23 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 24 | [#FinalMurgasLPGC](http://twitter.com/search?q=%23FinalMurgasLPGC) | N/A |
 | 25 | [TODOS A UNA](http://twitter.com/search?q=TODOS+A+UNA) | N/A |
-| 26 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
-| 27 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
-| 28 | [Roja](http://twitter.com/search?q=Roja) | N/A |
-| 29 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 30 | [El Mallorca](http://twitter.com/search?q=El+Mallorca) | N/A |
-| 31 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 32 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 33 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
-| 34 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
-| 35 | [Barça y Madrid](http://twitter.com/search?q=Bar%c3%a7a+y+Madrid) | N/A |
-| 36 | [Masip](http://twitter.com/search?q=Masip) | N/A |
-| 37 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 38 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
-| 39 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
-| 40 | [Hanga](http://twitter.com/search?q=Hanga) | N/A |
-| 41 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 42 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
-| 43 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 44 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 45 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 47 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 48 | [Llull](http://twitter.com/search?q=Llull) | Llull is a Catalan surname derived from the given name Lluís. It is also the name of a 14th-century Spanish philosopher and mystic, Ramon Llull. In English, it is pronounced "yoo-yee". |
-| 49 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 50 | [Euroliga](http://twitter.com/search?q=Euroliga) | N/A |
+| 26 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
+| 27 | [#firstdates18f](http://twitter.com/search?q=%23firstdates18f) | N/A |
+| 28 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
+| 29 | [Lituania](http://twitter.com/search?q=Lituania) | N/A |
+| 30 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
+| 31 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 32 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
+| 33 | [Paul Rey](http://twitter.com/search?q=Paul+Rey) | N/A |
+| 34 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 35 | [Real Madrid TV](http://twitter.com/search?q=Real+Madrid+TV) | N/A |
+| 36 | [Moncayola](http://twitter.com/search?q=Moncayola) | N/A |
+| 37 | [Joel Parra](http://twitter.com/search?q=Joel+Parra) | N/A |
+| 38 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
+| 39 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 40 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [Roja](http://twitter.com/search?q=Roja) | N/A |
+| 43 | [El Mallorca](http://twitter.com/search?q=El+Mallorca) | N/A |
+| 44 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
+| 45 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 46 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
+| 47 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
+| 48 | [Butarque](http://twitter.com/search?q=Butarque) | N/A |
+| 49 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 50 | [Masip](http://twitter.com/search?q=Masip) | N/A |
 
 
 

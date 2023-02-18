@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-18 21:38:54 UTC`
+📆 Last Updated: `2023-02-18 22:22:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
 | 3 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
 | 4 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 5 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
-| 6 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 5 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 6 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
 | 7 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
 | 8 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
-| 9 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 10 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 9 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 10 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
 | 11 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
 | 12 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
 | 13 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 14 | [stax](http://twitter.com/search?q=stax) | N/A |
-| 15 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
-| 16 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
-| 17 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 18 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
-| 19 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 20 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 21 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 22 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 24 | [HOT PERFORMANCE OF THE YEAR](http://twitter.com/search?q=HOT+PERFORMANCE+OF+THE+YEAR) | N/A |
-| 25 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 14 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
+| 15 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 16 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
+| 17 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
+| 18 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
+| 19 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
+| 20 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 21 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
+| 22 | [HOT PERFORMANCE OF THE YEAR](http://twitter.com/search?q=HOT+PERFORMANCE+OF+THE+YEAR) | N/A |
+| 23 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 24 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 25 | [papangmasa with anji](http://twitter.com/search?q=papangmasa+with+anji) | N/A |
 | 26 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 27 | [papangmasa with anji](http://twitter.com/search?q=papangmasa+with+anji) | N/A |
-| 28 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 29 | [zacham chos3n barkada](http://twitter.com/search?q=zacham+chos3n+barkada) | N/A |
+| 27 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 28 | [zacham chos3n barkada](http://twitter.com/search?q=zacham+chos3n+barkada) | N/A |
+| 29 | [stax](http://twitter.com/search?q=stax) | N/A |
 | 30 | [One in a Billion](http://twitter.com/search?q=One+in+a+Billion) | N/A |
-| 31 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 32 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 33 | [congratulations f2](http://twitter.com/search?q=congratulations+f2) | N/A |
-| 34 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 35 | [Hansol](http://twitter.com/search?q=Hansol) | N/A |
-| 36 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
-| 37 | [nica santos](http://twitter.com/search?q=nica+santos) | N/A |
-| 38 | [showtime jona on fire](http://twitter.com/search?q=showtime+jona+on+fire) | N/A |
-| 39 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 40 | [kodrea at enchanted kingdom](http://twitter.com/search?q=kodrea+at+enchanted+kingdom) | N/A |
-| 41 | [Seokmin](http://twitter.com/search?q=Seokmin) | N/A |
-| 42 | [Happy Birthday DK](http://twitter.com/search?q=Happy+Birthday+DK) | N/A |
-| 43 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 44 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
-| 45 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
-| 46 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 47 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 48 | [Joji](http://twitter.com/search?q=Joji) | N/A |
-| 49 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
+| 31 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 32 | [congratulations f2](http://twitter.com/search?q=congratulations+f2) | N/A |
+| 33 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 34 | [hansol](http://twitter.com/search?q=hansol) | N/A |
+| 35 | [nica santos](http://twitter.com/search?q=nica+santos) | N/A |
+| 36 | [showtime jona on fire](http://twitter.com/search?q=showtime+jona+on+fire) | N/A |
+| 37 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 38 | [kodrea at enchanted kingdom](http://twitter.com/search?q=kodrea+at+enchanted+kingdom) | N/A |
+| 39 | [Seokmin](http://twitter.com/search?q=Seokmin) | N/A |
+| 40 | [happy birthday dk](http://twitter.com/search?q=happy+birthday+dk) | N/A |
+| 41 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 42 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
+| 43 | [sim jaeyun](http://twitter.com/search?q=sim+jaeyun) | N/A |
+| 44 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
+| 45 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 46 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 47 | [Joji](http://twitter.com/search?q=Joji) | N/A |
+| 48 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
+| 49 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-18 21:38:44 UTC`
+📆 Last Updated: `2023-02-18 22:22:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#feyaz](http://twitter.com/search?q=%23feyaz) | N/A |
 | 2 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
-| 3 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 4 | [#groemm](http://twitter.com/search?q=%23groemm) | N/A |
-| 5 | [#Feyenoord](http://twitter.com/search?q=%23Feyenoord) | N/A |
-| 6 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 7 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 8 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 9 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 10 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 11 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 12 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 13 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
-| 14 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 15 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 16 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 17 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 18 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 19 | [Te Wierik](http://twitter.com/search?q=Te+Wierik) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 22 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
+| 3 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 4 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 5 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 6 | [#groemm](http://twitter.com/search?q=%23groemm) | N/A |
+| 7 | [#moltalk](http://twitter.com/search?q=%23moltalk) | N/A |
+| 8 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 9 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 10 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 11 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 12 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 13 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 14 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 15 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 16 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 17 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 18 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 19 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 20 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
+| 21 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 22 | [Slot](http://twitter.com/search?q=Slot) | N/A |
 | 23 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
-| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 25 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 26 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 27 | [FC Emmen](http://twitter.com/search?q=FC+Emmen) | N/A |
-| 28 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
-| 29 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
-| 30 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 31 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
-| 32 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
-| 35 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 36 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 37 | [Australië](http://twitter.com/search?q=Australi%c3%ab) | N/A |
-| 38 | [Chayron](http://twitter.com/search?q=Chayron) | N/A |
-| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 40 | [Euroborg](http://twitter.com/search?q=Euroborg) | N/A |
-| 41 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 42 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
-| 43 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 44 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 45 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 49 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 24 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 25 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 26 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
+| 27 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 28 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 29 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 30 | [FC Groningen](http://twitter.com/search?q=FC+Groningen) | N/A |
+| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 32 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 33 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
+| 34 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 35 | [Expeditie Robinson](http://twitter.com/search?q=Expeditie+Robinson) | N/A |
+| 36 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 37 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 40 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
+| 41 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
+| 42 | [Olympische](http://twitter.com/search?q=Olympische) | N/A |
+| 43 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 44 | [Euroborg](http://twitter.com/search?q=Euroborg) | N/A |
+| 45 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 46 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 47 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 49 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
 
 
 

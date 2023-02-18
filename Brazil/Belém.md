@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-18 21:38:37 UTC`
+📆 Last Updated: `2023-02-18 22:22:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 2 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 1 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 2 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
 | 3 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 4 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 5 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 6 | [#SharbiToken](http://twitter.com/search?q=%23SharbiToken) | N/A |
-| 7 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 4 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 5 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
+| 6 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 7 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
 | 8 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 9 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
-| 10 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 11 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 12 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 13 | [Rever](http://twitter.com/search?q=Rever) | N/A |
-| 14 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
-| 15 | [Cuiabano](http://twitter.com/search?q=Cuiabano) | N/A |
-| 16 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
-| 17 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 18 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 19 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 20 | [#RESxFLA](http://twitter.com/search?q=%23RESxFLA) | N/A |
-| 21 | [#CariocaNoBS](http://twitter.com/search?q=%23CariocaNoBS) | #CariocaNoBS is a hashtag used on social media by people from Rio de Janeiro, Brazil. It translates to "No Bullshit Carioca," and is used to express a sense of pride in the city and its culture. |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
-| 24 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 25 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 26 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
-| 27 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 28 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 29 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 30 | [Grell](http://twitter.com/search?q=Grell) | N/A |
-| 31 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 32 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 33 | [São Luiz](http://twitter.com/search?q=S%c3%a3o+Luiz) | São Luiz is a city in Brazil. It is the capital of the state of Maranhão and is located on the island of São Luiz do Maranhão. The name São Luiz means "Saint Louis" in English. |
-| 34 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
-| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 36 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 37 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 38 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 40 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 42 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 43 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 44 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
-| 45 | [Thiago Lopes](http://twitter.com/search?q=Thiago+Lopes) | Thiago Lopes is a Portuguese name. It is derived from the Latin name Thiagus, which means "beloved". In English, it can be translated to mean "beloved one". |
-| 46 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 49 | [JULIETTE NO GALO DA MADRUGADA](http://twitter.com/search?q=JULIETTE+NO+GALO+DA+MADRUGADA) | N/A |
-| 50 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 9 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 10 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 11 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 12 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 13 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 14 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
+| 15 | [Rever](http://twitter.com/search?q=Rever) | N/A |
+| 16 | [#LaLigaNaESPN](http://twitter.com/search?q=%23LaLigaNaESPN) | N/A |
+| 17 | [Cuiabano](http://twitter.com/search?q=Cuiabano) | N/A |
+| 18 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 19 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 20 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 21 | [#bahiafolia](http://twitter.com/search?q=%23bahiafolia) | N/A |
+| 22 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 23 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 24 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 25 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 26 | [São Luiz](http://twitter.com/search?q=S%c3%a3o+Luiz) | São Luiz is a city in Brazil. It is the capital of the state of Maranhão and is located on the island of São Luiz do Maranhão. The name São Luiz means "Saint Louis" in English. |
+| 27 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 28 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 29 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 30 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
+| 31 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 32 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 33 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 34 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 38 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 39 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
+| 40 | [Mori](http://twitter.com/search?q=Mori) | N/A |
+| 41 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 42 | [Grell](http://twitter.com/search?q=Grell) | N/A |
+| 43 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 44 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 45 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
+| 46 | [Thiago Lopes](http://twitter.com/search?q=Thiago+Lopes) | Thiago Lopes is a Portuguese name. It is derived from the Latin name Thiagus, which means "beloved". In English, it can be translated to mean "beloved one". |
+| 47 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 48 | [Natã](http://twitter.com/search?q=Nat%c3%a3) | N/A |
+| 49 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 
