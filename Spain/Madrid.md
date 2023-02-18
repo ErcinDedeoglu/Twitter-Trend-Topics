@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-18 17:16:21 UTC`
+📆 Last Updated: `2023-02-18 18:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NoALaTala](http://twitter.com/search?q=%23NoALaTala) | N/A |
+| 1 | [#YoDefiendoEsteÁrbol](http://twitter.com/search?q=%23YoDefiendoEste%c3%81rbol) | N/A |
 | 2 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
-| 3 | [Pamplona](http://twitter.com/search?q=Pamplona) | N/A |
-| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 5 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 6 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 7 | [Masip](http://twitter.com/search?q=Masip) | N/A |
-| 8 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 9 | [Azpilicueta](http://twitter.com/search?q=Azpilicueta) | N/A |
-| 10 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
-| 11 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 12 | [Prowse](http://twitter.com/search?q=Prowse) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 4 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 5 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 6 | [Masip](http://twitter.com/search?q=Masip) | N/A |
+| 7 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 8 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
+| 9 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
+| 10 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 11 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 13 | [Azpilicueta](http://twitter.com/search?q=Azpilicueta) | N/A |
 | 14 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 15 | [Prowse](http://twitter.com/search?q=Prowse) | N/A |
 | 16 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
-| 17 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 18 | [Monchu](http://twitter.com/search?q=Monchu) | N/A |
-| 19 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 20 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 21 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
-| 22 | [#RealBetisRealValladolid](http://twitter.com/search?q=%23RealBetisRealValladolid) | N/A |
-| 23 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 24 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 25 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 26 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
-| 27 | [Hongla](http://twitter.com/search?q=Hongla) | N/A |
-| 28 | [Víctor Ruiz](http://twitter.com/search?q=V%c3%adctor+Ruiz) | Víctor Ruiz is a Spanish masculine given name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, the name Victor Ruiz would be translated as "Victor the Conqueror". |
-| 29 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
-| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 31 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
-| 32 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 33 | [Ortiz Arias](http://twitter.com/search?q=Ortiz+Arias) | N/A |
-| 34 | [La Real](http://twitter.com/search?q=La+Real) | La Real is a Spanish term that translates to "The Royal" in English. It is often used to refer to the Spanish Royal Family, or the monarchy of Spain. It can also be used to refer to certain clubs or organizations that have been granted royal patronage by the Spanish monarchy. |
-| 35 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 36 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 37 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 38 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 39 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
-| 40 | [Enric Mas](http://twitter.com/search?q=Enric+Mas) | N/A |
-| 41 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 42 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 43 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 45 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 46 | [Reale Arena](http://twitter.com/search?q=Reale+Arena) | N/A |
-| 47 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 48 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
-| 49 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 50 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
+| 19 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 20 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 21 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 22 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 23 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 24 | [Monchu](http://twitter.com/search?q=Monchu) | N/A |
+| 25 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
+| 26 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 27 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 28 | [Luis Pérez](http://twitter.com/search?q=Luis+P%c3%a9rez) | N/A |
+| 29 | [#ListosParaRomperla](http://twitter.com/search?q=%23ListosParaRomperla) | N/A |
+| 30 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 31 | [Hongla](http://twitter.com/search?q=Hongla) | N/A |
+| 32 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
+| 33 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 34 | [Víctor Ruiz](http://twitter.com/search?q=V%c3%adctor+Ruiz) | Víctor Ruiz is a Spanish masculine given name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, the name Victor Ruiz would be translated as "Victor the Conqueror". |
+| 35 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 37 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
+| 38 | [Fresneda](http://twitter.com/search?q=Fresneda) | N/A |
+| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 40 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
+| 41 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
+| 42 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 43 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 44 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 45 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
+| 46 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
+| 47 | [Ortiz Arias](http://twitter.com/search?q=Ortiz+Arias) | N/A |
+| 48 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 49 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 50 | [Enric Mas](http://twitter.com/search?q=Enric+Mas) | N/A |
 
 
 

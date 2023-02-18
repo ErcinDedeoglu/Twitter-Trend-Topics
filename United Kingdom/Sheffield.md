@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-18 17:16:07 UTC`
+📆 Last Updated: `2023-02-18 18:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 2 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
-| 3 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 4 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 5 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 6 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 7 | [Championship](http://twitter.com/search?q=Championship) | N/A |
-| 8 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
-| 9 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 10 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 11 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 12 | [Nicky Henderson](http://twitter.com/search?q=Nicky+Henderson) | N/A |
-| 13 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 14 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 15 | [Tom Bradshaw](http://twitter.com/search?q=Tom+Bradshaw) | N/A |
-| 16 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 17 | [Berge](http://twitter.com/search?q=Berge) | N/A |
-| 18 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 22 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
-| 23 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
-| 24 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 25 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 26 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
-| 27 | [#ASVARS](http://twitter.com/search?q=%23ASVARS) | N/A |
-| 28 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 29 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 30 | [Azpi](http://twitter.com/search?q=Azpi) | Azpi is a Basque name meaning "hawk". It is also a surname in the Basque region of Spain. |
-| 31 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 32 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 33 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 34 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 35 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 36 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 37 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 38 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 39 | [Seamus Coleman](http://twitter.com/search?q=Seamus+Coleman) | N/A |
-| 40 | [James Ward](http://twitter.com/search?q=James+Ward) | James Ward is a surname of English origin. It is derived from the Old French personal name "Gautier", which was brought to England by the Normans in the 11th century. The name means "strong in battle" or "brave warrior". |
-| 41 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 42 | [Roofe](http://twitter.com/search?q=Roofe) | Roofe is a slang term used to describe someone who is attractive or good-looking. It is derived from the phrase "hot off the roofe," which means something that is very desirable. |
-| 43 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 44 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 45 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 48 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 49 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 50 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 2 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 3 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 4 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 5 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 6 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
+| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 8 | [#avfc](http://twitter.com/search?q=%23avfc) | #avfc stands for Aston Villa Football Club, an English professional football club based in Birmingham. |
+| 9 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 10 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 11 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 13 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 14 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 15 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 16 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
+| 19 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 21 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 24 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 25 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
+| 26 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 27 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | Chris Wood is a British actor best known for his roles in the television series The Vampire Diaries and Containment. He has also appeared in films such as The Last Witch Hunter and Into the Woods. The name Chris Wood is derived from the Greek word "christos" meaning "anointed one". |
+| 28 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 29 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 31 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 33 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 34 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 35 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 37 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 38 | [Seamus Coleman](http://twitter.com/search?q=Seamus+Coleman) | N/A |
+| 39 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 40 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 41 | [Reo Hatate](http://twitter.com/search?q=Reo+Hatate) | N/A |
+| 42 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 43 | [Carabao Cup](http://twitter.com/search?q=Carabao+Cup) | N/A |
+| 44 | [Azpi](http://twitter.com/search?q=Azpi) | Azpi is a Basque name meaning "hawk". It is also a surname in the Basque region of Spain. |
+| 45 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 46 | [Darlow](http://twitter.com/search?q=Darlow) | N/A |
+| 47 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 48 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 49 | [James Ward](http://twitter.com/search?q=James+Ward) | James Ward is a surname of English origin. It is derived from the Old French personal name "Gautier", which was brought to England by the Normans in the 11th century. The name means "strong in battle" or "brave warrior". |
+| 50 | [Roofe](http://twitter.com/search?q=Roofe) | Roofe is a slang term used to describe someone who is attractive or good-looking. It is derived from the phrase "hot off the roofe," which means something that is very desirable. |
 
 
 

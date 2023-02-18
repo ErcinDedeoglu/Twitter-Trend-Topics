@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-18 17:16:19 UTC`
+📆 Last Updated: `2023-02-18 18:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
-| 2 | [#VFBKOE](http://twitter.com/search?q=%23VFBKOE) | N/A |
-| 3 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 4 | [#BOCSCF](http://twitter.com/search?q=%23BOCSCF) | N/A |
-| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 6 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 7 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 8 | [Karte](http://twitter.com/search?q=Karte) | N/A |
-| 9 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 11 | [#WOBRBL](http://twitter.com/search?q=%23WOBRBL) | N/A |
-| 12 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 2 | [#SGESVW](http://twitter.com/search?q=%23SGESVW) | N/A |
+| 3 | [#VFBKOE](http://twitter.com/search?q=%23VFBKOE) | N/A |
+| 4 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 5 | [#BOCSCF](http://twitter.com/search?q=%23BOCSCF) | N/A |
+| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 7 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 9 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 10 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 11 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
+| 12 | [Foul](http://twitter.com/search?q=Foul) | N/A |
 | 13 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 14 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 15 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 16 | [Plea](http://twitter.com/search?q=Plea) | N/A |
-| 17 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 18 | [Unterzahl](http://twitter.com/search?q=Unterzahl) | N/A |
+| 14 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 15 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 16 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 17 | [Unterzahl](http://twitter.com/search?q=Unterzahl) | N/A |
+| 18 | [Plea](http://twitter.com/search?q=Plea) | N/A |
 | 19 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 20 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 21 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
 | 22 | [Notbremse](http://twitter.com/search?q=Notbremse) | N/A |
-| 23 | [Blind](http://twitter.com/search?q=Blind) | N/A |
-| 24 | [Berührung](http://twitter.com/search?q=Ber%c3%bchrung) | N/A |
+| 23 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 24 | [Blind](http://twitter.com/search?q=Blind) | N/A |
 | 25 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
-| 26 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 27 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 27 | [Berührung](http://twitter.com/search?q=Ber%c3%bchrung) | N/A |
 | 28 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 29 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 29 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
 | 30 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
-| 31 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
+| 31 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
 | 32 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 33 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 34 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 33 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 35 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 36 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 37 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 38 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 39 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 40 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 36 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 37 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 38 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 39 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 40 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 41 | [Konferenz](http://twitter.com/search?q=Konferenz) | N/A |
-| 42 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
-| 43 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
-| 44 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 45 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
-| 46 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
-| 47 | [#SGESVW](http://twitter.com/search?q=%23SGESVW) | N/A |
+| 42 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
+| 43 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 44 | [#WOBRBL](http://twitter.com/search?q=%23WOBRBL) | N/A |
+| 45 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 46 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
+| 47 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
 | 48 | [#muc1802](http://twitter.com/search?q=%23muc1802) | N/A |
 | 49 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 50 | [#skybuli](http://twitter.com/search?q=%23skybuli) | N/A |
+| 50 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
 
 
 

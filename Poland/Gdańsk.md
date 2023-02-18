@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-18 17:16:15 UTC`
+📆 Last Updated: `2023-02-18 18:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 3 | [#KORLGD](http://twitter.com/search?q=%23KORLGD) | N/A |
-| 4 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 5 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
+| 1 | [#wersow](http://twitter.com/search?q=%23wersow) | N/A |
+| 2 | [#ARKWIS](http://twitter.com/search?q=%23ARKWIS) | N/A |
+| 3 | [#EkipaSezon4](http://twitter.com/search?q=%23EkipaSezon4) | N/A |
+| 4 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 5 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
-| 8 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 9 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 10 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 11 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 12 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [Tomasz Pilch](http://twitter.com/search?q=Tomasz+Pilch) | N/A |
+| 7 | [Arka](http://twitter.com/search?q=Arka) | N/A |
+| 8 | [Arki](http://twitter.com/search?q=Arki) | N/A |
+| 9 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 10 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 11 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 12 | [Friz](http://twitter.com/search?q=Friz) | N/A |
+| 13 | [Tomasz Pilch](http://twitter.com/search?q=Tomasz+Pilch) | N/A |
+| 14 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
 | 15 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 16 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 17 | [Korona](http://twitter.com/search?q=Korona) | N/A |
-| 18 | [Andreas Wellinger](http://twitter.com/search?q=Andreas+Wellinger) | N/A |
-| 19 | [Mounta](http://twitter.com/search?q=Mounta) | N/A |
-| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
-| 24 | [Dosze](http://twitter.com/search?q=Dosze) | N/A |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 27 | [Maciej Kot](http://twitter.com/search?q=Maciej+Kot) | N/A |
-| 28 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
-| 29 | [Katarze](http://twitter.com/search?q=Katarze) | N/A |
-| 30 | [Kacper Juroszek](http://twitter.com/search?q=Kacper+Juroszek) | N/A |
-| 31 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 32 | [Nketiaha](http://twitter.com/search?q=Nketiaha) | N/A |
-| 33 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 34 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 35 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 36 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 38 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
-| 39 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 40 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 41 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 42 | [Rasnovie](http://twitter.com/search?q=Rasnovie) | N/A |
-| 43 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 44 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 45 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 46 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
-| 47 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
-| 48 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 49 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
+| 18 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 19 | [Sobol](http://twitter.com/search?q=Sobol) | N/A |
+| 20 | [Andreas Wellinger](http://twitter.com/search?q=Andreas+Wellinger) | N/A |
+| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 22 | [Mounta](http://twitter.com/search?q=Mounta) | N/A |
+| 23 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 27 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Werka](http://twitter.com/search?q=Werka) | N/A |
+| 30 | [Maciej Kot](http://twitter.com/search?q=Maciej+Kot) | N/A |
+| 31 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 34 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 35 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 36 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 37 | [Nketiaha](http://twitter.com/search?q=Nketiaha) | N/A |
+| 38 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 39 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 40 | [Rasnovie](http://twitter.com/search?q=Rasnovie) | N/A |
+| 41 | [Kacper Juroszek](http://twitter.com/search?q=Kacper+Juroszek) | N/A |
+| 42 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 43 | [Katarze](http://twitter.com/search?q=Katarze) | N/A |
+| 44 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 45 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 46 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
+| 47 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 48 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
+| 49 | [Dosze](http://twitter.com/search?q=Dosze) | N/A |
 
 
 

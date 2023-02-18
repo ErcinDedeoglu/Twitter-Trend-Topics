@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-02-18 17:16:59 UTC`
+📆 Last Updated: `2023-02-18 18:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Venezuela
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#18Feb](http://twitter.com/search?q=%2318Feb) | N/A |
-| 2 | [#CarnavalesSeguros2023](http://twitter.com/search?q=%23CarnavalesSeguros2023) | N/A |
-| 3 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
-| 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 2 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
+| 3 | [#CarnavalesSeguros2023](http://twitter.com/search?q=%23CarnavalesSeguros2023) | N/A |
+| 4 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
 | 5 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 8 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
 | 9 | [Viernes Negro](http://twitter.com/search?q=Viernes+Negro) | N/A |
-| 10 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 11 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
 | 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 14 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 15 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
-| 16 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Hans Asperger](http://twitter.com/search?q=Hans+Asperger) | N/A |
-| 19 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
-| 20 | [Torbes](http://twitter.com/search?q=Torbes) | N/A |
-| 21 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
-| 22 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 23 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
-| 24 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 25 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 26 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
-| 27 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 30 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
-| 31 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 32 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 33 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 34 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
-| 35 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
-| 36 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
-| 37 | [Humberto Fernández Morán](http://twitter.com/search?q=Humberto+Fern%c3%a1ndez+Mor%c3%a1n) | N/A |
-| 38 | [jesús farías](http://twitter.com/search?q=jes%c3%bas+far%c3%adas) | N/A |
-| 39 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
-| 40 | [paz y soberanía](http://twitter.com/search?q=paz+y+soberan%c3%ada) | N/A |
-| 41 | [La Hormiga Atómica](http://twitter.com/search?q=La+Hormiga+At%c3%b3mica) | N/A |
-| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 43 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 44 | [Día Mundial de la Mujer](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Mujer) | N/A |
-| 45 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
-| 46 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
-| 47 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
+| 13 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
+| 14 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 17 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Papelón](http://twitter.com/search?q=Papel%c3%b3n) | N/A |
+| 21 | [Hans Asperger](http://twitter.com/search?q=Hans+Asperger) | N/A |
+| 22 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 23 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
+| 24 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
+| 25 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
+| 26 | [Torbes](http://twitter.com/search?q=Torbes) | N/A |
+| 27 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 28 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 29 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 30 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 31 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 32 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
+| 33 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 35 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 37 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 38 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
+| 39 | [Humberto Fernández Morán](http://twitter.com/search?q=Humberto+Fern%c3%a1ndez+Mor%c3%a1n) | N/A |
+| 40 | [La Hormiga Atómica](http://twitter.com/search?q=La+Hormiga+At%c3%b3mica) | N/A |
+| 41 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
+| 42 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
+| 43 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 44 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 45 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
+| 46 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
+| 47 | [paz y soberanía](http://twitter.com/search?q=paz+y+soberan%c3%ada) | N/A |
 | 48 | [Congreso de Perú](http://twitter.com/search?q=Congreso+de+Per%c3%ba) | N/A |
-| 49 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
-| 50 | [Insight Crime](http://twitter.com/search?q=Insight+Crime) | N/A |
+| 49 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 50 | [Día Mundial de la Mujer](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Mujer) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-18 17:16:43 UTC`
+📆 Last Updated: `2023-02-18 18:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 6 | [Napier](http://twitter.com/search?q=Napier) | N/A |
 | 7 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 8 | [plunket](http://twitter.com/search?q=plunket) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 11 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 12 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 13 | [#nzlvpor](http://twitter.com/search?q=%23nzlvpor) | N/A |
-| 14 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 15 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 16 | [Farrar](http://twitter.com/search?q=Farrar) | N/A |
+| 8 | [Plunket](http://twitter.com/search?q=Plunket) | N/A |
+| 9 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 10 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 11 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 12 | [#nzlvpor](http://twitter.com/search?q=%23nzlvpor) | N/A |
+| 13 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 14 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 15 | [Farrar](http://twitter.com/search?q=Farrar) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 17 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
 | 18 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 | 19 | [#JHOPEDAY](http://twitter.com/search?q=%23JHOPEDAY) | N/A |
@@ -39,31 +39,31 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 22 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
 | 23 | [judith collins](http://twitter.com/search?q=judith+collins) | N/A |
 | 24 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 25 | [Esk Valley](http://twitter.com/search?q=Esk+Valley) | N/A |
-| 26 | [blundell](http://twitter.com/search?q=blundell) | N/A |
-| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 28 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 29 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 30 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 31 | [bay oval](http://twitter.com/search?q=bay+oval) | N/A |
-| 32 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 33 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
-| 34 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 35 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 36 | [tremain](http://twitter.com/search?q=tremain) | N/A |
-| 37 | [Fijian](http://twitter.com/search?q=Fijian) | N/A |
-| 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 39 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 40 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
-| 41 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 43 | [kuggeleijn](http://twitter.com/search?q=kuggeleijn) | N/A |
-| 44 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
-| 45 | [DON'T COME HERE NOW](http://twitter.com/search?q=DON%27T+COME+HERE+NOW) | N/A |
-| 46 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 48 | [gisborne](http://twitter.com/search?q=gisborne) | N/A |
-| 49 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Esk Valley](http://twitter.com/search?q=Esk+Valley) | N/A |
+| 27 | [blundell](http://twitter.com/search?q=blundell) | N/A |
+| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 29 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 30 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 31 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 32 | [bay oval](http://twitter.com/search?q=bay+oval) | N/A |
+| 33 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 34 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
+| 35 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 36 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 37 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 38 | [tremain](http://twitter.com/search?q=tremain) | N/A |
+| 39 | [Fijian](http://twitter.com/search?q=Fijian) | N/A |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 42 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
+| 43 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 45 | [kuggeleijn](http://twitter.com/search?q=kuggeleijn) | N/A |
+| 46 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
+| 47 | [DON'T COME HERE NOW](http://twitter.com/search?q=DON%27T+COME+HERE+NOW) | N/A |
+| 48 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 
 
 
