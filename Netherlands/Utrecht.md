@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-18 09:16:10 UTC`
+📆 Last Updated: `2023-02-18 10:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#aalscholver](http://twitter.com/search?q=%23aalscholver) | N/A |
-| 3 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 4 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
-| 5 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
-| 6 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 7 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 2 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 3 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 4 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
+| 5 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 6 | [#Aalscholver](http://twitter.com/search?q=%23Aalscholver) | N/A |
+| 7 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
 | 8 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 12 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 13 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 14 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
-| 15 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 16 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 17 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
+| 9 | [#adopec](http://twitter.com/search?q=%23adopec) | N/A |
+| 10 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
+| 11 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 12 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
+| 17 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
 | 18 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 19 | [Annabel Nanninga](http://twitter.com/search?q=Annabel+Nanninga) | N/A |
-| 20 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 21 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 22 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 23 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
-| 26 | [Klappertjes](http://twitter.com/search?q=Klappertjes) | N/A |
-| 27 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 28 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
-| 29 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 30 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 31 | [UNION BERLIN](http://twitter.com/search?q=UNION+BERLIN) | N/A |
-| 32 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 33 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 34 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 35 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 19 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 20 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 21 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 22 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
+| 23 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 24 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 25 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 26 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 27 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 28 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
+| 29 | [Klappertjes](http://twitter.com/search?q=Klappertjes) | N/A |
+| 30 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 31 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
+| 32 | [zelenski in kiev](http://twitter.com/search?q=zelenski+in+kiev) | N/A |
+| 33 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 34 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 35 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
 | 36 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 37 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
-| 38 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 37 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 38 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 39 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
 | 40 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
-| 41 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 42 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 43 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 41 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 42 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
+| 43 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 44 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
-| 45 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 46 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 47 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
-| 48 | [Bart Chabot](http://twitter.com/search?q=Bart+Chabot) | N/A |
+| 45 | [Liesje](http://twitter.com/search?q=Liesje) | N/A |
+| 46 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 48 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 49 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
 
 
 

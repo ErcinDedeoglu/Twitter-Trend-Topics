@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-18 09:16:05 UTC`
+📆 Last Updated: `2023-02-18 10:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
 | 2 | [#OddamyWamPolskę](http://twitter.com/search?q=%23OddamyWamPolsk%c4%99) | N/A |
 | 3 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
-| 4 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 6 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 5 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 6 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 7 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 8 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 9 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 10 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 11 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 12 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 10 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 12 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 13 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 14 | [szczątki](http://twitter.com/search?q=szcz%c4%85tki) | N/A |
 | 15 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 17 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 16 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 17 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
 | 18 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 19 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 20 | [pączek](http://twitter.com/search?q=p%c4%85czek) | N/A |
-| 21 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 22 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
-| 23 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 24 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 25 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 26 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [TOK FM](http://twitter.com/search?q=TOK+FM) | N/A |
-| 29 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 32 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
-| 33 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 34 | [pegulą](http://twitter.com/search?q=pegul%c4%85) | N/A |
-| 35 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 19 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 20 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 21 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
+| 22 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 23 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 28 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
+| 29 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 30 | [TOK FM](http://twitter.com/search?q=TOK+FM) | N/A |
+| 31 | [Adam Michnik](http://twitter.com/search?q=Adam+Michnik) | N/A |
+| 32 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 33 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 34 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 35 | [pegulą](http://twitter.com/search?q=pegul%c4%85) | N/A |
 | 36 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 37 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 38 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 39 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 40 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 41 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
-| 42 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 43 | [Filemon](http://twitter.com/search?q=Filemon) | N/A |
-| 44 | [znajdą](http://twitter.com/search?q=znajd%c4%85) | N/A |
-| 45 | [bonifacy](http://twitter.com/search?q=bonifacy) | N/A |
-| 46 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 47 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 48 | [przegląd](http://twitter.com/search?q=przegl%c4%85d) | N/A |
-| 49 | [bielecki](http://twitter.com/search?q=bielecki) | N/A |
+| 37 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 38 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
+| 39 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 40 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 41 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 42 | [znajdą](http://twitter.com/search?q=znajd%c4%85) | N/A |
+| 43 | [bonifacy](http://twitter.com/search?q=bonifacy) | N/A |
+| 44 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 45 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 46 | [przegląd](http://twitter.com/search?q=przegl%c4%85d) | N/A |
+| 47 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
+| 48 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 49 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-18 09:16:29 UTC`
+📆 Last Updated: `2023-02-18 10:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [शिव शम्भू](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%ae%e0%a5%8d%e0%a4%ad%e0%a5%82) | N/A |
 | 2 | [#Mahashivratri](http://twitter.com/search?q=%23Mahashivratri) | N/A |
-| 3 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
-| 4 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 5 | [#ViratKohli](http://twitter.com/search?q=%23ViratKohli) | N/A |
-| 6 | [#ProjectK](http://twitter.com/search?q=%23ProjectK) | #ProjectK is a Japanese initiative that seeks to create a society where everyone can live with dignity and respect. The project aims to create an environment where people of all ages, genders, and backgrounds can live in harmony and have access to the same opportunities. The name "K" stands for "Kizuna," which means "bonds" or "connections" in Japanese. |
+| 3 | [#AnilKapoorNationalTreasure](http://twitter.com/search?q=%23AnilKapoorNationalTreasure) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 6 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
 | 7 | [#MPWelcomesCheetah](http://twitter.com/search?q=%23MPWelcomesCheetah) | N/A |
-| 8 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
-| 9 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 10 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 11 | [Pant](http://twitter.com/search?q=Pant) | Pant is a verb meaning to breathe heavily and quickly, usually due to exertion or excitement. It is often used in the phrase "panting for breath". |
-| 12 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
-| 13 | [दक्षिण अफ्रीका](http://twitter.com/search?q=%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3+%e0%a4%85%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
-| 14 | [NOT OUT](http://twitter.com/search?q=NOT+OUT) | N/A |
-| 15 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 16 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
-| 17 | [Realme C3](http://twitter.com/search?q=Realme+C3) | N/A |
-| 18 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 19 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 20 | [Benefit](http://twitter.com/search?q=Benefit) | N/A |
-| 21 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
-| 22 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 23 | [Miracle Needed InSushantCs](http://twitter.com/search?q=Miracle+Needed+InSushantCs) | N/A |
-| 24 | [शिव अनंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4) | N/A |
-| 25 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
-| 26 | [शिव सत्य](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
-| 27 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 28 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
-| 29 | [शिव मंदिर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 30 | [Ishan](http://twitter.com/search?q=Ishan) | N/A |
-| 31 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 32 | [#SchneiderAtElecrama23](http://twitter.com/search?q=%23SchneiderAtElecrama23) | N/A |
-| 33 | [#हर_हर_महादेव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%b9%e0%a4%b0_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 34 | [#SuperSarvottamOil](http://twitter.com/search?q=%23SuperSarvottamOil) | N/A |
-| 35 | [#BGT23](http://twitter.com/search?q=%23BGT23) | N/A |
-| 36 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
-| 37 | [#Heeramandi](http://twitter.com/search?q=%23Heeramandi) | N/A |
+| 8 | [#HeeramandiSLB](http://twitter.com/search?q=%23HeeramandiSLB) | N/A |
+| 9 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
+| 10 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 11 | [Har Har Mahadev](http://twitter.com/search?q=Har+Har+Mahadev) | N/A |
+| 12 | [Pant](http://twitter.com/search?q=Pant) | Pant is a verb meaning to breathe heavily and quickly, usually due to exertion or excitement. It is often used in the phrase "panting for breath". |
+| 13 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 14 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
+| 15 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
+| 16 | [दक्षिण अफ्रीका](http://twitter.com/search?q=%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3+%e0%a4%85%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
+| 17 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
+| 18 | [Realme C3](http://twitter.com/search?q=Realme+C3) | N/A |
+| 19 | [NOT OUT](http://twitter.com/search?q=NOT+OUT) | N/A |
+| 20 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 21 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 22 | [Benefit](http://twitter.com/search?q=Benefit) | N/A |
+| 23 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 24 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 25 | [Miracle Needed InSushantCs](http://twitter.com/search?q=Miracle+Needed+InSushantCs) | N/A |
+| 26 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 27 | [शिव मंदिर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 28 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 29 | [Ishan](http://twitter.com/search?q=Ishan) | N/A |
+| 30 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
+| 31 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
+| 32 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 33 | [#ViratKohli](http://twitter.com/search?q=%23ViratKohli) | N/A |
+| 34 | [#SchneiderAtElecrama23](http://twitter.com/search?q=%23SchneiderAtElecrama23) | N/A |
+| 35 | [#ProjectK](http://twitter.com/search?q=%23ProjectK) | #ProjectK is a Japanese initiative that seeks to create a society where everyone can live with dignity and respect. The project aims to create an environment where people of all ages, genders, and backgrounds can live in harmony and have access to the same opportunities. The name "K" stands for "Kizuna," which means "bonds" or "connections" in Japanese. |
+| 36 | [#हर_हर_महादेव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%b9%e0%a4%b0_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 37 | [#SanjayLeelaBhansali](http://twitter.com/search?q=%23SanjayLeelaBhansali) | N/A |
 | 38 | [#mahakal](http://twitter.com/search?q=%23mahakal) | N/A |
-| 39 | [#Mahadev](http://twitter.com/search?q=%23Mahadev) | N/A |
-| 40 | [#ELECRAMA2023](http://twitter.com/search?q=%23ELECRAMA2023) | N/A |
+| 39 | [#BGT23](http://twitter.com/search?q=%23BGT23) | N/A |
+| 40 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
 | 41 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
-| 42 | [#SanjayLeelaBhansali](http://twitter.com/search?q=%23SanjayLeelaBhansali) | N/A |
-| 43 | [#KLRahul](http://twitter.com/search?q=%23KLRahul) | N/A |
-| 44 | [#BhairathiRanagal](http://twitter.com/search?q=%23BhairathiRanagal) | N/A |
-| 45 | [#महाकाल](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 46 | [#KunoNationalPark](http://twitter.com/search?q=%23KunoNationalPark) | N/A |
-| 47 | [#bholenath](http://twitter.com/search?q=%23bholenath) | N/A |
-| 48 | [#Salaar](http://twitter.com/search?q=%23Salaar) | N/A |
-| 49 | [#SonakshiSinha](http://twitter.com/search?q=%23SonakshiSinha) | N/A |
-| 50 | [#Narthan](http://twitter.com/search?q=%23Narthan) | N/A |
+| 42 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
+| 43 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 44 | [#KunoNationalPark](http://twitter.com/search?q=%23KunoNationalPark) | N/A |
+| 45 | [#SonakshiSinha](http://twitter.com/search?q=%23SonakshiSinha) | N/A |
+| 46 | [#SuperSarvottamOil](http://twitter.com/search?q=%23SuperSarvottamOil) | N/A |
+| 47 | [#महाकाल](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
+| 48 | [#ELECRAMA2023](http://twitter.com/search?q=%23ELECRAMA2023) | N/A |
+| 49 | [#BhairathiRanagal](http://twitter.com/search?q=%23BhairathiRanagal) | N/A |
+| 50 | [#AirtelWeekendChallenge](http://twitter.com/search?q=%23AirtelWeekendChallenge) | N/A |
 
 
 

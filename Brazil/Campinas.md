@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-18 09:16:03 UTC`
+📆 Last Updated: `2023-02-18 10:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,41 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GlobelezaRosasDeOuro](http://twitter.com/search?q=%23GlobelezaRosasDeOuro) | N/A |
-| 2 | [#GlobelezaRosasDeOuro](http://twitter.com/search?q=%23GlobelezaRosasDeOuro) | N/A |
-| 3 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 4 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 5 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
-| 6 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 7 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
-| 8 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 9 | [Acadêmicos de Niterói](http://twitter.com/search?q=Acad%c3%aamicos+de+Niter%c3%b3i) | N/A |
-| 10 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
-| 11 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
-| 12 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 13 | [Vila Vintém](http://twitter.com/search?q=Vila+Vint%c3%a9m) | N/A |
-| 14 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
-| 15 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
-| 16 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
-| 17 | [Caetano Veloso](http://twitter.com/search?q=Caetano+Veloso) | N/A |
-| 18 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
-| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 20 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
-| 21 | [Rodrigo Bocardi](http://twitter.com/search?q=Rodrigo+Bocardi) | N/A |
-| 22 | [Duda Beat](http://twitter.com/search?q=Duda+Beat) | N/A |
-| 23 | [Carnaval de São Paulo](http://twitter.com/search?q=Carnaval+de+S%c3%a3o+Paulo) | N/A |
-| 24 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
-| 25 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 26 | [Lins Imperial](http://twitter.com/search?q=Lins+Imperial) | N/A |
-| 27 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 28 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
-| 29 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 30 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
-| 31 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 32 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
-| 33 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 34 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 35 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
+| 1 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 2 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
+| 3 | [#HealingServiceInBomet](http://twitter.com/search?q=%23HealingServiceInBomet) | N/A |
+| 4 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 5 | [Rosas de Ouro](http://twitter.com/search?q=Rosas+de+Ouro) | N/A |
+| 6 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 7 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
+| 8 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 9 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
+| 10 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 11 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 12 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
+| 13 | [Acadêmicos de Niterói](http://twitter.com/search?q=Acad%c3%aamicos+de+Niter%c3%b3i) | N/A |
+| 14 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 15 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
+| 16 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
+| 17 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
+| 18 | [Barroca](http://twitter.com/search?q=Barroca) | N/A |
+| 19 | [Vila Vintém](http://twitter.com/search?q=Vila+Vint%c3%a9m) | N/A |
+| 20 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 21 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 22 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
+| 23 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 24 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
+| 25 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 26 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 28 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
+| 29 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
+| 30 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
+| 31 | [lins imperial](http://twitter.com/search?q=lins+imperial) | N/A |
+| 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 33 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 34 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 35 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 
 
 

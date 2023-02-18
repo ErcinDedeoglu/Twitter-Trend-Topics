@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-02-18 09:16:25 UTC`
+📆 Last Updated: `2023-02-18 10:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 3 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 4 | [#البس_](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b3_) | N/A |
-| 5 | [#البزنس73](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b373) | N/A |
-| 6 | [#_القحطاني](http://twitter.com/search?q=%23_%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 2 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 3 | [#البزنس73](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b373) | N/A |
+| 4 | [#_القحطاني](http://twitter.com/search?q=%23_%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 5 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 6 | [#الليله_الماسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
 | 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 8 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
 | 9 | [علي الحارس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3) | N/A |
 | 10 | [يوسف الثنيان](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
-| 11 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 12 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 11 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 12 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
 | 13 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 14 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
 | 15 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
 | 16 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 17 | [قول غريب](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 18 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 19 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
+| 17 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 18 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
+| 19 | [المصادقه الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%af%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 20 | [حاجب الرويه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%ac%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87) | N/A |
-| 21 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 22 | [فيصل البلوي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
-| 23 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 24 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 25 | [ميدران](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%b1%d8%a7%d9%86) | N/A |
-| 26 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 27 | [ماهر](http://twitter.com/search?q=%d9%85%d8%a7%d9%87%d8%b1) | N/A |
-| 28 | [طارق التايب](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
-| 29 | [علي الحسن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 30 | [المصادقه الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%af%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 31 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 32 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
-| 33 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 34 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 35 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 36 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 37 | [الفوز الصعب](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8) | N/A |
+| 21 | [فيصل البلوي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
+| 22 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 23 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 24 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
+| 25 | [قول غريب](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 26 | [ماهر](http://twitter.com/search?q=%d9%85%d8%a7%d9%87%d8%b1) | N/A |
+| 27 | [ميدران](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%b1%d8%a7%d9%86) | N/A |
+| 28 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 29 | [طارق التايب](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
+| 30 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
+| 31 | [علي الحسن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 32 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 33 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
+| 34 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 35 | [تويتر بلو](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1+%d8%a8%d9%84%d9%88) | N/A |
+| 36 | [الفوز الصعب](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8) | N/A |
+| 37 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
 | 38 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 39 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 40 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 41 | [راكان الشايع](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%b9) | N/A |
-| 42 | [الغامدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%af%d9%8a) | N/A |
-| 43 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
-| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 45 | [تويتر بلو](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1+%d8%a8%d9%84%d9%88) | N/A |
-| 46 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 39 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 40 | [هات الصداره](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 41 | [كريستيان اتسو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86+%d8%a7%d8%aa%d8%b3%d9%88) | N/A |
+| 42 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 43 | [راكان الشايع](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%b9) | N/A |
+| 44 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
+| 45 | [الرسايل النصيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84+%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d9%87) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 47 | [بحكام](http://twitter.com/search?q=%d8%a8%d8%ad%d9%83%d8%a7%d9%85) | N/A |
-| 48 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 49 | [ابو يعقوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
-| 50 | [القصيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d9%85) | القصيم is the name of a region in Saudi Arabia. In English, it translates to "The Eastern Province". |
+| 48 | [ابو يعقوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
+| 49 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 50 | [الغامدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%af%d9%8a) | N/A |
 
 
 

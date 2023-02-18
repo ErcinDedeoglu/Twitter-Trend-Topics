@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-18 09:15:56 UTC`
+📆 Last Updated: `2023-02-18 10:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 2 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 3 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 4 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
-| 5 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 10 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
-| 11 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 13 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 1 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 2 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 3 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 4 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
+| 5 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
+| 6 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 7 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 8 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 10 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 11 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
+| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 14 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 15 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 16 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 17 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 18 | [Sir Bobby Robson](http://twitter.com/search?q=Sir+Bobby+Robson) | N/A |
-| 19 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 20 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 21 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 22 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 23 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
-| 24 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 26 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 27 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 28 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
-| 29 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 30 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
-| 31 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 32 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 33 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
-| 34 | [#WCC2023](http://twitter.com/search?q=%23WCC2023) | N/A |
-| 35 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 36 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 37 | [#ToriesOut226](http://twitter.com/search?q=%23ToriesOut226) | N/A |
-| 38 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 39 | [#BOBBY90](http://twitter.com/search?q=%23BOBBY90) | N/A |
-| 40 | [#BBCCricket](http://twitter.com/search?q=%23BBCCricket) | N/A |
-| 41 | [#BazBall](http://twitter.com/search?q=%23BazBall) | N/A |
-| 42 | [#Nighthawk](http://twitter.com/search?q=%23Nighthawk) | N/A |
-| 43 | [#RugbyLeague](http://twitter.com/search?q=%23RugbyLeague) | N/A |
-| 44 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 45 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
+| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 16 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 17 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 18 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 19 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 20 | [Phil Gould](http://twitter.com/search?q=Phil+Gould) | N/A |
+| 21 | [WORLD CHAMPIONS](http://twitter.com/search?q=WORLD+CHAMPIONS) | N/A |
+| 22 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 23 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 24 | [James Roby](http://twitter.com/search?q=James+Roby) | N/A |
+| 25 | [Sir Bobby](http://twitter.com/search?q=Sir+Bobby) | N/A |
+| 26 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 27 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
+| 28 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 29 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 30 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 31 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
+| 32 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 33 | [ASOS](http://twitter.com/search?q=ASOS) | N/A |
+| 34 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 35 | [Pic D'Orhy](http://twitter.com/search?q=Pic+D%27Orhy) | N/A |
+| 36 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 37 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 38 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 39 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 40 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
+| 41 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 42 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 43 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 44 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 45 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 46 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 47 | [#WCC2023](http://twitter.com/search?q=%23WCC2023) | N/A |
+| 48 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 49 | [#ASongOrMovieForWalking](http://twitter.com/search?q=%23ASongOrMovieForWalking) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-02-18 09:16:41 UTC`
+📆 Last Updated: `2023-02-18 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 2 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 3 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 4 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 5 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 6 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 9 | [#Wordle609](http://twitter.com/search?q=%23Wordle609) | N/A |
-| 10 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 11 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 2 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 3 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 4 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 5 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 6 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 7 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 8 | [#Wordle609](http://twitter.com/search?q=%23Wordle609) | N/A |
+| 9 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 12 | [#BestBattleSoundtrack](http://twitter.com/search?q=%23BestBattleSoundtrack) | N/A |
-| 13 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 14 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 13 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 14 | [#PokemonMasters](http://twitter.com/search?q=%23PokemonMasters) | N/A |
 | 15 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
 | 16 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
-| 17 | [#PokemonMasters](http://twitter.com/search?q=%23PokemonMasters) | N/A |
+| 17 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
 | 18 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 19 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
-| 20 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 21 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 22 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 23 | [Copley](http://twitter.com/search?q=Copley) | N/A |
-| 24 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 25 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 26 | [Judge Mathis](http://twitter.com/search?q=Judge+Mathis) | N/A |
-| 27 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 28 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 29 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 30 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 31 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 32 | [The Woman King](http://twitter.com/search?q=The+Woman+King) | The Woman King is a term used to refer to a female ruler or leader. It is often used to describe a female monarch, such as a queen or empress. The phrase can also be used to refer to any woman who has achieved great power and influence in her field. |
-| 33 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 34 | [Ralo](http://twitter.com/search?q=Ralo) | N/A |
-| 35 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
-| 36 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 37 | [Schiavone](http://twitter.com/search?q=Schiavone) | N/A |
-| 38 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 39 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
-| 40 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 41 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 42 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 43 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 44 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 45 | [City Girls](http://twitter.com/search?q=City+Girls) | N/A |
-| 46 | [Diego Sanchez](http://twitter.com/search?q=Diego+Sanchez) | N/A |
-| 47 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 48 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 49 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 19 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 20 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
+| 21 | [Judge Mathis](http://twitter.com/search?q=Judge+Mathis) | N/A |
+| 22 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 23 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 24 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 25 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 26 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 27 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 28 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 29 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 30 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 31 | [Gate](http://twitter.com/search?q=Gate) | N/A |
+| 32 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 33 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 34 | [The Woman King](http://twitter.com/search?q=The+Woman+King) | The Woman King is a term used to refer to a female ruler or leader. It is often used to describe a female monarch, such as a queen or empress. The phrase can also be used to refer to any woman who has achieved great power and influence in her field. |
+| 35 | [Ralo](http://twitter.com/search?q=Ralo) | N/A |
+| 36 | [Quentin Grimes](http://twitter.com/search?q=Quentin+Grimes) | N/A |
+| 37 | [Helwani](http://twitter.com/search?q=Helwani) | N/A |
+| 38 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 39 | [Schiavone](http://twitter.com/search?q=Schiavone) | N/A |
+| 40 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 41 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 42 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 43 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 44 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 45 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 46 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 47 | [Diego Sanchez](http://twitter.com/search?q=Diego+Sanchez) | N/A |
+| 48 | [Antman](http://twitter.com/search?q=Antman) | N/A |
+| 49 | [City Girls](http://twitter.com/search?q=City+Girls) | N/A |
 
 
 

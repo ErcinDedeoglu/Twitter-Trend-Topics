@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-18 09:16:03 UTC`
+📆 Last Updated: `2023-02-18 10:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,42 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 2 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 3 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 5 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 6 | [#GlobelezaRosasDeOuro](http://twitter.com/search?q=%23GlobelezaRosasDeOuro) | N/A |
-| 7 | [#GlobelezaRosasDeOuro](http://twitter.com/search?q=%23GlobelezaRosasDeOuro) | N/A |
-| 8 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 1 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 2 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 3 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
+| 4 | [#HealingServiceInBomet](http://twitter.com/search?q=%23HealingServiceInBomet) | N/A |
+| 5 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 6 | [Rosas de Ouro](http://twitter.com/search?q=Rosas+de+Ouro) | N/A |
+| 7 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 8 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
 | 9 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 10 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
+| 10 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
 | 11 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 12 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
-| 13 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 12 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 13 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
 | 14 | [Acadêmicos de Niterói](http://twitter.com/search?q=Acad%c3%aamicos+de+Niter%c3%b3i) | N/A |
-| 15 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
-| 16 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
-| 17 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 18 | [Vila Vintém](http://twitter.com/search?q=Vila+Vint%c3%a9m) | N/A |
-| 19 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
-| 20 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
-| 21 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
-| 22 | [Caetano Veloso](http://twitter.com/search?q=Caetano+Veloso) | N/A |
+| 15 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
+| 16 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 17 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
+| 18 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
+| 19 | [Barroca](http://twitter.com/search?q=Barroca) | N/A |
+| 20 | [Vila Vintém](http://twitter.com/search?q=Vila+Vint%c3%a9m) | N/A |
+| 21 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 22 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
 | 23 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
-| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 25 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
-| 26 | [Rodrigo Bocardi](http://twitter.com/search?q=Rodrigo+Bocardi) | N/A |
-| 27 | [Duda Beat](http://twitter.com/search?q=Duda+Beat) | N/A |
-| 28 | [Carnaval de São Paulo](http://twitter.com/search?q=Carnaval+de+S%c3%a3o+Paulo) | N/A |
-| 29 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
-| 30 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 31 | [Lins Imperial](http://twitter.com/search?q=Lins+Imperial) | N/A |
-| 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 33 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
+| 24 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 25 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
+| 26 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 27 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 28 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 29 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
+| 30 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
+| 31 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
+| 32 | [lins imperial](http://twitter.com/search?q=lins+imperial) | N/A |
+| 33 | [Silva](http://twitter.com/search?q=Silva) | N/A |
 | 34 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 35 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
-| 36 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 37 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
-| 38 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 39 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 40 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
+| 35 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 36 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 
 
 

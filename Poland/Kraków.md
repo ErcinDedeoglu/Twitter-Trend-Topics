@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-18 09:16:05 UTC`
+📆 Last Updated: `2023-02-18 10:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
 | 2 | [#OddamyWamPolskę](http://twitter.com/search?q=%23OddamyWamPolsk%c4%99) | N/A |
 | 3 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
-| 4 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 6 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 7 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 5 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 6 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 7 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 8 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 9 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 10 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 11 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 12 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 13 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 11 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 12 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 13 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 14 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 15 | [szczątki](http://twitter.com/search?q=szcz%c4%85tki) | N/A |
 | 16 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 17 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 18 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 19 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 20 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 21 | [pączek](http://twitter.com/search?q=p%c4%85czek) | N/A |
-| 22 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 23 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
-| 24 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 25 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 26 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 27 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [TOK FM](http://twitter.com/search?q=TOK+FM) | N/A |
-| 30 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 31 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 32 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 17 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 18 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
+| 19 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
+| 20 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 21 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
+| 22 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 23 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
+| 24 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 25 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 27 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 29 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 30 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 31 | [TOK FM](http://twitter.com/search?q=TOK+FM) | N/A |
+| 32 | [Adam Michnik](http://twitter.com/search?q=Adam+Michnik) | N/A |
+| 33 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 34 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 35 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
 | 36 | [pegulą](http://twitter.com/search?q=pegul%c4%85) | N/A |
-| 37 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 38 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 39 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 40 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 37 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 38 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 39 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
+| 40 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
 | 41 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 42 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 43 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
-| 44 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 45 | [Filemon](http://twitter.com/search?q=Filemon) | N/A |
-| 46 | [znajdą](http://twitter.com/search?q=znajd%c4%85) | N/A |
-| 47 | [bonifacy](http://twitter.com/search?q=bonifacy) | N/A |
-| 48 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 49 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 50 | [przegląd](http://twitter.com/search?q=przegl%c4%85d) | N/A |
+| 42 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 43 | [znajdą](http://twitter.com/search?q=znajd%c4%85) | N/A |
+| 44 | [bonifacy](http://twitter.com/search?q=bonifacy) | N/A |
+| 45 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 46 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 47 | [przegląd](http://twitter.com/search?q=przegl%c4%85d) | N/A |
+| 48 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
+| 49 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 50 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
 
 
 

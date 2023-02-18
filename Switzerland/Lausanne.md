@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-18 09:16:12 UTC`
+📆 Last Updated: `2023-02-18 10:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#222MillionDreams](http://twitter.com/search?q=%23222MillionDreams) | N/A |
 | 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 4 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 5 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 6 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 7 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 8 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 9 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 10 | [schnute](http://twitter.com/search?q=schnute) | N/A |
-| 11 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
-| 12 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 13 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 14 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
-| 15 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 16 | [Dividenden](http://twitter.com/search?q=Dividenden) | N/A |
-| 17 | [Licht](http://twitter.com/search?q=Licht) | N/A |
-| 18 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
-| 21 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 23 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 24 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
-| 25 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
-| 26 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 27 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 28 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 29 | [Ansichten](http://twitter.com/search?q=Ansichten) | N/A |
-| 30 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 31 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 32 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 33 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 34 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 35 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 36 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
-| 37 | [Lieben Dank](http://twitter.com/search?q=Lieben+Dank) | N/A |
-| 38 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 39 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
-| 40 | [Koch](http://twitter.com/search?q=Koch) | N/A |
-| 41 | [Faeser](http://twitter.com/search?q=Faeser) | N/A |
-| 42 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 43 | [Rechnung](http://twitter.com/search?q=Rechnung) | N/A |
-| 44 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 45 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
-| 46 | [Migration](http://twitter.com/search?q=Migration) | N/A |
-| 47 | [Infektion](http://twitter.com/search?q=Infektion) | N/A |
+| 7 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 8 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
+| 9 | [schnute](http://twitter.com/search?q=schnute) | N/A |
+| 10 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 11 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 13 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 14 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 15 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 16 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 17 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 18 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 19 | [Typen](http://twitter.com/search?q=Typen) | N/A |
+| 20 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 22 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 23 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
+| 24 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 25 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 26 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 27 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 30 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 31 | [Faeser](http://twitter.com/search?q=Faeser) | N/A |
+| 32 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 33 | [Rechnung](http://twitter.com/search?q=Rechnung) | N/A |
+| 34 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
+| 35 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
+| 36 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 37 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 38 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
+| 39 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 40 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 41 | [Schlagzeile](http://twitter.com/search?q=Schlagzeile) | N/A |
+| 42 | [Dividenden](http://twitter.com/search?q=Dividenden) | N/A |
+| 43 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 45 | [Laune](http://twitter.com/search?q=Laune) | N/A |
+| 46 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 47 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 
 
 

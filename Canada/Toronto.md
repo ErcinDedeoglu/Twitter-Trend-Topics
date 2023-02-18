@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-18 09:15:53 UTC`
+📆 Last Updated: `2023-02-18 10:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 3 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 6 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 10 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 11 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 12 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 13 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
-| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 15 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 16 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 1 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 2 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 5 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 8 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 9 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 10 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 11 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
+| 12 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 13 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 14 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 15 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 16 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
 | 17 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 18 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 19 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 20 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
-| 21 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 22 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 18 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 19 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 20 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 21 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 22 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 23 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 24 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 | 25 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
 | 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 27 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 28 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 29 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 30 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 31 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 32 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 27 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 28 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 29 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 30 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 31 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 32 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
 | 33 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 35 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 36 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 37 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 38 | [Uncle Paul](http://twitter.com/search?q=Uncle+Paul) | N/A |
-| 39 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 40 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
-| 41 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 42 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 43 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 44 | [Janmark](http://twitter.com/search?q=Janmark) | N/A |
-| 45 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 46 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
-| 47 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 48 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 49 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 50 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
+| 34 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 35 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 36 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 37 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
+| 38 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 39 | [Uncle Paul](http://twitter.com/search?q=Uncle+Paul) | N/A |
+| 40 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
+| 41 | [Janmark](http://twitter.com/search?q=Janmark) | N/A |
+| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 43 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 44 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 45 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 46 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 47 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 48 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 49 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 50 | [Scotties](http://twitter.com/search?q=Scotties) | N/A |
 
 
 

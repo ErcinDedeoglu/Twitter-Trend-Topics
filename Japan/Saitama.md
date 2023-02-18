@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saitama
 
-📆 Last Updated: `2023-02-18 09:16:15 UTC`
+📆 Last Updated: `2023-02-18 10:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [スゲさん](http://twitter.com/search?q=%e3%82%b9%e3%82%b2%e3%81%95%e3%82%93) | N/A |
-| 2 | [菅ちゃん](http://twitter.com/search?q=%e8%8f%85%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 3 | [アウェイ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4) | アウェイ is a Japanese word that means "away" or "away from home". It is used to describe a team or individual that is playing away from their home stadium or court. |
-| 4 | [ソンユン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%a6%e3%83%b3) | N/A |
-| 5 | [#コンサドーレ](http://twitter.com/search?q=%23%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%89%e3%83%bc%e3%83%ac) | N/A |
-| 6 | [#ファイターズキャンプ中](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e4%b8%ad) | N/A |
-| 7 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 1 | [#consadole](http://twitter.com/search?q=%23consadole) | N/A |
+| 2 | [#いんでしょ](http://twitter.com/search?q=%23%e3%81%84%e3%82%93%e3%81%a7%e3%81%97%e3%82%87) | N/A |
+| 3 | [スコアレスドロー](http://twitter.com/search?q=%e3%82%b9%e3%82%b3%e3%82%a2%e3%83%ac%e3%82%b9%e3%83%89%e3%83%ad%e3%83%bc) | N/A |
+| 4 | [アウェイ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4) | アウェイ is a Japanese word that means "away" or "away from home". It is used to describe a team or individual that is playing away from their home stadium or court. |
+| 5 | [スゲさん](http://twitter.com/search?q=%e3%82%b9%e3%82%b2%e3%81%95%e3%82%93) | N/A |
+| 6 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
+| 7 | [#北海道コンサドーレ札幌](http://twitter.com/search?q=%23%e5%8c%97%e6%b5%b7%e9%81%93%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%89%e3%83%bc%e3%83%ac%e6%9c%ad%e5%b9%8c) | N/A |
 | 8 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 9 | [レアコレ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%82%b3%e3%83%ac) | N/A |
+| 9 | [#ブルアカらいぶやっちゃいますSP](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%82%89%e3%81%84%e3%81%b6%e3%82%84%e3%81%a3%e3%81%a1%e3%82%83%e3%81%84%e3%81%be%e3%81%99SP) | N/A |
 | 10 | [チケゾー](http://twitter.com/search?q=%e3%83%81%e3%82%b1%e3%82%be%e3%83%bc) | N/A |
-| 11 | [ウイニングチケット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 12 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 13 | [#秋元佐久間ANN](http://twitter.com/search?q=%23%e7%a7%8b%e5%85%83%e4%bd%90%e4%b9%85%e9%96%93ANN) | N/A |
-| 14 | [#タモリANN](http://twitter.com/search?q=%23%e3%82%bf%e3%83%a2%e3%83%aaANN) | N/A |
-| 15 | [#ŹOOĻ_APOŹ](http://twitter.com/search?q=%23%c5%b9OO%c4%bb_APO%c5%b9) | N/A |
-| 16 | [ヒュミドール](http://twitter.com/search?q=%e3%83%92%e3%83%a5%e3%83%9f%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
-| 17 | [レディナガン](http://twitter.com/search?q=%e3%83%ac%e3%83%87%e3%82%a3%e3%83%8a%e3%82%ac%e3%83%b3) | N/A |
-| 18 | [認証アプリ](http://twitter.com/search?q=%e8%aa%8d%e8%a8%bc%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
-| 19 | [オマリーの六甲おろし](http://twitter.com/search?q=%e3%82%aa%e3%83%9e%e3%83%aa%e3%83%bc%e3%81%ae%e5%85%ad%e7%94%b2%e3%81%8a%e3%82%8d%e3%81%97) | N/A |
-| 20 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
-| 21 | [SMS認証](http://twitter.com/search?q=SMS%e8%aa%8d%e8%a8%bc) | N/A |
-| 22 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
-| 23 | [雪の重み](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e9%87%8d%e3%81%bf) | N/A |
-| 24 | [酔いどれ知らず](http://twitter.com/search?q=%e9%85%94%e3%81%84%e3%81%a9%e3%82%8c%e7%9f%a5%e3%82%89%e3%81%9a) | N/A |
-| 25 | [母タイプ](http://twitter.com/search?q=%e6%af%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 11 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 12 | [ウイニングチケット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 13 | [蜻蛉切オルタ](http://twitter.com/search?q=%e8%9c%bb%e8%9b%89%e5%88%87%e3%82%aa%e3%83%ab%e3%82%bf) | N/A |
+| 14 | [#秋元佐久間ANN](http://twitter.com/search?q=%23%e7%a7%8b%e5%85%83%e4%bd%90%e4%b9%85%e9%96%93ANN) | N/A |
+| 15 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 16 | [ティーカップ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 17 | [EEZ内](http://twitter.com/search?q=EEZ%e5%86%85) | N/A |
+| 18 | [ニュース速報](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e9%80%9f%e5%a0%b1) | N/A |
+| 19 | [インド村](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e6%9d%91) | N/A |
+| 20 | [ジョディ先生](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%87%e3%82%a3%e5%85%88%e7%94%9f) | N/A |
+| 21 | [雪の重み](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e9%87%8d%e3%81%bf) | N/A |
+| 22 | [レディナガン](http://twitter.com/search?q=%e3%83%ac%e3%83%87%e3%82%a3%e3%83%8a%e3%82%ac%e3%83%b3) | N/A |
+| 23 | [クマワイパー](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%af%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 24 | [母タイプ](http://twitter.com/search?q=%e6%af%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 25 | [アルジュナ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%8a) | N/A |
 | 26 | [女子力高め](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e5%8a%9b%e9%ab%98%e3%82%81) | N/A |
-| 27 | [開幕戦勝利](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 28 | [ダイヤモンドS](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89S) | N/A |
-| 29 | [クマワイパー](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%af%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 30 | [クマ武器](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e6%ad%a6%e5%99%a8) | N/A |
-| 31 | [ミクソロジー](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%82%bd%e3%83%ad%e3%82%b8%e3%83%bc) | N/A |
-| 32 | [弾道ミサイルの可能性](http://twitter.com/search?q=%e5%bc%be%e9%81%93%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | 弾道ミサイルの可能性 is a Japanese phrase that translates to "the possibility of ballistic missiles". It refers to the potential for a country or organization to develop and deploy ballistic missiles, which are long-range weapons that can be used to deliver nuclear warheads. |
-| 33 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
-| 34 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
-| 35 | [一般女性さん](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e5%a5%b3%e6%80%a7%e3%81%95%e3%82%93) | N/A |
-| 36 | [京都牝馬S](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e7%89%9d%e9%a6%acS) | N/A |
-| 37 | [タモリさん](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e3%81%95%e3%82%93) | N/A |
-| 38 | [ゲルテナ展](http://twitter.com/search?q=%e3%82%b2%e3%83%ab%e3%83%86%e3%83%8a%e5%b1%95) | N/A |
-| 39 | [二段階認証](http://twitter.com/search?q=%e4%ba%8c%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bc) | N/A |
-| 40 | [ビワハヤヒデ](http://twitter.com/search?q=%e3%83%93%e3%83%af%e3%83%8f%e3%83%a4%e3%83%92%e3%83%87) | N/A |
-| 41 | [クマスロ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%82%b9%e3%83%ad) | クマスロ (Kumasuro) is a type of Japanese candy made from sweet potato and sugar. It is a popular snack in Japan, especially during the winter months. The name comes from the Japanese words for "bear" (kuma) and "sweet potato" (satsuma). |
-| 42 | [疝痛のため](http://twitter.com/search?q=%e7%96%9d%e7%97%9b%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
-| 43 | [北海道名寄市](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%90%8d%e5%af%84%e5%b8%82) | N/A |
-| 44 | [くまフェス](http://twitter.com/search?q=%e3%81%8f%e3%81%be%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 45 | [秋元さん](http://twitter.com/search?q=%e7%a7%8b%e5%85%83%e3%81%95%e3%82%93) | N/A |
-| 46 | [営業中のコンビニ](http://twitter.com/search?q=%e5%96%b6%e6%a5%ad%e4%b8%ad%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b) | N/A |
-| 47 | [ナガンさん](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 48 | [ララクリスティーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a9%e3%82%af%e3%83%aa%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%8c) | N/A |
-| 49 | [ネタラヴィ](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%a9%e3%83%b4%e3%82%a3) | N/A |
-| 50 | [ミサイル発射](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e7%99%ba%e5%b0%84) | N/A |
+| 27 | [認証アプリ](http://twitter.com/search?q=%e8%aa%8d%e8%a8%bc%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
+| 28 | [クマ武器](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e6%ad%a6%e5%99%a8) | N/A |
+| 29 | [共同通信の社会部デスク](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1%e3%81%ae%e7%a4%be%e4%bc%9a%e9%83%a8%e3%83%87%e3%82%b9%e3%82%af) | N/A |
+| 30 | [ヒュミドール](http://twitter.com/search?q=%e3%83%92%e3%83%a5%e3%83%9f%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 31 | [クマスロ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%82%b9%e3%83%ad) | クマスロ (Kumasuro) is a type of Japanese candy made from sweet potato and sugar. It is a popular snack in Japan, especially during the winter months. The name comes from the Japanese words for "bear" (kuma) and "sweet potato" (satsuma). |
+| 32 | [SMS認証](http://twitter.com/search?q=SMS%e8%aa%8d%e8%a8%bc) | N/A |
+| 33 | [ヘイト発言](http://twitter.com/search?q=%e3%83%98%e3%82%a4%e3%83%88%e7%99%ba%e8%a8%80) | N/A |
+| 34 | [ビーマさん](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%9e%e3%81%95%e3%82%93) | N/A |
+| 35 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 36 | [営業中のコンビニ](http://twitter.com/search?q=%e5%96%b6%e6%a5%ad%e4%b8%ad%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b) | N/A |
+| 37 | [オマリーの六甲おろし](http://twitter.com/search?q=%e3%82%aa%e3%83%9e%e3%83%aa%e3%83%bc%e3%81%ae%e5%85%ad%e7%94%b2%e3%81%8a%e3%82%8d%e3%81%97) | N/A |
+| 38 | [北海道名寄市](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%90%8d%e5%af%84%e5%b8%82) | N/A |
+| 39 | [ティーパーティー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%bc%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 40 | [青空レストラン](http://twitter.com/search?q=%e9%9d%92%e7%a9%ba%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
+| 41 | [酔いどれ知らず](http://twitter.com/search?q=%e9%85%94%e3%81%84%e3%81%a9%e3%82%8c%e7%9f%a5%e3%82%89%e3%81%9a) | N/A |
+| 42 | [キリヲ先輩](http://twitter.com/search?q=%e3%82%ad%e3%83%aa%e3%83%b2%e5%85%88%e8%bc%a9) | N/A |
+| 43 | [ムンブロ](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%96%e3%83%ad) | N/A |
+| 44 | [クマブキ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%96%e3%82%ad) | N/A |
+| 45 | [ブルアカライブ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 46 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
+| 47 | [黒木瞳さん](http://twitter.com/search?q=%e9%bb%92%e6%9c%a8%e7%9e%b3%e3%81%95%e3%82%93) | N/A |
+| 48 | [ブルアカ一生](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e4%b8%80%e7%94%9f) | N/A |
+| 49 | [桜ういろう](http://twitter.com/search?q=%e6%a1%9c%e3%81%86%e3%81%84%e3%82%8d%e3%81%86) | N/A |
+| 50 | [開幕戦勝利](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
 
 
 
