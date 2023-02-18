@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-18 07:17:23 UTC`
+📆 Last Updated: `2023-02-18 08:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
-| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 1 | [#OddamyWamPolskę](http://twitter.com/search?q=%23OddamyWamPolsk%c4%99) | N/A |
+| 2 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
+| 3 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 6 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 6 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 7 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
 | 8 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 9 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 10 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 12 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
-| 13 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 14 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 15 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
+| 9 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 10 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 11 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 12 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 13 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 14 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
+| 15 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
 | 16 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
-| 17 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 18 | [lech](http://twitter.com/search?q=lech) | N/A |
+| 17 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
+| 18 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
 | 19 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 20 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 21 | [pączek](http://twitter.com/search?q=p%c4%85czek) | N/A |
-| 22 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
-| 23 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 24 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 25 | [anwilu](http://twitter.com/search?q=anwilu) | N/A |
-| 26 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 27 | [Kempa](http://twitter.com/search?q=Kempa) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [Polsko](http://twitter.com/search?q=Polsko) | N/A |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 32 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 33 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 34 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 20 | [pączek](http://twitter.com/search?q=p%c4%85czek) | N/A |
+| 21 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 22 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 23 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 24 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 25 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 26 | [anwilu](http://twitter.com/search?q=anwilu) | N/A |
+| 27 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 28 | [Kempa](http://twitter.com/search?q=Kempa) | N/A |
+| 29 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 32 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 33 | [Polską](http://twitter.com/search?q=Polsk%c4%85) | N/A |
+| 34 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 35 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 36 | [pegulą](http://twitter.com/search?q=pegul%c4%85) | N/A |
-| 37 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 38 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 39 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 41 | [mroczek](http://twitter.com/search?q=mroczek) | N/A |
-| 42 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 43 | [Filemon](http://twitter.com/search?q=Filemon) | N/A |
-| 44 | [żółty](http://twitter.com/search?q=%c5%bc%c3%b3%c5%82ty) | N/A |
-| 45 | [Potem](http://twitter.com/search?q=Potem) | N/A |
-| 46 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
-| 47 | [bonifacy](http://twitter.com/search?q=bonifacy) | N/A |
-| 48 | [holandię](http://twitter.com/search?q=holandi%c4%99) | N/A |
-| 49 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
-| 50 | [adam michnik](http://twitter.com/search?q=adam+michnik) | N/A |
+| 36 | [bumar](http://twitter.com/search?q=bumar) | N/A |
+| 37 | [pegulą](http://twitter.com/search?q=pegul%c4%85) | N/A |
+| 38 | [Halinko](http://twitter.com/search?q=Halinko) | N/A |
+| 39 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 40 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 41 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 42 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 43 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 44 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [holandię](http://twitter.com/search?q=holandi%c4%99) | N/A |
+| 47 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 49 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 50 | [mroczek](http://twitter.com/search?q=mroczek) | N/A |
 
 
 

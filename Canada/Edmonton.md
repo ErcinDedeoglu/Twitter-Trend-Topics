@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-18 07:16:20 UTC`
+📆 Last Updated: `2023-02-18 08:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 2 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 3 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 4 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 5 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 6 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 7 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 8 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 9 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 11 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 12 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 13 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 14 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 15 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 16 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 17 | [O'Rielly](http://twitter.com/search?q=O%27Rielly) | N/A |
-| 18 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 19 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 20 | [#KnuckleMania3](http://twitter.com/search?q=%23KnuckleMania3) | N/A |
-| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 22 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 23 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 24 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 25 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 26 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 27 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 28 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
-| 29 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 30 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 31 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 32 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 33 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 34 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 36 | [#BKFC](http://twitter.com/search?q=%23BKFC) | N/A |
-| 37 | [Pierre Rouleau](http://twitter.com/search?q=Pierre+Rouleau) | N/A |
-| 38 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 40 | [Paul Rouleau](http://twitter.com/search?q=Paul+Rouleau) | N/A |
-| 41 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
-| 42 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 43 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 44 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 45 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 46 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 47 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 48 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 49 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
-| 50 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 1 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 2 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 3 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 4 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 5 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 10 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 11 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 12 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 13 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
+| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 16 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 17 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 18 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 19 | [Freedom Convoy](http://twitter.com/search?q=Freedom+Convoy) | N/A |
+| 20 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 21 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 22 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 23 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
+| 24 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 27 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 28 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 30 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 31 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 32 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 33 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 34 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
+| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 36 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 37 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 38 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 39 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 40 | [Drai](http://twitter.com/search?q=Drai) | N/A |
+| 41 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 42 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 43 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 44 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 45 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
+| 46 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 47 | [Uncle Paul](http://twitter.com/search?q=Uncle+Paul) | N/A |
+| 48 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 49 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
+| 50 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 
 
 

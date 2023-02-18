@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-18 07:17:22 UTC`
+📆 Last Updated: `2023-02-18 08:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
-| 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 4 | [#ADOpec](http://twitter.com/search?q=%23ADOpec) | N/A |
-| 5 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 6 | [#sevpsv](http://twitter.com/search?q=%23sevpsv) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
-| 9 | [teze](http://twitter.com/search?q=teze) | N/A |
-| 10 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 11 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 12 | [ocampos](http://twitter.com/search?q=ocampos) | N/A |
-| 13 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 14 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
-| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 16 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 17 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
-| 18 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 19 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 20 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
-| 21 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 22 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 23 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 24 | [Klappertjes](http://twitter.com/search?q=Klappertjes) | N/A |
-| 25 | [UNION BERLIN](http://twitter.com/search?q=UNION+BERLIN) | N/A |
-| 26 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
-| 27 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
-| 28 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 29 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 30 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 31 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
-| 32 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 33 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
-| 34 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 35 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
-| 36 | [veerman](http://twitter.com/search?q=veerman) | N/A |
-| 37 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 38 | [bart chabot](http://twitter.com/search?q=bart+chabot) | N/A |
-| 39 | [rensch](http://twitter.com/search?q=rensch) | N/A |
-| 40 | [Liesje](http://twitter.com/search?q=Liesje) | N/A |
-| 41 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 42 | [dag 17](http://twitter.com/search?q=dag+17) | N/A |
-| 43 | [Zaterdag](http://twitter.com/search?q=Zaterdag) | N/A |
-| 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 45 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 46 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 2 | [#aalscholver](http://twitter.com/search?q=%23aalscholver) | N/A |
+| 3 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
+| 4 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
+| 5 | [Sigrid Kaag](http://twitter.com/search?q=Sigrid+Kaag) | N/A |
+| 6 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 7 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 8 | [#ADOPEC](http://twitter.com/search?q=%23ADOPEC) | N/A |
+| 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [teze](http://twitter.com/search?q=teze) | N/A |
+| 12 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
+| 13 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 14 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
+| 15 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
+| 16 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 17 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 18 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
+| 19 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 20 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 21 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
+| 22 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 23 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 24 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
+| 25 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 26 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 27 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 28 | [Klappertjes](http://twitter.com/search?q=Klappertjes) | N/A |
+| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [UNION BERLIN](http://twitter.com/search?q=UNION+BERLIN) | N/A |
+| 31 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 32 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 34 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
+| 35 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 36 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 37 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 38 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 39 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
+| 40 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 41 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 42 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 43 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
+| 44 | [bart chabot](http://twitter.com/search?q=bart+chabot) | N/A |
+| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 46 | [veerman](http://twitter.com/search?q=veerman) | N/A |
 | 47 | [jong az](http://twitter.com/search?q=jong+az) | N/A |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 49 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 50 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
 
 
 

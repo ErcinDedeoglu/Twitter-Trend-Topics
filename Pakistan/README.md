@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-18 07:17:23 UTC`
+📆 Last Updated: `2023-02-18 08:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Pakistan
 | 5 | [#Sindhpolice](http://twitter.com/search?q=%23Sindhpolice) | N/A |
 | 6 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
 | 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [WAHAB](http://twitter.com/search?q=WAHAB) | N/A |
+| 8 | [wahab](http://twitter.com/search?q=wahab) | N/A |
 | 9 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
 | 10 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 11 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 12 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 13 | [Faisal](http://twitter.com/search?q=Faisal) | N/A |
-| 14 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
-| 15 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 16 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
-| 17 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 18 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 19 | [javed miandad](http://twitter.com/search?q=javed+miandad) | N/A |
-| 20 | [Rizzy](http://twitter.com/search?q=Rizzy) | N/A |
-| 21 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 22 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 11 | [Faisal](http://twitter.com/search?q=Faisal) | N/A |
+| 12 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 13 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
+| 14 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 15 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 16 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 17 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 18 | [rizzy](http://twitter.com/search?q=rizzy) | N/A |
+| 19 | [Islamists](http://twitter.com/search?q=Islamists) | N/A |
+| 20 | [javed miandad](http://twitter.com/search?q=javed+miandad) | N/A |
+| 21 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
+| 22 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
 | 23 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 24 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 25 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
-| 26 | [Jail Bharo](http://twitter.com/search?q=Jail+Bharo) | N/A |
+| 24 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 25 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 26 | [salman irshad](http://twitter.com/search?q=salman+irshad) | N/A |
 | 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 28 | [Saddar](http://twitter.com/search?q=Saddar) | N/A |
+| 28 | [Shaheed](http://twitter.com/search?q=Shaheed) | N/A |
 | 29 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 30 | [Shaheed](http://twitter.com/search?q=Shaheed) | N/A |
-| 31 | [Azam khan](http://twitter.com/search?q=Azam+khan) | N/A |
-| 32 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 33 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 30 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 31 | [Jail Bharo](http://twitter.com/search?q=Jail+Bharo) | N/A |
+| 32 | [Saddar](http://twitter.com/search?q=Saddar) | N/A |
+| 33 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 34 | [Salam](http://twitter.com/search?q=Salam) | N/A |
-| 35 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 36 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 37 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 38 | [America](http://twitter.com/search?q=America) | N/A |
-| 39 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 40 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 41 | [Saeed Anwar](http://twitter.com/search?q=Saeed+Anwar) | N/A |
-| 42 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 43 | [Security](http://twitter.com/search?q=Security) | N/A |
-| 44 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 45 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 46 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 47 | [BISS KEY](http://twitter.com/search?q=BISS+KEY) | N/A |
-| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 49 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 35 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 36 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 37 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 38 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 39 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 40 | [Belly](http://twitter.com/search?q=Belly) | N/A |
+| 41 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 42 | [Lack](http://twitter.com/search?q=Lack) | N/A |
+| 43 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
+| 44 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 45 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 46 | [Security](http://twitter.com/search?q=Security) | N/A |
+| 47 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 48 | [Jani](http://twitter.com/search?q=Jani) | N/A |
+| 49 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 50 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
 
 
 

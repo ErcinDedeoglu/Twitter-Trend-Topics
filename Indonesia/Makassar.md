@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-18 07:16:43 UTC`
+📆 Last Updated: `2023-02-18 08:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 2 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 3 | [#GanjarPranowoCiamis](http://twitter.com/search?q=%23GanjarPranowoCiamis) | N/A |
-| 4 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
-| 5 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 6 | [#UN1TYKarnavalSCTV](http://twitter.com/search?q=%23UN1TYKarnavalSCTV) | N/A |
-| 7 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 8 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 9 | [D-Bank PRO](http://twitter.com/search?q=D-Bank+PRO) | N/A |
-| 10 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 11 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 12 | [Kartu Debit](http://twitter.com/search?q=Kartu+Debit) | N/A |
-| 13 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 1 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
+| 2 | [#Fighting4thWin](http://twitter.com/search?q=%23Fighting4thWin) | N/A |
+| 3 | [#MCDOYOUNG_CCMA2022](http://twitter.com/search?q=%23MCDOYOUNG_CCMA2022) | N/A |
+| 4 | [#TXTonCCMA2022](http://twitter.com/search?q=%23TXTonCCMA2022) | N/A |
+| 5 | [#UN1TYKarnavalSCTV](http://twitter.com/search?q=%23UN1TYKarnavalSCTV) | N/A |
+| 6 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 7 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 8 | [MC DOYOUNG CIRCLE CHART AWARDS](http://twitter.com/search?q=MC+DOYOUNG+CIRCLE+CHART+AWARDS) | N/A |
+| 9 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
+| 10 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 11 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 12 | [NCT DREAM KYOCERA DOME DAY2](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY2) | N/A |
+| 13 | [D-Bank PRO](http://twitter.com/search?q=D-Bank+PRO) | N/A |
 | 14 | [Alergi](http://twitter.com/search?q=Alergi) | N/A |
-| 15 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 16 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
-| 17 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 18 | [27 Rajab 1444 H](http://twitter.com/search?q=27+Rajab+1444+H) | N/A |
-| 19 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
-| 20 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 21 | [Bajaj Bajuri](http://twitter.com/search?q=Bajaj+Bajuri) | N/A |
-| 22 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 23 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
-| 24 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
-| 25 | [Libur](http://twitter.com/search?q=Libur) | N/A |
-| 26 | [Dobby](http://twitter.com/search?q=Dobby) | N/A |
-| 27 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 28 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 29 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 30 | [Halal](http://twitter.com/search?q=Halal) | N/A |
-| 31 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 32 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 33 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 34 | [#isramiraj](http://twitter.com/search?q=%23isramiraj) | N/A |
-| 35 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
-| 36 | [#WakandaForeverQuiz](http://twitter.com/search?q=%23WakandaForeverQuiz) | N/A |
-| 37 | [#WeAreMore](http://twitter.com/search?q=%23WeAreMore) | N/A |
-| 38 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
-| 39 | [#DisneyPlusHotstarID](http://twitter.com/search?q=%23DisneyPlusHotstarID) | N/A |
-| 40 | [#MINJI](http://twitter.com/search?q=%23MINJI) | N/A |
-| 41 | [#selfiewiken](http://twitter.com/search?q=%23selfiewiken) | N/A |
-| 42 | [#KCONLA](http://twitter.com/search?q=%23KCONLA) | N/A |
-| 43 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
-| 44 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 45 | [#SecretNumberJapanDebut](http://twitter.com/search?q=%23SecretNumberJapanDebut) | N/A |
-| 46 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 47 | [#Unlocked](http://twitter.com/search?q=%23Unlocked) | N/A |
-| 48 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
-| 49 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 15 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 16 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 17 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
+| 18 | [Kartu Debit](http://twitter.com/search?q=Kartu+Debit) | N/A |
+| 19 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 20 | [Teratopia](http://twitter.com/search?q=Teratopia) | N/A |
+| 21 | [Smtown](http://twitter.com/search?q=Smtown) | N/A |
+| 22 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 23 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 24 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
+| 25 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 26 | [27 Rajab 1444 H](http://twitter.com/search?q=27+Rajab+1444+H) | N/A |
+| 27 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 28 | [Bajaj Bajuri](http://twitter.com/search?q=Bajaj+Bajuri) | N/A |
+| 29 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
+| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 31 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 32 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 33 | [Halal](http://twitter.com/search?q=Halal) | N/A |
+| 34 | [Dobby](http://twitter.com/search?q=Dobby) | N/A |
+| 35 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 36 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 37 | [#BSS4thWin](http://twitter.com/search?q=%23BSS4thWin) | N/A |
+| 38 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 39 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 40 | [#GanjarPranowoCiamis](http://twitter.com/search?q=%23GanjarPranowoCiamis) | N/A |
+| 41 | [#isramiraj](http://twitter.com/search?q=%23isramiraj) | N/A |
+| 42 | [#2022CCMA_NMIXX](http://twitter.com/search?q=%232022CCMA_NMIXX) | N/A |
+| 43 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
+| 44 | [#TDS2KyoceraDome_DAY2](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY2) | N/A |
+| 45 | [#EnchantedKDJ23](http://twitter.com/search?q=%23EnchantedKDJ23) | N/A |
+| 46 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 47 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
+| 48 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 49 | [#WeAreMore](http://twitter.com/search?q=%23WeAreMore) | N/A |
 
 
 

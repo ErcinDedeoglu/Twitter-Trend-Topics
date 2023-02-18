@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-18 07:16:35 UTC`
+📆 Last Updated: `2023-02-18 08:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
 | 2 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
 | 3 | [#kcwin](http://twitter.com/search?q=%23kcwin) | N/A |
-| 4 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 5 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
-| 8 | [#vendredilecture](http://twitter.com/search?q=%23vendredilecture) | N/A |
-| 9 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
-| 10 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 11 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 12 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 13 | [diomande](http://twitter.com/search?q=diomande) | N/A |
-| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 15 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 17 | [La Marseillaise](http://twitter.com/search?q=La+Marseillaise) | N/A |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 20 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 21 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 4 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 5 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 6 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 9 | [La Marseillaise](http://twitter.com/search?q=La+Marseillaise) | N/A |
+| 10 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 11 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 12 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
+| 13 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 14 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [Chanter](http://twitter.com/search?q=Chanter) | N/A |
+| 17 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 18 | [diomande](http://twitter.com/search?q=diomande) | N/A |
+| 19 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 20 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 21 | [Offset](http://twitter.com/search?q=Offset) | N/A |
 | 22 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 23 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 24 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 25 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 26 | [amin sarr](http://twitter.com/search?q=amin+sarr) | N/A |
-| 27 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
-| 28 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 29 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
-| 32 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
-| 33 | [Passi](http://twitter.com/search?q=Passi) | N/A |
-| 34 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 35 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 36 | [pallois](http://twitter.com/search?q=pallois) | N/A |
-| 37 | [barcola](http://twitter.com/search?q=barcola) | N/A |
-| 38 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
-| 39 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 41 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
-| 42 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 43 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
-| 44 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 45 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 46 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
-| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 48 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 49 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 50 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
+| 23 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 24 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 25 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 26 | [Bernadette](http://twitter.com/search?q=Bernadette) | N/A |
+| 27 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 28 | [amin sarr](http://twitter.com/search?q=amin+sarr) | N/A |
+| 29 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 30 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 31 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
+| 32 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 33 | [ma réalité](http://twitter.com/search?q=ma+r%c3%a9alit%c3%a9) | N/A |
+| 34 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
+| 35 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 36 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 37 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 38 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 39 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
+| 40 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 41 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
+| 42 | [Passi](http://twitter.com/search?q=Passi) | N/A |
+| 43 | [Tuche](http://twitter.com/search?q=Tuche) | N/A |
+| 44 | [barcola](http://twitter.com/search?q=barcola) | N/A |
+| 45 | [Le 18](http://twitter.com/search?q=Le+18) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
+| 48 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 49 | [404billy](http://twitter.com/search?q=404billy) | N/A |
+| 50 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
 
 
 

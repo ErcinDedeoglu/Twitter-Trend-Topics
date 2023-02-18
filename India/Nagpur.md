@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-02-18 07:17:01 UTC`
+📆 Last Updated: `2023-02-18 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 2 | [Fasting Is Must](http://twitter.com/search?q=Fasting+Is+Must) | N/A |
-| 3 | [#Mahashivratri2023](http://twitter.com/search?q=%23Mahashivratri2023) | N/A |
-| 4 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 5 | [#ProjectK](http://twitter.com/search?q=%23ProjectK) | #ProjectK is a Japanese initiative that seeks to create a society where everyone can live with dignity and respect. The project aims to create an environment where people of all ages, genders, and backgrounds can live in harmony and have access to the same opportunities. The name "K" stands for "Kizuna," which means "bonds" or "connections" in Japanese. |
+| 1 | [#Mahashivratri](http://twitter.com/search?q=%23Mahashivratri) | N/A |
+| 2 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 3 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
+| 4 | [#ProjectK](http://twitter.com/search?q=%23ProjectK) | #ProjectK is a Japanese initiative that seeks to create a society where everyone can live with dignity and respect. The project aims to create an environment where people of all ages, genders, and backgrounds can live in harmony and have access to the same opportunities. The name "K" stands for "Kizuna," which means "bonds" or "connections" in Japanese. |
+| 5 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
 | 6 | [#हर_हर_महादेव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%b9%e0%a4%b0_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
 | 7 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
-| 8 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 9 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 10 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
-| 11 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 12 | [शिव अनंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4) | N/A |
-| 13 | [शिव सत्य](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
-| 14 | [Realme C3](http://twitter.com/search?q=Realme+C3) | N/A |
-| 15 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
-| 16 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 17 | [Miracle Needed InSushantCs](http://twitter.com/search?q=Miracle+Needed+InSushantCs) | N/A |
-| 18 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 19 | [Rishabh Pant](http://twitter.com/search?q=Rishabh+Pant) | Rishabh Pant is an Indian cricketer who plays for the Indian national cricket team. He is a wicket-keeper batsman and is known for his aggressive batting style. The name Rishabh Pant comes from the Sanskrit language and means "lord of success". |
-| 20 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
-| 21 | [दक्षिण अफ्रीका](http://twitter.com/search?q=%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3+%e0%a4%85%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
-| 22 | [शिव शक्ति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 23 | [THE WORLD IS WAITING](http://twitter.com/search?q=THE+WORLD+IS+WAITING) | N/A |
-| 24 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 25 | [शिव ब्रह्म](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%ae) | N/A |
-| 26 | [Shreyas](http://twitter.com/search?q=Shreyas) | N/A |
-| 27 | [चैतन्य महाप्रभु](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
-| 28 | [शिव शम्भू](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%ae%e0%a5%8d%e0%a4%ad%e0%a5%82) | N/A |
-| 29 | [शिव भगवंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
-| 30 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 31 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
-| 32 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
-| 33 | [स्वामी विवेकानंद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6) | स्वामी विवेकानंद is a title given to Mahatma Gandhi, the leader of India's independence movement. It translates to "Gandhi the Wise". |
-| 34 | [#ELECRAMA2023](http://twitter.com/search?q=%23ELECRAMA2023) | N/A |
-| 35 | [#mahakal](http://twitter.com/search?q=%23mahakal) | N/A |
-| 36 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
-| 37 | [#Mahadev](http://twitter.com/search?q=%23Mahadev) | N/A |
-| 38 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 39 | [#KLRahul](http://twitter.com/search?q=%23KLRahul) | N/A |
-| 40 | [#bholenath](http://twitter.com/search?q=%23bholenath) | N/A |
+| 8 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 9 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
+| 10 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
+| 11 | [Rishabh Pant](http://twitter.com/search?q=Rishabh+Pant) | Rishabh Pant is an Indian cricketer who plays for the Indian national cricket team. He is a wicket-keeper batsman and is known for his aggressive batting style. The name Rishabh Pant comes from the Sanskrit language and means "lord of success". |
+| 12 | [Realme C3](http://twitter.com/search?q=Realme+C3) | N/A |
+| 13 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 14 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
+| 15 | [NOT OUT](http://twitter.com/search?q=NOT+OUT) | N/A |
+| 16 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
+| 17 | [शिव अनंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4) | N/A |
+| 18 | [शिव सत्य](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
+| 19 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 20 | [दक्षिण अफ्रीका](http://twitter.com/search?q=%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3+%e0%a4%85%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
+| 21 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 22 | [Miracle Needed InSushantCs](http://twitter.com/search?q=Miracle+Needed+InSushantCs) | N/A |
+| 23 | [शिव ब्रह्म](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%ae) | N/A |
+| 24 | [शिव शक्ति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 25 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
+| 26 | [शिव भगवंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
+| 27 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 28 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
+| 29 | [THE WORLD IS WAITING](http://twitter.com/search?q=THE+WORLD+IS+WAITING) | N/A |
+| 30 | [#ELECRAMA2023](http://twitter.com/search?q=%23ELECRAMA2023) | N/A |
+| 31 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
+| 32 | [#mahakal](http://twitter.com/search?q=%23mahakal) | N/A |
+| 33 | [#SuperSarvottamOil](http://twitter.com/search?q=%23SuperSarvottamOil) | N/A |
+| 34 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 35 | [#Mahadev](http://twitter.com/search?q=%23Mahadev) | N/A |
+| 36 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
+| 37 | [#BGT23](http://twitter.com/search?q=%23BGT23) | N/A |
+| 38 | [#IndVsAus2023](http://twitter.com/search?q=%23IndVsAus2023) | N/A |
+| 39 | [#BhairathiRanagal](http://twitter.com/search?q=%23BhairathiRanagal) | N/A |
+| 40 | [#KLRahul](http://twitter.com/search?q=%23KLRahul) | N/A |
 | 41 | [#SchneiderAtElecrama23](http://twitter.com/search?q=%23SchneiderAtElecrama23) | N/A |
-| 42 | [#BhairathiRanagal](http://twitter.com/search?q=%23BhairathiRanagal) | N/A |
+| 42 | [#HeeraMandi](http://twitter.com/search?q=%23HeeraMandi) | N/A |
 | 43 | [#महाकाल](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 44 | [#Salaar](http://twitter.com/search?q=%23Salaar) | N/A |
-| 45 | [#BGT23](http://twitter.com/search?q=%23BGT23) | N/A |
-| 46 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
-| 47 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
-| 48 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 44 | [#bholenath](http://twitter.com/search?q=%23bholenath) | N/A |
+| 45 | [#Narthan](http://twitter.com/search?q=%23Narthan) | N/A |
+| 46 | [#SanjayLeelaBhansali](http://twitter.com/search?q=%23SanjayLeelaBhansali) | N/A |
+| 47 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
+| 48 | [#Salaar](http://twitter.com/search?q=%23Salaar) | N/A |
 | 49 | [#AmitabhBachchan](http://twitter.com/search?q=%23AmitabhBachchan) | N/A |
 
 

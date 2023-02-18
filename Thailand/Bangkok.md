@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-18 07:16:52 UTC`
+📆 Last Updated: `2023-02-18 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
-| 2 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
-| 3 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
-| 4 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 1 | [#ParkJinYoungInBKK2023](http://twitter.com/search?q=%23ParkJinYoungInBKK2023) | #ParkJinYoungInBKK2023 is a hashtag used to promote a potential concert by South Korean singer and songwriter Park Jin Young in Bangkok, Thailand in 2023. The hashtag is used to encourage fans to show their support for the potential event. |
+| 2 | [#OPPOReno8T5G_th](http://twitter.com/search?q=%23OPPOReno8T5G_th) | N/A |
+| 3 | [#WCAsia](http://twitter.com/search?q=%23WCAsia) | N/A |
+| 4 | [#กว่าจะเป็นโอห์มฟลุ้ค](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b0%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%82%e0%b8%ad%e0%b8%ab%e0%b9%8c%e0%b8%a1%e0%b8%9f%e0%b8%a5%e0%b8%b8%e0%b9%89%e0%b8%84) | N/A |
+| 5 | [#BDGFanCon](http://twitter.com/search?q=%23BDGFanCon) | N/A |
 | 6 | [NNNGrab A Nice Day](http://twitter.com/search?q=NNNGrab+A+Nice+Day) | N/A |
-| 7 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
-| 8 | [bambam gm 17february](http://twitter.com/search?q=bambam+gm+17february) | N/A |
-| 9 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 10 | [BAMBAM HOME WITH TANAKA](http://twitter.com/search?q=BAMBAM+HOME+WITH+TANAKA) | N/A |
-| 11 | [HongKong X Bright](http://twitter.com/search?q=HongKong+X+Bright) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Ten in Paris](http://twitter.com/search?q=Ten+in+Paris) | N/A |
-| 14 | [HWANDERFUL YEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFUL+YEARS+WITH+JUNGHWAN) | N/A |
-| 15 | [BAMBAM SPECIAL MC FUN STAURANT](http://twitter.com/search?q=BAMBAM+SPECIAL+MC+FUN+STAURANT) | N/A |
-| 16 | [Win x HK](http://twitter.com/search?q=Win+x+HK) | N/A |
-| 17 | [CHARLOTTE BE MY LOVE18](http://twitter.com/search?q=CHARLOTTE+BE+MY+LOVE18) | N/A |
-| 18 | [Sawasdee](http://twitter.com/search?q=Sawasdee) | N/A |
-| 19 | [702 Menu Challenge](http://twitter.com/search?q=702+Menu+Challenge) | N/A |
-| 20 | [18 Morning Dunk](http://twitter.com/search?q=18+Morning+Dunk) | N/A |
-| 21 | [Mpreg](http://twitter.com/search?q=Mpreg) | N/A |
-| 22 | [MORNING 18 NNINE](http://twitter.com/search?q=MORNING+18+NNINE) | N/A |
-| 23 | [SPECIAL DAY18 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY18+OF+ENGFA) | N/A |
-| 24 | [10DS LEFT FAREWELL NUDEE](http://twitter.com/search?q=10DS+LEFT+FAREWELL+NUDEE) | N/A |
-| 25 | [USAR Thailand](http://twitter.com/search?q=USAR+Thailand) | N/A |
-| 26 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 27 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 28 | [Youku](http://twitter.com/search?q=Youku) | N/A |
-| 29 | [#น้ําหนึ่งเนย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
-| 30 | [#สบู่ทับทิมนัมเบอร์วันxอิงล็อต](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%97%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b4%e0%b8%a1%e0%b8%99%e0%b8%b1%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a7%e0%b8%b1%e0%b8%99x%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 31 | [#วอร์คราฟLV22xMLifestore](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%9fLV22xMLifestore) | N/A |
-| 32 | [#WelcomeJINYOUNGtoThailand](http://twitter.com/search?q=%23WelcomeJINYOUNGtoThailand) | N/A |
-| 33 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 34 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
-| 35 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 36 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
-| 37 | [#18กุมภากดบัตรคอนเนเน่](http://twitter.com/search?q=%2318%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88) | N/A |
-| 38 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 39 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
-| 40 | [#DestinyClinicYinWar](http://twitter.com/search?q=%23DestinyClinicYinWar) | #DestinyClinicYinWar is a hashtag used to promote the Destiny Clinic, a holistic health and wellness center in California. The hashtag is meant to encourage people to take control of their own destiny and make positive changes in their lives. The phrase "Yin War" is derived from the Chinese philosophy of Yin and Yang, which states that opposite forces are interconnected and interdependent in the natural world. |
-| 41 | [#IPSAxFirst](http://twitter.com/search?q=%23IPSAxFirst) | N/A |
-| 42 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 43 | [#FreenBeckyXHOKAClifton9](http://twitter.com/search?q=%23FreenBeckyXHOKAClifton9) | N/A |
-| 44 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
-| 45 | [#400KRestartWithOurPeat](http://twitter.com/search?q=%23400KRestartWithOurPeat) | N/A |
-| 46 | [#JDENTXZeeNunew](http://twitter.com/search?q=%23JDENTXZeeNunew) | N/A |
-| 47 | [#อายุ23มีgangsTaเป็นของตัวเอง](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%a2%e0%b8%b823%e0%b8%a1%e0%b8%b5gangsTa%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%ad%e0%b8%87) | N/A |
-| 48 | [#WCAsia](http://twitter.com/search?q=%23WCAsia) | N/A |
-| 49 | [#HBDnannakunTa](http://twitter.com/search?q=%23HBDnannakunTa) | N/A |
-| 50 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 7 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 8 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
+| 9 | [702 Menu Challenge](http://twitter.com/search?q=702+Menu+Challenge) | N/A |
+| 10 | [#น้ําหนึ่งเนย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
+| 11 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
+| 12 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
+| 13 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 14 | [#aespaAtCCMA](http://twitter.com/search?q=%23aespaAtCCMA) | N/A |
+| 15 | [#วอร์คราฟLV22xMLifestore](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%9fLV22xMLifestore) | N/A |
+| 16 | [#MCDOYOUNG_CCMA2022](http://twitter.com/search?q=%23MCDOYOUNG_CCMA2022) | N/A |
+| 17 | [#ช้อปปี้หยิ่นวอร์](http://twitter.com/search?q=%23%e0%b8%8a%e0%b9%89%e0%b8%ad%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 18 | [#Saveme_Killme_INBKK](http://twitter.com/search?q=%23Saveme_Killme_INBKK) | N/A |
+| 19 | [#IPSAxFirst](http://twitter.com/search?q=%23IPSAxFirst) | N/A |
+| 20 | [#HBDnannakunTa](http://twitter.com/search?q=%23HBDnannakunTa) | N/A |
+| 21 | [#อายุ23มีgangsTaเป็นของตัวเอง](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%a2%e0%b8%b823%e0%b8%a1%e0%b8%b5gangsTa%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%ad%e0%b8%87) | N/A |
+| 22 | [#ล็อคกี้แฟน](http://twitter.com/search?q=%23%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%84%e0%b8%81%e0%b8%b5%e0%b9%89%e0%b9%81%e0%b8%9f%e0%b8%99) | N/A |
+| 23 | [#TENcomeHOME](http://twitter.com/search?q=%23TENcomeHOME) | N/A |
+| 24 | [#EdinTheMomentxTLPH](http://twitter.com/search?q=%23EdinTheMomentxTLPH) | N/A |
+| 25 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 26 | [#400KRestartWithOurPeat](http://twitter.com/search?q=%23400KRestartWithOurPeat) | N/A |
+| 27 | [#18กุมภากดบัตรคอนเนเน่](http://twitter.com/search?q=%2318%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88) | N/A |
+| 28 | [#เภตรานฤมิต](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95) | N/A |
+| 29 | [#รถโรงเรียนSchoolRangers](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%96%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99SchoolRangers) | N/A |
+| 30 | [#JINYOUNGFanconBKK](http://twitter.com/search?q=%23JINYOUNGFanconBKK) | N/A |
+| 31 | [#RPL2023Summer](http://twitter.com/search?q=%23RPL2023Summer) | N/A |
+| 32 | [#GMMShow](http://twitter.com/search?q=%23GMMShow) | N/A |
+| 33 | [#PPKritลังเล_EyesOnMeRound1](http://twitter.com/search?q=%23PPKrit%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5_EyesOnMeRound1) | N/A |
+| 34 | [#เอดินลูกพ่อเอิร์ท](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%ad%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
+| 35 | [#เมนูขนมจีนกินกับอะไรดี](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%99%e0%b8%b9%e0%b8%82%e0%b8%99%e0%b8%a1%e0%b8%88%e0%b8%b5%e0%b8%99%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3%e0%b8%94%e0%b8%b5) | N/A |
+| 36 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
+| 37 | [#ta_nannakun](http://twitter.com/search?q=%23ta_nannakun) | N/A |
+| 38 | [#23rdLoveJimmyInfinity](http://twitter.com/search?q=%2323rdLoveJimmyInfinity) | N/A |
+| 39 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
+| 40 | [#จมอ่านว่าจอมอ](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%ad%e0%b8%a1%e0%b8%ad) | N/A |
+| 41 | [#BOWKYLIONLANTACONCERT](http://twitter.com/search?q=%23BOWKYLIONLANTACONCERT) | N/A |
+| 42 | [#วอลเลย์บอลหญิง](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8c%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87) | N/A |
+| 43 | [#WayV_Phantom_FANSIGNinBKK](http://twitter.com/search?q=%23WayV_Phantom_FANSIGNinBKK) | N/A |
+| 44 | [#OMGรักจังวะผิดจังหวะ](http://twitter.com/search?q=%23OMG%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%88%e0%b8%b1%e0%b8%87%e0%b8%a7%e0%b8%b0%e0%b8%9c%e0%b8%b4%e0%b8%94%e0%b8%88%e0%b8%b1%e0%b8%87%e0%b8%ab%e0%b8%a7%e0%b8%b0) | N/A |
+| 45 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
+| 46 | [#OhmNanonreadyforVN](http://twitter.com/search?q=%23OhmNanonreadyforVN) | N/A |
 
 
 
