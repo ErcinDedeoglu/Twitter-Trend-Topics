@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-18 14:17:25 UTC`
+📆 Last Updated: `2023-02-18 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
-| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 4 | [IESS](http://twitter.com/search?q=IESS) | N/A |
-| 5 | [#Galápagos](http://twitter.com/search?q=%23Gal%c3%a1pagos) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 8 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 9 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 10 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 11 | [Jorge Ortiz](http://twitter.com/search?q=Jorge+Ortiz) | N/A |
-| 12 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
-| 13 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
-| 14 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 15 | [Diana Salazar](http://twitter.com/search?q=Diana+Salazar) | N/A |
-| 16 | [#aucas](http://twitter.com/search?q=%23aucas) | N/A |
-| 17 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 18 | [Marcela](http://twitter.com/search?q=Marcela) | N/A |
-| 19 | [Darío Aimar](http://twitter.com/search?q=Dar%c3%ado+Aimar) | N/A |
-| 20 | [#LassoNarcotrafico](http://twitter.com/search?q=%23LassoNarcotrafico) | N/A |
-| 21 | [Hoseok](http://twitter.com/search?q=Hoseok) | N/A |
-| 22 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 23 | [Sixto Vizuete](http://twitter.com/search?q=Sixto+Vizuete) | N/A |
-| 24 | [Hospital](http://twitter.com/search?q=Hospital) | N/A |
-| 25 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 27 | [guillermo valle](http://twitter.com/search?q=guillermo+valle) | N/A |
-| 28 | [Zarigüeya](http://twitter.com/search?q=Zarig%c3%bceya) | N/A |
-| 29 | [Atahualpa](http://twitter.com/search?q=Atahualpa) | N/A |
-| 30 | [guanchaca](http://twitter.com/search?q=guanchaca) | N/A |
-| 31 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 32 | [Patricia Ochoa](http://twitter.com/search?q=Patricia+Ochoa) | N/A |
-| 33 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [Tonga](http://twitter.com/search?q=Tonga) | N/A |
-| 36 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
-| 37 | [PERONÉ](http://twitter.com/search?q=PERON%c3%89) | N/A |
-| 38 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 39 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 40 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 41 | [miguel ángel loor](http://twitter.com/search?q=miguel+%c3%a1ngel+loor) | N/A |
-| 42 | [Monte Sinaí](http://twitter.com/search?q=Monte+Sina%c3%ad) | N/A |
-| 43 | [Salinas](http://twitter.com/search?q=Salinas) | N/A |
-| 44 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 45 | [Referente](http://twitter.com/search?q=Referente) | N/A |
-| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 47 | [Antonio Valencia](http://twitter.com/search?q=Antonio+Valencia) | N/A |
-| 48 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 49 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 50 | [francisco jiménez](http://twitter.com/search?q=francisco+jim%c3%a9nez) | N/A |
+| 1 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 4 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 5 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
+| 6 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 7 | [IESS](http://twitter.com/search?q=IESS) | N/A |
+| 8 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 10 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
+| 13 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 14 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 15 | [#Galápagos](http://twitter.com/search?q=%23Gal%c3%a1pagos) | N/A |
+| 16 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
+| 17 | [Jorge Ortiz](http://twitter.com/search?q=Jorge+Ortiz) | N/A |
+| 18 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 19 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 20 | [Diana Salazar](http://twitter.com/search?q=Diana+Salazar) | N/A |
+| 21 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 22 | [Darío Aimar](http://twitter.com/search?q=Dar%c3%ado+Aimar) | N/A |
+| 23 | [#LassoNarcotrafico](http://twitter.com/search?q=%23LassoNarcotrafico) | N/A |
+| 24 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 25 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 26 | [Sixto Vizuete](http://twitter.com/search?q=Sixto+Vizuete) | N/A |
+| 27 | [Hospital](http://twitter.com/search?q=Hospital) | N/A |
+| 28 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 29 | [guillermo valle](http://twitter.com/search?q=guillermo+valle) | N/A |
+| 30 | [Zarigüeya](http://twitter.com/search?q=Zarig%c3%bceya) | N/A |
+| 31 | [Atahualpa](http://twitter.com/search?q=Atahualpa) | N/A |
+| 32 | [guanchaca](http://twitter.com/search?q=guanchaca) | N/A |
+| 33 | [Marcela](http://twitter.com/search?q=Marcela) | N/A |
+| 34 | [#masterchefecuador](http://twitter.com/search?q=%23masterchefecuador) | N/A |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [Patricia Ochoa](http://twitter.com/search?q=Patricia+Ochoa) | N/A |
+| 37 | [Tonga](http://twitter.com/search?q=Tonga) | N/A |
+| 38 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 39 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 40 | [Peroné](http://twitter.com/search?q=Peron%c3%a9) | N/A |
+| 41 | [referente](http://twitter.com/search?q=referente) | N/A |
+| 42 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 43 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 44 | [miguel ángel loor](http://twitter.com/search?q=miguel+%c3%a1ngel+loor) | N/A |
+| 45 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 46 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 48 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 49 | [Antonio Valencia](http://twitter.com/search?q=Antonio+Valencia) | N/A |
+| 50 | [Monte Sinaí](http://twitter.com/search?q=Monte+Sina%c3%ad) | N/A |
 
 
 

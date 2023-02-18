@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-18 14:17:10 UTC`
+📆 Last Updated: `2023-02-18 15:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#شب_معراج](http://twitter.com/search?q=%23%d8%b4%d8%a8_%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
 | 3 | [#KKvQG](http://twitter.com/search?q=%23KKvQG) | N/A |
 | 4 | [#پاکستان_دشمن_پانچ_کردار](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%af%d8%b4%d9%85%d9%86_%d9%be%d8%a7%d9%86%da%86_%da%a9%d8%b1%d8%af%d8%a7%d8%b1) | N/A |
-| 5 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 6 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 5 | [#QGvsKK](http://twitter.com/search?q=%23QGvsKK) | N/A |
+| 6 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
 | 7 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 10 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
-| 13 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 14 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 15 | [Planted](http://twitter.com/search?q=Planted) | N/A |
-| 16 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 17 | [Faisal](http://twitter.com/search?q=Faisal) | N/A |
-| 18 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 19 | [Imran Tahir](http://twitter.com/search?q=Imran+Tahir) | N/A |
-| 20 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
-| 21 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
-| 22 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 23 | [rilee rossouw](http://twitter.com/search?q=rilee+rossouw) | N/A |
-| 24 | [Drama](http://twitter.com/search?q=Drama) | N/A |
-| 25 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
-| 26 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 27 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 28 | [Islamists](http://twitter.com/search?q=Islamists) | N/A |
-| 29 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 30 | [edtech](http://twitter.com/search?q=edtech) | N/A |
-| 31 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
-| 32 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 33 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 34 | [Saeed Anwar](http://twitter.com/search?q=Saeed+Anwar) | N/A |
-| 35 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
-| 36 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 37 | [flop](http://twitter.com/search?q=flop) | N/A |
-| 38 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
-| 39 | [Dogar](http://twitter.com/search?q=Dogar) | N/A |
-| 40 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
-| 41 | [Muzammil](http://twitter.com/search?q=Muzammil) | N/A |
-| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 43 | [Makkah](http://twitter.com/search?q=Makkah) | N/A |
-| 44 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 45 | [The Romantics](http://twitter.com/search?q=The+Romantics) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Desi](http://twitter.com/search?q=Desi) | N/A |
-| 48 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 49 | [Youthias](http://twitter.com/search?q=Youthias) | N/A |
-| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 8 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 9 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 12 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 13 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
+| 14 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 15 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 16 | [27 Rajab](http://twitter.com/search?q=27+Rajab) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 19 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 20 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 21 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 23 | [Will Smeed](http://twitter.com/search?q=Will+Smeed) | N/A |
+| 24 | [faisal](http://twitter.com/search?q=faisal) | N/A |
+| 25 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
+| 26 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 27 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 28 | [rilee rossouw](http://twitter.com/search?q=rilee+rossouw) | N/A |
+| 29 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 30 | [Terrorists](http://twitter.com/search?q=Terrorists) | N/A |
+| 31 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 32 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 34 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 35 | [Imran Tahir](http://twitter.com/search?q=Imran+Tahir) | N/A |
+| 36 | [Islamists](http://twitter.com/search?q=Islamists) | N/A |
+| 37 | [Planted](http://twitter.com/search?q=Planted) | N/A |
+| 38 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 39 | [IAEA](http://twitter.com/search?q=IAEA) | N/A |
+| 40 | [Sethi](http://twitter.com/search?q=Sethi) | N/A |
+| 41 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 42 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 43 | [Drama](http://twitter.com/search?q=Drama) | N/A |
+| 44 | [Qasim](http://twitter.com/search?q=Qasim) | N/A |
+| 45 | [Creator](http://twitter.com/search?q=Creator) | N/A |
+| 46 | [Makkah](http://twitter.com/search?q=Makkah) | N/A |
+| 47 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 48 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 49 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
+| 50 | [Professional](http://twitter.com/search?q=Professional) | N/A |
 
 
 

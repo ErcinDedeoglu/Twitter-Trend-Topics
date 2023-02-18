@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-02-18 14:16:40 UTC`
+📆 Last Updated: `2023-02-18 15:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
 | 2 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
 | 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 6 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 8 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 10 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 13 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 14 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 15 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 16 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 17 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 18 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 7 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 8 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 9 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 10 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 11 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 12 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 13 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 14 | [anubis](http://twitter.com/search?q=anubis) | N/A |
+| 15 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 16 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
+| 17 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 18 | [Baca](http://twitter.com/search?q=Baca) | N/A |
 | 19 | [guillermo gonzález camarena](http://twitter.com/search?q=guillermo+gonz%c3%a1lez+camarena) | N/A |
-| 20 | [Nexus](http://twitter.com/search?q=Nexus) | N/A |
-| 21 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 20 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 22 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 23 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 24 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
-| 25 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 28 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 29 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
-| 30 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
-| 31 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 32 | [Chilaquiles](http://twitter.com/search?q=Chilaquiles) | N/A |
-| 33 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 34 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 35 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 36 | [JAKE RUBIO](http://twitter.com/search?q=JAKE+RUBIO) | N/A |
-| 37 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
-| 38 | [mario b x leon leiden](http://twitter.com/search?q=mario+b+x+leon+leiden) | N/A |
-| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 40 | [alejandro del valle](http://twitter.com/search?q=alejandro+del+valle) | N/A |
-| 41 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 42 | [charly rodríguez](http://twitter.com/search?q=charly+rodr%c3%adguez) | N/A |
-| 43 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 44 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 45 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 46 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 47 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 48 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 49 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 23 | [Nexus](http://twitter.com/search?q=Nexus) | N/A |
+| 24 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 25 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 26 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 27 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 28 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 29 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 30 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 31 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 32 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 33 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
+| 34 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 35 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 36 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
+| 37 | [Cota](http://twitter.com/search?q=Cota) | N/A |
+| 38 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
+| 39 | [JAKE RUBIO](http://twitter.com/search?q=JAKE+RUBIO) | N/A |
+| 40 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 41 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 42 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 43 | [Charly Rodríguez](http://twitter.com/search?q=Charly+Rodr%c3%adguez) | N/A |
+| 44 | [leon leiden](http://twitter.com/search?q=leon+leiden) | N/A |
+| 45 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 46 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 47 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 48 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
+| 49 | [Chilaquiles](http://twitter.com/search?q=Chilaquiles) | N/A |
 
 
 

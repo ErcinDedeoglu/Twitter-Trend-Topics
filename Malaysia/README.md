@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-18 14:17:28 UTC`
+📆 Last Updated: `2023-02-18 15:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Malaysia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 5 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 6 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 8 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 9 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 10 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 11 | [#218BROSinTOWN](http://twitter.com/search?q=%23218BROSinTOWN) | N/A |
-| 12 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
-| 15 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 16 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 18 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 19 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 20 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 21 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 23 | [Wei Wei](http://twitter.com/search?q=Wei+Wei) | N/A |
-| 24 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 25 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 26 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 27 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 28 | [Yena](http://twitter.com/search?q=Yena) | N/A |
-| 29 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 30 | [Hoseok](http://twitter.com/search?q=Hoseok) | N/A |
-| 31 | [Jin Wei](http://twitter.com/search?q=Jin+Wei) | N/A |
-| 32 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 33 | [send my song to build](http://twitter.com/search?q=send+my+song+to+build) | N/A |
-| 34 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 35 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
-| 36 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 37 | [johnny bravo](http://twitter.com/search?q=johnny+bravo) | N/A |
-| 38 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 39 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 40 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 41 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 42 | [klang](http://twitter.com/search?q=klang) | N/A |
-| 43 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
-| 44 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 45 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
-| 46 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 47 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 48 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 49 | [woobin](http://twitter.com/search?q=woobin) | N/A |
-| 50 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 2 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 3 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 4 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 7 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 8 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 9 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 11 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 12 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 13 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 14 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 15 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 16 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 17 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 18 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 19 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 21 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 23 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 24 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 25 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 26 | [Yena](http://twitter.com/search?q=Yena) | N/A |
+| 27 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 28 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 30 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 31 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 32 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 33 | [Jin Wei](http://twitter.com/search?q=Jin+Wei) | N/A |
+| 34 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 35 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 36 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 37 | [Unai Emery](http://twitter.com/search?q=Unai+Emery) | Unai Emery is the name of a Spanish football manager and former player. He is currently the head coach of Arsenal Football Club in the English Premier League. The name Unai Emery is derived from the Basque language and means "the one who has courage". |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 40 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 41 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 42 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 43 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 44 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 45 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 46 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
+| 47 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 48 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
+| 49 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 50 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 
 
 

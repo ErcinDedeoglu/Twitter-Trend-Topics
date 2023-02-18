@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-02-18 14:16:37 UTC`
+📆 Last Updated: `2023-02-18 15:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 2 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 3 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 4 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 5 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 6 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 7 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 8 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 9 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
-| 10 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 11 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 1 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 2 | [#BOBBY90](http://twitter.com/search?q=%23BOBBY90) | N/A |
+| 3 | [Tommy Doyle](http://twitter.com/search?q=Tommy+Doyle) | N/A |
+| 4 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 6 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
+| 7 | [#ENGvIND](http://twitter.com/search?q=%23ENGvIND) | N/A |
+| 8 | [Konsa](http://twitter.com/search?q=Konsa) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 11 | [#ASVARS](http://twitter.com/search?q=%23ASVARS) | N/A |
 | 12 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 13 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 14 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 15 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 16 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 17 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 19 | [#ASTARS](http://twitter.com/search?q=%23ASTARS) | N/A |
-| 20 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 21 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 22 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 23 | [#VILARS](http://twitter.com/search?q=%23VILARS) | N/A |
-| 24 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 25 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 26 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 27 | [#avfc](http://twitter.com/search?q=%23avfc) | #avfc stands for Aston Villa Football Club, an English professional football club based in Birmingham. |
-| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 29 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 30 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 31 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 32 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 33 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 34 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
-| 35 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 36 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 37 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 15 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 17 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 18 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 20 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 21 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 22 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 23 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 24 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 25 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 26 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 27 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 28 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 29 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 30 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 31 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 32 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 33 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 34 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 35 | [Bradshaw](http://twitter.com/search?q=Bradshaw) | N/A |
+| 36 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 37 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 38 | [Orsic](http://twitter.com/search?q=Orsic) | N/A |
-| 39 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 40 | [George Long](http://twitter.com/search?q=George+Long) | N/A |
-| 41 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 42 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
-| 43 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 44 | [RIP Christian](http://twitter.com/search?q=RIP+Christian) | N/A |
-| 45 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 46 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 47 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 48 | [Oscar Elite](http://twitter.com/search?q=Oscar+Elite) | N/A |
-| 49 | [Bradshaw](http://twitter.com/search?q=Bradshaw) | N/A |
-| 50 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 39 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 40 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 41 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 42 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 43 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 44 | [Mateta](http://twitter.com/search?q=Mateta) | Mateta is a Spanish word that means "to be content" or "to be satisfied". It is often used to describe a feeling of contentment or satisfaction with one's life. |
+| 45 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
+| 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 47 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 48 | [Berge](http://twitter.com/search?q=Berge) | N/A |
+| 49 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
+| 50 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
 
 
 

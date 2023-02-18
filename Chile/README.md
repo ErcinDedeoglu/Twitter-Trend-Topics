@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-18 14:17:24 UTC`
+📆 Last Updated: `2023-02-18 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NocheCero](http://twitter.com/search?q=%23NocheCero) | N/A |
-| 2 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
-| 3 | [#GALA](http://twitter.com/search?q=%23GALA) | N/A |
-| 4 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 5 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
-| 6 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
-| 7 | [Vesta](http://twitter.com/search?q=Vesta) | N/A |
-| 8 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 11 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
-| 12 | [#Coronel](http://twitter.com/search?q=%23Coronel) | N/A |
-| 13 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
-| 14 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 15 | [Luli](http://twitter.com/search?q=Luli) | N/A |
-| 16 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 17 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
-| 18 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
-| 19 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
-| 20 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 21 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
-| 22 | [CARLOS PINTO](http://twitter.com/search?q=CARLOS+PINTO) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
-| 25 | [marlen](http://twitter.com/search?q=marlen) | N/A |
-| 26 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 27 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
-| 28 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 29 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
-| 30 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
+| 2 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [#alfombraroja](http://twitter.com/search?q=%23alfombraroja) | N/A |
+| 5 | [#GALA](http://twitter.com/search?q=%23GALA) | N/A |
+| 6 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 7 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
+| 8 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 9 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 10 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
+| 11 | [Vesta](http://twitter.com/search?q=Vesta) | N/A |
+| 12 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 13 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 14 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
+| 15 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 16 | [leonor varela](http://twitter.com/search?q=leonor+varela) | N/A |
+| 17 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 18 | [luli](http://twitter.com/search?q=luli) | N/A |
+| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 20 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
+| 21 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
+| 22 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 23 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 24 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
+| 25 | [CARLOS PINTO](http://twitter.com/search?q=CARLOS+PINTO) | N/A |
+| 26 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
+| 29 | [Marlen](http://twitter.com/search?q=Marlen) | N/A |
+| 30 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
 | 31 | [pancha merino](http://twitter.com/search?q=pancha+merino) | N/A |
-| 32 | [Eugenia Lemos](http://twitter.com/search?q=Eugenia+Lemos) | N/A |
+| 32 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
 | 33 | [power peralta](http://twitter.com/search?q=power+peralta) | N/A |
-| 34 | [Loreto Aravena](http://twitter.com/search?q=Loreto+Aravena) | N/A |
-| 35 | [daniela chávez](http://twitter.com/search?q=daniela+ch%c3%a1vez) | N/A |
-| 36 | [cote lopez](http://twitter.com/search?q=cote+lopez) | N/A |
-| 37 | [cerro San Cristóbal](http://twitter.com/search?q=cerro+San+Crist%c3%b3bal) | N/A |
-| 38 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
-| 39 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 40 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 41 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
-| 42 | [karen paola](http://twitter.com/search?q=karen+paola) | N/A |
-| 43 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
+| 34 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
+| 35 | [Loreto Aravena](http://twitter.com/search?q=Loreto+Aravena) | N/A |
+| 36 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
+| 37 | [cote lopez](http://twitter.com/search?q=cote+lopez) | N/A |
+| 38 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 39 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 40 | [EUGENIA](http://twitter.com/search?q=EUGENIA) | N/A |
+| 41 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 42 | [Karen Paola](http://twitter.com/search?q=Karen+Paola) | N/A |
+| 43 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
 | 44 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 45 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 46 | [matías assler](http://twitter.com/search?q=mat%c3%adas+assler) | N/A |
-| 47 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
-| 48 | [lou lee](http://twitter.com/search?q=lou+lee) | N/A |
-| 49 | [Mary Rose](http://twitter.com/search?q=Mary+Rose) | N/A |
-| 50 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 45 | [matías assler](http://twitter.com/search?q=mat%c3%adas+assler) | N/A |
+| 46 | [lou lee](http://twitter.com/search?q=lou+lee) | N/A |
+| 47 | [Mary Rose](http://twitter.com/search?q=Mary+Rose) | N/A |
+| 48 | [Colombiano](http://twitter.com/search?q=Colombiano) | N/A |
+| 49 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 50 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
 
 
 

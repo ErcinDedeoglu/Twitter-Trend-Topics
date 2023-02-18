@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-18 14:17:28 UTC`
+📆 Last Updated: `2023-02-18 15:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 2 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 4 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 | 5 | [SUNEDU](http://twitter.com/search?q=SUNEDU) | N/A |
-| 6 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
-| 7 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
-| 8 | [#primerodios](http://twitter.com/search?q=%23primerodios) | N/A |
-| 9 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 10 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
-| 11 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 12 | [lorenzo musetti](http://twitter.com/search?q=lorenzo+musetti) | N/A |
-| 13 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 14 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
-| 15 | [Porky](http://twitter.com/search?q=Porky) | N/A |
-| 16 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
-| 17 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 18 | [#TXTonCCMA2022](http://twitter.com/search?q=%23TXTonCCMA2022) | N/A |
-| 19 | [yoshimar yotún](http://twitter.com/search?q=yoshimar+yot%c3%ban) | N/A |
-| 20 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 21 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 22 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 23 | [con 59](http://twitter.com/search?q=con+59) | N/A |
-| 24 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 25 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 26 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 27 | [Hoseok](http://twitter.com/search?q=Hoseok) | N/A |
-| 28 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 29 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 30 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
-| 31 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 32 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
-| 33 | [Blume](http://twitter.com/search?q=Blume) | N/A |
-| 34 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
-| 35 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 36 | [feliz cumpleaños mi amor](http://twitter.com/search?q=feliz+cumplea%c3%b1os+mi+amor) | N/A |
-| 37 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 38 | [Geiner Alvarado](http://twitter.com/search?q=Geiner+Alvarado) | N/A |
-| 39 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 40 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
-| 41 | [Comisión de Constitución](http://twitter.com/search?q=Comisi%c3%b3n+de+Constituci%c3%b3n) | N/A |
-| 42 | [Juan Silva](http://twitter.com/search?q=Juan+Silva) | N/A |
-| 43 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 44 | [alessia](http://twitter.com/search?q=alessia) | N/A |
-| 45 | [Cacas](http://twitter.com/search?q=Cacas) | N/A |
-| 46 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
-| 47 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
-| 48 | [Alberto Gallardo](http://twitter.com/search?q=Alberto+Gallardo) | N/A |
-| 49 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 50 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 6 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 7 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 8 | [Prohibido](http://twitter.com/search?q=Prohibido) | N/A |
+| 9 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 10 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
+| 11 | [#primerodios](http://twitter.com/search?q=%23primerodios) | N/A |
+| 12 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
+| 13 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 14 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 15 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 16 | [Lorenzo Musetti](http://twitter.com/search?q=Lorenzo+Musetti) | N/A |
+| 17 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
+| 18 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 19 | [Porky](http://twitter.com/search?q=Porky) | N/A |
+| 20 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
+| 21 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 22 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 23 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 24 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 25 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 26 | [con 59](http://twitter.com/search?q=con+59) | N/A |
+| 27 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 28 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 30 | [#acéptalosunat](http://twitter.com/search?q=%23ac%c3%a9ptalosunat) | N/A |
+| 31 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 32 | [cajamarca](http://twitter.com/search?q=cajamarca) | N/A |
+| 33 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 34 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
+| 35 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 36 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 37 | [FELIZ CUMPLEAÑOS MI AMOR](http://twitter.com/search?q=FELIZ+CUMPLEA%c3%91OS+MI+AMOR) | N/A |
+| 38 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 39 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
+| 40 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 42 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
+| 43 | [campos](http://twitter.com/search?q=campos) | N/A |
+| 44 | [Yotún](http://twitter.com/search?q=Yot%c3%ban) | N/A |
+| 45 | [comisión de constitución](http://twitter.com/search?q=comisi%c3%b3n+de+constituci%c3%b3n) | N/A |
+| 46 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
+| 47 | [Pleno del Congreso](http://twitter.com/search?q=Pleno+del+Congreso) | N/A |
+| 48 | [Blume](http://twitter.com/search?q=Blume) | N/A |
+| 49 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
+| 50 | [Alberto Gallardo](http://twitter.com/search?q=Alberto+Gallardo) | N/A |
 
 
 

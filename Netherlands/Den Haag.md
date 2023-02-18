@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-18 14:16:52 UTC`
+📆 Last Updated: `2023-02-18 15:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 2 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 1 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 2 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 5 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
-| 6 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 8 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
-| 9 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 10 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 4 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 5 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 6 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 7 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 8 | [#ASVARS](http://twitter.com/search?q=%23ASVARS) | N/A |
+| 9 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 10 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 | 11 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 13 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 14 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 12 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
 | 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
-| 17 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
-| 18 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
-| 19 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 22 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 23 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 24 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
+| 16 | [nijhuis](http://twitter.com/search?q=nijhuis) | N/A |
+| 17 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
+| 18 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 19 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
+| 20 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 21 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 22 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 23 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
+| 24 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
 | 25 | [Zorginstellingen](http://twitter.com/search?q=Zorginstellingen) | N/A |
-| 26 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 27 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 28 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
-| 29 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
-| 30 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 31 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
-| 32 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 33 | [klappertjes](http://twitter.com/search?q=klappertjes) | N/A |
-| 34 | [zelenski in kiev](http://twitter.com/search?q=zelenski+in+kiev) | N/A |
-| 35 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
-| 36 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
-| 37 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 38 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 26 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
+| 27 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 28 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 29 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 30 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 31 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 32 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 33 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 34 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 35 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 36 | [klappertjes](http://twitter.com/search?q=klappertjes) | N/A |
+| 37 | [zelenski in kiev](http://twitter.com/search?q=zelenski+in+kiev) | N/A |
+| 38 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 39 | [Minder D66](http://twitter.com/search?q=Minder+D66) | N/A |
-| 40 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 41 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 42 | [Bouterse](http://twitter.com/search?q=Bouterse) | N/A |
-| 43 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 44 | [Ivo Niehe](http://twitter.com/search?q=Ivo+Niehe) | N/A |
-| 45 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 46 | [Vaessen](http://twitter.com/search?q=Vaessen) | N/A |
-| 47 | [Liesje](http://twitter.com/search?q=Liesje) | N/A |
-| 48 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 49 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
+| 40 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
+| 41 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 42 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 43 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 44 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
+| 45 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 46 | [Ivo Niehe](http://twitter.com/search?q=Ivo+Niehe) | N/A |
+| 47 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 48 | [Liesje](http://twitter.com/search?q=Liesje) | N/A |
+| 49 | [Emine](http://twitter.com/search?q=Emine) | N/A |
 
 
 

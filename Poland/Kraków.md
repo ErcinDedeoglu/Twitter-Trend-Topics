@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-18 14:16:47 UTC`
+📆 Last Updated: `2023-02-18 15:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 2 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 3 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
-| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [#dzieńkota](http://twitter.com/search?q=%23dzie%c5%84kota) | N/A |
+| 3 | [#KORLGD](http://twitter.com/search?q=%23KORLGD) | N/A |
+| 4 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
+| 5 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 6 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
 | 7 | [#OddamyWamPolske](http://twitter.com/search?q=%23OddamyWamPolske) | N/A |
 | 8 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 9 | [Nketiaha](http://twitter.com/search?q=Nketiaha) | N/A |
-| 10 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 11 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 13 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
-| 14 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 15 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 10 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 12 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 13 | [Nketiaha](http://twitter.com/search?q=Nketiaha) | N/A |
+| 14 | [Aston Villi](http://twitter.com/search?q=Aston+Villi) | N/A |
+| 15 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 17 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
-| 18 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 19 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 17 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 19 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 20 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 21 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 23 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 24 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 25 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 26 | [Działa](http://twitter.com/search?q=Dzia%c5%82a) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 29 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 30 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
-| 31 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 33 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 34 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 35 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
-| 36 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
-| 37 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 38 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 39 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 40 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
-| 41 | [szczątki](http://twitter.com/search?q=szcz%c4%85tki) | N/A |
-| 42 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 43 | [dnia kota](http://twitter.com/search?q=dnia+kota) | N/A |
-| 44 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 45 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 46 | [wojtyle](http://twitter.com/search?q=wojtyle) | N/A |
-| 47 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 48 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 49 | [Widzewie](http://twitter.com/search?q=Widzewie) | N/A |
-| 50 | [Kanga](http://twitter.com/search?q=Kanga) | N/A |
+| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 24 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
+| 25 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
+| 26 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 27 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 28 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 29 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 30 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 31 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 32 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
+| 33 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 35 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 36 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
+| 37 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
+| 38 | [Konwencji](http://twitter.com/search?q=Konwencji) | N/A |
+| 39 | [Konwencji](http://twitter.com/search?q=Konwencji) | N/A |
+| 40 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 41 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 42 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
+| 43 | [czarnecki](http://twitter.com/search?q=czarnecki) | N/A |
+| 44 | [szczątki](http://twitter.com/search?q=szcz%c4%85tki) | N/A |
+| 45 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 46 | [dnia kota](http://twitter.com/search?q=dnia+kota) | N/A |
+| 47 | [Wojtyle](http://twitter.com/search?q=Wojtyle) | N/A |
+| 48 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 49 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
+| 50 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 
 
 
