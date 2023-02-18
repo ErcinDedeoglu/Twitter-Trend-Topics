@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-02-18 03:17:18 UTC`
+📆 Last Updated: `2023-02-18 05:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 3 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 5 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 6 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 7 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 8 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 1 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 2 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 3 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 6 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 7 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 9 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
-| 10 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 11 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 12 | [Worlds Apart](http://twitter.com/search?q=Worlds+Apart) | N/A |
-| 13 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
-| 14 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 15 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
-| 16 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 17 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 18 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 19 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
-| 20 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 21 | [DWade](http://twitter.com/search?q=DWade) | N/A |
-| 22 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 23 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 24 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
-| 25 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 26 | [Carlos Boozer](http://twitter.com/search?q=Carlos+Boozer) | N/A |
-| 27 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 28 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 29 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 30 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
-| 31 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 32 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 33 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 34 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 35 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
-| 36 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 37 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
-| 38 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 39 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
-| 40 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 41 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 42 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 43 | [Kellie Pickler](http://twitter.com/search?q=Kellie+Pickler) | N/A |
-| 44 | [Aleah](http://twitter.com/search?q=Aleah) | N/A |
-| 45 | [Kyle Jacobs](http://twitter.com/search?q=Kyle+Jacobs) | N/A |
-| 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 47 | [Fat Joe](http://twitter.com/search?q=Fat+Joe) | N/A |
-| 48 | [Hagen Smith](http://twitter.com/search?q=Hagen+Smith) | N/A |
-| 49 | [Celebrity Game](http://twitter.com/search?q=Celebrity+Game) | N/A |
+| 10 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 11 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 12 | [#KnuckleMania3](http://twitter.com/search?q=%23KnuckleMania3) | N/A |
+| 13 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
+| 14 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 15 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 16 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 17 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 18 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 19 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 20 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
+| 21 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 22 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 23 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 24 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 25 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 26 | [Worlds Apart](http://twitter.com/search?q=Worlds+Apart) | N/A |
+| 27 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 28 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 29 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 30 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 31 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 32 | [Diego Sanchez](http://twitter.com/search?q=Diego+Sanchez) | N/A |
+| 33 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 34 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 35 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 36 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 37 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 38 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 39 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 40 | [Austin Trout](http://twitter.com/search?q=Austin+Trout) | N/A |
+| 41 | [Angi](http://twitter.com/search?q=Angi) | N/A |
+| 42 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 43 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 44 | [Vatrano](http://twitter.com/search?q=Vatrano) | N/A |
+| 45 | [Brady Tygart](http://twitter.com/search?q=Brady+Tygart) | N/A |
+| 46 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 47 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 48 | [Candace Parker](http://twitter.com/search?q=Candace+Parker) | Candace Parker is an American professional basketball player who currently plays for the Los Angeles Sparks of the Women's National Basketball Association (WNBA). She is a two-time WNBA MVP, a three-time WNBA champion, and a four-time WNBA All-Star. She is also the first woman to dunk in an NCAA tournament game and the first woman to win both an Olympic gold medal and a WNBA championship. |
+| 49 | [Joakim](http://twitter.com/search?q=Joakim) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-18 03:16:56 UTC`
+📆 Last Updated: `2023-02-18 05:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#isramiraj](http://twitter.com/search?q=%23isramiraj) | N/A |
-| 2 | [#PerindoNyataBantuRakyat](http://twitter.com/search?q=%23PerindoNyataBantuRakyat) | N/A |
-| 3 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 4 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 5 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 6 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 7 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 8 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 9 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 10 | [27 Rajab 1444 H](http://twitter.com/search?q=27+Rajab+1444+H) | N/A |
-| 11 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 12 | [#OhmNanonreadyforVN](http://twitter.com/search?q=%23OhmNanonreadyforVN) | N/A |
-| 13 | [Ketaqwaan](http://twitter.com/search?q=Ketaqwaan) | N/A |
-| 14 | [Perkuat Keimanan](http://twitter.com/search?q=Perkuat+Keimanan) | N/A |
+| 2 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 3 | [#GanjarPranowoCiamis](http://twitter.com/search?q=%23GanjarPranowoCiamis) | N/A |
+| 4 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 5 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 6 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 7 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 8 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 9 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
+| 10 | [#MINJI](http://twitter.com/search?q=%23MINJI) | N/A |
+| 11 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 12 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 13 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 15 | [Bajaj Bajuri](http://twitter.com/search?q=Bajaj+Bajuri) | N/A |
-| 16 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 19 | [Fase](http://twitter.com/search?q=Fase) | N/A |
-| 20 | [Dobby](http://twitter.com/search?q=Dobby) | N/A |
-| 21 | [Jigeum](http://twitter.com/search?q=Jigeum) | N/A |
+| 16 | [#selfiewiken](http://twitter.com/search?q=%23selfiewiken) | N/A |
+| 17 | [27 Rajab 1444 H](http://twitter.com/search?q=27+Rajab+1444+H) | N/A |
+| 18 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
+| 19 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 20 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 21 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 | 22 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 23 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 24 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 25 | [Banser](http://twitter.com/search?q=Banser) | N/A |
-| 26 | [Genta](http://twitter.com/search?q=Genta) | N/A |
-| 27 | [#KuatkanTekadDanKeistiqomahan](http://twitter.com/search?q=%23KuatkanTekadDanKeistiqomahan) | N/A |
-| 28 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
-| 29 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 30 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 31 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
-| 32 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
-| 33 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
-| 34 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 35 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
-| 36 | [#Unlocked](http://twitter.com/search?q=%23Unlocked) | N/A |
-| 37 | [#218MemoriesWithHope](http://twitter.com/search?q=%23218MemoriesWithHope) | N/A |
-| 38 | [#DOKYEOM](http://twitter.com/search?q=%23DOKYEOM) | N/A |
+| 23 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 24 | [Halal](http://twitter.com/search?q=Halal) | N/A |
+| 25 | [Bantal](http://twitter.com/search?q=Bantal) | N/A |
+| 26 | [Dobby](http://twitter.com/search?q=Dobby) | N/A |
+| 27 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 28 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
+| 29 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 30 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 31 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 32 | [#KCONLA](http://twitter.com/search?q=%23KCONLA) | N/A |
+| 33 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 34 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
+| 35 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
+| 36 | [#SecretNumberJapanDebut](http://twitter.com/search?q=%23SecretNumberJapanDebut) | N/A |
+| 37 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
+| 38 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 39 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 40 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
+| 41 | [#OhmNanonreadyforVN](http://twitter.com/search?q=%23OhmNanonreadyforVN) | N/A |
+| 42 | [#Beckysangels](http://twitter.com/search?q=%23Beckysangels) | N/A |
+| 43 | [#Unlocked](http://twitter.com/search?q=%23Unlocked) | N/A |
+| 44 | [#HOBIDAY](http://twitter.com/search?q=%23HOBIDAY) | N/A |
+| 45 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
 
 
 

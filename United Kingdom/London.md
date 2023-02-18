@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-18 03:16:41 UTC`
+📆 Last Updated: `2023-02-18 05:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 3 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 4 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 5 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
-| 6 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 7 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 8 | [#deathinparadise](http://twitter.com/search?q=%23deathinparadise) | N/A |
-| 9 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 10 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 11 | [#larrytakeover](http://twitter.com/search?q=%23larrytakeover) | N/A |
-| 12 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 13 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 14 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 15 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 18 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
-| 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 21 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 22 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 23 | [Ince](http://twitter.com/search?q=Ince) | N/A |
-| 24 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 25 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 26 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
-| 27 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
-| 28 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 29 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 30 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Jarlath](http://twitter.com/search?q=Jarlath) | N/A |
-| 33 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 34 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 35 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 36 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 37 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 38 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 39 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 40 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 41 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 42 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 43 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 44 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
-| 45 | [#Nighthawk](http://twitter.com/search?q=%23Nighthawk) | N/A |
-| 46 | [#Bluebirds](http://twitter.com/search?q=%23Bluebirds) | N/A |
-| 47 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 48 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
-| 49 | [#Picard](http://twitter.com/search?q=%23Picard) | N/A |
+| 2 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 3 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 4 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 5 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 6 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 7 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
+| 8 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 12 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 13 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 16 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 17 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 18 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 19 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 20 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 22 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 23 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 24 | [I TEACH KINDNESS](http://twitter.com/search?q=I+TEACH+KINDNESS) | N/A |
+| 25 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 26 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 27 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 28 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 29 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 30 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 31 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
+| 32 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 33 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 34 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 36 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 38 | [Daily Quordle 389](http://twitter.com/search?q=Daily+Quordle+389) | N/A |
+| 39 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 40 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 41 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 42 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
+| 43 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 44 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 45 | [centrica](http://twitter.com/search?q=centrica) | N/A |
+| 46 | [contract dave](http://twitter.com/search?q=contract+dave) | N/A |
+| 47 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
+| 48 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 49 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 50 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
 
 
 

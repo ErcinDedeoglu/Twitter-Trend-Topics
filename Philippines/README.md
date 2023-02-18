@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-18 03:17:29 UTC`
+📆 Last Updated: `2023-02-18 05:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,39 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#Dreamy_DK_VERNON_Day](http://twitter.com/search?q=%23Dreamy_DK_VERNON_Day) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
-| 4 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 6 | [#KikuoFanconcert](http://twitter.com/search?q=%23KikuoFanconcert) | N/A |
-| 7 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
-| 8 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 10 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 11 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 13 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
-| 14 | [hansol](http://twitter.com/search?q=hansol) | N/A |
-| 15 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 16 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 17 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
-| 18 | [ALDENx2023 StaRosaSikhayan](http://twitter.com/search?q=ALDENx2023+StaRosaSikhayan) | N/A |
-| 19 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 20 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 21 | [global visual kim day](http://twitter.com/search?q=global+visual+kim+day) | N/A |
-| 22 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 23 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
-| 24 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 25 | [Happy Birthday Sunshine](http://twitter.com/search?q=Happy+Birthday+Sunshine) | N/A |
-| 26 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 27 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
-| 28 | [Raica](http://twitter.com/search?q=Raica) | N/A |
-| 29 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 30 | [Philippine Military Academy](http://twitter.com/search?q=Philippine+Military+Academy) | N/A |
-| 31 | [Nonie](http://twitter.com/search?q=Nonie) | N/A |
-| 32 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 33 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 34 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 35 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 36 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 37 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
-| 38 | [Filay DamageControl](http://twitter.com/search?q=Filay+DamageControl) | N/A |
-| 39 | [Deekay](http://twitter.com/search?q=Deekay) | N/A |
-| 40 | [Yuka](http://twitter.com/search?q=Yuka) | N/A |
-| 41 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
-| 42 | [Anahaw](http://twitter.com/search?q=Anahaw) | N/A |
-| 43 | [Baguio City](http://twitter.com/search?q=Baguio+City) | N/A |
-| 44 | [Hoba](http://twitter.com/search?q=Hoba) | N/A |
-| 45 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 46 | [JITB](http://twitter.com/search?q=JITB) | N/A |
-| 47 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 48 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
-| 49 | [HAPPY BIRTHDAY BUNSO](http://twitter.com/search?q=HAPPY+BIRTHDAY+BUNSO) | N/A |
-| 50 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 1 | [#GirlOnFireTheBlazingFinale](http://twitter.com/search?q=%23GirlOnFireTheBlazingFinale) | N/A |
+| 2 | [#kikuofanconcert](http://twitter.com/search?q=%23kikuofanconcert) | N/A |
+| 3 | [SHOWTIME JONA ON FIRE](http://twitter.com/search?q=SHOWTIME+JONA+ON+FIRE) | N/A |
+| 4 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 5 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 6 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 9 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 10 | [#IDYlightful700k](http://twitter.com/search?q=%23IDYlightful700k) | N/A |
+| 11 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
+| 12 | [ALDENx2023 StaRosaSikhayan](http://twitter.com/search?q=ALDENx2023+StaRosaSikhayan) | N/A |
+| 13 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 14 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 15 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 16 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 17 | [Sunshine](http://twitter.com/search?q=Sunshine) | N/A |
+| 18 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 19 | [Duterte](http://twitter.com/search?q=Duterte) | N/A |
+| 20 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 21 | [#ALAMATinPanagbenga2023](http://twitter.com/search?q=%23ALAMATinPanagbenga2023) | N/A |
+| 22 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 23 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 24 | [#2getherWith7eaderSeok](http://twitter.com/search?q=%232getherWith7eaderSeok) | N/A |
+| 25 | [#차은우_1위보이그룹개인브랜드_축하해요](http://twitter.com/search?q=%23%ec%b0%a8%ec%9d%80%ec%9a%b0_1%ec%9c%84%eb%b3%b4%ec%9d%b4%ea%b7%b8%eb%a3%b9%ea%b0%9c%ec%9d%b8%eb%b8%8c%eb%9e%9c%eb%93%9c_%ec%b6%95%ed%95%98%ed%95%b4%ec%9a%94) | N/A |
+| 26 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
+| 27 | [#ALDENxSikhayanFestival](http://twitter.com/search?q=%23ALDENxSikhayanFestival) | N/A |
+| 28 | [#BOYCOTTEBxGMA710](http://twitter.com/search?q=%23BOYCOTTEBxGMA710) | N/A |
+| 29 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 30 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
+| 31 | [#WWIW18](http://twitter.com/search?q=%23WWIW18) | N/A |
+| 32 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 33 | [#JonaxxACTYAKab50](http://twitter.com/search?q=%23JonaxxACTYAKab50) | N/A |
 
 
 

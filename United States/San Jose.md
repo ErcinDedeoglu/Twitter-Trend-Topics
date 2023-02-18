@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-18 03:17:22 UTC`
+📆 Last Updated: `2023-02-18 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 2 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 3 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 4 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
-| 5 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 2 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
+| 3 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 5 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
 | 6 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 7 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 8 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 9 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
-| 10 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 11 | [President's Day](http://twitter.com/search?q=President%27s+Day) | N/A |
+| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 8 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 10 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 11 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
 | 12 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 13 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 15 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 16 | [DeWine](http://twitter.com/search?q=DeWine) | N/A |
-| 17 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 18 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 19 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 20 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 21 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 22 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 23 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 24 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 25 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 26 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 27 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 28 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
-| 29 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 30 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 31 | [Worlds Apart](http://twitter.com/search?q=Worlds+Apart) | N/A |
-| 32 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
-| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 34 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
-| 35 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 36 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 37 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 38 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
-| 39 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 40 | [DWade](http://twitter.com/search?q=DWade) | N/A |
-| 41 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 42 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 43 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
-| 44 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 45 | [Carlos Boozer](http://twitter.com/search?q=Carlos+Boozer) | N/A |
-| 46 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 47 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 48 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 49 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 13 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 14 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 15 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 16 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 17 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 18 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 19 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 20 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 21 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 22 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
+| 23 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 24 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 25 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
+| 26 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 27 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 28 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 29 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 30 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 31 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 32 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
+| 33 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 34 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 35 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 36 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 37 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 38 | [Worlds Apart](http://twitter.com/search?q=Worlds+Apart) | N/A |
+| 39 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 40 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 41 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 42 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 43 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 44 | [Diego Sanchez](http://twitter.com/search?q=Diego+Sanchez) | N/A |
+| 45 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 46 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 47 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 48 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 49 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
 
 
 

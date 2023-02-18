@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-18 03:16:50 UTC`
+📆 Last Updated: `2023-02-18 05:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
 | 2 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
-| 3 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 6 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
-| 9 | [#vendredilecture](http://twitter.com/search?q=%23vendredilecture) | N/A |
+| 3 | [#kcwin](http://twitter.com/search?q=%23kcwin) | N/A |
+| 4 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 5 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
 | 10 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
 | 11 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
 | 12 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 13 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 14 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 13 | [diomande](http://twitter.com/search?q=diomande) | N/A |
+| 14 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
 | 15 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
 | 16 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 17 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 18 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 19 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 17 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 18 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 19 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
 | 20 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
 | 21 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
 | 22 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 23 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
-| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 25 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
-| 26 | [PERSONNE N'A CRAQUÉ](http://twitter.com/search?q=PERSONNE+N%27A+CRAQU%c3%89) | N/A |
-| 27 | [Passi](http://twitter.com/search?q=Passi) | N/A |
-| 28 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
-| 29 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 30 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 31 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 32 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
-| 33 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 34 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
-| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 37 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 38 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
-| 39 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 40 | [pallois](http://twitter.com/search?q=pallois) | N/A |
-| 41 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 42 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 43 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 44 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 45 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 46 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
-| 47 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 48 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
-| 49 | [Alma Dufour](http://twitter.com/search?q=Alma+Dufour) | N/A |
-| 50 | [Mulliez](http://twitter.com/search?q=Mulliez) | N/A |
+| 23 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
+| 24 | [passi](http://twitter.com/search?q=passi) | N/A |
+| 25 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 27 | [hatvp](http://twitter.com/search?q=hatvp) | N/A |
+| 28 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 29 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 30 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
+| 31 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 33 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
+| 34 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 35 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 36 | [pallois](http://twitter.com/search?q=pallois) | N/A |
+| 37 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 38 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 39 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
+| 40 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
+| 41 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
+| 42 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 43 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
+| 44 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 45 | [Mulliez](http://twitter.com/search?q=Mulliez) | N/A |
+| 46 | [Alma Dufour](http://twitter.com/search?q=Alma+Dufour) | N/A |
+| 47 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 48 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 50 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
 
 
 
