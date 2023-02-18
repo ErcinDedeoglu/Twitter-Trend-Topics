@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-18 16:16:23 UTC`
+📆 Last Updated: `2023-02-18 17:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 2 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 3 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 4 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 5 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 6 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 7 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 8 | [#HwasaShowFinalEp](http://twitter.com/search?q=%23HwasaShowFinalEp) | N/A |
-| 9 | [THANK YOU MC HWASA](http://twitter.com/search?q=THANK+YOU+MC+HWASA) | N/A |
-| 10 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 11 | [BINI SA COSMOS 2023](http://twitter.com/search?q=BINI+SA+COSMOS+2023) | N/A |
-| 12 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 13 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 1 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 2 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 3 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 4 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 5 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 6 | [#HwasaShowFinalEp](http://twitter.com/search?q=%23HwasaShowFinalEp) | N/A |
+| 7 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 8 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 9 | [BINI SA COSMOS 2023](http://twitter.com/search?q=BINI+SA+COSMOS+2023) | N/A |
+| 10 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
+| 11 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 12 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 13 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
 | 14 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
-| 15 | [Congratulations F2](http://twitter.com/search?q=Congratulations+F2) | N/A |
-| 16 | [Holly](http://twitter.com/search?q=Holly) | N/A |
-| 17 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 15 | [Holly](http://twitter.com/search?q=Holly) | N/A |
+| 16 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 17 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
 | 18 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 19 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 20 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 21 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 22 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
-| 23 | [Alyssa Valdez](http://twitter.com/search?q=Alyssa+Valdez) | N/A |
-| 24 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 25 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
-| 26 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 27 | [Next Level](http://twitter.com/search?q=Next+Level) | N/A |
-| 28 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 29 | [Ivy Lacsina](http://twitter.com/search?q=Ivy+Lacsina) | N/A |
-| 30 | [BooSeokSoon](http://twitter.com/search?q=BooSeokSoon) | N/A |
-| 31 | [F2 Logistics](http://twitter.com/search?q=F2+Logistics) | N/A |
-| 32 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
-| 33 | [Just Do It](http://twitter.com/search?q=Just+Do+It) | N/A |
-| 34 | [F2 vs CCS](http://twitter.com/search?q=F2+vs+CCS) | N/A |
-| 35 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 36 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 37 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 39 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 40 | [yena](http://twitter.com/search?q=yena) | N/A |
-| 41 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 42 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
-| 43 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
-| 44 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 45 | [CONGRATS BOYS](http://twitter.com/search?q=CONGRATS+BOYS) | N/A |
-| 46 | [ZACHAM CHOS3N BARKADA](http://twitter.com/search?q=ZACHAM+CHOS3N+BARKADA) | N/A |
-| 47 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 48 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 49 | [Hot Performance of the Year](http://twitter.com/search?q=Hot+Performance+of+the+Year) | N/A |
-| 50 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 19 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 20 | [jema](http://twitter.com/search?q=jema) | N/A |
+| 21 | [Next Level](http://twitter.com/search?q=Next+Level) | N/A |
+| 22 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 23 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 24 | [Ivy Lacsina](http://twitter.com/search?q=Ivy+Lacsina) | N/A |
+| 25 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 26 | [F2 Logistics](http://twitter.com/search?q=F2+Logistics) | N/A |
+| 27 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 29 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 30 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
+| 31 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 32 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
+| 33 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 34 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 35 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
+| 36 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 37 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 38 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 39 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 40 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 41 | [ZACH CHARMS PANGASINAN](http://twitter.com/search?q=ZACH+CHARMS+PANGASINAN) | N/A |
+| 42 | [#GAPTheSeriesEP12](http://twitter.com/search?q=%23GAPTheSeriesEP12) | N/A |
+| 43 | [#CrashCourseInRomanceEp11](http://twitter.com/search?q=%23CrashCourseInRomanceEp11) | N/A |
+| 44 | [#BINIatUPFair2023](http://twitter.com/search?q=%23BINIatUPFair2023) | N/A |
+| 45 | [#WelcomeToEuropeBTOB](http://twitter.com/search?q=%23WelcomeToEuropeBTOB) | N/A |
+| 46 | [#Jinyoung_rendezvous](http://twitter.com/search?q=%23Jinyoung_rendezvous) | N/A |
+| 47 | [#PCDwithYesulbang](http://twitter.com/search?q=%23PCDwithYesulbang) | N/A |
+| 48 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
+| 49 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
+| 50 | [#RegineSOLOday2](http://twitter.com/search?q=%23RegineSOLOday2) | N/A |
 
 
 

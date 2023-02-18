@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-18 16:16:49 UTC`
+📆 Last Updated: `2023-02-18 17:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 2 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Prohibido](http://twitter.com/search?q=Prohibido) | N/A |
+| 1 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 2 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 3 | [Prohibido](http://twitter.com/search?q=Prohibido) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 5 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 6 | [SUNEDU](http://twitter.com/search?q=SUNEDU) | N/A |
-| 7 | [Renato Tapia](http://twitter.com/search?q=Renato+Tapia) | Renato Tapia is a Peruvian professional footballer who plays as a defensive midfielder for Feyenoord in the Dutch Eredivisie. His name translates to "renewed strength" in English. |
-| 8 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 9 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 10 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
-| 11 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 12 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 13 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 14 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 15 | [Lorenzo Musetti](http://twitter.com/search?q=Lorenzo+Musetti) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
-| 18 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 19 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 20 | [Porky](http://twitter.com/search?q=Porky) | N/A |
-| 21 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
-| 22 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 23 | [con 59](http://twitter.com/search?q=con+59) | N/A |
-| 24 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
-| 25 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 26 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 27 | [#ItsComing](http://twitter.com/search?q=%23ItsComing) | N/A |
-| 28 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 29 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 6 | [Sunedu](http://twitter.com/search?q=Sunedu) | N/A |
+| 7 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 10 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 11 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [Gianluca Lapadula](http://twitter.com/search?q=Gianluca+Lapadula) | N/A |
+| 14 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
+| 15 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 16 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 17 | [Lorenzo Musetti](http://twitter.com/search?q=Lorenzo+Musetti) | N/A |
+| 18 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 19 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 20 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
+| 21 | [Porky](http://twitter.com/search?q=Porky) | N/A |
+| 22 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 23 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 24 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 25 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
+| 26 | [con 59](http://twitter.com/search?q=con+59) | N/A |
+| 27 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
+| 28 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 29 | [#ItsComing](http://twitter.com/search?q=%23ItsComing) | N/A |
 | 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 31 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 32 | [#acéptalosunat](http://twitter.com/search?q=%23ac%c3%a9ptalosunat) | N/A |
-| 33 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 34 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 35 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 36 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
-| 37 | [Ballón](http://twitter.com/search?q=Ball%c3%b3n) | N/A |
-| 38 | [#차은우_1위보이그룹개인브랜드_축하해요](http://twitter.com/search?q=%23%ec%b0%a8%ec%9d%80%ec%9a%b0_1%ec%9c%84%eb%b3%b4%ec%9d%b4%ea%b7%b8%eb%a3%b9%ea%b0%9c%ec%9d%b8%eb%b8%8c%eb%9e%9c%eb%93%9c_%ec%b6%95%ed%95%98%ed%95%b4%ec%9a%94) | N/A |
-| 39 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
-| 40 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
-| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 42 | [FELIZ CUMPLEAÑOS MI AMOR](http://twitter.com/search?q=FELIZ+CUMPLEA%c3%91OS+MI+AMOR) | N/A |
-| 43 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 44 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
-| 45 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
+| 32 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 33 | [#acéptalosunat](http://twitter.com/search?q=%23ac%c3%a9ptalosunat) | N/A |
+| 34 | [Miraflores](http://twitter.com/search?q=Miraflores) | N/A |
+| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 36 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 37 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 38 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 39 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
+| 40 | [Ballón](http://twitter.com/search?q=Ball%c3%b3n) | N/A |
+| 41 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
+| 42 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 43 | [FELIZ CUMPLEAÑOS MI AMOR](http://twitter.com/search?q=FELIZ+CUMPLEA%c3%91OS+MI+AMOR) | N/A |
+| 44 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 45 | [Blume](http://twitter.com/search?q=Blume) | N/A |
 | 46 | [Yotún](http://twitter.com/search?q=Yot%c3%ban) | N/A |
-| 47 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 48 | [Blume](http://twitter.com/search?q=Blume) | N/A |
-| 49 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 50 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 49 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
+| 50 | [congratulations cha eunwoo](http://twitter.com/search?q=congratulations+cha+eunwoo) | N/A |
 
 
 

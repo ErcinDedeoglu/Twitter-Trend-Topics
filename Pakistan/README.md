@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-18 16:16:50 UTC`
+📆 Last Updated: `2023-02-18 17:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,41 @@ This is top 50 for Pakistan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#QGvKK](http://twitter.com/search?q=%23QGvKK) | N/A |
-| 2 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
+| 2 | [#شب_معراج](http://twitter.com/search?q=%23%d8%b4%d8%a8_%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
 | 3 | [#KKvQG](http://twitter.com/search?q=%23KKvQG) | N/A |
-| 4 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
-| 5 | [#شب_معراج](http://twitter.com/search?q=%23%d8%b4%d8%a8_%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
-| 6 | [#پاکستان_دشمن_پانچ_کردار](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%af%d8%b4%d9%85%d9%86_%d9%be%d8%a7%d9%86%da%86_%da%a9%d8%b1%d8%af%d8%a7%d8%b1) | N/A |
-| 7 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 8 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 9 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 10 | [Andrew Tye](http://twitter.com/search?q=Andrew+Tye) | N/A |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 13 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
-| 16 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 17 | [27 Rajab](http://twitter.com/search?q=27+Rajab) | N/A |
-| 18 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 21 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
-| 22 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 23 | [Eid e Baisat](http://twitter.com/search?q=Eid+e+Baisat) | N/A |
-| 24 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Haider](http://twitter.com/search?q=Haider) | N/A |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [Will Smeed](http://twitter.com/search?q=Will+Smeed) | N/A |
-| 29 | [WHAT A SHOT](http://twitter.com/search?q=WHAT+A+SHOT) | N/A |
-| 30 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 31 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 32 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 33 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 34 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 35 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 36 | [Eid e Mab](http://twitter.com/search?q=Eid+e+Mab) | N/A |
-| 37 | [Terrorists](http://twitter.com/search?q=Terrorists) | N/A |
-| 38 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 39 | [Planted](http://twitter.com/search?q=Planted) | N/A |
-| 40 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 41 | [Creator](http://twitter.com/search?q=Creator) | N/A |
-| 42 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 43 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 44 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
-| 45 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 46 | [Professional](http://twitter.com/search?q=Professional) | N/A |
-| 47 | [Gold Leaf](http://twitter.com/search?q=Gold+Leaf) | N/A |
-| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 49 | [Makkah](http://twitter.com/search?q=Makkah) | N/A |
-| 50 | [Imran Tahir](http://twitter.com/search?q=Imran+Tahir) | N/A |
+| 4 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 5 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
+| 6 | [#جیلیں_تیار_رکھو](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84%db%8c%da%ba_%d8%aa%db%8c%d8%a7%d8%b1_%d8%b1%da%a9%da%be%d9%88) | N/A |
+| 7 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 8 | [#AskAhmad](http://twitter.com/search?q=%23AskAhmad) | N/A |
+| 9 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 10 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 11 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 12 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 14 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 15 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 16 | [wasim akram](http://twitter.com/search?q=wasim+akram) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [27 Rajab](http://twitter.com/search?q=27+Rajab) | N/A |
+| 19 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 20 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 23 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 24 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 25 | [#ShabeMerajMubarak](http://twitter.com/search?q=%23ShabeMerajMubarak) | N/A |
+| 26 | [#معراج_النبیؐ](http://twitter.com/search?q=%23%d9%85%d8%b9%d8%b1%d8%a7%d8%ac_%d8%a7%d9%84%d9%86%d8%a8%db%8c%d8%90) | N/A |
+| 27 | [#تیمورجھگڑا_حساب_دو](http://twitter.com/search?q=%23%d8%aa%db%8c%d9%85%d9%88%d8%b1%d8%ac%da%be%da%af%da%91%d8%a7_%d8%ad%d8%b3%d8%a7%d8%a8_%d8%af%d9%88) | N/A |
+| 28 | [#SaveBalochWomen](http://twitter.com/search?q=%23SaveBalochWomen) | N/A |
+| 29 | [#QuettaGladiators](http://twitter.com/search?q=%23QuettaGladiators) | N/A |
+| 30 | [#IftiMania](http://twitter.com/search?q=%23IftiMania) | #IftiMania is a hashtag used to promote the work of Pakistani singer and songwriter Iftikhar Hussain, also known as Ifti. The hashtag is used to show support for his music and to share his work with others. The English translation of #IftiMania is "Ifti Mania". |
+| 31 | [#پاکستان_دشمن_پانچ_کردار](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%af%d8%b4%d9%85%d9%86_%d9%be%d8%a7%d9%86%da%86_%da%a9%d8%b1%d8%af%d8%a7%d8%b1) | N/A |
+| 32 | [#HBLPSL2023](http://twitter.com/search?q=%23HBLPSL2023) | N/A |
+| 33 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
+| 34 | [#AudioLeaks](http://twitter.com/search?q=%23AudioLeaks) | N/A |
+| 35 | [#KhiLF2023](http://twitter.com/search?q=%23KhiLF2023) | N/A |
+| 36 | [#آل_پاکستان_سنی_کانفرنس](http://twitter.com/search?q=%23%d8%a2%d9%84_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%d9%86%db%8c_%da%a9%d8%a7%d9%86%d9%81%d8%b1%d9%86%d8%b3) | N/A |
 
 
 

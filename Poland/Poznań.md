@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-18 16:16:08 UTC`
+📆 Last Updated: `2023-02-18 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 2 | [#KORLGD](http://twitter.com/search?q=%23KORLGD) | N/A |
-| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 4 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
-| 5 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 6 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 7 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 8 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 9 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 12 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 15 | [Nketiaha](http://twitter.com/search?q=Nketiaha) | N/A |
-| 16 | [Aston Villi](http://twitter.com/search?q=Aston+Villi) | N/A |
-| 17 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 18 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 19 | [Korona](http://twitter.com/search?q=Korona) | N/A |
-| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 23 | [Kacper Juroszek](http://twitter.com/search?q=Kacper+Juroszek) | N/A |
+| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 3 | [#KORLGD](http://twitter.com/search?q=%23KORLGD) | N/A |
+| 4 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 5 | [#NoweOtwarcie](http://twitter.com/search?q=%23NoweOtwarcie) | N/A |
+| 6 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
+| 7 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 10 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 11 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 12 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 13 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 14 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Korona](http://twitter.com/search?q=Korona) | N/A |
+| 17 | [Mounta](http://twitter.com/search?q=Mounta) | N/A |
+| 18 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 19 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 23 | [Dosze](http://twitter.com/search?q=Dosze) | N/A |
 | 24 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
-| 25 | [Maciej Kot](http://twitter.com/search?q=Maciej+Kot) | N/A |
-| 26 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 27 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 28 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 29 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 30 | [matty cash](http://twitter.com/search?q=matty+cash) | N/A |
-| 31 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 32 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 33 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 34 | [pucharu świata](http://twitter.com/search?q=pucharu+%c5%9bwiata) | N/A |
-| 35 | [Łęcznej](http://twitter.com/search?q=%c5%81%c4%99cznej) | N/A |
-| 36 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 39 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
-| 40 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 41 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 42 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 43 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
-| 44 | [Kielcach](http://twitter.com/search?q=Kielcach) | N/A |
-| 45 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 46 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 47 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
-| 48 | [Konwencji](http://twitter.com/search?q=Konwencji) | N/A |
-| 49 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 50 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
+| 25 | [Katarze](http://twitter.com/search?q=Katarze) | N/A |
+| 26 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
+| 27 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 28 | [Nketiaha](http://twitter.com/search?q=Nketiaha) | N/A |
+| 29 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 30 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 31 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 32 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 33 | [Kacper Juroszek](http://twitter.com/search?q=Kacper+Juroszek) | N/A |
+| 34 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 35 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
+| 36 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 37 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
+| 38 | [Maciej Kot](http://twitter.com/search?q=Maciej+Kot) | N/A |
+| 39 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 40 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 41 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 42 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 43 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
+| 44 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
+| 45 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 46 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
+| 47 | [Łotwy](http://twitter.com/search?q=%c5%81otwy) | N/A |
+| 48 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
 
 
 
