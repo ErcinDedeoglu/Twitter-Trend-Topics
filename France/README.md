@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-18 08:17:49 UTC`
+📆 Last Updated: `2023-02-18 09:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for France
 | 4 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 5 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 6 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 7 | [La Marseillaise](http://twitter.com/search?q=La+Marseillaise) | N/A |
+| 7 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
 | 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 9 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 10 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 11 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
-| 12 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 10 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 11 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 12 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
 | 13 | [#palmadeaccident](http://twitter.com/search?q=%23palmadeaccident) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 16 | [Chanter](http://twitter.com/search?q=Chanter) | N/A |
-| 17 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 18 | [diomande](http://twitter.com/search?q=diomande) | N/A |
-| 19 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 20 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 21 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 22 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 23 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 24 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 25 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 26 | [Bernadette](http://twitter.com/search?q=Bernadette) | N/A |
-| 27 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 28 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 29 | [Tuche](http://twitter.com/search?q=Tuche) | N/A |
-| 30 | [amin sarr](http://twitter.com/search?q=amin+sarr) | N/A |
-| 31 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 32 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
-| 33 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 34 | [ma réalité](http://twitter.com/search?q=ma+r%c3%a9alit%c3%a9) | N/A |
-| 35 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
-| 36 | [ateyaba](http://twitter.com/search?q=ateyaba) | N/A |
-| 37 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 38 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 14 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 17 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 18 | [Les Tuches](http://twitter.com/search?q=Les+Tuches) | N/A |
+| 19 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 22 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 23 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
+| 24 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 25 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
+| 26 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 27 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 28 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 29 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 30 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 31 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
+| 32 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 33 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 34 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 35 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 36 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
+| 37 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 38 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
 | 39 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 40 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
-| 41 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 42 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 43 | [Passi](http://twitter.com/search?q=Passi) | N/A |
-| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 45 | [barcola](http://twitter.com/search?q=barcola) | N/A |
-| 46 | [Le 18](http://twitter.com/search?q=Le+18) | N/A |
-| 47 | [kumbedi](http://twitter.com/search?q=kumbedi) | N/A |
-| 48 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 49 | [404billy](http://twitter.com/search?q=404billy) | N/A |
-| 50 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
+| 40 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
+| 41 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 42 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 43 | [La Redoute](http://twitter.com/search?q=La+Redoute) | N/A |
+| 44 | [Pauvre France](http://twitter.com/search?q=Pauvre+France) | N/A |
+| 45 | [Bernadette](http://twitter.com/search?q=Bernadette) | N/A |
+| 46 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 47 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 48 | [Passi](http://twitter.com/search?q=Passi) | N/A |
+| 49 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 50 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
 
 
 

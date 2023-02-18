@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-18 08:17:51 UTC`
+📆 Last Updated: `2023-02-18 09:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Malaysia
 | 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
 | 4 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
 | 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 6 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 7 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
-| 8 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 6 | [#218BROSinTOWN](http://twitter.com/search?q=%23218BROSinTOWN) | N/A |
+| 7 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 8 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 9 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [wei wei](http://twitter.com/search?q=wei+wei) | N/A |
+| 10 | [wei wei](http://twitter.com/search?q=wei+wei) | N/A |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 12 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
 | 13 | [jin wei](http://twitter.com/search?q=jin+wei) | N/A |
-| 14 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 15 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 14 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 15 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
 | 16 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 17 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 18 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 19 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 20 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
-| 21 | [RAIL MY LIFE](http://twitter.com/search?q=RAIL+MY+LIFE) | N/A |
-| 22 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 23 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 24 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
-| 25 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 26 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 17 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 18 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 19 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
+| 20 | [RAIL MY LIFE](http://twitter.com/search?q=RAIL+MY+LIFE) | N/A |
+| 21 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 22 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 23 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 24 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 27 | [Klang](http://twitter.com/search?q=Klang) | N/A |
+| 28 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
 | 29 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
 | 30 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 31 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 32 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
+| 31 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
+| 32 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
 | 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 34 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 35 | [anteater](http://twitter.com/search?q=anteater) | N/A |
-| 36 | [Isra](http://twitter.com/search?q=Isra) | N/A |
-| 37 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
-| 38 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 39 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
-| 40 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
-| 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 42 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
-| 43 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 44 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 45 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 46 | [MY GO](http://twitter.com/search?q=MY+GO) | N/A |
-| 47 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 48 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 49 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 50 | [Zii Jia](http://twitter.com/search?q=Zii+Jia) | N/A |
+| 34 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 35 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 36 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 37 | [anteater](http://twitter.com/search?q=anteater) | N/A |
+| 38 | [Isra](http://twitter.com/search?q=Isra) | N/A |
+| 39 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 40 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
+| 41 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 42 | [lee jeno](http://twitter.com/search?q=lee+jeno) | N/A |
+| 43 | [Jooheon](http://twitter.com/search?q=Jooheon) | N/A |
+| 44 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 46 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
+| 47 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
+| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 49 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 50 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-18 08:16:53 UTC`
+📆 Last Updated: `2023-02-18 09:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 2 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 3 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 4 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
-| 5 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 8 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 9 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 10 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 11 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 14 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 15 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 16 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 17 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 18 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 19 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 22 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 23 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 24 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 25 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 26 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 27 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 28 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 30 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 31 | [I TEACH KINDNESS](http://twitter.com/search?q=I+TEACH+KINDNESS) | N/A |
-| 32 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 33 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 34 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 35 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 36 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 37 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 38 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 39 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 40 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 41 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 42 | [200 GLUE STICKS](http://twitter.com/search?q=200+GLUE+STICKS) | N/A |
-| 43 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 44 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 45 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 46 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 47 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 48 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 49 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 1 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 2 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 3 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 4 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 5 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
+| 6 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 11 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 13 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 14 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 15 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
+| 16 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 17 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 18 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 19 | [Sir Bobby Robson](http://twitter.com/search?q=Sir+Bobby+Robson) | N/A |
+| 20 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 21 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
+| 22 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 23 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
+| 24 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 26 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 27 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 28 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
+| 29 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 30 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
+| 31 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 32 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 33 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
+| 34 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
+| 35 | [#WCC2023](http://twitter.com/search?q=%23WCC2023) | N/A |
+| 36 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 37 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 38 | [#ToriesOut226](http://twitter.com/search?q=%23ToriesOut226) | N/A |
+| 39 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 40 | [#BOBBY90](http://twitter.com/search?q=%23BOBBY90) | N/A |
+| 41 | [#BBCCricket](http://twitter.com/search?q=%23BBCCricket) | N/A |
+| 42 | [#BazBall](http://twitter.com/search?q=%23BazBall) | N/A |
+| 43 | [#Nighthawk](http://twitter.com/search?q=%23Nighthawk) | N/A |
+| 44 | [#RugbyLeague](http://twitter.com/search?q=%23RugbyLeague) | N/A |
+| 45 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 46 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
 
 
 

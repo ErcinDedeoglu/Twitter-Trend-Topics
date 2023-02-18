@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-18 08:17:03 UTC`
+📆 Last Updated: `2023-02-18 09:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#17Feb](http://twitter.com/search?q=%2317Feb) | N/A |
 | 2 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
 | 3 | [#CarnavalesFelices2023](http://twitter.com/search?q=%23CarnavalesFelices2023) | N/A |
-| 4 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
-| 5 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
-| 6 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 4 | [FOSPUCA](http://twitter.com/search?q=FOSPUCA) | N/A |
+| 5 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 6 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
 | 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 8 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
 | 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 17 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
 | 18 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
 | 19 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 20 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 21 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 20 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 21 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
 | 22 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
 | 23 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
 | 24 | [Luis Britto García](http://twitter.com/search?q=Luis+Britto+Garc%c3%ada) | N/A |
 | 25 | [Jesús Farías](http://twitter.com/search?q=Jes%c3%bas+Far%c3%adas) | N/A |
 | 26 | [Mindy](http://twitter.com/search?q=Mindy) | N/A |
-| 27 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 27 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 28 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
 | 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 30 | [Colombia y Venezuela](http://twitter.com/search?q=Colombia+y+Venezuela) | N/A |
-| 31 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
+| 30 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
+| 31 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 32 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
 | 33 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
 | 34 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 35 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 36 | [paz y soberanía](http://twitter.com/search?q=paz+y+soberan%c3%ada) | N/A |
-| 37 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 39 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
-| 40 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
-| 41 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 42 | [yonny hernández](http://twitter.com/search?q=yonny+hern%c3%a1ndez) | N/A |
-| 43 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
-| 44 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 45 | [130 Bs](http://twitter.com/search?q=130+Bs) | N/A |
-| 46 | [Metras](http://twitter.com/search?q=Metras) | N/A |
-| 47 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
-| 48 | [Alí Primera](http://twitter.com/search?q=Al%c3%ad+Primera) | N/A |
-| 49 | [bendición divina](http://twitter.com/search?q=bendici%c3%b3n+divina) | N/A |
-| 50 | [Datanalisis](http://twitter.com/search?q=Datanalisis) | N/A |
+| 35 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
+| 36 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 37 | [paz y soberanía](http://twitter.com/search?q=paz+y+soberan%c3%ada) | N/A |
+| 38 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 39 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 40 | [academia puerto cabello](http://twitter.com/search?q=academia+puerto+cabello) | N/A |
+| 41 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 42 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 43 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 44 | [yonny hernández](http://twitter.com/search?q=yonny+hern%c3%a1ndez) | N/A |
+| 45 | [boston river](http://twitter.com/search?q=boston+river) | N/A |
+| 46 | [130 Bs](http://twitter.com/search?q=130+Bs) | N/A |
+| 47 | [Metras](http://twitter.com/search?q=Metras) | N/A |
+| 48 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
+| 49 | [alí primera](http://twitter.com/search?q=al%c3%ad+primera) | N/A |
+| 50 | [bendición divina](http://twitter.com/search?q=bendici%c3%b3n+divina) | N/A |
 
 
 

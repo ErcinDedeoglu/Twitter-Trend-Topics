@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-18 08:16:58 UTC`
+📆 Last Updated: `2023-02-18 09:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Chile](</Chile>)
 | 11 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
 | 12 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
 | 13 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
-| 14 | [carlos pinto](http://twitter.com/search?q=carlos+pinto) | N/A |
-| 15 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
-| 16 | [#Coronel](http://twitter.com/search?q=%23Coronel) | N/A |
-| 17 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
-| 18 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
+| 15 | [#Coronel](http://twitter.com/search?q=%23Coronel) | N/A |
+| 16 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
+| 17 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [carlos pinto](http://twitter.com/search?q=carlos+pinto) | N/A |
 | 20 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
-| 21 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
-| 22 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 23 | [Don Sergio](http://twitter.com/search?q=Don+Sergio) | N/A |
-| 24 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 25 | [LOU LEE](http://twitter.com/search?q=LOU+LEE) | N/A |
-| 26 | [Loreto Aravena](http://twitter.com/search?q=Loreto+Aravena) | N/A |
-| 27 | [gino costa](http://twitter.com/search?q=gino+costa) | N/A |
-| 28 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
-| 29 | [Marlen](http://twitter.com/search?q=Marlen) | N/A |
-| 30 | [cote lópez](http://twitter.com/search?q=cote+l%c3%b3pez) | N/A |
-| 31 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 32 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
-| 33 | [gonzalo valenzuela](http://twitter.com/search?q=gonzalo+valenzuela) | N/A |
-| 34 | [federico sánchez](http://twitter.com/search?q=federico+s%c3%a1nchez) | N/A |
-| 35 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 36 | [Tonkita](http://twitter.com/search?q=Tonkita) | N/A |
-| 37 | [Mary Rose](http://twitter.com/search?q=Mary+Rose) | N/A |
-| 38 | [Pancha Merino](http://twitter.com/search?q=Pancha+Merino) | N/A |
-| 39 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
-| 40 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 41 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 42 | [Eugenia Lemos](http://twitter.com/search?q=Eugenia+Lemos) | N/A |
-| 43 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
-| 44 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 45 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 46 | [Power Peralta](http://twitter.com/search?q=Power+Peralta) | N/A |
-| 47 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 48 | [Daniela Chávez](http://twitter.com/search?q=Daniela+Ch%c3%a1vez) | N/A |
-| 49 | [Unión Española](http://twitter.com/search?q=Uni%c3%b3n+Espa%c3%b1ola) | N/A |
+| 21 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 22 | [don sergio](http://twitter.com/search?q=don+sergio) | N/A |
+| 23 | [iquique](http://twitter.com/search?q=iquique) | N/A |
+| 24 | [Loreto Aravena](http://twitter.com/search?q=Loreto+Aravena) | N/A |
+| 25 | [gino costa](http://twitter.com/search?q=gino+costa) | N/A |
+| 26 | [Rayen Araya](http://twitter.com/search?q=Rayen+Araya) | N/A |
+| 27 | [Marlen](http://twitter.com/search?q=Marlen) | N/A |
+| 28 | [cote lópez](http://twitter.com/search?q=cote+l%c3%b3pez) | N/A |
+| 29 | [luisito comunica](http://twitter.com/search?q=luisito+comunica) | N/A |
+| 30 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
+| 31 | [gonzalo valenzuela](http://twitter.com/search?q=gonzalo+valenzuela) | N/A |
+| 32 | [federico sánchez](http://twitter.com/search?q=federico+s%c3%a1nchez) | N/A |
+| 33 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 34 | [tonkita](http://twitter.com/search?q=tonkita) | N/A |
+| 35 | [mary rose](http://twitter.com/search?q=mary+rose) | N/A |
+| 36 | [pancha merino](http://twitter.com/search?q=pancha+merino) | N/A |
+| 37 | [Bolocco](http://twitter.com/search?q=Bolocco) | N/A |
+| 38 | [daniela aranguiz](http://twitter.com/search?q=daniela+aranguiz) | N/A |
+| 39 | [eugenia lemos](http://twitter.com/search?q=eugenia+lemos) | N/A |
+| 40 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
+| 41 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 42 | [power peralta](http://twitter.com/search?q=power+peralta) | N/A |
+| 43 | [Colombiano](http://twitter.com/search?q=Colombiano) | N/A |
+| 44 | [Polima](http://twitter.com/search?q=Polima) | N/A |
+| 45 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 46 | [Karen Paola](http://twitter.com/search?q=Karen+Paola) | N/A |
+| 47 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 48 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
+| 49 | [Matías Assler](http://twitter.com/search?q=Mat%c3%adas+Assler) | N/A |
 
 
 

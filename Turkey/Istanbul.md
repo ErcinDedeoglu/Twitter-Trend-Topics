@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-18 08:17:35 UTC`
+📆 Last Updated: `2023-02-18 09:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MiracKandili](http://twitter.com/search?q=%23MiracKandili) | N/A |
-| 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 3 | [Şerefsiz Fahişçiler](http://twitter.com/search?q=%c5%9eerefsiz+Fahi%c5%9f%c3%a7iler) | N/A |
-| 4 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 5 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
-| 6 | [#HalukLeventYalnızDeğildir](http://twitter.com/search?q=%23HalukLeventYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 7 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 9 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 10 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 11 | [flokigrow](http://twitter.com/search?q=flokigrow) | N/A |
-| 12 | [hamitduras bilenkazanırda](http://twitter.com/search?q=hamitduras+bilenkazan%c4%b1rda) | N/A |
-| 13 | [fırsatçı prefabrikçiler](http://twitter.com/search?q=f%c4%b1rsat%c3%a7%c4%b1+prefabrik%c3%a7iler) | N/A |
-| 14 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 15 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
-| 16 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 17 | [Cumamız](http://twitter.com/search?q=Cumam%c4%b1z) | N/A |
-| 18 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 19 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
-| 20 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 21 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 22 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 23 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 24 | [ahlaksız davutoğlu](http://twitter.com/search?q=ahlaks%c4%b1z+davuto%c4%9flu) | N/A |
-| 25 | [başarılar trabzonspor](http://twitter.com/search?q=ba%c5%9far%c4%b1lar+trabzonspor) | N/A |
-| 26 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 27 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 28 | [Murat Uzunmehmet](http://twitter.com/search?q=Murat+Uzunmehmet) | N/A |
-| 29 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 30 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 31 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 32 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 33 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 34 | [Depremin 12](http://twitter.com/search?q=Depremin+12) | N/A |
-| 35 | [Woody Allen](http://twitter.com/search?q=Woody+Allen) | N/A |
-| 36 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 37 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 38 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 39 | [Muhittin Kapanşahin](http://twitter.com/search?q=Muhittin+Kapan%c5%9fahin) | N/A |
-| 40 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 41 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 42 | [Mescid-i Aksâ'ya](http://twitter.com/search?q=Mescid-i+Aks%c3%a2%27ya) | N/A |
-| 43 | [Alparslan Arslan](http://twitter.com/search?q=Alparslan+Arslan) | N/A |
-| 44 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 45 | [Kaos](http://twitter.com/search?q=Kaos) | N/A |
-| 46 | [Yoruldum](http://twitter.com/search?q=Yoruldum) | N/A |
-| 47 | [Lütfetmiş](http://twitter.com/search?q=L%c3%bctfetmi%c5%9f) | N/A |
-| 48 | [Karsu](http://twitter.com/search?q=Karsu) | N/A |
-| 49 | [Bir Allahın](http://twitter.com/search?q=Bir+Allah%c4%b1n) | N/A |
-| 50 | [Timsah](http://twitter.com/search?q=Timsah) | N/A |
+| 1 | [Arınç](http://twitter.com/search?q=Ar%c4%b1n%c3%a7) | N/A |
+| 2 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 3 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 5 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 6 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
+| 7 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 8 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 9 | [Lütfetmiş](http://twitter.com/search?q=L%c3%bctfetmi%c5%9f) | N/A |
+| 10 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
+| 11 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
+| 12 | [#balıkesir](http://twitter.com/search?q=%23bal%c4%b1kesir) | N/A |
+| 13 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
+| 14 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 15 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 16 | [#KademeliPrimİstemiyoruz](http://twitter.com/search?q=%23KademeliPrim%c4%b0stemiyoruz) | N/A |
+| 17 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 18 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
+| 19 | [Woody Allen](http://twitter.com/search?q=Woody+Allen) | N/A |
+| 20 | [Timsah](http://twitter.com/search?q=Timsah) | N/A |
+| 21 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 22 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 23 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 24 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 25 | [Kızı](http://twitter.com/search?q=K%c4%b1z%c4%b1) | N/A |
+| 26 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 27 | [Alın](http://twitter.com/search?q=Al%c4%b1n) | N/A |
+| 28 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 29 | [İslamı](http://twitter.com/search?q=%c4%b0slam%c4%b1) | N/A |
+| 30 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 31 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 32 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
+| 33 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 34 | [#Benidenotedin](http://twitter.com/search?q=%23Benidenotedin) | N/A |
+| 35 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
+| 36 | [#DepremCocuklarıGuevendemi](http://twitter.com/search?q=%23DepremCocuklar%c4%b1Guevendemi) | N/A |
+| 37 | [#Diyanet](http://twitter.com/search?q=%23Diyanet) | N/A |
+| 38 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 39 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 40 | [#ElifNurYel](http://twitter.com/search?q=%23ElifNurYel) | N/A |
+| 41 | [#kismetseolur](http://twitter.com/search?q=%23kismetseolur) | N/A |
 
 
 

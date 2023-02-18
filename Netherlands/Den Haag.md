@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-18 08:17:09 UTC`
+📆 Last Updated: `2023-02-18 09:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 2 | [#aalscholver](http://twitter.com/search?q=%23aalscholver) | N/A |
-| 3 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
+| 3 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 4 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
-| 5 | [Sigrid Kaag](http://twitter.com/search?q=Sigrid+Kaag) | N/A |
-| 6 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 7 | [#ADOPEC](http://twitter.com/search?q=%23ADOPEC) | N/A |
-| 8 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [teze](http://twitter.com/search?q=teze) | N/A |
-| 11 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 12 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 5 | [#rkcfor](http://twitter.com/search?q=%23rkcfor) | N/A |
+| 6 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 7 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 8 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 9 | [#ADOPEC](http://twitter.com/search?q=%23ADOPEC) | N/A |
+| 10 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
 | 13 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 14 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
-| 15 | [ocampos](http://twitter.com/search?q=ocampos) | N/A |
-| 16 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 17 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
-| 18 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 19 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 20 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
-| 21 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 22 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
-| 23 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 14 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 15 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 16 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 17 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 18 | [schreinemacher](http://twitter.com/search?q=schreinemacher) | N/A |
+| 19 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 20 | [Annabel Nanninga](http://twitter.com/search?q=Annabel+Nanninga) | N/A |
+| 21 | [Paramaribo](http://twitter.com/search?q=Paramaribo) | N/A |
+| 22 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 23 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
 | 24 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 25 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
-| 26 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 27 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 25 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Voor D66](http://twitter.com/search?q=Voor+D66) | N/A |
 | 28 | [Klappertjes](http://twitter.com/search?q=Klappertjes) | N/A |
-| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 30 | [UNION BERLIN](http://twitter.com/search?q=UNION+BERLIN) | N/A |
-| 31 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 32 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 33 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
-| 34 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 35 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 36 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 37 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 38 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
-| 39 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
-| 40 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
-| 41 | [Liesje](http://twitter.com/search?q=Liesje) | N/A |
-| 42 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 43 | [bart chabot](http://twitter.com/search?q=bart+chabot) | N/A |
-| 44 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 45 | [veerman](http://twitter.com/search?q=veerman) | N/A |
-| 46 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
-| 47 | [jong az](http://twitter.com/search?q=jong+az) | N/A |
-| 48 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 49 | [Zaterdag](http://twitter.com/search?q=Zaterdag) | N/A |
+| 29 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 30 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
+| 31 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 32 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
+| 33 | [UNION BERLIN](http://twitter.com/search?q=UNION+BERLIN) | N/A |
+| 34 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 35 | [Arnhem](http://twitter.com/search?q=Arnhem) | N/A |
+| 36 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 37 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 38 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 39 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
+| 40 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 43 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 44 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 45 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
+| 46 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 47 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 48 | [Weglopen](http://twitter.com/search?q=Weglopen) | N/A |
+| 49 | [bart chabot](http://twitter.com/search?q=bart+chabot) | N/A |
 
 
 
