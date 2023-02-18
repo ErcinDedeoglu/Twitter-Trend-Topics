@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-18 11:17:37 UTC`
+📆 Last Updated: `2023-02-18 12:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,42 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 2 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
-| 3 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 2 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 3 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
 | 4 | [#HealingServiceInBomet](http://twitter.com/search?q=%23HealingServiceInBomet) | N/A |
-| 5 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 6 | [Sábado de Carnaval](http://twitter.com/search?q=S%c3%a1bado+de+Carnaval) | N/A |
-| 7 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
-| 8 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 5 | [Tom Maior](http://twitter.com/search?q=Tom+Maior) | N/A |
+| 6 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 7 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 8 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
 | 9 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
-| 10 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 11 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 12 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 13 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 14 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
-| 15 | [Acadêmicos de Niterói](http://twitter.com/search?q=Acad%c3%aamicos+de+Niter%c3%b3i) | N/A |
-| 16 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
+| 10 | [Bola Preta](http://twitter.com/search?q=Bola+Preta) | N/A |
+| 11 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 12 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 13 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
+| 14 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 15 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 16 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
 | 17 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 18 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
-| 19 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 20 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
-| 21 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 22 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
-| 23 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
-| 24 | [Bom Carnaval](http://twitter.com/search?q=Bom+Carnaval) | N/A |
-| 25 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 18 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 19 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
+| 20 | [felipe Amorim](http://twitter.com/search?q=felipe+Amorim) | N/A |
+| 21 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 22 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
+| 23 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 24 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 25 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
 | 26 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 27 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
-| 28 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
-| 29 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 30 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 31 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
-| 32 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
-| 33 | [arraial](http://twitter.com/search?q=arraial) | N/A |
-| 34 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 35 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 27 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
+| 28 | [Independente](http://twitter.com/search?q=Independente) | N/A |
+| 29 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 30 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 31 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 32 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 33 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 34 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 35 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
+| 36 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
+| 37 | [arraial](http://twitter.com/search?q=arraial) | N/A |
 
 
 

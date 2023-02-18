@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-18 11:17:31 UTC`
+📆 Last Updated: `2023-02-18 12:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,37 +17,37 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [INACIF](http://twitter.com/search?q=INACIF) | N/A |
 | 2 | [Esmeralda Richiez](http://twitter.com/search?q=Esmeralda+Richiez) | N/A |
-| 3 | [Oportunidad 14-24](http://twitter.com/search?q=Oportunidad+14-24) | N/A |
-| 4 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
-| 5 | [#premiosjuvenilessdn2022](http://twitter.com/search?q=%23premiosjuvenilessdn2022) | N/A |
-| 6 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
-| 7 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
-| 8 | [Faride](http://twitter.com/search?q=Faride) | N/A |
-| 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 10 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
+| 3 | [oportunidad 14-24](http://twitter.com/search?q=oportunidad+14-24) | N/A |
+| 4 | [#premiosjuvenilessdn2022](http://twitter.com/search?q=%23premiosjuvenilessdn2022) | N/A |
+| 5 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 6 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
+| 7 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
+| 8 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
+| 9 | [Faride](http://twitter.com/search?q=Faride) | N/A |
+| 10 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 11 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
-| 12 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 13 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 14 | [santo domingo norte](http://twitter.com/search?q=santo+domingo+norte) | N/A |
+| 12 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 13 | [santo domingo norte](http://twitter.com/search?q=santo+domingo+norte) | N/A |
+| 14 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 15 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
 | 16 | [Yunior Marte](http://twitter.com/search?q=Yunior+Marte) | N/A |
 | 17 | [Catalina](http://twitter.com/search?q=Catalina) | N/A |
-| 18 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
-| 19 | [Clayton Kershaw](http://twitter.com/search?q=Clayton+Kershaw) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 22 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 23 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
-| 24 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
+| 18 | [Clayton Kershaw](http://twitter.com/search?q=Clayton+Kershaw) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 22 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
+| 23 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
+| 24 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
 | 25 | [Ocoa](http://twitter.com/search?q=Ocoa) | N/A |
-| 26 | [Miguel Andújar](http://twitter.com/search?q=Miguel+And%c3%bajar) | N/A |
-| 27 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
-| 28 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 29 | [caasd](http://twitter.com/search?q=caasd) | N/A |
-| 30 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
-| 31 | [gildan](http://twitter.com/search?q=gildan) | N/A |
-| 32 | [Braulio](http://twitter.com/search?q=Braulio) | N/A |
-| 33 | [Espíritu](http://twitter.com/search?q=Esp%c3%adritu) | N/A |
+| 26 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 27 | [Wason](http://twitter.com/search?q=Wason) | N/A |
+| 28 | [Miguel Andújar](http://twitter.com/search?q=Miguel+And%c3%bajar) | N/A |
+| 29 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
+| 30 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
+| 31 | [caasd](http://twitter.com/search?q=caasd) | N/A |
+| 32 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
+| 33 | [gildan](http://twitter.com/search?q=gildan) | N/A |
 | 34 | [higuey](http://twitter.com/search?q=higuey) | N/A |
 | 35 | [#ntelemicro5](http://twitter.com/search?q=%23ntelemicro5) | N/A |
 | 36 | [peña gómez](http://twitter.com/search?q=pe%c3%b1a+g%c3%b3mez) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 44 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
 | 45 | [peravia](http://twitter.com/search?q=peravia) | N/A |
-| 46 | [toros del este](http://twitter.com/search?q=toros+del+este) | N/A |
-| 47 | [#profesor](http://twitter.com/search?q=%23profesor) | N/A |
-| 48 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 49 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 50 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 46 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 47 | [Braulio](http://twitter.com/search?q=Braulio) | N/A |
+| 48 | [toros del este](http://twitter.com/search?q=toros+del+este) | N/A |
+| 49 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 50 | [raquiña](http://twitter.com/search?q=raqui%c3%b1a) | N/A |
 
 
 

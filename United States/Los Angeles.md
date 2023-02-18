@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-18 11:18:08 UTC`
+📆 Last Updated: `2023-02-18 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#gally1](http://twitter.com/search?q=%23gally1) | N/A |
 | 3 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 4 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 5 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 6 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 7 | [#Wordle609](http://twitter.com/search?q=%23Wordle609) | N/A |
-| 8 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 9 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 10 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 11 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 12 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 13 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 15 | [#BestBattleSoundtrack](http://twitter.com/search?q=%23BestBattleSoundtrack) | N/A |
-| 16 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [#Wordle609](http://twitter.com/search?q=%23Wordle609) | N/A |
+| 10 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 11 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 12 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 13 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 14 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 15 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
+| 16 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 17 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
 | 18 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 19 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
+| 19 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 20 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 21 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 22 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 23 | [Judge Mathis](http://twitter.com/search?q=Judge+Mathis) | N/A |
-| 24 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 25 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 26 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 27 | [Copley](http://twitter.com/search?q=Copley) | N/A |
-| 28 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 29 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
-| 30 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 31 | [Gate](http://twitter.com/search?q=Gate) | N/A |
+| 22 | [Greg Hardy](http://twitter.com/search?q=Greg+Hardy) | N/A |
+| 23 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 24 | [Judge Mathis](http://twitter.com/search?q=Judge+Mathis) | N/A |
+| 25 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 26 | [Gate](http://twitter.com/search?q=Gate) | N/A |
+| 27 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 28 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 29 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 31 | [Jose Alvarado](http://twitter.com/search?q=Jose+Alvarado) | N/A |
 | 32 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 33 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 34 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 35 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 36 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 37 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 38 | [The Woman King](http://twitter.com/search?q=The+Woman+King) | The Woman King is a term used to refer to a female ruler or leader. It is often used to describe a female monarch, such as a queen or empress. The phrase can also be used to refer to any woman who has achieved great power and influence in her field. |
-| 39 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 40 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 41 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
-| 42 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
-| 43 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 44 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 45 | [Antman](http://twitter.com/search?q=Antman) | N/A |
-| 46 | [City Girls](http://twitter.com/search?q=City+Girls) | N/A |
-| 47 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 48 | [Rising Stars](http://twitter.com/search?q=Rising+Stars) | Rising Stars is a term used to describe people who are on the rise in their respective fields. It is often used to refer to young people who have achieved success in their chosen profession or area of expertise. The term can also be used to refer to those who have the potential to become successful in the future. |
-| 49 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 50 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 33 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 34 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
+| 35 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 36 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
+| 37 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 38 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 39 | [The Woman King](http://twitter.com/search?q=The+Woman+King) | The Woman King is a term used to refer to a female ruler or leader. It is often used to describe a female monarch, such as a queen or empress. The phrase can also be used to refer to any woman who has achieved great power and influence in her field. |
+| 40 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 41 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 42 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 43 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 44 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 45 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 46 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 47 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 48 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 49 | [#NoQuitInNY](http://twitter.com/search?q=%23NoQuitInNY) | N/A |
+| 50 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
 
 
 

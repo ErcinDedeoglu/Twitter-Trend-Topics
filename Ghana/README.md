@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-18 11:18:15 UTC`
+📆 Last Updated: `2023-02-18 12:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ghana
 | 3 | [BECE](http://twitter.com/search?q=BECE) | N/A |
 | 4 | [#SoccabetLoveAndLaughter](http://twitter.com/search?q=%23SoccabetLoveAndLaughter) | N/A |
 | 5 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 6 | [African Prince](http://twitter.com/search?q=African+Prince) | N/A |
-| 7 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
-| 8 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 9 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 10 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 11 | [#Newsfile](http://twitter.com/search?q=%23Newsfile) | N/A |
-| 12 | [Aggregate 35](http://twitter.com/search?q=Aggregate+35) | N/A |
-| 13 | [Wakaso](http://twitter.com/search?q=Wakaso) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [#UPSA](http://twitter.com/search?q=%23UPSA) | N/A |
-| 16 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
-| 17 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
-| 18 | [#sohofriday](http://twitter.com/search?q=%23sohofriday) | N/A |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 21 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 22 | [Rest In Perfect Peace](http://twitter.com/search?q=Rest+In+Perfect+Peace) | N/A |
-| 23 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 24 | [Harmattan](http://twitter.com/search?q=Harmattan) | N/A |
-| 25 | [sellas tetteh](http://twitter.com/search?q=sellas+tetteh) | N/A |
-| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 27 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 28 | [2015 AFCON](http://twitter.com/search?q=2015+AFCON) | N/A |
-| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 30 | [Sad News](http://twitter.com/search?q=Sad+News) | N/A |
-| 31 | [Ozai](http://twitter.com/search?q=Ozai) | N/A |
-| 32 | [Aburi](http://twitter.com/search?q=Aburi) | N/A |
-| 33 | [PHYNA OUR ONLY FOCUS](http://twitter.com/search?q=PHYNA+OUR+ONLY+FOCUS) | N/A |
-| 34 | [Vindicated](http://twitter.com/search?q=Vindicated) | N/A |
-| 35 | [Atadeezy](http://twitter.com/search?q=Atadeezy) | N/A |
-| 36 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 37 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 38 | [weghorst](http://twitter.com/search?q=weghorst) | N/A |
-| 39 | [Free SHS](http://twitter.com/search?q=Free+SHS) | N/A |
-| 40 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
-| 41 | [river ankobra](http://twitter.com/search?q=river+ankobra) | N/A |
-| 42 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 43 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 44 | [first atlantic bank](http://twitter.com/search?q=first+atlantic+bank) | N/A |
-| 45 | [andre ayew](http://twitter.com/search?q=andre+ayew) | N/A |
-| 46 | [Hero](http://twitter.com/search?q=Hero) | N/A |
-| 47 | [Isaac Adongo](http://twitter.com/search?q=Isaac+Adongo) | N/A |
-| 48 | [FSHS](http://twitter.com/search?q=FSHS) | N/A |
-| 49 | [HYPE PHYNA](http://twitter.com/search?q=HYPE+PHYNA) | N/A |
-| 50 | [KHOSI THE GENEROUS LOVER](http://twitter.com/search?q=KHOSI+THE+GENEROUS+LOVER) | N/A |
+| 6 | [#BARMUN](http://twitter.com/search?q=%23BARMUN) | N/A |
+| 7 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 8 | [Aggregate 35](http://twitter.com/search?q=Aggregate+35) | N/A |
+| 9 | [African Prince](http://twitter.com/search?q=African+Prince) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [#UPSA](http://twitter.com/search?q=%23UPSA) | N/A |
+| 12 | [Wakaso](http://twitter.com/search?q=Wakaso) | N/A |
+| 13 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 14 | [#sohofriday](http://twitter.com/search?q=%23sohofriday) | N/A |
+| 15 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
+| 16 | [#WakeNBake](http://twitter.com/search?q=%23WakeNBake) | N/A |
+| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 18 | [Harmattan](http://twitter.com/search?q=Harmattan) | N/A |
+| 19 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 20 | [Sellas Tetteh](http://twitter.com/search?q=Sellas+Tetteh) | N/A |
+| 21 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 22 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 23 | [2015 AFCON](http://twitter.com/search?q=2015+AFCON) | N/A |
+| 24 | [aburi](http://twitter.com/search?q=aburi) | N/A |
+| 25 | [Sad News](http://twitter.com/search?q=Sad+News) | N/A |
+| 26 | [Vindicated](http://twitter.com/search?q=Vindicated) | N/A |
+| 27 | [Ozai](http://twitter.com/search?q=Ozai) | N/A |
+| 28 | [phyna our only focus](http://twitter.com/search?q=phyna+our+only+focus) | N/A |
+| 29 | [Atadeezy](http://twitter.com/search?q=Atadeezy) | N/A |
+| 30 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 31 | [Rest In Perfect Peace](http://twitter.com/search?q=Rest+In+Perfect+Peace) | N/A |
+| 32 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 34 | [Free SHS](http://twitter.com/search?q=Free+SHS) | N/A |
+| 35 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
+| 36 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 37 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 38 | [PRAY FOR PHYNA](http://twitter.com/search?q=PRAY+FOR+PHYNA) | N/A |
+| 39 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 40 | [first atlantic bank](http://twitter.com/search?q=first+atlantic+bank) | N/A |
+| 41 | [Andre Ayew](http://twitter.com/search?q=Andre+Ayew) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [FSHS](http://twitter.com/search?q=FSHS) | N/A |
+| 44 | [hype phyna](http://twitter.com/search?q=hype+phyna) | N/A |
+| 45 | [KHOSI THE GENEROUS LOVER](http://twitter.com/search?q=KHOSI+THE+GENEROUS+LOVER) | N/A |
+| 46 | [lyrical joe](http://twitter.com/search?q=lyrical+joe) | N/A |
+| 47 | [Mikel Obi](http://twitter.com/search?q=Mikel+Obi) | N/A |
+| 48 | [River Ankobra](http://twitter.com/search?q=River+Ankobra) | N/A |
+| 49 | [fiifi tackie](http://twitter.com/search?q=fiifi+tackie) | N/A |
+| 50 | [ghana yesu](http://twitter.com/search?q=ghana+yesu) | N/A |
 
 
 
