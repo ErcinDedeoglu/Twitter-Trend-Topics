@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-18 12:17:43 UTC`
+📆 Last Updated: `2023-02-18 13:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
-| 2 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
-| 3 | [#HealingServiceInBomet](http://twitter.com/search?q=%23HealingServiceInBomet) | N/A |
-| 4 | [Tom Maior](http://twitter.com/search?q=Tom+Maior) | N/A |
-| 5 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 6 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 7 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 8 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
-| 9 | [Bola Preta](http://twitter.com/search?q=Bola+Preta) | N/A |
-| 10 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
-| 11 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 12 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
-| 13 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 14 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 15 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 16 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 17 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 18 | [felipe Amorim](http://twitter.com/search?q=felipe+Amorim) | N/A |
-| 19 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
-| 20 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 21 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
-| 22 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 23 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
-| 24 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
-| 25 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 26 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
-| 27 | [Independente](http://twitter.com/search?q=Independente) | N/A |
-| 28 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 29 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
-| 30 | [Dora](http://twitter.com/search?q=Dora) | N/A |
-| 31 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 32 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
-| 33 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 34 | [Trouxa](http://twitter.com/search?q=Trouxa) | N/A |
-| 35 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
-| 36 | [arraial](http://twitter.com/search?q=arraial) | N/A |
+| 1 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 2 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 3 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 5 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
+| 6 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 7 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 8 | [O Arsenal](http://twitter.com/search?q=O+Arsenal) | N/A |
+| 9 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 10 | [Sábado de Carnaval](http://twitter.com/search?q=S%c3%a1bado+de+Carnaval) | N/A |
+| 11 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 12 | [#HealingServiceInBomet](http://twitter.com/search?q=%23HealingServiceInBomet) | N/A |
+| 13 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 14 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 15 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 17 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 18 | [Bola Preta](http://twitter.com/search?q=Bola+Preta) | N/A |
+| 19 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 20 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 21 | [ELA VOLTOU](http://twitter.com/search?q=ELA+VOLTOU) | N/A |
+| 22 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
+| 23 | [Tom Maior](http://twitter.com/search?q=Tom+Maior) | N/A |
+| 24 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
+| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 26 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 27 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
+| 28 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 29 | [sapucaí](http://twitter.com/search?q=sapuca%c3%ad) | N/A |
+| 30 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 31 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
+| 32 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 33 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 34 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 35 | [Bloco](http://twitter.com/search?q=Bloco) | N/A |
+| 36 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 37 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
+| 38 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 39 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 40 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
+| 41 | [Cabo Frio](http://twitter.com/search?q=Cabo+Frio) | N/A |
+| 42 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 43 | [Russomano](http://twitter.com/search?q=Russomano) | N/A |
+| 44 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 45 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 46 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
+| 47 | [Angra](http://twitter.com/search?q=Angra) | N/A |
+| 48 | [Série Ouro](http://twitter.com/search?q=S%c3%a9rie+Ouro) | N/A |
+| 49 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 
 
 

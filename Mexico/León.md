@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-18 12:17:37 UTC`
+📆 Last Updated: `2023-02-18 13:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
 | 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 4 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 5 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 6 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 7 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 8 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 5 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 6 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 7 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 8 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
 | 9 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 10 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
+| 11 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
 | 12 | [guillermo gonzález camarena](http://twitter.com/search?q=guillermo+gonz%c3%a1lez+camarena) | N/A |
-| 13 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 13 | [JAKE RUBIO](http://twitter.com/search?q=JAKE+RUBIO) | N/A |
 | 14 | [Nexus](http://twitter.com/search?q=Nexus) | N/A |
-| 15 | [JAKE RUBIO](http://twitter.com/search?q=JAKE+RUBIO) | N/A |
-| 16 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 17 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
-| 18 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 19 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 20 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 21 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
+| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 16 | [acevedo](http://twitter.com/search?q=acevedo) | N/A |
+| 17 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 18 | [Luisito Comunica](http://twitter.com/search?q=Luisito+Comunica) | N/A |
+| 19 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
+| 20 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 | 22 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
 | 23 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 24 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 25 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 26 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 27 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
-| 28 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 29 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 24 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 25 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 26 | [Villalvazo](http://twitter.com/search?q=Villalvazo) | N/A |
+| 27 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 29 | [Cota](http://twitter.com/search?q=Cota) | N/A |
 | 30 | [aleida](http://twitter.com/search?q=aleida) | N/A |
 | 31 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
 | 32 | [mario b x leon leiden](http://twitter.com/search?q=mario+b+x+leon+leiden) | N/A |
-| 33 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 34 | [puerto peñasco](http://twitter.com/search?q=puerto+pe%c3%b1asco) | N/A |
-| 35 | [alejandro del valle](http://twitter.com/search?q=alejandro+del+valle) | N/A |
-| 36 | [Charly Rodríguez](http://twitter.com/search?q=Charly+Rodr%c3%adguez) | N/A |
+| 33 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 34 | [Charly Rodríguez](http://twitter.com/search?q=Charly+Rodr%c3%adguez) | N/A |
+| 35 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 36 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
 | 37 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
 | 38 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 39 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 40 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 41 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 42 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
-| 43 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 44 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 45 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 46 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 39 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 40 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 41 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 42 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 43 | [CONGRATULATIONS CHA EUNWOO](http://twitter.com/search?q=CONGRATULATIONS+CHA+EUNWOO) | N/A |
+| 44 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 46 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
 
 
 

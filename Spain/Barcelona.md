@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-18 12:17:52 UTC`
+📆 Last Updated: `2023-02-18 13:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023Final](http://twitter.com/search?q=%23COAC2023Final) | N/A |
-| 2 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 3 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 4 | [#33finales](http://twitter.com/search?q=%2333finales) | N/A |
-| 5 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
-| 6 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
-| 7 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 8 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 9 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 10 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 13 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
-| 14 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
-| 15 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 16 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 17 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 19 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 20 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 21 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 22 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 25 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 26 | [Carli](http://twitter.com/search?q=Carli) | N/A |
-| 27 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 28 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 29 | [Don Antonio](http://twitter.com/search?q=Don+Antonio) | Don Antonio is a Spanish title of respect given to a man of high social standing. It is equivalent to the English title of "Sir" or "Mister". |
-| 30 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 31 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 32 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
-| 33 | [Falla](http://twitter.com/search?q=Falla) | N/A |
-| 34 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 35 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 36 | [El Pardo](http://twitter.com/search?q=El+Pardo) | N/A |
-| 37 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
-| 38 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 39 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
-| 40 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 41 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 42 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 43 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 44 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 45 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 46 | [Koba](http://twitter.com/search?q=Koba) | N/A |
-| 47 | [Ante Tomic](http://twitter.com/search?q=Ante+Tomic) | N/A |
-| 48 | [Chuletón](http://twitter.com/search?q=Chulet%c3%b3n) | N/A |
-| 49 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 50 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 1 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 2 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 3 | [El Arsenal](http://twitter.com/search?q=El+Arsenal) | N/A |
+| 4 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
+| 5 | [#NoALaTala](http://twitter.com/search?q=%23NoALaTala) | N/A |
+| 6 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 7 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 8 | [#RealSociedadCelta](http://twitter.com/search?q=%23RealSociedadCelta) | N/A |
+| 9 | [#PorLosTuyos](http://twitter.com/search?q=%23PorLosTuyos) | N/A |
+| 10 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 11 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 12 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 13 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 14 | [#YoDefiendoEsteÁrbol](http://twitter.com/search?q=%23YoDefiendoEste%c3%81rbol) | N/A |
+| 15 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 16 | [Reale Arena](http://twitter.com/search?q=Reale+Arena) | N/A |
+| 17 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 18 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 19 | [Patrimonio Nacional](http://twitter.com/search?q=Patrimonio+Nacional) | N/A |
+| 20 | [El Pardo](http://twitter.com/search?q=El+Pardo) | N/A |
+| 21 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
+| 22 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
+| 23 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 24 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 25 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 26 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 27 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 28 | [Pablo Casado](http://twitter.com/search?q=Pablo+Casado) | N/A |
+| 29 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 30 | [Casa Real](http://twitter.com/search?q=Casa+Real) | N/A |
+| 31 | [Ciudad Rodrigo](http://twitter.com/search?q=Ciudad+Rodrigo) | N/A |
+| 32 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
+| 33 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 34 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
+| 35 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 36 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 37 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 38 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 39 | [Barçagate](http://twitter.com/search?q=Bar%c3%a7agate) | N/A |
+| 40 | [Chema](http://twitter.com/search?q=Chema) | N/A |
+| 41 | [COAC](http://twitter.com/search?q=COAC) | N/A |
+| 42 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
+| 43 | [Feliz Carnaval](http://twitter.com/search?q=Feliz+Carnaval) | N/A |
+| 44 | [#N1CanalFiesta7](http://twitter.com/search?q=%23N1CanalFiesta7) | N/A |
+| 45 | [#APOYOROCIO18F](http://twitter.com/search?q=%23APOYOROCIO18F) | N/A |
+| 46 | [#YoMeRebelo18F](http://twitter.com/search?q=%23YoMeRebelo18F) | N/A |
+| 47 | [#DiaInternacionalAsperger](http://twitter.com/search?q=%23DiaInternacionalAsperger) | N/A |
+| 48 | [#CrisPorta18F](http://twitter.com/search?q=%23CrisPorta18F) | N/A |
+| 49 | [#del40al1cocacola](http://twitter.com/search?q=%23del40al1cocacola) | N/A |
+| 50 | [#OsasunaRealMadrid](http://twitter.com/search?q=%23OsasunaRealMadrid) | N/A |
 
 
 

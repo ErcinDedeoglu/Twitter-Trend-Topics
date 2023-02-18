@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-18 12:18:05 UTC`
+📆 Last Updated: `2023-02-18 13:19:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 3 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
-| 4 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
-| 5 | [#ENHYPENon2022CCMA](http://twitter.com/search?q=%23ENHYPENon2022CCMA) | N/A |
-| 6 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 7 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 8 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 9 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
-| 10 | [#NAYEON_BestFemaleSoloist](http://twitter.com/search?q=%23NAYEON_BestFemaleSoloist) | N/A |
-| 11 | [HOT PERFORMANCE OF THE YEAR](http://twitter.com/search?q=HOT+PERFORMANCE+OF+THE+YEAR) | N/A |
-| 12 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 13 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 14 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 15 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 16 | [ZACHAM CHOS3N BARKADA](http://twitter.com/search?q=ZACHAM+CHOS3N+BARKADA) | N/A |
-| 17 | [Renejay](http://twitter.com/search?q=Renejay) | N/A |
-| 18 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
-| 19 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 20 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 21 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
-| 22 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
-| 23 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 24 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 25 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
-| 26 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
-| 27 | [Lacsina](http://twitter.com/search?q=Lacsina) | N/A |
-| 28 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
-| 29 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 30 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
-| 31 | [KODREA AT ENCHANTED KINGDOM](http://twitter.com/search?q=KODREA+AT+ENCHANTED+KINGDOM) | N/A |
-| 32 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 33 | [BSS FIGHTING AT CIRCLE CHART](http://twitter.com/search?q=BSS+FIGHTING+AT+CIRCLE+CHART) | N/A |
+| 1 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 2 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 3 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 4 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 6 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
+| 7 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 8 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 9 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 10 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
+| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 12 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
+| 13 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
+| 14 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 15 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 16 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 17 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
+| 18 | [JUST DO IT](http://twitter.com/search?q=JUST+DO+IT) | N/A |
+| 19 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 20 | [Renejay](http://twitter.com/search?q=Renejay) | N/A |
+| 21 | [GO F2](http://twitter.com/search?q=GO+F2) | N/A |
+| 22 | [Hot Performance of the Year](http://twitter.com/search?q=Hot+Performance+of+the+Year) | N/A |
+| 23 | [ZACHAM CHOS3N BARKADA](http://twitter.com/search?q=ZACHAM+CHOS3N+BARKADA) | N/A |
+| 24 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 25 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
+| 26 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 27 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 28 | [MALE GROUP OF THE YEAR](http://twitter.com/search?q=MALE+GROUP+OF+THE+YEAR) | N/A |
+| 29 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 30 | [BooSeokSoon](http://twitter.com/search?q=BooSeokSoon) | N/A |
+| 31 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 32 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 33 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
 | 34 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 35 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 36 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 37 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 38 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 39 | [#RegineSOLOday2](http://twitter.com/search?q=%23RegineSOLOday2) | N/A |
-| 40 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 41 | [#KokoyOnMPK](http://twitter.com/search?q=%23KokoyOnMPK) | N/A |
-| 42 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
-| 43 | [#MNL48onJapanFiestaD1](http://twitter.com/search?q=%23MNL48onJapanFiestaD1) | N/A |
-| 44 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
-| 45 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
-| 46 | [#Fighting4thWin](http://twitter.com/search?q=%23Fighting4thWin) | N/A |
-| 47 | [#BSS4thWin](http://twitter.com/search?q=%23BSS4thWin) | N/A |
-| 48 | [#GirlOnFireTheBlazingFinale](http://twitter.com/search?q=%23GirlOnFireTheBlazingFinale) | N/A |
-| 49 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
-| 50 | [#YGIG](http://twitter.com/search?q=%23YGIG) | N/A |
+| 35 | [Lacsina](http://twitter.com/search?q=Lacsina) | N/A |
+| 36 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
+| 37 | [Yena](http://twitter.com/search?q=Yena) | N/A |
+| 38 | [ZACH CHARMS PANGASINAN](http://twitter.com/search?q=ZACH+CHARMS+PANGASINAN) | N/A |
+| 39 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
+| 40 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
+| 41 | [KODREA AT ENCHANTED KINGDOM](http://twitter.com/search?q=KODREA+AT+ENCHANTED+KINGDOM) | N/A |
+| 42 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 43 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 44 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
+| 45 | [BSS FIGHTING AT CIRCLE CHART](http://twitter.com/search?q=BSS+FIGHTING+AT+CIRCLE+CHART) | N/A |
+| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 47 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 48 | [#ENHYPENon2022CCMA](http://twitter.com/search?q=%23ENHYPENon2022CCMA) | N/A |
+| 49 | [#KokoyOnMPK](http://twitter.com/search?q=%23KokoyOnMPK) | N/A |
+| 50 | [#RegineSOLOday2](http://twitter.com/search?q=%23RegineSOLOday2) | N/A |
 
 
 

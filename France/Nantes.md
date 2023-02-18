@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-18 12:17:48 UTC`
+📆 Last Updated: `2023-02-18 13:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 2 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 3 | [#kcwin](http://twitter.com/search?q=%23kcwin) | N/A |
-| 4 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
-| 5 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 6 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
-| 7 | [Aurélien Pradié](http://twitter.com/search?q=Aur%c3%a9lien+Pradi%c3%a9) | N/A |
-| 8 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 9 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
-| 10 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 11 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 2 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 3 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 4 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 5 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 6 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 7 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 8 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
+| 9 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 10 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
+| 11 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 12 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
 | 13 | [CHAMPIONS DU MONDE](http://twitter.com/search?q=CHAMPIONS+DU+MONDE) | N/A |
-| 14 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 17 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 18 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 19 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 20 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 21 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 22 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
-| 25 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 26 | [Républicains](http://twitter.com/search?q=R%c3%a9publicains) | N/A |
-| 27 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 28 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 29 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 32 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 33 | [Lady Nagant](http://twitter.com/search?q=Lady+Nagant) | N/A |
-| 34 | [TOTP](http://twitter.com/search?q=TOTP) | N/A |
-| 35 | [le 7](http://twitter.com/search?q=le+7) | N/A |
-| 36 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
-| 37 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 38 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 39 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
-| 40 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 41 | [L'Oréal](http://twitter.com/search?q=L%27Or%c3%a9al) | N/A |
-| 42 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
-| 43 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 44 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 45 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 46 | [Tuches](http://twitter.com/search?q=Tuches) | N/A |
-| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 48 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 49 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 50 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 14 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 15 | [Aurélien Pradié](http://twitter.com/search?q=Aur%c3%a9lien+Pradi%c3%a9) | N/A |
+| 16 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 17 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 18 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 19 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 20 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 21 | [Fabien Claude](http://twitter.com/search?q=Fabien+Claude) | N/A |
+| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 23 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 24 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 25 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 26 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 27 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 28 | [Républicains](http://twitter.com/search?q=R%c3%a9publicains) | N/A |
+| 29 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 30 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 32 | [La NUPES](http://twitter.com/search?q=La+NUPES) | N/A |
+| 33 | [Bernadette](http://twitter.com/search?q=Bernadette) | N/A |
+| 34 | [Robespierre](http://twitter.com/search?q=Robespierre) | N/A |
+| 35 | [Faure](http://twitter.com/search?q=Faure) | N/A |
+| 36 | [Pitoyable](http://twitter.com/search?q=Pitoyable) | N/A |
+| 37 | [Insoumis](http://twitter.com/search?q=Insoumis) | N/A |
+| 38 | [#Oberhof2023](http://twitter.com/search?q=%23Oberhof2023) | N/A |
+| 39 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
+| 40 | [#FCGBPFC](http://twitter.com/search?q=%23FCGBPFC) | N/A |
+| 41 | [#MastercardNexusTour](http://twitter.com/search?q=%23MastercardNexusTour) | N/A |
+| 42 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
+| 43 | [#Lfilahonte](http://twitter.com/search?q=%23Lfilahonte) | N/A |
+| 44 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
+| 45 | [#7mars](http://twitter.com/search?q=%237mars) | N/A |
+| 46 | [#NupesMarcheDeDupes](http://twitter.com/search?q=%23NupesMarcheDeDupes) | N/A |
+| 47 | [#MotionDeCensure](http://twitter.com/search?q=%23MotionDeCensure) | N/A |
 
 
 
