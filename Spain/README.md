@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-18 00:29:31 UTC`
+📆 Last Updated: `2023-02-18 01:44:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023Final](http://twitter.com/search?q=%23COAC2023Final) | N/A |
-| 2 | [#33Finales](http://twitter.com/search?q=%2333Finales) | N/A |
-| 3 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 4 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
-| 5 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 6 | [#CrisPorta17F](http://twitter.com/search?q=%23CrisPorta17F) | N/A |
-| 7 | [Luis Rivero](http://twitter.com/search?q=Luis+Rivero) | N/A |
-| 8 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
-| 9 | [#ElDesafio6](http://twitter.com/search?q=%23ElDesafio6) | N/A |
-| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 11 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 12 | [Noly](http://twitter.com/search?q=Noly) | N/A |
-| 13 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 14 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 15 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 16 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 17 | [La Voz](http://twitter.com/search?q=La+Voz) | N/A |
-| 18 | [Falla](http://twitter.com/search?q=Falla) | N/A |
-| 19 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 20 | [Koba](http://twitter.com/search?q=Koba) | N/A |
-| 21 | [Robertone](http://twitter.com/search?q=Robertone) | N/A |
-| 22 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 23 | [Zaza](http://twitter.com/search?q=Zaza) | N/A |
-| 24 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
-| 25 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 26 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 27 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 28 | [Peñarroya](http://twitter.com/search?q=Pe%c3%b1arroya) | N/A |
-| 29 | [Joventut](http://twitter.com/search?q=Joventut) | N/A |
-| 30 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
-| 31 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
-| 32 | [Jorge Salvaje](http://twitter.com/search?q=Jorge+Salvaje) | N/A |
-| 33 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 34 | [Ante Tomic](http://twitter.com/search?q=Ante+Tomic) | N/A |
-| 35 | [Penya](http://twitter.com/search?q=Penya) | N/A |
-| 36 | [Musto](http://twitter.com/search?q=Musto) | N/A |
-| 37 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 38 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
+| 2 | [Don Antonio](http://twitter.com/search?q=Don+Antonio) | Don Antonio is a Spanish title of respect given to a man of high social standing. It is equivalent to the English title of "Sir" or "Mister". |
+| 3 | [#33Finales](http://twitter.com/search?q=%2333Finales) | N/A |
+| 4 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
+| 5 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
+| 6 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
+| 7 | [#CrisPorta17F](http://twitter.com/search?q=%23CrisPorta17F) | N/A |
+| 8 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 9 | [#LaCiudadInvisible](http://twitter.com/search?q=%23LaCiudadInvisible) | N/A |
+| 10 | [Luis Rivero](http://twitter.com/search?q=Luis+Rivero) | N/A |
+| 11 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 13 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 14 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 15 | [Los Desgraciaitos](http://twitter.com/search?q=Los+Desgraciaitos) | N/A |
+| 16 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 17 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
+| 18 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 19 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 20 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 21 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 22 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 23 | [La Voz](http://twitter.com/search?q=La+Voz) | N/A |
+| 24 | [Noly](http://twitter.com/search?q=Noly) | N/A |
+| 25 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 26 | [Los Esclavos](http://twitter.com/search?q=Los+Esclavos) | N/A |
+| 27 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
+| 28 | [Robertone](http://twitter.com/search?q=Robertone) | N/A |
+| 29 | [Koba](http://twitter.com/search?q=Koba) | N/A |
+| 30 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 31 | [Selu](http://twitter.com/search?q=Selu) | N/A |
+| 32 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 33 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
+| 34 | [Jorge Salvaje](http://twitter.com/search?q=Jorge+Salvaje) | N/A |
+| 35 | [Joventut](http://twitter.com/search?q=Joventut) | N/A |
+| 36 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 37 | [Ante Tomic](http://twitter.com/search?q=Ante+Tomic) | N/A |
+| 38 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
 | 39 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 40 | [Selu](http://twitter.com/search?q=Selu) | N/A |
-| 41 | [2vs1](http://twitter.com/search?q=2vs1) | N/A |
-| 42 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
-| 43 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 44 | [Borja Valle](http://twitter.com/search?q=Borja+Valle) | N/A |
-| 45 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
-| 46 | [Viti](http://twitter.com/search?q=Viti) | N/A |
-| 47 | [Babic](http://twitter.com/search?q=Babic) | N/A |
-| 48 | [Tsygankov](http://twitter.com/search?q=Tsygankov) | N/A |
-| 49 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 50 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 40 | [Cadi](http://twitter.com/search?q=Cadi) | N/A |
+| 41 | [Penya](http://twitter.com/search?q=Penya) | N/A |
+| 42 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
+| 43 | [2vs1](http://twitter.com/search?q=2vs1) | N/A |
+| 44 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 45 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 46 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
+| 47 | [Supervivientes](http://twitter.com/search?q=Supervivientes) | N/A |
+| 48 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 49 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 50 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
 
 
 

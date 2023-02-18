@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-18 00:29:28 UTC`
+📆 Last Updated: `2023-02-18 01:44:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 1 | [ogres](http://twitter.com/search?q=ogres) | N/A |
 | 2 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
-| 3 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
-| 4 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 3 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
+| 4 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
 | 5 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 6 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
+| 6 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
 | 7 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 8 | [Ņemot](http://twitter.com/search?q=%c5%85emot) | N/A |
 | 9 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Latvia
 | 30 | [putinu](http://twitter.com/search?q=putinu) | N/A |
 | 31 | [piedod](http://twitter.com/search?q=piedod) | N/A |
 | 32 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
-| 33 | [Varu](http://twitter.com/search?q=Varu) | N/A |
+| 33 | [varu](http://twitter.com/search?q=varu) | N/A |
 | 34 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
 | 35 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
 | 36 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
@@ -56,13 +56,13 @@ This is top 50 for Latvia
 | 39 | [Labi](http://twitter.com/search?q=Labi) | N/A |
 | 40 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 41 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
-| 42 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 43 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
-| 44 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
-| 45 | [atkal](http://twitter.com/search?q=atkal) | N/A |
-| 46 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 47 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
-| 48 | [Pagaidām](http://twitter.com/search?q=Pagaid%c4%81m) | N/A |
+| 42 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
+| 43 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 44 | [atkal](http://twitter.com/search?q=atkal) | N/A |
+| 45 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 46 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
+| 47 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |
+| 48 | [Eiropu](http://twitter.com/search?q=Eiropu) | N/A |
 | 49 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 50 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
 

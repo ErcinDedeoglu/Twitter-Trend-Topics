@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-18 00:29:04 UTC`
+📆 Last Updated: `2023-02-18 01:44:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#احمد_رحيم](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
-| 2 | [صغير الرياض](http://twitter.com/search?q=%d8%b5%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | صغير الرياض is an Arabic phrase meaning "Little Riyadh". It is used to refer to the city of Riyadh, the capital of Saudi Arabia. |
-| 3 | [ميدران](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%b1%d8%a7%d9%86) | N/A |
-| 4 | [#تركي_ال_الشيخ](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 5 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 6 | [#الليله_الماسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 7 | [#البزنس73](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b373) | N/A |
-| 8 | [#تحالف_البس_والفار](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%a7%d9%84%d9%81_%d8%a7%d9%84%d8%a8%d8%b3_%d9%88%d8%a7%d9%84%d9%81%d8%a7%d8%b1) | N/A |
-| 9 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 10 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 2 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 3 | [صغير الرياض](http://twitter.com/search?q=%d8%b5%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | صغير الرياض is an Arabic phrase meaning "Little Riyadh". It is used to refer to the city of Riyadh, the capital of Saudi Arabia. |
+| 4 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 5 | [#بوح_اخر_اليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%8a%d9%84) | N/A |
+| 6 | [#تركي_ال_الشيخ](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 7 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
+| 8 | [#الليله_الماسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 9 | [#البزنس73](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b373) | N/A |
+| 10 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
 | 11 | [فيصل العتيبي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
-| 12 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 13 | [للنصر](http://twitter.com/search?q=%d9%84%d9%84%d9%86%d8%b5%d8%b1) | للنصر is an Arabic phrase that translates to "for victory" in English. It is often used as a rallying cry or slogan for a cause or movement. |
-| 14 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 12 | [الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | N/A |
+| 13 | [النصر الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 14 | [الشهراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
 | 15 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 16 | [النصر الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 17 | [يوسف الثنيان](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
-| 18 | [علي الحارس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3) | N/A |
-| 19 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 20 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
+| 16 | [يوسف الثنيان](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%ab%d9%86%d9%8a%d8%a7%d9%86) | N/A |
+| 17 | [علي الحارس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3) | N/A |
+| 18 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
+| 19 | [رييس التعاون](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 20 | [حاجب الرويه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%ac%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87) | N/A |
 | 21 | [النصر الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 23 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 24 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 25 | [حاجب الرويه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%ac%d8%a8+%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87) | N/A |
-| 26 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
-| 27 | [فيصل البلوي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
-| 28 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 29 | [بحكام](http://twitter.com/search?q=%d8%a8%d8%ad%d9%83%d8%a7%d9%85) | N/A |
-| 30 | [ماهر](http://twitter.com/search?q=%d9%85%d8%a7%d9%87%d8%b1) | N/A |
-| 31 | [الاخطاء التحكيميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 32 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 33 | [18 فبراير](http://twitter.com/search?q=18+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 34 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 35 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 36 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 37 | [فوز النصر](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 38 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 39 | [اللاعبين المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 40 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 41 | [ابو يعقوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
-| 42 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
-| 43 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 44 | [طارق التايب](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
-| 45 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 46 | [دفاع النصر](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 47 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 48 | [المباريات القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 49 | [#جمهور_الاتحاد_يثق_في_مدالله](http://twitter.com/search?q=%23%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d9%8a%d8%ab%d9%82_%d9%81%d9%8a_%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 50 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 22 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
+| 23 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 24 | [ماهر](http://twitter.com/search?q=%d9%85%d8%a7%d9%87%d8%b1) | N/A |
+| 25 | [الاخطاء التحكيميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 26 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 27 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 28 | [18 فبراير](http://twitter.com/search?q=18+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 29 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 30 | [فاز النصر](http://twitter.com/search?q=%d9%81%d8%a7%d8%b2+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 31 | [علي رونالدو](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
+| 32 | [ابو يعقوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
+| 33 | [#تحالف_البس_والفار](http://twitter.com/search?q=%23%d8%aa%d8%ad%d8%a7%d9%84%d9%81_%d8%a7%d9%84%d8%a8%d8%b3_%d9%88%d8%a7%d9%84%d9%81%d8%a7%d8%b1) | N/A |
+| 34 | [#جمهور_الاتحاد_يثق_في_مدالله](http://twitter.com/search?q=%23%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d9%8a%d8%ab%d9%82_%d9%81%d9%8a_%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 35 | [#ازمه_منتصف_العمر](http://twitter.com/search?q=%23%d8%a7%d8%b2%d9%85%d9%87_%d9%85%d9%86%d8%aa%d8%b5%d9%81_%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
+| 36 | [#نعم_للاجانب_النخبه](http://twitter.com/search?q=%23%d9%86%d8%b9%d9%85_%d9%84%d9%84%d8%a7%d8%ac%d8%a7%d9%86%d8%a8_%d8%a7%d9%84%d9%86%d8%ae%d8%a8%d9%87) | N/A |
+| 37 | [#احلام_الشامسي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%84%d8%a7%d9%85_%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
+| 38 | [#سميه_الناصر](http://twitter.com/search?q=%23%d8%b3%d9%85%d9%8a%d9%87_%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 39 | [#الهلال_شباب_الاهلي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 40 | [#بيت_العايله_الابراهيميه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%aa_%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 41 | [#سلمان_بن_خالد](http://twitter.com/search?q=%23%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 42 | [#زد_رصيدك25](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8325) | N/A |
+| 43 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
+| 44 | [#مشاري_العتيبي](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%a7%d8%b1%d9%8a_%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
+| 45 | [#نايف_الرفيدي](http://twitter.com/search?q=%23%d9%86%d8%a7%d9%8a%d9%81_%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%af%d9%8a) | N/A |
+| 46 | [#صداره_بس](http://twitter.com/search?q=%23%d8%b5%d8%af%d8%a7%d8%b1%d9%87_%d8%a8%d8%b3) | N/A |
+| 47 | [#اليسا_في_الكويت](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d8%b3%d8%a7_%d9%81%d9%8a_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 48 | [#الحب_ميم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a8_%d9%85%d9%8a%d9%85) | N/A |
+| 49 | [#مبروك_التوثيق_مشاري](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%b1%d9%88%d9%83_%d8%a7%d9%84%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
+| 50 | [#سبايكي](http://twitter.com/search?q=%23%d8%b3%d8%a8%d8%a7%d9%8a%d9%83%d9%8a) | N/A |
 
 
 

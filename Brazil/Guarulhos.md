@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-18 00:28:42 UTC`
+📆 Last Updated: `2023-02-18 01:43:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 2 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 3 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 4 | [Dormiu](http://twitter.com/search?q=Dormiu) | N/A |
-| 5 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 6 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 7 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 8 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 9 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 10 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 11 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 12 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
-| 13 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 14 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
-| 15 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
-| 16 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 17 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
-| 18 | [#FazOLnoCarnaval](http://twitter.com/search?q=%23FazOLnoCarnaval) | N/A |
-| 19 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
-| 20 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 21 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
-| 22 | [CRB x Ceará](http://twitter.com/search?q=CRB+x+Cear%c3%a1) | N/A |
-| 23 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
-| 24 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 25 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 1 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 2 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
+| 3 | [Exército](http://twitter.com/search?q=Ex%c3%a9rcito) | Exército is the Portuguese word for "army". It is used to refer to the armed forces of a country. In English, it can be translated as "army" or "military". |
+| 4 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 5 | [#HOBIDAY](http://twitter.com/search?q=%23HOBIDAY) | N/A |
+| 6 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 7 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 8 | [Arranco](http://twitter.com/search?q=Arranco) | N/A |
+| 9 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 10 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 11 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 12 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 14 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 15 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 16 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 17 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 18 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 19 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
+| 20 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
+| 21 | [Engenho de Dentro](http://twitter.com/search?q=Engenho+de+Dentro) | N/A |
+| 22 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
+| 23 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
+| 24 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 25 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
 | 26 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 27 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 29 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 30 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 31 | [Força Bruno](http://twitter.com/search?q=For%c3%a7a+Bruno) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
-| 34 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 35 | [Tiraram a Paula](http://twitter.com/search?q=Tiraram+a+Paula) | N/A |
-| 36 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 37 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
-| 38 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 39 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 40 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 41 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
-| 42 | [Luba](http://twitter.com/search?q=Luba) | N/A |
-| 43 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
-| 44 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 45 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 46 | [TUTU](http://twitter.com/search?q=TUTU) | N/A |
-| 47 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
-| 48 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 49 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 50 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 27 | [Borel](http://twitter.com/search?q=Borel) | N/A |
+| 28 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 29 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 30 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 31 | [O Itaú](http://twitter.com/search?q=O+Ita%c3%ba) | N/A |
+| 32 | [Guida](http://twitter.com/search?q=Guida) | N/A |
+| 33 | [CRB x Ceará](http://twitter.com/search?q=CRB+x+Cear%c3%a1) | N/A |
+| 34 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 35 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
+| 36 | [Kayky](http://twitter.com/search?q=Kayky) | N/A |
+| 37 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 38 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 39 | [Raul Gustavo](http://twitter.com/search?q=Raul+Gustavo) | N/A |
+| 40 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 41 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
+| 42 | [Chrystian Barletta](http://twitter.com/search?q=Chrystian+Barletta) | N/A |
+| 43 | [Cloroquina](http://twitter.com/search?q=Cloroquina) | N/A |
+| 44 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
+| 45 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 46 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 47 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 48 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 49 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 50 | [General Heleno](http://twitter.com/search?q=General+Heleno) | N/A |
 
 
 

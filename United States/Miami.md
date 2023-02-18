@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-02-18 00:29:18 UTC`
+📆 Last Updated: `2023-02-18 01:44:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 2 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 3 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 4 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 5 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 8 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 9 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 10 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
-| 11 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 12 | [#RufflesCelebGame](http://twitter.com/search?q=%23RufflesCelebGame) | N/A |
-| 13 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 14 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
-| 15 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 16 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
-| 17 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 18 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
-| 19 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 20 | [Stella Stevens](http://twitter.com/search?q=Stella+Stevens) | N/A |
-| 21 | [Diverse](http://twitter.com/search?q=Diverse) | N/A |
-| 22 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
-| 23 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
-| 24 | [Thomas Brown](http://twitter.com/search?q=Thomas+Brown) | N/A |
-| 25 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 26 | [Sam Howell](http://twitter.com/search?q=Sam+Howell) | Sam Howell is a slang term used to describe someone who is overly enthusiastic or excited about something. It can also be used to describe someone who is overly optimistic or positive. |
-| 27 | [Save America](http://twitter.com/search?q=Save+America) | N/A |
-| 28 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 29 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 30 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
-| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 32 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 34 | [Jumba](http://twitter.com/search?q=Jumba) | N/A |
-| 35 | [Calvin Johnson](http://twitter.com/search?q=Calvin+Johnson) | N/A |
-| 36 | [Celebrity Game](http://twitter.com/search?q=Celebrity+Game) | N/A |
-| 37 | [alison brie](http://twitter.com/search?q=alison+brie) | N/A |
-| 38 | [Earl Weaver](http://twitter.com/search?q=Earl+Weaver) | N/A |
-| 39 | [Rush](http://twitter.com/search?q=Rush) | N/A |
-| 40 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
-| 41 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
-| 42 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 43 | [Amani Larry](http://twitter.com/search?q=Amani+Larry) | N/A |
-| 44 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 45 | [The Nutty Professor](http://twitter.com/search?q=The+Nutty+Professor) | N/A |
-| 46 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 47 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 48 | [Bryce Chance](http://twitter.com/search?q=Bryce+Chance) | N/A |
-| 49 | [Assistant HC](http://twitter.com/search?q=Assistant+HC) | N/A |
+| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 2 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 3 | [Daytona](http://twitter.com/search?q=Daytona) | N/A |
+| 4 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 5 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 6 | [Rush](http://twitter.com/search?q=Rush) | N/A |
+| 7 | [#AntManAndTheWasp](http://twitter.com/search?q=%23AntManAndTheWasp) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 10 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 11 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 12 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 13 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 14 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 15 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
+| 16 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 17 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
+| 18 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 19 | [Carlos Boozer](http://twitter.com/search?q=Carlos+Boozer) | N/A |
+| 20 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
+| 21 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 22 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 23 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
+| 24 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
+| 25 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 26 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 27 | [DK Metcalf](http://twitter.com/search?q=DK+Metcalf) | N/A |
+| 28 | [Tina Snow](http://twitter.com/search?q=Tina+Snow) | N/A |
+| 29 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 30 | [Marc Davis](http://twitter.com/search?q=Marc+Davis) | N/A |
+| 31 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 32 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 33 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
+| 34 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 35 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 36 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 37 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 38 | [Kellie Pickler](http://twitter.com/search?q=Kellie+Pickler) | N/A |
+| 39 | [Megatron](http://twitter.com/search?q=Megatron) | N/A |
+| 40 | [Celebrity Game](http://twitter.com/search?q=Celebrity+Game) | N/A |
+| 41 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 42 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
+| 43 | [Deegan](http://twitter.com/search?q=Deegan) | N/A |
+| 44 | [Chris Tucker](http://twitter.com/search?q=Chris+Tucker) | N/A |
+| 45 | [Calvin Johnson](http://twitter.com/search?q=Calvin+Johnson) | N/A |
+| 46 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 47 | [Anders Lee](http://twitter.com/search?q=Anders+Lee) | N/A |
+| 48 | [Eric Bieniemy](http://twitter.com/search?q=Eric+Bieniemy) | N/A |
+| 49 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
 
 
 

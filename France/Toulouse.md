@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-18 00:28:45 UTC`
+📆 Last Updated: `2023-02-18 01:43:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
-| 2 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 1 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 2 | [#AJAOL](http://twitter.com/search?q=%23AJAOL) | N/A |
 | 3 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 4 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 5 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 6 | [Passi](http://twitter.com/search?q=Passi) | N/A |
-| 7 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 8 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 9 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 10 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 11 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 12 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 13 | [Isaak Touré](http://twitter.com/search?q=Isaak+Tour%c3%a9) | N/A |
-| 14 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 15 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
-| 16 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 17 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
-| 18 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 19 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
-| 20 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 21 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 22 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 23 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
-| 24 | [Le 10](http://twitter.com/search?q=Le+10) | N/A |
-| 25 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 26 | [L'OL](http://twitter.com/search?q=L%27OL) | N/A |
-| 27 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 28 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 29 | [Better Call Saul](http://twitter.com/search?q=Better+Call+Saul) | Better Call Saul is an American television series created by Vince Gilligan and Peter Gould. It is a spin-off prequel of Gilligan's prior series Breaking Bad. The show follows the story of small-time lawyer Jimmy McGill (Bob Odenkirk) as he transforms into the criminal defense attorney Saul Goodman. The phrase "Better Call Saul" is a catchphrase used by Goodman in Breaking Bad, and has become a popular meme. In English, it means that if you need legal help, you should call Saul Goodman. |
-| 30 | [Le Qatar](http://twitter.com/search?q=Le+Qatar) | N/A |
-| 31 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 33 | [Scream](http://twitter.com/search?q=Scream) | N/A |
-| 34 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
-| 35 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 36 | [Lucifer](http://twitter.com/search?q=Lucifer) | N/A |
-| 37 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
-| 38 | [Moussa](http://twitter.com/search?q=Moussa) | N/A |
-| 39 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [#FiersDetreInsoumis](http://twitter.com/search?q=%23FiersDetreInsoumis) | N/A |
-| 42 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
-| 43 | [#VisualSuspect](http://twitter.com/search?q=%23VisualSuspect) | N/A |
-| 44 | [#TeamAJA](http://twitter.com/search?q=%23TeamAJA) | N/A |
+| 4 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 5 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 6 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Codéine 19](http://twitter.com/search?q=Cod%c3%a9ine+19) | N/A |
+| 9 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
+| 10 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 11 | [Diomandé](http://twitter.com/search?q=Diomand%c3%a9) | N/A |
+| 12 | [Only U](http://twitter.com/search?q=Only+U) | N/A |
+| 13 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 14 | [Passi](http://twitter.com/search?q=Passi) | N/A |
+| 15 | [Molière](http://twitter.com/search?q=Moli%c3%a8re) | N/A |
+| 16 | [Nocif](http://twitter.com/search?q=Nocif) | N/A |
+| 17 | [Yaël Braun-Pivet](http://twitter.com/search?q=Ya%c3%abl+Braun-Pivet) | N/A |
+| 18 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 19 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 20 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 21 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 22 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 23 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 24 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 25 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 26 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 27 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 28 | [Et le 10](http://twitter.com/search?q=Et+le+10) | N/A |
+| 29 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
+| 30 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 31 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 32 | [HATVP](http://twitter.com/search?q=HATVP) | N/A |
+| 33 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 34 | [Ma Réalité](http://twitter.com/search?q=Ma+R%c3%a9alit%c3%a9) | N/A |
+| 35 | [Isaak Touré](http://twitter.com/search?q=Isaak+Tour%c3%a9) | N/A |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 38 | [Ateyaba](http://twitter.com/search?q=Ateyaba) | N/A |
+| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 40 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 41 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 42 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 43 | [404Billy](http://twitter.com/search?q=404Billy) | N/A |
+| 44 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 45 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-18 00:29:28 UTC`
+📆 Last Updated: `2023-02-18 01:44:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,20 +51,20 @@ This is top 50 for Lebanon
 | 34 | [خميس الذكاري](http://twitter.com/search?q=%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%b1%d9%8a) | N/A |
 | 35 | [المناطق اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 36 | [مارسيل غانم](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 37 | [الفوضي الشامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 38 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 39 | [موسى الكاظم](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
-| 40 | [العمليات النفسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
-| 41 | [بول الجردي](http://twitter.com/search?q=%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d8%ac%d8%b1%d8%af%d9%8a) | N/A |
-| 42 | [جورج ابو شعيا](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a7%d8%a8%d9%88+%d8%b4%d8%b9%d9%8a%d8%a7) | N/A |
-| 43 | [الكيان الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
-| 44 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 45 | [سيد حسن](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%ad%d8%b3%d9%86) | N/A |
-| 46 | [الايام المقبله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84%d9%87) | N/A |
-| 47 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 48 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
-| 49 | [المواد الغذاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 50 | [الامام الكاظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 37 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 38 | [موسى الكاظم](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 39 | [العمليات النفسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
+| 40 | [بول الجردي](http://twitter.com/search?q=%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d8%ac%d8%b1%d8%af%d9%8a) | N/A |
+| 41 | [جورج ابو شعيا](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a7%d8%a8%d9%88+%d8%b4%d8%b9%d9%8a%d8%a7) | N/A |
+| 42 | [الكيان الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
+| 43 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 44 | [سيد حسن](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%ad%d8%b3%d9%86) | N/A |
+| 45 | [الايام المقبله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84%d9%87) | N/A |
+| 46 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 47 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
+| 48 | [المواد الغذاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 49 | [الامام الكاظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 50 | [خطاب السيد](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
 
 
 

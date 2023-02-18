@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-18 00:28:43 UTC`
+📆 Last Updated: `2023-02-18 01:43:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 5 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 6 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 6 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
 | 7 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
-| 8 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 9 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 8 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 9 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
 | 10 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 11 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 12 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
-| 13 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 14 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
-| 15 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
-| 16 | [Ruch](http://twitter.com/search?q=Ruch) | N/A |
-| 17 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 18 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 19 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
-| 20 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 11 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 12 | [przeglądu sportowego](http://twitter.com/search?q=przegl%c4%85du+sportowego) | N/A |
+| 13 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 14 | [Szczątki](http://twitter.com/search?q=Szcz%c4%85tki) | N/A |
+| 15 | [Spurek](http://twitter.com/search?q=Spurek) | N/A |
+| 16 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
+| 17 | [Jaś Fasola](http://twitter.com/search?q=Ja%c5%9b+Fasola) | N/A |
+| 18 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 19 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 20 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
 | 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Pączek](http://twitter.com/search?q=P%c4%85czek) | N/A |
-| 23 | [wawrzynowski](http://twitter.com/search?q=wawrzynowski) | N/A |
-| 24 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 25 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
-| 26 | [Pączki](http://twitter.com/search?q=P%c4%85czki) | N/A |
-| 27 | [Koty](http://twitter.com/search?q=Koty) | N/A |
-| 28 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 29 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 30 | [anwilu](http://twitter.com/search?q=anwilu) | N/A |
-| 31 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 35 | [Marvela](http://twitter.com/search?q=Marvela) | N/A |
-| 36 | [nialla](http://twitter.com/search?q=nialla) | N/A |
-| 37 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 38 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
-| 39 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 40 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 41 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 42 | [Banki](http://twitter.com/search?q=Banki) | N/A |
-| 43 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 44 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
-| 45 | [Pomarańczowy](http://twitter.com/search?q=Pomara%c5%84czowy) | N/A |
-| 46 | [Pegulą](http://twitter.com/search?q=Pegul%c4%85) | N/A |
-| 47 | [Wojewódzkiego](http://twitter.com/search?q=Wojew%c3%b3dzkiego) | N/A |
-| 48 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
-| 49 | [gessler](http://twitter.com/search?q=gessler) | N/A |
+| 22 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
+| 23 | [pączki](http://twitter.com/search?q=p%c4%85czki) | N/A |
+| 24 | [Koty](http://twitter.com/search?q=Koty) | N/A |
+| 25 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 26 | [anwilu](http://twitter.com/search?q=anwilu) | N/A |
+| 27 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
+| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 29 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 30 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 31 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 32 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 33 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
+| 34 | [Bumar](http://twitter.com/search?q=Bumar) | N/A |
+| 35 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 36 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 37 | [banki](http://twitter.com/search?q=banki) | N/A |
+| 38 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 39 | [Niall Horan](http://twitter.com/search?q=Niall+Horan) | N/A |
+| 40 | [Pomarańczowy](http://twitter.com/search?q=Pomara%c5%84czowy) | N/A |
+| 41 | [pegulą](http://twitter.com/search?q=pegul%c4%85) | N/A |
+| 42 | [wojewódzkiego](http://twitter.com/search?q=wojew%c3%b3dzkiego) | N/A |
+| 43 | [Wawrzynowski](http://twitter.com/search?q=Wawrzynowski) | N/A |
+| 44 | [Znajdą](http://twitter.com/search?q=Znajd%c4%85) | N/A |
+| 45 | [gessler](http://twitter.com/search?q=gessler) | N/A |
+| 46 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 47 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 48 | [Kakabadze](http://twitter.com/search?q=Kakabadze) | N/A |
+| 49 | [Kłeczek](http://twitter.com/search?q=K%c5%82eczek) | N/A |
 
 
 

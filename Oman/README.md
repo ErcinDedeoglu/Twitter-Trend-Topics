@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-18 00:29:28 UTC`
+📆 Last Updated: `2023-02-18 01:44:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,13 +30,13 @@ This is top 50 for Oman
 | 13 | [هاني](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a) | هاني is an Arabic name meaning "graceful" or "gracious". |
 | 14 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
 | 15 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 16 | [الشيخ الخليلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 17 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 18 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 19 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 20 | [شهر رجب](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d8%ac%d8%a8) | N/A |
-| 21 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 22 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 16 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 17 | [الشيخ الخليلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 18 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 19 | [شهر رجب](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d8%ac%d8%a8) | N/A |
+| 20 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 21 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 22 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
 | 23 | [المحكمه العليا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
 | 24 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 25 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
@@ -45,26 +45,26 @@ This is top 50 for Oman
 | 28 | [السميع البصير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%a8%d8%b5%d9%8a%d8%b1) | N/A |
 | 29 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 30 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 31 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
-| 32 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 33 | [جامع السلطان](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 34 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 35 | [الهيدروجين النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
-| 36 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 37 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 38 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 39 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 40 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 41 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 42 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
-| 43 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 44 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 45 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 46 | [رواد الاعمال](http://twitter.com/search?q=%d8%b1%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 47 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 48 | [الفرق الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 50 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 31 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 32 | [جامع السلطان](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 33 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 34 | [الهيدروجين النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
+| 35 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 36 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 37 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 38 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 39 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 40 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
+| 41 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 42 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 43 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 44 | [رواد الاعمال](http://twitter.com/search?q=%d8%b1%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 45 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 46 | [الفرق الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
+| 47 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 48 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 49 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
+| 50 | [كرستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كرستيانو is a Spanish name derived from the Latin name "Christiānus," meaning "Christian." In English, it is typically translated as "Christopher." |
 
 
 

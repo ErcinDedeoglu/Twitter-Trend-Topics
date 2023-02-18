@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-18 00:28:29 UTC`
+📆 Last Updated: `2023-02-18 01:43:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
-| 2 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 3 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 4 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 5 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 11 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 12 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 15 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 16 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 17 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 18 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 4 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 5 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 6 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 7 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 8 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 9 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 10 | [Tim Peel](http://twitter.com/search?q=Tim+Peel) | N/A |
+| 11 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 12 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 13 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 14 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 16 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 17 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 18 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 19 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
 | 20 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 21 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 22 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 23 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 24 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 25 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 26 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 29 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 21 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 22 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 23 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 24 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 25 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 26 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
+| 27 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 28 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 29 | [Commission](http://twitter.com/search?q=Commission) | N/A |
 | 30 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 31 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 32 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 33 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 34 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 31 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 32 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
+| 33 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 34 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
 | 35 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 36 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 37 | [#FreeDumbConvoy](http://twitter.com/search?q=%23FreeDumbConvoy) | N/A |
-| 38 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
-| 39 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 40 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
-| 41 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
-| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 43 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 44 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
-| 45 | [#FordfailedOntario](http://twitter.com/search?q=%23FordfailedOntario) | N/A |
-| 46 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 36 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
+| 37 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
+| 38 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 39 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 40 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 41 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 42 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 43 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
+| 44 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 45 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 46 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 
 
 

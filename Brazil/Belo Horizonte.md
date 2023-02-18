@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-18 00:28:40 UTC`
+📆 Last Updated: `2023-02-18 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 2 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
-| 3 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 4 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 5 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 6 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 7 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 8 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 9 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
-| 10 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 11 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
-| 12 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
-| 13 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 14 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
-| 15 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 16 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
-| 17 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
-| 18 | [CRB x Ceará](http://twitter.com/search?q=CRB+x+Cear%c3%a1) | N/A |
-| 19 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
-| 20 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 21 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 22 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 23 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 26 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 27 | [Força Bruno](http://twitter.com/search?q=For%c3%a7a+Bruno) | N/A |
-| 28 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
-| 29 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 30 | [Tiraram a Paula](http://twitter.com/search?q=Tiraram+a+Paula) | N/A |
-| 31 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 32 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 33 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
-| 34 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 35 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 36 | [Luba](http://twitter.com/search?q=Luba) | N/A |
-| 37 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
-| 38 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
-| 39 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 40 | [Bom Carnaval](http://twitter.com/search?q=Bom+Carnaval) | N/A |
-| 41 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 42 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 43 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
-| 44 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 1 | [Ipatinga](http://twitter.com/search?q=Ipatinga) | N/A |
+| 2 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 3 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 4 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 5 | [Arranco](http://twitter.com/search?q=Arranco) | N/A |
+| 6 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 7 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 8 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 9 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 12 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 13 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 14 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 15 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 16 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 17 | [Geovane](http://twitter.com/search?q=Geovane) | N/A |
+| 18 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
+| 19 | [Engenho de Dentro](http://twitter.com/search?q=Engenho+de+Dentro) | N/A |
+| 20 | [Ministro da CGU](http://twitter.com/search?q=Ministro+da+CGU) | N/A |
+| 21 | [Nivera](http://twitter.com/search?q=Nivera) | N/A |
+| 22 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 23 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 24 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 25 | [Borel](http://twitter.com/search?q=Borel) | N/A |
+| 26 | [O Itaú](http://twitter.com/search?q=O+Ita%c3%ba) | N/A |
+| 27 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 28 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 29 | [Nubank](http://twitter.com/search?q=Nubank) | N/A |
+| 30 | [Guida](http://twitter.com/search?q=Guida) | N/A |
+| 31 | [CRB x Ceará](http://twitter.com/search?q=CRB+x+Cear%c3%a1) | N/A |
+| 32 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 33 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
+| 34 | [Kayky](http://twitter.com/search?q=Kayky) | N/A |
+| 35 | [CDA SEASON 4](http://twitter.com/search?q=CDA+SEASON+4) | N/A |
+| 36 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 37 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 38 | [Raul Gustavo](http://twitter.com/search?q=Raul+Gustavo) | N/A |
+| 39 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 40 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 41 | [Chrystian Barletta](http://twitter.com/search?q=Chrystian+Barletta) | N/A |
+| 42 | [Cloroquina](http://twitter.com/search?q=Cloroquina) | N/A |
+| 43 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 44 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
 | 45 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 46 | [RAFAK NORVINA COLLECTION](http://twitter.com/search?q=RAFAK+NORVINA+COLLECTION) | N/A |
-| 47 | [TUTU](http://twitter.com/search?q=TUTU) | N/A |
-| 48 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 49 | [ELA NÃO VEM MAIS](http://twitter.com/search?q=ELA+N%c3%83O+VEM+MAIS) | N/A |
-| 50 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 46 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 47 | [General Heleno](http://twitter.com/search?q=General+Heleno) | N/A |
+| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 49 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 50 | [Carina](http://twitter.com/search?q=Carina) | N/A |
 
 
 

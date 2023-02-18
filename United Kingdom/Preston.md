@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-18 00:28:33 UTC`
+📆 Last Updated: `2023-02-18 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TALKSWITHASH](http://twitter.com/search?q=%23TALKSWITHASH) | N/A |
-| 2 | [#TheFilmCrowd](http://twitter.com/search?q=%23TheFilmCrowd) | N/A |
-| 3 | [#voteamycomedy](http://twitter.com/search?q=%23voteamycomedy) | N/A |
-| 4 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 5 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 6 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 7 | [#TRUSTFALL](http://twitter.com/search?q=%23TRUSTFALL) | N/A |
-| 8 | [I TEACH KINDNESS](http://twitter.com/search?q=I+TEACH+KINDNESS) | N/A |
-| 9 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 10 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 11 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 12 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 15 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 17 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 18 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 19 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 20 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 21 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 22 | [Ince](http://twitter.com/search?q=Ince) | N/A |
-| 23 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
-| 24 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
-| 25 | [Rhod Gilbert](http://twitter.com/search?q=Rhod+Gilbert) | N/A |
-| 26 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 27 | [Judi Dench](http://twitter.com/search?q=Judi+Dench) | N/A |
-| 28 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 29 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 32 | [Sawyers](http://twitter.com/search?q=Sawyers) | N/A |
-| 33 | [Jarlath](http://twitter.com/search?q=Jarlath) | N/A |
-| 34 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
+| 2 | [#TRUSTFALL](http://twitter.com/search?q=%23TRUSTFALL) | N/A |
+| 3 | [I TEACH KINDNESS](http://twitter.com/search?q=I+TEACH+KINDNESS) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 6 | [#nationalcomedyawards](http://twitter.com/search?q=%23nationalcomedyawards) | N/A |
+| 7 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 8 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 9 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 10 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 11 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
+| 12 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
+| 16 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 17 | [Ince](http://twitter.com/search?q=Ince) | N/A |
+| 18 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 19 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 20 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 21 | [Rhod Gilbert](http://twitter.com/search?q=Rhod+Gilbert) | N/A |
+| 22 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 23 | [Judi Dench](http://twitter.com/search?q=Judi+Dench) | N/A |
+| 24 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 25 | [Joe Lycett](http://twitter.com/search?q=Joe+Lycett) | N/A |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Sawyers](http://twitter.com/search?q=Sawyers) | N/A |
+| 28 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 29 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Jarlath](http://twitter.com/search?q=Jarlath) | N/A |
+| 32 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 33 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
+| 34 | [Salford](http://twitter.com/search?q=Salford) | N/A |
 | 35 | [Hugh Jackman](http://twitter.com/search?q=Hugh+Jackman) | N/A |
 | 36 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 37 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 38 | [Phase 5](http://twitter.com/search?q=Phase+5) | N/A |
-| 39 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 40 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 41 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 42 | [Ricky Gervais](http://twitter.com/search?q=Ricky+Gervais) | N/A |
-| 43 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 44 | [Yorkie](http://twitter.com/search?q=Yorkie) | N/A |
-| 45 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 46 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 47 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 48 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 49 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 37 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 38 | [Yorkie](http://twitter.com/search?q=Yorkie) | N/A |
+| 39 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 40 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 41 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 42 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 43 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 44 | [Jaws](http://twitter.com/search?q=Jaws) | N/A |
+| 45 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 46 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 47 | [Quins](http://twitter.com/search?q=Quins) | N/A |
+| 48 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
+| 49 | [Ospreys](http://twitter.com/search?q=Ospreys) | Ospreys are large birds of prey that are found on every continent except Antarctica. They have a distinctive black and white plumage, long wings, and a hooked beak. Ospreys feed mainly on fish, which they catch by swooping down from the air and grabbing them with their talons. The name "osprey" comes from the Latin words for "bird of prey". |
 
 
 

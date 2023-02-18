@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-18 00:29:00 UTC`
+📆 Last Updated: `2023-02-18 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [WALANG ARAY SA TEATRO](http://twitter.com/search?q=WALANG+ARAY+SA+TEATRO) | N/A |
 | 8 | [ALDENx2023 StaRosaSikhayan](http://twitter.com/search?q=ALDENx2023+StaRosaSikhayan) | N/A |
 | 9 | [BGYO AT SUNLIFE CONCERT](http://twitter.com/search?q=BGYO+AT+SUNLIFE+CONCERT) | N/A |
-| 10 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 11 | [tracklist for readytobe](http://twitter.com/search?q=tracklist+for+readytobe) | N/A |
+| 10 | [Win x HK](http://twitter.com/search?q=Win+x+HK) | N/A |
+| 11 | [TRACKLIST FOR READYTOBE](http://twitter.com/search?q=TRACKLIST+FOR+READYTOBE) | N/A |
 | 12 | [hansol](http://twitter.com/search?q=hansol) | N/A |
 | 13 | [8 IS FATE](http://twitter.com/search?q=8+IS+FATE) | N/A |
-| 14 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 15 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 16 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
-| 17 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 18 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 19 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
-| 20 | [global visual kim day](http://twitter.com/search?q=global+visual+kim+day) | N/A |
-| 21 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
-| 22 | [filay damagecontrol](http://twitter.com/search?q=filay+damagecontrol) | N/A |
-| 23 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 24 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 25 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
-| 26 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
-| 27 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 29 | [Nonie](http://twitter.com/search?q=Nonie) | N/A |
-| 30 | [Raica](http://twitter.com/search?q=Raica) | N/A |
-| 31 | [piehinga with prince](http://twitter.com/search?q=piehinga+with+prince) | N/A |
+| 14 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 15 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 16 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 17 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 18 | [global visual kim day](http://twitter.com/search?q=global+visual+kim+day) | N/A |
+| 19 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 20 | [filay damagecontrol](http://twitter.com/search?q=filay+damagecontrol) | N/A |
+| 21 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 22 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 23 | [Darkness](http://twitter.com/search?q=Darkness) | N/A |
+| 24 | [JC Hints](http://twitter.com/search?q=JC+Hints) | N/A |
+| 25 | [Aquarius Athemis](http://twitter.com/search?q=Aquarius+Athemis) | N/A |
+| 26 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 27 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 28 | [HAPPY BIRTHDAY ATE MAC](http://twitter.com/search?q=HAPPY+BIRTHDAY+ATE+MAC) | N/A |
+| 29 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 30 | [Nonie](http://twitter.com/search?q=Nonie) | N/A |
+| 31 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
 | 32 | [happy furday naya](http://twitter.com/search?q=happy+furday+naya) | N/A |
 | 33 | [UP Fair](http://twitter.com/search?q=UP+Fair) | N/A |
-| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 35 | [deekay](http://twitter.com/search?q=deekay) | N/A |
+| 34 | [Deekay](http://twitter.com/search?q=Deekay) | N/A |
+| 35 | [Baguio City](http://twitter.com/search?q=Baguio+City) | N/A |
 | 36 | [JC Silently Listens](http://twitter.com/search?q=JC+Silently+Listens) | N/A |
-| 37 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
-| 38 | [Hoba](http://twitter.com/search?q=Hoba) | N/A |
-| 39 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
-| 40 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 41 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
-| 42 | [Bonon](http://twitter.com/search?q=Bonon) | N/A |
-| 43 | [dokyeom](http://twitter.com/search?q=dokyeom) | N/A |
-| 44 | [BUNSO](http://twitter.com/search?q=BUNSO) | N/A |
-| 45 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
-| 46 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
-| 47 | [218 BROS](http://twitter.com/search?q=218+BROS) | N/A |
-| 48 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 49 | [Donee](http://twitter.com/search?q=Donee) | N/A |
+| 37 | [Happy 218](http://twitter.com/search?q=Happy+218) | N/A |
+| 38 | [jay chang](http://twitter.com/search?q=jay+chang) | N/A |
+| 39 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 40 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
+| 41 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 42 | [Hoba](http://twitter.com/search?q=Hoba) | N/A |
+| 43 | [Bonon](http://twitter.com/search?q=Bonon) | N/A |
+| 44 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 45 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 46 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 47 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
+| 48 | [Joji](http://twitter.com/search?q=Joji) | N/A |
+| 49 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 
 
 

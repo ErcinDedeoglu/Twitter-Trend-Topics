@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-18 00:28:34 UTC`
+📆 Last Updated: `2023-02-18 01:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
-| 2 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 4 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 5 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 6 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 7 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 8 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 10 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 11 | [#enhorabuenatatuaje](http://twitter.com/search?q=%23enhorabuenatatuaje) | N/A |
-| 12 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 13 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 15 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 1 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 2 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 3 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
+| 4 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 5 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 6 | [NOUIS](http://twitter.com/search?q=NOUIS) | N/A |
+| 7 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
+| 8 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
+| 9 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
+| 10 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 11 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 12 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 13 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 14 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 15 | [#enhorabuenatatuaje](http://twitter.com/search?q=%23enhorabuenatatuaje) | N/A |
 | 16 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 17 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 18 | [Ormeño](http://twitter.com/search?q=Orme%c3%b1o) | N/A |
-| 19 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 20 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 21 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 22 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 23 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 24 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 25 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 26 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 27 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 28 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 29 | [Alejandro del Valle](http://twitter.com/search?q=Alejandro+del+Valle) | N/A |
-| 30 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 32 | [Sabías](http://twitter.com/search?q=Sab%c3%adas) | N/A |
-| 33 | [Ecatepec](http://twitter.com/search?q=Ecatepec) | N/A |
-| 34 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
-| 35 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 36 | [Guillermo González Camarena](http://twitter.com/search?q=Guillermo+Gonz%c3%a1lez+Camarena) | N/A |
-| 37 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 38 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 39 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 40 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
-| 41 | [LUCERO CONTIGO](http://twitter.com/search?q=LUCERO+CONTIGO) | N/A |
-| 42 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 43 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
-| 44 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 46 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
-| 47 | [#FuerzaJJ](http://twitter.com/search?q=%23FuerzaJJ) | N/A |
-| 48 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
-| 49 | [#integracionlouie](http://twitter.com/search?q=%23integracionlouie) | N/A |
-| 50 | [#SheIsBeautyWeAreWorldClass](http://twitter.com/search?q=%23SheIsBeautyWeAreWorldClass) | N/A |
+| 17 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 18 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 19 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 20 | [Ormeño](http://twitter.com/search?q=Orme%c3%b1o) | N/A |
+| 21 | [Cota](http://twitter.com/search?q=Cota) | N/A |
+| 22 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 25 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 26 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 27 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 28 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 29 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 30 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 31 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 32 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
+| 33 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
+| 34 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
+| 35 | [Sabías](http://twitter.com/search?q=Sab%c3%adas) | N/A |
+| 36 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 37 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 38 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
+| 39 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 40 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 41 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 42 | [#FuerzaJJ](http://twitter.com/search?q=%23FuerzaJJ) | N/A |
+| 43 | [#SheIsBeautyWeAreWorldClass](http://twitter.com/search?q=%23SheIsBeautyWeAreWorldClass) | N/A |
+| 44 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 45 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 46 | [#findesemana](http://twitter.com/search?q=%23findesemana) | N/A |
+| 47 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 48 | [#HappyHobiDay](http://twitter.com/search?q=%23HappyHobiDay) | N/A |
+| 49 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 50 | [#Tesla](http://twitter.com/search?q=%23Tesla) | N/A |
 
 
 

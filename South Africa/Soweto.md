@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-02-18 00:29:04 UTC`
+📆 Last Updated: `2023-02-18 01:44:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [South Africa](</South Africa>)
 | 11 | [Oskido](http://twitter.com/search?q=Oskido) | N/A |
 | 12 | [Anatii](http://twitter.com/search?q=Anatii) | N/A |
 | 13 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 14 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 15 | [Joyous Celebration](http://twitter.com/search?q=Joyous+Celebration) | N/A |
-| 16 | [Moozlie](http://twitter.com/search?q=Moozlie) | N/A |
-| 17 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 21 | [Nomuzi](http://twitter.com/search?q=Nomuzi) | N/A |
-| 22 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 23 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
-| 24 | [KHOSI THE GENEROUS LOVER](http://twitter.com/search?q=KHOSI+THE+GENEROUS+LOVER) | N/A |
-| 25 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
-| 26 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
-| 27 | [THABANG THE LEADER](http://twitter.com/search?q=THABANG+THE+LEADER) | N/A |
-| 28 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 29 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 30 | [Kabelo](http://twitter.com/search?q=Kabelo) | N/A |
-| 31 | [Glammy](http://twitter.com/search?q=Glammy) | N/A |
-| 32 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 33 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 34 | [sabc 1](http://twitter.com/search?q=sabc+1) | N/A |
-| 35 | [St John](http://twitter.com/search?q=St+John) | N/A |
-| 36 | [Sandton Convention Centre](http://twitter.com/search?q=Sandton+Convention+Centre) | N/A |
-| 37 | [hpcsa](http://twitter.com/search?q=hpcsa) | N/A |
-| 38 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 39 | [City Press](http://twitter.com/search?q=City+Press) | N/A |
-| 40 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 41 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 42 | [Composure](http://twitter.com/search?q=Composure) | N/A |
-| 43 | [Langa Mavuso](http://twitter.com/search?q=Langa+Mavuso) | N/A |
-| 44 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
-| 45 | [Entity](http://twitter.com/search?q=Entity) | N/A |
-| 46 | [temba bavuma](http://twitter.com/search?q=temba+bavuma) | N/A |
-| 47 | [holy mountain](http://twitter.com/search?q=holy+mountain) | N/A |
-| 48 | [Khuli Chana](http://twitter.com/search?q=Khuli+Chana) | N/A |
-| 49 | [Congratulations Nana](http://twitter.com/search?q=Congratulations+Nana) | N/A |
+| 14 | [joyous celebration](http://twitter.com/search?q=joyous+celebration) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 17 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 18 | [Moozlie](http://twitter.com/search?q=Moozlie) | N/A |
+| 19 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 20 | [nomuzi](http://twitter.com/search?q=nomuzi) | N/A |
+| 21 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
+| 22 | [KHOSI THE GENEROUS LOVER](http://twitter.com/search?q=KHOSI+THE+GENEROUS+LOVER) | N/A |
+| 23 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
+| 24 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
+| 25 | [THABANG THE LEADER](http://twitter.com/search?q=THABANG+THE+LEADER) | N/A |
+| 26 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 27 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 29 | [Kabelo](http://twitter.com/search?q=Kabelo) | N/A |
+| 30 | [Glammy](http://twitter.com/search?q=Glammy) | N/A |
+| 31 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 32 | [sabc 1](http://twitter.com/search?q=sabc+1) | N/A |
+| 33 | [St John](http://twitter.com/search?q=St+John) | N/A |
+| 34 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 35 | [sandton convention centre](http://twitter.com/search?q=sandton+convention+centre) | N/A |
+| 36 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 37 | [city press](http://twitter.com/search?q=city+press) | N/A |
+| 38 | [modiba](http://twitter.com/search?q=modiba) | N/A |
+| 39 | [Composure](http://twitter.com/search?q=Composure) | N/A |
+| 40 | [langa mavuso](http://twitter.com/search?q=langa+mavuso) | N/A |
+| 41 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 42 | [Entity](http://twitter.com/search?q=Entity) | N/A |
+| 43 | [temba bavuma](http://twitter.com/search?q=temba+bavuma) | N/A |
+| 44 | [holy mountain](http://twitter.com/search?q=holy+mountain) | N/A |
+| 45 | [Congratulations Nana](http://twitter.com/search?q=Congratulations+Nana) | N/A |
+| 46 | [rip dj sumbody](http://twitter.com/search?q=rip+dj+sumbody) | N/A |
+| 47 | [Shadaya](http://twitter.com/search?q=Shadaya) | N/A |
+| 48 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
+| 49 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 
 
 

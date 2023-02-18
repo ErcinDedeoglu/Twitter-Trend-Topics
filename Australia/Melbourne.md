@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-02-18 00:28:53 UTC`
+📆 Last Updated: `2023-02-18 01:44:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
-| 3 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 5 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
-| 6 | [#nrlroostersmanly](http://twitter.com/search?q=%23nrlroostersmanly) | N/A |
-| 7 | [#wunvwel](http://twitter.com/search?q=%23wunvwel) | N/A |
-| 8 | [On Dutton](http://twitter.com/search?q=On+Dutton) | N/A |
-| 9 | [Agar](http://twitter.com/search?q=Agar) | N/A |
-| 10 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [Brittany Higgins](http://twitter.com/search?q=Brittany+Higgins) | N/A |
+| 5 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 6 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 7 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
+| 8 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 9 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 10 | [Flemington](http://twitter.com/search?q=Flemington) | N/A |
 | 11 | [#nrlknightseels](http://twitter.com/search?q=%23nrlknightseels) | N/A |
-| 12 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 13 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
-| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 15 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 16 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
-| 17 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 12 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
+| 13 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 14 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
+| 15 | [On Dutton](http://twitter.com/search?q=On+Dutton) | N/A |
+| 16 | [#melbourneweather](http://twitter.com/search?q=%23melbourneweather) | N/A |
+| 17 | [Transurban](http://twitter.com/search?q=Transurban) | N/A |
 | 18 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 19 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 19 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
 | 20 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 21 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 22 | [Flemington](http://twitter.com/search?q=Flemington) | N/A |
-| 23 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 24 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 25 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 26 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
-| 27 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 28 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
-| 29 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
-| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 31 | [todd murphy](http://twitter.com/search?q=todd+murphy) | N/A |
-| 32 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 33 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 34 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 35 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 36 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
-| 37 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 38 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 39 | [james sicily](http://twitter.com/search?q=james+sicily) | N/A |
-| 40 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 41 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 42 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 43 | [chase buford](http://twitter.com/search?q=chase+buford) | N/A |
-| 44 | [Tudehope](http://twitter.com/search?q=Tudehope) | N/A |
-| 45 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 46 | [Soares](http://twitter.com/search?q=Soares) | N/A |
-| 47 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
-| 48 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 21 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 22 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 23 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 24 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 25 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 26 | [Deane Lester](http://twitter.com/search?q=Deane+Lester) | N/A |
+| 27 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
+| 28 | [Shower](http://twitter.com/search?q=Shower) | N/A |
+| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 30 | [todd murphy](http://twitter.com/search?q=todd+murphy) | N/A |
+| 31 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 32 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 33 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 34 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 35 | [Kitching](http://twitter.com/search?q=Kitching) | N/A |
+| 36 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 37 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 38 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
+| 39 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
+| 40 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 42 | [james sicily](http://twitter.com/search?q=james+sicily) | N/A |
+| 43 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 44 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 45 | [Chase Buford](http://twitter.com/search?q=Chase+Buford) | N/A |
+| 46 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 47 | [Soares](http://twitter.com/search?q=Soares) | N/A |
+| 48 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
 | 49 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 50 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 50 | [Tudehope](http://twitter.com/search?q=Tudehope) | N/A |
 
 
 

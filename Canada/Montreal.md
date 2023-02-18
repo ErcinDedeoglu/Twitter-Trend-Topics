@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-18 00:28:29 UTC`
+📆 Last Updated: `2023-02-18 01:43:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Quebecor](http://twitter.com/search?q=Quebecor) | N/A |
-| 2 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 3 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 4 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 5 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 10 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 11 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 12 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 13 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 14 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 15 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 16 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
-| 17 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 4 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 5 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 6 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 7 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 9 | [Tim Peel](http://twitter.com/search?q=Tim+Peel) | N/A |
+| 10 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 11 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 12 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
+| 13 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 14 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 15 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 16 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 17 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 18 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 19 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 20 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 21 | [Judge](http://twitter.com/search?q=Judge) | N/A |
 | 22 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 23 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 24 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 25 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 26 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 27 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 30 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
-| 31 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
-| 32 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 33 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 34 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 35 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 36 | [#FreeDumbConvoy](http://twitter.com/search?q=%23FreeDumbConvoy) | N/A |
-| 37 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
-| 38 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 39 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
-| 40 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
-| 41 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 42 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 43 | [#SixInvitational](http://twitter.com/search?q=%23SixInvitational) | N/A |
-| 44 | [#FordfailedOntario](http://twitter.com/search?q=%23FordfailedOntario) | N/A |
-| 45 | [#RandomActsofKindnessDay](http://twitter.com/search?q=%23RandomActsofKindnessDay) | N/A |
+| 23 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 24 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 25 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 26 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
+| 27 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 28 | [The EA](http://twitter.com/search?q=The+EA) | N/A |
+| 29 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 30 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
+| 31 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 32 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 33 | [#POEC](http://twitter.com/search?q=%23POEC) | N/A |
+| 34 | [#TrudeauCorruption](http://twitter.com/search?q=%23TrudeauCorruption) | N/A |
+| 35 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 36 | [#TrudeauWasRight](http://twitter.com/search?q=%23TrudeauWasRight) | N/A |
+| 37 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
+| 38 | [#TrudeauResign](http://twitter.com/search?q=%23TrudeauResign) | N/A |
+| 39 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 40 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 41 | [#CanadaIsBroken](http://twitter.com/search?q=%23CanadaIsBroken) | N/A |
+| 42 | [#Freedumbers](http://twitter.com/search?q=%23Freedumbers) | N/A |
+| 43 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 44 | [#Quantumania](http://twitter.com/search?q=%23Quantumania) | N/A |
+| 45 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 
 
 
