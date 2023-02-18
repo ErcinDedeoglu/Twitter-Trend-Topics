@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-18 18:16:37 UTC`
+📆 Last Updated: `2023-02-18 19:26:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
 | 2 | [#SGESVW](http://twitter.com/search?q=%23SGESVW) | N/A |
 | 3 | [#VFBKOE](http://twitter.com/search?q=%23VFBKOE) | N/A |
-| 4 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 6 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 4 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
+| 5 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 7 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 9 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 10 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 11 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 12 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 10 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 11 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 12 | [Welz](http://twitter.com/search?q=Welz) | N/A |
 | 13 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 14 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 15 | [Unterzahl](http://twitter.com/search?q=Unterzahl) | N/A |
-| 16 | [Plea](http://twitter.com/search?q=Plea) | N/A |
-| 17 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 18 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 19 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 20 | [Notbremse](http://twitter.com/search?q=Notbremse) | N/A |
-| 21 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
-| 22 | [Blind](http://twitter.com/search?q=Blind) | N/A |
-| 23 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Berührung](http://twitter.com/search?q=Ber%c3%bchrung) | N/A |
-| 26 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 27 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
-| 28 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
-| 29 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 30 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 31 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 32 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 33 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 34 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 35 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 36 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 37 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 38 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 39 | [Konferenz](http://twitter.com/search?q=Konferenz) | N/A |
-| 40 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
-| 41 | [#BOCSCF](http://twitter.com/search?q=%23BOCSCF) | N/A |
-| 42 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
-| 43 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 44 | [#WOBRBL](http://twitter.com/search?q=%23WOBRBL) | N/A |
-| 45 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 46 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
-| 47 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
-| 48 | [#muc1802](http://twitter.com/search?q=%23muc1802) | N/A |
+| 14 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [Unterzahl](http://twitter.com/search?q=Unterzahl) | N/A |
+| 17 | [Plea](http://twitter.com/search?q=Plea) | N/A |
+| 18 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
+| 19 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 20 | [Berührung](http://twitter.com/search?q=Ber%c3%bchrung) | N/A |
+| 21 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 22 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
+| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 26 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 27 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 28 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 29 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 30 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 31 | [#BOCSCF](http://twitter.com/search?q=%23BOCSCF) | N/A |
+| 32 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
+| 33 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 34 | [#WOBRBL](http://twitter.com/search?q=%23WOBRBL) | N/A |
+| 35 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 36 | [#CHESOU](http://twitter.com/search?q=%23CHESOU) | N/A |
+| 37 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 38 | [#muc1802](http://twitter.com/search?q=%23muc1802) | N/A |
+| 39 | [#Upamecano](http://twitter.com/search?q=%23Upamecano) | N/A |
+| 40 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
+| 41 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
+| 42 | [#Sondertrikot](http://twitter.com/search?q=%23Sondertrikot) | N/A |
+| 43 | [#fcmfcsp](http://twitter.com/search?q=%23fcmfcsp) | N/A |
+| 44 | [#Borussia](http://twitter.com/search?q=%23Borussia) | N/A |
+| 45 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
+| 46 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
+| 47 | [#München](http://twitter.com/search?q=%23M%c3%bcnchen) | N/A |
+| 48 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 49 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
 
 
 

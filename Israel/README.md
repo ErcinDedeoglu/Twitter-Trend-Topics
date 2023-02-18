@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-18 18:17:12 UTC`
+📆 Last Updated: `2023-02-18 19:27:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Israel
 | 2 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
 | 3 | [מנור סולומון](http://twitter.com/search?q=%d7%9e%d7%a0%d7%95%d7%a8+%d7%a1%d7%95%d7%9c%d7%95%d7%9e%d7%95%d7%9f) | N/A |
 | 4 | [שער ניצחון](http://twitter.com/search?q=%d7%a9%d7%a2%d7%a8+%d7%a0%d7%99%d7%a6%d7%97%d7%95%d7%9f) | N/A |
-| 5 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 6 | [יום כיפור](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%9b%d7%99%d7%a4%d7%95%d7%a8) | N/A |
+| 5 | [יום כיפור](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%9b%d7%99%d7%a4%d7%95%d7%a8) | N/A |
+| 6 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
 | 7 | [African Union](http://twitter.com/search?q=African+Union) | N/A |
 | 8 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
 | 9 | [יום יפה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%99%d7%a4%d7%94) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Israel
 | 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 17 | [סקר שקר](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%a7%d7%a8) | N/A |
 | 18 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
-| 19 | [שרון גל](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%9f+%d7%92%d7%9c) | N/A |
-| 20 | [בית לחם](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%9c%d7%97%d7%9d) | N/A |
-| 21 | [מכבי נתניה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%a0%d7%aa%d7%a0%d7%99%d7%94) | N/A |
-| 22 | [של ערוץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
-| 23 | [סקר של](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%9c) | N/A |
-| 24 | [דרום אדום](http://twitter.com/search?q=%d7%93%d7%a8%d7%95%d7%9d+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 25 | [מירב בטיטו](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%98%d7%99%d7%98%d7%95) | N/A |
-| 26 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
-| 27 | [הפועל תל אביב](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
-| 28 | [של אבא](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%91%d7%90) | N/A |
-| 29 | [אביגדור קהלני](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%92%d7%93%d7%95%d7%a8+%d7%a7%d7%94%d7%9c%d7%a0%d7%99) | N/A |
+| 19 | [דרום אפריקה](http://twitter.com/search?q=%d7%93%d7%a8%d7%95%d7%9d+%d7%90%d7%a4%d7%a8%d7%99%d7%a7%d7%94) | N/A |
+| 20 | [שרון גל](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%9f+%d7%92%d7%9c) | N/A |
+| 21 | [בית לחם](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%9c%d7%97%d7%9d) | N/A |
+| 22 | [מכבי נתניה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%a0%d7%aa%d7%a0%d7%99%d7%94) | N/A |
+| 23 | [של ערוץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
+| 24 | [סקר של](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%9c) | N/A |
+| 25 | [דרום אדום](http://twitter.com/search?q=%d7%93%d7%a8%d7%95%d7%9d+%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 26 | [אביגדור קהלני](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%92%d7%93%d7%95%d7%a8+%d7%a7%d7%94%d7%9c%d7%a0%d7%99) | N/A |
+| 27 | [מירב בטיטו](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%98%d7%99%d7%98%d7%95) | N/A |
+| 28 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
+| 29 | [של אבא](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%91%d7%90) | N/A |
 | 30 | [Shabbat](http://twitter.com/search?q=Shabbat) | N/A |
 | 31 | [#النصر_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 32 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 33 | [#אלמוג_כהן_מטומטם](http://twitter.com/search?q=%23%d7%90%d7%9c%d7%9e%d7%95%d7%92_%d7%9b%d7%94%d7%9f_%d7%9e%d7%98%d7%95%d7%9e%d7%98%d7%9d) | N/A |
-| 34 | [תל עדשים](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%a2%d7%93%d7%a9%d7%99%d7%9d) | N/A |
-| 35 | [אמנון אברמוביץ](http://twitter.com/search?q=%d7%90%d7%9e%d7%a0%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%9e%d7%95%d7%91%d7%99%d7%a5) | N/A |
-| 36 | [בן ארצי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
-| 37 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 38 | [שגיא מוקי](http://twitter.com/search?q=%d7%a9%d7%92%d7%99%d7%90+%d7%9e%d7%95%d7%a7%d7%99) | N/A |
-| 39 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 32 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 33 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 34 | [#אלמוג_כהן_מטומטם](http://twitter.com/search?q=%23%d7%90%d7%9c%d7%9e%d7%95%d7%92_%d7%9b%d7%94%d7%9f_%d7%9e%d7%98%d7%95%d7%9e%d7%98%d7%9d) | N/A |
+| 35 | [תל עדשים](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%a2%d7%93%d7%a9%d7%99%d7%9d) | N/A |
+| 36 | [אמנון אברמוביץ](http://twitter.com/search?q=%d7%90%d7%9e%d7%a0%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%9e%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 37 | [בן ארצי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
+| 38 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 39 | [שגיא מוקי](http://twitter.com/search?q=%d7%a9%d7%92%d7%99%d7%90+%d7%9e%d7%95%d7%a7%d7%99) | N/A |
 | 40 | [נדב אייל](http://twitter.com/search?q=%d7%a0%d7%93%d7%91+%d7%90%d7%99%d7%99%d7%9c) | N/A |
 | 41 | [מזל טוב לימור](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%9c%d7%99%d7%9e%d7%95%d7%a8) | N/A |
 | 42 | [של דרוקר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
 | 43 | [באר שבע](http://twitter.com/search?q=%d7%91%d7%90%d7%a8+%d7%a9%d7%91%d7%a2) | N/A |
 | 44 | [של קנדה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%a0%d7%93%d7%94) | N/A |
-| 45 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
-| 46 | [כאן תרבות](http://twitter.com/search?q=%d7%9b%d7%90%d7%9f+%d7%aa%d7%a8%d7%91%d7%95%d7%aa) | N/A |
-| 47 | [יאיר כץ](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9b%d7%a5) | N/A |
-| 48 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 49 | [איש קש](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%a7%d7%a9) | N/A |
-| 50 | [סיירת גולני](http://twitter.com/search?q=%d7%a1%d7%99%d7%99%d7%a8%d7%aa+%d7%92%d7%95%d7%9c%d7%a0%d7%99) | N/A |
+| 45 | [מכבי חיפה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 46 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
+| 47 | [כאן תרבות](http://twitter.com/search?q=%d7%9b%d7%90%d7%9f+%d7%aa%d7%a8%d7%91%d7%95%d7%aa) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [יאיר כץ](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9b%d7%a5) | N/A |
+| 50 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
 
 
 

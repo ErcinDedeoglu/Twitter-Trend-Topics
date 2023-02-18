@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-18 18:16:50 UTC`
+📆 Last Updated: `2023-02-18 19:27:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,12 +33,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 16 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 | 17 | [HWANDERFUL YEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFUL+YEARS+WITH+JUNGHWAN) | N/A |
 | 18 | [diệp](http://twitter.com/search?q=di%e1%bb%87p) | N/A |
-| 19 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 20 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 21 | [Ohm in VN](http://twitter.com/search?q=Ohm+in+VN) | N/A |
-| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 23 | [Terraform Labs](http://twitter.com/search?q=Terraform+Labs) | N/A |
-| 24 | [good mewning](http://twitter.com/search?q=good+mewning) | N/A |
+| 19 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 20 | [Ohm in VN](http://twitter.com/search?q=Ohm+in+VN) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Terraform Labs](http://twitter.com/search?q=Terraform+Labs) | N/A |
+| 23 | [good mewning](http://twitter.com/search?q=good+mewning) | N/A |
+| 24 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
 | 25 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
 | 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 27 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
@@ -58,13 +58,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 41 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
 | 42 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 | 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 44 | [Trần Minh Nhật](http://twitter.com/search?q=Tr%e1%ba%a7n+Minh+Nh%e1%ba%adt) | N/A |
+| 44 | [trần minh nhật](http://twitter.com/search?q=tr%e1%ba%a7n+minh+nh%e1%ba%adt) | N/A |
 | 45 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 46 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 47 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
-| 48 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 49 | [Chịch](http://twitter.com/search?q=Ch%e1%bb%8bch) | N/A |
-| 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 46 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
+| 47 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 48 | [Chịch](http://twitter.com/search?q=Ch%e1%bb%8bch) | N/A |
+| 49 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
 
 
 

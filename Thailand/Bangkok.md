@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-18 18:16:49 UTC`
+📆 Last Updated: `2023-02-18 19:27:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ParkJinYoungInBKK2023](http://twitter.com/search?q=%23ParkJinYoungInBKK2023) | #ParkJinYoungInBKK2023 is a hashtag used to promote a potential concert by South Korean singer and songwriter Park Jin Young in Bangkok, Thailand in 2023. The hashtag is used to encourage fans to show their support for the potential event. |
-| 2 | [#BOWKYLIONLANTACONCERT](http://twitter.com/search?q=%23BOWKYLIONLANTACONCERT) | N/A |
-| 3 | [#CHAMEGenMexZeeNunew](http://twitter.com/search?q=%23CHAMEGenMexZeeNunew) | N/A |
-| 4 | [#OPPOReno8T5GxPP](http://twitter.com/search?q=%23OPPOReno8T5GxPP) | N/A |
-| 5 | [#BedFriendEP1](http://twitter.com/search?q=%23BedFriendEP1) | N/A |
-| 6 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 7 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
-| 8 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 9 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 10 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 11 | [#HAPPYJUNGWOODAY](http://twitter.com/search?q=%23HAPPYJUNGWOODAY) | N/A |
-| 12 | [#RendezvousinBKK_Day1](http://twitter.com/search?q=%23RendezvousinBKK_Day1) | N/A |
-| 13 | [#ทอล์กกะเทยส์xTRINITY](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%ad%e0%b8%a5%e0%b9%8c%e0%b8%81%e0%b8%81%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a2%e0%b8%aa%e0%b9%8cxTRINITY) | N/A |
-| 14 | [#26thHappyBDPlan](http://twitter.com/search?q=%2326thHappyBDPlan) | N/A |
-| 15 | [#PotterOut](http://twitter.com/search?q=%23PotterOut) | N/A |
-| 16 | [#CrashCourseInRomanceEp11](http://twitter.com/search?q=%23CrashCourseInRomanceEp11) | N/A |
-| 17 | [#9MCOTxปรมาจารย์ลัทธิมารEP12](http://twitter.com/search?q=%239MCOTx%e0%b8%9b%e0%b8%a3%e0%b8%a1%e0%b8%b2%e0%b8%88%e0%b8%b2%e0%b8%a3%e0%b8%a2%e0%b9%8c%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a1%e0%b8%b2%e0%b8%a3EP12) | N/A |
-| 18 | [#DestinyclinicxGF](http://twitter.com/search?q=%23DestinyclinicxGF) | N/A |
-| 19 | [#อย่าเล่นกับอนลseries](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a5series) | N/A |
-| 20 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
-| 21 | [#FinalMissGrandSamutprakan2023](http://twitter.com/search?q=%23FinalMissGrandSamutprakan2023) | N/A |
-| 22 | [#TaxiDriver2Ep2](http://twitter.com/search?q=%23TaxiDriver2Ep2) | N/A |
-| 23 | [#ShootingStarInHK](http://twitter.com/search?q=%23ShootingStarInHK) | N/A |
-| 24 | [#ไม่หลับไม่นอนส่งปอนด์ภูวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
-| 25 | [#สู่อ้อมกอดของราชา](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b9%e0%b9%88%e0%b8%ad%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%81%e0%b8%ad%e0%b8%94%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%b2) | N/A |
-| 26 | [#taokaenoixDunBaslive3](http://twitter.com/search?q=%23taokaenoixDunBaslive3) | N/A |
-| 27 | [#ChainsOfHeartEP1](http://twitter.com/search?q=%23ChainsOfHeartEP1) | N/A |
-| 28 | [#กาลครั้งหกหนีกรุงxNONTTANONT](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%b2%e0%b8%a5%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%81%e0%b8%ab%e0%b8%99%e0%b8%b5%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87xNONTTANONT) | N/A |
-| 29 | [#มีนปักหมุดแล้วปิงปักใจยัง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b1%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b8%e0%b8%94%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b8%9b%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%88%e0%b8%a2%e0%b8%b1%e0%b8%87) | N/A |
-| 30 | [#อาซาร์2ขวบแล้วค้าบอุนย่า](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c2%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%84%e0%b9%89%e0%b8%b2%e0%b8%9a%e0%b8%ad%e0%b8%b8%e0%b8%99%e0%b8%a2%e0%b9%88%e0%b8%b2) | N/A |
-| 31 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
-| 32 | [#CC_CCherprang27BDPJ](http://twitter.com/search?q=%23CC_CCherprang27BDPJ) | N/A |
-| 33 | [#JINYOUNGFanconBKK2023](http://twitter.com/search?q=%23JINYOUNGFanconBKK2023) | N/A |
-| 34 | [#อาซาร์เเมวเซา](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b9%80%e0%b8%a1%e0%b8%a7%e0%b9%80%e0%b8%8b%e0%b8%b2) | N/A |
-| 35 | [#BUILDxMOMMAE](http://twitter.com/search?q=%23BUILDxMOMMAE) | N/A |
-| 36 | [#เภตรานฤมิต](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95) | N/A |
-| 37 | [#BedFriendSeries](http://twitter.com/search?q=%23BedFriendSeries) | N/A |
-| 38 | [#Jinyoung_RendezvousDay1](http://twitter.com/search?q=%23Jinyoung_RendezvousDay1) | N/A |
-| 39 | [#ฮักหลายมายเลดี้EP10](http://twitter.com/search?q=%23%e0%b8%ae%e0%b8%b1%e0%b8%81%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%a5%e0%b8%94%e0%b8%b5%e0%b9%89EP10) | N/A |
-| 40 | [#ทฤษฎีสีชมพูEP12](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP12) | N/A |
-| 41 | [#PARKJINYOUNGFanconBKK](http://twitter.com/search?q=%23PARKJINYOUNGFanconBKK) | N/A |
-| 42 | [#4NOLOGUEgreetings_DVI](http://twitter.com/search?q=%234NOLOGUEgreetings_DVI) | N/A |
-| 43 | [#TOYOTAFESTIVALxYIN](http://twitter.com/search?q=%23TOYOTAFESTIVALxYIN) | N/A |
-| 44 | [#บิวกิ้น](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%81%e0%b8%b4%e0%b9%89%e0%b8%99) | N/A |
-| 45 | [#nomin](http://twitter.com/search?q=%23nomin) | N/A |
-| 46 | [#LALISA](http://twitter.com/search?q=%23LALISA) | N/A |
-| 47 | [#BDGFanCon](http://twitter.com/search?q=%23BDGFanCon) | N/A |
-| 48 | [#กาลครั้งหกหนีกรุงFM](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%b2%e0%b8%a5%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%81%e0%b8%ab%e0%b8%99%e0%b8%b5%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87FM) | N/A |
-| 49 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 50 | [#จวีจิ้งอี](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%a7%e0%b8%b5%e0%b8%88%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%ad%e0%b8%b5) | N/A |
+| 1 | [#BedFriendEP1](http://twitter.com/search?q=%23BedFriendEP1) | N/A |
+| 2 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 3 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
+| 4 | [#RendezvousinBKK_Day1](http://twitter.com/search?q=%23RendezvousinBKK_Day1) | N/A |
+| 5 | [#ParkJinYoungInBKK2023](http://twitter.com/search?q=%23ParkJinYoungInBKK2023) | #ParkJinYoungInBKK2023 is a hashtag used to promote a potential concert by South Korean singer and songwriter Park Jin Young in Bangkok, Thailand in 2023. The hashtag is used to encourage fans to show their support for the potential event. |
+| 6 | [NNNGrab A Nice Day](http://twitter.com/search?q=NNNGrab+A+Nice+Day) | N/A |
+| 7 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 8 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
+| 9 | [HongKong x Bright](http://twitter.com/search?q=HongKong+x+Bright) | N/A |
+| 10 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
+| 11 | [bambam special mc fun staurant](http://twitter.com/search?q=bambam+special+mc+fun+staurant) | N/A |
+| 12 | [Win in HK](http://twitter.com/search?q=Win+in+HK) | N/A |
+| 13 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
+| 14 | [win x hk](http://twitter.com/search?q=win+x+hk) | N/A |
+| 15 | [702 menu challenge](http://twitter.com/search?q=702+menu+challenge) | N/A |
+| 16 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
+| 17 | [MC DOYOUNG CIRCLE CHART AWARDS](http://twitter.com/search?q=MC+DOYOUNG+CIRCLE+CHART+AWARDS) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Night Cherprang](http://twitter.com/search?q=Night+Cherprang) | N/A |
+| 20 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 21 | [Kard](http://twitter.com/search?q=Kard) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Classic](http://twitter.com/search?q=Classic) | N/A |
+| 24 | [iQIYI](http://twitter.com/search?q=iQIYI) | N/A |
+| 25 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 26 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 27 | [#DestinyclinicxGF](http://twitter.com/search?q=%23DestinyclinicxGF) | N/A |
+| 28 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 29 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 30 | [#น้ําหนึ่งเนย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
+| 31 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
+| 32 | [#สบู่ทับทิมนัมเบอร์วันXอิงล็อต](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%97%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b4%e0%b8%a1%e0%b8%99%e0%b8%b1%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a7%e0%b8%b1%e0%b8%99X%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 33 | [#ทอล์กกะเทยส์xTRINITY](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%ad%e0%b8%a5%e0%b9%8c%e0%b8%81%e0%b8%81%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a2%e0%b8%aa%e0%b9%8cxTRINITY) | N/A |
+| 34 | [#TOYOTAFESTIVALxYIN](http://twitter.com/search?q=%23TOYOTAFESTIVALxYIN) | N/A |
+| 35 | [#CHAMEGenMexZeeNunew](http://twitter.com/search?q=%23CHAMEGenMexZeeNunew) | N/A |
+| 36 | [#HAPPYJUNGWOODAY](http://twitter.com/search?q=%23HAPPYJUNGWOODAY) | N/A |
+| 37 | [#ShootingStarInHK](http://twitter.com/search?q=%23ShootingStarInHK) | N/A |
+| 38 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 39 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
+| 40 | [#슈퍼킹카우베이비_화니짱_생축](http://twitter.com/search?q=%23%ec%8a%88%ed%8d%bc%ed%82%b9%ec%b9%b4%ec%9a%b0%eb%b2%a0%ec%9d%b4%eb%b9%84_%ed%99%94%eb%8b%88%ec%a7%b1_%ec%83%9d%ec%b6%95) | N/A |
+| 41 | [#26thHappyBDPlan](http://twitter.com/search?q=%2326thHappyBDPlan) | N/A |
+| 42 | [#18กุมภากดบัตรคอนเนเน่](http://twitter.com/search?q=%2318%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88) | N/A |
+| 43 | [#OPPOReno8T5GxPP](http://twitter.com/search?q=%23OPPOReno8T5GxPP) | N/A |
+| 44 | [#PotterOut](http://twitter.com/search?q=%23PotterOut) | N/A |
+| 45 | [#FinalMissGrandSamutprakan2023](http://twitter.com/search?q=%23FinalMissGrandSamutprakan2023) | N/A |
+| 46 | [#APOMeetandGive2023](http://twitter.com/search?q=%23APOMeetandGive2023) | N/A |
+| 47 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
+| 48 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
+| 49 | [#BWDNtoHK](http://twitter.com/search?q=%23BWDNtoHK) | N/A |
+| 50 | [#วอร์คราฟLV22xMLifestore](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%9fLV22xMLifestore) | N/A |
 
 
 
