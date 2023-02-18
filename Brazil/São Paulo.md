@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-18 10:16:37 UTC`
+📆 Last Updated: `2023-02-18 11:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,39 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 2 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
-| 3 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 1 | [#GlobelezaGavioesDaFiel](http://twitter.com/search?q=%23GlobelezaGavioesDaFiel) | N/A |
+| 2 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 3 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
 | 4 | [#HealingServiceInBomet](http://twitter.com/search?q=%23HealingServiceInBomet) | N/A |
-| 5 | [Rosas de Ouro](http://twitter.com/search?q=Rosas+de+Ouro) | N/A |
-| 6 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
-| 7 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
-| 8 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 9 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
-| 10 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 5 | [Sábado de Carnaval](http://twitter.com/search?q=S%c3%a1bado+de+Carnaval) | N/A |
+| 6 | [São Clemente](http://twitter.com/search?q=S%c3%a3o+Clemente) | N/A |
+| 7 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 8 | [Então Brilha](http://twitter.com/search?q=Ent%c3%a3o+Brilha) | N/A |
+| 9 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 10 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
 | 11 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 12 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
-| 13 | [Acadêmicos de Niterói](http://twitter.com/search?q=Acad%c3%aamicos+de+Niter%c3%b3i) | N/A |
-| 14 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 15 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
-| 16 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
-| 17 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
-| 18 | [Barroca](http://twitter.com/search?q=Barroca) | N/A |
-| 19 | [Vila Vintém](http://twitter.com/search?q=Vila+Vint%c3%a9m) | N/A |
-| 20 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 21 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 22 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
-| 23 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
-| 24 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
-| 25 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 26 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
-| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 28 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
+| 12 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 13 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
+| 14 | [Tatuapé](http://twitter.com/search?q=Tatuap%c3%a9) | N/A |
+| 15 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
+| 16 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 17 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 18 | [Unidos de Padre Miguel](http://twitter.com/search?q=Unidos+de+Padre+Miguel) | N/A |
+| 19 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 20 | [felipe amorim](http://twitter.com/search?q=felipe+amorim) | N/A |
+| 21 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
+| 22 | [Bom Carnaval](http://twitter.com/search?q=Bom+Carnaval) | N/A |
+| 23 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 24 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 25 | [FICA FRED](http://twitter.com/search?q=FICA+FRED) | N/A |
+| 26 | [Paraty](http://twitter.com/search?q=Paraty) | N/A |
+| 27 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
+| 28 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
 | 29 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
 | 30 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
-| 31 | [lins imperial](http://twitter.com/search?q=lins+imperial) | N/A |
-| 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 33 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 34 | [Janssen](http://twitter.com/search?q=Janssen) | N/A |
-| 35 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 31 | [arraial](http://twitter.com/search?q=arraial) | N/A |
+| 32 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 33 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-02-18 10:16:54 UTC`
+📆 Last Updated: `2023-02-18 11:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bellmare](http://twitter.com/search?q=%23bellmare) | N/A |
-| 2 | [ハットトリック](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
-| 3 | [#ベルマーレ](http://twitter.com/search?q=%23%e3%83%99%e3%83%ab%e3%83%9e%e3%83%bc%e3%83%ac) | N/A |
-| 4 | [タモさん](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%81%95%e3%82%93) | タモさん is a nickname for the Japanese cartoon character Tamogotchi. It is derived from the combination of the words "tamago" (egg) and "gotchi" (a portmanteau of "virtual pet"). In English, it can be translated to mean "Mr. Tamogotchi". |
-| 5 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
-| 6 | [ミクソロジー](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%82%bd%e3%83%ad%e3%82%b8%e3%83%bc) | N/A |
-| 7 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
-| 8 | [京都牝馬S](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e7%89%9d%e9%a6%acS) | N/A |
-| 9 | [サーモンラン](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%83%a2%e3%83%b3%e3%83%a9%e3%83%b3) | N/A |
-| 10 | [勝ち点3](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b93) | N/A |
-| 11 | [ロータスランド](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%bf%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89) | ロータスランド (Lotusland) is a Japanese theme park located in Saitama Prefecture. It is known for its large collection of exotic plants and flowers, as well as its many attractions and rides. The name comes from the lotus flower, which is a symbol of purity and beauty in many cultures. In English, Lotusland can be translated to mean "a place of beauty and serenity". |
-| 12 | [ララクリスティーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a9%e3%82%af%e3%83%aa%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%8c) | N/A |
-| 13 | [#yokohamafc](http://twitter.com/search?q=%23yokohamafc) | N/A |
-| 14 | [試合終了](http://twitter.com/search?q=%e8%a9%a6%e5%90%88%e7%b5%82%e4%ba%86) | N/A |
-| 15 | [#キンプる](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%82%8b) | #キンプる is a Japanese hashtag that is used to express enthusiasm or excitement. It is derived from the phrase "kinpuru," which roughly translates to "let's go for it!" or "let's do it!" in English. |
-| 16 | [サモラン](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%a9%e3%83%b3) | N/A |
-| 17 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 18 | [#ウッチャンナンチャンANN](http://twitter.com/search?q=%23%e3%82%a6%e3%83%83%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8a%e3%83%b3%e3%83%81%e3%83%a3%e3%83%b3ANN) | N/A |
-| 19 | [セキュリティ](http://twitter.com/search?q=%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3) | N/A |
-| 20 | [佐久間さん](http://twitter.com/search?q=%e4%bd%90%e4%b9%85%e9%96%93%e3%81%95%e3%82%93) | N/A |
-| 21 | [レアコレ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%82%b3%e3%83%ac) | N/A |
-| 22 | [アコスタ](http://twitter.com/search?q=%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf) | N/A |
-| 23 | [アウェイ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4) | アウェイ is a Japanese word that means "away" or "away from home". It is used to describe a team or individual that is playing away from their home stadium or court. |
-| 24 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
-| 25 | [Jリーグ](http://twitter.com/search?q=J%e3%83%aa%e3%83%bc%e3%82%b0) | Jリーグ is the top division of the Japan Professional Football League, commonly known as the J.League. It is the country's premier football competition and consists of 18 teams. The league was founded in 1992 and is currently sponsored by Meiji Yasuda Life Insurance Company. The English translation of Jリーグ is "J League". |
-| 26 | [ダイヤモンドの功罪](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89%e3%81%ae%e5%8a%9f%e7%bd%aa) | N/A |
-| 27 | [ニッポン放送](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3%e6%94%be%e9%80%81) | N/A |
-| 28 | [BLUE GIANT](http://twitter.com/search?q=BLUE+GIANT) | N/A |
-| 29 | [サポーター](http://twitter.com/search?q=%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
-| 30 | [チケゾー](http://twitter.com/search?q=%e3%83%81%e3%82%b1%e3%82%be%e3%83%bc) | N/A |
-| 31 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 32 | [ウイニングチケット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 33 | [蜻蛉切オルタ](http://twitter.com/search?q=%e8%9c%bb%e8%9b%89%e5%88%87%e3%82%aa%e3%83%ab%e3%82%bf) | N/A |
-| 34 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 35 | [ティーカップ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 36 | [ニュース速報](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e9%80%9f%e5%a0%b1) | N/A |
+| 1 | [#アイプラ未来](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%97%e3%83%a9%e6%9c%aa%e6%9d%a5) | N/A |
+| 2 | [#名探偵コナン](http://twitter.com/search?q=%23%e5%90%8d%e6%8e%a2%e5%81%b5%e3%82%b3%e3%83%8a%e3%83%b3) | #名探偵コナン is a Japanese manga series written and illustrated by Gosho Aoyama. It follows the adventures of high school detective Conan Edogawa, who solves difficult cases with his sharp deductive skills. The title translates to "Detective Conan" in English. |
+| 3 | [ハットトリック](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 4 | [#ベルマーレ](http://twitter.com/search?q=%23%e3%83%99%e3%83%ab%e3%83%9e%e3%83%bc%e3%83%ac) | N/A |
+| 5 | [#bellmare](http://twitter.com/search?q=%23bellmare) | N/A |
+| 6 | [#ポケマスEX](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%83%9e%e3%82%b9EX) | N/A |
+| 7 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
+| 8 | [タモさん](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%81%95%e3%82%93) | タモさん is a nickname for the Japanese cartoon character Tamogotchi. It is derived from the combination of the words "tamago" (egg) and "gotchi" (a portmanteau of "virtual pet"). In English, it can be translated to mean "Mr. Tamogotchi". |
+| 9 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 10 | [ミクソロジー](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%82%bd%e3%83%ad%e3%82%b8%e3%83%bc) | N/A |
+| 11 | [ヒュミドール](http://twitter.com/search?q=%e3%83%92%e3%83%a5%e3%83%9f%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 12 | [開幕戦勝利](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
+| 13 | [京都牝馬S](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e7%89%9d%e9%a6%acS) | N/A |
+| 14 | [ゲルテナ展](http://twitter.com/search?q=%e3%82%b2%e3%83%ab%e3%83%86%e3%83%8a%e5%b1%95) | N/A |
+| 15 | [ララクリスティーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a9%e3%82%af%e3%83%aa%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%8c) | N/A |
+| 16 | [オールナイトニッポン](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
+| 17 | [サーモンラン](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%83%a2%e3%83%b3%e3%83%a9%e3%83%b3) | N/A |
+| 18 | [佐久間さん](http://twitter.com/search?q=%e4%bd%90%e4%b9%85%e9%96%93%e3%81%95%e3%82%93) | N/A |
+| 19 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
+| 20 | [アコスタ](http://twitter.com/search?q=%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf) | N/A |
+| 21 | [サモラン](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%a9%e3%83%b3) | N/A |
+| 22 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 23 | [ダイヤモンドS](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89S) | N/A |
+| 24 | [Jリーグ](http://twitter.com/search?q=J%e3%83%aa%e3%83%bc%e3%82%b0) | Jリーグ is the top division of the Japan Professional Football League, commonly known as the J.League. It is the country's premier football competition and consists of 18 teams. The league was founded in 1992 and is currently sponsored by Meiji Yasuda Life Insurance Company. The English translation of Jリーグ is "J League". |
+| 25 | [ニッポン放送](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3%e6%94%be%e9%80%81) | N/A |
+| 26 | [BLUE GIANT](http://twitter.com/search?q=BLUE+GIANT) | N/A |
+| 27 | [蜻蛉切オルタ](http://twitter.com/search?q=%e8%9c%bb%e8%9b%89%e5%88%87%e3%82%aa%e3%83%ab%e3%82%bf) | N/A |
+| 28 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 29 | [チケゾー](http://twitter.com/search?q=%e3%83%81%e3%82%b1%e3%82%be%e3%83%bc) | N/A |
+| 30 | [ナギサ様](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%82%b5%e6%a7%98) | N/A |
+| 31 | [ウイニングチケット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 32 | [ナギちゃん](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 34 | [早見沙織](http://twitter.com/search?q=%e6%97%a9%e8%a6%8b%e6%b2%99%e7%b9%94) | N/A |
+| 35 | [インド村](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e6%9d%91) | N/A |
+| 36 | [ティーパーティー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%bc%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
 | 37 | [EEZ内](http://twitter.com/search?q=EEZ%e5%86%85) | N/A |
-| 38 | [インド村](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e6%9d%91) | N/A |
-| 39 | [ジョディ先生](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%87%e3%82%a3%e5%85%88%e7%94%9f) | N/A |
-| 40 | [雪の重み](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e9%87%8d%e3%81%bf) | N/A |
-| 41 | [レディナガン](http://twitter.com/search?q=%e3%83%ac%e3%83%87%e3%82%a3%e3%83%8a%e3%82%ac%e3%83%b3) | N/A |
-| 42 | [クマワイパー](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%af%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 43 | [母タイプ](http://twitter.com/search?q=%e6%af%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 44 | [アルジュナ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%8a) | N/A |
-| 45 | [女子力高め](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e5%8a%9b%e9%ab%98%e3%82%81) | N/A |
-| 46 | [認証アプリ](http://twitter.com/search?q=%e8%aa%8d%e8%a8%bc%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
-| 47 | [クマ武器](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e6%ad%a6%e5%99%a8) | N/A |
-| 48 | [共同通信の社会部デスク](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1%e3%81%ae%e7%a4%be%e4%bc%9a%e9%83%a8%e3%83%87%e3%82%b9%e3%82%af) | N/A |
-| 49 | [ヒュミドール](http://twitter.com/search?q=%e3%83%92%e3%83%a5%e3%83%9f%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 38 | [ティーカップ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 39 | [新難易度](http://twitter.com/search?q=%e6%96%b0%e9%9b%a3%e6%98%93%e5%ba%a6) | N/A |
+| 40 | [アルジュナ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%8a) | N/A |
+| 41 | [ニュース速報](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e9%80%9f%e5%a0%b1) | N/A |
+| 42 | [雪の重み](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e9%87%8d%e3%81%bf) | N/A |
+| 43 | [弾力装甲](http://twitter.com/search?q=%e5%bc%be%e5%8a%9b%e8%a3%85%e7%94%b2) | N/A |
+| 44 | [トキ実装](http://twitter.com/search?q=%e3%83%88%e3%82%ad%e5%ae%9f%e8%a3%85) | N/A |
+| 45 | [母タイプ](http://twitter.com/search?q=%e6%af%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 46 | [ビーマさん](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%9e%e3%81%95%e3%82%93) | N/A |
+| 47 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
+| 48 | [クマワイパー](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%af%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 49 | [ジョディ先生](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%87%e3%82%a3%e5%85%88%e7%94%9f) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-18 10:16:29 UTC`
+📆 Last Updated: `2023-02-18 11:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 1 | [#BBCCricket](http://twitter.com/search?q=%23BBCCricket) | N/A |
 | 2 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 3 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 3 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 4 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
 | 5 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 6 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 7 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 10 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
-| 11 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 9 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
+| 10 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 11 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 12 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 13 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 15 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 16 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 17 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 18 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 19 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 21 | [Phil Gould](http://twitter.com/search?q=Phil+Gould) | N/A |
-| 22 | [WORLD CHAMPIONS](http://twitter.com/search?q=WORLD+CHAMPIONS) | N/A |
-| 23 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 24 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
-| 25 | [Sir Bobby](http://twitter.com/search?q=Sir+Bobby) | N/A |
-| 26 | [James Roby](http://twitter.com/search?q=James+Roby) | N/A |
-| 27 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 28 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 29 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 30 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 31 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 32 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
-| 33 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 34 | [ASOS](http://twitter.com/search?q=ASOS) | N/A |
-| 35 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 36 | [Pic D'Orhy](http://twitter.com/search?q=Pic+D%27Orhy) | N/A |
-| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 38 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 39 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 40 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
-| 41 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 42 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 43 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 44 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 15 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 16 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 17 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 18 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 19 | [World Club Champions](http://twitter.com/search?q=World+Club+Champions) | N/A |
+| 20 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 21 | [Sir Bobby](http://twitter.com/search?q=Sir+Bobby) | N/A |
+| 22 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 23 | [World Champions](http://twitter.com/search?q=World+Champions) | N/A |
+| 24 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 25 | [James Roby](http://twitter.com/search?q=James+Roby) | N/A |
+| 26 | [Phil Gould](http://twitter.com/search?q=Phil+Gould) | N/A |
+| 27 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 28 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 29 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
+| 30 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 31 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 32 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 33 | [ASOS](http://twitter.com/search?q=ASOS) | N/A |
+| 34 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
+| 35 | [Pic D'Orhy](http://twitter.com/search?q=Pic+D%27Orhy) | N/A |
+| 36 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 37 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 38 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 39 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 40 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 41 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 42 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 43 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 44 | [Fakir D'oudairies](http://twitter.com/search?q=Fakir+D%27oudairies) | N/A |
 | 45 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 46 | [#WCC2023](http://twitter.com/search?q=%23WCC2023) | N/A |
-| 47 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 48 | [#ASongOrMovieForWalking](http://twitter.com/search?q=%23ASongOrMovieForWalking) | N/A |
-| 49 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 46 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 47 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 48 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
+| 49 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
 
 
 

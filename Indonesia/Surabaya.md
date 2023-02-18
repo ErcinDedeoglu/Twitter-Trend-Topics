@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-18 10:16:49 UTC`
+📆 Last Updated: `2023-02-18 11:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
-| 2 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
-| 3 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
-| 4 | [#TXTonCCMA2022](http://twitter.com/search?q=%23TXTonCCMA2022) | N/A |
-| 5 | [#PajamaDriveJKT48](http://twitter.com/search?q=%23PajamaDriveJKT48) | N/A |
-| 6 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
-| 7 | [#UN1TYKarnavalSCTV](http://twitter.com/search?q=%23UN1TYKarnavalSCTV) | N/A |
-| 8 | [#Fighting4thWin](http://twitter.com/search?q=%23Fighting4thWin) | N/A |
-| 9 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
-| 10 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 11 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
-| 12 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 13 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 14 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 15 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
+| 2 | [#ENHYPENon2022CCMA](http://twitter.com/search?q=%23ENHYPENon2022CCMA) | N/A |
+| 3 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
+| 4 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 5 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
+| 6 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 7 | [#Fighting4thWin](http://twitter.com/search?q=%23Fighting4thWin) | N/A |
+| 8 | [DREAM FOREVER](http://twitter.com/search?q=DREAM+FOREVER) | N/A |
+| 9 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
+| 10 | [JAKE](http://twitter.com/search?q=JAKE) | N/A |
+| 11 | [Iqbal](http://twitter.com/search?q=Iqbal) | N/A |
+| 12 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 16 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 17 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 18 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 17 | [Lebaran](http://twitter.com/search?q=Lebaran) | N/A |
+| 18 | [Teratopia](http://twitter.com/search?q=Teratopia) | N/A |
 | 19 | [NCT DREAM KYOCERA DOME DAY2](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY2) | N/A |
-| 20 | [Teratopia](http://twitter.com/search?q=Teratopia) | N/A |
-| 21 | [D-Bank PRO](http://twitter.com/search?q=D-Bank+PRO) | N/A |
-| 22 | [Alergi](http://twitter.com/search?q=Alergi) | N/A |
-| 23 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 24 | [Kartu Debit](http://twitter.com/search?q=Kartu+Debit) | N/A |
-| 25 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 26 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 27 | [Kenyang](http://twitter.com/search?q=Kenyang) | N/A |
-| 28 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 29 | [Rajab](http://twitter.com/search?q=Rajab) | N/A |
+| 20 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 21 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 22 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 23 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
+| 24 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 25 | [Alergi](http://twitter.com/search?q=Alergi) | N/A |
+| 26 | [Kenyang](http://twitter.com/search?q=Kenyang) | N/A |
+| 27 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 28 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 29 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
 | 30 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
-| 31 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 32 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 33 | [Bantal](http://twitter.com/search?q=Bantal) | N/A |
-| 34 | [Nugget](http://twitter.com/search?q=Nugget) | N/A |
-| 35 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 37 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 38 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 39 | [#MCDOYOUNG_CCMA2022](http://twitter.com/search?q=%23MCDOYOUNG_CCMA2022) | N/A |
-| 40 | [#BSS4thWin](http://twitter.com/search?q=%23BSS4thWin) | N/A |
-| 41 | [#TebakanMandiri](http://twitter.com/search?q=%23TebakanMandiri) | N/A |
-| 42 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
-| 43 | [#TDS2KyoceraDome_DAY2](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY2) | N/A |
-| 44 | [#ENHYPENon2022CCMA](http://twitter.com/search?q=%23ENHYPENon2022CCMA) | N/A |
-| 45 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 46 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
-| 47 | [#GanjarPranowoCiamis](http://twitter.com/search?q=%23GanjarPranowoCiamis) | N/A |
-| 48 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 49 | [#EnchantedKDJ23](http://twitter.com/search?q=%23EnchantedKDJ23) | N/A |
-| 50 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 31 | [BANG UDAH BANG](http://twitter.com/search?q=BANG+UDAH+BANG) | N/A |
+| 32 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 33 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 34 | [Bantal](http://twitter.com/search?q=Bantal) | N/A |
+| 35 | [Nugget](http://twitter.com/search?q=Nugget) | N/A |
+| 36 | [27 Rajab 1444 H](http://twitter.com/search?q=27+Rajab+1444+H) | N/A |
+| 37 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 38 | [#PajamaDriveJKT48](http://twitter.com/search?q=%23PajamaDriveJKT48) | N/A |
+| 39 | [#TebakanMandiri](http://twitter.com/search?q=%23TebakanMandiri) | N/A |
+| 40 | [#TDS2KyoceraDome_DAY2](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY2) | N/A |
+| 41 | [#MCDOYOUNG_CCMA2022](http://twitter.com/search?q=%23MCDOYOUNG_CCMA2022) | N/A |
+| 42 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 43 | [#BSS4thWin](http://twitter.com/search?q=%23BSS4thWin) | N/A |
+| 44 | [#TXTonCCMA2022](http://twitter.com/search?q=%23TXTonCCMA2022) | N/A |
+| 45 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
+| 46 | [#UN1TYKarnavalSCTV](http://twitter.com/search?q=%23UN1TYKarnavalSCTV) | N/A |
+| 47 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 48 | [#EnchantedKDJ23](http://twitter.com/search?q=%23EnchantedKDJ23) | N/A |
+| 49 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
+| 50 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
 
 
 

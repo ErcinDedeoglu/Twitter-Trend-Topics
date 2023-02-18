@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-18 10:17:13 UTC`
+📆 Last Updated: `2023-02-18 11:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#Konya](http://twitter.com/search?q=%23Konya) | N/A |
 | 2 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 3 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 4 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
-| 5 | [İlknurTepeden Osurdu](http://twitter.com/search?q=%c4%b0lknurTepeden+Osurdu) | N/A |
+| 3 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
+| 4 | [İlknurTepeden Osurdu](http://twitter.com/search?q=%c4%b0lknurTepeden+Osurdu) | N/A |
+| 5 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
 | 6 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 7 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 7 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 8 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 9 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 10 | [Depremin 296](http://twitter.com/search?q=Depremin+296) | N/A |
-| 11 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
-| 12 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
-| 13 | [#YağmurTanrısevsin](http://twitter.com/search?q=%23Ya%c4%9fmurTanr%c4%b1sevsin) | N/A |
-| 14 | [#Benidenotedin](http://twitter.com/search?q=%23Benidenotedin) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 17 | [Lütfetmiş](http://twitter.com/search?q=L%c3%bctfetmi%c5%9f) | N/A |
-| 18 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 19 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 20 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 21 | [Woody Allen](http://twitter.com/search?q=Woody+Allen) | N/A |
-| 22 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 23 | [Timsah](http://twitter.com/search?q=Timsah) | N/A |
-| 24 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 25 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 26 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 27 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 28 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 29 | [Alın](http://twitter.com/search?q=Al%c4%b1n) | N/A |
-| 30 | [Kızı](http://twitter.com/search?q=K%c4%b1z%c4%b1) | N/A |
-| 31 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 32 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 33 | [Diyanetin](http://twitter.com/search?q=Diyanetin) | N/A |
-| 34 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 35 | [Dini](http://twitter.com/search?q=Dini) | N/A |
-| 36 | [İsa](http://twitter.com/search?q=%c4%b0sa) | N/A |
-| 37 | [İslamı](http://twitter.com/search?q=%c4%b0slam%c4%b1) | N/A |
-| 38 | [Teyze](http://twitter.com/search?q=Teyze) | N/A |
-| 39 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
-| 40 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
-| 41 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 42 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 43 | [#KademeliPrimİstemiyoruz](http://twitter.com/search?q=%23KademeliPrim%c4%b0stemiyoruz) | N/A |
-| 44 | [#DepremCocuklarıGuevendemi](http://twitter.com/search?q=%23DepremCocuklar%c4%b1Guevendemi) | N/A |
-| 45 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
-| 46 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
-| 47 | [#balıkesir](http://twitter.com/search?q=%23bal%c4%b1kesir) | N/A |
-| 48 | [#ElifNurYel](http://twitter.com/search?q=%23ElifNurYel) | N/A |
-| 49 | [#kismetseolur](http://twitter.com/search?q=%23kismetseolur) | N/A |
+| 9 | [#Benidenotedin](http://twitter.com/search?q=%23Benidenotedin) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 12 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
+| 13 | [Kanatlı Apartmanı](http://twitter.com/search?q=Kanatl%c4%b1+Apartman%c4%b1) | N/A |
+| 14 | [Depremin 296](http://twitter.com/search?q=Depremin+296) | N/A |
+| 15 | [Sağlık Bakanı Fahrettin Koca](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k+Bakan%c4%b1+Fahrettin+Koca) | N/A |
+| 16 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 17 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 18 | [#YağmurTanrısevsin](http://twitter.com/search?q=%23Ya%c4%9fmurTanr%c4%b1sevsin) | N/A |
+| 19 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 20 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 21 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 22 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
+| 23 | [Lütfetmiş](http://twitter.com/search?q=L%c3%bctfetmi%c5%9f) | N/A |
+| 24 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
+| 25 | [Timsah](http://twitter.com/search?q=Timsah) | N/A |
+| 26 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 27 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 28 | [Diyanetin](http://twitter.com/search?q=Diyanetin) | N/A |
+| 29 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 30 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
+| 31 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 32 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 33 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 34 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 35 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
+| 36 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 37 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 38 | [Kemalist](http://twitter.com/search?q=Kemalist) | N/A |
+| 39 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 40 | [İslamı](http://twitter.com/search?q=%c4%b0slam%c4%b1) | N/A |
+| 41 | [Alın](http://twitter.com/search?q=Al%c4%b1n) | N/A |
+| 42 | [Aleykümselam](http://twitter.com/search?q=Aleyk%c3%bcmselam) | N/A |
+| 43 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 44 | [Teyze](http://twitter.com/search?q=Teyze) | N/A |
+| 45 | [İslamiyet](http://twitter.com/search?q=%c4%b0slamiyet) | N/A |
+| 46 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 47 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
+| 48 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 49 | [#KademeliPrimİstemiyoruz](http://twitter.com/search?q=%23KademeliPrim%c4%b0stemiyoruz) | N/A |
+| 50 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
 
 
 

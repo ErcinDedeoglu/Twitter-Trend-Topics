@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-02-18 10:16:56 UTC`
+📆 Last Updated: `2023-02-18 11:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#BAMTC2023](http://twitter.com/search?q=%23BAMTC2023) | N/A |
-| 3 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 3 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
 | 4 | [#218BROSinTOWN](http://twitter.com/search?q=%23218BROSinTOWN) | N/A |
-| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 6 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 7 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 8 | [wei wei](http://twitter.com/search?q=wei+wei) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [hoon](http://twitter.com/search?q=hoon) | N/A |
-| 11 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
-| 12 | [jin wei](http://twitter.com/search?q=jin+wei) | N/A |
-| 13 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 5 | [#HELLOitsJUNGHWANday](http://twitter.com/search?q=%23HELLOitsJUNGHWANday) | N/A |
+| 6 | [#MySchoolPresidentEP11](http://twitter.com/search?q=%23MySchoolPresidentEP11) | N/A |
+| 7 | [JAKE](http://twitter.com/search?q=JAKE) | N/A |
+| 8 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 9 | [hoon](http://twitter.com/search?q=hoon) | N/A |
+| 10 | [wei wei](http://twitter.com/search?q=wei+wei) | N/A |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 13 | [jin wei](http://twitter.com/search?q=jin+wei) | N/A |
 | 14 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 15 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 16 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 17 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 18 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 19 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
-| 20 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 21 | [Klang](http://twitter.com/search?q=Klang) | N/A |
-| 22 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
-| 23 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
-| 26 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
-| 27 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 28 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 29 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
-| 30 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 31 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 32 | [anteater](http://twitter.com/search?q=anteater) | N/A |
-| 33 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
-| 34 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 35 | [RAIL MY LIFE](http://twitter.com/search?q=RAIL+MY+LIFE) | N/A |
-| 36 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
-| 37 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 38 | [Jooheon](http://twitter.com/search?q=Jooheon) | N/A |
-| 39 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
-| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 42 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
-| 43 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 44 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
-| 45 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 46 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 15 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 16 | [Mariam](http://twitter.com/search?q=Mariam) | N/A |
+| 17 | [NAYEON](http://twitter.com/search?q=NAYEON) | N/A |
+| 18 | [Klang](http://twitter.com/search?q=Klang) | N/A |
+| 19 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 20 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 23 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 24 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 25 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
+| 26 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 27 | [anteater](http://twitter.com/search?q=anteater) | N/A |
+| 28 | [Eula](http://twitter.com/search?q=Eula) | Eula is an acronym for End User License Agreement. It is a legal agreement between a software developer and the user of the software, which outlines the terms and conditions of using the software. |
+| 29 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 31 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 32 | [RAIL MY LIFE](http://twitter.com/search?q=RAIL+MY+LIFE) | N/A |
+| 33 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
+| 34 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 35 | [Jooheon](http://twitter.com/search?q=Jooheon) | N/A |
+| 36 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 37 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
+| 38 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 40 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
+| 41 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 42 | [Dokyeom](http://twitter.com/search?q=Dokyeom) | N/A |
+| 43 | [VARIETY SUPERSTAR V](http://twitter.com/search?q=VARIETY+SUPERSTAR+V) | N/A |
+| 44 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 45 | [Zii Jia](http://twitter.com/search?q=Zii+Jia) | N/A |
+| 46 | [Hearts of Harris 2.0](http://twitter.com/search?q=Hearts+of+Harris+2.0) | N/A |
 | 47 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 48 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 48 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
 
 
 

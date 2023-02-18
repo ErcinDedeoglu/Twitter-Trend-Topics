@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-18 10:17:32 UTC`
+📆 Last Updated: `2023-02-18 11:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Spain
 | 1 | [#COAC2023Final](http://twitter.com/search?q=%23COAC2023Final) | N/A |
 | 2 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
 | 3 | [#33Finales](http://twitter.com/search?q=%2333Finales) | N/A |
-| 4 | [#AgropopularCarnavales](http://twitter.com/search?q=%23AgropopularCarnavales) | N/A |
-| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 6 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
-| 7 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 8 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
-| 9 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 4 | [#DogfightWildTournament](http://twitter.com/search?q=%23DogfightWildTournament) | N/A |
+| 5 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 6 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
+| 7 | [#N1CanalFiesta7](http://twitter.com/search?q=%23N1CanalFiesta7) | N/A |
+| 8 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 9 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 10 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 11 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 11 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
 | 12 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 13 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 13 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 14 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 15 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 15 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
 | 16 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
-| 17 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
+| 17 | [Authy](http://twitter.com/search?q=Authy) | N/A |
 | 18 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
 | 19 | [Molina](http://twitter.com/search?q=Molina) | N/A |
 | 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 21 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 22 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
 | 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 24 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 25 | [Carli](http://twitter.com/search?q=Carli) | N/A |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 28 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 29 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 30 | [El Pardo](http://twitter.com/search?q=El+Pardo) | N/A |
-| 31 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 32 | [Don Antonio](http://twitter.com/search?q=Don+Antonio) | Don Antonio is a Spanish title of respect given to a man of high social standing. It is equivalent to the English title of "Sir" or "Mister". |
-| 33 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 34 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 35 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 36 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 37 | [Falla](http://twitter.com/search?q=Falla) | N/A |
-| 38 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 39 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 40 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 41 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 42 | [Chuletón](http://twitter.com/search?q=Chulet%c3%b3n) | N/A |
-| 43 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
-| 44 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 45 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 46 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 47 | [Noly](http://twitter.com/search?q=Noly) | N/A |
-| 48 | [Dejo Twitter](http://twitter.com/search?q=Dejo+Twitter) | N/A |
-| 49 | [Casa Real](http://twitter.com/search?q=Casa+Real) | N/A |
-| 50 | [Día de Betis](http://twitter.com/search?q=D%c3%ada+de+Betis) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Mario Martín](http://twitter.com/search?q=Mario+Mart%c3%adn) | N/A |
+| 26 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 27 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 28 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 30 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
+| 31 | [Don Antonio](http://twitter.com/search?q=Don+Antonio) | Don Antonio is a Spanish title of respect given to a man of high social standing. It is equivalent to the English title of "Sir" or "Mister". |
+| 32 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 33 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 34 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 35 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 36 | [disenso](http://twitter.com/search?q=disenso) | N/A |
+| 37 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
+| 38 | [Ley de Volcanes](http://twitter.com/search?q=Ley+de+Volcanes) | N/A |
+| 39 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 40 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 41 | [El Pardo](http://twitter.com/search?q=El+Pardo) | N/A |
+| 42 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 43 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 44 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 45 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 46 | [Dejo Twitter](http://twitter.com/search?q=Dejo+Twitter) | N/A |
+| 47 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 48 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 49 | [Chuletón](http://twitter.com/search?q=Chulet%c3%b3n) | N/A |
+| 50 | [Cesar Alonso](http://twitter.com/search?q=Cesar+Alonso) | N/A |
 
 
 

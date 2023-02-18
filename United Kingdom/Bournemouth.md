@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-18 10:16:26 UTC`
+📆 Last Updated: `2023-02-18 11:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 1 | [#BBCCricket](http://twitter.com/search?q=%23BBCCricket) | N/A |
 | 2 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 3 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 4 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 5 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
-| 6 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 7 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 8 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 11 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 13 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 14 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 16 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 17 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 18 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 19 | [Phil Gould](http://twitter.com/search?q=Phil+Gould) | N/A |
-| 20 | [WORLD CHAMPIONS](http://twitter.com/search?q=WORLD+CHAMPIONS) | N/A |
-| 21 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 22 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
-| 23 | [Sir Bobby](http://twitter.com/search?q=Sir+Bobby) | N/A |
-| 24 | [James Roby](http://twitter.com/search?q=James+Roby) | N/A |
-| 25 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
-| 26 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 27 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 3 | [#WorldClubChallenge](http://twitter.com/search?q=%23WorldClubChallenge) | N/A |
+| 4 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 5 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 8 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 9 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 10 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 11 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 16 | [World Club Champions](http://twitter.com/search?q=World+Club+Champions) | N/A |
+| 17 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 18 | [Sir Bobby](http://twitter.com/search?q=Sir+Bobby) | N/A |
+| 19 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 20 | [World Champions](http://twitter.com/search?q=World+Champions) | N/A |
+| 21 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 22 | [James Roby](http://twitter.com/search?q=James+Roby) | N/A |
+| 23 | [Phil Gould](http://twitter.com/search?q=Phil+Gould) | N/A |
+| 24 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 25 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 26 | [Daily Quordle 390](http://twitter.com/search?q=Daily+Quordle+390) | N/A |
+| 27 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
 | 28 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 29 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 30 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
-| 31 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 32 | [ASOS](http://twitter.com/search?q=ASOS) | N/A |
-| 33 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 34 | [Pic D'Orhy](http://twitter.com/search?q=Pic+D%27Orhy) | N/A |
-| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 29 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 30 | [ASOS](http://twitter.com/search?q=ASOS) | N/A |
+| 31 | [Ascot](http://twitter.com/search?q=Ascot) | N/A |
+| 32 | [Pic D'Orhy](http://twitter.com/search?q=Pic+D%27Orhy) | N/A |
+| 33 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 34 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 35 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
 | 36 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 37 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 38 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
-| 39 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 40 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 41 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
-| 42 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 43 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 44 | [#TwoFactorAuthentication](http://twitter.com/search?q=%23TwoFactorAuthentication) | N/A |
-| 45 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 46 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 37 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 38 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 39 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
+| 40 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 41 | [Fakir D'oudairies](http://twitter.com/search?q=Fakir+D%27oudairies) | N/A |
+| 42 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 43 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 44 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 45 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
+| 46 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 47 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 48 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
 
 
 

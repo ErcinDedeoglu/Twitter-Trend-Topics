@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-18 10:16:58 UTC`
+📆 Last Updated: `2023-02-18 11:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#매일_도겸이라서_218배_행복하다](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc_%eb%8f%84%ea%b2%b8%ec%9d%b4%eb%9d%bc%ec%84%9c_218%eb%b0%b0_%ed%96%89%eb%b3%b5%ed%95%98%eb%8b%a4) | N/A |
+| 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
 | 2 | [#ENHYPENon2022CCMA](http://twitter.com/search?q=%23ENHYPENon2022CCMA) | N/A |
-| 3 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
-| 4 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 5 | [ZACH CHARMS PANGASINAN](http://twitter.com/search?q=ZACH+CHARMS+PANGASINAN) | N/A |
-| 6 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
-| 7 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 8 | [#GirlOnFireTheBlazingFinale](http://twitter.com/search?q=%23GirlOnFireTheBlazingFinale) | N/A |
-| 9 | [#Fighting4thWin](http://twitter.com/search?q=%23Fighting4thWin) | N/A |
-| 10 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
-| 11 | [PAPAngMASA WITH ANJI](http://twitter.com/search?q=PAPAngMASA+WITH+ANJI) | N/A |
-| 12 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 3 | [#CullenFindMe](http://twitter.com/search?q=%23CullenFindMe) | N/A |
+| 4 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 5 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 6 | [Hot Performance of the Year](http://twitter.com/search?q=Hot+Performance+of+the+Year) | N/A |
+| 7 | [JAKE](http://twitter.com/search?q=JAKE) | N/A |
+| 8 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 9 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 10 | [#RegineSOLOday2](http://twitter.com/search?q=%23RegineSOLOday2) | N/A |
+| 11 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 12 | [#NAYEON](http://twitter.com/search?q=%23NAYEON) | N/A |
 | 13 | [Queen REGINE](http://twitter.com/search?q=Queen+REGINE) | N/A |
-| 14 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
-| 15 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 16 | [BSS FIGHTING AT CIRCLE CHART](http://twitter.com/search?q=BSS+FIGHTING+AT+CIRCLE+CHART) | N/A |
-| 17 | [KODREA AT ENCHANTED KINGDOM](http://twitter.com/search?q=KODREA+AT+ENCHANTED+KINGDOM) | N/A |
-| 18 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 19 | [Nica Santos](http://twitter.com/search?q=Nica+Santos) | N/A |
-| 20 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 21 | [Kaye](http://twitter.com/search?q=Kaye) | N/A |
-| 22 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 23 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 25 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
-| 26 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
-| 27 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 28 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 29 | [#BSS4thWin](http://twitter.com/search?q=%23BSS4thWin) | N/A |
-| 30 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
-| 31 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
-| 32 | [#BSS_RedCarpetCeremony](http://twitter.com/search?q=%23BSS_RedCarpetCeremony) | N/A |
-| 33 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 34 | [#ALAMATinPanagbenga2023](http://twitter.com/search?q=%23ALAMATinPanagbenga2023) | N/A |
-| 35 | [#CokeStudiosWithALAMAT](http://twitter.com/search?q=%23CokeStudiosWithALAMAT) | N/A |
-| 36 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
-| 37 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 38 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 39 | [#BOYCOTTEBxGMA710](http://twitter.com/search?q=%23BOYCOTTEBxGMA710) | N/A |
-| 40 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 14 | [MC HOON](http://twitter.com/search?q=MC+HOON) | N/A |
+| 15 | [ZACHAM CHOS3N BARKADA](http://twitter.com/search?q=ZACHAM+CHOS3N+BARKADA) | N/A |
+| 16 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
+| 17 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 18 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 19 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 20 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
+| 21 | [PAPAngMASA WITH ANJI](http://twitter.com/search?q=PAPAngMASA+WITH+ANJI) | N/A |
+| 22 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
+| 23 | [MELANIE](http://twitter.com/search?q=MELANIE) | N/A |
+| 24 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 25 | [BSS FIGHTING AT CIRCLE CHART](http://twitter.com/search?q=BSS+FIGHTING+AT+CIRCLE+CHART) | N/A |
+| 26 | [KODREA AT ENCHANTED KINGDOM](http://twitter.com/search?q=KODREA+AT+ENCHANTED+KINGDOM) | N/A |
+| 27 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
+| 28 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 29 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 30 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 31 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
+| 32 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 33 | [#RBSNiyomjeansxFreenBecky](http://twitter.com/search?q=%23RBSNiyomjeansxFreenBecky) | N/A |
+| 34 | [#MNL48onJapanFiestaD1](http://twitter.com/search?q=%23MNL48onJapanFiestaD1) | N/A |
+| 35 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
+| 36 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 37 | [#BSS4thWin](http://twitter.com/search?q=%23BSS4thWin) | N/A |
+| 38 | [#Fighting4thWin](http://twitter.com/search?q=%23Fighting4thWin) | N/A |
+| 39 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 40 | [#GirlOnFireTheBlazingFinale](http://twitter.com/search?q=%23GirlOnFireTheBlazingFinale) | N/A |
+| 41 | [#BSS_RedCarpetCeremony](http://twitter.com/search?q=%23BSS_RedCarpetCeremony) | N/A |
+| 42 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
+| 43 | [#ALAMATinPanagbenga2023](http://twitter.com/search?q=%23ALAMATinPanagbenga2023) | N/A |
+| 44 | [#CokeStudiosWithALAMAT](http://twitter.com/search?q=%23CokeStudiosWithALAMAT) | N/A |
+| 45 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 46 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 47 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 48 | [#BOYCOTTEBxGMA710](http://twitter.com/search?q=%23BOYCOTTEBxGMA710) | N/A |
+| 49 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
 
 
 

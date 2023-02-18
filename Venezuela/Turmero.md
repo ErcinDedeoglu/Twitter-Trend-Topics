@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-18 10:16:36 UTC`
+📆 Last Updated: `2023-02-18 11:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#17Feb](http://twitter.com/search?q=%2317Feb) | N/A |
+| 1 | [#17feb](http://twitter.com/search?q=%2317feb) | N/A |
 | 2 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
-| 3 | [#CarnavalesFelices2023](http://twitter.com/search?q=%23CarnavalesFelices2023) | N/A |
+| 3 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
 | 4 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 5 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
-| 6 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
-| 9 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 10 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
-| 11 | [Robotina](http://twitter.com/search?q=Robotina) | N/A |
-| 12 | [#felizviernesatodos](http://twitter.com/search?q=%23felizviernesatodos) | N/A |
-| 13 | [robert pérez](http://twitter.com/search?q=robert+p%c3%a9rez) | N/A |
-| 14 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
-| 15 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 16 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 17 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 18 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
-| 19 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 20 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 21 | [Viernes Negro](http://twitter.com/search?q=Viernes+Negro) | N/A |
-| 22 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
-| 23 | [luis britto garcía](http://twitter.com/search?q=luis+britto+garc%c3%ada) | N/A |
-| 24 | [Guayana Esequiba](http://twitter.com/search?q=Guayana+Esequiba) | N/A |
-| 25 | [jesús farías](http://twitter.com/search?q=jes%c3%bas+far%c3%adas) | N/A |
-| 26 | [luis vicente león](http://twitter.com/search?q=luis+vicente+le%c3%b3n) | N/A |
-| 27 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
-| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 29 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
-| 30 | [Mork](http://twitter.com/search?q=Mork) | N/A |
-| 31 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 5 | [#CarnavalesFelices2023](http://twitter.com/search?q=%23CarnavalesFelices2023) | N/A |
+| 6 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 7 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
+| 10 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 11 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 12 | [Alex Herrera](http://twitter.com/search?q=Alex+Herrera) | N/A |
+| 13 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 14 | [robotina](http://twitter.com/search?q=robotina) | N/A |
+| 15 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
+| 16 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 17 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 18 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
+| 19 | [Viernes Negro](http://twitter.com/search?q=Viernes+Negro) | N/A |
+| 20 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 21 | [Germán Márquez](http://twitter.com/search?q=Germ%c3%a1n+M%c3%a1rquez) | N/A |
+| 22 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 23 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 24 | [Kunta Kinte](http://twitter.com/search?q=Kunta+Kinte) | N/A |
+| 25 | [luis britto garcía](http://twitter.com/search?q=luis+britto+garc%c3%ada) | N/A |
+| 26 | [guayana esequiba](http://twitter.com/search?q=guayana+esequiba) | N/A |
+| 27 | [jesús farías](http://twitter.com/search?q=jes%c3%bas+far%c3%adas) | N/A |
+| 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 29 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
+| 30 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 31 | [Mork](http://twitter.com/search?q=Mork) | N/A |
 | 32 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
 | 33 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 34 | [paz y soberanía](http://twitter.com/search?q=paz+y+soberan%c3%ada) | N/A |
 | 35 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 36 | [BOSTON RIVER](http://twitter.com/search?q=BOSTON+RIVER) | N/A |
-| 37 | [MARCOS ALONSO](http://twitter.com/search?q=MARCOS+ALONSO) | N/A |
-| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 39 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
+| 36 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
+| 37 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 38 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
+| 39 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 | 40 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
 | 41 | [academia puerto cabello](http://twitter.com/search?q=academia+puerto+cabello) | N/A |
-| 42 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 43 | [alí primera](http://twitter.com/search?q=al%c3%ad+primera) | N/A |
-| 44 | [130 Bs](http://twitter.com/search?q=130+Bs) | N/A |
-| 45 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
-| 46 | [Metras](http://twitter.com/search?q=Metras) | N/A |
-| 47 | [bendición divina](http://twitter.com/search?q=bendici%c3%b3n+divina) | N/A |
-| 48 | [datanalisis](http://twitter.com/search?q=datanalisis) | N/A |
-| 49 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 42 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
+| 43 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 44 | [Copei](http://twitter.com/search?q=Copei) | N/A |
+| 45 | [alí primera](http://twitter.com/search?q=al%c3%ad+primera) | N/A |
+| 46 | [130 Bs](http://twitter.com/search?q=130+Bs) | N/A |
+| 47 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
+| 48 | [metras](http://twitter.com/search?q=metras) | N/A |
+| 49 | [bendición divina](http://twitter.com/search?q=bendici%c3%b3n+divina) | N/A |
 
 
 
