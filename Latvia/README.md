@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-18 22:22:46 UTC`
+📆 Last Updated: `2023-02-18 23:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,26 +28,26 @@ This is top 50 for Latvia
 | 11 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 12 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
 | 13 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
-| 14 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 14 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 15 | [beidz](http://twitter.com/search?q=beidz) | N/A |
-| 16 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 17 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 18 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 21 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
-| 22 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 23 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 16 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 17 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
+| 18 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 19 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
+| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 21 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 22 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 23 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 24 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 25 | [Piemēram](http://twitter.com/search?q=Piem%c4%93ram) | N/A |
-| 26 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 27 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 28 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 29 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
-| 30 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 31 | [Izraēlas](http://twitter.com/search?q=Izra%c4%93las) | N/A |
+| 26 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 27 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 28 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
+| 29 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
+| 30 | [Izraēlas](http://twitter.com/search?q=Izra%c4%93las) | N/A |
+| 31 | [#comedy](http://twitter.com/search?q=%23comedy) | N/A |
 | 32 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 33 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 33 | [Labi](http://twitter.com/search?q=Labi) | N/A |
 | 34 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
 | 35 | [Runa](http://twitter.com/search?q=Runa) | N/A |
 | 36 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |

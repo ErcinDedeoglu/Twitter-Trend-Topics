@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-02-18 22:22:36 UTC`
+📆 Last Updated: `2023-02-18 23:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 2 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 3 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 1 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
+| 2 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 3 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
 | 4 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 5 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 6 | [Keyonte George](http://twitter.com/search?q=Keyonte+George) | N/A |
-| 7 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [ARCA](http://twitter.com/search?q=ARCA) | N/A |
-| 10 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 11 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
-| 12 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 13 | [Lins](http://twitter.com/search?q=Lins) | N/A |
-| 14 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
-| 15 | [Greg Van Alst](http://twitter.com/search?q=Greg+Van+Alst) | N/A |
-| 16 | [AJ Fletcher](http://twitter.com/search?q=AJ+Fletcher) | N/A |
-| 17 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 18 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
-| 19 | [Clayton Carpenter](http://twitter.com/search?q=Clayton+Carpenter) | N/A |
-| 20 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
-| 21 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
-| 22 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 23 | [DeBrusk](http://twitter.com/search?q=DeBrusk) | DeBrusk is a surname of French origin. It is derived from the Old French word "debrusque", which means "harsh" or "rough". |
-| 24 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 26 | [Jeff Badet](http://twitter.com/search?q=Jeff+Badet) | N/A |
-| 27 | [Rosalynn](http://twitter.com/search?q=Rosalynn) | N/A |
-| 28 | [Jalen Graham](http://twitter.com/search?q=Jalen+Graham) | N/A |
-| 29 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 30 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 32 | [Kissinger](http://twitter.com/search?q=Kissinger) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 35 | [Lipsey](http://twitter.com/search?q=Lipsey) | N/A |
-| 36 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 37 | [Frankie Muniz](http://twitter.com/search?q=Frankie+Muniz) | N/A |
-| 38 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 39 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 40 | [Vic Beasley](http://twitter.com/search?q=Vic+Beasley) | N/A |
-| 41 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 44 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
-| 45 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 46 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 47 | [Cryer](http://twitter.com/search?q=Cryer) | N/A |
-| 48 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
-| 49 | [Bob Stoops](http://twitter.com/search?q=Bob+Stoops) | N/A |
+| 5 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 6 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 7 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 8 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 9 | [Keyonte George](http://twitter.com/search?q=Keyonte+George) | N/A |
+| 10 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [Emmers](http://twitter.com/search?q=Emmers) | N/A |
+| 13 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
+| 14 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 15 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
+| 16 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
+| 17 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
+| 18 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 19 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 20 | [ARCA](http://twitter.com/search?q=ARCA) | N/A |
+| 21 | [Lins](http://twitter.com/search?q=Lins) | N/A |
+| 22 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
+| 23 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 24 | [Greg Van Alst](http://twitter.com/search?q=Greg+Van+Alst) | N/A |
+| 25 | [Askhabov](http://twitter.com/search?q=Askhabov) | N/A |
+| 26 | [DeBrusk](http://twitter.com/search?q=DeBrusk) | DeBrusk is a surname of French origin. It is derived from the Old French word "debrusque", which means "harsh" or "rough". |
+| 27 | [Scott Drew](http://twitter.com/search?q=Scott+Drew) | N/A |
+| 28 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
+| 29 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 30 | [AJ Fletcher](http://twitter.com/search?q=AJ+Fletcher) | N/A |
+| 31 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 32 | [UNCLE NICK](http://twitter.com/search?q=UNCLE+NICK) | N/A |
+| 33 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 34 | [Rosalynn](http://twitter.com/search?q=Rosalynn) | N/A |
+| 35 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 36 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 38 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 39 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 40 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 41 | [Bob Stoops](http://twitter.com/search?q=Bob+Stoops) | N/A |
+| 42 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 43 | [Jalen Graham](http://twitter.com/search?q=Jalen+Graham) | N/A |
+| 44 | [Vic Beasley](http://twitter.com/search?q=Vic+Beasley) | N/A |
+| 45 | [Clayton Carpenter](http://twitter.com/search?q=Clayton+Carpenter) | N/A |
+| 46 | [Grambling](http://twitter.com/search?q=Grambling) | N/A |
+| 47 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 48 | [Jeff Badet](http://twitter.com/search?q=Jeff+Badet) | N/A |
+| 49 | [Plains](http://twitter.com/search?q=Plains) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-18 22:22:16 UTC`
+📆 Last Updated: `2023-02-18 23:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 5 | [danamon](http://twitter.com/search?q=danamon) | N/A |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 7 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 8 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
 | 9 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 13 | [Emi Martinez](http://twitter.com/search?q=Emi+Martinez) | N/A |
-| 14 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 15 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 17 | [iims 2023](http://twitter.com/search?q=iims+2023) | N/A |
-| 18 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 19 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 20 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 21 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 22 | [2023 m](http://twitter.com/search?q=2023+m) | N/A |
-| 23 | [ria sw](http://twitter.com/search?q=ria+sw) | N/A |
-| 24 | [27 Rajab 1444 H](http://twitter.com/search?q=27+Rajab+1444+H) | N/A |
-| 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 26 | [d-bank pro](http://twitter.com/search?q=d-bank+pro) | N/A |
-| 27 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 29 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 32 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 13 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 14 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [iims 2023](http://twitter.com/search?q=iims+2023) | N/A |
+| 17 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 19 | [2023 m](http://twitter.com/search?q=2023+m) | N/A |
+| 20 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 21 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 22 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
+| 23 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 25 | [d-bank pro](http://twitter.com/search?q=d-bank+pro) | N/A |
+| 26 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 28 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 30 | [27 RAJAB 1444 H](http://twitter.com/search?q=27+RAJAB+1444+H) | N/A |
+| 31 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 32 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
+| 33 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
 | 34 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 35 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 36 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
-| 37 | [SEND MY SONG TO BUILD](http://twitter.com/search?q=SEND+MY+SONG+TO+BUILD) | N/A |
-| 38 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
-| 39 | [kartu debit](http://twitter.com/search?q=kartu+debit) | N/A |
-| 40 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 41 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
-| 42 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 43 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 44 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
-| 45 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 46 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 47 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
-| 48 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 35 | [kartu debit](http://twitter.com/search?q=kartu+debit) | N/A |
+| 36 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 37 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 38 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
+| 39 | [nomin jaya jaya jaya](http://twitter.com/search?q=nomin+jaya+jaya+jaya) | N/A |
+| 40 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 44 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 45 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
+| 46 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 47 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 48 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
 
 
 

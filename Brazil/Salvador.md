@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-18 22:22:06 UTC`
+📆 Last Updated: `2023-02-18 23:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 2 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 3 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 4 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 2 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 3 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 4 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
 | 5 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 6 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 7 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 8 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 9 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
-| 10 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 11 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 12 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 13 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
-| 14 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 15 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 16 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
-| 17 | [Rever](http://twitter.com/search?q=Rever) | N/A |
-| 18 | [#LaLigaNaESPN](http://twitter.com/search?q=%23LaLigaNaESPN) | N/A |
-| 19 | [Cuiabano](http://twitter.com/search?q=Cuiabano) | N/A |
-| 20 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 21 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 22 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
-| 23 | [#bahiafolia](http://twitter.com/search?q=%23bahiafolia) | N/A |
-| 24 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 25 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 26 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
-| 27 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 28 | [São Luiz](http://twitter.com/search?q=S%c3%a3o+Luiz) | São Luiz is a city in Brazil. It is the capital of the state of Maranhão and is located on the island of São Luiz do Maranhão. The name São Luiz means "Saint Louis" in English. |
-| 29 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
-| 30 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
-| 31 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 32 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
-| 33 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 34 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 35 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 36 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
-| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 38 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 40 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 41 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
-| 42 | [Mori](http://twitter.com/search?q=Mori) | N/A |
-| 43 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 44 | [Grell](http://twitter.com/search?q=Grell) | N/A |
-| 45 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 46 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 47 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 48 | [Thiago Lopes](http://twitter.com/search?q=Thiago+Lopes) | Thiago Lopes is a Portuguese name. It is derived from the Latin name Thiagus, which means "beloved". In English, it can be translated to mean "beloved one". |
-| 49 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 50 | [Natã](http://twitter.com/search?q=Nat%c3%a3) | N/A |
+| 6 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 7 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 8 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 9 | [Gibagol](http://twitter.com/search?q=Gibagol) | N/A |
+| 10 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
+| 11 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
+| 12 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 13 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 14 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 16 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 17 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 18 | [Wallison](http://twitter.com/search?q=Wallison) | N/A |
+| 19 | [#LaLigaNaESPN](http://twitter.com/search?q=%23LaLigaNaESPN) | N/A |
+| 20 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 21 | [#bahiafolia](http://twitter.com/search?q=%23bahiafolia) | N/A |
+| 22 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 23 | [O Hulk](http://twitter.com/search?q=O+Hulk) | N/A |
+| 24 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 25 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 26 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 27 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 28 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 29 | [Rever](http://twitter.com/search?q=Rever) | N/A |
+| 30 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 31 | [Cuiabano](http://twitter.com/search?q=Cuiabano) | N/A |
+| 32 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 33 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
+| 34 | [São Luiz](http://twitter.com/search?q=S%c3%a3o+Luiz) | São Luiz is a city in Brazil. It is the capital of the state of Maranhão and is located on the island of São Luiz do Maranhão. The name São Luiz means "Saint Louis" in English. |
+| 35 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 36 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 37 | [Lorran](http://twitter.com/search?q=Lorran) | Lorran is a name of French origin. It is derived from the Latin name Laurentius, which means "from Laurentum". The name is often given to boys and can be translated to mean "crowned with laurels". |
+| 38 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
+| 39 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 40 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 41 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 42 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 43 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
+| 44 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 45 | [Mori](http://twitter.com/search?q=Mori) | N/A |
+| 46 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 47 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 48 | [madelyn](http://twitter.com/search?q=madelyn) | Madelyn is a feminine given name of English origin. It is derived from the combination of the names Madeline and Lynn. The name means "woman from Magdala" or "high tower". |
+| 49 | [Villa Nova](http://twitter.com/search?q=Villa+Nova) | N/A |
+| 50 | [Neris](http://twitter.com/search?q=Neris) | N/A |
 
 
 
