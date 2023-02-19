@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-19 18:17:03 UTC`
+📆 Last Updated: `2023-02-19 19:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 1 | [#HornsForward](http://twitter.com/search?q=%23HornsForward) | N/A |
 | 2 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
 | 3 | [#ECNLHOU](http://twitter.com/search?q=%23ECNLHOU) | N/A |
-| 4 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 5 | [#Oxai](http://twitter.com/search?q=%23Oxai) | N/A |
-| 6 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 7 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 8 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 4 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 5 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 6 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 7 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 8 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 9 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 10 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 11 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 12 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 13 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
-| 14 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 17 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 18 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 19 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 20 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
-| 21 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 22 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
-| 23 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 24 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 25 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
-| 26 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 27 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 28 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 29 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 30 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 31 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 32 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 33 | [Japanese Americans](http://twitter.com/search?q=Japanese+Americans) | N/A |
-| 34 | [Yurt](http://twitter.com/search?q=Yurt) | N/A |
-| 35 | [Executive Order 9066](http://twitter.com/search?q=Executive+Order+9066) | N/A |
-| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 37 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 38 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 40 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 41 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
-| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 43 | [Welcome to Miami](http://twitter.com/search?q=Welcome+to+Miami) | N/A |
-| 44 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 45 | [Grilled](http://twitter.com/search?q=Grilled) | N/A |
-| 46 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 49 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 50 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 11 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 12 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 13 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 14 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 16 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 17 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
+| 18 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
+| 19 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 20 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 21 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 22 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 23 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 24 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 26 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 27 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
+| 28 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 29 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 30 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 31 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
+| 32 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
+| 33 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
+| 34 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
+| 35 | [Christopher Fitzgerald](http://twitter.com/search?q=Christopher+Fitzgerald) | N/A |
+| 36 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 37 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
+| 38 | [Executive Order 9066](http://twitter.com/search?q=Executive+Order+9066) | N/A |
+| 39 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 40 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
+| 41 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 42 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 43 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 44 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
+| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 46 | [Japanese Americans](http://twitter.com/search?q=Japanese+Americans) | N/A |
+| 47 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 48 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 49 | [Street](http://twitter.com/search?q=Street) | N/A |
+| 50 | [John Angelos](http://twitter.com/search?q=John+Angelos) | N/A |
 
 
 

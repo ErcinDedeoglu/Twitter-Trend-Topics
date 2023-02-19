@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-19 18:16:55 UTC`
+📆 Last Updated: `2023-02-19 19:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 5 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 6 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
 | 7 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 8 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 9 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 10 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 11 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 8 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 9 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 10 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 11 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
 | 12 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 13 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 14 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 15 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 18 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
-| 19 | [newshub](http://twitter.com/search?q=newshub) | N/A |
-| 20 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 21 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 23 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 24 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
-| 25 | [Richard Hills](http://twitter.com/search?q=Richard+Hills) | N/A |
-| 26 | [plunket](http://twitter.com/search?q=plunket) | N/A |
-| 27 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 28 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 29 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 30 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 31 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 32 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 33 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 36 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 37 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 38 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 39 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 40 | [Hoots](http://twitter.com/search?q=Hoots) | N/A |
-| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 42 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 43 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 45 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 46 | [Southland](http://twitter.com/search?q=Southland) | N/A |
-| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 48 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 13 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 17 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
+| 18 | [newshub](http://twitter.com/search?q=newshub) | N/A |
+| 19 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 20 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 21 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
+| 22 | [Richard Hills](http://twitter.com/search?q=Richard+Hills) | N/A |
+| 23 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 24 | [plunket](http://twitter.com/search?q=plunket) | N/A |
+| 25 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 26 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 27 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 28 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 29 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 31 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 32 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 33 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 34 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [Hoots](http://twitter.com/search?q=Hoots) | N/A |
+| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 38 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 39 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 40 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 41 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 44 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
+| 45 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 46 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 47 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 49 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 
 

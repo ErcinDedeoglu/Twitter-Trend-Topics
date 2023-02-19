@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-19 18:16:21 UTC`
+📆 Last Updated: `2023-02-19 19:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 2 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 4 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [TÃO PEQUENO](http://twitter.com/search?q=T%c3%83O+PEQUENO) | N/A |
-| 7 | [#larissaexpulsa](http://twitter.com/search?q=%23larissaexpulsa) | N/A |
-| 8 | [#Oxai](http://twitter.com/search?q=%23Oxai) | N/A |
-| 9 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 10 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 11 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 12 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
-| 13 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 14 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 15 | [tutu](http://twitter.com/search?q=tutu) | N/A |
-| 16 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 17 | [MEU TECLADO SO ESCREVE](http://twitter.com/search?q=MEU+TECLADO+SO+ESCREVE) | N/A |
-| 18 | [Tuyz](http://twitter.com/search?q=Tuyz) | N/A |
-| 19 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 20 | [Mamãe OG](http://twitter.com/search?q=Mam%c3%a3e+OG) | N/A |
-| 21 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 22 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 23 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
-| 24 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 25 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 26 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 27 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 28 | [CADE O FLAKES](http://twitter.com/search?q=CADE+O+FLAKES) | N/A |
-| 29 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 30 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 1 | [#TheMaskedSingerBrasil](http://twitter.com/search?q=%23TheMaskedSingerBrasil) | N/A |
+| 2 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 3 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 4 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 5 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 6 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 8 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 9 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 10 | [FLUXO NO RMR](http://twitter.com/search?q=FLUXO+NO+RMR) | N/A |
+| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [Marco Reus](http://twitter.com/search?q=Marco+Reus) | N/A |
+| 14 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 15 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 16 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 17 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 18 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
+| 19 | [TÃO PEQUENO](http://twitter.com/search?q=T%c3%83O+PEQUENO) | N/A |
+| 20 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 21 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 22 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 23 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 24 | [Crashies](http://twitter.com/search?q=Crashies) | N/A |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [tutu](http://twitter.com/search?q=tutu) | N/A |
+| 27 | [FLAMENGO CS NO MÉXICO](http://twitter.com/search?q=FLAMENGO+CS+NO+M%c3%89XICO) | N/A |
+| 28 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 29 | [Varus](http://twitter.com/search?q=Varus) | N/A |
+| 30 | [Tuyz](http://twitter.com/search?q=Tuyz) | N/A |
 | 31 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 32 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 33 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 35 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
-| 36 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 37 | [Varus](http://twitter.com/search?q=Varus) | N/A |
-| 38 | [Conca](http://twitter.com/search?q=Conca) | N/A |
-| 39 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 40 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 41 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 43 | [Couve](http://twitter.com/search?q=Couve) | N/A |
-| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 45 | [Hary](http://twitter.com/search?q=Hary) | N/A |
-| 46 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 47 | [Ai Papai](http://twitter.com/search?q=Ai+Papai) | N/A |
-| 48 | [Pina](http://twitter.com/search?q=Pina) | N/A |
-| 49 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 50 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 32 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
+| 33 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 34 | [CADE O FLAKES](http://twitter.com/search?q=CADE+O+FLAKES) | N/A |
+| 35 | [Split](http://twitter.com/search?q=Split) | N/A |
+| 36 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 37 | [Mamãe OG](http://twitter.com/search?q=Mam%c3%a3e+OG) | N/A |
+| 38 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
+| 39 | [Conca](http://twitter.com/search?q=Conca) | N/A |
+| 40 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 41 | [Santos x Portuguesa](http://twitter.com/search?q=Santos+x+Portuguesa) | N/A |
+| 42 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 44 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
+| 45 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 46 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 47 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 48 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
+| 49 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 50 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 
 
 

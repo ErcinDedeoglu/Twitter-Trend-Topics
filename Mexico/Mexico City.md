@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-19 18:16:15 UTC`
+📆 Last Updated: `2023-02-19 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 3 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
-| 4 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 5 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 8 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 9 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 10 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 11 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 12 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 13 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 14 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 15 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 18 | [Daniel Ríos](http://twitter.com/search?q=Daniel+R%c3%ados) | N/A |
-| 19 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 20 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 21 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 22 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
-| 23 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 25 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
-| 26 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 27 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 28 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 29 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 30 | [alex quackity](http://twitter.com/search?q=alex+quackity) | N/A |
-| 31 | [Kkami](http://twitter.com/search?q=Kkami) | N/A |
-| 32 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 33 | [YOONGI ROJITO](http://twitter.com/search?q=YOONGI+ROJITO) | N/A |
-| 34 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 35 | [Nacionalizó](http://twitter.com/search?q=Nacionaliz%c3%b3) | N/A |
-| 36 | [Iker Casillas](http://twitter.com/search?q=Iker+Casillas) | N/A |
-| 37 | [rodrigo aguirre](http://twitter.com/search?q=rodrigo+aguirre) | N/A |
-| 38 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 39 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
-| 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 41 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 42 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
-| 43 | [atlas vs tigres](http://twitter.com/search?q=atlas+vs+tigres) | N/A |
-| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 45 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 46 | [Pasta de Conchos](http://twitter.com/search?q=Pasta+de+Conchos) | N/A |
-| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 48 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 49 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 50 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 1 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 2 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 4 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
+| 5 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
+| 6 | [#Tamaulipas](http://twitter.com/search?q=%23Tamaulipas) | N/A |
+| 7 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 8 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
+| 9 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 10 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
+| 11 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 12 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 13 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 14 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 15 | [Pique](http://twitter.com/search?q=Pique) | N/A |
+| 16 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 17 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 18 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 19 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 21 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 22 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 23 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 25 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 26 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 27 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 28 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 29 | [#YoJuegoEnVLA](http://twitter.com/search?q=%23YoJuegoEnVLA) | N/A |
+| 30 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 31 | [#19deFebrero](http://twitter.com/search?q=%2319deFebrero) | N/A |
+| 32 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
+| 33 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 34 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 35 | [#AmloFracasoPresidencial](http://twitter.com/search?q=%23AmloFracasoPresidencial) | N/A |
+| 36 | [#MORENAEsUnASCO](http://twitter.com/search?q=%23MORENAEsUnASCO) | N/A |
+| 37 | [#YoDefiendoAlINE26deFebrero](http://twitter.com/search?q=%23YoDefiendoAlINE26deFebrero) | N/A |
 
 
 

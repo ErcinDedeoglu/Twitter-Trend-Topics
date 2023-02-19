@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-19 18:16:55 UTC`
+📆 Last Updated: `2023-02-19 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
-| 2 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 3 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
-| 6 | [#Oxai](http://twitter.com/search?q=%23Oxai) | N/A |
-| 7 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
-| 8 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 9 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
-| 10 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 11 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 12 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 13 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 14 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 15 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 16 | [Çakmadır](http://twitter.com/search?q=%c3%87akmad%c4%b1r) | N/A |
-| 17 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
+| 1 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 2 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
+| 3 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
+| 4 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 5 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
+| 6 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 7 | [Neyledim](http://twitter.com/search?q=Neyledim) | N/A |
+| 8 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
+| 9 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 10 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
+| 11 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 12 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 13 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
+| 14 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 15 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
+| 16 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 17 | [Çakmadır](http://twitter.com/search?q=%c3%87akmad%c4%b1r) | N/A |
 | 18 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
-| 19 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
-| 20 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
-| 21 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 22 | [İyi Akşamlar](http://twitter.com/search?q=%c4%b0yi+Ak%c5%9famlar) | N/A |
-| 23 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 24 | [Kur'an](http://twitter.com/search?q=Kur%27an) | N/A |
-| 25 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 19 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 20 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 21 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
+| 22 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
+| 23 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
+| 24 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 25 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
 | 26 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 27 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
-| 30 | [Tevrat](http://twitter.com/search?q=Tevrat) | N/A |
-| 31 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
-| 32 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
-| 33 | [Aralık](http://twitter.com/search?q=Aral%c4%b1k) | Aralık is a Turkish word meaning "December". |
-| 34 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
-| 35 | [Nasip](http://twitter.com/search?q=Nasip) | N/A |
-| 36 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
-| 37 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 38 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 39 | [Nası](http://twitter.com/search?q=Nas%c4%b1) | N/A |
-| 40 | [Tolga](http://twitter.com/search?q=Tolga) | N/A |
-| 41 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 42 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
-| 43 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
-| 44 | [#ahaber](http://twitter.com/search?q=%23ahaber) | N/A |
-| 45 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
-| 46 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
-| 47 | [#MebOhalTayiniHaktır](http://twitter.com/search?q=%23MebOhalTayiniHakt%c4%b1r) | N/A |
-| 48 | [#FıratYılmazCAKIROĞLU](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmazCAKIRO%c4%9eLU) | N/A |
-| 49 | [#EYTERTELENEMEZ](http://twitter.com/search?q=%23EYTERTELENEMEZ) | N/A |
-| 50 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 27 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 28 | [İyi Akşamlar](http://twitter.com/search?q=%c4%b0yi+Ak%c5%9famlar) | N/A |
+| 29 | [Kur'an](http://twitter.com/search?q=Kur%27an) | N/A |
+| 30 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 31 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 35 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 36 | [Nasip](http://twitter.com/search?q=Nasip) | N/A |
+| 37 | [Aralık](http://twitter.com/search?q=Aral%c4%b1k) | Aralık is a Turkish word meaning "December". |
+| 38 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 39 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
+| 40 | [Cemal Süreya](http://twitter.com/search?q=Cemal+S%c3%bcreya) | N/A |
+| 41 | [Nazım Hikmet](http://twitter.com/search?q=Naz%c4%b1m+Hikmet) | N/A |
+| 42 | [İsrailli](http://twitter.com/search?q=%c4%b0srailli) | N/A |
+| 43 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 44 | [Tevrat](http://twitter.com/search?q=Tevrat) | N/A |
+| 45 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 46 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
+| 47 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
+| 48 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
+| 49 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 50 | [#TekAdamlıkEnkazdaKaldı](http://twitter.com/search?q=%23TekAdaml%c4%b1kEnkazdaKald%c4%b1) | N/A |
 
 
 

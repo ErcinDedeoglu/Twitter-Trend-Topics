@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-19 18:16:46 UTC`
+📆 Last Updated: `2023-02-19 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_التاسيس2023](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b32023) | N/A |
-| 2 | [#السعوديه_بخدمه_ضيوف_الرحمن](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a8%d8%ae%d8%af%d9%85%d9%87_%d8%b6%d9%8a%d9%88%d9%81_%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
-| 3 | [#البزنس75](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b375) | N/A |
-| 4 | [#الدحيل_الريان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%86) | N/A |
-| 5 | [#الشباب_ناساف](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d9%86%d8%a7%d8%b3%d8%a7%d9%81) | N/A |
-| 6 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 7 | [ايمرسون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 8 | [محمد سراج](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b1%d8%a7%d8%ac) | N/A |
-| 9 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
-| 10 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 11 | [المراكز الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%83%d8%b2+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
-| 12 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 13 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 14 | [موسي الفيفي](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d9%81%d9%8a%d9%81%d9%8a) | N/A |
-| 15 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 16 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
-| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 18 | [كارلوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88%d8%b3) | كارلوس is a male given name of Greek origin. It is derived from the name Καρλος (Karlos), which is a form of the Latin name Carolus, meaning "manly". In English, it is usually translated as "Charles". |
-| 19 | [الدوله السعوديه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 20 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
-| 21 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 22 | [ليونيل](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86%d9%8a%d9%84) | N/A |
-| 23 | [سلمان الفرج](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%b1%d8%ac) | سلمان الفرج is an Arabic phrase meaning "Solomon the Liberator". It is a reference to the biblical figure of King Solomon, who was known for his wisdom and justice. |
-| 24 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 25 | [المانيو](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%88) | N/A |
-| 26 | [الجهاز الطبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a) | الجهاز الطبي is a medical device in Arabic. In English, it means medical equipment or medical instrument. |
-| 27 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 28 | [الحضور الجماهيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a) | N/A |
-| 29 | [#المهم_بهاج_الاكلبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%87%d9%85_%d8%a8%d9%87%d8%a7%d8%ac_%d8%a7%d9%84%d8%a7%d9%83%d9%84%d8%a8%d9%8a) | N/A |
-| 30 | [#من_القلب_للقلب](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%82%d9%84%d8%a8_%d9%84%d9%84%d9%82%d9%84%d8%a8) | N/A |
-| 31 | [#دوري_ابطال_اسيا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 32 | [#بدايتنا_الاساس](http://twitter.com/search?q=%23%d8%a8%d8%af%d8%a7%d9%8a%d8%aa%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
-| 33 | [#يوم_التاسيس_عز_وفخر](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
-| 34 | [#بن_نافل_خط_احمر](http://twitter.com/search?q=%23%d8%a8%d9%86_%d9%86%d8%a7%d9%81%d9%84_%d8%ae%d8%b7_%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 35 | [#مسلسل_لغز_بابل22](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%84%d8%ba%d8%b2_%d8%a8%d8%a7%d8%a8%d9%8422) | N/A |
-| 36 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 37 | [#زد_رصيدك27](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8327) | N/A |
-| 38 | [#الحياه_الزوجيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87_%d8%a7%d9%84%d8%b2%d9%88%d8%ac%d9%8a%d9%87) | N/A |
-| 39 | [#الناس_والليل36](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%a7%d8%b3_%d9%88%d8%a7%d9%84%d9%84%d9%8a%d9%8436) | N/A |
-| 40 | [#اين_اختفي_حضور_جمهور_الاتحاد٢](http://twitter.com/search?q=%23%d8%a7%d9%8a%d9%86_%d8%a7%d8%ae%d8%aa%d9%81%d9%8a_%d8%ad%d8%b6%d9%88%d8%b1_%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%a2) | N/A |
-| 41 | [#يلا_شباب](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 42 | [#عايد_الرشيدي](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%8a%d8%af_%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 43 | [#نعم_للاجانب_النخبه](http://twitter.com/search?q=%23%d9%86%d8%b9%d9%85_%d9%84%d9%84%d8%a7%d8%ac%d8%a7%d9%86%d8%a8_%d8%a7%d9%84%d9%86%d8%ae%d8%a8%d9%87) | N/A |
-| 44 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 45 | [#بوح_المشاعر](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b9%d8%b1) | N/A |
-| 46 | [#MobilyPay](http://twitter.com/search?q=%23MobilyPay) | N/A |
-| 47 | [#بندر_بن_سلطان](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%af%d8%b1_%d8%a8%d9%86_%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 48 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 49 | [#وزاره_الصحه](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
-| 50 | [#باريس_ليل](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3_%d9%84%d9%8a%d9%84) | N/A |
+| 2 | [#الشباب_ناساف](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d9%86%d8%a7%d8%b3%d8%a7%d9%81) | N/A |
+| 3 | [#للفخامه_روادها](http://twitter.com/search?q=%23%d9%84%d9%84%d9%81%d8%ae%d8%a7%d9%85%d9%87_%d8%b1%d9%88%d8%a7%d8%af%d9%87%d8%a7) | N/A |
+| 4 | [#المهم_بهاج_الاكلبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%87%d9%85_%d8%a8%d9%87%d8%a7%d8%ac_%d8%a7%d9%84%d8%a7%d9%83%d9%84%d8%a8%d9%8a) | N/A |
+| 5 | [#السعوديه_بخدمه_ضيوف_الرحمن](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a8%d8%ae%d8%af%d9%85%d9%87_%d8%b6%d9%8a%d9%88%d9%81_%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
+| 6 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
+| 7 | [حسين القحطاني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 8 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 9 | [حسان](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%86) | N/A |
+| 10 | [نادر الشراري](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%b1%d9%8a) | N/A |
+| 11 | [هتان](http://twitter.com/search?q=%d9%87%d8%aa%d8%a7%d9%86) | هتان is an Arabic word that means "two". |
+| 12 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 13 | [محمد سراج](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b1%d8%a7%d8%ac) | N/A |
+| 14 | [ايمرسون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d8%b3%d9%88%d9%86) | N/A |
+| 15 | [بيرين](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 16 | [متعب الحربي](http://twitter.com/search?q=%d9%85%d8%aa%d8%b9%d8%a8+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | متعب الحربي is an Arabic phrase that translates to "war-weary" in English. It is used to describe someone who is exhausted from the hardships of war. |
+| 17 | [تمبكتي](http://twitter.com/search?q=%d8%aa%d9%85%d8%a8%d9%83%d8%aa%d9%8a) | تمبكتي is an Arabic word that translates to "tambourine" in English. It is a percussion instrument consisting of a frame with metal discs or jingles attached to it. |
+| 18 | [الفريق الاوزبكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b2%d8%a8%d9%83%d9%8a) | N/A |
+| 19 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 20 | [كارلوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88%d8%b3) | كارلوس is a male given name of Greek origin. It is derived from the name Καρλος (Karlos), which is a form of the Latin name Carolus, meaning "manly". In English, it is usually translated as "Charles". |
+| 21 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
+| 22 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
+| 23 | [موبايلي باي](http://twitter.com/search?q=%d9%85%d9%88%d8%a8%d8%a7%d9%8a%d9%84%d9%8a+%d8%a8%d8%a7%d9%8a) | N/A |
+| 24 | [بابلو توري](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d9%84%d9%88+%d8%aa%d9%88%d8%b1%d9%8a) | N/A |
+| 25 | [ابو كاتم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%83%d8%a7%d8%aa%d9%85) | ابو كاتم is an Arabic phrase that translates to "Father of Silence". It is used to refer to someone who is quiet and introspective. |
+| 26 | [غريزمان](http://twitter.com/search?q=%d8%ba%d8%b1%d9%8a%d8%b2%d9%85%d8%a7%d9%86) | N/A |
+| 27 | [ابو قحط](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%82%d8%ad%d8%b7) | N/A |
+| 28 | [المراكز الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%83%d8%b2+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
+| 29 | [دي ماريا](http://twitter.com/search?q=%d8%af%d9%8a+%d9%85%d8%a7%d8%b1%d9%8a%d8%a7) | N/A |
+| 30 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 31 | [موسى الفيفي](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89+%d8%a7%d9%84%d9%81%d9%8a%d9%81%d9%8a) | N/A |
+| 32 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 33 | [الدوله السعوديه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 34 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 35 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 36 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 37 | [مورينو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 38 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 39 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 40 | [سلمان الفرج](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%b1%d8%ac) | سلمان الفرج is an Arabic phrase meaning "Solomon the Liberator". It is a reference to the biblical figure of King Solomon, who was known for his wisdom and justice. |
+| 41 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 42 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 43 | [الحضور الجماهيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a) | N/A |
+| 44 | [#البزنس75](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b375) | N/A |
+| 45 | [#من_القلب_للقلب](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%82%d9%84%d8%a8_%d9%84%d9%84%d9%82%d9%84%d8%a8) | N/A |
+| 46 | [#الدحيل_الريان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%86) | N/A |
+| 47 | [#دوري_ابطال_اسيا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 48 | [#بن_نافل_خط_احمر](http://twitter.com/search?q=%23%d8%a8%d9%86_%d9%86%d8%a7%d9%81%d9%84_%d8%ae%d8%b7_%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 49 | [#زد_رصيدك27](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8327) | N/A |
+| 50 | [#الناس_والليل36](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%a7%d8%b3_%d9%88%d8%a7%d9%84%d9%84%d9%8a%d9%8436) | N/A |
 
 
 

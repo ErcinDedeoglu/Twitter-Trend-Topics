@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-19 18:16:38 UTC`
+📆 Last Updated: `2023-02-19 19:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [太陽のトマト麺](http://twitter.com/search?q=%e5%a4%aa%e9%99%bd%e3%81%ae%e3%83%88%e3%83%9e%e3%83%88%e9%ba%ba) | N/A |
-| 2 | [市場急拡大](http://twitter.com/search?q=%e5%b8%82%e5%a0%b4%e6%80%a5%e6%8b%a1%e5%a4%a7) | N/A |
-| 3 | [#Lovemusic](http://twitter.com/search?q=%23Lovemusic) | N/A |
-| 4 | [#便利屋斎藤さん](http://twitter.com/search?q=%23%e4%be%bf%e5%88%a9%e5%b1%8b%e6%96%8e%e8%97%a4%e3%81%95%e3%82%93) | N/A |
-| 5 | [ヒット祈願](http://twitter.com/search?q=%e3%83%92%e3%83%83%e3%83%88%e7%a5%88%e9%a1%98) | N/A |
-| 6 | [ヴェグホルスト](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%82%b0%e3%83%9b%e3%83%ab%e3%82%b9%e3%83%88) | N/A |
-| 7 | [優木せつ菜](http://twitter.com/search?q=%e5%84%aa%e6%9c%a8%e3%81%9b%e3%81%a4%e8%8f%9c) | N/A |
-| 8 | [セラフィム](http://twitter.com/search?q=%e3%82%bb%e3%83%a9%e3%83%95%e3%82%a3%e3%83%a0) | N/A |
-| 9 | [We are STARS](http://twitter.com/search?q=We+are+STARS) | N/A |
-| 10 | [Wake up my music](http://twitter.com/search?q=Wake+up+my+music) | N/A |
-| 11 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
-| 12 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
-| 13 | [#魂のラジオ](http://twitter.com/search?q=%23%e9%ad%82%e3%81%ae%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 14 | [Wセンター](http://twitter.com/search?q=W%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 15 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
-| 16 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
-| 17 | [エメルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%ab%e3%82%bd%e3%83%b3) | エメルソン (Emerson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand is known for its use of bright colors and bold designs, as well as its focus on comfort and quality. In English, the name Emerson means "son of Emery", which is derived from the Old German name Emmerich. |
-| 18 | [アンダー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 19 | [選抜入り](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e5%85%a5%e3%82%8a) | N/A |
-| 20 | [ダブルセンター](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 21 | [第395回](http://twitter.com/search?q=%e7%ac%ac395%e5%9b%9e) | N/A |
-| 22 | [常闇くん](http://twitter.com/search?q=%e5%b8%b8%e9%97%87%e3%81%8f%e3%82%93) | N/A |
-| 23 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
-| 24 | [璃果ちゃん](http://twitter.com/search?q=%e7%92%83%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 25 | [五百城ちゃん](http://twitter.com/search?q=%e4%ba%94%e7%99%be%e5%9f%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [りかちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [ヒロアカ本誌](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%ac%e8%aa%8c) | N/A |
-| 28 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 29 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 30 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 31 | [ラッシュフォード](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | ラッシュフォード (Rashford) is the surname of English professional footballer Marcus Rashford. He currently plays for Manchester United and the England national team. The name is derived from an Old English word meaning "from the rushes" or "from the marshland". |
-| 32 | [バッファローマン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 33 | [美佑ちゃん](http://twitter.com/search?q=%e7%be%8e%e4%bd%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [大河女優](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%a5%b3%e5%84%aa) | N/A |
-| 35 | [バイバイク](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e3%82%af) | N/A |
-| 36 | [ダブセン](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%82%bb%e3%83%b3) | N/A |
-| 37 | [ヤンマガ](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e3%82%ac) | N/A |
-| 38 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 39 | [リッチー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%83%81%e3%83%bc) | N/A |
-| 40 | [松尾ちゃん](http://twitter.com/search?q=%e6%9d%be%e5%b0%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [オルンガ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%b3%e3%82%ac) | N/A |
-| 42 | [パズドラ11周年](http://twitter.com/search?q=%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
-| 43 | [未来の答え](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
-| 44 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
-| 45 | [選抜落ち](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e8%90%bd%e3%81%a1) | N/A |
-| 46 | [ハジマリノウタ](http://twitter.com/search?q=%e3%83%8f%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%a6%e3%82%bf) | N/A |
-| 47 | [ヤニねこ](http://twitter.com/search?q=%e3%83%a4%e3%83%8b%e3%81%ad%e3%81%93) | N/A |
-| 48 | [人造人間100](http://twitter.com/search?q=%e4%ba%ba%e9%80%a0%e4%ba%ba%e9%96%93100) | N/A |
-| 49 | [ラブラバ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%83%90) | ラブラバ is a Japanese phrase that translates to "love love". It is often used as an expression of affection or endearment. |
-| 50 | [パレデス](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%87%e3%82%b9) | N/A |
+| 2 | [#モナローア](http://twitter.com/search?q=%23%e3%83%a2%e3%83%8a%e3%83%ad%e3%83%bc%e3%82%a2) | N/A |
+| 3 | [#便利屋斎藤さん](http://twitter.com/search?q=%23%e4%be%bf%e5%88%a9%e5%b1%8b%e6%96%8e%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 4 | [#第2回ダイの大冒険コラボ](http://twitter.com/search?q=%23%e7%ac%ac2%e5%9b%9e%e3%83%80%e3%82%a4%e3%81%ae%e5%a4%a7%e5%86%92%e9%99%ba%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 5 | [#Lovemusic](http://twitter.com/search?q=%23Lovemusic) | N/A |
+| 6 | [アイドルアニメ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%82%a2%e3%83%8b%e3%83%a1) | アイドルアニメ (idol anime) is a type of anime that focuses on characters who are idols, or performers in the entertainment industry. These characters often have singing and dancing performances, and their stories usually revolve around their journey to becoming successful idols. In English, it is sometimes referred to as "idol anime". |
+| 7 | [ヴェグホルスト](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%82%b0%e3%83%9b%e3%83%ab%e3%82%b9%e3%83%88) | N/A |
+| 8 | [BiSH](http://twitter.com/search?q=BiSH) | BiSH is a Japanese punk rock girl group formed in 2015. The name is an acronym for Brand-new Idol SHiT. The group's concept is to be "idols you can meet". |
+| 9 | [#SHIORITAMAI12Colors](http://twitter.com/search?q=%23SHIORITAMAI12Colors) | N/A |
+| 10 | [セラフィム](http://twitter.com/search?q=%e3%82%bb%e3%83%a9%e3%83%95%e3%82%a3%e3%83%a0) | N/A |
+| 11 | [レスター](http://twitter.com/search?q=%e3%83%ac%e3%82%b9%e3%82%bf%e3%83%bc) | レスター (Resutā) is a Japanese surname. It is derived from the English surname "Lester". The meaning of the name in English is "fortified town". |
+| 12 | [絶望ステップ](http://twitter.com/search?q=%e7%b5%b6%e6%9c%9b%e3%82%b9%e3%83%86%e3%83%83%e3%83%97) | N/A |
+| 13 | [Wake up my music](http://twitter.com/search?q=Wake+up+my+music) | N/A |
+| 14 | [YOASOBI](http://twitter.com/search?q=YOASOBI) | N/A |
+| 15 | [We are STARS](http://twitter.com/search?q=We+are+STARS) | N/A |
+| 16 | [優木せつ菜](http://twitter.com/search?q=%e5%84%aa%e6%9c%a8%e3%81%9b%e3%81%a4%e8%8f%9c) | N/A |
+| 17 | [成田さん](http://twitter.com/search?q=%e6%88%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 18 | [いおちゃん](http://twitter.com/search?q=%e3%81%84%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 19 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
+| 20 | [正義のキモチ](http://twitter.com/search?q=%e6%ad%a3%e7%be%a9%e3%81%ae%e3%82%ad%e3%83%a2%e3%83%81) | N/A |
+| 21 | [違法アップロード](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
+| 22 | [次のシングル](http://twitter.com/search?q=%e6%ac%a1%e3%81%ae%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%ab) | N/A |
+| 23 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
+| 24 | [Wセンター](http://twitter.com/search?q=W%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 25 | [エメルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%ab%e3%82%bd%e3%83%b3) | エメルソン (Emerson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand is known for its use of bright colors and bold designs, as well as its focus on comfort and quality. In English, the name Emerson means "son of Emery", which is derived from the Old German name Emmerich. |
+| 26 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
+| 27 | [アンダー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
+| 28 | [選抜入り](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e5%85%a5%e3%82%8a) | N/A |
+| 29 | [久保ちゃん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [ダブルセンター](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 31 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 32 | [第395回](http://twitter.com/search?q=%e7%ac%ac395%e5%9b%9e) | N/A |
+| 33 | [ペリシッチ](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%82%b7%e3%83%83%e3%83%81) | N/A |
+| 34 | [常闇くん](http://twitter.com/search?q=%e5%b8%b8%e9%97%87%e3%81%8f%e3%82%93) | N/A |
+| 35 | [カラスコ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%82%b9%e3%82%b3) | N/A |
+| 36 | [璃果ちゃん](http://twitter.com/search?q=%e7%92%83%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [カンスト](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
+| 38 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
+| 39 | [グリーズマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%9e%e3%83%b3) | N/A |
+| 40 | [五百城ちゃん](http://twitter.com/search?q=%e4%ba%94%e7%99%be%e5%9f%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [りかちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 42 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
+| 43 | [ヒロアカ本誌](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%ac%e8%aa%8c) | N/A |
+| 44 | [ディマリア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
+| 45 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 46 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
+| 47 | [バッファローマン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 48 | [美佑ちゃん](http://twitter.com/search?q=%e7%be%8e%e4%bd%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [コスティッチ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
+| 50 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
 
 
 

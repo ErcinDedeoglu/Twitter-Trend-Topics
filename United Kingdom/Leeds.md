@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-19 18:16:13 UTC`
+📆 Last Updated: `2023-02-19 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
-| 2 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
-| 3 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 5 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 6 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
-| 7 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 8 | [#TOTWHU](http://twitter.com/search?q=%23TOTWHU) | N/A |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 11 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 12 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 13 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 14 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 15 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 17 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 18 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 21 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 22 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 23 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 24 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 25 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
-| 26 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 27 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 28 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 29 | [Downes](http://twitter.com/search?q=Downes) | N/A |
-| 30 | [Ogbonna](http://twitter.com/search?q=Ogbonna) | N/A |
-| 31 | [Fabianski](http://twitter.com/search?q=Fabianski) | N/A |
-| 32 | [Rachel Daly](http://twitter.com/search?q=Rachel+Daly) | N/A |
-| 33 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 34 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 35 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 36 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 37 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 38 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
-| 39 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 40 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 41 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 42 | [Faes](http://twitter.com/search?q=Faes) | N/A |
-| 43 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
-| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
-| 46 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 47 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 48 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 49 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 50 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 1 | [#cbsfanwall](http://twitter.com/search?q=%23cbsfanwall) | N/A |
+| 2 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 3 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 4 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 5 | [keira](http://twitter.com/search?q=keira) | N/A |
+| 6 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 7 | [Mainoo](http://twitter.com/search?q=Mainoo) | Mainoo is a term used in the Indian state of Gujarat to refer to a person who is generous and kind-hearted. It is derived from the Gujarati word "manu", which means "generous". In English, it can be translated as "generous" or "kind-hearted". |
+| 8 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 9 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 10 | [Sarries](http://twitter.com/search?q=Sarries) | N/A |
+| 11 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 12 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
+| 13 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
+| 14 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 15 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 16 | [#TOTWHU](http://twitter.com/search?q=%23TOTWHU) | N/A |
+| 17 | [#dancingonice](http://twitter.com/search?q=%23dancingonice) | N/A |
+| 18 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 19 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 22 | [#BAFTAs](http://twitter.com/search?q=%23BAFTAs) | N/A |
+| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 24 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 25 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 26 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 27 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 28 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 29 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
+| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 31 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 32 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 33 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 34 | [Ogbonna](http://twitter.com/search?q=Ogbonna) | N/A |
+| 35 | [Fabianski](http://twitter.com/search?q=Fabianski) | N/A |
+| 36 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 37 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 38 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 39 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 40 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 41 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 42 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 43 | [Downes](http://twitter.com/search?q=Downes) | N/A |
+| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 45 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 46 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 47 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 48 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 49 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 50 | [Rachel Daly](http://twitter.com/search?q=Rachel+Daly) | N/A |
 
 
 
