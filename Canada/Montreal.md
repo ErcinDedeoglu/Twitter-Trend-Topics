@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-19 07:16:15 UTC`
+📆 Last Updated: `2023-02-19 08:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 3 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 7 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
-| 8 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 9 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
-| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 11 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 12 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 13 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 14 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 15 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 16 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 17 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 19 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 20 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 21 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 22 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
+| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 3 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 4 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 5 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 6 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 7 | [#canucks](http://twitter.com/search?q=%23canucks) | N/A |
+| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 9 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 10 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 11 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 12 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 13 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
+| 16 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 17 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 18 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 19 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 20 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 21 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 22 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
 | 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 24 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 25 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 26 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 27 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 28 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 29 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 30 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 31 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 32 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
-| 33 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 34 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 35 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 36 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 24 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 25 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 26 | [elias pettersson](http://twitter.com/search?q=elias+pettersson) | N/A |
+| 27 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 28 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 31 | [Konecny](http://twitter.com/search?q=Konecny) | N/A |
+| 32 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 33 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 34 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 36 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
+| 37 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
+| 38 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 39 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 40 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 41 | [woll](http://twitter.com/search?q=woll) | N/A |
+| 42 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 43 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 44 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 45 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
+| 46 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 47 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 48 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 49 | [Peter Herrndorf](http://twitter.com/search?q=Peter+Herrndorf) | N/A |
+| 50 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
 
 
 

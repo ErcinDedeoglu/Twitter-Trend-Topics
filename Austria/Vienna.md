@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-19 07:16:28 UTC`
+📆 Last Updated: `2023-02-19 08:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
+| 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 2 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 3 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 4 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 3 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
+| 4 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
 | 5 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 6 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 7 | [#htbstu](http://twitter.com/search?q=%23htbstu) | N/A |
-| 8 | [#opernball](http://twitter.com/search?q=%23opernball) | N/A |
-| 9 | [#bmgfcb](http://twitter.com/search?q=%23bmgfcb) | N/A |
-| 10 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 11 | [#svrask](http://twitter.com/search?q=%23svrask) | N/A |
-| 12 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 13 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 14 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 15 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 16 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 17 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
-| 18 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 21 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 23 | [Pech](http://twitter.com/search?q=Pech) | N/A |
-| 24 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 25 | [obst](http://twitter.com/search?q=obst) | N/A |
-| 26 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 27 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 28 | [Staub](http://twitter.com/search?q=Staub) | N/A |
-| 29 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
-| 30 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
-| 31 | [Mengen](http://twitter.com/search?q=Mengen) | N/A |
-| 32 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 33 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 34 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 35 | [Laune](http://twitter.com/search?q=Laune) | N/A |
-| 36 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 37 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
-| 38 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 41 | [gehsteig](http://twitter.com/search?q=gehsteig) | N/A |
-| 42 | [Kater](http://twitter.com/search?q=Kater) | N/A |
-| 43 | [Paywall](http://twitter.com/search?q=Paywall) | N/A |
-| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 45 | [staffel](http://twitter.com/search?q=staffel) | N/A |
-| 46 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 47 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 48 | [Seele](http://twitter.com/search?q=Seele) | N/A |
-| 49 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 50 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 6 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 7 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 8 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 10 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 11 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
+| 12 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 13 | [#opernball](http://twitter.com/search?q=%23opernball) | N/A |
+| 14 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 15 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 16 | [#htbstu](http://twitter.com/search?q=%23htbstu) | N/A |
+| 17 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 18 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
+| 19 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 20 | [#svrask](http://twitter.com/search?q=%23svrask) | N/A |
+| 21 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 22 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 23 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 24 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 26 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
+| 27 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | N/A |
+| 28 | [Budget](http://twitter.com/search?q=Budget) | N/A |
+| 29 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 30 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
+| 31 | [Schande](http://twitter.com/search?q=Schande) | N/A |
+| 32 | [Obst](http://twitter.com/search?q=Obst) | N/A |
+| 33 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 34 | [Pech](http://twitter.com/search?q=Pech) | N/A |
+| 35 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 37 | [Bargeld](http://twitter.com/search?q=Bargeld) | Bargeld is a German word meaning "cash" or "money". It is used to refer to physical money, such as coins and banknotes, rather than electronic payments. |
+| 38 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
+| 39 | [Laune](http://twitter.com/search?q=Laune) | N/A |
+| 40 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 41 | [Infektion](http://twitter.com/search?q=Infektion) | N/A |
+| 42 | [Staub](http://twitter.com/search?q=Staub) | N/A |
+| 43 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
+| 44 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
+| 45 | [Kennzeichen](http://twitter.com/search?q=Kennzeichen) | N/A |
+| 46 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 47 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 48 | [Texte](http://twitter.com/search?q=Texte) | N/A |
+| 49 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 50 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
 
 
 

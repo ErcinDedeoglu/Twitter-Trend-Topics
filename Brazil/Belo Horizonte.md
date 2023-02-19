@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-19 07:16:24 UTC`
+📆 Last Updated: `2023-02-19 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 2 | [daniel jr](http://twitter.com/search?q=daniel+jr) | N/A |
 | 3 | [Cruzeiro Esporte Clube](http://twitter.com/search?q=Cruzeiro+Esporte+Clube) | N/A |
-| 4 | [Gibagol](http://twitter.com/search?q=Gibagol) | N/A |
+| 4 | [GIBAGOL](http://twitter.com/search?q=GIBAGOL) | N/A |
 | 5 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
 | 6 | [#GlobelezaManchaVerde](http://twitter.com/search?q=%23GlobelezaManchaVerde) | N/A |
-| 7 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 8 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 9 | [Viviane Araújo](http://twitter.com/search?q=Viviane+Ara%c3%bajo) | N/A |
-| 10 | [Tucuruvi](http://twitter.com/search?q=Tucuruvi) | N/A |
-| 11 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 12 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 13 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
-| 14 | [VIVA O NORDESTE](http://twitter.com/search?q=VIVA+O+NORDESTE) | N/A |
-| 15 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
-| 16 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
-| 17 | [Em Cima da Hora](http://twitter.com/search?q=Em+Cima+da+Hora) | N/A |
-| 18 | [Bezerra da Silva](http://twitter.com/search?q=Bezerra+da+Silva) | N/A |
-| 19 | [Unidos de Bangu](http://twitter.com/search?q=Unidos+de+Bangu) | N/A |
-| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 21 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 22 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
-| 23 | [União da Ilha](http://twitter.com/search?q=Uni%c3%a3o+da+Ilha) | N/A |
-| 24 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 25 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
-| 26 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
-| 27 | [Estrela](http://twitter.com/search?q=Estrela) | N/A |
-| 28 | [Xangô](http://twitter.com/search?q=Xang%c3%b4) | N/A |
-| 29 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 30 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 31 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 32 | [#askbsd](http://twitter.com/search?q=%23askbsd) | N/A |
-| 33 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
-| 34 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
-| 35 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
-| 36 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
-| 37 | [Homem da Meia-Noite](http://twitter.com/search?q=Homem+da+Meia-Noite) | N/A |
-| 38 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 39 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 40 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 41 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 42 | [Dilson](http://twitter.com/search?q=Dilson) | N/A |
-| 43 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
-| 44 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
-| 45 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
-| 46 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 47 | [Freeza](http://twitter.com/search?q=Freeza) | N/A |
-| 48 | [Ponte](http://twitter.com/search?q=Ponte) | N/A |
-| 49 | [Sims](http://twitter.com/search?q=Sims) | N/A |
-| 50 | [Chico Pinheiro](http://twitter.com/search?q=Chico+Pinheiro) | N/A |
+| 7 | [#GlobelezaManchaVerde](http://twitter.com/search?q=%23GlobelezaManchaVerde) | N/A |
+| 8 | [União da Ilha](http://twitter.com/search?q=Uni%c3%a3o+da+Ilha) | N/A |
+| 9 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 10 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 11 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 12 | [Viviane Araújo](http://twitter.com/search?q=Viviane+Ara%c3%bajo) | N/A |
+| 13 | [terceiro milênio](http://twitter.com/search?q=terceiro+mil%c3%aanio) | N/A |
+| 14 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 15 | [VIVA O NORDESTE](http://twitter.com/search?q=VIVA+O+NORDESTE) | N/A |
+| 16 | [Bezerra da Silva](http://twitter.com/search?q=Bezerra+da+Silva) | N/A |
+| 17 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 18 | [Em Cima da Hora](http://twitter.com/search?q=Em+Cima+da+Hora) | N/A |
+| 19 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
+| 20 | [Unidos de Bangu](http://twitter.com/search?q=Unidos+de+Bangu) | N/A |
+| 21 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
+| 22 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 23 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 24 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
+| 25 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 26 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 27 | [estrela](http://twitter.com/search?q=estrela) | N/A |
+| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 29 | [#CarnavalSP](http://twitter.com/search?q=%23CarnavalSP) | N/A |
+| 30 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
+| 31 | [Tyler Herro](http://twitter.com/search?q=Tyler+Herro) | N/A |
+| 32 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
+| 33 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 34 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 35 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
+| 36 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
+| 37 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 38 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
+| 39 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
+| 40 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 41 | [Sambódromo](http://twitter.com/search?q=Samb%c3%b3dromo) | N/A |
+| 42 | [Ponte](http://twitter.com/search?q=Ponte) | N/A |
+| 43 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 44 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 45 | [DAZAI](http://twitter.com/search?q=DAZAI) | N/A |
+| 46 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 47 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
 
 
 
