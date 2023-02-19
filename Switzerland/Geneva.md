@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-19 01:44:23 UTC`
+📆 Last Updated: `2023-02-19 02:41:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -58,10 +58,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
 | 42 | [Koch](http://twitter.com/search?q=Koch) | N/A |
 | 43 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
-| 46 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 47 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
+| 44 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
+| 45 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 46 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
+| 47 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 
 
 

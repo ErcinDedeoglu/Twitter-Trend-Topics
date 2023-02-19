@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-19 01:44:43 UTC`
+📆 Last Updated: `2023-02-19 02:41:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 1 | [Yalnızlaştık](http://twitter.com/search?q=Yaln%c4%b1zla%c5%9ft%c4%b1k) | N/A |
 | 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 3 | [Alihan Adamdır](http://twitter.com/search?q=Alihan+Adamd%c4%b1r) | N/A |
+| 3 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
 | 4 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
 | 5 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
 | 6 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
@@ -31,38 +31,38 @@ This is top 50 for [Turkey](</Turkey>)
 | 14 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
 | 15 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
 | 16 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 17 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
-| 18 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 19 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 20 | [şerefsiz fahişçiler](http://twitter.com/search?q=%c5%9ferefsiz+fahi%c5%9f%c3%a7iler) | N/A |
-| 21 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 22 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 25 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 26 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 17 | [Alihan Adamdır](http://twitter.com/search?q=Alihan+Adamd%c4%b1r) | N/A |
+| 18 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
+| 19 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 20 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
+| 21 | [şerefsiz fahişçiler](http://twitter.com/search?q=%c5%9ferefsiz+fahi%c5%9f%c3%a7iler) | N/A |
+| 22 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 23 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 26 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
 | 27 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
-| 28 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 30 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 31 | [ilknurtepeden osurdu](http://twitter.com/search?q=ilknurtepeden+osurdu) | N/A |
+| 28 | [ilknurtepeden osurdu](http://twitter.com/search?q=ilknurtepeden+osurdu) | N/A |
+| 29 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
+| 30 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 31 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
 | 32 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
 | 33 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
 | 34 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
 | 35 | [Berfin](http://twitter.com/search?q=Berfin) | N/A |
 | 36 | [Dolandırıcının](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1n%c4%b1n) | N/A |
-| 37 | [i̇stanbul valiliği](http://twitter.com/search?q=i%cc%87stanbul+valili%c4%9fi) | N/A |
-| 38 | [Uludağ Üniversitesi](http://twitter.com/search?q=Uluda%c4%9f+%c3%9cniversitesi) | N/A |
-| 39 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
-| 40 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 41 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
+| 37 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
+| 38 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
+| 39 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
+| 40 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 41 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
 | 42 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 43 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
-| 44 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 45 | [camide](http://twitter.com/search?q=camide) | N/A |
-| 46 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 47 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 43 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 44 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
+| 45 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 46 | [Uyku](http://twitter.com/search?q=Uyku) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Tosya](http://twitter.com/search?q=Tosya) | N/A |
 | 49 | [Özkan Sümer](http://twitter.com/search?q=%c3%96zkan+S%c3%bcmer) | N/A |
 
 

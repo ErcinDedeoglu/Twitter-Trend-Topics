@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-19 01:44:57 UTC`
+📆 Last Updated: `2023-02-19 02:41:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,24 +40,26 @@ This is top 50 for Latvia
 | 23 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 24 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 25 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | N/A |
-| 26 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 27 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 28 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 29 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
-| 30 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 31 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 32 | [#comedy](http://twitter.com/search?q=%23comedy) | N/A |
-| 33 | [tiem](http://twitter.com/search?q=tiem) | N/A |
-| 34 | [Runa](http://twitter.com/search?q=Runa) | N/A |
-| 35 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 36 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 37 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
-| 38 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 39 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 40 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
-| 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 42 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 43 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 28 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 29 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 30 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 31 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
+| 32 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 33 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 34 | [#comedy](http://twitter.com/search?q=%23comedy) | N/A |
+| 35 | [tiem](http://twitter.com/search?q=tiem) | N/A |
+| 36 | [Runa](http://twitter.com/search?q=Runa) | N/A |
+| 37 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
+| 38 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
+| 39 | [nevar](http://twitter.com/search?q=nevar) | N/A |
+| 40 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 41 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 42 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
+| 43 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 44 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 45 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 
 
 

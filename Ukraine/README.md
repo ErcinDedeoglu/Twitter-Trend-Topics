@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-19 01:45:00 UTC`
+📆 Last Updated: `2023-02-19 02:41:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Ukraine
 | 15 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
 | 16 | [отак](http://twitter.com/search?q=%d0%be%d1%82%d0%b0%d0%ba) | N/A |
 | 17 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 18 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 19 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
-| 20 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
-| 21 | [Рада](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b0) | N/A |
-| 22 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 23 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 24 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 25 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 26 | [мариуполя](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8f) | N/A |
+| 18 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 19 | [Casino](http://twitter.com/search?q=Casino) | N/A |
+| 20 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
+| 21 | [руси](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 22 | [Рада](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b0) | N/A |
+| 23 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 24 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 25 | [мариуполя](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8f) | N/A |
+| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 27 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
 | 28 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
 | 29 | [ПЛАЧУ](http://twitter.com/search?q=%d0%9f%d0%9b%d0%90%d0%a7%d0%a3) | N/A |
 | 30 | [байдена](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd%d0%b0) | N/A |
 | 31 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 32 | [Таак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%ba) | N/A |
-| 33 | [ридаю](http://twitter.com/search?q=%d1%80%d0%b8%d0%b4%d0%b0%d1%8e) | N/A |
-| 34 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 35 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
-| 36 | [РЕВУ](http://twitter.com/search?q=%d0%a0%d0%95%d0%92%d0%a3) | N/A |
-| 37 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 38 | [дай бог](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9+%d0%b1%d0%be%d0%b3) | N/A |
-| 39 | [америке](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
-| 40 | [Соловьева](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2%d0%b0) | N/A |
-| 41 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
-| 42 | [донецкой](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%be%d0%b9) | N/A |
-| 43 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 44 | [украинцев](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d0%b5%d0%b2) | N/A |
-| 45 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 46 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
-| 47 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 49 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 50 | [Московия](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
+| 32 | [Треба](http://twitter.com/search?q=%d0%a2%d1%80%d0%b5%d0%b1%d0%b0) | N/A |
+| 33 | [Таак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%ba) | N/A |
+| 34 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 35 | [ридаю](http://twitter.com/search?q=%d1%80%d0%b8%d0%b4%d0%b0%d1%8e) | N/A |
+| 36 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 37 | [SIGN-UP LINK](http://twitter.com/search?q=SIGN-UP+LINK) | N/A |
+| 38 | [реву](http://twitter.com/search?q=%d1%80%d0%b5%d0%b2%d1%83) | N/A |
+| 39 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 40 | [дай бог](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9+%d0%b1%d0%be%d0%b3) | N/A |
+| 41 | [америке](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 43 | [Соловьева](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2%d0%b0) | N/A |
+| 44 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
+| 45 | [донецкой](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%be%d0%b9) | N/A |
+| 46 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 47 | [украинцев](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d0%b5%d0%b2) | N/A |
+| 48 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 49 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
+| 50 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
 
 
 

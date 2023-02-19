@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-19 01:45:00 UTC`
+📆 Last Updated: `2023-02-19 02:41:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Switzerland
 | 13 | [Marx](http://twitter.com/search?q=Marx) | N/A |
 | 14 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
 | 15 | [Frag](http://twitter.com/search?q=Frag) | N/A |
-| 16 | [Krieg in der Ukraine](http://twitter.com/search?q=Krieg+in+der+Ukraine) | N/A |
+| 16 | [krieg in der ukraine](http://twitter.com/search?q=krieg+in+der+ukraine) | N/A |
 | 17 | [Kindheit](http://twitter.com/search?q=Kindheit) | N/A |
 | 18 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
 | 19 | [strafen](http://twitter.com/search?q=strafen) | N/A |
@@ -60,10 +60,10 @@ This is top 50 for Switzerland
 | 43 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
 | 44 | [Koch](http://twitter.com/search?q=Koch) | N/A |
 | 45 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
-| 48 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 49 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
+| 46 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
+| 47 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 48 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
+| 49 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 50 | [Feld](http://twitter.com/search?q=Feld) | N/A |
 
 

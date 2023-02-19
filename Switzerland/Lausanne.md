@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-19 01:44:23 UTC`
+📆 Last Updated: `2023-02-19 02:41:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
 | 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 9 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 11 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
 | 12 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
 | 13 | [Marx](http://twitter.com/search?q=Marx) | N/A |
@@ -60,8 +60,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 43 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
 | 44 | [Koch](http://twitter.com/search?q=Koch) | N/A |
 | 45 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
+| 46 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
+| 47 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
 
 
 

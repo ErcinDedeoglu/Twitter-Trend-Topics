@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-02-19 01:44:46 UTC`
+📆 Last Updated: `2023-02-19 02:41:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Raleigh](http://twitter.com/search?q=Raleigh) | N/A |
 | 2 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 3 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 4 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 5 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 6 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 7 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
-| 8 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 9 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 10 | [Jordan Clarkson](http://twitter.com/search?q=Jordan+Clarkson) | Jordan Clarkson is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). He was drafted 46th overall by the Washington Wizards in the 2014 NBA draft and has since played for the Los Angeles Lakers, Cleveland Cavaliers, and Utah Jazz. |
-| 11 | [#StadiumSeries](http://twitter.com/search?q=%23StadiumSeries) | N/A |
-| 12 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 13 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 14 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 15 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 16 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
-| 17 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 18 | [Nikki Cross](http://twitter.com/search?q=Nikki+Cross) | N/A |
-| 19 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
-| 20 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 21 | [Skills Challenge](http://twitter.com/search?q=Skills+Challenge) | N/A |
-| 22 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
-| 23 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
-| 24 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 25 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 26 | [Antetokounmpo](http://twitter.com/search?q=Antetokounmpo) | N/A |
-| 27 | [His World](http://twitter.com/search?q=His+World) | N/A |
-| 28 | [Will Baker](http://twitter.com/search?q=Will+Baker) | N/A |
-| 29 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 30 | [Live and Learn](http://twitter.com/search?q=Live+and+Learn) | N/A |
-| 31 | [Endless Possibilities](http://twitter.com/search?q=Endless+Possibilities) | N/A |
-| 32 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
-| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 34 | [Team Jazz](http://twitter.com/search?q=Team+Jazz) | N/A |
-| 35 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 36 | [Prachnio](http://twitter.com/search?q=Prachnio) | N/A |
-| 37 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 38 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 39 | [Huke](http://twitter.com/search?q=Huke) | N/A |
-| 40 | [Find Your Flame](http://twitter.com/search?q=Find+Your+Flame) | N/A |
-| 41 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 42 | [JJ Traynor](http://twitter.com/search?q=JJ+Traynor) | N/A |
-| 43 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
-| 44 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 45 | [Reach for the Stars](http://twitter.com/search?q=Reach+for+the+Stars) | N/A |
-| 46 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 47 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 48 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 49 | [Break Through It](http://twitter.com/search?q=Break+Through+It) | N/A |
+| 3 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 4 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
+| 5 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 7 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 8 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 9 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 10 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 11 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 12 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 13 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 14 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 15 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 16 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 17 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 18 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 19 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 20 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 21 | [Jordan Clarkson](http://twitter.com/search?q=Jordan+Clarkson) | Jordan Clarkson is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). He was drafted 46th overall by the Washington Wizards in the 2014 NBA draft and has since played for the Los Angeles Lakers, Cleveland Cavaliers, and Utah Jazz. |
+| 22 | [Shatter Machine](http://twitter.com/search?q=Shatter+Machine) | N/A |
+| 23 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
+| 24 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 26 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 27 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 28 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 29 | [Skills Challenge](http://twitter.com/search?q=Skills+Challenge) | N/A |
+| 30 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 31 | [Hield](http://twitter.com/search?q=Hield) | N/A |
+| 32 | [Starry](http://twitter.com/search?q=Starry) | N/A |
+| 33 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 34 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
+| 35 | [Blanchfield](http://twitter.com/search?q=Blanchfield) | N/A |
+| 36 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 37 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
+| 38 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 39 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 40 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 41 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 42 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 43 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
+| 44 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
+| 45 | [Antetokounmpo](http://twitter.com/search?q=Antetokounmpo) | N/A |
+| 46 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 47 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 48 | [Nikki Cross](http://twitter.com/search?q=Nikki+Cross) | N/A |
+| 49 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
 
 
 

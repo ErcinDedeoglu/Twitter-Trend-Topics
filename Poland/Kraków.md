@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-19 01:44:16 UTC`
+📆 Last Updated: `2023-02-19 02:41:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,31 +25,31 @@ This is top 50 for [Poland](</Poland>)
 | 8 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
 | 9 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
 | 10 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 11 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
+| 11 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
 | 12 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
 | 13 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 14 | [Friz](http://twitter.com/search?q=Friz) | N/A |
-| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 15 | [Friz](http://twitter.com/search?q=Friz) | N/A |
 | 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 17 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
 | 18 | [Arki](http://twitter.com/search?q=Arki) | N/A |
 | 19 | [Antoni K.](http://twitter.com/search?q=Antoni+K.) | N/A |
 | 20 | [pucharu świata](http://twitter.com/search?q=pucharu+%c5%9bwiata) | N/A |
 | 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 23 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
-| 26 | [kacper juroszek](http://twitter.com/search?q=kacper+juroszek) | N/A |
-| 27 | [Arka](http://twitter.com/search?q=Arka) | N/A |
-| 28 | [Wrześni](http://twitter.com/search?q=Wrze%c5%9bni) | N/A |
-| 29 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 31 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
-| 32 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 33 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
-| 34 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 35 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 23 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 24 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
+| 25 | [kacper juroszek](http://twitter.com/search?q=kacper+juroszek) | N/A |
+| 26 | [Arka](http://twitter.com/search?q=Arka) | N/A |
+| 27 | [Wrześni](http://twitter.com/search?q=Wrze%c5%9bni) | N/A |
+| 28 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 29 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 30 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 32 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
+| 33 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 34 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 35 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
 | 36 | [tomczyk](http://twitter.com/search?q=tomczyk) | N/A |
 | 37 | [wieje](http://twitter.com/search?q=wieje) | N/A |
 | 38 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
@@ -60,11 +60,11 @@ This is top 50 for [Poland](</Poland>)
 | 43 | [dosze](http://twitter.com/search?q=dosze) | N/A |
 | 44 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 45 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
-| 46 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 47 | [maciej kot](http://twitter.com/search?q=maciej+kot) | N/A |
-| 48 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 46 | [maciej kot](http://twitter.com/search?q=maciej+kot) | N/A |
+| 47 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 50 | [Sobol](http://twitter.com/search?q=Sobol) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-02-19 01:44:42 UTC`
+📆 Last Updated: `2023-02-19 02:41:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Mahashivratri](http://twitter.com/search?q=%23Mahashivratri) | N/A |
-| 2 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 3 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 4 | [#Mayilsamy](http://twitter.com/search?q=%23Mayilsamy) | N/A |
-| 5 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
-| 6 | [#हर_हर_महादेव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%b9%e0%a4%b0_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 7 | [#RespectNature](http://twitter.com/search?q=%23RespectNature) | N/A |
-| 8 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 9 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 10 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 11 | [गोपाल कृष्ण गोखले](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%8b%e0%a4%96%e0%a4%b2%e0%a5%87) | N/A |
-| 12 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
-| 13 | [shrikant bharatiya](http://twitter.com/search?q=shrikant+bharatiya) | N/A |
-| 14 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 15 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 16 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [जॉर्ज सोरोस](http://twitter.com/search?q=%e0%a4%9c%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9c+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%b8) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 21 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 22 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 23 | [EMI MARTINEZ](http://twitter.com/search?q=EMI+MARTINEZ) | N/A |
-| 24 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 25 | [Alvaro Rodriguez](http://twitter.com/search?q=Alvaro+Rodriguez) | N/A |
-| 26 | [शिव बारात](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
-| 27 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
-| 28 | [शिव मंदिर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 29 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
-| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 31 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 32 | [शिव अनंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4) | N/A |
-| 33 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
-| 34 | [शिव सत्य](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
-| 35 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 36 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 37 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 38 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 39 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 40 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 41 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 42 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 43 | [हिन्दू हृदय सम्राट](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%b9%e0%a5%83%e0%a4%a6%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f) | N/A |
-| 44 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 45 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 46 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
-| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 2 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 3 | [#RespectNature](http://twitter.com/search?q=%23RespectNature) | N/A |
+| 4 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 5 | [#Mayilsamy](http://twitter.com/search?q=%23Mayilsamy) | N/A |
+| 6 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
+| 7 | [#हर_हर_महादेव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%b9%e0%a4%b0_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 8 | [गोपाल कृष्ण गोखले](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%8b%e0%a4%96%e0%a4%b2%e0%a5%87) | N/A |
+| 9 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 10 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 11 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 12 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 13 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 14 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 15 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
+| 16 | [माधवराव सदाशिवराव गोलवलकर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%a6%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%97%e0%a5%8b%e0%a4%b2%e0%a4%b5%e0%a4%b2%e0%a4%95%e0%a4%b0) | N/A |
+| 17 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 18 | [shrikant bharatiya](http://twitter.com/search?q=shrikant+bharatiya) | N/A |
+| 19 | [हिंद स्वराज](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 20 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 21 | [अनुसूचित क्षेत्र](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%bf%e0%a4%a4+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 22 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 23 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 24 | [हिन्दू हृदय सम्राट](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%b9%e0%a5%83%e0%a4%a6%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f) | N/A |
+| 25 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
+| 26 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 27 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 30 | [जॉर्ज सोरोस](http://twitter.com/search?q=%e0%a4%9c%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9c+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%b8) | N/A |
+| 31 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
+| 32 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 33 | [Sushant Singh Rajput](http://twitter.com/search?q=Sushant+Singh+Rajput) | N/A |
+| 34 | [EMI MARTINEZ](http://twitter.com/search?q=EMI+MARTINEZ) | N/A |
+| 35 | [धर्म रक्षक](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
+| 36 | [शिव बारात](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
+| 37 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 38 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
+| 39 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 40 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 41 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
+| 42 | [शिव मंदिर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 43 | [शिव अनंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4) | N/A |
+| 44 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
+| 45 | [शिव सत्य](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
+| 46 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 47 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 48 | [Jai Bhavani](http://twitter.com/search?q=Jai+Bhavani) | N/A |
+| 49 | [Online Gurukul](http://twitter.com/search?q=Online+Gurukul) | N/A |
+| 50 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
 
 
 

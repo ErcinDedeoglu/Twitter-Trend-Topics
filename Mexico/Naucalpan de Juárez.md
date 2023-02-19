@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-02-19 01:44:09 UTC`
+📆 Last Updated: `2023-02-19 02:41:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 2 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 3 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 4 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 5 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 2 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
+| 3 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 4 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 5 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
 | 6 | [HAVE A SAFE FLIGHT J-HOPE](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+J-HOPE) | N/A |
-| 7 | [#hartofut](http://twitter.com/search?q=%23hartofut) | N/A |
-| 8 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 9 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 10 | [Govea](http://twitter.com/search?q=Govea) | N/A |
-| 11 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 12 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
-| 13 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
-| 14 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 15 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
-| 16 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 19 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 20 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 21 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 22 | [Bronco Lara](http://twitter.com/search?q=Bronco+Lara) | N/A |
-| 23 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 24 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 25 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
-| 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 27 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 28 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 29 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 30 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 31 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 32 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 33 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 35 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 36 | [Temach](http://twitter.com/search?q=Temach) | N/A |
-| 37 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
-| 38 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 39 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 44 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 45 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 46 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 7 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 8 | [#hartofut](http://twitter.com/search?q=%23hartofut) | N/A |
+| 9 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 10 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 11 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 12 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 13 | [Govea](http://twitter.com/search?q=Govea) | N/A |
+| 14 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
+| 15 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 16 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 17 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 18 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 19 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 20 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 21 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
+| 22 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 23 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 24 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 26 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 27 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 28 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 29 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 30 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 31 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 32 | [Bronco Lara](http://twitter.com/search?q=Bronco+Lara) | N/A |
+| 33 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 34 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 35 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
+| 36 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 37 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 38 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 39 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 40 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 41 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 42 | [Temach](http://twitter.com/search?q=Temach) | N/A |
+| 43 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 44 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 45 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 46 | [Regina](http://twitter.com/search?q=Regina) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-19 01:44:21 UTC`
+📆 Last Updated: `2023-02-19 02:41:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 11 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
 | 12 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
 | 13 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 14 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 15 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 16 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
-| 17 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 18 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 19 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 20 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
-| 21 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 22 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 23 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 24 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 26 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 27 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 28 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 29 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 31 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 32 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
-| 33 | [Geluk](http://twitter.com/search?q=Geluk) | N/A |
-| 34 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
-| 35 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 36 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
-| 39 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
-| 40 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 41 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 42 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 43 | [weerwind](http://twitter.com/search?q=weerwind) | N/A |
-| 44 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 45 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 46 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 47 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 48 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
-| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 50 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 14 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 15 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 16 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 17 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 18 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 19 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 20 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 21 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 22 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 23 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 24 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 25 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 26 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 27 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 28 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 30 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 31 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
+| 32 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 33 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
+| 34 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 35 | [nijhuis](http://twitter.com/search?q=nijhuis) | N/A |
+| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 37 | [Dag 18](http://twitter.com/search?q=Dag+18) | N/A |
+| 38 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 39 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 40 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 41 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 42 | [weerwind](http://twitter.com/search?q=weerwind) | N/A |
+| 43 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 44 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 45 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 46 | [Oeteldonk](http://twitter.com/search?q=Oeteldonk) | N/A |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 48 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 49 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 50 | [bialek](http://twitter.com/search?q=bialek) | N/A |
 
 
 

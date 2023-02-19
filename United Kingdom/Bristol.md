@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-02-19 01:44:05 UTC`
+📆 Last Updated: `2023-02-19 02:41:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 3 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 4 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 5 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 6 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 7 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 8 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 9 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 10 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 12 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 13 | [Carabao Cup](http://twitter.com/search?q=Carabao+Cup) | N/A |
-| 14 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 15 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 16 | [#Lux2](http://twitter.com/search?q=%23Lux2) | N/A |
-| 17 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 18 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 19 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
-| 20 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 21 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 22 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
-| 23 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
-| 24 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 25 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 26 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 27 | [The Lost Boys](http://twitter.com/search?q=The+Lost+Boys) | N/A |
-| 28 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 29 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 30 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 31 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 32 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
-| 33 | [Conlan](http://twitter.com/search?q=Conlan) | N/A |
-| 34 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 35 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 36 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 37 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 1 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 2 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 3 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 4 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 5 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 6 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 8 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 9 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 10 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 11 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 12 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 13 | [#Lux2](http://twitter.com/search?q=%23Lux2) | N/A |
+| 14 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 15 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 16 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 17 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 18 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 19 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 20 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
+| 21 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 22 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
+| 23 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 24 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 25 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 26 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 27 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 28 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 29 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 30 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 31 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 32 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 33 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 36 | [The Lost Boys](http://twitter.com/search?q=The+Lost+Boys) | N/A |
+| 37 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 38 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
-| 39 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 40 | [Dalton Smith](http://twitter.com/search?q=Dalton+Smith) | N/A |
-| 41 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
-| 42 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Allington](http://twitter.com/search?q=Allington) | N/A |
+| 39 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 40 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 41 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 42 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
+| 43 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 44 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
 | 45 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 46 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 47 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 48 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
-| 49 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 50 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
+| 46 | [Conlan](http://twitter.com/search?q=Conlan) | N/A |
+| 47 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 48 | [Dalton Smith](http://twitter.com/search?q=Dalton+Smith) | N/A |
+| 49 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
 
 
 
