@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-19 06:17:00 UTC`
+📆 Last Updated: `2023-02-19 07:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,42 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
-| 2 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 3 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 4 | [O’Reilly](http://twitter.com/search?q=O%e2%80%99Reilly) | N/A |
-| 5 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 6 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 7 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 9 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 10 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 11 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 3 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 6 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 7 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
+| 8 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 9 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
+| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 11 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
+| 12 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
 | 13 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 14 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 15 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
-| 16 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 14 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 15 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 16 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
 | 17 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 18 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 19 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 20 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 21 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 22 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 23 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 24 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 26 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 27 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 28 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
-| 29 | [Trey](http://twitter.com/search?q=Trey) | N/A |
-| 30 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 31 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 32 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 33 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 34 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 35 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 36 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 37 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 38 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 40 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 41 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 42 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 43 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 44 | [Chris Sky](http://twitter.com/search?q=Chris+Sky) | N/A |
-| 45 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 46 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 47 | [#StadiumSeries](http://twitter.com/search?q=%23StadiumSeries) | N/A |
-| 48 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 49 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 19 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
+| 20 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 21 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 22 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
+| 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 24 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 25 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 26 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 27 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 28 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 29 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 30 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 31 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 32 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
+| 33 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 34 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 35 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 36 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
 
 
 

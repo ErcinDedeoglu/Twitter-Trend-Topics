@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-19 06:17:58 UTC`
+📆 Last Updated: `2023-02-19 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 5 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 6 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 7 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 9 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 10 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 11 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
-| 12 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 13 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 14 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 15 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 16 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 17 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 19 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 20 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 21 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 22 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 23 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 24 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
-| 25 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 26 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 27 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 29 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 30 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 31 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 32 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 33 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 34 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 35 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 36 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 37 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 38 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 39 | [Chris Sky](http://twitter.com/search?q=Chris+Sky) | N/A |
-| 40 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 41 | [#StadiumSeries](http://twitter.com/search?q=%23StadiumSeries) | N/A |
-| 42 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 43 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 44 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
-| 45 | [#GoLeafsGo](http://twitter.com/search?q=%23GoLeafsGo) | N/A |
+| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 3 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 4 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 5 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 6 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 7 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 9 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 10 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 11 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 12 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 13 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 14 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 15 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 16 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
+| 17 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 19 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 20 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 21 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
+| 22 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 23 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 24 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 25 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 26 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 27 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
+| 30 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 31 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 32 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 33 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 34 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 35 | [Konecny](http://twitter.com/search?q=Konecny) | N/A |
+| 36 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 37 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 38 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
+| 39 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 40 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 42 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 43 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 44 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 45 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
+| 46 | [Kuzy](http://twitter.com/search?q=Kuzy) | N/A |
+| 47 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 48 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 49 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 50 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
 
 
 

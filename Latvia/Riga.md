@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-19 06:17:22 UTC`
+📆 Last Updated: `2023-02-19 07:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,44 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#zeltamikrofons](http://twitter.com/search?q=%23zeltamikrofons) | N/A |
-| 2 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 2 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
 | 3 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 4 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 5 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 6 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 7 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
+| 4 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 5 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 6 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
+| 7 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 8 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
+| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 10 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 11 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
 | 12 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 13 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 14 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
-| 15 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 16 | [beidz](http://twitter.com/search?q=beidz) | N/A |
-| 17 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 18 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 19 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 22 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 23 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 24 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 25 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | N/A |
-| 26 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 27 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 28 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 29 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
-| 30 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 31 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 32 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 33 | [Runa](http://twitter.com/search?q=Runa) | N/A |
-| 34 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 35 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 36 | [nevar](http://twitter.com/search?q=nevar) | N/A |
-| 37 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
-| 38 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
-| 39 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 15 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | N/A |
+| 16 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 17 | [beidz](http://twitter.com/search?q=beidz) | N/A |
+| 18 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 20 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 21 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
+| 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 23 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 24 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
+| 25 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 26 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 27 | [Piemēram](http://twitter.com/search?q=Piem%c4%93ram) | N/A |
+| 28 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 29 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 30 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 31 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 32 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
+| 33 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 34 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 35 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 36 | [Runa](http://twitter.com/search?q=Runa) | N/A |
+| 37 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 38 | [nevar](http://twitter.com/search?q=nevar) | N/A |
+| 39 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
 | 40 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 41 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
 | 42 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-19 06:18:02 UTC`
+📆 Last Updated: `2023-02-19 07:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,38 @@ This is top 50 for Oman
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
-| 2 | [#بنك_نزوي](http://twitter.com/search?q=%23%d8%a8%d9%86%d9%83_%d9%86%d8%b2%d9%88%d9%8a) | N/A |
-| 3 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 5 | [#البزنس74](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b374) | N/A |
-| 6 | [#الدقم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%82%d9%85) | N/A |
-| 7 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 8 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 9 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
-| 10 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 11 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 12 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 13 | [حمود الخضر](http://twitter.com/search?q=%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1) | N/A |
-| 14 | [مهرجان الفنون الخليجي](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 15 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 16 | [اسعد بن طارق](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
-| 17 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 18 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 19 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 20 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 21 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 22 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
+| 2 | [#الدقم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%82%d9%85) | N/A |
+| 3 | [#بنك_نزوي](http://twitter.com/search?q=%23%d8%a8%d9%86%d9%83_%d9%86%d8%b2%d9%88%d9%8a) | N/A |
+| 4 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 5 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 6 | [#البزنس74](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b374) | N/A |
+| 7 | [الهزه الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 8 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 9 | [مركز رصد الزلازل](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
+| 10 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 11 | [ذكري الاسراء](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1) | N/A |
+| 12 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 13 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 14 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 15 | [حمود الخضر](http://twitter.com/search?q=%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1) | N/A |
+| 16 | [مهرجان الفنون الخليجي](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 17 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 18 | [اسعد بن طارق](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
+| 19 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 20 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 21 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 22 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 23 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 24 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
-| 25 | [ابو تيمور](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%aa%d9%8a%d9%85%d9%88%d8%b1) | N/A |
-| 26 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 27 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 24 | [ابو تيمور](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%aa%d9%8a%d9%85%d9%88%d8%b1) | N/A |
+| 25 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 26 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 27 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 28 | [السميع البصير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%a8%d8%b5%d9%8a%d8%b1) | N/A |
-| 29 | [هاني](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a) | هاني is an Arabic name meaning "graceful" or "gracious". |
+| 29 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
 | 30 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 31 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 32 | [المناسبه العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 33 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 31 | [المناسبه العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 32 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 33 | [هاني](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a) | هاني is an Arabic name meaning "graceful" or "gracious". |
 | 34 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
 | 35 | [الحبيب المصطفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b7%d9%81%d9%8a) | N/A |
 | 36 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Oman
 | 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 42 | [حلول ذكري](http://twitter.com/search?q=%d8%ad%d9%84%d9%88%d9%84+%d8%b0%d9%83%d8%b1%d9%8a) | N/A |
 | 43 | [علي القلوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d9%88%d8%a8) | N/A |
-| 44 | [الاتفاق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82) | N/A |
+| 44 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
 | 45 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
 | 46 | [بيت المقدس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3) | N/A |
 | 47 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 48 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 49 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
-| 50 | [السماوات العلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 48 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 49 | [السماوات العلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 50 | [السماء السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
 
 
 
