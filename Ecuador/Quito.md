@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-19 09:16:01 UTC`
+📆 Last Updated: `2023-02-19 10:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,10 +37,10 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 20 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 21 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 22 | [Salinas](http://twitter.com/search?q=Salinas) | N/A |
-| 23 | [#HechosQueTransparentan](http://twitter.com/search?q=%23HechosQueTransparentan) | N/A |
-| 24 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 26 | [undav](http://twitter.com/search?q=undav) | N/A |
+| 23 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 25 | [Undav](http://twitter.com/search?q=Undav) | N/A |
+| 26 | [#HechosQueTransparentan](http://twitter.com/search?q=%23HechosQueTransparentan) | N/A |
 | 27 | [emily arias](http://twitter.com/search?q=emily+arias) | N/A |
 | 28 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 | 29 | [pervis](http://twitter.com/search?q=pervis) | N/A |
@@ -52,11 +52,11 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 35 | [Jorge Ortiz](http://twitter.com/search?q=Jorge+Ortiz) | N/A |
 | 36 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
 | 37 | [carina caicedo](http://twitter.com/search?q=carina+caicedo) | N/A |
-| 38 | [Carlos Garcés](http://twitter.com/search?q=Carlos+Garc%c3%a9s) | N/A |
-| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 40 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 41 | [darío aimar](http://twitter.com/search?q=dar%c3%ado+aimar) | N/A |
-| 42 | [HAVE A SAFE FLIGHT J-HOPE](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+J-HOPE) | N/A |
+| 38 | [carlos garcés](http://twitter.com/search?q=carlos+garc%c3%a9s) | N/A |
+| 39 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 40 | [darío aimar](http://twitter.com/search?q=dar%c3%ado+aimar) | N/A |
+| 41 | [HAVE A SAFE FLIGHT J-HOPE](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+J-HOPE) | N/A |
+| 42 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
 | 43 | [datacenter](http://twitter.com/search?q=datacenter) | N/A |
 | 44 | [banco guayaquil](http://twitter.com/search?q=banco+guayaquil) | N/A |
 | 45 | [Manta](http://twitter.com/search?q=Manta) | N/A |

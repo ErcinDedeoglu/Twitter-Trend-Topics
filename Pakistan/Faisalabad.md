@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-19 09:16:29 UTC`
+📆 Last Updated: `2023-02-19 10:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TentPeggingWorldCup](http://twitter.com/search?q=%23TentPeggingWorldCup) | N/A |
-| 2 | [#SahibzadaSultan](http://twitter.com/search?q=%23SahibzadaSultan) | N/A |
-| 3 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
-| 4 | [#KKvQG](http://twitter.com/search?q=%23KKvQG) | N/A |
-| 5 | [#شب_معراج](http://twitter.com/search?q=%23%d8%b4%d8%a8_%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
-| 6 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 7 | [GUPTILL](http://twitter.com/search?q=GUPTILL) | N/A |
-| 8 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 9 | [Team Pakistan](http://twitter.com/search?q=Team+Pakistan) | N/A |
-| 10 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 11 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 12 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 13 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 14 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 15 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 16 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 17 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 18 | [ccpo](http://twitter.com/search?q=ccpo) | N/A |
-| 19 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 20 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 21 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 22 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
-| 23 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 24 | [1800 cc](http://twitter.com/search?q=1800+cc) | N/A |
-| 25 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
-| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 27 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
-| 28 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 29 | [Respected Sir](http://twitter.com/search?q=Respected+Sir) | N/A |
-| 30 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
-| 31 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 32 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 33 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 34 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 35 | [England](http://twitter.com/search?q=England) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 38 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 39 | [Correct](http://twitter.com/search?q=Correct) | N/A |
-| 40 | [Pure](http://twitter.com/search?q=Pure) | N/A |
-| 41 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 42 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 43 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 44 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 45 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 47 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
-| 48 | [Faiz Hameed](http://twitter.com/search?q=Faiz+Hameed) | N/A |
-| 49 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 50 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
+| 1 | [#UnitedIsPink](http://twitter.com/search?q=%23UnitedIsPink) | N/A |
+| 2 | [#TentPeggingWorldCup](http://twitter.com/search?q=%23TentPeggingWorldCup) | N/A |
+| 3 | [#SahibzadaSultan](http://twitter.com/search?q=%23SahibzadaSultan) | N/A |
+| 4 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
+| 5 | [#MSvIU](http://twitter.com/search?q=%23MSvIU) | N/A |
+| 6 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 7 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 8 | [GUPTILL](http://twitter.com/search?q=GUPTILL) | N/A |
+| 9 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
+| 10 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 11 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 12 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 13 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 14 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 15 | [Rumman Raees](http://twitter.com/search?q=Rumman+Raees) | N/A |
+| 16 | [Team Pakistan](http://twitter.com/search?q=Team+Pakistan) | N/A |
+| 17 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 18 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 19 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 20 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 21 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 22 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 23 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 24 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 25 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 26 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [Rizzy](http://twitter.com/search?q=Rizzy) | N/A |
+| 29 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 30 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 31 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 32 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 33 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 34 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 35 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
+| 36 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
+| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 38 | [Shaddy](http://twitter.com/search?q=Shaddy) | N/A |
+| 39 | [President](http://twitter.com/search?q=President) | N/A |
+| 40 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 41 | [Respected Sir](http://twitter.com/search?q=Respected+Sir) | N/A |
+| 42 | [England](http://twitter.com/search?q=England) | N/A |
+| 43 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 44 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 45 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
+| 46 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 47 | [Islu](http://twitter.com/search?q=Islu) | N/A |
+| 48 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 50 | [Confirm](http://twitter.com/search?q=Confirm) | N/A |
 
 
 

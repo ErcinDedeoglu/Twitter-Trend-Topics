@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-19 09:16:10 UTC`
+📆 Last Updated: `2023-02-19 10:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#feyaz](http://twitter.com/search?q=%23feyaz) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [#rood](http://twitter.com/search?q=%23rood) | N/A |
+| 2 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 4 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
 | 5 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 6 | [#groemm](http://twitter.com/search?q=%23groemm) | N/A |
-| 7 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 8 | [Hardenberg](http://twitter.com/search?q=Hardenberg) | N/A |
-| 9 | [Dag 19](http://twitter.com/search?q=Dag+19) | N/A |
-| 10 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 11 | [Roel](http://twitter.com/search?q=Roel) | N/A |
-| 12 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 13 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 6 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 7 | [#rood](http://twitter.com/search?q=%23rood) | N/A |
+| 8 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 9 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 10 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 11 | [Hardenberg](http://twitter.com/search?q=Hardenberg) | N/A |
+| 12 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 13 | [Roel](http://twitter.com/search?q=Roel) | N/A |
 | 14 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 15 | [Heemserveen](http://twitter.com/search?q=Heemserveen) | N/A |
-| 16 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 17 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 15 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 16 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 17 | [Briefje van Jan](http://twitter.com/search?q=Briefje+van+Jan) | N/A |
 | 18 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
-| 19 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
-| 20 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
-| 21 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 22 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 23 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 24 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 26 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 27 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 28 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 29 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 19 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 20 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 21 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
+| 22 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
+| 23 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 24 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 26 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 27 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 28 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 29 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 31 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 32 | [Hekken](http://twitter.com/search?q=Hekken) | N/A |
-| 33 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 34 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 35 | [Thee](http://twitter.com/search?q=Thee) | N/A |
-| 36 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 32 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 33 | [Sjakie](http://twitter.com/search?q=Sjakie) | N/A |
+| 34 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 35 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 36 | [Thee](http://twitter.com/search?q=Thee) | N/A |
 | 37 | [Beschaafd](http://twitter.com/search?q=Beschaafd) | N/A |
 | 38 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 | 39 | [Anke](http://twitter.com/search?q=Anke) | N/A |
 | 40 | [Meitje](http://twitter.com/search?q=Meitje) | N/A |
-| 41 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 41 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
 | 42 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 | 43 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
 | 44 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 45 | [Sjakie](http://twitter.com/search?q=Sjakie) | N/A |
-| 46 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 47 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 48 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 49 | [Bijbel](http://twitter.com/search?q=Bijbel) | N/A |
+| 45 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 46 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 47 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 48 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 49 | [Australië](http://twitter.com/search?q=Australi%c3%ab) | N/A |
 
 
 

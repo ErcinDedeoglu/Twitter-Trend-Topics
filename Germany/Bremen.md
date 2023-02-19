@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-19 09:16:08 UTC`
+📆 Last Updated: `2023-02-19 10:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
-| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 2 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
 | 3 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
-| 4 | [#SayTheirNames](http://twitter.com/search?q=%23SayTheirNames) | N/A |
+| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 5 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 6 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 6 | ['Raffiniert'](http://twitter.com/search?q=%27Raffiniert%27) | N/A |
 | 7 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 9 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 10 | [Bluete](http://twitter.com/search?q=Bluete) | N/A |
-| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 12 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 13 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 14 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 15 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 16 | [warteschlange](http://twitter.com/search?q=warteschlange) | N/A |
-| 17 | [Jane Sutherland](http://twitter.com/search?q=Jane+Sutherland) | N/A |
-| 18 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 19 | [Cevi](http://twitter.com/search?q=Cevi) | N/A |
-| 20 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 8 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 10 | [BLUETE](http://twitter.com/search?q=BLUETE) | N/A |
+| 11 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 12 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 13 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 14 | [Pfadfinder](http://twitter.com/search?q=Pfadfinder) | N/A |
+| 15 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 16 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 17 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 18 | [Jane Sutherland](http://twitter.com/search?q=Jane+Sutherland) | N/A |
+| 19 | [Februar 2020](http://twitter.com/search?q=Februar+2020) | N/A |
+| 20 | [Foul](http://twitter.com/search?q=Foul) | N/A |
 | 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 22 | [Februar 2020](http://twitter.com/search?q=Februar+2020) | N/A |
-| 23 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 24 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 25 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 26 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 27 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 28 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
-| 29 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 30 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 31 | [Plea](http://twitter.com/search?q=Plea) | N/A |
-| 32 | [Pfadfinder](http://twitter.com/search?q=Pfadfinder) | N/A |
-| 33 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 23 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 24 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
+| 25 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 26 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 27 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 28 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 29 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 30 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 31 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 32 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 33 | [Plea](http://twitter.com/search?q=Plea) | N/A |
 | 34 | [Guten Morgen Christian](http://twitter.com/search?q=Guten+Morgen+Christian) | N/A |
-| 35 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
-| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 37 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 38 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 39 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
-| 40 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 41 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 42 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 43 | [zieler](http://twitter.com/search?q=zieler) | N/A |
+| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 37 | [Welz](http://twitter.com/search?q=Welz) | N/A |
+| 38 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
+| 39 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
+| 40 | [Gökhan Gültekin](http://twitter.com/search?q=G%c3%b6khan+G%c3%bcltekin) | N/A |
+| 41 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 42 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 43 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
 | 44 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 45 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 46 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 47 | [Benachrichtigungen](http://twitter.com/search?q=Benachrichtigungen) | N/A |
-| 48 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 45 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
+| 46 | [Mercedes Kierpacz](http://twitter.com/search?q=Mercedes+Kierpacz) | N/A |
+| 47 | [Rote Karte](http://twitter.com/search?q=Rote+Karte) | N/A |
+| 48 | [Benachrichtigungen](http://twitter.com/search?q=Benachrichtigungen) | N/A |
 
 
 

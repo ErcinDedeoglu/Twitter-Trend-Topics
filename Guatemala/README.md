@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-19 09:16:46 UTC`
+📆 Last Updated: `2023-02-19 10:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,12 +25,12 @@ This is top 50 for Guatemala
 | 8 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 | 9 | [Massiel Carrillo](http://twitter.com/search?q=Massiel+Carrillo) | N/A |
 | 10 | [Xelajú](http://twitter.com/search?q=Xelaj%c3%ba) | N/A |
-| 11 | [Darwin Lom](http://twitter.com/search?q=Darwin+Lom) | N/A |
+| 11 | [darwin lom](http://twitter.com/search?q=darwin+lom) | N/A |
 | 12 | [gabino vásquez](http://twitter.com/search?q=gabino+v%c3%a1squez) | N/A |
 | 13 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 14 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 15 | [saúl sagastume](http://twitter.com/search?q=sa%c3%bal+sagastume) | N/A |
-| 16 | [Malacateco](http://twitter.com/search?q=Malacateco) | N/A |
+| 16 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
 | 17 | [#vamosrojos](http://twitter.com/search?q=%23vamosrojos) | N/A |
 | 18 | [Premier](http://twitter.com/search?q=Premier) | N/A |
 | 19 | [#HalaMadridYNadaMas](http://twitter.com/search?q=%23HalaMadridYNadaMas) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for Guatemala
 | 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 22 | [Patricia Sandoval](http://twitter.com/search?q=Patricia+Sandoval) | N/A |
 | 23 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 24 | [Mario Camposeco](http://twitter.com/search?q=Mario+Camposeco) | N/A |
+| 24 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
 | 25 | [sequen](http://twitter.com/search?q=sequen) | N/A |
 | 26 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 27 | [Altan](http://twitter.com/search?q=Altan) | N/A |
@@ -58,10 +58,10 @@ This is top 50 for Guatemala
 | 41 | [alejandro giammattei](http://twitter.com/search?q=alejandro+giammattei) | N/A |
 | 42 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
 | 43 | [Sistema Penitenciario](http://twitter.com/search?q=Sistema+Penitenciario) | N/A |
-| 44 | [jornada 7](http://twitter.com/search?q=jornada+7) | N/A |
-| 45 | [Vía Rubén Jocol](http://twitter.com/search?q=V%c3%ada+Rub%c3%a9n+Jocol) | N/A |
-| 46 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 47 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 44 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 45 | [Jornada 7](http://twitter.com/search?q=Jornada+7) | N/A |
+| 46 | [vía rubén jocol](http://twitter.com/search?q=v%c3%ada+rub%c3%a9n+jocol) | N/A |
+| 47 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 48 | [Nueva Zelanda](http://twitter.com/search?q=Nueva+Zelanda) | N/A |
 | 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 50 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |

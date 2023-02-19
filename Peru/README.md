@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-19 09:16:49 UTC`
+📆 Last Updated: `2023-02-19 10:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,31 +30,31 @@ This is top 50 for Peru
 | 13 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
 | 14 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
 | 15 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 16 | [varillas](http://twitter.com/search?q=varillas) | N/A |
+| 16 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
 | 17 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
 | 18 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
-| 21 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
-| 22 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
-| 23 | [raziel garcía](http://twitter.com/search?q=raziel+garc%c3%ada) | N/A |
-| 24 | [juanpi](http://twitter.com/search?q=juanpi) | N/A |
-| 25 | [parque Kennedy](http://twitter.com/search?q=parque+Kennedy) | N/A |
-| 26 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 27 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
-| 28 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 29 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 30 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 31 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 19 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 20 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
+| 21 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
+| 22 | [raziel garcía](http://twitter.com/search?q=raziel+garc%c3%ada) | N/A |
+| 23 | [juanpi](http://twitter.com/search?q=juanpi) | N/A |
+| 24 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 25 | [Alianza del Pacífico](http://twitter.com/search?q=Alianza+del+Pac%c3%adfico) | N/A |
+| 26 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 27 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 28 | [Parque Kennedy](http://twitter.com/search?q=Parque+Kennedy) | N/A |
+| 29 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 30 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 31 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
 | 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 33 | [Porky](http://twitter.com/search?q=Porky) | N/A |
 | 34 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 | 35 | [Pablo Sabbag](http://twitter.com/search?q=Pablo+Sabbag) | N/A |
 | 36 | [gianluca lapadula](http://twitter.com/search?q=gianluca+lapadula) | N/A |
 | 37 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 38 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 39 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 40 | [Ballón](http://twitter.com/search?q=Ball%c3%b3n) | N/A |
+| 38 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 39 | [Ballón](http://twitter.com/search?q=Ball%c3%b3n) | N/A |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 41 | [alberto gallardo](http://twitter.com/search?q=alberto+gallardo) | N/A |
 | 42 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
 | 43 | [Pleno del Congreso](http://twitter.com/search?q=Pleno+del+Congreso) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Peru
 | 46 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
 | 47 | [Cagliari](http://twitter.com/search?q=Cagliari) | N/A |
 | 48 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 49 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 50 | [Bari](http://twitter.com/search?q=Bari) | N/A |
+| 49 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 50 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 
 
 

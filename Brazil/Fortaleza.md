@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-19 09:16:04 UTC`
+📆 Last Updated: `2023-02-19 10:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
 | 4 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 5 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 6 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 8 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 9 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 6 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 7 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 8 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
+| 9 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
 | 10 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
 | 11 | [juliette no galo da madrugada](http://twitter.com/search?q=juliette+no+galo+da+madrugada) | N/A |
-| 12 | [matheus gonçalves](http://twitter.com/search?q=matheus+gon%c3%a7alves) | N/A |
-| 13 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 14 | [União da Ilha](http://twitter.com/search?q=Uni%c3%a3o+da+Ilha) | N/A |
+| 12 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 13 | [matheus gonçalves](http://twitter.com/search?q=matheus+gon%c3%a7alves) | N/A |
+| 14 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
 | 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 16 | [McClung](http://twitter.com/search?q=McClung) | N/A |
 | 17 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
 | 18 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 19 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
 | 20 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 21 | [terceiro milênio](http://twitter.com/search?q=terceiro+mil%c3%aanio) | N/A |
-| 22 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 23 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 24 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 21 | [União da Ilha](http://twitter.com/search?q=Uni%c3%a3o+da+Ilha) | N/A |
+| 22 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
+| 23 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 24 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 25 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 26 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 27 | [#provaroubada](http://twitter.com/search?q=%23provaroubada) | N/A |
-| 28 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 29 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
+| 26 | [#provaroubada](http://twitter.com/search?q=%23provaroubada) | N/A |
+| 27 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 29 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
 | 30 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 31 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 31 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
 | 32 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 33 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 34 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
-| 35 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 36 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
-| 37 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 38 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
-| 39 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 40 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
-| 41 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 33 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
+| 34 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 35 | [marinho](http://twitter.com/search?q=marinho) | N/A |
+| 36 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
+| 37 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
+| 38 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 39 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
+| 40 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 41 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
 | 42 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
 | 43 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
 | 44 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 45 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 46 | [DAME TIME](http://twitter.com/search?q=DAME+TIME) | N/A |
-| 47 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
-| 48 | [unidos da ponte](http://twitter.com/search?q=unidos+da+ponte) | N/A |
-| 49 | [cuiabano](http://twitter.com/search?q=cuiabano) | N/A |
-| 50 | [gaviões](http://twitter.com/search?q=gavi%c3%b5es) | N/A |
+| 45 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
+| 46 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 47 | [patrocinense](http://twitter.com/search?q=patrocinense) | N/A |
+| 48 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
+| 49 | [unidos da ponte](http://twitter.com/search?q=unidos+da+ponte) | N/A |
+| 50 | [cuiabano](http://twitter.com/search?q=cuiabano) | N/A |
 
 
 
