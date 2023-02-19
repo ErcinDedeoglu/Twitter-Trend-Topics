@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-02-19 05:17:31 UTC`
+📆 Last Updated: `2023-02-19 06:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
-| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 3 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 4 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 3 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 7 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 6 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 7 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 8 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 10 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 11 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 12 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 13 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 9 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
+| 10 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 11 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 12 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 13 | [Mania](http://twitter.com/search?q=Mania) | N/A |
 | 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 15 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 16 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 16 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
 | 17 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 18 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 20 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 21 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 22 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
-| 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 24 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 25 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 18 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 19 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 20 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 21 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 22 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 23 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 24 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 25 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
 | 26 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
-| 27 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 28 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 29 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
-| 30 | [G League](http://twitter.com/search?q=G+League) | N/A |
-| 31 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 32 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 33 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 34 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
-| 35 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 36 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 37 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 38 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 39 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 27 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
+| 28 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 29 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 30 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 31 | [That's a 50](http://twitter.com/search?q=That%27s+a+50) | N/A |
+| 32 | [G League](http://twitter.com/search?q=G+League) | N/A |
+| 33 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
+| 34 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 35 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
+| 36 | [KENTA](http://twitter.com/search?q=KENTA) | KENTA is a Japanese given name. It is written with the characters 健太, which can be translated to mean "strong and prosperous". |
+| 37 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 38 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 39 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
 | 40 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 41 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
-| 42 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 43 | [KENTA](http://twitter.com/search?q=KENTA) | KENTA is a Japanese given name. It is written with the characters 健太, which can be translated to mean "strong and prosperous". |
-| 44 | [That's a 50](http://twitter.com/search?q=That%27s+a+50) | N/A |
-| 45 | [Harold Miner](http://twitter.com/search?q=Harold+Miner) | N/A |
-| 46 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 47 | [Erin Blanchfield](http://twitter.com/search?q=Erin+Blanchfield) | N/A |
-| 48 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 49 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 41 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 42 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 43 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 44 | [David Finlay](http://twitter.com/search?q=David+Finlay) | N/A |
+| 45 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 46 | [Harold Miner](http://twitter.com/search?q=Harold+Miner) | N/A |
+| 47 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 48 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 49 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
 
 
 

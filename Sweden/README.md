@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-19 05:17:41 UTC`
+📆 Last Updated: `2023-02-19 06:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,7 +47,7 @@ This is top 50 for Sweden
 | 30 | [Jämtin](http://twitter.com/search?q=J%c3%a4mtin) | N/A |
 | 31 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
 | 32 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
-| 33 | [Casanovas](http://twitter.com/search?q=Casanovas) | N/A |
+| 33 | [casanovas](http://twitter.com/search?q=casanovas) | N/A |
 | 34 | [ruohomaa](http://twitter.com/search?q=ruohomaa) | N/A |
 | 35 | [Laurell](http://twitter.com/search?q=Laurell) | N/A |
 | 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |

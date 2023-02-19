@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-19 05:17:38 UTC`
+📆 Last Updated: `2023-02-19 06:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for Kuwait
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#صلاه_الفجر](http://twitter.com/search?q=%23%d8%b5%d9%84%d8%a7%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 2 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
-| 3 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 4 | [#عبدالله_الرويشد](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d8%b4%d8%af) | N/A |
+| 1 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
+| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 3 | [#عبدالله_الرويشد](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d8%b4%d8%af) | N/A |
+| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 5 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 6 | [#البزنس74](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b374) | N/A |
 | 7 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
@@ -54,17 +54,17 @@ This is top 50 for Kuwait
 | 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 38 | [فتحي كميل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d9%83%d9%85%d9%8a%d9%84) | N/A |
 | 39 | [لبس وطني](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 40 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 41 | [يابو يوسف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 42 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 43 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 44 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 45 | [غلادباخ](http://twitter.com/search?q=%d8%ba%d9%84%d8%a7%d8%af%d8%a8%d8%a7%d8%ae) | N/A |
-| 46 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 47 | [عبدالله الغربللي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%84%d9%84%d9%8a) | N/A |
-| 48 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 49 | [كتاب النقل](http://twitter.com/search?q=%d9%83%d8%aa%d8%a7%d8%a8+%d8%a7%d9%84%d9%86%d9%82%d9%84) | N/A |
-| 50 | [بو شملان](http://twitter.com/search?q=%d8%a8%d9%88+%d8%b4%d9%85%d9%84%d8%a7%d9%86) | N/A |
+| 40 | [يابو يوسف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 41 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 42 | [غلادباخ](http://twitter.com/search?q=%d8%ba%d9%84%d8%a7%d8%af%d8%a8%d8%a7%d8%ae) | N/A |
+| 43 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 44 | [عبدالله الغربللي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%84%d9%84%d9%8a) | N/A |
+| 45 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 46 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 47 | [كتاب النقل](http://twitter.com/search?q=%d9%83%d8%aa%d8%a7%d8%a8+%d8%a7%d9%84%d9%86%d9%82%d9%84) | N/A |
+| 48 | [بو شملان](http://twitter.com/search?q=%d8%a8%d9%88+%d8%b4%d9%85%d9%84%d8%a7%d9%86) | N/A |
+| 49 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 50 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
 
 
 

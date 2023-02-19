@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-19 05:17:02 UTC`
+📆 Last Updated: `2023-02-19 06:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for [Norway](</Norway>)
 | 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 20 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 21 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 23 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 24 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 25 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 26 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 22 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 23 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 24 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
+| 25 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 26 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 27 | [bjerke](http://twitter.com/search?q=bjerke) | N/A |
 | 28 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
 | 29 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
 | 30 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 31 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 32 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 33 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 35 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 36 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 37 | [rv 7 hardangervidda](http://twitter.com/search?q=rv+7+hardangervidda) | N/A |
-| 38 | [fv 53 tyin-årdal](http://twitter.com/search?q=fv+53+tyin-%c3%a5rdal) | N/A |
-| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 40 | [narvik](http://twitter.com/search?q=narvik) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [rv 13 vikafjell](http://twitter.com/search?q=rv+13+vikafjell) | N/A |
-| 43 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 44 | [spesialenheten](http://twitter.com/search?q=spesialenheten) | N/A |
-| 45 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
-| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
-| 49 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 50 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 32 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
+| 33 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 37 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 38 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 39 | [rv 7 hardangervidda](http://twitter.com/search?q=rv+7+hardangervidda) | N/A |
+| 40 | [fv 53 tyin-årdal](http://twitter.com/search?q=fv+53+tyin-%c3%a5rdal) | N/A |
+| 41 | [narvik](http://twitter.com/search?q=narvik) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [rv 13 vikafjell](http://twitter.com/search?q=rv+13+vikafjell) | N/A |
+| 44 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [spesialenheten](http://twitter.com/search?q=spesialenheten) | N/A |
+| 47 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 48 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 49 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
+| 50 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 
 
 

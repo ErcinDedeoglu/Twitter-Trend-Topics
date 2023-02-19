@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-19 05:16:50 UTC`
+📆 Last Updated: `2023-02-19 06:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
 | 4 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
 | 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 6 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
 | 7 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 8 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 9 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
-| 10 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 9 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 10 | [Alicia Pietri](http://twitter.com/search?q=Alicia+Pietri) | N/A |
 | 11 | [Viernes Negro](http://twitter.com/search?q=Viernes+Negro) | N/A |
-| 12 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 13 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 14 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 15 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 16 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 17 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 18 | [Dedos](http://twitter.com/search?q=Dedos) | N/A |
-| 19 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 20 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
-| 21 | [Papelón](http://twitter.com/search?q=Papel%c3%b3n) | N/A |
-| 22 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 23 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 24 | [Hans Asperger](http://twitter.com/search?q=Hans+Asperger) | N/A |
-| 25 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 26 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 27 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
+| 12 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 13 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 15 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 16 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 17 | [Dedos](http://twitter.com/search?q=Dedos) | N/A |
+| 18 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 19 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
+| 20 | [Papelón](http://twitter.com/search?q=Papel%c3%b3n) | N/A |
+| 21 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 22 | [Hans Asperger](http://twitter.com/search?q=Hans+Asperger) | N/A |
+| 23 | [Robert Pérez](http://twitter.com/search?q=Robert+P%c3%a9rez) | N/A |
+| 24 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 25 | [Museo](http://twitter.com/search?q=Museo) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [Natalie Wood](http://twitter.com/search?q=Natalie+Wood) | N/A |
 | 28 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
-| 29 | [Natalie Wood](http://twitter.com/search?q=Natalie+Wood) | N/A |
-| 30 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 31 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 32 | [Lassito](http://twitter.com/search?q=Lassito) | N/A |
-| 33 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 34 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 37 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 38 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 39 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
-| 40 | [La Hormiga Atómica](http://twitter.com/search?q=La+Hormiga+At%c3%b3mica) | N/A |
-| 41 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 42 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
-| 43 | [Manotas](http://twitter.com/search?q=Manotas) | N/A |
-| 44 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
-| 45 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 46 | [Tachira](http://twitter.com/search?q=Tachira) | N/A |
+| 29 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 30 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 31 | [Lassito](http://twitter.com/search?q=Lassito) | N/A |
+| 32 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 35 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 36 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 37 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
+| 38 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
+| 39 | [La Hormiga Atómica](http://twitter.com/search?q=La+Hormiga+At%c3%b3mica) | N/A |
+| 40 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 41 | [Raíces](http://twitter.com/search?q=Ra%c3%adces) | N/A |
+| 42 | [Manotas](http://twitter.com/search?q=Manotas) | N/A |
+| 43 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
+| 44 | [Tachira](http://twitter.com/search?q=Tachira) | N/A |
+| 45 | [humberto fernández morán](http://twitter.com/search?q=humberto+fern%c3%a1ndez+mor%c3%a1n) | N/A |
+| 46 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
 
 
 

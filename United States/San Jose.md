@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-19 05:17:32 UTC`
+📆 Last Updated: `2023-02-19 06:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 2 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 3 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
-| 4 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 5 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 6 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 7 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
-| 8 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
-| 9 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 10 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 11 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 13 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 14 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 16 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 17 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 18 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 19 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 20 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 21 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 23 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 24 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 25 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 1 | [#DGAAwards](http://twitter.com/search?q=%23DGAAwards) | N/A |
+| 2 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 5 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 6 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 7 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 8 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 9 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 10 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 11 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 12 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 13 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 14 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 15 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 16 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 19 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 20 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 21 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 22 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 23 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 24 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 25 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
 | 26 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 27 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 28 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 29 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 30 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 31 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 32 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 33 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 34 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
-| 35 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 36 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 37 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
-| 38 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
-| 39 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 40 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 41 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
-| 42 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 43 | [G League](http://twitter.com/search?q=G+League) | N/A |
-| 44 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 45 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 46 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
-| 47 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 48 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 27 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 28 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 29 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 30 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 31 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 32 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 33 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 34 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 35 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 36 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
+| 37 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
+| 38 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 39 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 40 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 41 | [That's a 50](http://twitter.com/search?q=That%27s+a+50) | N/A |
+| 42 | [G League](http://twitter.com/search?q=G+League) | N/A |
+| 43 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
+| 44 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 45 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
+| 46 | [KENTA](http://twitter.com/search?q=KENTA) | KENTA is a Japanese given name. It is written with the characters 健太, which can be translated to mean "strong and prosperous". |
+| 47 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 48 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
 | 49 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 50 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 50 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-19 05:17:02 UTC`
+📆 Last Updated: `2023-02-19 06:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,7 +47,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 30 | [Jämtin](http://twitter.com/search?q=J%c3%a4mtin) | N/A |
 | 31 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
 | 32 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
-| 33 | [Casanovas](http://twitter.com/search?q=Casanovas) | N/A |
+| 33 | [casanovas](http://twitter.com/search?q=casanovas) | N/A |
 | 34 | [ruohomaa](http://twitter.com/search?q=ruohomaa) | N/A |
 | 35 | [Laurell](http://twitter.com/search?q=Laurell) | N/A |
 | 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
@@ -58,7 +58,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 41 | [ida-lova](http://twitter.com/search?q=ida-lova) | N/A |
 | 42 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 43 | [petra mede](http://twitter.com/search?q=petra+mede) | N/A |
-| 44 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 44 | [demirok](http://twitter.com/search?q=demirok) | N/A |
 | 45 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 47 | [lidköping](http://twitter.com/search?q=lidk%c3%b6ping) | N/A |

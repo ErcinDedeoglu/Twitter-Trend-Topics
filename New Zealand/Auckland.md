@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-19 05:17:24 UTC`
+📆 Last Updated: `2023-02-19 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,49 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
-| 5 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 6 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 2 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 5 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 7 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 9 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 10 | [plunket](http://twitter.com/search?q=plunket) | N/A |
-| 11 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 12 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 13 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 14 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 15 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 9 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 10 | [#NZvsENG](http://twitter.com/search?q=%23NZvsENG) | N/A |
+| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 12 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 13 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 14 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 15 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 16 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 17 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 18 | [Farrar](http://twitter.com/search?q=Farrar) | N/A |
-| 19 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 18 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 19 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
 | 23 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
-| 24 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 25 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 26 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 27 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 28 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 29 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 30 | [Blundell](http://twitter.com/search?q=Blundell) | N/A |
-| 31 | [Southland](http://twitter.com/search?q=Southland) | N/A |
-| 32 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 33 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 34 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 35 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 36 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
-| 37 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 38 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
-| 39 | [Hoots](http://twitter.com/search?q=Hoots) | N/A |
-| 40 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 42 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
-| 43 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 24 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 26 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 27 | [Plunket](http://twitter.com/search?q=Plunket) | N/A |
+| 28 | [Blundell](http://twitter.com/search?q=Blundell) | N/A |
+| 29 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 30 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 31 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 32 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 33 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 34 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
+| 35 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 36 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 37 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
+| 38 | [Hoots](http://twitter.com/search?q=Hoots) | N/A |
+| 39 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 40 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 41 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
+| 42 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 44 | [Richard](http://twitter.com/search?q=Richard) | N/A |
 | 45 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
 | 46 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
 | 47 | [Texas](http://twitter.com/search?q=Texas) | N/A |
