@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-19 08:17:15 UTC`
+📆 Last Updated: `2023-02-19 09:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 2 | [#AnchorDown](http://twitter.com/search?q=%23AnchorDown) | N/A |
-| 3 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 4 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 5 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 6 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
-| 7 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 2 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 3 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 4 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 5 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 7 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 8 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 10 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 11 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 9 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 10 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 11 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
 | 12 | [Kairi](http://twitter.com/search?q=Kairi) | Kairi is a Japanese name meaning "ocean village". It is also the name of a character in the popular video game series Kingdom Hearts. |
 | 13 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 14 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 15 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 14 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 15 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 | 16 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 17 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 18 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 19 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 20 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 21 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 22 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 23 | [Hana Kimura](http://twitter.com/search?q=Hana+Kimura) | N/A |
-| 24 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 17 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 18 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 19 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 20 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
+| 21 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 22 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 23 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 24 | [Hana Kimura](http://twitter.com/search?q=Hana+Kimura) | N/A |
 | 25 | [Tanahashi](http://twitter.com/search?q=Tanahashi) | N/A |
 | 26 | [Mone](http://twitter.com/search?q=Mone) | N/A |
-| 27 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
-| 28 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 29 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
-| 30 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 27 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
+| 28 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 29 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 30 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
 | 31 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 32 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
-| 33 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
-| 34 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
-| 35 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 36 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 37 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 38 | [Hacienda Heights](http://twitter.com/search?q=Hacienda+Heights) | N/A |
-| 39 | [New Japan](http://twitter.com/search?q=New+Japan) | N/A |
-| 40 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 41 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 42 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 43 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 44 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 45 | [kenta](http://twitter.com/search?q=kenta) | N/A |
-| 46 | [G League](http://twitter.com/search?q=G+League) | N/A |
-| 47 | [Rollins](http://twitter.com/search?q=Rollins) | N/A |
-| 48 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 49 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 50 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 32 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [Hacienda Heights](http://twitter.com/search?q=Hacienda+Heights) | N/A |
+| 35 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 36 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 37 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 38 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 39 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 40 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 41 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 42 | [KENTA](http://twitter.com/search?q=KENTA) | KENTA is a Japanese given name. It is written with the characters 健太, which can be translated to mean "strong and prosperous". |
+| 43 | [G-League](http://twitter.com/search?q=G-League) | N/A |
+| 44 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 45 | [New Japan](http://twitter.com/search?q=New+Japan) | N/A |
+| 46 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 47 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 48 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 49 | [His World](http://twitter.com/search?q=His+World) | N/A |
+| 50 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
 
 
 

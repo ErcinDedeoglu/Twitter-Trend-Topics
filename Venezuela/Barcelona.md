@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-19 08:16:40 UTC`
+📆 Last Updated: `2023-02-19 09:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#18Feb](http://twitter.com/search?q=%2318Feb) | N/A |
 | 2 | [#CarnavalesSeguros2023](http://twitter.com/search?q=%23CarnavalesSeguros2023) | N/A |
-| 3 | [#ElEsequiboEsDeVenezuela](http://twitter.com/search?q=%23ElEsequiboEsDeVenezuela) | N/A |
-| 4 | [pierina españa](http://twitter.com/search?q=pierina+espa%c3%b1a) | N/A |
+| 3 | [#elesequiboesdevenezuela](http://twitter.com/search?q=%23elesequiboesdevenezuela) | N/A |
+| 4 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
 | 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 6 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
@@ -37,30 +37,30 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 20 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
 | 21 | [pueblo nuevo](http://twitter.com/search?q=pueblo+nuevo) | N/A |
 | 22 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 23 | [museo](http://twitter.com/search?q=museo) | N/A |
-| 24 | [papelón](http://twitter.com/search?q=papel%c3%b3n) | N/A |
+| 23 | [Museo](http://twitter.com/search?q=Museo) | N/A |
+| 24 | [Papelón](http://twitter.com/search?q=Papel%c3%b3n) | N/A |
 | 25 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 26 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
-| 27 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 28 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 29 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 30 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 31 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 32 | [hazard](http://twitter.com/search?q=hazard) | N/A |
+| 26 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 27 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 28 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 29 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 30 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 31 | [Acuerdo de Ginebra](http://twitter.com/search?q=Acuerdo+de+Ginebra) | N/A |
+| 32 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 33 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
 | 34 | [salomón rondón](http://twitter.com/search?q=salom%c3%b3n+rond%c3%b3n) | N/A |
 | 35 | [Enrique Guzmán](http://twitter.com/search?q=Enrique+Guzm%c3%a1n) | N/A |
 | 36 | [la hormiga atómica](http://twitter.com/search?q=la+hormiga+at%c3%b3mica) | N/A |
 | 37 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
 | 38 | [Tachira](http://twitter.com/search?q=Tachira) | N/A |
-| 39 | [raíces](http://twitter.com/search?q=ra%c3%adces) | N/A |
-| 40 | [Manotas](http://twitter.com/search?q=Manotas) | N/A |
-| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 42 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 43 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
-| 44 | [Daza](http://twitter.com/search?q=Daza) | N/A |
-| 45 | [humberto fernández morán](http://twitter.com/search?q=humberto+fern%c3%a1ndez+mor%c3%a1n) | N/A |
-| 46 | [Nicolas Cage](http://twitter.com/search?q=Nicolas+Cage) | Nicolas Cage is an American actor, director, and producer. He is known for his diverse range of roles in films such as Leaving Las Vegas, Con Air, Face/Off, National Treasure, and Ghost Rider. The phrase "Nicolas Cage" has become a popular internet meme used to describe something that is over-the-top or absurd. |
+| 39 | [Manotas](http://twitter.com/search?q=Manotas) | N/A |
+| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 41 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
+| 42 | [Daza](http://twitter.com/search?q=Daza) | N/A |
+| 43 | [humberto fernández morán](http://twitter.com/search?q=humberto+fern%c3%a1ndez+mor%c3%a1n) | N/A |
+| 44 | [Nicolas Cage](http://twitter.com/search?q=Nicolas+Cage) | Nicolas Cage is an American actor, director, and producer. He is known for his diverse range of roles in films such as Leaving Las Vegas, Con Air, Face/Off, National Treasure, and Ghost Rider. The phrase "Nicolas Cage" has become a popular internet meme used to describe something that is over-the-top or absurd. |
+| 45 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 46 | [Congreso de Perú](http://twitter.com/search?q=Congreso+de+Per%c3%ba) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-19 08:17:21 UTC`
+📆 Last Updated: `2023-02-19 09:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,18 +23,18 @@ This is top 50 for Dominican Republic
 | 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 7 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 8 | [día nacional del estudiante](http://twitter.com/search?q=d%c3%ada+nacional+del+estudiante) | N/A |
-| 9 | [Homs](http://twitter.com/search?q=Homs) | N/A |
+| 9 | [HOMS](http://twitter.com/search?q=HOMS) | N/A |
 | 10 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
 | 11 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
 | 12 | [#SLAMDUNK](http://twitter.com/search?q=%23SLAMDUNK) | N/A |
 | 13 | [tolentino](http://twitter.com/search?q=tolentino) | N/A |
 | 14 | [Esmeralda Richiez](http://twitter.com/search?q=Esmeralda+Richiez) | N/A |
 | 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 16 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 17 | [En Japón](http://twitter.com/search?q=En+Jap%c3%b3n) | N/A |
+| 16 | [En Japón](http://twitter.com/search?q=En+Jap%c3%b3n) | N/A |
+| 17 | [Cultura Profética](http://twitter.com/search?q=Cultura+Prof%c3%a9tica) | N/A |
 | 18 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
 | 19 | [Angel Dior](http://twitter.com/search?q=Angel+Dior) | N/A |
-| 20 | [Faride](http://twitter.com/search?q=Faride) | N/A |
+| 20 | [faride](http://twitter.com/search?q=faride) | N/A |
 | 21 | [wason](http://twitter.com/search?q=wason) | N/A |
 | 22 | [#díadelestudiante](http://twitter.com/search?q=%23d%c3%adadelestudiante) | N/A |
 | 23 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |

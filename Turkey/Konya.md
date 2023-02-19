@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-19 08:17:10 UTC`
+📆 Last Updated: `2023-02-19 09:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
 | 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 10 | [yalnızlaştık](http://twitter.com/search?q=yaln%c4%b1zla%c5%9ft%c4%b1k) | N/A |
-| 11 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 12 | [her zaman umut](http://twitter.com/search?q=her+zaman+umut) | N/A |
-| 13 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 14 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 11 | [her zaman umut](http://twitter.com/search?q=her+zaman+umut) | N/A |
+| 12 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 13 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 14 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 15 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 16 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 16 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
 | 17 | [alihan adamdır](http://twitter.com/search?q=alihan+adamd%c4%b1r) | N/A |
-| 18 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 19 | [Thanks to TÜRKİYE](http://twitter.com/search?q=Thanks+to+T%c3%9cRK%c4%b0YE) | N/A |
-| 20 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 21 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 22 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
+| 18 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 19 | [Aşk Kazandı](http://twitter.com/search?q=A%c5%9fk+Kazand%c4%b1) | N/A |
+| 20 | [Thanks to TÜRKİYE](http://twitter.com/search?q=Thanks+to+T%c3%9cRK%c4%b0YE) | N/A |
+| 21 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 22 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
 | 23 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 24 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 24 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
 | 25 | [ilknurtepeden osurdu](http://twitter.com/search?q=ilknurtepeden+osurdu) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 28 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
-| 29 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 26 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 27 | [Antre](http://twitter.com/search?q=Antre) | N/A |
+| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 29 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
 | 30 | [Berfin](http://twitter.com/search?q=Berfin) | N/A |
-| 31 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
-| 32 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
-| 33 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 34 | [Dolandırıcının](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1n%c4%b1n) | N/A |
-| 35 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
-| 36 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 37 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
-| 38 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 39 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 40 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 41 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 42 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 43 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 31 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 32 | [Ahaber](http://twitter.com/search?q=Ahaber) | N/A |
+| 33 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 34 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
+| 35 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
+| 36 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
+| 37 | [Dolandırıcının](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1n%c4%b1n) | N/A |
+| 38 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 39 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
+| 40 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 41 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
+| 42 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
+| 43 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
 | 44 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 45 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
-| 46 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
-| 47 | [bilenkazanır googleplayde](http://twitter.com/search?q=bilenkazan%c4%b1r+googleplayde) | N/A |
-| 48 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
-| 49 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 50 | [Uludağ Üniversitesi](http://twitter.com/search?q=Uluda%c4%9f+%c3%9cniversitesi) | N/A |
+| 45 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 46 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 47 | [Uludağ Üniversitesi](http://twitter.com/search?q=Uluda%c4%9f+%c3%9cniversitesi) | N/A |
+| 48 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 49 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 50 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
 
 
 

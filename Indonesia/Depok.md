@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-19 08:16:51 UTC`
+📆 Last Updated: `2023-02-19 09:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,44 +18,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
 | 2 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
 | 3 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 4 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 5 | [#KitaDukungJakartaSTINBIN](http://twitter.com/search?q=%23KitaDukungJakartaSTINBIN) | N/A |
-| 6 | [#BersihBerprestasi](http://twitter.com/search?q=%23BersihBerprestasi) | N/A |
+| 4 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 5 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 6 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
 | 7 | [Era Baru PSSI](http://twitter.com/search?q=Era+Baru+PSSI) | N/A |
-| 8 | [NCT DREAM KYOCERA DOME DAY3](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY3) | N/A |
-| 9 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 11 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 12 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 13 | [FOCUS ON THE ASTRONAUT](http://twitter.com/search?q=FOCUS+ON+THE+ASTRONAUT) | N/A |
-| 14 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 15 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
-| 16 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 17 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
-| 18 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 19 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 20 | [Jakarta BIN](http://twitter.com/search?q=Jakarta+BIN) | N/A |
-| 21 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
-| 23 | [#TDS2KyoceraDome_DAY3](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY3) | N/A |
-| 24 | [#burberryxbright](http://twitter.com/search?q=%23burberryxbright) | N/A |
-| 25 | [#2023_웬디데이_파티](http://twitter.com/search?q=%232023_%ec%9b%ac%eb%94%94%eb%8d%b0%ec%9d%b4_%ed%8c%8c%ed%8b%b0) | N/A |
-| 26 | [#WENDYDAYPARTY](http://twitter.com/search?q=%23WENDYDAYPARTY) | N/A |
-| 27 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
-| 28 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 29 | [#jodohditanganantono](http://twitter.com/search?q=%23jodohditanganantono) | N/A |
-| 30 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 31 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
-| 32 | [#NCTDREAM初ドームおめでとう](http://twitter.com/search?q=%23NCTDREAM%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 33 | [#TheAstronautBoostParty](http://twitter.com/search?q=%23TheAstronautBoostParty) | N/A |
-| 34 | [#StyleAndInnovationInOneSUV](http://twitter.com/search?q=%23StyleAndInnovationInOneSUV) | N/A |
-| 35 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 36 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
-| 37 | [#SecretNumberJapanDebut](http://twitter.com/search?q=%23SecretNumberJapanDebut) | N/A |
-| 38 | [#Newwiee](http://twitter.com/search?q=%23Newwiee) | N/A |
-| 39 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
-| 40 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 41 | [#GueBarengErickThohir](http://twitter.com/search?q=%23GueBarengErickThohir) | N/A |
+| 8 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 9 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
+| 10 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
+| 11 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 12 | [No 15](http://twitter.com/search?q=No+15) | N/A |
+| 13 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 14 | [NCT DREAM KYOCERA DOME DAY3](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY3) | N/A |
+| 15 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 16 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 17 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 19 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 20 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 21 | [Nabi Muhammad SAW](http://twitter.com/search?q=Nabi+Muhammad+SAW) | N/A |
+| 22 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 23 | [Rans](http://twitter.com/search?q=Rans) | N/A |
+| 24 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 25 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 27 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
+| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 29 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 30 | [27 rajab 1444 h](http://twitter.com/search?q=27+rajab+1444+h) | N/A |
+| 31 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 34 | [MC JJUNIJJUN DAY](http://twitter.com/search?q=MC+JJUNIJJUN+DAY) | MC JJUNIJJUN DAY is an annual event held in South Korea to celebrate the birthday of the popular K-pop artist MC JJUNIJJUN. The event is usually held on August 7th and includes a variety of activities such as fan meetings, special performances, and giveaways. The name of the event is derived from the artist's stage name, which is a combination of his real name (Jun) and his nickname (JJUNI). In English, MC JJUNIJJUN DAY translates to "MC JJUNIJJUN's Birthday Celebration". |
+| 35 | [Rp 1](http://twitter.com/search?q=Rp+1) | N/A |
+| 36 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 37 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
+| 38 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 39 | [SATURDAY DRIP](http://twitter.com/search?q=SATURDAY+DRIP) | N/A |
+| 40 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
+| 43 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
+| 44 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 45 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
+| 46 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 47 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
+| 48 | [tbc musuh semua](http://twitter.com/search?q=tbc+musuh+semua) | N/A |
+| 49 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 
 
 

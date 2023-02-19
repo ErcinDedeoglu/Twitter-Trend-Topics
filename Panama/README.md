@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-19 08:17:25 UTC`
+📆 Last Updated: `2023-02-19 09:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Riley Tanner](http://twitter.com/search?q=Riley+Tanner) | N/A |
-| 2 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 1 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 2 | [Riley Tanner](http://twitter.com/search?q=Riley+Tanner) | N/A |
 | 3 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 4 | [Marta Cox](http://twitter.com/search?q=Marta+Cox) | N/A |
 | 5 | [Papúa Nueva Guinea](http://twitter.com/search?q=Pap%c3%baa+Nueva+Guinea) | N/A |
@@ -27,19 +27,19 @@ This is top 50 for Panama
 | 10 | [cinta costera](http://twitter.com/search?q=cinta+costera) | N/A |
 | 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 12 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 13 | [#Carnavales2023](http://twitter.com/search?q=%23Carnavales2023) | N/A |
+| 13 | [#carnavales2023](http://twitter.com/search?q=%23carnavales2023) | N/A |
 | 14 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 15 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
 | 16 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 17 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
-| 18 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 19 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
+| 17 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 18 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
+| 19 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
 | 20 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 21 | [#operaciónalfa2023](http://twitter.com/search?q=%23operaci%c3%b3nalfa2023) | N/A |
 | 22 | [la espiga](http://twitter.com/search?q=la+espiga) | N/A |
 | 23 | [Penonomé](http://twitter.com/search?q=Penonom%c3%a9) | N/A |
 | 24 | [Chitré](http://twitter.com/search?q=Chitr%c3%a9) | N/A |
-| 25 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 25 | [campana](http://twitter.com/search?q=campana) | N/A |
 | 26 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 28 | [Calle Abajo](http://twitter.com/search?q=Calle+Abajo) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Panama
 | 46 | [senafront](http://twitter.com/search?q=senafront) | N/A |
 | 47 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 48 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 49 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 50 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 49 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 50 | [Nueva Zelanda](http://twitter.com/search?q=Nueva+Zelanda) | N/A |
 
 
 
