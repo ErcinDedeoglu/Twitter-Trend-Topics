@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-19 16:16:33 UTC`
+📆 Last Updated: `2023-02-19 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
 | 2 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 3 | [#INTRODUCING_ASA](http://twitter.com/search?q=%23INTRODUCING_ASA) | N/A |
-| 4 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 5 | [#8200TillForeverWithJunkyu](http://twitter.com/search?q=%238200TillForeverWithJunkyu) | N/A |
-| 6 | [TZUYU](http://twitter.com/search?q=TZUYU) | TZUYU is the stage name of a Taiwanese singer and dancer, Chou Tzu-yu. She is a member of the South Korean girl group Twice. The name TZUYU is derived from her given name, which means "knowing one's purpose" in Chinese. |
-| 7 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
-| 8 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
-| 9 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 10 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
-| 11 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 12 | [Ate J](http://twitter.com/search?q=Ate+J) | N/A |
-| 13 | [RED HAIR](http://twitter.com/search?q=RED+HAIR) | N/A |
-| 14 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 15 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 16 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 17 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 18 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 19 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 20 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
-| 21 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 22 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 23 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 24 | [Raica](http://twitter.com/search?q=Raica) | N/A |
-| 25 | [Math](http://twitter.com/search?q=Math) | N/A |
-| 26 | [#EUNCHAExKIRSH](http://twitter.com/search?q=%23EUNCHAExKIRSH) | N/A |
-| 27 | [#askbarbie](http://twitter.com/search?q=%23askbarbie) | N/A |
-| 28 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
-| 29 | [#NasaanKaReyster](http://twitter.com/search?q=%23NasaanKaReyster) | N/A |
-| 30 | [#ONEW](http://twitter.com/search?q=%23ONEW) | N/A |
-| 31 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 32 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 33 | [#EverybodySingLove](http://twitter.com/search?q=%23EverybodySingLove) | N/A |
-| 34 | [#TheClashHindiSusuko](http://twitter.com/search?q=%23TheClashHindiSusuko) | N/A |
-| 35 | [#TeamVinciGlobalLaunch](http://twitter.com/search?q=%23TeamVinciGlobalLaunch) | N/A |
-| 36 | [#WelcomeToJungwoosPlayground](http://twitter.com/search?q=%23WelcomeToJungwoosPlayground) | N/A |
-| 37 | [#BGYOxChowking](http://twitter.com/search?q=%23BGYOxChowking) | N/A |
-| 38 | [#ChowFanaloTakeover](http://twitter.com/search?q=%23ChowFanaloTakeover) | N/A |
-| 39 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 40 | [#G22_AnnivCB](http://twitter.com/search?q=%23G22_AnnivCB) | N/A |
-| 41 | [#BOYCOTTEBxGMA711](http://twitter.com/search?q=%23BOYCOTTEBxGMA711) | N/A |
-| 42 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 43 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
+| 3 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
+| 4 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
+| 5 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 6 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 7 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
+| 8 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
+| 9 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 10 | [TZUYU](http://twitter.com/search?q=TZUYU) | TZUYU is the stage name of a Taiwanese singer and dancer, Chou Tzu-yu. She is a member of the South Korean girl group Twice. The name TZUYU is derived from her given name, which means "knowing one's purpose" in Chinese. |
+| 11 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 12 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 15 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
+| 16 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 17 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 18 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 19 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
+| 20 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 21 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
+| 22 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 23 | [alam by sarahgxjroa](http://twitter.com/search?q=alam+by+sarahgxjroa) | N/A |
+| 24 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
+| 25 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
+| 26 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 27 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
+| 28 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 29 | [TWICE THE MOVIE](http://twitter.com/search?q=TWICE+THE+MOVIE) | N/A |
+| 30 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
+| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 32 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
+| 33 | [HWANDERFULYEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFULYEARS+WITH+JUNGHWAN) | N/A |
+| 34 | [First MV Teaser](http://twitter.com/search?q=First+MV+Teaser) | N/A |
+| 35 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
+| 36 | [bini sa cosmos 2023](http://twitter.com/search?q=bini+sa+cosmos+2023) | N/A |
+| 37 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 38 | [thank you mc hwasa](http://twitter.com/search?q=thank+you+mc+hwasa) | N/A |
+| 39 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
+| 40 | [Dear Dream](http://twitter.com/search?q=Dear+Dream) | N/A |
+| 41 | [RED HAIRED YOONGI](http://twitter.com/search?q=RED+HAIRED+YOONGI) | N/A |
+| 42 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 43 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
+| 44 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 45 | [FRANSETHXACE 30MULIYON NA](http://twitter.com/search?q=FRANSETHXACE+30MULIYON+NA) | N/A |
+| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 47 | [sundate with matt](http://twitter.com/search?q=sundate+with+matt) | N/A |
+| 48 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 49 | [Primo](http://twitter.com/search?q=Primo) | N/A |
 
 
 

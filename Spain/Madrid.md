@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-19 16:16:23 UTC`
+📆 Last Updated: `2023-02-19 17:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 2 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 3 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
-| 4 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 5 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
-| 6 | [Pape Gueye](http://twitter.com/search?q=Pape+Gueye) | N/A |
-| 7 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 8 | [#KingsLeagueJ7](http://twitter.com/search?q=%23KingsLeagueJ7) | N/A |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
-| 11 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 12 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 13 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 14 | [Fran Hernández](http://twitter.com/search?q=Fran+Hern%c3%a1ndez) | N/A |
-| 15 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 16 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 17 | [Machín](http://twitter.com/search?q=Mach%c3%adn) | N/A |
-| 18 | [Aitor](http://twitter.com/search?q=Aitor) | N/A |
-| 19 | [Sergi Gómez](http://twitter.com/search?q=Sergi+G%c3%b3mez) | N/A |
-| 20 | [Omar Fraile](http://twitter.com/search?q=Omar+Fraile) | N/A |
-| 21 | [Granada](http://twitter.com/search?q=Granada) | N/A |
-| 22 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 23 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
-| 24 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 25 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 26 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 27 | [Landoure](http://twitter.com/search?q=Landoure) | N/A |
-| 28 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
-| 29 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
-| 30 | [Vallecas](http://twitter.com/search?q=Vallecas) | N/A |
-| 31 | [Luis Campos](http://twitter.com/search?q=Luis+Campos) | N/A |
-| 32 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 33 | [#carnavalCEX](http://twitter.com/search?q=%23carnavalCEX) | N/A |
-| 34 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
-| 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 36 | [Minicopa](http://twitter.com/search?q=Minicopa) | N/A |
-| 37 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
-| 38 | [Puado](http://twitter.com/search?q=Puado) | Puado is a Spanish word that means "to jump" or "to leap". It is often used to describe a physical action, such as jumping over an obstacle or leaping into the air. |
-| 39 | [#TRIFORC3TOURNAMENT](http://twitter.com/search?q=%23TRIFORC3TOURNAMENT) | N/A |
-| 40 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 41 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
-| 42 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 43 | [Jaime Nava](http://twitter.com/search?q=Jaime+Nava) | N/A |
-| 44 | [Talavera](http://twitter.com/search?q=Talavera) | N/A |
-| 45 | [Depor](http://twitter.com/search?q=Depor) | N/A |
-| 46 | [Quique](http://twitter.com/search?q=Quique) | N/A |
-| 47 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 48 | [Simo](http://twitter.com/search?q=Simo) | N/A |
-| 49 | [Casado](http://twitter.com/search?q=Casado) | N/A |
-| 50 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 1 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 2 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 3 | [#KingsLeagueJ7](http://twitter.com/search?q=%23KingsLeagueJ7) | N/A |
+| 4 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 5 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
+| 6 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 7 | [Pape Gueye](http://twitter.com/search?q=Pape+Gueye) | N/A |
+| 8 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 9 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
+| 10 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
+| 11 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 12 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 13 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 14 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 15 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 16 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 17 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 18 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 19 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
+| 20 | [Fran Hernández](http://twitter.com/search?q=Fran+Hern%c3%a1ndez) | N/A |
+| 21 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 22 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 25 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 26 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 27 | [Aitor](http://twitter.com/search?q=Aitor) | N/A |
+| 28 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 29 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
+| 30 | [Machín](http://twitter.com/search?q=Mach%c3%adn) | N/A |
+| 31 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 32 | [Vallecas](http://twitter.com/search?q=Vallecas) | N/A |
+| 33 | [Catena](http://twitter.com/search?q=Catena) | N/A |
+| 34 | [Omar Fraile](http://twitter.com/search?q=Omar+Fraile) | N/A |
+| 35 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
+| 36 | [Julen](http://twitter.com/search?q=Julen) | N/A |
+| 37 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 38 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 39 | [#AtletiAthletic](http://twitter.com/search?q=%23AtletiAthletic) | N/A |
+| 40 | [Luis Campos](http://twitter.com/search?q=Luis+Campos) | N/A |
+| 41 | [Sergi Gómez](http://twitter.com/search?q=Sergi+G%c3%b3mez) | N/A |
+| 42 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 43 | [#carnavalCEX](http://twitter.com/search?q=%23carnavalCEX) | N/A |
+| 44 | [Landoure](http://twitter.com/search?q=Landoure) | N/A |
+| 45 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 47 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
+| 48 | [Unai](http://twitter.com/search?q=Unai) | N/A |
+| 49 | [Minicopa](http://twitter.com/search?q=Minicopa) | N/A |
+| 50 | [Puado](http://twitter.com/search?q=Puado) | Puado is a Spanish word that means "to jump" or "to leap". It is often used to describe a physical action, such as jumping over an obstacle or leaping into the air. |
 
 
 

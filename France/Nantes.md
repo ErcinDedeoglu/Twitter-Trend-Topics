@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-19 16:16:19 UTC`
+📆 Last Updated: `2023-02-19 17:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 2 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 5 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 8 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 9 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 10 | [#ESTACMHSC](http://twitter.com/search?q=%23ESTACMHSC) | N/A |
-| 11 | [#SB29ASM](http://twitter.com/search?q=%23SB29ASM) | N/A |
-| 12 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
-| 13 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 14 | [André Gomes](http://twitter.com/search?q=Andr%c3%a9+Gomes) | André Gomes is a Portuguese professional footballer who plays for Premier League club Everton and the Portugal national team. His name translates to "Andrew Gomes" in English. |
-| 15 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 16 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 18 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 19 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 20 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 21 | [Savanier](http://twitter.com/search?q=Savanier) | N/A |
-| 22 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 23 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
-| 24 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 25 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 26 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
-| 27 | [kyks](http://twitter.com/search?q=kyks) | N/A |
-| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 30 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 31 | [Saint Germain](http://twitter.com/search?q=Saint+Germain) | N/A |
-| 32 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
-| 33 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
-| 34 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
-| 35 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 36 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 3 | [#RCLFCN](http://twitter.com/search?q=%23RCLFCN) | N/A |
+| 4 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
+| 5 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 6 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 7 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 8 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 9 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 11 | [#LGBTQIASunshine](http://twitter.com/search?q=%23LGBTQIASunshine) | N/A |
+| 12 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 13 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 14 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 15 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 17 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 18 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
+| 19 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 20 | [Savanier](http://twitter.com/search?q=Savanier) | N/A |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 23 | [André Gomes](http://twitter.com/search?q=Andr%c3%a9+Gomes) | André Gomes is a Portuguese professional footballer who plays for Premier League club Everton and the Portugal national team. His name translates to "Andrew Gomes" in English. |
+| 24 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
+| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 26 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 27 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 28 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 29 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 30 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
+| 31 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 32 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
+| 33 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 34 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 35 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
+| 36 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 37 | [Majer](http://twitter.com/search?q=Majer) | Majer is a Yiddish word that means "bigger" or "greater." It is often used to describe something that is larger in size or greater in importance. |
-| 38 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 39 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
+| 38 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
+| 39 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
 | 40 | [Matsima](http://twitter.com/search?q=Matsima) | N/A |
-| 41 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 42 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
-| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 44 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 41 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
+| 42 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 43 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 44 | [Doué](http://twitter.com/search?q=Dou%c3%a9) | N/A |
 | 45 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 46 | [Étiquette](http://twitter.com/search?q=%c3%89tiquette) | N/A |
-| 47 | [90min](http://twitter.com/search?q=90min) | N/A |
-| 48 | [YOASOBI](http://twitter.com/search?q=YOASOBI) | N/A |
+| 46 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 47 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 48 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
 
 
 

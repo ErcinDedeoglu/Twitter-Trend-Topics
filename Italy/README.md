@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-19 16:16:56 UTC`
+📆 Last Updated: `2023-02-19 17:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [#SalernitanaLazio](http://twitter.com/search?q=%23SalernitanaLazio) | N/A |
-| 3 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 4 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 5 | [#FiorentinaEmpoli](http://twitter.com/search?q=%23FiorentinaEmpoli) | N/A |
-| 6 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 7 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 8 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 9 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
-| 10 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 11 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
-| 12 | [maddalena](http://twitter.com/search?q=maddalena) | N/A |
-| 13 | [Gigante](http://twitter.com/search?q=Gigante) | N/A |
-| 14 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
-| 15 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 16 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 2 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
+| 3 | [#SalernitanaLazio](http://twitter.com/search?q=%23SalernitanaLazio) | N/A |
+| 4 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 5 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 6 | [#Locatelli](http://twitter.com/search?q=%23Locatelli) | N/A |
+| 7 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 8 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 9 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 10 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
+| 11 | [Gigante](http://twitter.com/search?q=Gigante) | N/A |
+| 12 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 13 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 14 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 15 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
+| 16 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
 | 17 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 18 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 19 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 20 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 18 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 19 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 20 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
 | 21 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 22 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 23 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 24 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
+| 22 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 23 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 24 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
 | 25 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
 | 26 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 27 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 28 | [Vessicchio](http://twitter.com/search?q=Vessicchio) | N/A |
-| 29 | [Fini](http://twitter.com/search?q=Fini) | N/A |
-| 30 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 27 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 28 | [Fini](http://twitter.com/search?q=Fini) | N/A |
+| 29 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 30 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
 | 31 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
-| 32 | [Sangio](http://twitter.com/search?q=Sangio) | N/A |
-| 33 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 34 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 32 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
+| 33 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 35 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 36 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 37 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 38 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
-| 39 | [Damasco](http://twitter.com/search?q=Damasco) | N/A |
+| 36 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 37 | [Damasco](http://twitter.com/search?q=Damasco) | N/A |
+| 38 | [#FiorentinaEmpoli](http://twitter.com/search?q=%23FiorentinaEmpoli) | N/A |
+| 39 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
 | 40 | [#Immobile](http://twitter.com/search?q=%23Immobile) | N/A |
 | 41 | [#HanKergoodhearts](http://twitter.com/search?q=%23HanKergoodhearts) | N/A |
-| 42 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 43 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 44 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
-| 45 | [#ModenaGenoa](http://twitter.com/search?q=%23ModenaGenoa) | N/A |
-| 46 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
-| 47 | [#psglille](http://twitter.com/search?q=%23psglille) | N/A |
-| 48 | [#Messi](http://twitter.com/search?q=%23Messi) | N/A |
-| 49 | [#Vinatzer](http://twitter.com/search?q=%23Vinatzer) | N/A |
-| 50 | [#19febbraio](http://twitter.com/search?q=%2319febbraio) | N/A |
+| 42 | [#InghilterraItalia](http://twitter.com/search?q=%23InghilterraItalia) | N/A |
+| 43 | [#ModenaGenoa](http://twitter.com/search?q=%23ModenaGenoa) | N/A |
+| 44 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
+| 45 | [#RotterdamOpen](http://twitter.com/search?q=%23RotterdamOpen) | N/A |
+| 46 | [#Vinatzer](http://twitter.com/search?q=%23Vinatzer) | N/A |
+| 47 | [#atprotterdam](http://twitter.com/search?q=%23atprotterdam) | N/A |
+| 48 | [#19febbraio](http://twitter.com/search?q=%2319febbraio) | N/A |
+| 49 | [#abnamroopen](http://twitter.com/search?q=%23abnamroopen) | N/A |
+| 50 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
 
 
 

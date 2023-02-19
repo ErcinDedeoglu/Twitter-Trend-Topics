@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-19 16:16:08 UTC`
+📆 Last Updated: `2023-02-19 17:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ArnoldClarkCup](http://twitter.com/search?q=%23ArnoldClarkCup) | N/A |
-| 2 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 3 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 4 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 5 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
-| 6 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 7 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 8 | [COYS](http://twitter.com/search?q=COYS) | N/A |
-| 9 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 10 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 11 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
-| 12 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 15 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 16 | [#Lux2](http://twitter.com/search?q=%23Lux2) | N/A |
-| 17 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 18 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 19 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 20 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 21 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 22 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
-| 23 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
-| 24 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 25 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 26 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 28 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 29 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 30 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 32 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 33 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 34 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 38 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 39 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
-| 40 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 41 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 42 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 43 | [Rachel Daly](http://twitter.com/search?q=Rachel+Daly) | N/A |
-| 44 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 45 | [Mainoo](http://twitter.com/search?q=Mainoo) | Mainoo is a term used in the Indian state of Gujarat to refer to a person who is generous and kind-hearted. It is derived from the Gujarati word "manu", which means "generous". In English, it can be translated as "generous" or "kind-hearted". |
-| 46 | [Downes](http://twitter.com/search?q=Downes) | N/A |
-| 47 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 48 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 49 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 1 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
+| 2 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 3 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 4 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 5 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 6 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
+| 7 | [#15minutecities](http://twitter.com/search?q=%2315minutecities) | N/A |
+| 8 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 9 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
+| 10 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 11 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 12 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 14 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 16 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 17 | [#TOTWHU](http://twitter.com/search?q=%23TOTWHU) | N/A |
+| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 20 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 21 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 23 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 24 | [Rachel Daly](http://twitter.com/search?q=Rachel+Daly) | N/A |
+| 25 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
+| 26 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 27 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
+| 28 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 30 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 32 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 33 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 34 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 35 | [Downes](http://twitter.com/search?q=Downes) | N/A |
+| 36 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 37 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 38 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 39 | [Mainoo](http://twitter.com/search?q=Mainoo) | Mainoo is a term used in the Indian state of Gujarat to refer to a person who is generous and kind-hearted. It is derived from the Gujarati word "manu", which means "generous". In English, it can be translated as "generous" or "kind-hearted". |
+| 40 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 41 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 42 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 43 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 44 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 45 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 46 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 47 | [RIP Nicola](http://twitter.com/search?q=RIP+Nicola) | N/A |
+| 48 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 49 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
 
 
 

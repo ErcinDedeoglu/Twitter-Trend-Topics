@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-02-19 16:16:27 UTC`
+📆 Last Updated: `2023-02-19 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nhkらじらー](http://twitter.com/search?q=%23nhk%e3%82%89%e3%81%98%e3%82%89%e3%83%bc) | #NHKラジー is a hashtag used on Twitter to refer to NHK Radio, the radio station of Japan's public broadcaster, NHK. The hashtag is used to share news and information about the station's programming. In English, it translates to "NHK Radio". |
-| 2 | [カブトムシ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%a0%e3%82%b7) | カブトムシ is the Japanese word for the beetle known as the rhinoceros beetle. In English, it is sometimes referred to as a horned beetle or a Hercules beetle. |
-| 3 | [#みんなのウェディングドレス見せて](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e3%82%a6%e3%82%a7%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%89%e3%83%ac%e3%82%b9%e8%a6%8b%e3%81%9b%e3%81%a6) | N/A |
-| 4 | [ディレイ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ac%e3%82%a4) | ディレイ is a Japanese word that means "delay". It is used to refer to a period of time in which something is postponed or delayed. |
-| 5 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
-| 6 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
-| 7 | [エビフライ](http://twitter.com/search?q=%e3%82%a8%e3%83%93%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
-| 8 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
-| 9 | [#魂のラジオ](http://twitter.com/search?q=%23%e9%ad%82%e3%81%ae%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 10 | [Wセンター](http://twitter.com/search?q=W%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 11 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
-| 12 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
-| 13 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
-| 14 | [選抜入り](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e5%85%a5%e3%82%8a) | N/A |
+| 1 | [カンスト](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
+| 2 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
+| 3 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
+| 4 | [アフタヌーンティー](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%8c%e3%83%bc%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 5 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
+| 6 | [#魂のラジオ](http://twitter.com/search?q=%23%e9%ad%82%e3%81%ae%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
+| 7 | [Wセンター](http://twitter.com/search?q=W%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 8 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
+| 9 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
+| 10 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
+| 11 | [#日向坂で会いましょう](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%82%e3%81%a7%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86) | #日向坂で会いましょう is a Japanese phrase that translates to "Let's meet at Hinatazaka". It is a reference to the popular Japanese idol group Hinatazaka46. |
+| 12 | [#情熱大陸](http://twitter.com/search?q=%23%e6%83%85%e7%86%b1%e5%a4%a7%e9%99%b8) | N/A |
+| 13 | [選抜入り](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e5%85%a5%e3%82%8a) | N/A |
+| 14 | [第395回](http://twitter.com/search?q=%e7%ac%ac395%e5%9b%9e) | N/A |
 | 15 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
-| 16 | [五百城ちゃん](http://twitter.com/search?q=%e4%ba%94%e7%99%be%e5%9f%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 17 | [りかちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 18 | [璃果ちゃん](http://twitter.com/search?q=%e7%92%83%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [常闇くん](http://twitter.com/search?q=%e5%b8%b8%e9%97%87%e3%81%8f%e3%82%93) | N/A |
-| 20 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 21 | [第395回](http://twitter.com/search?q=%e7%ac%ac395%e5%9b%9e) | N/A |
+| 16 | [常闇くん](http://twitter.com/search?q=%e5%b8%b8%e9%97%87%e3%81%8f%e3%82%93) | N/A |
+| 17 | [璃果ちゃん](http://twitter.com/search?q=%e7%92%83%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 18 | [りかちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 19 | [五百城ちゃん](http://twitter.com/search?q=%e4%ba%94%e7%99%be%e5%9f%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [ヒロアカ本誌](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%ac%e8%aa%8c) | N/A |
+| 21 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
 | 22 | [ラッシュフォード](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | ラッシュフォード (Rashford) is the surname of English professional footballer Marcus Rashford. He currently plays for Manchester United and the England national team. The name is derived from an Old English word meaning "from the rushes" or "from the marshland". |
 | 23 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 24 | [大河女優](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%a5%b3%e5%84%aa) | N/A |
-| 25 | [バイバイク](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e3%82%af) | N/A |
-| 26 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 27 | [ヒロアカ本誌](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%ac%e8%aa%8c) | N/A |
+| 24 | [バイバイク](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e3%82%af) | N/A |
+| 25 | [美佑ちゃん](http://twitter.com/search?q=%e7%be%8e%e4%bd%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 26 | [大河女優](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%a5%b3%e5%84%aa) | N/A |
+| 27 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
 | 28 | [ダブセン](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%82%bb%e3%83%b3) | N/A |
-| 29 | [美佑ちゃん](http://twitter.com/search?q=%e7%be%8e%e4%bd%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 29 | [バッファローマン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
 | 30 | [松尾ちゃん](http://twitter.com/search?q=%e6%9d%be%e5%b0%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [アイドルアニメ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%82%a2%e3%83%8b%e3%83%a1) | アイドルアニメ (idol anime) is a type of anime that focuses on characters who are idols, or performers in the entertainment industry. These characters often have singing and dancing performances, and their stories usually revolve around their journey to becoming successful idols. In English, it is sometimes referred to as "idol anime". |
-| 32 | [ハジマリノウタ](http://twitter.com/search?q=%e3%83%8f%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%a6%e3%82%bf) | N/A |
-| 33 | [大童貞祭](http://twitter.com/search?q=%e5%a4%a7%e7%ab%a5%e8%b2%9e%e7%a5%ad) | N/A |
-| 34 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
-| 35 | [ベランダ事件](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%b3%e3%83%80%e4%ba%8b%e4%bb%b6) | N/A |
-| 36 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
-| 37 | [パズドラ11周年](http://twitter.com/search?q=%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
-| 38 | [メイヌー](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%8c%e3%83%bc) | N/A |
-| 39 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 40 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
-| 41 | [バッファローマン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 42 | [荘ちゃん](http://twitter.com/search?q=%e8%8d%98%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [リンデロフ](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%87%e3%83%ad%e3%83%95) | N/A |
-| 44 | [和ちゃん](http://twitter.com/search?q=%e5%92%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [ラブラバ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%83%90) | ラブラバ is a Japanese phrase that translates to "love love". It is often used as an expression of affection or endearment. |
-| 46 | [レスター](http://twitter.com/search?q=%e3%83%ac%e3%82%b9%e3%82%bf%e3%83%bc) | レスター (Resutā) is a Japanese surname. It is derived from the English surname "Lester". The meaning of the name in English is "fortified town". |
-| 47 | [いおちゃん](http://twitter.com/search?q=%e3%81%84%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [Take Me Higher](http://twitter.com/search?q=Take+Me+Higher) | N/A |
-| 49 | [宝石言葉](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e8%a8%80%e8%91%89) | N/A |
-| 50 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
+| 31 | [パズドラ11周年](http://twitter.com/search?q=%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
+| 32 | [ヤンマガ](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e3%82%ac) | N/A |
+| 33 | [未来の答え](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
+| 34 | [選抜落ち](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e8%90%bd%e3%81%a1) | N/A |
+| 35 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
+| 36 | [ハジマリノウタ](http://twitter.com/search?q=%e3%83%8f%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%a6%e3%82%bf) | N/A |
+| 37 | [アイドルアニメ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%82%a2%e3%83%8b%e3%83%a1) | アイドルアニメ (idol anime) is a type of anime that focuses on characters who are idols, or performers in the entertainment industry. These characters often have singing and dancing performances, and their stories usually revolve around their journey to becoming successful idols. In English, it is sometimes referred to as "idol anime". |
+| 38 | [大童貞祭](http://twitter.com/search?q=%e5%a4%a7%e7%ab%a5%e8%b2%9e%e7%a5%ad) | N/A |
+| 39 | [メイヌー](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%8c%e3%83%bc) | N/A |
+| 40 | [荘ちゃん](http://twitter.com/search?q=%e8%8d%98%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
+| 42 | [ベランダ事件](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%b3%e3%83%80%e4%ba%8b%e4%bb%b6) | N/A |
+| 43 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
+| 44 | [ラブラバ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%83%90) | ラブラバ is a Japanese phrase that translates to "love love". It is often used as an expression of affection or endearment. |
+| 45 | [リンデロフ](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%87%e3%83%ad%e3%83%95) | N/A |
+| 46 | [スペースおつこれ](http://twitter.com/search?q=%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9%e3%81%8a%e3%81%a4%e3%81%93%e3%82%8c) | N/A |
+| 47 | [和ちゃん](http://twitter.com/search?q=%e5%92%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 49 | [ヤニねこ](http://twitter.com/search?q=%e3%83%a4%e3%83%8b%e3%81%ad%e3%81%93) | N/A |
+| 50 | [Take Me Higher](http://twitter.com/search?q=Take+Me+Higher) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-19 16:16:58 UTC`
+📆 Last Updated: `2023-02-19 17:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Nigeria
 | 3 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 4 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 5 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 6 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 8 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 9 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 10 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 11 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 12 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 13 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 14 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 15 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 16 | [Werghost](http://twitter.com/search?q=Werghost) | N/A |
-| 17 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 18 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 19 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 20 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 21 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 22 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 23 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 24 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 25 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 26 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 27 | [#Nigeriadecide2023](http://twitter.com/search?q=%23Nigeriadecide2023) | N/A |
-| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 29 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 30 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
-| 31 | [Range Rover](http://twitter.com/search?q=Range+Rover) | N/A |
-| 32 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 33 | [PHYNATION LOVES PHYNA](http://twitter.com/search?q=PHYNATION+LOVES+PHYNA) | N/A |
-| 34 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 35 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
-| 36 | [LETTER TO PHYNA](http://twitter.com/search?q=LETTER+TO+PHYNA) | N/A |
-| 37 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
-| 38 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
-| 39 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 40 | [Bishop David Oyedepo](http://twitter.com/search?q=Bishop+David+Oyedepo) | N/A |
-| 41 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
-| 42 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 43 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
-| 44 | [Pounded](http://twitter.com/search?q=Pounded) | N/A |
-| 45 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 46 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 47 | [Oshimen](http://twitter.com/search?q=Oshimen) | Oshimen is a Japanese term used to describe a person's favorite member of an idol group. It is derived from the words "oshi" (推し) meaning "push" or "support", and "men" (面) meaning "face". In English, it can be translated as "favorite idol". |
-| 48 | [Even NTA](http://twitter.com/search?q=Even+NTA) | N/A |
-| 49 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
-| 50 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 9 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 11 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 12 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 14 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 17 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 18 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 19 | [Werghost](http://twitter.com/search?q=Werghost) | N/A |
+| 20 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 21 | [#KATO](http://twitter.com/search?q=%23KATO) | N/A |
+| 22 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 23 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 24 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 25 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 26 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 27 | [#PastorKumuyiSaid](http://twitter.com/search?q=%23PastorKumuyiSaid) | N/A |
+| 28 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
+| 31 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
+| 32 | [PHYNATION LOVES PHYNA](http://twitter.com/search?q=PHYNATION+LOVES+PHYNA) | N/A |
+| 33 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
+| 34 | [Tattoos - 0](http://twitter.com/search?q=Tattoos+-+0) | N/A |
+| 35 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 36 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
+| 37 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 38 | [LETTER TO PHYNA](http://twitter.com/search?q=LETTER+TO+PHYNA) | N/A |
+| 39 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 40 | [Oshimen](http://twitter.com/search?q=Oshimen) | Oshimen is a Japanese term used to describe a person's favorite member of an idol group. It is derived from the words "oshi" (推し) meaning "push" or "support", and "men" (面) meaning "face". In English, it can be translated as "favorite idol". |
+| 41 | [Range Rover](http://twitter.com/search?q=Range+Rover) | N/A |
+| 42 | [Pounded](http://twitter.com/search?q=Pounded) | N/A |
+| 43 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 44 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
+| 45 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 46 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
+| 47 | [Even NTA](http://twitter.com/search?q=Even+NTA) | N/A |
+| 48 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 49 | [SERAP](http://twitter.com/search?q=SERAP) | N/A |
+| 50 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
 
 
 
